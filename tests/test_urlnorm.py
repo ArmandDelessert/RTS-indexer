@@ -54,6 +54,11 @@ def test_formes_canoniques(raw, expected):
         'https://www.rts.ch/"http://www.rts.ch/2012/02/20/09/34/3466944.image?w=100"',
         "https://www.rts.ch/%22http://www.rts.ch/x.html",
         "https://www.rts.ch/info/ suisse/",
+        # Boutons de partage social : le `&` non échappé après l'URL avale la
+        # suite (`title=...`, `text=...`) et doit être rejeté sans ambiguïté,
+        # rts.ch n'utilisant jamais `&` dans un chemin.
+        "https://www.rts.ch/education/l-ecole/&amp;title=L%27%C3%A9cole/",
+        "https://www.rts.ch/info/suisse/&text=un+article/",
         # Schémas non pertinents.
         "mailto:info@rts.ch",
         "javascript:void(0)",
@@ -63,6 +68,15 @@ def test_formes_canoniques(raw, expected):
 )
 def test_rejets(raw):
     assert normalize(raw) is None
+
+
+def test_url_absurdement_longue_rejetee():
+    """Incident réel : un candidat de plusieurs centaines de caractères (page
+    Play au slug de phrase entière) a fini par faire planter tout un crawl
+    faute d'être filtré avant d'atteindre le mapping disque. Rejeter tôt les
+    candidats déraisonnablement longs coûte moins cher que de les traiter."""
+    trop_long = "https://www.rts.ch/play/tv/x/" + ("mot-" * 600) + "/"
+    assert normalize(trop_long) is None
 
 
 def test_resolution_relative_pendant_le_crawl():

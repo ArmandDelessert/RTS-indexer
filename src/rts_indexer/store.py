@@ -26,17 +26,9 @@ from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from pathlib import Path
 
-from . import config, pathmap
+from . import config, fsutil, pathmap
 
 log = logging.getLogger(__name__)
-
-
-class CollisionError(RuntimeError):
-    """Deux URLs distinctes visent le même dossier sur disque.
-
-    NTFS étant insensible à la casse, laisser passer ce cas fusionnerait
-    silencieusement deux rubriques. On échoue plutôt que d'écrire un index faux.
-    """
 
 
 @dataclass
@@ -71,8 +63,21 @@ class Store:
 
         ``dead`` à ``None`` laisse le statut existant inchangé, ce qui permet à
         une source de réaffirmer une URL sans écraser le verdict de ``verify``.
+
+        Une URL individuelle dont le chemin projeté dépasse
+        :data:`config.MAX_REL_PATH_LEN` est journalisée puis ignorée plutôt que
+        de faire échouer l'appelant : lors d'un crawl de plusieurs centaines de
+        pages, perdre tout le travail déjà accompli pour une seule page Play au
+        slug démesuré (URLs de type ``play/tv/.../<slug-phrase-entiere>/``,
+        sans borne de longueur connue) coûte bien plus cher que d'ignorer cette
+        page et de continuer.
         """
-        relpath, leaf, case_changed = pathmap.url_to_location(url)
+        try:
+            relpath, leaf, case_changed = pathmap.url_to_location(url)
+        except pathmap.PathMappingError as exc:
+            self.anomalies.add(("trop_long", url, str(exc)))
+            log.warning("URL ignorée (%s): %s", exc, url)
+            return False
 
         if case_changed:
             self.anomalies.add(("majuscule", url, relpath))
@@ -83,10 +88,14 @@ class Store:
         source = url.rstrip("/") if leaf is None else url.rsplit("/", 1)[0]
         previous = self._dir_source.setdefault(relpath, source)
         if previous != source:
+            # NTFS étant insensible à la casse, laisser passer fusionnerait
+            # silencieusement deux rubriques distinctes. On journalise et on
+            # ignore plutôt que de faire échouer tout un run pour cette seule
+            # URL : un crawl de plusieurs centaines de pages ne doit jamais
+            # perdre son travail pour un cas qui se compte à l'unité.
             self.anomalies.add(("collision", url, f"{previous} vs {source}"))
-            raise CollisionError(
-                f"{relpath!r} est visé par deux URLs distinctes: {previous} et {source}"
-            )
+            log.warning("collision ignorée: %r et %r visent %r", previous, source, relpath)
+            return False
 
         entry = self.dirs.setdefault(relpath, DirIndex())
         if leaf is None:
@@ -106,13 +115,24 @@ class Store:
     # -- chargement ----------------------------------------------------------
 
     def load(self) -> Store:
-        """Relit l'arborescence existante. Sans effet si ``/data`` est absent."""
+        """Relit l'arborescence existante. Sans effet si ``/data`` est absent.
+
+        Un fichier isolé illisible (verrou transitoire déjà épuisé, encodage
+        corrompu par une écriture interrompue) est journalisé et ignoré plutôt
+        que de faire échouer la relecture de tout le dépôt : un seul dossier
+        abîmé ne doit pas rendre l'index entier inexploitable.
+        """
         if not self.data_dir.is_dir():
             return self
         for path in sorted(self.data_dir.rglob(f"{config.INDEX_BASENAME}*{config.INDEX_SUFFIX}")):
             relpath = path.parent.relative_to(self.data_dir).as_posix()
+            try:
+                content = fsutil.read_text(path)
+            except (PermissionError, UnicodeDecodeError) as exc:
+                log.warning("%s illisible (%s), dossier ignoré", path, exc)
+                continue
             entry = self.dirs.setdefault(relpath, DirIndex())
-            for line in path.read_text(encoding="utf-8").splitlines():
+            for line in content.splitlines():
                 line = line.strip()
                 if not line:
                     continue
@@ -137,7 +157,12 @@ class Store:
         path = self.data_dir / config.ANOMALIES_FILE
         if not path.is_file():
             return
-        for line in path.read_text(encoding="utf-8").splitlines()[1:]:
+        try:
+            content = fsutil.read_text(path)
+        except (PermissionError, UnicodeDecodeError) as exc:
+            log.warning("%s illisible (%s), journal d'anomalies ignoré", path, exc)
+            return
+        for line in content.splitlines()[1:]:
             fields = line.split("\t")
             if len(fields) != 3:
                 continue
@@ -184,7 +209,7 @@ class Store:
         # Purge des index précédents : le sharding peut apparaître ou disparaître
         # d'un run à l'autre, on ne veut pas de fichier orphelin.
         for stale in directory.glob(f"{config.INDEX_BASENAME}*{config.INDEX_SUFFIX}"):
-            stale.unlink()
+            fsutil.unlink(stale)
 
         written = set()
         for infix, lines in files.items():
@@ -198,15 +223,15 @@ class Store:
         pattern = f"{config.INDEX_BASENAME}*{config.INDEX_SUFFIX}"
         for path in self.data_dir.rglob(pattern):
             if path not in written:
-                path.unlink()
+                fsutil.unlink(path)
         for directory in sorted(self.data_dir.rglob("*"), key=lambda p: -len(p.parts)):
             if directory.is_dir() and not any(directory.iterdir()):
-                directory.rmdir()
+                fsutil.rmdir(directory)
 
     def _write_anomalies(self) -> None:
         path = self.data_dir / config.ANOMALIES_FILE
         if not self.anomalies:
-            path.unlink(missing_ok=True)
+            fsutil.unlink(path)
             return
         rows = ["type\turl\tdetail"]
         rows += ["\t".join(row) for row in sorted(self.anomalies)]
@@ -220,11 +245,7 @@ class Store:
             "par_hote": self._counts_by_host(),
         }
         path = self.data_dir / config.STATS_FILE
-        path.write_text(
-            json.dumps(payload, indent=2, ensure_ascii=False, sort_keys=True) + "\n",
-            encoding="utf-8",
-            newline="\n",
-        )
+        fsutil.write_text(path, json.dumps(payload, indent=2, ensure_ascii=False, sort_keys=True) + "\n")
         return stats
 
     # -- statistiques --------------------------------------------------------
@@ -263,4 +284,4 @@ def _render(slug: str, entry: DirIndex) -> str:
 def _write_lines(path: Path, lines: list[str]) -> None:
     """Écrit en LF explicite : sous Windows le mode texte produirait du CRLF et
     ferait diverger le dépôt à chaque run."""
-    path.write_text("\n".join(lines) + "\n" if lines else "", encoding="utf-8", newline="\n")
+    fsutil.write_text(path, "\n".join(lines) + "\n" if lines else "")

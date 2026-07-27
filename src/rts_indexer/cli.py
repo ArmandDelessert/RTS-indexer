@@ -57,12 +57,20 @@ def cmd_crawl(args: argparse.Namespace) -> int:
         return 1
     print(f"{len(seeds)} rubriques en graine, budget {args.max_pages} pages")
 
-    crawler = crawl_source.crawl(
-        store,
-        seeds,
-        max_pages=args.max_pages,
-        include_articles=args.include_articles,
-    )
+    try:
+        crawler = crawl_source.crawl(
+            store,
+            seeds,
+            max_pages=args.max_pages,
+            include_articles=args.include_articles,
+        )
+    except (Exception, KeyboardInterrupt):
+        # Une erreur imprévue ou une interruption manuelle (Ctrl+C) ne doit pas
+        # faire perdre les pages déjà découvertes : on écrit ce qui a été
+        # accumulé avant de propager.
+        logging.exception("le crawl s'est interrompu, écriture des URLs déjà découvertes")
+        _report(store.write())
+        raise
     print(
         f"{crawler.fetched} pages visitées "
         f"({crawler.from_cache} inchangées), {crawler.discovered} URLs nouvelles"

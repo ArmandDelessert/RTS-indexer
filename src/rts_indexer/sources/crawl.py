@@ -24,7 +24,7 @@ from pathlib import Path
 import httpx
 from lxml import html as lxml_html
 
-from .. import config, net, robots, urlnorm
+from .. import config, fsutil, net, robots, urlnorm
 from ..store import Store
 
 log = logging.getLogger(__name__)
@@ -33,7 +33,10 @@ CACHE_FILE = "crawl.json"
 
 #: Filet de rattrapage : certains liens d'article ne vivent pas dans un `a/@href`
 #: mais dans un bloc JSON-LD. Un balayage brut du document les récupère.
-_RAW_URL = re.compile(r"""https?://(?:www\.)?rts\.ch/[^"'\s<>\\)]+""")
+#: `&` est exclu : rts.ch n'en met jamais dans un chemin, alors que les liens
+#: de partage social (``sharer.php?u=<url>&amp;title=...``) le suivent d'assez
+#: près pour que sans cette exclusion tout le texte du bouton soit avalé.
+_RAW_URL = re.compile(r"""https?://(?:www\.)?rts\.ch/[^"'\s<>\\)&]+""")
 
 
 class RateLimiter:
@@ -96,17 +99,21 @@ class Crawler:
     # -- cache ---------------------------------------------------------------
 
     def load_cache(self) -> None:
-        if self.cache_path.is_file():
-            self.cache = json.loads(self.cache_path.read_text(encoding="utf-8"))
-            log.info("cache: %d pages connues", len(self.cache))
+        """Charge le cache ETag. Un cache corrompu (écriture interrompue par un
+        crash précédent) ne doit pas bloquer *tous* les runs suivants : on
+        repart d'un cache vide plutôt que de faire planter l'outil pour de bon."""
+        if not self.cache_path.is_file():
+            return
+        try:
+            self.cache = json.loads(fsutil.read_text(self.cache_path))
+        except (PermissionError, UnicodeDecodeError, json.JSONDecodeError) as exc:
+            log.warning("%s illisible (%s), cache repris à vide", self.cache_path, exc)
+            return
+        log.info("cache: %d pages connues", len(self.cache))
 
     def save_cache(self) -> None:
         self.cache_path.parent.mkdir(parents=True, exist_ok=True)
-        self.cache_path.write_text(
-            json.dumps(self.cache, ensure_ascii=False, sort_keys=True),
-            encoding="utf-8",
-            newline="\n",
-        )
+        fsutil.write_text(self.cache_path, json.dumps(self.cache, ensure_ascii=False, sort_keys=True))
 
     # -- politesse -----------------------------------------------------------
 
@@ -165,6 +172,16 @@ class Crawler:
             return
 
         self.fetched += 1
+        try:
+            self._process(url, entry, response)
+        except Exception:
+            # Une page ne doit jamais faire échouer tout le crawl : ce run doit
+            # pouvoir tourner sans surveillance pendant des heures. C'est
+            # exactement la classe de bug qui a fait perdre un crawl entier
+            # (350 pages, ~13'600 URLs) sur une seule page au slug démesuré.
+            log.exception("erreur inattendue en traitant %s, page ignorée", url)
+
+    def _process(self, url: str, entry: dict, response: httpx.Response) -> None:
         if response.status_code == 304:
             # Page inchangée : on rejoue les liens mémorisés, sans re-parser.
             self.from_cache += 1
@@ -198,22 +215,27 @@ class Crawler:
                 self.rules.setdefault(host, robots.fetch(host))
         self._record(seeds)
         limiter = RateLimiter(config.CRAWL_MIN_INTERVAL)
-        async with httpx.AsyncClient(
-            headers=net.DEFAULT_HEADERS,
-            timeout=config.REQUEST_TIMEOUT,
-            follow_redirects=True,
-            transport=self.transport,
-        ) as http:
-            workers = [
-                asyncio.create_task(self._worker(http, limiter))
-                for _ in range(config.MAX_CONCURRENCY)
-            ]
-            try:
-                await asyncio.gather(*workers)
-            finally:
-                for worker in workers:
-                    worker.cancel()
-        self.save_cache()
+        try:
+            async with httpx.AsyncClient(
+                headers=net.DEFAULT_HEADERS,
+                timeout=config.REQUEST_TIMEOUT,
+                follow_redirects=True,
+                transport=self.transport,
+            ) as http:
+                workers = [
+                    asyncio.create_task(self._worker(http, limiter))
+                    for _ in range(config.MAX_CONCURRENCY)
+                ]
+                try:
+                    await asyncio.gather(*workers)
+                finally:
+                    for worker in workers:
+                        worker.cancel()
+        finally:
+            # Le cache ETag doit survivre même à un imprévu : c'est lui qui
+            # évite de re-télécharger tout ce qui a déjà été visité au
+            # prochain run.
+            self.save_cache()
 
 
 def crawl(store: Store, seeds: list[str], **kwargs) -> Crawler:

@@ -5,7 +5,7 @@ import json
 import pytest
 
 from rts_indexer import config
-from rts_indexer.store import CollisionError, Store
+from rts_indexer.store import Store
 
 RUBRIQUE = "https://www.rts.ch/info/suisse/"
 ARTICLE = "https://www.rts.ch/info/suisse/2026/article/la-suisse-29312521.html"
@@ -131,11 +131,39 @@ def test_purge_des_dossiers_disparus(tmp_path):
     assert not (tmp_path / "www.rts.ch/obsolete").exists()
 
 
-def test_collision_de_casse_detectee(tmp_path):
+def test_url_trop_longue_ignoree_sans_faire_echouer_le_run(tmp_path):
+    """Incident réel : une page Play au slug de plusieurs centaines de
+    caractères (``play/tv/19h30/video/<slug-phrase-entiere>/``) a fait planter
+    un crawl de 350 pages, perdant tout le travail déjà accompli faute d'être
+    rattrapée. add() doit désormais journaliser et continuer."""
+    trop_longue = "https://www.rts.ch/play/tv/19h30/video/" + ("mot-" * 70) + "/"
+
+    store = Store(tmp_path)
+    store.add(RUBRIQUE)
+    ajoutee = store.add(trop_longue)
+    assert ajoutee is False
+
+    stats = store.write()
+    assert stats["urls"] == 1  # seule RUBRIQUE a survécu
+    assert dict(Store(tmp_path).load().urls()) == {RUBRIQUE: False}
+
+    lignes = (tmp_path / config.ANOMALIES_FILE).read_text(encoding="utf-8").splitlines()
+    assert any(l.startswith("trop_long\t" + trop_longue) for l in lignes)
+
+
+def test_collision_de_casse_journalisee_et_ignoree(tmp_path):
+    """Une collision doit être signalée mais ne doit plus faire échouer le run
+    en cours : sur un crawl de longue durée, perdre tout le travail pour un cas
+    qui se compte à l'unité coûte bien plus cher que de l'ignorer."""
     store = Store(tmp_path)
     store.add("https://www.rts.ch/Info/x.html")
-    with pytest.raises(CollisionError, match="deux URLs distinctes"):
-        store.add("https://www.rts.ch/info/y.html")
+    ajoutee = store.add("https://www.rts.ch/info/y.html")
+    assert ajoutee is False
+
+    stats = store.write()
+    assert stats["urls"] == 1  # seule la première URL a été indexée
+    lignes = (tmp_path / config.ANOMALIES_FILE).read_text(encoding="utf-8").splitlines()
+    assert any(l.startswith("collision\thttps://www.rts.ch/info/y.html\t") for l in lignes)
 
 
 def test_majuscule_consignee_dans_les_anomalies(tmp_path):
@@ -150,8 +178,33 @@ def test_majuscule_consignee_dans_les_anomalies(tmp_path):
     # L'anomalie survit au rechargement, ce qui permet de détecter la collision
     # d'un run à l'autre alors que le disque a perdu la casse d'origine.
     relu = Store(tmp_path).load()
-    with pytest.raises(CollisionError):
-        relu.add("https://www.rts.ch/info/y.html")
+    assert relu.add("https://www.rts.ch/info/y.html") is False
+
+
+def test_fichier_index_corrompu_n_empeche_pas_le_chargement(tmp_path):
+    """Un fichier abîmé (écriture interrompue, encodage invalide) ne doit pas
+    rendre tout le dépôt inexploitable."""
+    store = Store(tmp_path)
+    store.add(ARTICLE)
+    store.add(AUTRE)
+    store.write()
+
+    corrompu = tmp_path / DOSSIER / "_index.txt"
+    corrompu.write_bytes(b"\xff\xfe\x00\xff invalide")
+
+    relu = Store(tmp_path).load()
+    assert dict(relu.urls()) == {}  # le dossier abîmé est ignoré, pas planté
+
+
+def test_anomalies_corrompues_n_empechent_pas_le_chargement(tmp_path):
+    store = Store(tmp_path)
+    store.add(ARTICLE)
+    store.write()
+
+    (tmp_path / config.ANOMALIES_FILE).write_bytes(b"\xff\xfe garbage")
+
+    relu = Store(tmp_path).load()
+    assert dict(relu.urls()) == {ARTICLE: False}
 
 
 def test_stats(tmp_path):

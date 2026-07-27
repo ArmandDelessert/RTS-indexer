@@ -19,8 +19,11 @@ from urllib.parse import unquote, urljoin, urlsplit
 from . import config
 
 #: Caractères qui ne doivent jamais apparaître dans un chemin, une fois celui-ci
-#: entièrement décodé. Attrape notamment les artefacts CDX ``%22http://...``.
-_ILLEGAL_IN_PATH = re.compile(r"""[\s<>"'\\{}|^\[\]`]""")
+#: entièrement décodé. Attrape notamment les artefacts CDX ``%22http://...`` et
+#: les liens de partage social collés à la suite d'une URL rts.ch
+#: (``.../l-ecole/&amp;title=...``) : rts.ch n'utilise jamais ``&`` dans un
+#: chemin, c'est donc sans ambiguïté un artefact d'extraction.
+_ILLEGAL_IN_PATH = re.compile(r"""[\s<>"'\\{}|^\[\]`&]""")
 
 #: Caractères « non réservés » au sens de la RFC 3986 : leur encodage percent est
 #: superflu et doit être défait pour que deux écritures d'une même URL se
@@ -28,6 +31,13 @@ _ILLEGAL_IN_PATH = re.compile(r"""[\s<>"'\\{}|^\[\]`]""")
 _UNRESERVED = frozenset(string.ascii_letters + string.digits + "-._~")
 
 _PCT = re.compile(r"%([0-9A-Fa-f]{2})")
+
+#: Aucune page rts.ch légitime n'approche cette longueur (les navigateurs et la
+#: plupart des serveurs plafonnent déjà autour de 2000-8000 caractères) ; un
+#: candidat plus long est un artefact d'extraction (bloc JS minifié, texte
+#: collé sans séparateur...). Rejeter tôt évite de faire tourner le reste de la
+#: normalisation sur des chaînes de plusieurs kilo-octets pour rien.
+_MAX_RAW_LEN = 2048
 
 
 def _decode_unreserved(path: str) -> str:
@@ -83,6 +93,8 @@ def normalize(raw: str, base: str | None = None) -> str | None:
         return None
     raw = raw.strip()
     if not raw or raw.startswith(("mailto:", "javascript:", "tel:", "#")):
+        return None
+    if len(raw) > _MAX_RAW_LEN:
         return None
 
     if base:

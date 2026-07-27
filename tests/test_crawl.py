@@ -65,6 +65,18 @@ def test_extraction_des_liens():
     assert "https://www.rts.ch/info/suisse/2026/article/via-jsonld-3.html" in urls
 
 
+def test_extraction_ecarte_les_liens_de_partage_social():
+    """Un bouton de partage (``sharer.php?u=<url>&amp;title=...``) ne doit pas
+    faire capturer `&amp;title=...` à la suite de l'URL réelle."""
+    html = (
+        '<a href="https://www.facebook.com/sharer/sharer.php?u='
+        'https://www.rts.ch/education/monde-et-societe/culture-et-sport/l-ecole/'
+        '&amp;title=L%27%C3%A9cole">partager</a>'
+    )
+    urls = _extract("https://www.rts.ch/", html)
+    assert urls == ["https://www.rts.ch/education/monde-et-societe/culture-et-sport/l-ecole/"]
+
+
 def test_extraction_ecarte_le_hors_perimetre():
     urls = _extract("https://www.rts.ch/", PAGES["/"])
     assert urls == ["https://www.rts.ch/info/suisse/", "https://www.rts.ch/info/culture/"]
@@ -103,6 +115,31 @@ def test_seules_les_rubriques_sont_telechargees(tmp_path):
     assert not any(path.endswith(".html") for path in visites)
 
 
+def test_une_url_trop_longue_ne_fait_pas_echouer_le_crawl(tmp_path):
+    """Incident réel : une page Play au slug démesuré faisait planter
+    `asyncio.gather` et perdre tout le crawl, faute d'être rattrapée jusqu'à
+    `store.add()`. Elle doit maintenant être ignorée sans arrêter le parcours."""
+    import asyncio
+
+    pages = dict(PAGES)
+    pages["/info/suisse/"] += (
+        '<a href="/play/tv/19h30/video/' + ("mot-" * 70) + '/">longue</a>'
+    )
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        body = pages.get(request.url.path)
+        if body is None:
+            return httpx.Response(404)
+        return httpx.Response(200, html=body, headers={"ETag": f'"{request.url.path}"'})
+
+    crawler = _crawler(tmp_path, transport=httpx.MockTransport(handler))
+    asyncio.run(crawler.run(["https://www.rts.ch/"]))
+
+    urls = {url for url, _ in crawler.store.urls()}
+    assert "https://www.rts.ch/info/suisse/2026/article/premier-1.html" in urls
+    assert not any("mot-mot-mot" in url for url in urls)
+
+
 def test_robots_respecte(tmp_path):
     """`/*/page/` est interdit : la pagination n'est jamais téléchargée."""
     import asyncio
@@ -119,6 +156,51 @@ def test_budget_de_pages_respecte(tmp_path):
     crawler = _crawler(tmp_path, max_pages=1)
     asyncio.run(crawler.run(["https://www.rts.ch/"]))
     assert crawler.fetched <= config.MAX_CONCURRENCY  # une passe par worker au plus
+
+
+def test_page_qui_plante_n_interrompt_pas_le_crawl(tmp_path, monkeypatch):
+    """Incident réel : une exception inattendue pendant le traitement d'une
+    page (post-téléchargement) tuait tout `asyncio.gather`, perdant un crawl de
+    350 pages. Une page en erreur doit désormais être ignorée, pas fatale."""
+    import asyncio
+
+    from rts_indexer.sources import crawl as crawl_module
+
+    original = crawl_module._extract
+
+    def extraction_qui_plante(url, document):
+        if url.endswith("/info/culture/"):
+            raise RuntimeError("boom")
+        return original(url, document)
+
+    monkeypatch.setattr(crawl_module, "_extract", extraction_qui_plante)
+
+    crawler = _crawler(tmp_path)
+    asyncio.run(crawler.run(["https://www.rts.ch/"]))
+
+    urls = {url for url, _ in crawler.store.urls()}
+    # La page qui plante n'a pas empêché les autres d'être traitées.
+    assert "https://www.rts.ch/info/suisse/2026/article/premier-1.html" in urls
+    assert "https://www.rts.ch/info/culture/" in urls  # découverte, même si son contenu a planté
+    assert "https://www.rts.ch/info/culture/2026/article/troisieme-4.html" not in urls
+
+
+def test_cache_corrompu_repart_a_vide_sans_planter(tmp_path):
+    """Un cache abîmé par une écriture interrompue ne doit pas bloquer *tous*
+    les runs suivants : mieux vaut reperdre le bénéfice des ETags qu'un outil
+    qui ne redémarre plus jamais."""
+    import asyncio
+
+    cache_dir = tmp_path / "cache"
+    cache_dir.mkdir(parents=True)
+    (cache_dir / "crawl.json").write_bytes(b"{ceci n'est pas du JSON valide")
+
+    crawler = _crawler(tmp_path, cache_dir=cache_dir)
+    asyncio.run(crawler.run(["https://www.rts.ch/"]))
+
+    assert crawler.cache != {}  # repeuplé normalement malgré le cache corrompu
+    urls = {url for url, _ in crawler.store.urls()}
+    assert "https://www.rts.ch/info/suisse/2026/article/premier-1.html" in urls
 
 
 def test_second_run_utilise_le_cache(tmp_path):
