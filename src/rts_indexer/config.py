@@ -51,6 +51,10 @@ CRAWL_MIN_INTERVAL = 0.5
 #: Durée d'attente d'un worker sur une file vide avant de conclure que le
 #: parcours est terminé.
 CRAWL_IDLE_TIMEOUT = 2.0
+#: Écriture de l'index sur disque tous les N pages visitées (0 pour désactiver).
+#: Borne la perte en cas d'incident non rattrapable en Python (coupure de
+#: courant, kill -9) à ce nombre de pages plutôt qu'à la totalité du run.
+CRAWL_CHECKPOINT_PAGES = 200
 
 # --- Format de stockage -----------------------------------------------------
 

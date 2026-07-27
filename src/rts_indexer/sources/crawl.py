@@ -146,15 +146,27 @@ class Crawler:
                 self.queue.put_nowait(url)
 
     async def _worker(self, http: httpx.AsyncClient, limiter: RateLimiter) -> None:
-        while self.fetched < self.max_pages:
+        while True:
+            if 0 < self.max_pages <= self.fetched:
+                return
             try:
                 url = await asyncio.wait_for(self.queue.get(), config.CRAWL_IDLE_TIMEOUT)
             except (TimeoutError, asyncio.TimeoutError):
                 return
+            # Réservée ici, avant tout `await` ultérieur : avec plusieurs
+            # workers, incrémenter seulement après la requête HTTP (comme
+            # avant) laissait le temps à tous les autres de repasser la
+            # vérification ci-dessus avec une valeur encore périmée, d'où un
+            # dépassement systématique du budget de MAX_CONCURRENCY - 1 pages
+            # (queue.get() ne cède la main que si elle est vide ; tant qu'elle
+            # est pleine, tout ce bloc s'exécute d'un bloc sans interruption).
+            self.fetched += 1
             try:
                 await self._visit(http, limiter, url)
             finally:
                 self.queue.task_done()
+            if config.CRAWL_CHECKPOINT_PAGES and self.fetched % config.CRAWL_CHECKPOINT_PAGES == 0:
+                self._checkpoint()
 
     async def _visit(self, http: httpx.AsyncClient, limiter: RateLimiter, url: str) -> None:
         entry = self.cache.get(url, {})
@@ -171,7 +183,6 @@ class Crawler:
             log.warning("%s: %s", url, exc)
             return
 
-        self.fetched += 1
         try:
             self._process(url, entry, response)
         except Exception:
@@ -180,6 +191,25 @@ class Crawler:
             # exactement la classe de bug qui a fait perdre un crawl entier
             # (350 pages, ~13'600 URLs) sur une seule page au slug démesuré.
             log.exception("erreur inattendue en traitant %s, page ignorée", url)
+
+    def _checkpoint(self) -> None:
+        """Écrit l'index et le cache accumulés à intervalles réguliers.
+
+        Sans ça, un run de plusieurs heures interrompu par un incident qui ne
+        se laisse pas rattraper en Python (coupure de courant, ``kill -9``,
+        fermeture du terminal) perdrait tout le travail depuis le début : seule
+        l'écriture finale existait jusqu'ici. Volontairement synchrone (bloque
+        brièvement les autres workers) : plus simple qu'une écriture en
+        arrière-plan, et son coût est proportionnel à la taille de l'index
+        (quelques centaines de milliers d'URLs tiennent en un instant).
+        """
+        try:
+            self.store.write()
+            self.save_cache()
+        except Exception:
+            log.exception("échec du checkpoint à %d pages, le crawl continue", self.fetched)
+        else:
+            log.info("checkpoint: %d URLs écrites sur disque", self.store.stats()["urls"])
 
     def _process(self, url: str, entry: dict, response: httpx.Response) -> None:
         if response.status_code == 304:

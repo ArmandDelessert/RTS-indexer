@@ -41,3 +41,23 @@ def test_crawl_ecrit_les_progres_avant_de_propager(tmp_path, monkeypatch, erreur
 
     relu = Store(tmp_path).load()
     assert dict(relu.urls())[ARTICLE] is False
+
+
+def test_main_absorbe_ctrl_c_avec_le_code_de_sortie_conventionnel(tmp_path, monkeypatch, capsys):
+    """`main()` ne doit pas laisser Python afficher sa propre trace brute pour
+    une interruption volontaire : `cmd_crawl` a déjà écrit le nécessaire et
+    prévenu l'utilisateur, il ne reste qu'à sortir proprement (code 130, la
+    convention Unix pour « terminé par Ctrl+C »)."""
+    store = Store(tmp_path)
+    store.add("https://www.rts.ch/info/suisse/")
+    store.write()
+
+    def crawl_interrompu(store, seeds, **kwargs):
+        raise KeyboardInterrupt
+
+    monkeypatch.setattr(cli.crawl_source, "crawl", crawl_interrompu)
+
+    code = cli.main(["--data-dir", str(tmp_path), "crawl"])
+
+    assert code == 130
+    assert "Traceback" not in capsys.readouterr().err

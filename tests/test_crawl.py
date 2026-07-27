@@ -28,16 +28,38 @@ PAGES = {
 }
 
 
-def _transport(log: list[str] | None = None) -> httpx.MockTransport:
+def _transport(log: list[str] | None = None, pages: dict[str, str] | None = None) -> httpx.MockTransport:
+    pages = PAGES if pages is None else pages
+
     def handler(request: httpx.Request) -> httpx.Response:
         if log is not None:
             log.append(request.url.path)
-        body = PAGES.get(request.url.path)
+        body = pages.get(request.url.path)
         if body is None:
             return httpx.Response(404)
         return httpx.Response(200, html=body, headers={"ETag": f'"{request.url.path}"'})
 
     return httpx.MockTransport(handler)
+
+
+def _site_avec_beaucoup_de_rubriques(n: int) -> dict[str, str]:
+    """Un faux site à N rubriques, toutes liées depuis la racine : la file
+    reste occupée bien au-delà d'un petit budget de pages, condition
+    nécessaire pour exercer un dépassement par course entre workers."""
+    pages = {"/": "".join(f'<a href="/rubrique-{i}/">r{i}</a>' for i in range(n))}
+    pages.update({f"/rubrique-{i}/": "sans lien" for i in range(n)})
+    return pages
+
+
+def _site_en_chaine(n: int) -> dict[str, str]:
+    """N rubriques découvertes progressivement (chacune ne révèle la
+    suivante qu'une fois visitée), pour observer la croissance de l'index
+    entre deux checkpoints plutôt qu'une découverte totale dès la racine."""
+    pages = {"/": '<a href="/rubrique-0/">suite</a>'}
+    for i in range(n):
+        suite = f'<a href="/rubrique-{i + 1}/">suite</a>' if i + 1 < n else ""
+        pages[f"/rubrique-{i}/"] = suite
+    return pages
 
 
 @pytest.fixture(autouse=True)
@@ -150,12 +172,29 @@ def test_robots_respecte(tmp_path):
     assert "/info/suisse/page/2" not in visites
 
 
-def test_budget_de_pages_respecte(tmp_path):
+def test_budget_de_pages_est_un_plafond_exact(tmp_path):
+    """Incident réel : avec MAX_CONCURRENCY=4 workers et une file bien
+    fournie, le budget était dépassé de façon quasi systématique de
+    MAX_CONCURRENCY - 1 pages (constaté sur 4 runs réels : 20/100/50/2000
+    demandées, 23/103/53/2003 visitées). La réservation du compteur avant
+    tout `await` doit désormais en faire un plafond exact."""
     import asyncio
 
-    crawler = _crawler(tmp_path, max_pages=1)
+    site = _site_avec_beaucoup_de_rubriques(50)
+    crawler = _crawler(tmp_path, max_pages=10, transport=_transport(pages=site))
     asyncio.run(crawler.run(["https://www.rts.ch/"]))
-    assert crawler.fetched <= config.MAX_CONCURRENCY  # une passe par worker au plus
+    assert crawler.fetched == 10
+
+
+def test_budget_illimite_s_arrete_de_lui_meme(tmp_path):
+    """`--max-pages 0` ne doit pas tourner indéfiniment : la file de rubriques
+    est finie, donc le crawl s'arrête naturellement une fois tout visité."""
+    import asyncio
+
+    site = _site_avec_beaucoup_de_rubriques(12)
+    crawler = _crawler(tmp_path, max_pages=0, transport=_transport(pages=site))
+    asyncio.run(crawler.run(["https://www.rts.ch/"]))
+    assert crawler.fetched == 13  # 12 rubriques + la racine
 
 
 def test_page_qui_plante_n_interrompt_pas_le_crawl(tmp_path, monkeypatch):
@@ -201,6 +240,40 @@ def test_cache_corrompu_repart_a_vide_sans_planter(tmp_path):
     assert crawler.cache != {}  # repeuplé normalement malgré le cache corrompu
     urls = {url for url, _ in crawler.store.urls()}
     assert "https://www.rts.ch/info/suisse/2026/article/premier-1.html" in urls
+
+
+def test_checkpoint_ecrit_periodiquement_sur_disque(tmp_path, monkeypatch):
+    """Sans checkpoint, un incident non rattrapable en Python (coupure de
+    courant, kill -9) au milieu d'un long crawl perdrait tout depuis le début.
+    L'index doit donc apparaître sur disque avant la fin du run."""
+    import asyncio
+
+    monkeypatch.setattr(config, "CRAWL_CHECKPOINT_PAGES", 3)
+    monkeypatch.setattr(config, "MAX_CONCURRENCY", 1)  # découverte strictement progressive
+    site = _site_en_chaine(10)
+    crawler = _crawler(tmp_path, max_pages=0, transport=_transport(pages=site))
+
+    disque_pendant_le_run: list[int] = []
+    original_write = crawler.store.write
+
+    def write_espionne():
+        stats = original_write()
+        disque_pendant_le_run.append(stats["urls"])
+        return stats
+
+    monkeypatch.setattr(crawler.store, "write", write_espionne)
+
+    asyncio.run(crawler.run(["https://www.rts.ch/"]))
+
+    # Plusieurs checkpoints ont eu lieu avant la fin naturelle du run (aucune
+    # écriture finale n'est déclenchée par run() lui-même, seul cmd_crawl le
+    # fait) : le compteur observé grandit au fil des checkpoints.
+    assert len(disque_pendant_le_run) >= 3
+    assert disque_pendant_le_run == sorted(disque_pendant_le_run)
+    assert disque_pendant_le_run[-1] > disque_pendant_le_run[0]
+
+    # Et le cache ETag est lui aussi rafraîchi à chaque checkpoint.
+    assert crawler.cache_path.is_file()
 
 
 def test_second_run_utilise_le_cache(tmp_path):

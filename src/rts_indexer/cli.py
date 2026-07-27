@@ -64,10 +64,16 @@ def cmd_crawl(args: argparse.Namespace) -> int:
             max_pages=args.max_pages,
             include_articles=args.include_articles,
         )
-    except (Exception, KeyboardInterrupt):
-        # Une erreur imprévue ou une interruption manuelle (Ctrl+C) ne doit pas
-        # faire perdre les pages déjà découvertes : on écrit ce qui a été
-        # accumulé avant de propager.
+    except KeyboardInterrupt:
+        # Une interruption volontaire (Ctrl+C) n'est pas une erreur : pas de
+        # trace complète, juste la confirmation que rien n'est perdu.
+        print("\nInterruption : écriture des URLs déjà découvertes...", file=sys.stderr)
+        _report(store.write())
+        raise
+    except Exception:
+        # Une erreur imprévue, elle, ne doit pas faire perdre les pages déjà
+        # découvertes non plus : on écrit ce qui a été accumulé avant de
+        # propager, mais avec la trace complète pour pouvoir diagnostiquer.
         logging.exception("le crawl s'est interrompu, écriture des URLs déjà découvertes")
         _report(store.write())
         raise
@@ -118,7 +124,16 @@ def build_parser() -> argparse.ArgumentParser:
     p.set_defaults(func=cmd_sitemap)
 
     p = sub.add_parser("crawl", help="parcourt les rubriques connues pour trouver les articles")
-    p.add_argument("--max-pages", type=int, default=500, help="budget de pages (défaut: %(default)s)")
+    p.add_argument(
+        "--max-pages",
+        type=int,
+        default=500,
+        help=(
+            "budget de pages, plafond exact (défaut: %(default)s). "
+            "0 = illimité : le crawl s'arrête de lui-même une fois toutes les "
+            "rubriques connues visitées, la file d'attente n'étant pas infinie"
+        ),
+    )
     p.add_argument(
         "--include-articles",
         action="store_true",
@@ -142,4 +157,11 @@ def build_parser() -> argparse.ArgumentParser:
 def main(argv: list[str] | None = None) -> int:
     args = build_parser().parse_args(argv)
     _log_setup(args.verbose)
-    return args.func(args)
+    try:
+        return args.func(args)
+    except KeyboardInterrupt:
+        # Sans ce filet, l'interruption ressort de main() sans être rattrapée
+        # nulle part et Python affiche sa propre trace brute par défaut, alors
+        # que cmd_crawl a déjà écrit ce qu'il fallait et prévenu l'utilisateur.
+        # 130 = convention Unix pour « terminé par Ctrl+C ».
+        return 130
