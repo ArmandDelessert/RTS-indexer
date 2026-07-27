@@ -1,4 +1,5 @@
 ./
+10011983-changer-de-caisse-ou-de-franchise-horsdelai-les-exceptions.html
 10372402-quand-les-factures-nattendent-pas-les-subsides.html
 10423717-grossesse-refus-de-prise-en-charge-des-analyses-medicales.html
 10439914-mon-assurance-maladie-moffre-le-taxi.html
@@ -12,8 +13,11 @@
 11150924-des-cliniques-privees-dans-lillegalite.html
 11150952-refus-de-prise-en-charge-des-soins-prescrits-par-un-medecin-traitant.html
 11622478-test-du-covid19-qui-verifie-les-factures.html
+11627884-primes-maladie-pourquoi-ne-pas-tenir-compte-des-reserves-des-caisses-dans-le-calcul-des-primes.html
 11746489-guichet-lassurance-maladie.html
 11806421-imbroglio-chez-assura-avec-les-primes-dassurance-complementaire.html
+8331788-enquete-ouverte-rassurezmoi.html
+8350750-contester-un-refus-de-prise-en-charge-de-lassureur-maladie.html
 8365819-cancer-du-sein-et-assurances.html
 8372745-frais-de-maternite-lassureur-doit-tout-rembourser.html
 8376989-quel-avis-a-le-plus-de-poids-celui-du-medecin-traitant-ou-celui-du-medecinconseil-de-lassurance.html
@@ -38,12 +42,14 @@
 8987428-assura-fait-de-la-resistance-une-de-ses-assurees-aussi.html
 9040927-la-validite-des-certificats-medicaux-etrangers-en-question.html
 9067857-a-lai-et-blogger-incompatible.html
+9070864-testez-vos-connaissances-sur-lassurance-complementaire.html
 9071120-guichet-lassurance-maladie-de-base.html
 9082568-les-caisses-maladie-ont-depense-744-millions-en-marketing-en-2016.html
 9094645-guichet-les-assurances-complementaires.html
 9101067-difficultes-pour-trouver-une-assurance-perte-de-gain.html
 9242739-20-minutes-de-consultation-medicale-top-chrono.html
 9268127-un-meme-medicament-et-deux-noms-differents-le-comarketing-des-labos.html
+9282747-lenquete-ouverte-rassurezmoi-celebre-son-premier-anniversaire.html
 9284263-soins-dentaires-non-rembourses-et-donc-plus-chers.html
 9301704-guichet-special-sur-les-assurances-perte-de-gain.html
 9308386-la-caisse-helsana-critiquee-sur-le-remboursement-des-osteopathes.html

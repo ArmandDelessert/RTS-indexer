@@ -1,2 +1,3 @@
 ./
 8994006-charte-de-confidentialite.html
+8994021-conditions-generales.html
