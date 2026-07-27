@@ -1,0 +1,12 @@
+# L'index est écrit en LF par le pipeline : ne jamais laisser Git le convertir en CRLF,
+# sous peine de diffs fantômes sur des centaines de milliers de lignes.
+* text=auto eol=lf
+
+data/**/*.txt text eol=lf
+data/**/*.tsv text eol=lf
+data/**/*.json text eol=lf
+*.py text eol=lf
+
+# Les fichiers d'index sont générés : ne pas les compter dans les statistiques de langage
+# et ne pas les afficher dans les diffs de pull request par défaut.
+data/** linguist-generated=true
