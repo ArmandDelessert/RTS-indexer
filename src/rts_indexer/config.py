@@ -12,6 +12,9 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parents[2]
 DATA_DIR = REPO_ROOT / "data"
 CACHE_DIR = REPO_ROOT / ".cache"
+#: Page web générée. Artefact dérivé, non versionné (cf. .gitignore) : un bloc
+#: JSON réécrit intégralement à chaque run n'a pas sa place dans l'historique.
+SITE_DIR = REPO_ROOT / "site"
 
 # --- Périmètre --------------------------------------------------------------
 

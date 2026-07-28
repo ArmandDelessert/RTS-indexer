@@ -7,7 +7,7 @@ import logging
 import sys
 from pathlib import Path
 
-from . import config
+from . import config, explorer
 from . import verify as verify_module
 from .sources import crawl as crawl_source
 from .sources import sitemap
@@ -124,6 +124,18 @@ def cmd_build(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_site(args: argparse.Namespace) -> int:
+    """Génère la page web de consultation de l'index."""
+    store = _store(args).load()
+    if not store.dirs:
+        print("Index vide. Lancer d'abord: python -m rts_indexer sitemap", file=sys.stderr)
+        return 1
+    path = explorer.generate(store, args.output)
+    taille = path.stat().st_size / 1024
+    print(f"{path} ({taille:.0f} Ko, {store.stats()['urls']} URLs)")
+    return 0
+
+
 def cmd_stats(args: argparse.Namespace) -> int:
     _report(_store(args).load().stats())
     return 0
@@ -191,6 +203,14 @@ def build_parser() -> argparse.ArgumentParser:
 
     p = sub.add_parser("build", help="relit et réécrit data/ (tri, sharding, purge)")
     p.set_defaults(func=cmd_build)
+
+    p = sub.add_parser("site", help="génère la page web de consultation")
+    p.add_argument(
+        "--output",
+        default=str(config.SITE_DIR),
+        help="dossier de sortie (défaut: %(default)s)",
+    )
+    p.set_defaults(func=cmd_site)
 
     p = sub.add_parser("stats", help="compteurs de l'index")
     p.set_defaults(func=cmd_stats)
