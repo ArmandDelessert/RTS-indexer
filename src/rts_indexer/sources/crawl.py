@@ -18,7 +18,6 @@ import asyncio
 import json
 import logging
 import re
-import time
 from pathlib import Path
 
 import httpx
@@ -39,21 +38,9 @@ CACHE_FILE = "crawl.json"
 _RAW_URL = re.compile(r"""https?://(?:www\.)?rts\.ch/[^"'\s<>\\)&]+""")
 
 
-class RateLimiter:
-    """Intervalle minimal garanti entre deux départs de requête."""
-
-    def __init__(self, min_interval: float) -> None:
-        self._min_interval = min_interval
-        self._lock = asyncio.Lock()
-        self._next = 0.0
-
-    async def wait(self) -> None:
-        async with self._lock:
-            now = time.monotonic()
-            delay = max(0.0, self._next - now)
-            self._next = max(now, self._next) + self._min_interval
-        if delay:
-            await asyncio.sleep(delay)
+#: Réexporté pour ne pas casser les imports existants ; l'implémentation vit
+#: dans net.py depuis que `verify` en a besoin elle aussi.
+RateLimiter = net.RateLimiter
 
 
 def _extract(url: str, document: str) -> list[str]:
@@ -246,12 +233,7 @@ class Crawler:
         self._record(seeds)
         limiter = RateLimiter(config.CRAWL_MIN_INTERVAL)
         try:
-            async with httpx.AsyncClient(
-                headers=net.DEFAULT_HEADERS,
-                timeout=config.REQUEST_TIMEOUT,
-                follow_redirects=True,
-                transport=self.transport,
-            ) as http:
+            async with net.async_client(transport=self.transport) as http:
                 workers = [
                     asyncio.create_task(self._worker(http, limiter))
                     for _ in range(config.MAX_CONCURRENCY)

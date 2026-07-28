@@ -8,6 +8,7 @@ import sys
 from pathlib import Path
 
 from . import config
+from . import verify as verify_module
 from .sources import crawl as crawl_source
 from .sources import sitemap
 from .store import Store
@@ -85,6 +86,38 @@ def cmd_crawl(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_verify(args: argparse.Namespace) -> int:
+    """Contrôle la vivacité des URLs indexées et met à jour le sigil `!`."""
+    store = _store(args).load()
+    if not store.dirs:
+        print("Index vide. Lancer d'abord: python -m rts_indexer sitemap", file=sys.stderr)
+        return 1
+
+    try:
+        verifier = verify_module.verify(
+            store,
+            max_urls=args.limit,
+            recheck_days=args.recheck_days,
+        )
+    except KeyboardInterrupt:
+        print("\nInterruption : écriture des verdicts déjà obtenus...", file=sys.stderr)
+        _report(store.write())
+        raise
+    except Exception:
+        logging.exception("le contrôle s'est interrompu, écriture des verdicts obtenus")
+        _report(store.write())
+        raise
+
+    print(
+        f"{verifier.checked} URLs contrôlées : "
+        f"{verifier.morts} nouvellement mortes, "
+        f"{verifier.ressuscites} de nouveau vivantes, "
+        f"{verifier.non_concluants} non concluantes"
+    )
+    _report(store.write())
+    return 0
+
+
 def cmd_build(args: argparse.Namespace) -> int:
     """Relit puis réécrit ``/data`` : renormalise le tri et le sharding."""
     _report(_store(args).load().write())
@@ -140,6 +173,21 @@ def build_parser() -> argparse.ArgumentParser:
         help="visite aussi les articles (coûteux, pour les liens connexes)",
     )
     p.set_defaults(func=cmd_crawl)
+
+    p = sub.add_parser("verify", help="contrôle quelles URLs répondent encore (sigil !)")
+    p.add_argument(
+        "--limit",
+        type=int,
+        default=0,
+        help="nombre maximal d'URLs à contrôler, les jamais-vues d'abord (0 = toutes)",
+    )
+    p.add_argument(
+        "--recheck-days",
+        type=int,
+        default=config.VERIFY_RECHECK_DAYS,
+        help="âge au-delà duquel une URL déjà contrôlée l'est à nouveau (défaut: %(default)s)",
+    )
+    p.set_defaults(func=cmd_verify)
 
     p = sub.add_parser("build", help="relit et réécrit data/ (tri, sharding, purge)")
     p.set_defaults(func=cmd_build)

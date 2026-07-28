@@ -37,8 +37,15 @@ class DirIndex:
 
     #: slug -> mort ?
     slugs: dict[str, bool] = field(default_factory=dict)
-    #: le dossier lui-même est-il une URL valide ?
-    is_page: bool = False
+    #: ``None`` si le dossier n'est pas lui-même une URL ; sinon, morte ou non.
+    #: Un simple booléen ne suffisait pas : il confondait « ce dossier n'est
+    #: pas une page » et « cette page est vivante », ce qui rendait toute
+    #: rubrique impossible à marquer morte.
+    page_dead: bool | None = None
+
+    @property
+    def is_page(self) -> bool:
+        return self.page_dead is not None
 
     def __len__(self) -> int:
         return len(self.slugs)
@@ -98,8 +105,8 @@ class Store:
 
         entry = self.dirs.setdefault(relpath, DirIndex())
         if leaf is None:
-            is_new = not entry.is_page
-            entry.is_page = True
+            is_new = entry.page_dead is None
+            entry.page_dead = bool(dead) if dead is not None else (entry.page_dead or False)
         else:
             is_new = leaf not in entry.slugs
             entry.slugs[leaf] = bool(dead) if dead is not None else entry.slugs.get(leaf, False)
@@ -144,7 +151,9 @@ class Store:
                 if not line:
                     continue
                 if line == config.SELF_LINE:
-                    entry.is_page = True
+                    entry.page_dead = False
+                elif line == f"{config.DEAD_SIGIL}{config.SELF_LINE}":
+                    entry.page_dead = True
                 elif line.startswith(config.DEAD_SIGIL):
                     entry.slugs[line[len(config.DEAD_SIGIL) :]] = True
                 else:
@@ -216,11 +225,11 @@ class Store:
             # Le marqueur `./` reste toujours dans _index.txt, qui fait office
             # d'en-tête ; les slugs partent dans _index.<caractère>.txt.
             if entry.is_page:
-                files[""] = [config.SELF_LINE]
+                files[""] = [_render_self(entry)]
             for slug in sorted(entry.slugs):
                 files.setdefault(f".{pathmap.shard_key(slug)}", []).append(_render(slug, entry))
         else:
-            lines = [config.SELF_LINE] if entry.is_page else []
+            lines = [_render_self(entry)] if entry.is_page else []
             lines += [_render(slug, entry) for slug in sorted(entry.slugs)]
             files[""] = lines
 
@@ -270,7 +279,7 @@ class Store:
 
     def stats(self) -> dict[str, int]:
         total = sum(len(e) + e.is_page for e in self.dirs.values())
-        dead = sum(sum(e.slugs.values()) for e in self.dirs.values())
+        dead = sum(sum(e.slugs.values()) + bool(e.page_dead) for e in self.dirs.values())
         return {
             "urls": total,
             "vivantes_ou_non_verifiees": total - dead,
@@ -286,17 +295,40 @@ class Store:
             counts[host] = counts.get(host, 0) + len(entry) + entry.is_page
         return dict(sorted(counts.items()))
 
+    def status(self, url: str) -> bool | None:
+        """``True`` si l'URL est marquée morte, ``False`` si vivante, ``None``
+        si elle n'est pas indexée.
+
+        Consultation directe par le chemin, sans parcourir tout l'index : la
+        vérification appelle ceci une fois par URL contrôlée.
+        """
+        try:
+            relpath, leaf = pathmap.url_to_location(url)
+        except pathmap.PathMappingError:
+            return None
+        entry = self.dirs.get(relpath)
+        if entry is None:
+            return None
+        if leaf is None:
+            return entry.page_dead
+        return entry.slugs.get(leaf)
+
     def urls(self):
         """Itère sur toutes les URLs indexées, sous forme ``(url, morte)``."""
         for relpath, entry in sorted(self.dirs.items()):
             if entry.is_page:
-                yield pathmap.location_to_url(relpath), False
+                yield pathmap.location_to_url(relpath), bool(entry.page_dead)
             for slug in sorted(entry.slugs):
                 yield pathmap.location_to_url(relpath, slug), entry.slugs[slug]
 
 
 def _render(slug: str, entry: DirIndex) -> str:
     return f"{config.DEAD_SIGIL}{slug}" if entry.slugs[slug] else slug
+
+
+def _render_self(entry: DirIndex) -> str:
+    prefix = config.DEAD_SIGIL if entry.page_dead else ""
+    return f"{prefix}{config.SELF_LINE}"
 
 
 def _write_lines(path: Path, lines: list[str]) -> None:

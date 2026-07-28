@@ -85,6 +85,45 @@ def test_sigil_mort_ne_change_qu_une_ligne(tmp_path):
     assert dict(Store(tmp_path).load().urls())[ARTICLE] is True
 
 
+def test_rubrique_peut_etre_marquee_morte(tmp_path):
+    """Bug réel : `dead` était ignoré pour les URLs de rubrique, seuls les
+    articles pouvaient être marqués morts. Or les rubriques mortes existent
+    bel et bien (dossiers/2016/coeur-a-coeur/* renvoient 404)."""
+    store = Store(tmp_path)
+    store.add(RUBRIQUE, dead=True)
+    store.write()
+
+    assert index_de(tmp_path, "www.rts.ch/info/suisse") == f"{config.DEAD_SIGIL}./\n"
+
+    relu = Store(tmp_path).load()
+    assert relu.status(RUBRIQUE) is True
+    assert dict(relu.urls())[RUBRIQUE] is True
+    assert relu.stats()["mortes"] == 1
+
+
+def test_rubrique_morte_peut_ressusciter(tmp_path):
+    store = Store(tmp_path)
+    store.add(RUBRIQUE, dead=True)
+    store.write()
+
+    store = Store(tmp_path).load()
+    store.add(RUBRIQUE, dead=False)
+    store.write()
+
+    assert index_de(tmp_path, "www.rts.ch/info/suisse") == "./\n"
+    assert Store(tmp_path).load().status(RUBRIQUE) is False
+
+
+def test_status_distingue_inconnu_de_vivant(tmp_path):
+    """`None` (pas indexée) et `False` (indexée et vivante) ne doivent pas se
+    confondre — c'est cette confusion qui empêchait de marquer une rubrique."""
+    store = Store(tmp_path)
+    store.add(ARTICLE)
+    assert store.status(ARTICLE) is False
+    assert store.status(RUBRIQUE) is None
+    assert store.status("https://www.rts.ch/jamais-vue/") is None
+
+
 def test_source_ne_ressuscite_pas_une_url_morte(tmp_path):
     """Une source qui réaffirme une URL ne doit pas écraser le verdict de verify."""
     store = Store(tmp_path)

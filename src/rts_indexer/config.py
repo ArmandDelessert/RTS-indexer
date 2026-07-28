@@ -56,6 +56,22 @@ CRAWL_IDLE_TIMEOUT = 2.0
 #: courant, kill -9) à ce nombre de pages plutôt qu'à la totalité du run.
 CRAWL_CHECKPOINT_PAGES = 200
 
+# --- Contrôle de vivacité (verify) ------------------------------------------
+
+#: Même débit modeste que le crawl : ce sont les mêmes serveurs.
+VERIFY_MIN_INTERVAL = 0.5
+#: Une URL déjà contrôlée n'est recontrôlée qu'au-delà de cet âge (jours).
+#: L'index compte des dizaines de milliers d'URLs pour ~2 requêtes/s : tout
+#: revérifier à chaque run prendrait des heures pour rien.
+VERIFY_RECHECK_DAYS = 30
+VERIFY_CHECKPOINT_URLS = 500
+
+#: Codes concluants. Tout le reste (403, 429, 5xx, timeout) est *non
+#: concluant* : ni vivant ni mort, on ne touche pas au sigil et on ne met pas
+#: le résultat en cache, pour recontrôler au prochain run. rts.ch renvoie par
+#: exemple un 403 sur /360/paju/suissedescimes/, qui n'est pas une page morte.
+VERIFY_DEAD_CODES = frozenset({404, 410})
+
 # --- Format de stockage -----------------------------------------------------
 
 INDEX_BASENAME = "_index"

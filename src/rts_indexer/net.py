@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import asyncio
 import logging
 import time
 
@@ -20,11 +21,39 @@ DEFAULT_HEADERS = {
 }
 
 
+class RateLimiter:
+    """Intervalle minimal garanti entre deux départs de requête.
+
+    Partagé par tous les workers d'un même parcours : c'est le débit global
+    vers le site qui compte, pas celui de chaque worker pris isolément.
+    """
+
+    def __init__(self, min_interval: float) -> None:
+        self._min_interval = min_interval
+        self._lock = asyncio.Lock()
+        self._next = 0.0
+
+    async def wait(self) -> None:
+        async with self._lock:
+            now = time.monotonic()
+            delay = max(0.0, self._next - now)
+            self._next = max(now, self._next) + self._min_interval
+        if delay:
+            await asyncio.sleep(delay)
+
+
 def client(**kwargs) -> httpx.Client:
     kwargs.setdefault("headers", DEFAULT_HEADERS)
     kwargs.setdefault("timeout", config.REQUEST_TIMEOUT)
     kwargs.setdefault("follow_redirects", True)
     return httpx.Client(**kwargs)
+
+
+def async_client(**kwargs) -> httpx.AsyncClient:
+    kwargs.setdefault("headers", DEFAULT_HEADERS)
+    kwargs.setdefault("timeout", config.REQUEST_TIMEOUT)
+    kwargs.setdefault("follow_redirects", True)
+    return httpx.AsyncClient(**kwargs)
 
 
 def get(
