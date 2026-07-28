@@ -151,34 +151,106 @@ def test_url_trop_longue_ignoree_sans_faire_echouer_le_run(tmp_path):
     assert any(l.startswith("trop_long\t" + trop_longue) for l in lignes)
 
 
-def test_collision_de_casse_journalisee_et_ignoree(tmp_path):
-    """Une collision doit être signalée mais ne doit plus faire échouer le run
-    en cours : sur un crawl de longue durée, perdre tout le travail pour un cas
-    qui se compte à l'unité coûte bien plus cher que de l'ignorer."""
+def test_majuscule_n_est_plus_une_anomalie(tmp_path):
+    """Incident réel : https://www.rts.ch/360/Paju/SuisseDesCimes/ et sa
+    variante .../paju/suissedescimes/ fusionnaient sur le même dossier (la
+    casse étant perdue), ce qui était journalisé comme collision. La casse
+    étant désormais préservée sans perte, les deux doivent coexister — ce
+    n'est plus une anomalie du tout."""
     store = Store(tmp_path)
-    store.add("https://www.rts.ch/Info/x.html")
-    ajoutee = store.add("https://www.rts.ch/info/y.html")
+    store.add("https://www.rts.ch/360/Paju/SuisseDesCimes/")
+    store.add("https://www.rts.ch/360/paju/suissedescimes/")
+    stats = store.write()
+
+    assert stats["urls"] == 2  # les deux coexistent, aucune fusion
+    assert stats["anomalies"] == 0
+    assert not (tmp_path / config.ANOMALIES_FILE).exists()
+
+    urls = dict(Store(tmp_path).load().urls())
+    assert "https://www.rts.ch/360/Paju/SuisseDesCimes/" in urls
+    assert "https://www.rts.ch/360/paju/suissedescimes/" in urls
+
+
+def test_collision_forcee_est_journalisee_et_ignoree(tmp_path, monkeypatch):
+    """La casse ne collisionne plus (cf. test précédent) : ce filet ne devrait
+    donc plus jamais se déclencher pour une simple différence de casse en
+    pratique. Il reste une protection utile si l'injectivité d'escape_segment
+    était un jour cassée par erreur — on force artificiellement la collision
+    pour vérifier qu'elle est journalisée et ignorée, jamais fatale."""
+    import rts_indexer.pathmap as pathmap
+
+    # Les deux URLs sont forcées vers le même chemin de dossier : c'est la
+    # seule façon de reproduire une collision maintenant que la casse seule
+    # n'y suffit plus.
+    monkeypatch.setattr(pathmap, "url_to_location", lambda url: ("www.rts.ch/force-collision", None))
+
+    store = Store(tmp_path)
+    store.add("https://www.rts.ch/premiere/")
+    ajoutee = store.add("https://www.rts.ch/seconde/")
     assert ajoutee is False
 
     stats = store.write()
-    assert stats["urls"] == 1  # seule la première URL a été indexée
+    assert stats["urls"] == 1
     lignes = (tmp_path / config.ANOMALIES_FILE).read_text(encoding="utf-8").splitlines()
-    assert any(l.startswith("collision\thttps://www.rts.ch/info/y.html\t") for l in lignes)
+    assert any(l.startswith("collision\thttps://www.rts.ch/seconde/\t") for l in lignes)
 
 
-def test_majuscule_consignee_dans_les_anomalies(tmp_path):
+def test_collision_detectee_meme_apres_rechargement(tmp_path, monkeypatch):
+    """``_dir_source`` doit se reconstruire depuis le disque au chargement, la
+    casse y étant désormais préservée — pas seulement pour les entrées déjà
+    signalées par le passé, contrairement à l'ancien comportement basé sur les
+    anomalies persistées."""
+    import rts_indexer.pathmap as pathmap
+
     store = Store(tmp_path)
-    store.add("https://www.rts.ch/Info/x.html")
+    store.add("https://www.rts.ch/premiere/")
     store.write()
 
-    lignes = (tmp_path / config.ANOMALIES_FILE).read_text(encoding="utf-8").splitlines()
-    assert lignes[0] == "type\turl\tdetail"
-    assert lignes[1].startswith("majuscule\thttps://www.rts.ch/Info/x.html\t")
-
-    # L'anomalie survit au rechargement, ce qui permet de détecter la collision
-    # d'un run à l'autre alors que le disque a perdu la casse d'origine.
+    original = pathmap.url_to_location
+    monkeypatch.setattr(
+        pathmap,
+        "url_to_location",
+        lambda url: ("www.rts.ch/premiere", None) if "seconde" in url else original(url),
+    )
     relu = Store(tmp_path).load()
-    assert relu.add("https://www.rts.ch/info/y.html") is False
+    assert relu.add("https://www.rts.ch/seconde/") is False
+
+
+def test_anomalie_resolue_disparait_au_rechargement(tmp_path):
+    """Incident réel : après le passage à la casse préservée, `_anomalies.tsv`
+    continuait d'afficher une collision Paju/paju désormais résolue et une
+    anomalie « majuscule » d'un type qui n'existe plus dans le code — le
+    fichier était simplement recopié sans être revérifié. Une anomalie
+    persistée doit maintenant être revalidée à chaque chargement."""
+    path = tmp_path / config.ANOMALIES_FILE
+    tmp_path.mkdir(exist_ok=True)
+    path.write_text(
+        "type\turl\tdetail\n"
+        "majuscule\thttps://www.rts.ch/Foo/x.html\twww.rts.ch/foo\n"  # type retiré
+        "collision\thttps://www.rts.ch/plus-de-collision/\tqui n'existe plus\n",
+        encoding="utf-8",
+    )
+
+    relu = Store(tmp_path).load()
+    assert relu.anomalies == set()
+
+
+def test_anomalie_de_collision_toujours_valable_survit(tmp_path, monkeypatch):
+    """À l'inverse, une collision réellement encore active doit être
+    reconduite d'un run à l'autre, pas silencieusement oubliée."""
+    import rts_indexer.pathmap as pathmap
+
+    store = Store(tmp_path)
+    store.add("https://www.rts.ch/premiere/")
+    store.write()
+
+    monkeypatch.setattr(pathmap, "url_to_location", lambda url: ("www.rts.ch/premiere", None))
+    store = Store(tmp_path).load()
+    store.add("https://www.rts.ch/seconde/")
+    store.write()
+
+    relu = Store(tmp_path).load()
+    assert ("collision", "https://www.rts.ch/seconde/", "https://www.rts.ch/premiere vs https://www.rts.ch/seconde") in relu.anomalies
 
 
 def test_fichier_index_corrompu_n_empeche_pas_le_chargement(tmp_path):

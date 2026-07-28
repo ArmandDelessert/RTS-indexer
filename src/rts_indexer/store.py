@@ -73,18 +73,17 @@ class Store:
         page et de continuer.
         """
         try:
-            relpath, leaf, case_changed = pathmap.url_to_location(url)
+            relpath, leaf = pathmap.url_to_location(url)
         except pathmap.PathMappingError as exc:
             self.anomalies.add(("trop_long", url, str(exc)))
             log.warning("URL ignorée (%s): %s", exc, url)
             return False
 
-        if case_changed:
-            self.anomalies.add(("majuscule", url, relpath))
-            log.warning("majuscule normalisée dans le chemin: %s", url)
-
-        # Forme comparable du dossier d'origine, casse comprise : c'est elle qui
-        # révèle deux rubriques que `.lower()` ferait fusionner sur NTFS.
+        # Deux URLs qui ne diffèrent que par la casse produisent désormais des
+        # chemins différents (voir pathmap.escape_segment), donc plus de faux
+        # positif ici. Ce détecteur ne réagit plus qu'à un vrai doublon du
+        # site (ex. deux chemins réellement identiques servis par des routes
+        # distinctes) — rare, mais pas impossible.
         source = url.rstrip("/") if leaf is None else url.rsplit("/", 1)[0]
         previous = self._dir_source.setdefault(relpath, source)
         if previous != source:
@@ -132,6 +131,14 @@ class Store:
                 log.warning("%s illisible (%s), dossier ignoré", path, exc)
                 continue
             entry = self.dirs.setdefault(relpath, DirIndex())
+            # Le chemin sur disque préserve désormais la casse d'origine
+            # (percent-encodée) : on peut reconstruire la source sans perte,
+            # et donc détecter une collision dès le premier ajout d'un run,
+            # pas seulement pour les entrées déjà signalées par le passé.
+            try:
+                self._dir_source.setdefault(relpath, pathmap.location_to_url(relpath).rstrip("/"))
+            except pathmap.PathMappingError:
+                pass
             for line in content.splitlines():
                 line = line.strip()
                 if not line:
@@ -146,13 +153,14 @@ class Store:
         return self
 
     def _load_anomalies(self) -> None:
-        """Recharge le journal d'anomalies.
+        """Recharge le journal d'anomalies, en ne gardant que celles encore
+        valables.
 
-        ``_dir_source`` n'est délibérément *pas* réamorcé depuis les chemins sur
-        disque : ceux-ci ont perdu leur casse, et toute URL à majuscule serait
-        alors signalée en collision à chaque run. En revanche les anomalies de
-        casse persistées gardent l'URL d'origine, ce qui permet de retrouver une
-        vraie collision d'un run à l'autre.
+        Sans ça, une anomalie résolue (une collision qui ne collisionne plus,
+        par exemple depuis que la casse est préservée) ou d'un type retiré du
+        code (l'ancienne détection de majuscule) s'éterniserait dans
+        ``_anomalies.tsv`` indéfiniment, un ``build`` se contentant de la
+        recopier sans jamais la revérifier.
         """
         path = self.data_dir / config.ANOMALIES_FILE
         if not path.is_file():
@@ -166,11 +174,21 @@ class Store:
             fields = line.split("\t")
             if len(fields) != 3:
                 continue
-            self.anomalies.add((fields[0], fields[1], fields[2]))
-            kind, url, relpath = fields
-            if kind == "majuscule":
-                source = url.rstrip("/") if url.endswith("/") else url.rsplit("/", 1)[0]
-                self._dir_source.setdefault(relpath, source)
+            kind, url, detail = fields
+            if self._anomaly_still_applies(kind, url):
+                self.anomalies.add((kind, url, detail))
+
+    def _anomaly_still_applies(self, kind: str, url: str) -> bool:
+        if kind not in ("collision", "trop_long"):
+            return False  # type retiré du code (ex. l'ancienne "majuscule")
+        try:
+            relpath, leaf = pathmap.url_to_location(url)
+        except pathmap.PathMappingError:
+            return kind == "trop_long"
+        if kind == "trop_long":
+            return False  # n'est plus trop long (ex. seuil relevé depuis)
+        source = url.rstrip("/") if leaf is None else url.rsplit("/", 1)[0]
+        return relpath in self._dir_source and self._dir_source[relpath] != source
 
     # -- écriture ------------------------------------------------------------
 
