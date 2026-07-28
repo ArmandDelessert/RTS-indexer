@@ -10,7 +10,7 @@ from pathlib import Path
 from . import config, explorer
 from . import verify as verify_module
 from .sources import crawl as crawl_source
-from .sources import sitemap
+from .sources import sitemap, wayback
 from .store import Store
 
 
@@ -81,6 +81,28 @@ def cmd_crawl(args: argparse.Namespace) -> int:
     print(
         f"{crawler.fetched} pages visitées "
         f"({crawler.from_cache} inchangées), {crawler.discovered} URLs nouvelles"
+    )
+    _report(store.write())
+    return 0
+
+
+def cmd_wayback(args: argparse.Namespace) -> int:
+    """Collecte l'archive historique via l'API CDX d'Internet Archive."""
+    store = _store(args).load()
+    try:
+        client = wayback.collect(store, max_pages=args.max_pages)
+    except KeyboardInterrupt:
+        print("\nInterruption : écriture des URLs déjà collectées...", file=sys.stderr)
+        _report(store.write())
+        raise
+    except Exception:
+        logging.exception("la collecte s'est interrompue, écriture des URLs obtenues")
+        _report(store.write())
+        raise
+
+    print(
+        f"{client.pages_fetched} pages CDX, {client.rows_seen} lignes brutes, "
+        f"{getattr(client, 'added', 0)} URLs nouvelles"
     )
     _report(store.write())
     return 0
@@ -185,6 +207,19 @@ def build_parser() -> argparse.ArgumentParser:
         help="visite aussi les articles (coûteux, pour les liens connexes)",
     )
     p.set_defaults(func=cmd_crawl)
+
+    p = sub.add_parser("wayback", help="collecte l'archive historique (Internet Archive)")
+    p.add_argument(
+        "--max-pages",
+        type=int,
+        default=50,
+        help=(
+            "budget de pages CDX (défaut: %(default)s, 0 = illimité). "
+            "Un parcours complet dépasse 1500 pages à ~10 s chacune : le "
+            "curseur permet d'avancer par tranches successives"
+        ),
+    )
+    p.set_defaults(func=cmd_wayback)
 
     p = sub.add_parser("verify", help="contrôle quelles URLs répondent encore (sigil !)")
     p.add_argument(

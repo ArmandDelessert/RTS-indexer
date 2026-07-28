@@ -19,11 +19,13 @@ from urllib.parse import unquote, urljoin, urlsplit
 from . import config
 
 #: Caractères qui ne doivent jamais apparaître dans un chemin, une fois celui-ci
-#: entièrement décodé. Attrape notamment les artefacts CDX ``%22http://...`` et
+#: entièrement décodé. Attrape notamment les artefacts CDX ``%22http://...``,
 #: les liens de partage social collés à la suite d'une URL rts.ch
-#: (``.../l-ecole/&amp;title=...``) : rts.ch n'utilise jamais ``&`` dans un
-#: chemin, c'est donc sans ambiguïté un artefact d'extraction.
-_ILLEGAL_IN_PATH = re.compile(r"""[\s<>"'\\{}|^\[\]`&]""")
+#: (``.../l-ecole/&amp;title=...``) et les fragments de code JavaScript
+#: archivés par Wayback comme s'ils étaient des URLs (``/;path=/;/``).
+#: Aucun de ces caractères n'apparaît dans les 24'000 URLs légitimes déjà
+#: indexées : leur présence signe un artefact d'extraction.
+_ILLEGAL_IN_PATH = re.compile(r"""[\s<>"'\\{}|^\[\]`&;=]""")
 
 #: Caractères « non réservés » au sens de la RFC 3986 : leur encodage percent est
 #: superflu et doit être défait pour que deux écritures d'une même URL se

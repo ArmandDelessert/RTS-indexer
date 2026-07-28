@@ -37,6 +37,28 @@ SITEMAP_EXTRA: tuple[str, ...] = ("https://www.rts.ch/sport/sitemap-live-sport.x
 
 WAYBACK_CDX = "https://web.archive.org/cdx/search/cdx"
 
+#: Index des crawls Common Crawl. Chaque entrée du JSON est un crawl distinct
+#: (« CC-MAIN-2026-05 »...) avec sa propre API CDX.
+COMMONCRAWL_INDEXES = "https://index.commoncrawl.org/collinfo.json"
+
+# --- Archives CDX (Wayback, Common Crawl) -----------------------------------
+
+#: Ces requêtes prennent une dizaine de secondes : timeout large.
+CDX_TIMEOUT = 180.0
+#: Pause entre deux pages. Ces archives sont des services gratuits et
+#: mutualisés : on ne les interroge pas en rafale, et jamais en parallèle.
+CDX_DELAY = 1.0
+CDX_ATTEMPTS = 4
+#: Base du délai de reprise, doublé à chaque essai. Wayback et Common Crawl
+#: limitent le débit de façon soutenue, pas ponctuelle.
+CDX_BACKOFF = 5.0
+#: Nombre de pages vides consécutives avant de conclure qu'une tranche est
+#: épuisée. Une seule ne suffit pas : les filtres (mimetype, statuscode) sont
+#: appliqués *après* le découpage en blocs, si bien qu'une page intermédiaire
+#: peut ne rien retourner alors que les suivantes ont des données. S'arrêter à
+#: la première tronquerait silencieusement l'archive.
+CDX_EMPTY_TOLERANCE = 3
+
 # --- Réseau -----------------------------------------------------------------
 
 USER_AGENT = (

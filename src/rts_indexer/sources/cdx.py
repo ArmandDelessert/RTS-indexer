@@ -1,0 +1,188 @@
+"""Mécanique commune aux archives interrogeables en CDX.
+
+Wayback Machine et Common Crawl exposent la même interface CDX ; seuls
+diffèrent l'URL de base et le découpage (par année pour Wayback, par index de
+crawl pour Common Crawl). Tout le reste — pagination, curseur de reprise,
+backoff, filtrage — vit ici.
+
+Deux contraintes dictent la conception :
+
+* **Les requêtes sont lentes** (une dizaine de secondes chacune) et les
+  serveurs limitent agressivement le débit. D'où le backoff sur 429/503 et
+  l'absence de concurrence : ces archives ne sont pas des sites à crawler
+  vite, ce sont des bases à interroger poliment.
+* **Un parcours complet dure des heures.** Le curseur est donc persisté après
+  *chaque* page, pour qu'une interruption ne coûte qu'une page et non tout le
+  travail accompli.
+"""
+
+from __future__ import annotations
+
+import json
+import logging
+import time
+from dataclasses import dataclass
+from pathlib import Path
+
+import httpx
+
+from .. import config, fsutil, net, urlnorm
+
+log = logging.getLogger(__name__)
+
+
+@dataclass
+class Segment:
+    """Une tranche interrogeable indépendamment (une année, un index...)."""
+
+    #: Identifiant stable, utilisé comme clé de curseur.
+    key: str
+    #: Paramètres propres à la tranche, fusionnés à la requête.
+    params: dict
+
+
+class CdxClient:
+    """Parcours paginé d'une archive CDX, reprenable."""
+
+    def __init__(
+        self,
+        base_url: str,
+        cursor_file: str,
+        *,
+        cache_dir: Path | None = None,
+        transport: httpx.BaseTransport | None = None,
+        page_size: int | None = None,
+    ) -> None:
+        self.base_url = base_url
+        self.cursor_path = (cache_dir or config.CACHE_DIR) / cursor_file
+        self.transport = transport
+        self.page_size = page_size
+        #: clé de tranche -> prochaine page à demander (une tranche absente
+        #: n'a pas encore été entamée ; valeur ``None`` = tranche terminée)
+        self.cursor: dict[str, int | None] = {}
+        self.pages_fetched = 0
+        self.rows_seen = 0
+
+    # -- curseur -------------------------------------------------------------
+
+    def load_cursor(self) -> None:
+        if not self.cursor_path.is_file():
+            return
+        try:
+            self.cursor = json.loads(fsutil.read_text(self.cursor_path))
+        except (PermissionError, UnicodeDecodeError, json.JSONDecodeError) as exc:
+            log.warning("%s illisible (%s), reprise depuis le début", self.cursor_path, exc)
+            self.cursor = {}
+            return
+        finies = sum(1 for v in self.cursor.values() if v is None)
+        log.info("curseur: %d tranches terminées, %d en cours", finies, len(self.cursor) - finies)
+
+    def save_cursor(self) -> None:
+        self.cursor_path.parent.mkdir(parents=True, exist_ok=True)
+        fsutil.write_text(
+            self.cursor_path, json.dumps(self.cursor, ensure_ascii=False, sort_keys=True)
+        )
+
+    def is_done(self, segment: Segment) -> bool:
+        return self.cursor.get(segment.key, 0) is None
+
+    # -- requêtes ------------------------------------------------------------
+
+    def _params(self, segment: Segment, page: int) -> dict:
+        params = {
+            "url": "rts.ch",
+            "matchType": "domain",
+            "fl": "original",
+            "filter": ["mimetype:text/html", "statuscode:200"],
+            "collapse": "urlkey",
+            "output": "text",
+            "page": str(page),
+            **segment.params,
+        }
+        if self.page_size:
+            params["pageSize"] = str(self.page_size)
+        return params
+
+    def _fetch(self, http: httpx.Client, segment: Segment, page: int) -> str | None:
+        """Corps d'une page, ou ``None`` si elle reste inaccessible.
+
+        Les 429 et 5xx sont retentés avec un délai croissant : ces archives
+        limitent le débit de façon soutenue, abandonner à la première alerte
+        ferait échouer la quasi-totalité des parcours longs.
+        """
+        for attempt in range(1, config.CDX_ATTEMPTS + 1):
+            try:
+                response = http.get(self.base_url, params=self._params(segment, page))
+            except httpx.HTTPError as exc:
+                log.warning("%s p%d: %s (essai %d)", segment.key, page, exc, attempt)
+            else:
+                if response.status_code == 200:
+                    return response.text
+                # 404 sur Common Crawl = aucune capture pour ce motif, ce
+                # n'est pas une erreur mais une tranche vide.
+                if response.status_code == 404:
+                    return ""
+                log.warning(
+                    "%s p%d: HTTP %d (essai %d)",
+                    segment.key,
+                    page,
+                    response.status_code,
+                    attempt,
+                )
+            time.sleep(config.CDX_BACKOFF * 2**attempt)
+        return None
+
+    def iter_segment(self, http: httpx.Client, segment: Segment, max_pages: int = 0):
+        """Produit les URLs canoniques d'une tranche, page par page.
+
+        Le curseur est sauvegardé après chaque page : une interruption ne coûte
+        que la page en cours.
+        """
+        page = self.cursor.get(segment.key, 0)
+        if page is None:
+            return
+        pages_here = 0
+        vides = 0
+
+        while True:
+            if max_pages and pages_here >= max_pages:
+                return
+            body = self._fetch(http, segment, page)
+            if body is None:
+                # Échec durable : on laisse le curseur en place pour reprendre
+                # ici même au prochain run, plutôt que de sauter la page.
+                log.error("%s p%d: abandon, tranche laissée en cours", segment.key, page)
+                return
+
+            lignes = [ligne for ligne in body.splitlines() if ligne.strip()]
+            self.pages_fetched += 1
+            pages_here += 1
+            self.rows_seen += len(lignes)
+
+            if lignes:
+                vides = 0
+                urls = urlnorm.normalize_many(lignes)
+                log.info(
+                    "%s p%d: %d lignes, %d URLs retenues",
+                    segment.key,
+                    page,
+                    len(lignes),
+                    len(urls),
+                )
+                yield from urls
+            else:
+                vides += 1
+                log.info("%s p%d: vide (%d/%d)", segment.key, page, vides, config.CDX_EMPTY_TOLERANCE)
+                if vides >= config.CDX_EMPTY_TOLERANCE:
+                    self.cursor[segment.key] = None
+                    self.save_cursor()
+                    log.info("%s: tranche terminée", segment.key)
+                    return
+
+            page += 1
+            self.cursor[segment.key] = page
+            self.save_cursor()
+            time.sleep(config.CDX_DELAY)
+
+    def client(self) -> httpx.Client:
+        return net.client(transport=self.transport, timeout=config.CDX_TIMEOUT)
