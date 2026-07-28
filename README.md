@@ -53,16 +53,16 @@ python -m rts_indexer <commande> [options]
 ```
 
 | Commande | Rôle |
-|---|---|
-| `sitemap` | Collecte les sitemaps XML déclarés dans `robots.txt` |
-| `crawl` | Parcourt les rubriques connues pour découvrir des articles |
-| `wayback` | Collecte l'archive historique (Internet Archive) |
-| `commoncrawl` | Collecte l'archive Common Crawl |
-| `verify` | Contrôle quelles URLs répondent encore, pose/retire le sigil `!` |
-| `build` | Relit et réécrit `data/` (tri, sharding, purge) sans rien collecter |
-| `site` | Génère la page web de consultation (`site/index.html`) |
-| `stats` | Affiche les compteurs de l'index |
-| `list` | Reconstruit et affiche les URLs complètes depuis `data/` |
+| --- | --- |
+| `sitemap` | Collecte les sitemaps XML déclarés dans `robots.txt`. |
+| `crawl` | Parcourt les rubriques connues pour découvrir des articles. |
+| `wayback` | Collecte l'archive historique (Internet Archive). |
+| `commoncrawl` | Collecte l'archive Common Crawl. |
+| `verify` | Contrôle quelles URLs répondent encore, pose/retire le sigil `!`. |
+| `build` | Relit et réécrit `data/` (tri, sharding, purge) sans rien collecter. |
+| `site` | Génère la page web de consultation (`site/index.html`). |
+| `stats` | Affiche les compteurs de l'index. |
+| `list` | Reconstruit et affiche les URLs complètes depuis `data/`. |
 
 ### `sitemap`
 
