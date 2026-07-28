@@ -23,11 +23,18 @@ def _sans_attente(monkeypatch):
     monkeypatch.setattr(config, "CDX_BACKOFF", 0.0)
 
 
-def _pages(pages: list[list[str]]):
-    """Faux CDX paginé : `pages[n]` = lignes brutes de la page n."""
+def _pages(pages: list[list[str]], total: int | None = None):
+    """Faux CDX paginé : `pages[n]` = lignes brutes de la page n.
+
+    Répond aussi à `showNumPages` (avec `total`, par défaut `len(pages)`),
+    sans compter ces requêtes dans `appels` : ce n'est pas une page.
+    """
     appels: list[int] = []
+    annonce = len(pages) if total is None else total
 
     def handler(request: httpx.Request) -> httpx.Response:
+        if request.url.params.get("showNumPages") == "true":
+            return httpx.Response(200, text=str(annonce))
         page = int(request.url.params.get("page", 0))
         appels.append(page)
         corps = "\n".join(pages[page]) if page < len(pages) else ""
@@ -67,8 +74,8 @@ def test_collecte_et_pagination(tmp_path):
     urls = {u for u, _ in store.urls()}
     assert "https://www.rts.ch/info/suisse/a-1.html" in urls
     assert "https://www.rts.ch/info/culture/c-3.html" in urls
-    # Pages 0 et 1 pleines, puis les pages vides jusqu'à la tolérance.
-    assert appels == [0, 1, 2, 3, 4]
+    # Le total (2) borne exactement le parcours, sans page superflue.
+    assert appels == [0, 1]
     assert client.added == 3
 
 
@@ -104,6 +111,28 @@ def test_page_vide_intermediaire_n_arrete_pas_le_parcours(tmp_path):
         "https://www.rts.ch/a-1.html",
         "https://www.rts.ch/b-2.html",
     }
+
+
+def test_une_serie_de_pages_vides_ne_cloture_plus_faussement_l_archive(tmp_path):
+    """Incident réel : 3 pages vides d'affilée (27 à 29) avaient fait conclure
+    à tort que toute l'archive Wayback était épuisée (curseur mis à `None`),
+    alors que la page 700 contenait à elle seule 1008 lignes. Avec un total de
+    pages connu (`showNumPages`), une simple série de pages creuses ne doit
+    plus jamais clôturer la tranche avant d'avoir réellement atteint la fin."""
+    pages = (
+        [["http://www.rts.ch/racine.html"]]
+        + [[] for _ in range(5)]  # plus que l'ancienne tolérance de 3
+        + [["http://www.rts.ch/dense-plus-loin.html"]]
+    )
+    transport, appels = _pages(pages)
+    store = Store(tmp_path / "data")
+    wayback.collect(store, cache_dir=tmp_path / "cache", transport=transport)
+
+    assert {u for u, _ in store.urls()} == {
+        "https://www.rts.ch/racine.html",
+        "https://www.rts.ch/dense-plus-loin.html",
+    }
+    assert appels == list(range(len(pages)))  # tout parcouru, rien coupé court
 
 
 # -- reprise -----------------------------------------------------------------
@@ -183,6 +212,53 @@ def test_echec_durable_laisse_la_tranche_reprenable(tmp_path):
     )
     curseur = _cursor(cache)
     assert curseur.get(wayback.SEGMENT.key, 0) == 0  # ni terminée (None), ni avancée
+
+
+def test_total_de_pages_mis_en_cache_dans_le_curseur(tmp_path):
+    """Le total ne doit être demandé qu'une fois, pas à chaque run reprenant
+    la même tranche — sans quoi chaque reprise ajouterait une requête inutile
+    sur un serveur déjà lent."""
+    cache = tmp_path / "cache"
+    pages = [["http://www.rts.ch/a-1.html"], ["http://www.rts.ch/b-2.html"]]
+
+    transport, _ = _pages(pages)
+    wayback.collect(
+        Store(tmp_path / "d1"), max_pages=1, cache_dir=cache, transport=transport
+    )
+    assert _cursor(cache)[f"{wayback.SEGMENT.key}:total"] == 2
+
+    appels_showNumPages = {"n": 0}
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        if request.url.params.get("showNumPages") == "true":
+            appels_showNumPages["n"] += 1
+            return httpx.Response(200, text="2")
+        page = int(request.url.params.get("page", 0))
+        corps = "\n".join(pages[page]) if page < len(pages) else ""
+        return httpx.Response(200, text=corps)
+
+    wayback.collect(
+        Store(tmp_path / "d2"), max_pages=1, cache_dir=cache,
+        transport=httpx.MockTransport(handler),
+    )
+    assert appels_showNumPages["n"] == 0  # déjà en cache, pas redemandé
+
+
+def test_total_indisponible_retombe_sur_la_tolerance_aux_pages_vides(tmp_path):
+    """Si `showNumPages` échoue (API indisponible), le filet de secours par
+    défaut doit continuer à fonctionner plutôt que de boucler indéfiniment."""
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        if request.url.params.get("showNumPages") == "true":
+            return httpx.Response(503)
+        page = int(request.url.params.get("page", 0))
+        if page == 0:
+            return httpx.Response(200, text="http://www.rts.ch/a-1.html")
+        return httpx.Response(200, text="")
+
+    store = Store(tmp_path / "data")
+    wayback.collect(store, cache_dir=tmp_path / "cache", transport=httpx.MockTransport(handler))
+    assert {u for u, _ in store.urls()} == {"https://www.rts.ch/a-1.html"}
 
 
 def test_404_traite_comme_tranche_vide(tmp_path):

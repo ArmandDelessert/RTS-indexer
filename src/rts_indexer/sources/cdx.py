@@ -185,21 +185,73 @@ class CdxClient:
             time.sleep(config.CDX_BACKOFF * 2**attempt)
         return "fail", ""
 
+    def _total_pages(self, http: httpx.Client, segment: Segment) -> int | None:
+        """Nombre total de pages, via ``showNumPages``, ou ``None`` si
+        indisponible. Interrogé une fois par tranche puis mis en cache dans le
+        curseur : c'est la seule façon fiable de savoir quand une tranche
+        domaine-entier est réellement épuisée, une simple série de pages
+        creuses ne le permettant pas (voir la note de module).
+
+        Le format de réponse diffère selon le dialecte : Wayback renvoie
+        l'entier nu (``"1511"``), pywb/Common Crawl un objet JSON
+        (``{"pages": 1511, ...}``) même quand la sortie normale est en texte.
+        """
+        params = {k: v for k, v in self._params(segment, 0).items() if k != "page"}
+        params["showNumPages"] = "true"
+        url = segment.base_url or self.base_url
+        try:
+            response = http.get(url, params=params)
+        except httpx.HTTPError as exc:
+            log.warning("%s: showNumPages injoignable (%s)", segment.key, exc)
+            return None
+        if response.status_code != 200:
+            return None
+        text = response.text.strip()
+        try:
+            return int(text)
+        except ValueError:
+            pass
+        try:
+            return int(json.loads(text)["pages"])
+        except (json.JSONDecodeError, KeyError, TypeError, ValueError):
+            return None
+
     def iter_segment(self, http: httpx.Client, segment: Segment, max_pages: int = 0):
         """Produit les URLs canoniques d'une tranche, page par page.
 
         Le curseur est sauvegardé après chaque page : une interruption ne coûte
         que la page en cours.
+
+        La borne de fin repose sur le total de pages (``showNumPages``), pas
+        sur une série de pages vides consécutives. Constaté en réel sur
+        Wayback : les pages 27 à 29 étaient vides alors que la page 700 en
+        contenait 1008 — un domaine paginé dans son intégralité est creux de
+        façon très inégale, si bien qu'aucun nombre de pages vides
+        consécutives n'indique fiablement la fin. Le total sert de filet de
+        secours seulement s'il reste introuvable (API indisponible).
         """
         page = self.cursor.get(segment.key, 0)
         if page is None:
             return
+        total_key = f"{segment.key}:total"
+        total = self.cursor.get(total_key)
+        if total is None:
+            total = self._total_pages(http, segment)
+            if total is not None:
+                self.cursor[total_key] = total
+                self.save_cursor()
+                log.info("%s: %d pages au total", segment.key, total)
+
         pages_here = 0
         vides = 0
 
         while True:
             if max_pages and pages_here >= max_pages:
                 return
+            if total is not None and page >= total:
+                self._close(segment)
+                return
+
             issue, body = self._fetch(http, segment, page)
             if issue == "fail":
                 # Échec durable : on laisse le curseur en place pour reprendre
@@ -219,19 +271,21 @@ class CdxClient:
                 vides = 0
                 urls = urlnorm.normalize_many(lignes)
                 log.info(
-                    "%s p%d: %d lignes, %d URLs retenues",
+                    "%s p%d/%s: %d lignes, %d URLs retenues",
                     segment.key,
                     page,
+                    total if total is not None else "?",
                     len(lignes),
                     len(urls),
                 )
                 yield from urls
             else:
                 vides += 1
-                log.info(
-                    "%s p%d: vide (%d/%d)", segment.key, page, vides, config.CDX_EMPTY_TOLERANCE
-                )
-                if vides >= config.CDX_EMPTY_TOLERANCE:
+                log.info("%s p%d/%s: vide", segment.key, page, total if total is not None else "?")
+                if total is None and vides >= config.CDX_EMPTY_TOLERANCE:
+                    # Filet de secours seulement si le total est resté
+                    # inconnu : mieux vaut s'arrêter tôt que boucler sans fin
+                    # sur une tranche dont on ignore la taille.
                     self._close(segment)
                     return
 

@@ -38,12 +38,17 @@ def _jsonl(urls):
 
 
 def _transport(par_index: dict[str, list[list[str]]], indexes=None):
+    """Répond aussi à `showNumPages` au format pywb (objet JSON, pas l'entier
+    nu de Wayback), sans compter ces requêtes dans `appels`."""
     appels: list[tuple[str, int]] = []
 
     def handler(request: httpx.Request) -> httpx.Response:
         if request.url.path.endswith("collinfo.json"):
             return httpx.Response(200, json=INDEXES if indexes is None else indexes)
         crawl_id = request.url.path.strip("/").replace("-index", "")
+        if request.url.params.get("showNumPages") == "true":
+            total = len(par_index.get(crawl_id, []))
+            return httpx.Response(200, json={"pages": total, "pageSize": 5, "blocks": total})
         page = int(request.url.params.get("page", 0))
         appels.append((crawl_id, page))
         pages = par_index.get(crawl_id, [])
@@ -212,6 +217,27 @@ def test_502_transitoire_est_retente(tmp_path):
     assert {u for u, _ in store.urls()} == {"https://www.rts.ch/ok-1.html"}
 
 
+def test_total_de_pages_au_format_pywb(tmp_path):
+    """`showNumPages` répond en JSON chez Common Crawl (`{"pages": N, ...}`),
+    pas en entier nu comme chez Wayback (`"1511"`) : le mauvais format ferait
+    échouer le total pour de bon, pas seulement se dégrader."""
+    from rts_indexer.sources.cdx import CdxClient
+    from rts_indexer.sources.cdx import COMMONCRAWL as dialecte
+    from rts_indexer.sources.cdx import Segment as Seg
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        if request.url.params.get("showNumPages") == "true":
+            return httpx.Response(200, json={"pages": 3, "pageSize": 5, "blocks": 3})
+        return httpx.Response(200, text="")
+
+    client = CdxClient(
+        "https://exemple.test/cdx", "curseur.json",
+        dialect=dialecte, cache_dir=tmp_path, transport=httpx.MockTransport(handler),
+    )
+    with client.client() as http:
+        assert client._total_pages(http, Seg("x", {})) == 3
+
+
 def test_400_hors_limites_termine_la_tranche_sans_reprise(tmp_path):
     """Constaté en réel : Common Crawl répond 400 pour une page au-delà de la
     dernière (showNumPages annonçait `{"pages": 1}`), là où Wayback renvoie une
@@ -222,6 +248,10 @@ def test_400_hors_limites_termine_la_tranche_sans_reprise(tmp_path):
     def handler(request: httpx.Request) -> httpx.Response:
         if request.url.path.endswith("collinfo.json"):
             return httpx.Response(200, json=INDEXES[:1])
+        if request.url.params.get("showNumPages") == "true":
+            # Indisponible pour ce test : on veut isoler le comportement du
+            # 400 lui-même, pas celui (couvert ailleurs) du total de pages.
+            return httpx.Response(503)
         appels["n"] += 1
         if int(request.url.params.get("page", 0)) == 0:
             return httpx.Response(200, text=_jsonl(["https://www.rts.ch/a-1.html"]))

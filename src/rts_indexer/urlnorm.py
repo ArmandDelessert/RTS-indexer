@@ -34,6 +34,10 @@ _UNRESERVED = frozenset(string.ascii_letters + string.digits + "-._~")
 
 _PCT = re.compile(r"%([0-9A-Fa-f]{2})")
 
+#: Une suite ininterrompue de séquences ``%XX`` : candidate à un décodage
+#: UTF-8 complet (voir :func:`_decode_percent_utf8`).
+_PCT_RUN = re.compile(r"(?:%[0-9A-Fa-f]{2})+")
+
 #: Aucune page rts.ch légitime n'approche cette longueur (les navigateurs et la
 #: plupart des serveurs plafonnent déjà autour de 2000-8000 caractères) ; un
 #: candidat plus long est un artefact d'extraction (bloc JS minifié, texte
@@ -52,6 +56,36 @@ def _decode_unreserved(path: str) -> str:
         return char if char in _UNRESERVED else match.group(0).upper()
 
     return _PCT.sub(repl, path)
+
+
+def _decode_percent_utf8(path: str) -> str:
+    """Décode un octet non-ASCII percent-encodé (ex. ``%E2%80%A6``) en le
+    caractère Unicode réel qu'il représente (``…``), plutôt que de le laisser
+    tel quel dans le chemin.
+
+    Sans ça, une ellipse dans une URL archivée survit sous forme d'une suite
+    de triplets pourcent — et le pire, c'est que :mod:`.pathmap` échappe
+    ensuite *chaque lettre hexadécimale majuscule* de cette suite comme s'il
+    s'agissait d'une vraie majuscule à préserver, produisant un nom de dossier
+    doublement échappé et illisible (constaté en réel :
+    ``%25%452%2580%25%416`` sur disque pour un simple « … »).
+
+    Seuls les octets non-ASCII (``>= 0x80``) sont concernés : un octet ASCII
+    (``%2F`` pour ``/``, par exemple) reste structurel et ne doit surtout pas
+    être décodé ici, sous peine de changer le nombre de segments du chemin.
+    Une suite invalide en UTF-8 est laissée intacte, par prudence.
+    """
+
+    def repl(match: re.Match[str]) -> str:
+        octets = bytes(int(h, 16) for h in re.findall(r"%([0-9A-Fa-f]{2})", match.group(0)))
+        if any(o < 0x80 for o in octets):
+            return match.group(0)
+        try:
+            return octets.decode("utf-8")
+        except UnicodeDecodeError:
+            return match.group(0)
+
+    return _PCT_RUN.sub(repl, path)
 
 
 def _canonical_host(netloc: str) -> str | None:
@@ -121,6 +155,7 @@ def normalize(raw: str, base: str | None = None) -> str | None:
         return None
 
     path = _decode_unreserved(path)
+    path = _decode_percent_utf8(path)
 
     # Résout `.`, `..` et les slashes doublés. normpath supprime le slash final,
     # qui est réappliqué plus bas selon la nature du segment terminal.

@@ -79,6 +79,35 @@ def test_url_absurdement_longue_rejetee():
     assert normalize(trop_long) is None
 
 
+def test_octet_utf8_percent_encode_decode_en_caractere_reel():
+    """Incident réel : une URL Wayback contenait `%E2%80%A6` (l'ellipse « … »
+    percent-encodée en UTF-8). Laissée telle quelle, la suite de triplets
+    pourcent survivait dans le chemin canonique, puis pathmap.escape_segment
+    échappait *chaque lettre hexadécimale majuscule* comme une vraie
+    majuscule à préserver — un nom de dossier doublement échappé et
+    illisible (%25%452%2580%25%416 sur disque). Décoder l'octet non-ASCII en
+    son caractère réel évite ce doublon d'échappement à la racine."""
+    url = "http://www.rts.ch/%E2%80%A6/mi%E2%80%A6/8964162-x.html"
+    assert normalize(url) == "https://www.rts.ch/…/mi…/8964162-x.html"
+
+
+def test_octet_ascii_reste_encode_meme_apres_percent_utf8():
+    """Un octet ASCII percent-encodé (`%2F` pour `/`) est structurel : le
+    décoder changerait le nombre de segments du chemin. Seuls les octets
+    non-ASCII doivent être décodés en caractère réel."""
+    assert normalize("https://www.rts.ch/info/x%2Fy.html") == (
+        "https://www.rts.ch/info/x%2Fy.html"
+    )
+
+
+def test_sequence_utf8_invalide_laissee_intacte():
+    """Une suite d'octets non-ASCII qui ne forme pas de l'UTF-8 valide ne doit
+    pas faire planter la normalisation ; elle reste telle quelle par prudence."""
+    assert normalize("https://www.rts.ch/info/%FF%FE-x.html") == (
+        "https://www.rts.ch/info/%FF%FE-x.html"
+    )
+
+
 def test_resolution_relative_pendant_le_crawl():
     base = "https://www.rts.ch/info/suisse/"
     assert normalize("2026/article/x-1.html", base) == (
