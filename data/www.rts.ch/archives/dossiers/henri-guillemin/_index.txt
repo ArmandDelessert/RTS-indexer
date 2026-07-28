@@ -1,9 +1,17 @@
 ./
 11967548-la-revolution-francaise.html
 3477253-les-grands-ecrivains.html
+3477314-l-autre-avant-guerre-1871-1914-.html
+3477314-l-autre-avant-guerre-1871-1914.html
 3477314-lautre-avantguerre-18711914.html
+3477761-passion-de-l-histoire.html
 3477761-passion-de-lhistoire.html
 3477764-la-commune-de-paris.html
+3477797-l-affaire-petain.html
+3477797-laffaire-petain.html
+3477849-jeanne-d-arc.html
 3477849-jeanne-darc.html
+3477989-napoleon.html
 3478307-leon-tolstoi.html
+7067376-l-affaire-bazaine.html
 7067376-laffaire-bazaine.html

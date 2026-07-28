@@ -1,5 +1,6 @@
 ./
 10000002-gby-go-by-yourself-concoit-des-velos-a-3-roues-et-a-assistance-electrique-pour-personnes-a-mobilite-reduite.html
+10000002-gby-go-by-yourself-concoit-des-velos-electriques-pour-personnes-a-mobilite-reduite.html
 10000011-imverse-cree-un-monde-virtuel-a-partir-dune-photo.html
 10000234-motionpilot-developpe-un-mini-drone-a-piloter-dune-seule-main.html
 10000255-hap2u-veut-donner-du-relief-aux-ecrans-tactiles.html
