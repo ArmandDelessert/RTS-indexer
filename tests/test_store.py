@@ -307,6 +307,29 @@ def test_fichier_index_corrompu_n_empeche_pas_le_chargement(tmp_path):
     assert dict(relu.urls()) == {}  # le dossier abîmé est ignoré, pas planté
 
 
+def test_fichier_disparu_pendant_le_chargement_est_ignore(tmp_path, monkeypatch):
+    """Incident réel : un autre run écrivant dans data/ a purgé un index entre
+    son listage et sa lecture, faisant planter la commande `site`."""
+    store = Store(tmp_path)
+    store.add(ARTICLE)
+    store.add(RUBRIQUE)
+    store.write()
+
+    from rts_indexer import fsutil
+
+    original = fsutil.read_text
+
+    def read_qui_disparait(path):
+        if DOSSIER.replace("/", "\\") in str(path) or DOSSIER in str(path).replace("\\", "/"):
+            raise FileNotFoundError(str(path))
+        return original(path)
+
+    monkeypatch.setattr(fsutil, "read_text", read_qui_disparait)
+
+    relu = Store(tmp_path).load()  # ne doit pas lever
+    assert dict(relu.urls()) == {RUBRIQUE: False}
+
+
 def test_anomalies_corrompues_n_empechent_pas_le_chargement(tmp_path):
     store = Store(tmp_path)
     store.add(ARTICLE)

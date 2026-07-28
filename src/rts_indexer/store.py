@@ -127,6 +127,10 @@ class Store:
         corrompu par une écriture interrompue) est journalisé et ignoré plutôt
         que de faire échouer la relecture de tout le dépôt : un seul dossier
         abîmé ne doit pas rendre l'index entier inexploitable.
+
+        Le ``FileNotFoundError`` couvre un cas bien réel : un autre run en
+        cours peut supprimer un fichier entre son listage et sa lecture, la
+        réécriture purgeant les index devenus obsolètes.
         """
         if not self.data_dir.is_dir():
             return self
@@ -134,7 +138,7 @@ class Store:
             relpath = path.parent.relative_to(self.data_dir).as_posix()
             try:
                 content = fsutil.read_text(path)
-            except (PermissionError, UnicodeDecodeError) as exc:
+            except (PermissionError, UnicodeDecodeError, FileNotFoundError) as exc:
                 log.warning("%s illisible (%s), dossier ignoré", path, exc)
                 continue
             entry = self.dirs.setdefault(relpath, DirIndex())
@@ -176,7 +180,7 @@ class Store:
             return
         try:
             content = fsutil.read_text(path)
-        except (PermissionError, UnicodeDecodeError) as exc:
+        except (PermissionError, UnicodeDecodeError, FileNotFoundError) as exc:
             log.warning("%s illisible (%s), journal d'anomalies ignoré", path, exc)
             return
         for line in content.splitlines()[1:]:

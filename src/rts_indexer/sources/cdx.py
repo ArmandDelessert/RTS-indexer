@@ -1,9 +1,10 @@
 """Mécanique commune aux archives interrogeables en CDX.
 
-Wayback Machine et Common Crawl exposent la même interface CDX ; seuls
-diffèrent l'URL de base et le découpage (par année pour Wayback, par index de
-crawl pour Common Crawl). Tout le reste — pagination, curseur de reprise,
-backoff, filtrage — vit ici.
+Wayback Machine et Common Crawl exposent des interfaces CDX proches mais pas
+identiques : le second est bâti sur pywb, qui nomme ``url`` le champ que le
+premier appelle ``original`` et dont la sortie texte renvoie des ``-`` si on
+lui demande le mauvais nom. D'où les deux *dialectes* ci-dessous. Tout le
+reste — pagination, curseur de reprise, backoff, filtrage — est commun.
 
 Deux contraintes dictent la conception :
 
@@ -23,6 +24,7 @@ import logging
 import time
 from dataclasses import dataclass
 from pathlib import Path
+from typing import Callable
 
 import httpx
 
@@ -33,12 +35,61 @@ log = logging.getLogger(__name__)
 
 @dataclass
 class Segment:
-    """Une tranche interrogeable indépendamment (une année, un index...)."""
+    """Une tranche interrogeable indépendamment (le domaine, un index...)."""
 
     #: Identifiant stable, utilisé comme clé de curseur.
     key: str
     #: Paramètres propres à la tranche, fusionnés à la requête.
     params: dict
+    #: URL de base propre à la tranche, quand elle diffère (chaque index
+    #: Common Crawl a la sienne). ``None`` = celle du client.
+    base_url: str | None = None
+
+
+@dataclass(frozen=True)
+class Dialect:
+    """Ce qui distingue une implémentation CDX d'une autre."""
+
+    #: Paramètres de sortie (nom du champ URL, format).
+    params: dict
+    #: Extrait les URLs brutes du corps d'une réponse.
+    parse: "Callable[[str], list[str]]"
+
+
+def _parse_text(body: str) -> list[str]:
+    return [ligne.strip() for ligne in body.splitlines() if ligne.strip()]
+
+
+def _parse_json_lines(body: str) -> list[str]:
+    """Une ligne = un objet JSON (format pywb). Les lignes illisibles sont
+    ignorées plutôt que de faire échouer toute la page."""
+    urls = []
+    for ligne in body.splitlines():
+        ligne = ligne.strip()
+        if not ligne:
+            continue
+        try:
+            enregistrement = json.loads(ligne)
+        except json.JSONDecodeError:
+            continue
+        url = enregistrement.get("url")
+        if url:
+            urls.append(url)
+    return urls
+
+
+#: Wayback : CDX classique, champ ``original``, sortie texte brute.
+WAYBACK = Dialect(
+    params={"fl": "original", "output": "text", "filter": ["mimetype:text/html", "statuscode:200"]},
+    parse=_parse_text,
+)
+
+#: Common Crawl : pywb, champ ``url``, sortie JSON par lignes. Demander
+#: ``fl=original`` en texte y renvoie silencieusement des ``-``.
+COMMONCRAWL = Dialect(
+    params={"output": "json", "filter": ["mimetype:text/html", "status:200"]},
+    parse=_parse_json_lines,
+)
 
 
 class CdxClient:
@@ -49,11 +100,13 @@ class CdxClient:
         base_url: str,
         cursor_file: str,
         *,
+        dialect: Dialect = WAYBACK,
         cache_dir: Path | None = None,
         transport: httpx.BaseTransport | None = None,
         page_size: int | None = None,
     ) -> None:
         self.base_url = base_url
+        self.dialect = dialect
         self.cursor_path = (cache_dir or config.CACHE_DIR) / cursor_file
         self.transport = transport
         self.page_size = page_size
@@ -92,10 +145,8 @@ class CdxClient:
         params = {
             "url": "rts.ch",
             "matchType": "domain",
-            "fl": "original",
-            "filter": ["mimetype:text/html", "statuscode:200"],
             "collapse": "urlkey",
-            "output": "text",
+            **self.dialect.params,
             "page": str(page),
             **segment.params,
         }
@@ -103,34 +154,36 @@ class CdxClient:
             params["pageSize"] = str(self.page_size)
         return params
 
-    def _fetch(self, http: httpx.Client, segment: Segment, page: int) -> str | None:
-        """Corps d'une page, ou ``None`` si elle reste inaccessible.
+    def _fetch(self, http: httpx.Client, segment: Segment, page: int) -> tuple[str, str]:
+        """Retourne ``(issue, corps)`` où *issue* vaut :
+
+        * ``"ok"`` — page récupérée (le corps peut être vide) ;
+        * ``"end"`` — la tranche est épuisée, définitivement ;
+        * ``"fail"`` — inaccessible malgré les reprises.
 
         Les 429 et 5xx sont retentés avec un délai croissant : ces archives
-        limitent le débit de façon soutenue, abandonner à la première alerte
-        ferait échouer la quasi-totalité des parcours longs.
+        limitent le débit de façon soutenue, et abandonner à la première alerte
+        ferait échouer la quasi-totalité des parcours longs. Les autres 4xx ne
+        le sont pas — une requête invalide le restera. Common Crawl répond
+        d'ailleurs 400 pour une page au-delà de la dernière, là où Wayback
+        renvoie une page vide : c'est une fin de tranche, pas une panne.
         """
+        url = segment.base_url or self.base_url
         for attempt in range(1, config.CDX_ATTEMPTS + 1):
             try:
-                response = http.get(self.base_url, params=self._params(segment, page))
+                response = http.get(url, params=self._params(segment, page))
             except httpx.HTTPError as exc:
                 log.warning("%s p%d: %s (essai %d)", segment.key, page, exc, attempt)
             else:
-                if response.status_code == 200:
-                    return response.text
-                # 404 sur Common Crawl = aucune capture pour ce motif, ce
-                # n'est pas une erreur mais une tranche vide.
-                if response.status_code == 404:
-                    return ""
-                log.warning(
-                    "%s p%d: HTTP %d (essai %d)",
-                    segment.key,
-                    page,
-                    response.status_code,
-                    attempt,
-                )
+                code = response.status_code
+                if code == 200:
+                    return "ok", response.text
+                if 400 <= code < 500 and code != 429:
+                    log.info("%s p%d: HTTP %d, fin de tranche", segment.key, page, code)
+                    return "end", ""
+                log.warning("%s p%d: HTTP %d (essai %d)", segment.key, page, code, attempt)
             time.sleep(config.CDX_BACKOFF * 2**attempt)
-        return None
+        return "fail", ""
 
     def iter_segment(self, http: httpx.Client, segment: Segment, max_pages: int = 0):
         """Produit les URLs canoniques d'une tranche, page par page.
@@ -147,14 +200,17 @@ class CdxClient:
         while True:
             if max_pages and pages_here >= max_pages:
                 return
-            body = self._fetch(http, segment, page)
-            if body is None:
+            issue, body = self._fetch(http, segment, page)
+            if issue == "fail":
                 # Échec durable : on laisse le curseur en place pour reprendre
                 # ici même au prochain run, plutôt que de sauter la page.
                 log.error("%s p%d: abandon, tranche laissée en cours", segment.key, page)
                 return
+            if issue == "end":
+                self._close(segment)
+                return
 
-            lignes = [ligne for ligne in body.splitlines() if ligne.strip()]
+            lignes = self.dialect.parse(body)
             self.pages_fetched += 1
             pages_here += 1
             self.rows_seen += len(lignes)
@@ -172,17 +228,23 @@ class CdxClient:
                 yield from urls
             else:
                 vides += 1
-                log.info("%s p%d: vide (%d/%d)", segment.key, page, vides, config.CDX_EMPTY_TOLERANCE)
+                log.info(
+                    "%s p%d: vide (%d/%d)", segment.key, page, vides, config.CDX_EMPTY_TOLERANCE
+                )
                 if vides >= config.CDX_EMPTY_TOLERANCE:
-                    self.cursor[segment.key] = None
-                    self.save_cursor()
-                    log.info("%s: tranche terminée", segment.key)
+                    self._close(segment)
                     return
 
             page += 1
             self.cursor[segment.key] = page
             self.save_cursor()
             time.sleep(config.CDX_DELAY)
+
+    def _close(self, segment: Segment) -> None:
+        """Marque la tranche comme épuisée, définitivement."""
+        self.cursor[segment.key] = None
+        self.save_cursor()
+        log.info("%s: tranche terminée", segment.key)
 
     def client(self) -> httpx.Client:
         return net.client(transport=self.transport, timeout=config.CDX_TIMEOUT)

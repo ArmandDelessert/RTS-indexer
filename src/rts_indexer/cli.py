@@ -9,6 +9,7 @@ from pathlib import Path
 
 from . import config, explorer
 from . import verify as verify_module
+from .sources import commoncrawl
 from .sources import crawl as crawl_source
 from .sources import sitemap, wayback
 from .store import Store
@@ -103,6 +104,33 @@ def cmd_wayback(args: argparse.Namespace) -> int:
     print(
         f"{client.pages_fetched} pages CDX, {client.rows_seen} lignes brutes, "
         f"{getattr(client, 'added', 0)} URLs nouvelles"
+    )
+    _report(store.write())
+    return 0
+
+
+def cmd_commoncrawl(args: argparse.Namespace) -> int:
+    """Collecte l'archive de la fondation Common Crawl."""
+    store = _store(args).load()
+    try:
+        client = commoncrawl.collect(
+            store,
+            max_pages=args.max_pages,
+            pages_per_index=args.pages_per_index,
+            max_indexes=args.max_indexes,
+        )
+    except KeyboardInterrupt:
+        print("\nInterruption : écriture des URLs déjà collectées...", file=sys.stderr)
+        _report(store.write())
+        raise
+    except Exception:
+        logging.exception("la collecte s'est interrompue, écriture des URLs obtenues")
+        _report(store.write())
+        raise
+
+    print(
+        f"{client.pages_fetched} pages CDX, {client.rows_seen} lignes brutes, "
+        f"{client.added} URLs nouvelles"
     )
     _report(store.write())
     return 0
@@ -220,6 +248,27 @@ def build_parser() -> argparse.ArgumentParser:
         ),
     )
     p.set_defaults(func=cmd_wayback)
+
+    p = sub.add_parser("commoncrawl", help="collecte l'archive Common Crawl")
+    p.add_argument(
+        "--max-pages", type=int, default=50, help="budget de pages CDX (0 = illimité)"
+    )
+    p.add_argument(
+        "--pages-per-index",
+        type=int,
+        default=5,
+        help=(
+            "budget par crawl (défaut: %(default)s). Deux crawls voisins se "
+            "recouvrent beaucoup : mieux vaut en balayer plusieurs que creuser un seul"
+        ),
+    )
+    p.add_argument(
+        "--max-indexes",
+        type=int,
+        default=12,
+        help="nombre de crawls considérés, du plus récent (défaut: %(default)s, 0 = tous)",
+    )
+    p.set_defaults(func=cmd_commoncrawl)
 
     p = sub.add_parser("verify", help="contrôle quelles URLs répondent encore (sigil !)")
     p.add_argument(
