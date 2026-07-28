@@ -168,6 +168,30 @@ def test_archive_terminee_n_est_pas_reparcourue(tmp_path):
     assert appels == []  # rien à refaire
 
 
+def test_reset_relance_une_archive_marquee_terminee(tmp_path):
+    """Cas réel : le curseur ayant été clos à tort par une version buguée du
+    code, corriger la logique ne suffisait pas — l'état persisté survit aux
+    correctifs et bloquait tout nouveau parcours. `--reset` doit permettre de
+    repartir sans supprimer un fichier à la main."""
+    cache = tmp_path / "cache"
+    cache.mkdir(parents=True)
+    (cache / "wayback_cursor.json").write_text(
+        json.dumps({wayback.SEGMENT.key: None}), encoding="utf-8"
+    )
+
+    # Sans reset : rien n'est fait, l'archive est réputée terminée.
+    transport, appels = _pages([["http://www.rts.ch/a-1.html"]])
+    wayback.collect(Store(tmp_path / "d1"), cache_dir=cache, transport=transport)
+    assert appels == []
+
+    # Avec reset : le parcours reprend depuis la page 0.
+    transport, appels = _pages([["http://www.rts.ch/a-1.html"]])
+    store = Store(tmp_path / "d2")
+    wayback.collect(store, reset=True, cache_dir=cache, transport=transport)
+    assert appels == [0]
+    assert {u for u, _ in store.urls()} == {"https://www.rts.ch/a-1.html"}
+
+
 def test_curseur_corrompu_repart_du_debut(tmp_path):
     cache = tmp_path / "cache"
     cache.mkdir(parents=True)
@@ -242,6 +266,31 @@ def test_total_de_pages_mis_en_cache_dans_le_curseur(tmp_path):
         transport=httpx.MockTransport(handler),
     )
     assert appels_showNumPages["n"] == 0  # déjà en cache, pas redemandé
+
+
+def test_showNumPages_est_demande_sans_fl(tmp_path):
+    """Constaté en réel : `fl=original` combiné à `showNumPages` fait répondre
+    `-` (le champ demandé, vide) au lieu du nombre, sans erreur HTTP. Le total
+    restait donc introuvable en silence et le parcours retombait sur le filet
+    de secours que ce total doit justement remplacer."""
+    vus: list[dict] = []
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        if request.url.params.get("showNumPages") == "true":
+            vus.append(dict(request.url.params))
+            return httpx.Response(200, text="7")
+        return httpx.Response(200, text="")
+
+    client = CdxClient(
+        "https://exemple.test/cdx", "curseur.json",
+        cache_dir=tmp_path, transport=httpx.MockTransport(handler),
+    )
+    with client.client() as http:
+        assert client._total_pages(http, Segment("x", {})) == 7
+
+    assert "fl" not in vus[0]
+    # Les filtres, eux, doivent rester : ils changent le nombre de pages.
+    assert "filter" in vus[0]
 
 
 def test_total_indisponible_retombe_sur_la_tolerance_aux_pages_vides(tmp_path):

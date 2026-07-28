@@ -139,6 +139,18 @@ class CdxClient:
     def is_done(self, segment: Segment) -> bool:
         return self.cursor.get(segment.key, 0) is None
 
+    def reset_cursor(self) -> None:
+        """Oublie toute progression : le prochain parcours repart de zéro.
+
+        Nécessaire quand une tranche a été close à tort — le curseur survivant
+        aux corrections de code, réparer la logique ne suffit pas à débloquer
+        un parcours déjà marqué terminé. Réindexer est sans risque : ajouter
+        une URL déjà connue ne fait rien.
+        """
+        self.cursor = {}
+        self.save_cursor()
+        log.info("curseur remis à zéro: %s", self.cursor_path)
+
     # -- requêtes ------------------------------------------------------------
 
     def _params(self, segment: Segment, page: int) -> dict:
@@ -195,8 +207,16 @@ class CdxClient:
         Le format de réponse diffère selon le dialecte : Wayback renvoie
         l'entier nu (``"1511"``), pywb/Common Crawl un objet JSON
         (``{"pages": 1511, ...}``) même quand la sortie normale est en texte.
+
+        ``fl`` est retiré de la requête, et c'est indispensable : combiné à
+        ``showNumPages``, il fait répondre ``-`` (le champ demandé, vide) au
+        lieu du nombre — sans erreur HTTP. Le total restait donc introuvable
+        en silence, et le parcours retombait sur le filet de secours que ce
+        total est précisément censé remplacer.
         """
-        params = {k: v for k, v in self._params(segment, 0).items() if k != "page"}
+        params = {
+            k: v for k, v in self._params(segment, 0).items() if k not in ("page", "fl")
+        }
         params["showNumPages"] = "true"
         url = segment.base_url or self.base_url
         try:

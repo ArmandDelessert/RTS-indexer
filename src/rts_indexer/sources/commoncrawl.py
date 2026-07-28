@@ -100,6 +100,7 @@ def collect(
     max_pages: int = 0,
     pages_per_index: int = 0,
     max_indexes: int = 0,
+    reset: bool = False,
     cache_dir=None,
     transport=None,
 ) -> CdxClient:
@@ -118,6 +119,8 @@ def collect(
         transport=transport,
     )
     client.load_cursor()
+    if reset:
+        client.reset_cursor()
     client.added = 0
 
     tranches = [

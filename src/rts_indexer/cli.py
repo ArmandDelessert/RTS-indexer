@@ -91,7 +91,7 @@ def cmd_wayback(args: argparse.Namespace) -> int:
     """Collecte l'archive historique via l'API CDX d'Internet Archive."""
     store = _store(args).load()
     try:
-        client = wayback.collect(store, max_pages=args.max_pages)
+        client = wayback.collect(store, max_pages=args.max_pages, reset=args.reset)
     except KeyboardInterrupt:
         print("\nInterruption : écriture des URLs déjà collectées...", file=sys.stderr)
         _report(store.write())
@@ -118,6 +118,7 @@ def cmd_commoncrawl(args: argparse.Namespace) -> int:
             max_pages=args.max_pages,
             pages_per_index=args.pages_per_index,
             max_indexes=args.max_indexes,
+            reset=args.reset,
         )
     except KeyboardInterrupt:
         print("\nInterruption : écriture des URLs déjà collectées...", file=sys.stderr)
@@ -247,6 +248,11 @@ def build_parser() -> argparse.ArgumentParser:
             "curseur permet d'avancer par tranches successives"
         ),
     )
+    p.add_argument(
+        "--reset",
+        action="store_true",
+        help="oublie la progression enregistrée et repart de la page 0",
+    )
     p.set_defaults(func=cmd_wayback)
 
     p = sub.add_parser("commoncrawl", help="collecte l'archive Common Crawl")
@@ -267,6 +273,11 @@ def build_parser() -> argparse.ArgumentParser:
         type=int,
         default=12,
         help="nombre de crawls considérés, du plus récent (défaut: %(default)s, 0 = tous)",
+    )
+    p.add_argument(
+        "--reset",
+        action="store_true",
+        help="oublie la progression enregistrée et repart du début",
     )
     p.set_defaults(func=cmd_commoncrawl)
 

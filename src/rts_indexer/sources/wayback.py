@@ -37,6 +37,7 @@ def collect(
     store: Store,
     *,
     max_pages: int = 0,
+    reset: bool = False,
     cache_dir=None,
     transport=None,
 ) -> CdxClient:
@@ -45,11 +46,15 @@ def collect(
     ``max_pages`` borne le run : un parcours complet représente plus de 1500
     pages à une dizaine de secondes chacune, soit plusieurs heures. Le curseur
     étant persisté après chaque page, on peut avancer par tranches successives.
+
+    ``reset`` oublie la progression enregistrée et repart de la page 0.
     """
     client = CdxClient(
         config.WAYBACK_CDX, CURSOR_FILE, cache_dir=cache_dir, transport=transport
     )
     client.load_cursor()
+    if reset:
+        client.reset_cursor()
     client.added = 0
 
     if client.is_done(SEGMENT):
