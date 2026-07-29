@@ -62,8 +62,8 @@ CDX_EMPTY_TOLERANCE = 3
 # --- Réseau -----------------------------------------------------------------
 
 USER_AGENT = (
-    "RTS-URL-indexer/0.1 "
-    "(+https://github.com/ArmandDelessert/RTS-URL-indexer)"
+    "RTS-indexer/0.1 "
+    "(+https://github.com/ArmandDelessert/RTS-indexer)"
 )
 REQUEST_TIMEOUT = 30.0
 #: Délai minimal entre deux requêtes séquentielles (secondes).

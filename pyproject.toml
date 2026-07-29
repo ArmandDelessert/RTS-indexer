@@ -3,7 +3,7 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "rts-url-indexer"
+name = "rts-indexer"
 version = "0.1.0"
 description = "Index des URLs du site rts.ch, stocké en texte dans le dépôt Git"
 requires-python = ">=3.11"

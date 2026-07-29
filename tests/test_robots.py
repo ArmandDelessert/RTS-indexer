@@ -69,7 +69,7 @@ def test_le_groupe_etoile_est_retenu(rules):
 
 def test_groupe_specifique_prioritaire():
     rules = parse(
-        "User-agent: *\nDisallow: /\n\nUser-agent: RTS-URL-indexer\nDisallow: /prive/\n"
+        "User-agent: *\nDisallow: /\n\nUser-agent: RTS-indexer\nDisallow: /prive/\n"
     )
     assert rules.allowed("/info/") is True
     assert rules.allowed("/prive/x") is False

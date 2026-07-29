@@ -1,4 +1,4 @@
-# RTS-URL-indexer
+# RTS-indexer
 
 Indexation automatisée des URLs du site [rts.ch](https://www.rts.ch/) : scraping, structuration et
 archivage de la totalité des URLs découvrables, stockées **en texte dans ce dépôt Git**, sans
