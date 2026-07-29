@@ -1,0 +1,3 @@
+./
+euro-special.html
+football-euro.html
