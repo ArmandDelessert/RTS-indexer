@@ -1,11 +1,11 @@
 {
   "anomalies": 103,
-  "dossiers": 138709,
-  "generated_at": "2026-07-28T21:00:43+00:00",
+  "dossiers": 138525,
+  "generated_at": "2026-08-02T19:17:46+00:00",
   "mortes": 7,
   "par_hote": {
-    "www.rts.ch": 656455
+    "www.rts.ch": 656271
   },
-  "urls": 656455,
-  "vivantes_ou_non_verifiees": 656448
+  "urls": 656271,
+  "vivantes_ou_non_verifiees": 656264
 }
