@@ -1,0 +1,40 @@
+# Collecte des archives : Wayback Machine et Common Crawl.
+#
+# Séparé des autres cadences parce que le profil est tout autre. Les requêtes
+# CDX prennent une dizaine de secondes chacune (temps de calcul côté serveur,
+# pas un délai qu'on impose), un parcours complet dépasse 1500 pages, et les
+# deux services limitent le débit de façon soutenue. C'est une collecte qui se
+# mène par tranches sur des semaines, pas un entretien régulier.
+#
+# Le curseur (restauré depuis le cache, cf. _collecte.yml) permet cette reprise
+# par tranches : chaque exécution repart exactement où la précédente s'est
+# arrêtée. Le parcours Wayback initial étant terminé, ce workflow ne sert plus
+# qu'à ramasser ce que l'archive a indexé depuis — d'où la cadence mensuelle et
+# le budget modeste.
+#
+# `commoncrawl` n'est pas planifié : son rendement mesuré sur www.rts.ch est
+# nul. Il redeviendrait pertinent si l'index s'étendait aux sous-domaines
+# (avecvous.rts.ch, boutique.rts.ch...), bien mieux couverts par Common Crawl.
+# En attendant, il reste lançable à la main via `workflow_dispatch`.
+
+name: archives
+
+on:
+  schedule:
+    - cron: "13 2 1 * *"
+  workflow_dispatch:
+    inputs:
+      commandes:
+        description: "Commandes à exécuter (une par ligne)"
+        required: true
+        default: "wayback --max-pages 200"
+        type: string
+
+jobs:
+  collecte:
+    uses: ./.github/workflows/_collecte.yml
+    with:
+      # Sur déclenchement planifié, `inputs` est vide : on retombe sur le budget
+      # mensuel par défaut.
+      commandes: ${{ inputs.commandes || 'wayback --max-pages 200' }}
+      resume: nouvelles URLs issues des archives

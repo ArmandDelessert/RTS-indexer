@@ -1,0 +1,141 @@
+# Mécanique commune à toutes les collectes planifiées.
+#
+# Ce workflow n'est jamais déclenché directement : il est appelé par les
+# workflows de cadence (rss.yml, hebdomadaire.yml, archives.yml), qui ne
+# fournissent que la liste des commandes à passer et le résumé du commit. Tout
+# le reste — checkout, dépendances, curseurs, commit, push — vit ici, en un
+# seul endroit : c'est la partie délicate, et la triplicer garantirait qu'une
+# correction n'atterrisse que dans deux workflows sur trois.
+
+name: collecte (réutilisable)
+
+on:
+  workflow_call:
+    inputs:
+      commandes:
+        description: >
+          Une commande `rts_indexer` par ligne, exécutées dans l'ordre.
+          Chacune relit et réécrit l'index : en enchaîner beaucoup coûte cher.
+        required: true
+        type: string
+      resume:
+        description: "Résumé placé en titre du commit, après le préfixe `data:`."
+        required: true
+        type: string
+
+# Toutes les cadences écrivent dans le même `data/` et poussent sur la même
+# branche. Un groupe partagé les sérialise ; `cancel-in-progress: false` parce
+# qu'une collecte à moitié faite mérite d'être terminée et committée, pas jetée.
+concurrency:
+  group: index-ecriture
+  cancel-in-progress: false
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    # Le plafond dur de GitHub est de 360 min ; on s'arrête un peu avant pour
+    # que l'étape de commit ait le temps de sauver ce qui a été collecté.
+    timeout-minutes: 330
+    permissions:
+      contents: write
+
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+        with:
+          # Historique complet : le pack ne pèse que ~16 Mo, et un clone
+          # superficiel complique le `pull --rebase` de l'étape de push.
+          fetch-depth: 0
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      # `pip install` du paquet, et non `-r requirements.txt` : le code vit sous
+      # `src/`, absent du sys.path par défaut — n'installer que les dépendances
+      # laisserait `python -m rts_indexer` introuvable. pyproject déclare déjà
+      # httpx et lxml, ce qui évite au passage pytest et ruff, inutiles ici.
+      #
+      # **Éditable (`-e`) obligatoire** : config.REPO_ROOT se déduit de
+      # `__file__` (`parents[2]`). Une installation classique copierait le
+      # paquet dans site-packages, d'où un REPO_ROOT hors du dépôt et un
+      # `data/` écrit au mauvais endroit. L'éditable laisse le code en place.
+      - name: Installer le paquet et ses dépendances
+        run: pip install -e .
+
+      # `.cache/` est dans .gitignore, donc absent du dépôt et perdu à chaque
+      # run. Or il porte les curseurs de reprise : sans cette étape, la
+      # rotation des graines du crawl et la progression Wayback repartiraient
+      # de zéro à chaque exécution, ce qui viderait les deux de leur sens.
+      # La clé inclut le run_id (un cache est immuable) et `restore-keys`
+      # récupère le plus récent des précédents.
+      - name: Restaurer les curseurs de reprise
+        uses: actions/cache/restore@v4
+        with:
+          path: .cache
+          key: rts-cache-${{ github.run_id }}
+          restore-keys: rts-cache-
+
+      - name: Collecter
+        env:
+          # Passé par l'environnement plutôt qu'interpolé dans le script :
+          # `${{ }}` en plein `run:` est le vecteur classique d'injection.
+          COMMANDES: ${{ inputs.commandes }}
+        run: |
+          set -euo pipefail
+          : > resultat.txt
+          while IFS= read -r ligne; do
+            if [ -z "$ligne" ]; then
+              continue
+            fi
+            echo "::group::rts_indexer $ligne"
+            # stdout (les compteurs) est capturé pour le message de commit ;
+            # stderr (le journal détaillé) reste dans les logs du run.
+            python -m rts_indexer $ligne | tee -a resultat.txt
+            echo "::endgroup::"
+          done <<< "$COMMANDES"
+
+      # Explicite plutôt que le post-run automatique d'`actions/cache` : les
+      # curseurs doivent être sauvés *même* si la collecte a échoué ou dépassé
+      # son temps. Une collecte Wayback interrompue à 95 % a déjà consommé des
+      # heures de requêtes ; perdre le curseur obligerait à tout refaire.
+      - name: Sauvegarder les curseurs de reprise
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: .cache
+          key: rts-cache-${{ github.run_id }}
+
+      # `always()` pour la même raison, en plus impérieux : le runner est
+      # détruit à la fin du job. Ce que la collecte a écrit dans `data/` mais
+      # qui n'est pas committé est perdu pour de bon — y compris ce que les
+      # gardes-fous du CLI ont sauvé avant de propager l'erreur.
+      - name: Committer et pousser
+        if: always()
+        env:
+          RESUME: ${{ inputs.resume }}
+        run: |
+          set -euo pipefail
+          # `git add` d'abord : un `git diff` seul ne verrait pas les nouveaux
+          # dossiers, qui sont justement le cas nominal ici.
+          git add data
+          if git diff --cached --quiet; then
+            echo "Aucune nouveauté dans data/ : rien à committer."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          {
+            echo "data: $RESUME"
+            echo
+            cat resultat.txt
+          } | git commit -F -
+
+          # Filet en cas de push humain entre-temps : le groupe de concurrence
+          # sérialise les workflows entre eux, pas les commits manuels.
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

@@ -167,6 +167,38 @@ python -m rts_indexer stats          # compteurs (urls, mortes, dossiers, anomal
 python -m rts_indexer list [--limit N]
 ```
 
+## Automatisation (GitHub Actions)
+
+Trois cadences, parce que les sources n'ont pas du tout le même profil de coût.
+Toutes committent et poussent elles-mêmes ce qu'elles trouvent, et partagent la même
+mécanique (`_collecte.yml`, workflow réutilisable) : checkout, curseurs, commit, push.
+
+| Workflow | Cadence | Commandes | Pourquoi ce rythme |
+| --- | --- | --- | --- |
+| `rss.yml` | 2×/jour | `rss` | La fenêtre des flux est de ~24h ; deux passages laissent une marge aux retards du planificateur. |
+| `hebdomadaire.yml` | lundi | `sitemap`, `crawl`, `verify` | Entretien de la structure et contrôle de vivacité, par tranches budgétées. |
+| `archives.yml` | mensuel + manuel | `wayback` | Requêtes lentes, parcours par tranches sur des semaines. |
+
+Un groupe de concurrence partagé (`index-ecriture`) les sérialise : ils écrivent tous dans
+`data/` et poussent sur la même branche.
+
+**Avant la première exécution**, deux points à régler côté dépôt :
+
+1. *Settings → Actions → General → Workflow permissions* doit être sur **Read and write
+   permissions**, sans quoi le `git push` échoue en 403.
+2. Lancer chaque workflow **à la main** (`workflow_dispatch`) une première fois. Les budgets
+   (`--max-pages`, `--limit`) sont volontairement prudents : chaque commande paie un cycle
+   complet de relecture/réécriture de l'index, dont le coût sur un runner Linux n'a pas encore
+   été mesuré. Les relever une fois les vrais temps connus.
+
+Deux comportements de GitHub Actions à garder en tête : un `cron` est « au mieux » et peut être
+retardé de plusieurs dizaines de minutes aux heures chargées ; et les workflows planifiés sont
+désactivés automatiquement après 60 jours sans activité sur le dépôt.
+
+Les curseurs de reprise (rotation des graines du crawl, progression Wayback) vivent dans
+`.cache/`, qui n'est pas versionné : ils sont persistés d'une exécution à l'autre par
+`actions/cache`, et sauvegardés même en cas d'échec pour ne pas perdre des heures de collecte.
+
 ## Tests
 
 ```bash

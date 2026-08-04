@@ -1,0 +1,35 @@
+# Cadence hebdomadaire : entretenir la structure et contrôler la vivacité.
+#
+# Trois commandes, dans cet ordre :
+#
+# * `sitemap` rafraîchit les pages de rubrique — la graine du crawl. Peu coûteux
+#   en réseau, mais il relit et réécrit l'index comme toute commande.
+# * `crawl` visite une tranche de rubriques. Le budget sert aussi de taille de
+#   tranche : le curseur de rotation (restauré depuis le cache) fait avancer la
+#   fenêtre à chaque exécution, si bien que les semaines successives couvrent
+#   toute la liste au lieu de repasser sur les mêmes premières rubriques.
+# * `verify` contrôle un échantillon. À ~2 requêtes/s, vérifier les 656'000 URLs
+#   demanderait plusieurs jours d'affilée : c'est un budget par exécution, pas
+#   un passage complet, et les URLs jamais contrôlées passent en premier.
+#
+# Les budgets ci-dessous sont volontairement prudents pour la première mise en
+# service : chaque commande paie un cycle load/write complet, et le coût réel
+# sur un runner Linux n'a pas encore été mesuré. À relever une fois qu'un run
+# manuel aura donné les vrais temps.
+
+name: hebdomadaire
+
+on:
+  schedule:
+    - cron: "43 3 * * 1"
+  workflow_dispatch:
+
+jobs:
+  collecte:
+    uses: ./.github/workflows/_collecte.yml
+    with:
+      commandes: |
+        sitemap
+        crawl --max-pages 1500
+        verify --limit 2000
+      resume: parcours hebdomadaire (sitemap, crawl, verify)
