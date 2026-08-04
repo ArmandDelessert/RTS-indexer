@@ -122,6 +122,8 @@ CRAWL_IDLE_TIMEOUT = 2.0
 #: Borne la perte en cas d'incident non rattrapable en Python (coupure de
 #: courant, kill -9) à ce nombre de pages plutôt qu'à la totalité du run.
 CRAWL_CHECKPOINT_PAGES = 200
+#: Fichier de curseur pour la rotation des graines (cf. crawl.select_seeds).
+CRAWL_SEED_CURSOR_FILE = "crawl_seed_cursor.json"
 
 # --- Contrôle de vivacité (verify) ------------------------------------------
 

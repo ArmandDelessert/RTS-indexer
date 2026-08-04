@@ -4,7 +4,7 @@ import httpx
 import pytest
 
 from rts_indexer import config, robots
-from rts_indexer.sources.crawl import Crawler, _extract
+from rts_indexer.sources.crawl import Crawler, _extract, select_seeds
 from rts_indexer.store import Store
 
 # Faux rts.ch : une racine, deux rubriques, des articles, et du bruit hors
@@ -311,3 +311,58 @@ def test_second_run_utilise_le_cache(tmp_path):
     # …et rien de nouveau n'a été trouvé, donc le dépôt ne bougera pas.
     assert second.discovered == 0
     assert {url for url, _ in second.store.urls()} == attendu
+
+
+# -- rotation des graines ------------------------------------------------
+
+
+def test_select_seeds_avance_le_curseur_d_un_run_a_l_autre(tmp_path):
+    seeds = [f"https://www.rts.ch/r{i}/" for i in range(10)]
+    premier = select_seeds(seeds, limit=4, cache_dir=tmp_path)
+    second = select_seeds(seeds, limit=4, cache_dir=tmp_path)
+    assert premier == seeds[0:4]
+    assert second == seeds[4:8]
+    # Les deux tranches ne se recouvrent pas : c'est le point de la rotation.
+    assert not set(premier) & set(second)
+
+
+def test_select_seeds_boucle_a_la_fin_de_la_liste(tmp_path):
+    seeds = [f"https://www.rts.ch/r{i}/" for i in range(10)]
+    select_seeds(seeds, limit=4, cache_dir=tmp_path)  # 0:4
+    select_seeds(seeds, limit=4, cache_dir=tmp_path)  # 4:8
+    troisieme = select_seeds(seeds, limit=4, cache_dir=tmp_path)  # 8:10 puis 0:2
+    assert troisieme == [seeds[8], seeds[9], seeds[0], seeds[1]]
+
+
+def test_select_seeds_illimite_renvoie_tout_sans_toucher_au_curseur(tmp_path):
+    seeds = [f"https://www.rts.ch/r{i}/" for i in range(10)]
+    assert select_seeds(seeds, limit=0, cache_dir=tmp_path) == seeds
+    # Un run illimité ne doit pas décaler la reprise d'un run budgété suivant.
+    assert select_seeds(seeds, limit=4, cache_dir=tmp_path) == seeds[0:4]
+
+
+def test_select_seeds_reset_repart_du_debut(tmp_path):
+    seeds = [f"https://www.rts.ch/r{i}/" for i in range(10)]
+    select_seeds(seeds, limit=4, cache_dir=tmp_path)  # 0:4
+    repris = select_seeds(seeds, limit=4, cache_dir=tmp_path, reset=True)
+    assert repris == seeds[0:4]
+
+
+def test_select_seeds_curseur_corrompu_repart_a_zero(tmp_path):
+    (tmp_path / config.CRAWL_SEED_CURSOR_FILE).write_text("pas du json", encoding="utf-8")
+    seeds = [f"https://www.rts.ch/r{i}/" for i in range(10)]
+    assert select_seeds(seeds, limit=4, cache_dir=tmp_path) == seeds[0:4]
+
+
+def test_select_seeds_absorbe_une_liste_qui_change_de_taille(tmp_path):
+    """De nouvelles rubriques apparaissent d'un run à l'autre : le curseur ne
+    doit pas planter, même s'il ne pointe plus exactement où avant."""
+    petite = [f"https://www.rts.ch/r{i}/" for i in range(5)]
+    select_seeds(petite, limit=4, cache_dir=tmp_path)  # offset -> 4
+    grande = [f"https://www.rts.ch/r{i}/" for i in range(20)]
+    suite = select_seeds(grande, limit=4, cache_dir=tmp_path)
+    assert suite == grande[4:8]
+
+
+def test_select_seeds_liste_vide(tmp_path):
+    assert select_seeds([], limit=4, cache_dir=tmp_path) == []

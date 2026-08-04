@@ -255,3 +255,51 @@ def crawl(store: Store, seeds: list[str], **kwargs) -> Crawler:
     crawler = Crawler(store, **kwargs)
     asyncio.run(crawler.run(seeds))
     return crawler
+
+
+def _cursor_path(cache_dir: Path) -> Path:
+    return cache_dir / config.CRAWL_SEED_CURSOR_FILE
+
+
+def select_seeds(
+    seeds: list[str],
+    *,
+    limit: int,
+    cache_dir: Path | None = None,
+    reset: bool = False,
+) -> list[str]:
+    """Choisit une tranche de graines à parcourir cette exécution, en rotation.
+
+    L'index compte des dizaines de milliers de rubriques ; un run budgété
+    (``limit``) qui repartirait toujours du début ne visiterait jamais que les
+    mêmes premières, indéfiniment (l'ordre de :func:`Store.urls` est trié, donc
+    stable d'un run à l'autre). Un curseur persisté fait avancer la tranche à
+    chaque exécution, de sorte qu'un enchaînement de runs planifiés couvre à
+    terme la totalité des rubriques plutôt que de piétiner sur les mêmes.
+
+    ``limit`` à 0 (illimité) renvoie toutes les graines sans toucher au
+    curseur : un run sans budget n'a pas besoin de rotation, et ne doit pas
+    faire dériver la reprise d'un run budgété ultérieur.
+    """
+    if limit <= 0 or not seeds:
+        return seeds
+
+    path = _cursor_path(cache_dir or config.CACHE_DIR)
+    offset = 0
+    if not reset and path.is_file():
+        try:
+            offset = json.loads(fsutil.read_text(path)).get("offset", 0)
+        except (PermissionError, UnicodeDecodeError, json.JSONDecodeError) as exc:
+            log.warning("%s illisible (%s), rotation reprise à 0", path, exc)
+
+    # `seeds` change de taille d'un run à l'autre (nouvelles rubriques
+    # découvertes) ; le modulo absorbe ça sans logique de resynchronisation
+    # particulière, quitte à visiter une graine un peu plus tôt ou plus tard
+    # que sa place idéale. Ce n'est pas un partitionnement exact, seulement une
+    # garantie que la tête de liste ne monopolise pas tous les runs.
+    offset %= len(seeds)
+    selected = (seeds[offset:] + seeds[:offset])[:limit]
+
+    path.parent.mkdir(parents=True, exist_ok=True)
+    fsutil.write_text(path, json.dumps({"offset": (offset + limit) % len(seeds)}))
+    return selected

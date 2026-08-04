@@ -9,9 +9,8 @@ from pathlib import Path
 
 from . import config, explorer
 from . import verify as verify_module
-from .sources import commoncrawl
+from .sources import commoncrawl, rss, sitemap, wayback
 from .sources import crawl as crawl_source
-from .sources import rss, sitemap, wayback
 from .store import Store
 
 
@@ -65,14 +64,18 @@ def cmd_rss(args: argparse.Namespace) -> int:
 def cmd_crawl(args: argparse.Namespace) -> int:
     """Parcourt les rubriques déjà connues pour en extraire les articles."""
     store = _store(args).load()
-    seeds = [url for url, _ in store.urls() if url.endswith("/")]
-    if not seeds:
+    known = [url for url, _ in store.urls() if url.endswith("/")]
+    if not known:
         print(
             "Aucune rubrique dans l'index. Lancer d'abord: python -m rts_indexer sitemap",
             file=sys.stderr,
         )
         return 1
-    print(f"{len(seeds)} rubriques en graine, budget {args.max_pages} pages")
+    seeds = crawl_source.select_seeds(known, limit=args.max_pages, reset=args.reset)
+    print(
+        f"{len(seeds)}/{len(known)} rubriques en graine cette exécution "
+        f"(rotation), budget {args.max_pages} pages"
+    )
 
     try:
         crawler = crawl_source.crawl(
@@ -247,13 +250,20 @@ def build_parser() -> argparse.ArgumentParser:
         help=(
             "budget de pages, plafond exact (défaut: %(default)s). "
             "0 = illimité : le crawl s'arrête de lui-même une fois toutes les "
-            "rubriques connues visitées, la file d'attente n'étant pas infinie"
+            "rubriques connues visitées, la file d'attente n'étant pas infinie. "
+            "Sert aussi de taille de tranche pour la rotation des graines : "
+            "un run budgété ne repart jamais des mêmes rubriques que le précédent"
         ),
     )
     p.add_argument(
         "--include-articles",
         action="store_true",
         help="visite aussi les articles (coûteux, pour les liens connexes)",
+    )
+    p.add_argument(
+        "--reset",
+        action="store_true",
+        help="oublie la rotation des graines enregistrée, repart du début",
     )
     p.set_defaults(func=cmd_crawl)
 

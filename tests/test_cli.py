@@ -15,6 +15,7 @@ def _args(tmp_path, **overrides):
         data_dir=str(tmp_path),
         max_pages=10,
         include_articles=False,
+        reset=False,
     )
     for key, value in overrides.items():
         setattr(ns, key, value)
@@ -26,6 +27,9 @@ def test_crawl_ecrit_les_progres_avant_de_propager(tmp_path, monkeypatch, erreur
     """Incident réel : un crawl qui plante en cours de route perdait tout son
     travail, faute d'écrire le store avant que l'erreur ne remonte. Une erreur
     imprévue *ou* un Ctrl+C doivent tous deux préserver ce qui a été trouvé."""
+    # `select_seeds` écrit son curseur de rotation dans config.CACHE_DIR : sans
+    # cet isolement, ce test toucherait le vrai .cache/ du dépôt.
+    monkeypatch.setattr(cli.config, "CACHE_DIR", tmp_path / "cache")
     store = Store(tmp_path)
     store.add("https://www.rts.ch/info/suisse/")
     store.write()
@@ -48,6 +52,7 @@ def test_main_absorbe_ctrl_c_avec_le_code_de_sortie_conventionnel(tmp_path, monk
     une interruption volontaire : `cmd_crawl` a déjà écrit le nécessaire et
     prévenu l'utilisateur, il ne reste qu'à sortir proprement (code 130, la
     convention Unix pour « terminé par Ctrl+C »)."""
+    monkeypatch.setattr(cli.config, "CACHE_DIR", tmp_path / "cache")
     store = Store(tmp_path)
     store.add("https://www.rts.ch/info/suisse/")
     store.write()
