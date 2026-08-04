@@ -35,6 +35,48 @@ HTML_EXTENSIONS: frozenset[str] = frozenset({".html", ".htm"})
 SITEMAP_INDEXES: tuple[str, ...] = ("https://www.rts.ch/sitemaps/pages.xml",)
 SITEMAP_EXTRA: tuple[str, ...] = ("https://www.rts.ch/sport/sitemap-live-sport.xml",)
 
+#: Flux RSS des rubriques éditoriales.
+#:
+#: Ces flux sont la seule fenêtre continue sur ce qui vient d'être publié. Le
+#: crawl, lui, ne voit que la *première* page de chaque rubrique (``robots.txt``
+#: interdit la pagination) : un article chassé de cette première page entre deux
+#: exécutions ne serait jamais vu. D'où une source dédiée, très bon marché — une
+#: vingtaine de requêtes — mais qu'il faut relancer assez souvent.
+#:
+#: Fenêtre mesurée : 25 items par flux, soit ~24 h pour le plus actif
+#: (``info/toute-info``) et bien davantage pour les rubriques de niche. Une
+#: exécution quotidienne est donc le strict minimum, sans marge.
+#:
+#: La liste est curée à dessein : sonder les 135'000 rubriques connues pour y
+#: chercher un flux n'aurait aucun sens, et toutes n'en exposent pas (``culture``,
+#: ``jeunesse`` ou les rubriques radio répondent 404). Celles-ci ont été vérifiées
+#: une à une.
+RSS_FEED_TEMPLATE = "https://www.rts.ch/{path}/?format=rss/news"
+RSS_FEEDS: tuple[str, ...] = (
+    "info",
+    "info/toute-info",
+    "info/suisse",
+    "info/monde",
+    "info/economie",
+    "info/regions",
+    "info/sciences-tech",
+    "info/culture",
+    "info/environnement",
+    "info/sante",
+    "info/societe",
+    "sport",
+    "sport/tout-le-sport",
+    "sport/football",
+    "sport/hockey",
+    "sport/tennis",
+    "sport/cyclisme",
+    "sport/ski-alpin",
+    "sport/basketball",
+    "sport/athletisme",
+    "meteo",
+    "religion",
+)
+
 WAYBACK_CDX = "https://web.archive.org/cdx/search/cdx"
 
 #: Index des crawls Common Crawl. Chaque entrée du JSON est un crawl distinct

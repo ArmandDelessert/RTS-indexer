@@ -16,6 +16,9 @@ Quatre sources alimentent l'index :
 
 - **`sitemap`** — les sitemaps XML déclarés dans `robots.txt`. Rapide, ne couvre que les pages de
   rubrique.
+- **`rss`** — les flux RSS d'une vingtaine de rubriques éditoriales. Seule source qui capte les
+  articles au fil de leur publication ; leur fenêtre est courte (~24h pour les plus actives), une
+  exécution quotidienne est le minimum pour ne rien manquer.
 - **`crawl`** — parcours des rubriques connues pour découvrir les articles qu'elles référencent.
   Respecte `robots.txt` (y compris ses wildcards `*`/`$`) ; la pagination des rubriques y étant
   interdite, le crawl ne voit que leur première page.
@@ -55,6 +58,7 @@ python -m rts_indexer <commande> [options]
 | Commande | Rôle |
 | --- | --- |
 | `sitemap` | Collecte les sitemaps XML déclarés dans `robots.txt`. |
+| `rss` | Collecte les articles récents depuis les flux RSS des rubriques. |
 | `crawl` | Parcourt les rubriques connues pour découvrir des articles. |
 | `wayback` | Collecte l'archive historique (Internet Archive). |
 | `commoncrawl` | Collecte l'archive Common Crawl. |
@@ -71,6 +75,19 @@ python -m rts_indexer sitemap [--dry-run] [--limit N]
 ```
 
 `--dry-run` affiche les URLs collectées sans rien écrire sur disque.
+
+### `rss`
+
+```bash
+python -m rts_indexer rss [--dry-run] [--limit N]
+```
+
+Interroge les flux RSS des rubriques listées dans `config.RSS_FEEDS` (une vingtaine, curée à la
+main — toutes les rubriques n'en exposent pas). Chaque flux ne couvre que ses ~25 dernières
+publications : pour la rubrique la plus active (`info/toute-info`), cela représente environ 24h.
+C'est la seule source qui voit un article entre le moment où il est publié et celui où il quitte la
+première page de sa rubrique — le `crawl` ne verra jamais au-delà, `robots.txt` interdisant la
+pagination. À exécuter au moins une fois par jour pour ne rien manquer.
 
 ### `crawl`
 

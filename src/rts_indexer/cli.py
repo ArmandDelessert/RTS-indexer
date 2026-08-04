@@ -11,7 +11,7 @@ from . import config, explorer
 from . import verify as verify_module
 from .sources import commoncrawl
 from .sources import crawl as crawl_source
-from .sources import sitemap, wayback
+from .sources import rss, sitemap, wayback
 from .store import Store
 
 
@@ -36,6 +36,21 @@ def _report(stats: dict[str, int]) -> None:
 def cmd_sitemap(args: argparse.Namespace) -> int:
     urls = sitemap.collect()
     print(f"{len(urls)} URLs canoniques collectées depuis les sitemaps")
+    if args.dry_run:
+        for url in urls[: args.limit]:
+            print(f"  {url}")
+        return 0
+    store = _store(args).load()
+    added = store.add_many(urls)
+    print(f"{added} nouvelles")
+    _report(store.write())
+    return 0
+
+
+def cmd_rss(args: argparse.Namespace) -> int:
+    """Collecte les articles fraîchement publiés depuis les flux RSS."""
+    urls = rss.collect()
+    print(f"{len(urls)} URLs collectées depuis {len(rss.feed_urls())} flux RSS")
     if args.dry_run:
         for url in urls[: args.limit]:
             print(f"  {url}")
@@ -218,6 +233,11 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--dry-run", action="store_true", help="n'écrit rien, affiche seulement")
     p.add_argument("--limit", type=int, default=20)
     p.set_defaults(func=cmd_sitemap)
+
+    p = sub.add_parser("rss", help="collecte les articles récents depuis les flux RSS")
+    p.add_argument("--dry-run", action="store_true", help="n'écrit rien, affiche seulement")
+    p.add_argument("--limit", type=int, default=20)
+    p.set_defaults(func=cmd_rss)
 
     p = sub.add_parser("crawl", help="parcourt les rubriques connues pour trouver les articles")
     p.add_argument(
