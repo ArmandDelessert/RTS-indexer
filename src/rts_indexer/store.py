@@ -1,10 +1,15 @@
 """Lecture et écriture de l'arborescence ``/data``.
 
 ``/data`` *est* la base de données : chaque source la charge, y ajoute ses
-trouvailles, puis la réécrit intégralement. Cette réécriture complète est ce qui
-rend le sharding trivial (aucune logique incrémentale de split/merge) et le
-résultat déterministe — un second run sans nouveauté amont doit produire un
-``git diff`` vide.
+trouvailles, puis la réécrit. Le contenu d'un dossier est toujours **recalculé
+en entier** — aucune logique incrémentale de split/merge de shard — ce qui rend
+le sharding trivial et le résultat déterministe : un second run sans nouveauté
+amont doit produire un ``git diff`` vide.
+
+En revanche, un dossier dont le contenu n'a pas changé depuis le chargement
+n'est plus réécrit du tout (voir :meth:`Store.write`). Réécrire 138'000
+fichiers avec un contenu identique pour en modifier trois coûtait plusieurs
+minutes à chaque commande.
 
 Format d'un fichier d'index :
 
@@ -70,6 +75,17 @@ class Store:
         self.dirs: dict[str, DirIndex] = {}
         #: chemin disque -> chemin d'URL d'origine, pour détecter les collisions
         self._dir_source: dict[str, str] = {}
+        #: relpath -> fichiers d'index réellement **observés** sur disque pour ce
+        #: dossier (au chargement, puis après chaque écriture). C'est la clé de
+        #: l'écriture sélective : pour un dossier inchangé, on réutilise ces
+        #: chemins constatés plutôt que de recalculer ceux qui *devraient*
+        #: exister. Un tel recalcul, s'il divergeait de la réalité ne serait-ce
+        #: que sur un cas de sharding, ferait supprimer les fichiers concernés
+        #: par :meth:`_prune` — une perte de données, pas une simple lenteur.
+        self._disk_files: dict[str, set[Path]] = {}
+        #: relpaths dont le contenu a changé depuis le dernier chargement ou la
+        #: dernière écriture. Seuls ceux-là sont réécrits.
+        self._dirty: set[str] = set()
         #: (type, url, détail) — consignées dans _anomalies.tsv
         self.anomalies: set[tuple[str, str, str]] = set()
         self.added = 0
@@ -115,13 +131,23 @@ class Store:
             return False
 
         entry = self.dirs.setdefault(relpath, DirIndex())
+        # `avant` sert à distinguer une URL *réaffirmée* (cas de très loin le
+        # plus fréquent : un crawl repasse sur des milliers de liens déjà
+        # connus) d'un changement réel. Seul le second salit le dossier et
+        # justifie de le réécrire.
         if leaf is None:
-            is_new = entry.page_dead is None
+            avant = entry.page_dead
+            is_new = avant is None
             entry.page_dead = bool(dead) if dead is not None else (entry.page_dead or False)
+            modifie = entry.page_dead != avant
         else:
+            avant = entry.slugs.get(leaf)
             is_new = leaf not in entry.slugs
             entry.slugs[leaf] = bool(dead) if dead is not None else entry.slugs.get(leaf, False)
+            modifie = entry.slugs[leaf] != avant
 
+        if modifie:
+            self._dirty.add(relpath)
         self.added += is_new
         return is_new
 
@@ -158,6 +184,10 @@ class Store:
             except (PermissionError, UnicodeDecodeError, FileNotFoundError) as exc:
                 log.warning("%s illisible (%s), dossier ignoré", path, exc)
                 continue
+            # Après la lecture seulement : un fichier illisible n'a pas nourri
+            # `dirs`, il ne doit donc pas être retenu comme légitime — sans quoi
+            # `_prune` le conserverait alors que son contenu est perdu.
+            self._disk_files.setdefault(relpath, set()).add(path)
             entry = self.dirs.setdefault(relpath, DirIndex())
             # Le chemin sur disque préserve désormais la casse d'origine
             # (percent-encodée) : on peut reconstruire la source sans perte,
@@ -223,26 +253,54 @@ class Store:
 
     # -- écriture ------------------------------------------------------------
 
-    def write(self) -> dict[str, int]:
-        """Réécrit intégralement ``/data`` et retourne les statistiques."""
+    def write(self, *, force: bool = False) -> dict[str, int]:
+        """Écrit ``/data`` et retourne les statistiques.
+
+        Seuls les dossiers dont le contenu a changé depuis le chargement sont
+        réécrits ; pour les autres, on réutilise les chemins de fichiers
+        observés sur disque (:attr:`_disk_files`), qui sont donc bien comptés
+        comme légitimes par :meth:`_prune`. Un dossier inchangé n'est ni
+        rouvert, ni ré-écrit, ni même parcouru par un ``glob``.
+
+        ``force`` réécrit tout, sans considération de propreté. C'est le rôle
+        de ``build`` : un changement de :data:`config.SHARD_THRESHOLD` ou de la
+        projection des chemins ne salit aucun dossier — rien en mémoire n'a
+        bougé — et ne serait donc jamais appliqué autrement.
+        """
         self.data_dir.mkdir(parents=True, exist_ok=True)
         written: set[Path] = set()
+        reecrits = 0
 
         items = sorted(self.dirs.items())
         total = len(items)
-        log.info("écriture de %d dossiers...", total)
+        log.info("écriture de %d dossiers%s...", total, " (forcée)" if force else "")
         for done, (relpath, entry) in enumerate(items, 1):
+            _progress("écriture", done, total)
             if not entry.slugs and not entry.is_page:
+                continue
+            connus = self._disk_files.get(relpath)
+            if not force and connus and relpath not in self._dirty:
+                written |= connus
                 continue
             directory = self.data_dir / Path(*relpath.split("/"))
             directory.mkdir(parents=True, exist_ok=True)
-            written |= self._write_dir(directory, entry)
-            _progress("écriture", done, total)
+            fichiers = self._write_dir(directory, entry)
+            self._disk_files[relpath] = fichiers
+            written |= fichiers
+            reecrits += 1
+
+        log.info("%d dossiers réécrits, %d inchangés", reecrits, total - reecrits)
 
         log.info("purge des fichiers devenus obsolètes...")
         self._prune(written)
         self._write_anomalies()
-        return self._write_stats()
+        stats = self._write_stats()
+        # Le disque reflète désormais la mémoire : plus rien n'est en attente.
+        # Indispensable pour les checkpoints (crawl, verify), qui appellent
+        # write() en boucle et ne doivent réécrire que le delta de chaque
+        # tranche, pas tout l'index à chaque fois.
+        self._dirty.clear()
+        return stats
 
     def _write_dir(self, directory: Path, entry: DirIndex) -> set[Path]:
         """Écrit le ou les fichiers d'index d'un dossier."""

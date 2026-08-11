@@ -152,8 +152,12 @@ def test_sharding_au_dela_du_seuil(tmp_path, monkeypatch):
     assert (dossier / "_index.a.txt").read_text(encoding="utf-8") == "a-article.html\n"
 
     # Le sharding est réversible : repasser sous le seuil regroupe les fichiers.
+    # `force` est indispensable ici, et c'est bien pour cela que `build` l'utilise :
+    # changer le seuil ne modifie rien *en mémoire*, donc ne salit aucun dossier.
+    # Sans forcer, l'écriture sélective conclurait à juste titre qu'il n'y a rien
+    # à refaire et conserverait l'ancien découpage.
     monkeypatch.setattr(config, "SHARD_THRESHOLD", 5_000)
-    Store(tmp_path).load().write()
+    Store(tmp_path).load().write(force=True)
     assert sorted(p.name for p in dossier.glob("_index*.txt")) == ["_index.txt"]
 
 
@@ -354,3 +358,176 @@ def test_stats(tmp_path):
     payload = json.loads((tmp_path / config.STATS_FILE).read_text(encoding="utf-8"))
     assert payload["par_hote"] == {"www.rts.ch": 3}
     assert "generated_at" in payload
+
+
+# -- écriture sélective --------------------------------------------------
+#
+# Le risque de cette optimisation n'est pas la lenteur mais la perte : un
+# dossier qu'on cesse de réécrire doit continuer d'être reconnu comme légitime
+# par _prune(), sans quoi il serait supprimé. Ces tests couvrent d'abord ce
+# cas-là.
+
+
+#: Marque déposée dans un fichier d'index déjà écrit, pour observer s'il est
+#: réécrit ou non. Plus fiable qu'une comparaison de `mtime` : sous Windows, la
+#: granularité de l'horloge (~15 ms) rendrait le test instable, deux écritures
+#: successives pouvant porter la même date.
+TEMOIN = "# temoin\n"
+
+
+def _poser_temoins(data_dir) -> dict:
+    """Ajoute un témoin à chaque fichier d'index et retourne leur contenu."""
+    marques = {}
+    for path in data_dir.rglob("_index*.txt"):
+        contenu = path.read_text(encoding="utf-8") + TEMOIN
+        path.write_text(contenu, encoding="utf-8", newline="\n")
+        marques[path] = contenu
+    return marques
+
+
+def _survivants(marques: dict) -> set:
+    """Fichiers dont le témoin est intact : ils n'ont pas été réécrits."""
+    return {p for p, contenu in marques.items() if p.read_text(encoding="utf-8") == contenu}
+
+
+def test_dossier_inchange_n_est_pas_supprime(tmp_path):
+    """Le scénario redouté : un dossier non réécrit doit survivre à _prune()."""
+    store = Store(tmp_path)
+    store.add_many([ARTICLE, "https://www.rts.ch/sport/hockey/match-1.html"])
+    store.write()
+
+    relu = Store(tmp_path).load()
+    relu.add(AUTRE)  # ne touche que le dossier de ARTICLE
+    relu.write()
+
+    # Le dossier sport/, jamais touché par ce run, est toujours là et intact.
+    assert index_de(tmp_path, "www.rts.ch/sport/hockey") == "match-1.html\n"
+    assert sorted(url for url, _ in Store(tmp_path).load().urls()) == sorted(
+        [ARTICLE, AUTRE, "https://www.rts.ch/sport/hockey/match-1.html"]
+    )
+
+
+def test_seuls_les_dossiers_modifies_sont_reecrits(tmp_path):
+    """Le gain recherché : un dossier inchangé n'est pas rouvert du tout."""
+    store = Store(tmp_path)
+    store.add_many([ARTICLE, "https://www.rts.ch/sport/hockey/match-1.html"])
+    store.write()
+
+    relu = Store(tmp_path).load()
+    marques = _poser_temoins(tmp_path)
+    relu.add(AUTRE)
+    relu.write()
+
+    touche = tmp_path / DOSSIER / "_index.txt"
+    intact = tmp_path / "www.rts.ch/sport/hockey/_index.txt"
+    assert _survivants(marques) == {intact}, "seul le dossier modifié devait être réécrit"
+    assert touche.read_text(encoding="utf-8") == (
+        "la-suisse-29312521.html\npaleo-festival-29313279.html\n"
+    )
+
+
+def test_url_reaffirmee_ne_salit_pas_le_dossier(tmp_path):
+    """Cas de très loin le plus fréquent : un crawl repasse sur des milliers de
+    liens déjà connus. Réaffirmer ne doit rien réécrire."""
+    store = Store(tmp_path)
+    store.add_many([ARTICLE, AUTRE])
+    store.write()
+
+    relu = Store(tmp_path).load()
+    marques = _poser_temoins(tmp_path)
+    relu.add_many([ARTICLE, AUTRE])  # rien de neuf
+    relu.write()
+
+    assert _survivants(marques) == set(marques), "aucun fichier ne devait être réécrit"
+
+
+def test_changement_de_sigil_seul_declenche_la_reecriture(tmp_path):
+    """`verify` ne change qu'un booléen, sans ajouter d'URL : le dossier doit
+    tout de même être reconnu comme sale."""
+    store = Store(tmp_path)
+    store.add_many([ARTICLE, AUTRE])
+    store.write()
+
+    relu = Store(tmp_path).load()
+    relu.add(ARTICLE, dead=True)
+    relu.write()
+
+    assert index_de(tmp_path).startswith("!la-suisse-29312521.html\n")
+    assert Store(tmp_path).load().status(ARTICLE) is True
+
+
+def test_rubrique_marquee_morte_declenche_la_reecriture(tmp_path):
+    """Même chose pour `page_dead`, qui vit hors de `slugs`."""
+    store = Store(tmp_path)
+    store.add(RUBRIQUE)
+    store.write()
+
+    relu = Store(tmp_path).load()
+    relu.add(RUBRIQUE, dead=True)
+    relu.write()
+
+    assert index_de(tmp_path, "www.rts.ch/info/suisse") == "!./\n"
+
+
+def test_ecriture_selective_reste_deterministe(tmp_path):
+    """La garantie qui justifiait la réécriture complète doit tenir : un run
+    sans nouveauté ne produit aucun changement d'octets."""
+    store = Store(tmp_path)
+    store.add_many([RUBRIQUE, ARTICLE, AUTRE])
+    store.write()
+    avant = {p: p.read_bytes() for p in tmp_path.rglob("_index*.txt")}
+
+    Store(tmp_path).load().write()
+    assert {p: p.read_bytes() for p in tmp_path.rglob("_index*.txt")} == avant
+
+
+def test_checkpoints_successifs_n_ecrivent_que_leur_delta(tmp_path):
+    """Un crawl appelle write() en boucle : chaque checkpoint ne doit réécrire
+    que ce que la tranche a apporté, pas tout l'index."""
+    store = Store(tmp_path)
+    store.add_many([ARTICLE, "https://www.rts.ch/sport/hockey/match-1.html"])
+    store.write()
+
+    intact = tmp_path / "www.rts.ch/sport/hockey/_index.txt"
+    marques = _poser_temoins(tmp_path)
+
+    store.add(AUTRE)
+    store.write()
+    store.add("https://www.rts.ch/info/suisse/2026/article/troisieme-3.html")
+    store.write()
+
+    assert intact in _survivants(marques), "le dossier intact a été réécrit par un checkpoint"
+    # Sur le store en mémoire : relire le disque compterait le témoin comme un
+    # slug, l'instrument de mesure fausserait la mesure.
+    assert len(list(store.urls())) == 4
+    assert index_de(tmp_path) == (
+        "la-suisse-29312521.html\npaleo-festival-29313279.html\ntroisieme-3.html\n"
+    )
+
+
+def test_purge_fonctionne_encore_avec_l_ecriture_selective(tmp_path):
+    """_prune() doit toujours faire son travail sur ce qui a réellement
+    disparu, sans se laisser abuser par les dossiers simplement inchangés."""
+    store = Store(tmp_path)
+    store.add(ARTICLE)
+    store.add("https://www.rts.ch/obsolete/x.html")
+    store.write()
+
+    store = Store(tmp_path)  # sans load() : l'index repart de zéro
+    store.add(ARTICLE)
+    store.write()
+
+    assert not (tmp_path / "www.rts.ch/obsolete").exists()
+    assert index_de(tmp_path) == "la-suisse-29312521.html\n"
+
+
+def test_force_reecrit_meme_les_dossiers_inchanges(tmp_path):
+    store = Store(tmp_path)
+    store.add_many([ARTICLE, "https://www.rts.ch/sport/hockey/match-1.html"])
+    store.write()
+
+    relu = Store(tmp_path).load()
+    marques = _poser_temoins(tmp_path)
+    relu.write(force=True)
+
+    assert _survivants(marques) == set(), "force doit tout réécrire, témoins compris"

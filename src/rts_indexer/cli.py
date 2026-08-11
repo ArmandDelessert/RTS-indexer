@@ -188,8 +188,14 @@ def cmd_verify(args: argparse.Namespace) -> int:
 
 
 def cmd_build(args: argparse.Namespace) -> int:
-    """Relit puis réécrit ``/data`` : renormalise le tri et le sharding."""
-    _report(_store(args).load().write())
+    """Relit puis réécrit ``/data`` : renormalise le tri et le sharding.
+
+    ``force`` : c'est la seule commande qui réécrit même les dossiers
+    inchangés. Un changement de seuil de sharding ou de projection des chemins
+    ne salit aucun dossier — rien en mémoire n'a bougé — et resterait donc sans
+    effet si ``build`` se contentait de l'écriture sélective.
+    """
+    _report(_store(args).load().write(force=True))
     return 0
 
 
