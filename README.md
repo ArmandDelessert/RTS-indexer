@@ -167,6 +167,28 @@ python -m rts_indexer stats          # compteurs (urls, mortes, dossiers, anomal
 python -m rts_indexer list [--limit N]
 ```
 
+`build` est la seule commande qui réécrit **tous** les fichiers, y compris ceux dont le contenu
+n'a pas changé (voir ci-dessous). C'est ce qui lui permet d'appliquer un changement de seuil de
+sharding ou de projection des chemins, lesquels ne modifient rien en mémoire et resteraient donc
+sans effet autrement.
+
+## Écriture sélective
+
+`data/` n'est pas réécrit intégralement à chaque commande : seuls les dossiers dont le contenu a
+réellement changé depuis le chargement sont touchés. Ajouter trois URLs ne réécrit plus 138'000
+fichiers avec un contenu identique.
+
+Le contenu d'un dossier modifié, lui, reste **recalculé en entier** — aucune logique incrémentale
+de découpage de shard. Le déterminisme est donc préservé, et même renforcé : un run sans nouveauté
+amont ne touche plus aucun fichier, là où il les réécrivait auparavant à l'identique.
+
+Le point délicat est que `_prune()` supprime tout fichier d'index qu'il ne reconnaît pas comme
+légitime. Pour un dossier qu'on ne réécrit pas, on ne *recalcule* donc pas quels fichiers
+devraient exister — un tel calcul, en divergeant de la réalité sur un seul cas, effacerait les
+fichiers concernés. On réutilise ceux qui ont été **observés** sur disque au chargement. Comme
+aucune URL n'est jamais retirée de l'index (`verify` ne fait que poser ou retirer le sigil `!`),
+un dossier inchangé a nécessairement les bons fichiers sur disque.
+
 ## Automatisation (GitHub Actions)
 
 Trois cadences, parce que les sources n'ont pas du tout le même profil de coût.
