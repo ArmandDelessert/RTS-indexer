@@ -30,6 +30,17 @@ from . import config, fsutil, pathmap
 
 log = logging.getLogger(__name__)
 
+#: Nombre de paliers de progression affichés sur un parcours complet (load,
+#: write). Un index de 656'000 URLs prend plusieurs minutes sans le moindre
+#: signe de vie sinon — c'est ce qui, en pratique, ressemble à un blocage.
+_PROGRESS_STEPS = 20
+
+
+def _progress(label: str, done: int, total: int) -> None:
+    step = max(1, total // _PROGRESS_STEPS)
+    if done == total or done % step == 0:
+        log.info("%s: %d/%d (%.0f%%)", label, done, total, 100 * done / total)
+
 
 @dataclass
 class DirIndex:
@@ -134,7 +145,13 @@ class Store:
         """
         if not self.data_dir.is_dir():
             return self
-        for path in sorted(self.data_dir.rglob(f"{config.INDEX_BASENAME}*{config.INDEX_SUFFIX}")):
+        # `sorted()` matérialise déjà tout le résultat : ce parcours de l'arbre
+        # est lui-même une phase à part entière, avant même la première lecture.
+        log.info("recherche des fichiers d'index sous %s...", self.data_dir)
+        paths = sorted(self.data_dir.rglob(f"{config.INDEX_BASENAME}*{config.INDEX_SUFFIX}"))
+        total = len(paths)
+        log.info("%d fichiers d'index trouvés, lecture...", total)
+        for done, path in enumerate(paths, 1):
             relpath = path.parent.relative_to(self.data_dir).as_posix()
             try:
                 content = fsutil.read_text(path)
@@ -162,6 +179,7 @@ class Store:
                     entry.slugs[line[len(config.DEAD_SIGIL) :]] = True
                 else:
                     entry.slugs[line] = False
+            _progress("chargement", done, total)
         self._load_anomalies()
         return self
 
@@ -210,13 +228,18 @@ class Store:
         self.data_dir.mkdir(parents=True, exist_ok=True)
         written: set[Path] = set()
 
-        for relpath, entry in sorted(self.dirs.items()):
+        items = sorted(self.dirs.items())
+        total = len(items)
+        log.info("écriture de %d dossiers...", total)
+        for done, (relpath, entry) in enumerate(items, 1):
             if not entry.slugs and not entry.is_page:
                 continue
             directory = self.data_dir / Path(*relpath.split("/"))
             directory.mkdir(parents=True, exist_ok=True)
             written |= self._write_dir(directory, entry)
+            _progress("écriture", done, total)
 
+        log.info("purge des fichiers devenus obsolètes...")
         self._prune(written)
         self._write_anomalies()
         return self._write_stats()
@@ -252,12 +275,20 @@ class Store:
     def _prune(self, written: set[Path]) -> None:
         """Supprime les index devenus obsolètes, puis les dossiers vides."""
         pattern = f"{config.INDEX_BASENAME}*{config.INDEX_SUFFIX}"
+        supprimes = 0
         for path in self.data_dir.rglob(pattern):
             if path not in written:
                 fsutil.unlink(path)
+                supprimes += 1
+        log.info("%d fichiers d'index obsolètes supprimés", supprimes)
+
+        log.info("recherche des dossiers vides...")
+        supprimes = 0
         for directory in sorted(self.data_dir.rglob("*"), key=lambda p: -len(p.parts)):
             if directory.is_dir() and not any(directory.iterdir()):
                 fsutil.rmdir(directory)
+                supprimes += 1
+        log.info("%d dossiers vides supprimés", supprimes)
 
     def _write_anomalies(self) -> None:
         path = self.data_dir / config.ANOMALIES_FILE
