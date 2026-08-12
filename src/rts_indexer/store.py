@@ -86,6 +86,18 @@ class Store:
         #: relpaths dont le contenu a changé depuis le dernier chargement ou la
         #: dernière écriture. Seuls ceux-là sont réécrits.
         self._dirty: set[str] = set()
+        #: ``load()`` a-t-il été appelé ? La purge ciblée repose entièrement sur
+        #: la connaissance du disque accumulée au chargement : sans lui,
+        #: ``_disk_files`` est vide et *tout* fichier présent paraîtrait
+        #: légitime alors qu'aucun ne l'est. On retombe alors sur le balayage
+        #: complet, seul régime correct en l'absence de cette connaissance.
+        self._loaded = False
+        #: relpaths dont au moins un fichier n'a pas pu être lu au chargement.
+        #: Leur contenu est perdu pour cette session : le fichier n'a nourri ni
+        #: ``dirs`` ni ``_disk_files``, il est donc devenu orphelin et doit être
+        #: purgé. C'est la seule source d'orphelin que le code produise lui-même,
+        #: et la raison pour laquelle une purge ciblée suffit en temps normal.
+        self._unreadable: set[str] = set()
         #: (type, url, détail) — consignées dans _anomalies.tsv
         self.anomalies: set[tuple[str, str, str]] = set()
         self.added = 0
@@ -169,6 +181,9 @@ class Store:
         cours peut supprimer un fichier entre son listage et sa lecture, la
         réécriture purgeant les index devenus obsolètes.
         """
+        # Posé avant le retour anticipé : un `data/` absent est une information
+        # sur le disque, pas une absence d'information — il n'y a rien à purger.
+        self._loaded = True
         if not self.data_dir.is_dir():
             return self
         # `sorted()` matérialise déjà tout le résultat : ce parcours de l'arbre
@@ -183,6 +198,7 @@ class Store:
                 content = fsutil.read_text(path)
             except (PermissionError, UnicodeDecodeError, FileNotFoundError) as exc:
                 log.warning("%s illisible (%s), dossier ignoré", path, exc)
+                self._unreadable.add(relpath)
                 continue
             # Après la lecture seulement : un fichier illisible n'a pas nourri
             # `dirs`, il ne doit donc pas être retenu comme légitime — sans quoi
@@ -262,14 +278,20 @@ class Store:
         comme légitimes par :meth:`_prune`. Un dossier inchangé n'est ni
         rouvert, ni ré-écrit, ni même parcouru par un ``glob``.
 
-        ``force`` réécrit tout, sans considération de propreté. C'est le rôle
-        de ``build`` : un changement de :data:`config.SHARD_THRESHOLD` ou de la
-        projection des chemins ne salit aucun dossier — rien en mémoire n'a
-        bougé — et ne serait donc jamais appliqué autrement.
+        ``force`` réécrit tout, sans considération de propreté, **et** déclenche
+        un balayage complet de l'arbre à la purge. C'est le rôle de ``build`` :
+        un changement de :data:`config.SHARD_THRESHOLD` ou de la projection des
+        chemins ne salit aucun dossier — rien en mémoire n'a bougé — et ne
+        serait donc jamais appliqué autrement. C'est aussi la seule commande qui
+        rattrape une dérive externe (fichier ajouté à la main dans ``data/``,
+        reste d'une fusion Git, débris d'une écriture interrompue).
         """
         self.data_dir.mkdir(parents=True, exist_ok=True)
         written: set[Path] = set()
         reecrits = 0
+        # Dossiers à examiner lors d'une purge ciblée. Les dossiers réécrits
+        # n'y figurent pas : _write_dir purge déjà les siens au passage.
+        a_purger: set[str] = set(self._unreadable)
 
         items = sorted(self.dirs.items())
         total = len(items)
@@ -277,6 +299,10 @@ class Store:
         for done, (relpath, entry) in enumerate(items, 1):
             _progress("écriture", done, total)
             if not entry.slugs and not entry.is_page:
+                # Rien à écrire ; mais si ce dossier avait des fichiers sur
+                # disque, ils viennent de perdre leur raison d'être.
+                if relpath in self._disk_files:
+                    a_purger.add(relpath)
                 continue
             connus = self._disk_files.get(relpath)
             if not force and connus and relpath not in self._dirty:
@@ -291,8 +317,7 @@ class Store:
 
         log.info("%d dossiers réécrits, %d inchangés", reecrits, total - reecrits)
 
-        log.info("purge des fichiers devenus obsolètes...")
-        self._prune(written)
+        self._prune(written, cibles=a_purger, complet=force or not self._loaded)
         self._write_anomalies()
         stats = self._write_stats()
         # Le disque reflète désormais la mémoire : plus rien n'est en attente.
@@ -300,6 +325,7 @@ class Store:
         # write() en boucle et ne doivent réécrire que le delta de chaque
         # tranche, pas tout l'index à chaque fois.
         self._dirty.clear()
+        self._unreadable.clear()
         return stats
 
     def _write_dir(self, directory: Path, entry: DirIndex) -> set[Path]:
@@ -330,23 +356,74 @@ class Store:
             written.add(path)
         return written
 
-    def _prune(self, written: set[Path]) -> None:
-        """Supprime les index devenus obsolètes, puis les dossiers vides."""
-        pattern = f"{config.INDEX_BASENAME}*{config.INDEX_SUFFIX}"
-        supprimes = 0
-        for path in self.data_dir.rglob(pattern):
-            if path not in written:
-                fsutil.unlink(path)
-                supprimes += 1
-        log.info("%d fichiers d'index obsolètes supprimés", supprimes)
+    def _prune(self, written: set[Path], *, cibles: set[str], complet: bool) -> None:
+        """Supprime les index devenus obsolètes, puis les dossiers vides.
 
-        log.info("recherche des dossiers vides...")
+        Deux régimes, pour un compromis assumé entre vitesse et garantie :
+
+        * **ciblé** (défaut) — n'examine que ``cibles``, les rares dossiers dont
+          on sait qu'ils peuvent porter un orphelin. Les dossiers réécrits se
+          purgent déjà eux-mêmes dans :meth:`_write_dir`, et un dossier
+          inchangé n'a par construction rien à purger, puisqu'aucune URL n'est
+          jamais retirée de l'index.
+        * **complet** — balaye tout l'arbre, comme avant. Deux ``rglob`` sur
+          138'000 dossiers, soit l'essentiel du coût d'une écriture une fois
+          celle-ci devenue sélective. Seul régime capable de rattraper une
+          dérive externe (fichier déposé à la main, débris d'un run interrompu),
+          d'où sa place dans ``build`` plutôt qu'à chaque commande.
+        """
+        pattern = f"{config.INDEX_BASENAME}*{config.INDEX_SUFFIX}"
+
+        if complet:
+            log.info("purge : balayage complet de l'arbre...")
+            supprimes = 0
+            for path in self.data_dir.rglob(pattern):
+                if path not in written:
+                    fsutil.unlink(path)
+                    supprimes += 1
+            log.info("%d fichiers d'index obsolètes supprimés", supprimes)
+
+            log.info("recherche des dossiers vides...")
+            vides = 0
+            for directory in sorted(self.data_dir.rglob("*"), key=lambda p: -len(p.parts)):
+                if directory.is_dir() and not any(directory.iterdir()):
+                    fsutil.rmdir(directory)
+                    vides += 1
+            log.info("%d dossiers vides supprimés", vides)
+            return
+
+        if not cibles:
+            log.info("purge : aucun dossier suspect, rien à balayer")
+            return
+
+        log.info("purge ciblée : %d dossiers suspects", len(cibles))
+        supprimes = vides = 0
+        for relpath in sorted(cibles):
+            directory = self.data_dir / Path(*relpath.split("/"))
+            if not directory.is_dir():
+                continue
+            for path in directory.glob(pattern):
+                if path not in written:
+                    fsutil.unlink(path)
+                    supprimes += 1
+            vides += self._remonter_vides(directory)
+        log.info("%d fichiers supprimés, %d dossiers vides supprimés", supprimes, vides)
+
+    def _remonter_vides(self, directory: Path) -> int:
+        """Supprime ``directory`` s'il est vide, puis remonte tant que le parent
+        le devient à son tour. Équivalent local du balayage descendant du mode
+        complet, sans parcourir l'arbre entier."""
         supprimes = 0
-        for directory in sorted(self.data_dir.rglob("*"), key=lambda p: -len(p.parts)):
-            if directory.is_dir() and not any(directory.iterdir()):
+        while directory != self.data_dir and self.data_dir in directory.parents:
+            try:
+                if not directory.is_dir() or any(directory.iterdir()):
+                    break
                 fsutil.rmdir(directory)
-                supprimes += 1
-        log.info("%d dossiers vides supprimés", supprimes)
+            except OSError:
+                break
+            supprimes += 1
+            directory = directory.parent
+        return supprimes
 
     def _write_anomalies(self) -> None:
         path = self.data_dir / config.ANOMALIES_FILE

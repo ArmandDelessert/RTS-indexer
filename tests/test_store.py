@@ -521,6 +521,108 @@ def test_purge_fonctionne_encore_avec_l_ecriture_selective(tmp_path):
     assert index_de(tmp_path) == "la-suisse-29312521.html\n"
 
 
+# -- purge ciblée --------------------------------------------------------
+
+
+def test_purge_ciblee_n_examine_pas_les_dossiers_inchanges(tmp_path):
+    """Le gain : en régime normal, aucun balayage de l'arbre. Un fichier
+    étranger déposé dans un dossier sain survit donc à une commande ordinaire."""
+    store = Store(tmp_path)
+    store.add_many([ARTICLE, "https://www.rts.ch/sport/hockey/match-1.html"])
+    store.write()
+
+    intrus = tmp_path / "www.rts.ch/sport/hockey/_index.zz.txt"
+    intrus.write_text("intrus.html\n", encoding="utf-8")
+
+    relu = Store(tmp_path).load()
+    relu.add(AUTRE)
+    relu.write()
+
+    assert intrus.is_file(), "une commande ordinaire ne balaye plus tout l'arbre"
+
+
+def test_build_rattrape_la_derive_externe(tmp_path):
+    """La contrepartie : `build` (force) reste le filet qui nettoie tout."""
+    store = Store(tmp_path)
+    store.add_many([ARTICLE, "https://www.rts.ch/sport/hockey/match-1.html"])
+    store.write()
+
+    intrus = tmp_path / "www.rts.ch/sport/hockey/_index.zz.txt"
+    intrus.write_text("intrus.html\n", encoding="utf-8")
+
+    Store(tmp_path).load().write(force=True)
+    assert not intrus.exists()
+
+
+def test_fichier_illisible_est_purge_sans_balayage_complet(tmp_path):
+    """Un fichier illisible au chargement n'a nourri ni `dirs` ni `_disk_files` :
+    son contenu est perdu, il devient orphelin et doit être purgé — c'est la
+    seule source d'orphelin que le code produise lui-même."""
+    store = Store(tmp_path)
+    store.add(ARTICLE)
+    store.add("https://www.rts.ch/sport/hockey/match-1.html")
+    store.write()
+
+    illisible = tmp_path / "www.rts.ch/sport/hockey/_index.txt"
+    illisible.write_bytes(b"\xff\xfe invalide en utf-8")
+
+    relu = Store(tmp_path).load()
+    assert "www.rts.ch/sport/hockey" in relu._unreadable
+    relu.write()
+
+    assert not illisible.exists()
+    # Le dossier, désormais vide, disparaît aussi.
+    assert not (tmp_path / "www.rts.ch/sport/hockey").exists()
+
+
+def test_purge_ciblee_remonte_les_parents_devenus_vides(tmp_path):
+    """Sans balayage descendant global, il faut remonter la chaîne à la main."""
+    store = Store(tmp_path)
+    store.add(ARTICLE)
+    store.add("https://www.rts.ch/a/b/c/seul.html")
+    store.write()
+
+    illisible = tmp_path / "www.rts.ch/a/b/c/_index.txt"
+    illisible.write_bytes(b"\xff\xfe invalide")
+
+    Store(tmp_path).load().write()
+
+    # a/, b/ et c/ n'existaient que pour ce fichier : toute la chaîne s'efface.
+    assert not (tmp_path / "www.rts.ch/a").exists()
+    # ...sans toucher aux branches voisines.
+    assert index_de(tmp_path) == "la-suisse-29312521.html\n"
+
+
+def test_purge_ciblee_ne_remonte_pas_au_dela_de_data_dir(tmp_path):
+    """Garde-fou : la remontée s'arrête à la racine de l'index, même si tout
+    est vide."""
+    data = tmp_path / "data"
+    store = Store(data)
+    store.add("https://www.rts.ch/x.html")
+    store.write()
+
+    (data / "www.rts.ch/_index.txt").write_bytes(b"\xff\xfe invalide")
+    Store(data).load().write()
+
+    assert data.is_dir(), "data/ lui-même ne doit jamais être supprimé"
+
+
+def test_store_jamais_charge_balaye_tout(tmp_path):
+    """Sans load(), `_disk_files` est vide : la purge ciblée conclurait qu'il
+    n'y a rien à faire alors que *rien* sur disque n'est légitime. Le balayage
+    complet est alors le seul régime correct."""
+    store = Store(tmp_path)
+    store.add(ARTICLE)
+    store.add("https://www.rts.ch/obsolete/x.html")
+    store.write()
+
+    repart = Store(tmp_path)  # jamais chargé
+    repart.add(ARTICLE)
+    repart.write()
+
+    assert not (tmp_path / "www.rts.ch/obsolete").exists()
+
+
 def test_force_reecrit_meme_les_dossiers_inchanges(tmp_path):
     store = Store(tmp_path)
     store.add_many([ARTICLE, "https://www.rts.ch/sport/hockey/match-1.html"])

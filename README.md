@@ -167,10 +167,11 @@ python -m rts_indexer stats          # compteurs (urls, mortes, dossiers, anomal
 python -m rts_indexer list [--limit N]
 ```
 
-`build` est la seule commande qui réécrit **tous** les fichiers, y compris ceux dont le contenu
-n'a pas changé (voir ci-dessous). C'est ce qui lui permet d'appliquer un changement de seuil de
-sharding ou de projection des chemins, lesquels ne modifient rien en mémoire et resteraient donc
-sans effet autrement.
+`build` est la seule commande qui réécrit **tous** les fichiers et balaye **tout** l'arbre (voir
+ci-dessous). C'est ce qui lui permet d'appliquer un changement de seuil de sharding ou de
+projection des chemins — lesquels ne modifient rien en mémoire et resteraient donc sans effet
+autrement — et de rattraper une dérive externe. Il est lancé chaque semaine par le workflow
+`hebdomadaire.yml` pour cette raison.
 
 ## Écriture sélective
 
@@ -188,6 +189,24 @@ devraient exister — un tel calcul, en divergeant de la réalité sur un seul c
 fichiers concernés. On réutilise ceux qui ont été **observés** sur disque au chargement. Comme
 aucune URL n'est jamais retirée de l'index (`verify` ne fait que poser ou retirer le sigil `!`),
 un dossier inchangé a nécessairement les bons fichiers sur disque.
+
+### Purge ciblée
+
+Même raisonnement pour la suppression. La purge n'examine plus tout l'arbre à chaque commande —
+ses deux parcours de 138'000 dossiers représentaient, une fois l'écriture devenue sélective,
+l'essentiel du temps restant. Elle ne visite que les dossiers susceptibles de porter un orphelin :
+ceux dont un fichier était illisible au chargement (leur contenu est perdu, le fichier doit
+partir) et ceux devenus vides. Les dossiers réécrits se purgent déjà eux-mêmes au passage, et un
+dossier inchangé n'a rien à purger — toujours pour la même raison : aucune URL n'est jamais
+retirée.
+
+La contrepartie est réelle et assumée : une **dérive externe** — fichier déposé à la main dans
+`data/`, reste d'une fusion Git, débris d'une écriture interrompue — n'est plus corrigée à chaque
+commande, mais au prochain `build`. D'où sa présence dans le workflow hebdomadaire.
+
+Un `Store` sur lequel `load()` n'a jamais été appelé retombe automatiquement sur le balayage
+complet : sans la connaissance du disque accumulée au chargement, la purge ciblée n'aurait aucune
+base pour distinguer un fichier légitime d'un orphelin.
 
 ## Automatisation (GitHub Actions)
 
