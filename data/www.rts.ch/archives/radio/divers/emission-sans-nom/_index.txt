@@ -8,6 +8,7 @@
 10536801-le-drame-de-leiger-09-08-1957.html
 10711564-l-allumeur-de-reverberes.html
 10711564-lallumeur-de-reverberes-23-08-1956.html
+10801757-denis-de-rougemont-parle-de-nicolas-de-flue-02-12-1939.html
 10808353-debat-entre-denis-de-rougemont-et-jerome-deshusses-1-07-01-1979.html
 10808361-debat-entre-denis-de-rougemont-et-jerome-deshusses-2-14-01-1979.html
 10895881-marcel-piletgolaz-a-la-tete-de-la-confederation-16-12-1939.html
@@ -71,6 +72,7 @@
 13376449-a-propos-du-couronnement-de-la-reine-elizabeth-ii-dangleterre-15-03-1953.html
 13442927-tour-de-france-1933-01-07-1933.html
 14279808-maurice-demierre-et-chantal-bianchi-au-nicaragua-01-02-1986.html
+14365749-lavenir-de-lautomobile-club-de-suisse-acs-interview-de-monsieur-mende-president-10-11-1939.html
 14730975-frehel-au-micro-29-11-1950.html
 15127312-en-marge-du-chantier-de-lexpo-nationale-1939-16-08-1938.html
 15127325-on-construit-la-landi-16-08-1938.html
@@ -78,8 +80,10 @@
 15127348-exposition-nationale-suisse-1939-a-zurich-13-06-1939.html
 15127354-les-stands-a-lexposition-nationale-1939-21-09-1939.html
 15127361-le-futur-pavillon-de-la-mode-de-lexposition-nationale-1939-01-02-1939.html
+15127368-fete-des-costumes-de-lexposition-nationale-de-1939-28-12-1939.html
 15127374-la-journee-des-suisses-de-letranger-a-lexposition-nationale-13-08-1939.html
 15127395-discours-darmin-meili-directeur-de-lexposition-nationale-de-1939-09-11-1940.html
+15326089-notredame-de-paris-une-cathedrale-temoin-des-grands-evenements-09-04-1957.html
 3248502-arthur-honegger-05-02-1940.html
 3248509-rene-louis-piachaud-31-12-1939.html
 3248538-georges-duhamel-29-02-1940.html
@@ -114,6 +118,7 @@
 3253480-discours-a-la-troupe-14-09-1939.html
 3253487-expo-nationale-1939-05-01-1939.html
 3253494-expo-nationale-1939-28-10-1939.html
+3253494-exposition-nationale-suisse-1939-28-10-1939.html
 3253501-vitrine-de-noel-13-12-1939.html
 3253501-vitrine-de-noel.html
 3253508-expo-nationale-1939-14-05-1939.html
@@ -178,6 +183,7 @@
 3276173-jazz-contre-classique.html
 3276201-la-terre-tremble-27-01-1946.html
 3276201-la-terre-tremble.html
+3276208-edith-piaf-25-03-1946.html
 3276237-ansermet-et-honegger-30-03-1947.html
 3276237-ansermet-et-honegger.html
 3276282-1er-vol-suisse-usa-30-04-1947.html
@@ -376,6 +382,7 @@
 3378590-alfred-cortot-510-27-12-1953.html
 3378597-alfred-cortot-4-10-.html
 3378597-alfred-cortot-410-20-12-1953.html
+3494033-tv-versus-radio-10-01-1951.html
 3520987-talents-multiples-01-09-1960.html
 3520987-talents-multiples.html
 3528079-le-lyrisme-de-jean-cuttat-08-06-1969.html
@@ -603,6 +610,7 @@
 5454121-la-foi-dedgar-maufrais-12-10-1955.html
 5461360-tumuc-humac-11-12-1953.html
 5461360-tumuc-humac.html
+5463015-les-marmites-de-noel-24-12-1939.html
 5592480-l-ecriture-et-la-vie.html
 5592480-lecriture-et-la-vie-01-07-2000.html
 5600647-dessins-denfants-29-07-1946.html
@@ -662,6 +670,8 @@
 7536601-la-force-de-la-jeunesse.html
 8087933-dario-fo.html
 8321657-a-propos-de-lappel-de-1954-26-09-1966.html
+8798077-lorchestre-teddy-stauffer-1-16-12-1939.html
+8798092-lorchestre-teddy-stauffer-2-16-12-1939.html
 8858168-marchandage-d-un-cochon-.html
 8858168-marchandage-dun-cochon-01-01-1941.html
 8858380-la-cigale-et-la-fremi-25-09-1948.html

@@ -41,6 +41,7 @@
 10904241-la-fievre-acheteuse.html
 10911179-juskila-un-camp-de-ski-pour-les-jeunes.html
 11070743-les-canadiens-du-hockey-suisse.html
+11101706-le-carnaval-des-bolzes.html
 11187960-hockey-a-la-rencontre-des-canadiens-du-hockey-suisse.html
 11191651-heroiques-caissieres.html
 11191762-michel-simon-lanticonformiste.html
@@ -216,6 +217,7 @@
 14076954-naufrages-sur-le-lac-leman-laubonne-et-le-fraidieu.html
 14079676-les-avanchets-cite-en-couleurs.html
 14119045-a-la-recherche-dun-peu-de-fraicheur.html
+14124051-les-fetes-de-la-miete.html
 14133700-sial-iv-de-la-sciencefiction-made-in-rts-au-nifff.html
 14195209-memoires-des-ormonts.html
 14295729-leyla-aubert-figure-du-theatre-romand.html
