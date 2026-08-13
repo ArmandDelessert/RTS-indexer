@@ -203,7 +203,7 @@
 7842127-b-comme-bikini.html
 7856846-ces-heros-discrets.html
 7861941-emotions-olympiques.html
-7863330-la-lutte-suisse-sport-national.html
+!7863330-la-lutte-suisse-sport-national.html
 7863419-l-ete-en-tubes.html
 7863419-lete-en-tubes.html
 7878931-ces-suisses-qui-ont-fait-la-guerre-d-espagne.html
@@ -242,7 +242,7 @@
 8079185-ali-janus-et-les-autres-50-ans-dhistoires-naturelles.html
 8079285-bienvenue-a-bord.html
 8084884-images-du-cicr.html
-8084940-images-du-cicr.html
+!8084940-images-du-cicr.html
 8087321-objectif-maison-blanche.html
 8090917-usa-des-electeurs-blancs-et-pauvres.html
 8099114-objectif-maison-blanche.html
@@ -291,8 +291,8 @@
 8347225-iran-du-shah-a-layatollah.html
 8348653-la-guerre-du-feu.html
 8350190-stmoritz.html
-8354356-alerte-aux-ovnis-.html
-8354356-alerte-aux-ovnis.html
+!8354356-alerte-aux-ovnis-.html
+!8354356-alerte-aux-ovnis.html
 8357471-si-tu-timagines-juliette-greco.html
 8375545-les-dessous-de-marianne.html
 8402881-la-montagne-au-bout-des-ciseaux.html
@@ -321,7 +321,7 @@
 8490095-le-kosovo-piege.html
 8514339-vaincus-d-hier-presidents-de-demain-.html
 8514339-vaincus-dhier-presidents-de-demain.html
-8514531-le-trophee-du-muveran.html
+!8514531-le-trophee-du-muveran.html
 8520895-les-oiseaux-de-nuit.html
 8532800-usa-moratoire-contre-le-vietnam.html
 8551009-libraires-d-autrefois.html
@@ -368,7 +368,7 @@
 8909094-allemagne-le-miracle-economique.html
 8916444-divorce-a-la-suisse.html
 8919411-bien-helvetique-.html
-8927713-jeunesse-et-patois.html
+!8927713-jeunesse-et-patois.html
 8938978-de-fil-en-aiguille.html
 8946587-le-tunnel-du-rawyl.html
 8946974-l-affaire-graziella-ortiz.html
@@ -386,7 +386,7 @@
 9024212-gilbert-becaud.html
 9043919-le-dernier-voyage.html
 9044210-jeanluc-bideau.html
-9054022-bejart.html
+!9054022-bejart.html
 9063673-sport-et-les-femmes-.html
 9063673-sport-et-les-femmes.html
 9074243-celebrer-la-saint-martin.html
@@ -399,7 +399,7 @@
 9131654-vacances-en-hiver.html
 9162042-meme-po-vieux.html
 9163324-quelle-sera-cette-annee-1968.html
-9165945-chaplin-prend-ses-aises-a-vevey.html
+!9165945-chaplin-prend-ses-aises-a-vevey.html
 9176805-les-indiens-d-amerique.html
 9176805-les-indiens-damerique.html
 9191132-le-film-de-chevet-d-annie-goetzinger-.html
