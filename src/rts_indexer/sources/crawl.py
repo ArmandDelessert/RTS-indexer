@@ -138,7 +138,7 @@ class Crawler:
                 return
             try:
                 url = await asyncio.wait_for(self.queue.get(), config.CRAWL_IDLE_TIMEOUT)
-            except (TimeoutError, asyncio.TimeoutError):
+            except TimeoutError:
                 return
             # Réservée ici, avant tout `await` ultérieur : avec plusieurs
             # workers, incrémenter seulement après la requête HTTP (comme

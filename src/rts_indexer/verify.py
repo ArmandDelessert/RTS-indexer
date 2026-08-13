@@ -21,7 +21,7 @@ from __future__ import annotations
 import asyncio
 import json
 import logging
-from datetime import datetime, timedelta, timezone
+from datetime import UTC, datetime, timedelta
 from pathlib import Path
 
 import httpx
@@ -92,7 +92,7 @@ class Verifier:
             checked_at = datetime.fromisoformat(entry["checked_at"])
         except (KeyError, ValueError):
             return True
-        return datetime.now(timezone.utc) - checked_at > timedelta(days=self.recheck_days)
+        return datetime.now(UTC) - checked_at > timedelta(days=self.recheck_days)
 
     def pending(self) -> list[str]:
         """URLs à contrôler, les jamais-vues d'abord.
@@ -138,7 +138,7 @@ class Verifier:
         etait_morte = self.store.status(url) is True
         self.store.add(url, dead=dead)
         self.cache[url] = {
-            "checked_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+            "checked_at": datetime.now(UTC).isoformat(timespec="seconds"),
             "status": status,
         }
         if dead and not etait_morte:

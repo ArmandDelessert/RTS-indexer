@@ -58,9 +58,7 @@ def escape_segment(segment: str) -> str:
         if char == "%":
             # Échappé en premier pour que le décodage reste sans ambiguïté.
             out.append("%25")
-        elif char.isascii() and char.isupper():
-            out.append(f"%{ord(char):02X}")
-        elif char in _ILLEGAL_FS:
+        elif char.isascii() and char.isupper() or char in _ILLEGAL_FS:
             out.append(f"%{ord(char):02X}")
         else:
             out.append(char)

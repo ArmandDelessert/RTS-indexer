@@ -13,6 +13,8 @@ from .sources import commoncrawl, rss, sitemap, wayback
 from .sources import crawl as crawl_source
 from .store import Store
 
+log = logging.getLogger(__name__)
+
 
 def _store(args: argparse.Namespace) -> Store:
     return Store(Path(args.data_dir))
@@ -94,7 +96,7 @@ def cmd_crawl(args: argparse.Namespace) -> int:
         # Une erreur imprévue, elle, ne doit pas faire perdre les pages déjà
         # découvertes non plus : on écrit ce qui a été accumulé avant de
         # propager, mais avec la trace complète pour pouvoir diagnostiquer.
-        logging.exception("le crawl s'est interrompu, écriture des URLs déjà découvertes")
+        log.exception("le crawl s'est interrompu, écriture des URLs déjà découvertes")
         _report(store.write())
         raise
     print(
@@ -115,7 +117,7 @@ def cmd_wayback(args: argparse.Namespace) -> int:
         _report(store.write())
         raise
     except Exception:
-        logging.exception("la collecte s'est interrompue, écriture des URLs obtenues")
+        log.exception("la collecte s'est interrompue, écriture des URLs obtenues")
         _report(store.write())
         raise
 
@@ -143,7 +145,7 @@ def cmd_commoncrawl(args: argparse.Namespace) -> int:
         _report(store.write())
         raise
     except Exception:
-        logging.exception("la collecte s'est interrompue, écriture des URLs obtenues")
+        log.exception("la collecte s'est interrompue, écriture des URLs obtenues")
         _report(store.write())
         raise
 
@@ -173,7 +175,7 @@ def cmd_verify(args: argparse.Namespace) -> int:
         _report(store.write())
         raise
     except Exception:
-        logging.exception("le contrôle s'est interrompu, écriture des verdicts obtenus")
+        log.exception("le contrôle s'est interrompu, écriture des verdicts obtenus")
         _report(store.write())
         raise
 

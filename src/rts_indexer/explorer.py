@@ -21,7 +21,7 @@ module ``site`` de la bibliothèque standard.
 from __future__ import annotations
 
 import json
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
 
 from . import config, fsutil, pathmap
@@ -78,7 +78,7 @@ def _count(node: dict) -> int:
 
 def _payload(store: Store) -> dict:
     return {
-        "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "generated_at": datetime.now(UTC).isoformat(timespec="seconds"),
         "stats": store.stats(),
         "tree": build_tree(store),
     }

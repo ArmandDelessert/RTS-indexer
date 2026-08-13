@@ -8,7 +8,7 @@ vivantes d'un coup.
 
 import asyncio
 import json
-from datetime import datetime, timedelta, timezone
+from datetime import UTC, datetime, timedelta
 
 import httpx
 import pytest
@@ -158,7 +158,7 @@ def test_le_cache_evite_de_recontroler(tmp_path):
 def test_une_entree_perimee_est_recontrolee(tmp_path):
     cache_dir = tmp_path / "cache"
     cache_dir.mkdir(parents=True)
-    vieux = (datetime.now(timezone.utc) - timedelta(days=90)).isoformat(timespec="seconds")
+    vieux = (datetime.now(UTC) - timedelta(days=90)).isoformat(timespec="seconds")
     (cache_dir / "verify.json").write_text(
         json.dumps({VIVANTE: {"checked_at": vieux, "status": 200}}), encoding="utf-8"
     )
@@ -173,7 +173,7 @@ def test_limite_priorise_les_urls_jamais_vues(tmp_path):
     re-contrôler indéfiniment les mêmes anciennes."""
     cache_dir = tmp_path / "cache"
     cache_dir.mkdir(parents=True)
-    vieux = (datetime.now(timezone.utc) - timedelta(days=90)).isoformat(timespec="seconds")
+    vieux = (datetime.now(UTC) - timedelta(days=90)).isoformat(timespec="seconds")
     (cache_dir / "verify.json").write_text(
         json.dumps({RUBRIQUE: {"checked_at": vieux, "status": 200}}), encoding="utf-8"
     )

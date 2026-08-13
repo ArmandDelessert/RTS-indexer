@@ -22,9 +22,9 @@ from __future__ import annotations
 import json
 import logging
 import time
+from collections.abc import Callable
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Callable
 
 import httpx
 
@@ -53,7 +53,7 @@ class Dialect:
     #: Paramètres de sortie (nom du champ URL, format).
     params: dict
     #: Extrait les URLs brutes du corps d'une réponse.
-    parse: "Callable[[str], list[str]]"
+    parse: Callable[[str], list[str]]
 
 
 def _parse_text(body: str) -> list[str]:

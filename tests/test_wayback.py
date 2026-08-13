@@ -98,7 +98,7 @@ def test_page_vide_intermediaire_n_arrete_pas_le_parcours(tmp_path):
     """Les filtres s'appliquant après le découpage en blocs, une page peut être
     vide alors que les suivantes ont des données. S'arrêter à la première
     tronquerait silencieusement l'archive."""
-    transport, appels = _pages([
+    transport, _appels = _pages([
         ["http://www.rts.ch/a-1.html"],
         [],  # trou
         [],

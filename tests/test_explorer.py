@@ -78,7 +78,7 @@ def test_chevron_echappe_dans_le_json_embarque(tmp_path):
     store.add("https://www.rts.ch/info/suisse/x<b>oups.html")
 
     html = explorer.render(store)
-    brut = re.search(r'type="application/json">(.*?)</script>', html, re.S).group(1)
+    brut = re.search(r'type="application/json">(.*?)</script>', html, re.DOTALL).group(1)
 
     assert "<" not in brut  # aucun chevron brut dans le bloc de données
     assert "\\u003c" in brut
@@ -109,7 +109,7 @@ def test_statistiques_embarquees(tmp_path):
     store = _store(tmp_path)
     store.add(ARTICLE, dead=True)
     html = explorer.render(store)
-    brut = re.search(r'type="application/json">(.*?)</script>', html, re.S).group(1)
+    brut = re.search(r'type="application/json">(.*?)</script>', html, re.DOTALL).group(1)
     payload = json.loads(brut)
 
     assert payload["stats"]["urls"] == 3

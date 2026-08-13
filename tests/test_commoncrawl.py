@@ -221,8 +221,8 @@ def test_total_de_pages_au_format_pywb(tmp_path):
     """`showNumPages` répond en JSON chez Common Crawl (`{"pages": N, ...}`),
     pas en entier nu comme chez Wayback (`"1511"`) : le mauvais format ferait
     échouer le total pour de bon, pas seulement se dégrader."""
-    from rts_indexer.sources.cdx import CdxClient
     from rts_indexer.sources.cdx import COMMONCRAWL as dialecte
+    from rts_indexer.sources.cdx import CdxClient
     from rts_indexer.sources.cdx import Segment as Seg
 
     def handler(request: httpx.Request) -> httpx.Response:
