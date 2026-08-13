@@ -2,8 +2,6 @@
 
 import json
 
-import pytest
-
 from rts_indexer import config
 from rts_indexer.store import Store
 
@@ -220,7 +218,7 @@ def test_collision_forcee_est_journalisee_et_ignoree(tmp_path, monkeypatch):
     pratique. Il reste une protection utile si l'injectivité d'escape_segment
     était un jour cassée par erreur — on force artificiellement la collision
     pour vérifier qu'elle est journalisée et ignorée, jamais fatale."""
-    import rts_indexer.pathmap as pathmap
+    from rts_indexer import pathmap
 
     # Les deux URLs sont forcées vers le même chemin de dossier : c'est la
     # seule façon de reproduire une collision maintenant que la casse seule
@@ -243,7 +241,7 @@ def test_collision_detectee_meme_apres_rechargement(tmp_path, monkeypatch):
     casse y étant désormais préservée — pas seulement pour les entrées déjà
     signalées par le passé, contrairement à l'ancien comportement basé sur les
     anomalies persistées."""
-    import rts_indexer.pathmap as pathmap
+    from rts_indexer import pathmap
 
     store = Store(tmp_path)
     store.add("https://www.rts.ch/premiere/")
@@ -281,7 +279,7 @@ def test_anomalie_resolue_disparait_au_rechargement(tmp_path):
 def test_anomalie_de_collision_toujours_valable_survit(tmp_path, monkeypatch):
     """À l'inverse, une collision réellement encore active doit être
     reconduite d'un run à l'autre, pas silencieusement oubliée."""
-    import rts_indexer.pathmap as pathmap
+    from rts_indexer import pathmap
 
     store = Store(tmp_path)
     store.add("https://www.rts.ch/premiere/")

@@ -28,7 +28,7 @@ from __future__ import annotations
 import json
 import logging
 from dataclasses import dataclass, field
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
 
 from . import config, fsutil, pathmap
@@ -437,7 +437,7 @@ class Store:
     def _write_stats(self) -> dict[str, int]:
         stats = self.stats()
         payload = {
-            "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+            "generated_at": datetime.now(UTC).isoformat(timespec="seconds"),
             **stats,
             "par_hote": self._counts_by_host(),
         }
