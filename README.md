@@ -173,6 +173,16 @@ projection des chemins — lesquels ne modifient rien en mémoire et resteraient
 autrement — et de rattraper une dérive externe. Il est lancé chaque semaine par le workflow
 `hebdomadaire.yml` pour cette raison.
 
+`stats` affiche :
+
+| Compteur | Signification |
+| --- | --- |
+| `urls` | Total indexé, vivantes et mortes confondues. |
+| `vivantes_ou_non_verifiees` | `urls` moins `mortes`. Le nom est double à dessein : une URL jamais passée par `verify` compte comme vivante ici, faute de verdict contraire. |
+| `mortes` | URLs pour lesquelles `verify` a obtenu un 404 ou 410 confirmé (sigil `!`). Reste petit tant que `verify` n'a tourné que sur un échantillon — ce n'est pas « peu d'URLs mortes », c'est « peu d'URLs *contrôlées*. » |
+| `dossiers` | Segments de chemin distincts sous `data/` (une entrée par `_index.txt`, hors shards). |
+| `anomalies` | Lignes dans `_anomalies.tsv` : URLs qu'une source a rencontrées sans pouvoir les indexer proprement — chemin trop long (`trop_long`, au-delà de `MAX_REL_PATH_LEN`) ou deux URLs qui ne diffèrent que par la casse et visent le même chemin disque, NTFS étant insensible à la casse (`collision`). |
+
 ## Écriture sélective
 
 `data/` n'est pas réécrit intégralement à chaque commande : seuls les dossiers dont le contenu a
