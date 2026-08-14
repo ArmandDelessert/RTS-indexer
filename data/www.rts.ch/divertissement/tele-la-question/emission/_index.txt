@@ -1,2 +1,2 @@
-./
-6432803-tele-la-question.html
+!./
+!6432803-tele-la-question.html

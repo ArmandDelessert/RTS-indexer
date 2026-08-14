@@ -1,5 +1,5 @@
 ./
-4228144-quand-l-appetit-va-tout-va.html
-4336153-etranges-etrangers.html
+!4228144-quand-l-appetit-va-tout-va.html
+!4336153-etranges-etrangers.html
 4759903-kristina-bazan-en-photos.html
-5259072-corps-a-corps-dans-la-jungle.html
+!5259072-corps-a-corps-dans-la-jungle.html

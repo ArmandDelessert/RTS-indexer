@@ -1,4 +1,4 @@
 ./
 3178231-enquete-la-lecture-chez-les-adolescents-30-05-2011.html
-6549264-20-pieds-sous-terre-de-charlotte-erlih-vu-par-une-classe-de-geneve.html
-6586244-coup-de-meltem-de-sigrid-baffert-vu-par-une-classe-de-d-estavayer-le-lac-fr.html
+!6549264-20-pieds-sous-terre-de-charlotte-erlih-vu-par-une-classe-de-geneve.html
+!6586244-coup-de-meltem-de-sigrid-baffert-vu-par-une-classe-de-d-estavayer-le-lac-fr.html

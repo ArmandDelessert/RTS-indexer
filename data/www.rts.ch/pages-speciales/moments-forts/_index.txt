@@ -1,4 +1,4 @@
-./
+!./
 3964853-ne-vous-fiez-pas-aux-alcootests-02-05-2012.html
 3967092-attention-aux-lentilles-defectueuses.html
 3967620-transpercee-par-les-ondes-03-05-2012.html
@@ -37,10 +37,10 @@
 5309962-j-ai-eu-l-impression-d-etre-un-voleur-d-enfant.html
 5313516-spotify-manne-pour-les-majors-clopinettes-pour-les-artistes.html
 5316808-un-ergotherapeute-a-l-hopital-23-10-2013.html
-5326282-un-sous-marin-pour-milliardaires.html
+!5326282-un-sous-marin-pour-milliardaires.html
 5328990-au-tibet-les-militaires-patrouillent-avec-des-extincteurs.html
 5331648-j-aurais-publie-l-interview-de-cantat-29-10-2013.html
-5420002-gagner-sa-vie-grace-a-youtube.html
+!5420002-gagner-sa-vie-grace-a-youtube.html
 5569410-l-interdiction-ne-sert-a-rien.html
 5571737-l-homophobie-dans-le-sport-est-une-realite-30-01-2014.html
 5575344-dernieres-volontes-je-fais-ce-que-je-veux.html
@@ -81,7 +81,7 @@
 6523538-allah-et-moi-recit-d-une-jeune-convertie-07-02-2015.html
 6527246-plus-on-paie-les-nettoyeurs-plus-on-perd-les-mandats.html
 6547309-circoncises-pour-suivre-la-loi-islamique-15-02-2015.html
-6565136-une-poupee-pour-la-vie.html
+!6565136-une-poupee-pour-la-vie.html
 6613797-de-la-jalousie-au-libertinage-a-la-jalousie.html
 6619668-le-14-mars-c-est-la-fete-de-pi.html
 6633788-j-etais-tetanisee-par-la-peur.html

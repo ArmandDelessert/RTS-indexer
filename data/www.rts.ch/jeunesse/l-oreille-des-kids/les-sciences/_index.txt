@@ -1,2 +1,2 @@
-./
-4805223-la-pression.html
+!./
+!4805223-la-pression.html
