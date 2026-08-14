@@ -54,6 +54,25 @@ def _prefixe_canonique(prefix: str) -> str:
     prefix = prefix.replace("\\", "/")
     if not prefix.startswith(("http://", "https://")):
         prefix = "https://" + prefix.lstrip("/")
+
+    # Incident réel : --path www.rts.ch/a (sans slash final) matchait aussi
+    # bien le dossier `a` que `audio-podcast`, `archives`, `audio`... tout
+    # dossier dont le nom commence par les mêmes lettres. pending() compare du
+    # texte (startswith), pas des segments de chemin. On ajoute le slash
+    # manquant — sauf si le dernier segment ressemble à un fichier (point
+    # dans le nom, même convention que urlnorm._is_html_leaf) : --path visait
+    # alors une URL précise, pas un dossier, et lui ajouter un slash la
+    # rendrait méconnaissable.
+    dernier_segment = prefix.rsplit("/", 1)[-1]
+    if not prefix.endswith("/") and "." not in dernier_segment:
+        corrige = prefix + "/"
+        log.warning(
+            "--path %s complété en %s (sans slash final, il aurait matché "
+            "tout dossier dont le nom commence par les mêmes lettres)",
+            prefix,
+            corrige,
+        )
+        prefix = corrige
     return prefix
 
 

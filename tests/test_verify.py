@@ -412,6 +412,41 @@ def test_path_avec_antislash_est_normalise(tmp_path):
     assert verifier.pending() == [meteo]
 
 
+def test_path_sans_slash_final_ne_matche_pas_un_dossier_voisin(tmp_path):
+    """Incident réel : --path www.rts.ch/a (sans slash) a matché audio-podcast,
+    archives, audio... 226'344 URLs au lieu des ~2'000 visées, parce que
+    startswith() compare du texte et non des segments de chemin."""
+    voisin = "https://www.rts.ch/audio-podcast/2018/audio/x.html"
+    cible = "https://www.rts.ch/a/y.html"
+    store = _store(tmp_path, urls=[voisin, cible])
+    verifier = _verifier(tmp_path, store=store, path_prefix="www.rts.ch/a")
+    assert verifier.pending() == [cible]
+
+
+def test_path_sans_slash_final_avertit(tmp_path, caplog):
+    with caplog.at_level("WARNING"):
+        _verifier(tmp_path, path_prefix="www.rts.ch/a")
+    assert any("complété" in m for m in caplog.messages)
+
+
+def test_path_vers_une_url_precise_n_est_pas_altere(tmp_path):
+    """Un --path qui vise une URL précise (segment terminal avec un point,
+    comme un .html) ne doit pas recevoir de slash : ça la rendrait
+    méconnaissable, et donc introuvable."""
+    precise = "https://www.rts.ch/meteo/previsions-1.html"
+    store = _store(tmp_path, urls=[precise])
+    verifier = _verifier(tmp_path, store=store, path_prefix=precise)
+    assert verifier.path_prefixes == (precise,)  # pas de slash ajouté
+    assert verifier.pending() == [precise]
+
+
+def test_path_avec_slash_final_deja_present_est_inchange(tmp_path, caplog):
+    with caplog.at_level("WARNING"):
+        verifier = _verifier(tmp_path, path_prefix="www.rts.ch/meteo/")
+    assert verifier.path_prefixes == ("https://www.rts.ch/meteo/",)
+    assert not any("complété" in m for m in caplog.messages)
+
+
 def test_plusieurs_path_ciblent_plusieurs_sous_arbres(tmp_path):
     meteo = "https://www.rts.ch/meteo/previsions-1.html"
     sport = "https://www.rts.ch/sport/football/match-1.html"
