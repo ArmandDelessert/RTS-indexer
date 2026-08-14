@@ -39,17 +39,31 @@ CACHE_FILE = "verify.json"
 _HEAD_REFUSED = frozenset({403, 405, 501})
 
 
-def _prefixe_canonique(prefix: str | None) -> str | None:
+def _prefixe_canonique(prefix: str) -> str:
     """Accepte ``www.rts.ch/meteo/`` aussi bien que l'URL complète.
 
     Les URLs de l'index sont toutes en ``https://`` ; on complète donc un
     préfixe donné sans schéma plutôt que d'exiger la forme longue.
+
+    Les antislashs sont convertis en slashs : sous Windows, un chemin copié
+    depuis ``data\\www.rts.ch\\...`` en porte, alors que la comparaison se
+    fait contre une vraie URL, toujours en slashs. Sans cette conversion,
+    ``pending()`` ne trouve jamais rien et rien ne le signale — un
+    ``--path`` mal formé se confond avec un index déjà à jour.
     """
-    if not prefix:
-        return None
+    prefix = prefix.replace("\\", "/")
     if not prefix.startswith(("http://", "https://")):
         prefix = "https://" + prefix.lstrip("/")
     return prefix
+
+
+def _prefixes_canoniques(prefixes: str | list[str] | None) -> tuple[str, ...]:
+    """Normalise un ou plusieurs préfixes. Vide = aucun filtre."""
+    if not prefixes:
+        return ()
+    if isinstance(prefixes, str):
+        prefixes = [prefixes]
+    return tuple(_prefixe_canonique(p) for p in prefixes)
 
 
 class Verifier:
@@ -59,7 +73,7 @@ class Verifier:
         *,
         max_urls: int = 0,
         recheck_days: int | None = None,
-        path_prefix: str | None = None,
+        path_prefix: str | list[str] | None = None,
         retry_delay: float | None = None,
         cache_dir: Path | None = None,
         transport: httpx.AsyncBaseTransport | None = None,
@@ -74,7 +88,7 @@ class Verifier:
         self.retry_delay = (
             config.VERIFY_RETRY_DELAY if retry_delay is None else retry_delay
         )
-        self.path_prefix = _prefixe_canonique(path_prefix)
+        self.path_prefixes = _prefixes_canoniques(path_prefix)
         self.cache_path = (cache_dir or config.CACHE_DIR) / CACHE_FILE
         self.transport = transport
         #: url -> {"checked_at": iso8601, "status": int}
@@ -138,7 +152,7 @@ class Verifier:
         """
         jamais_vues, a_rafraichir = [], []
         for url, _ in self.store.urls():
-            if self.path_prefix and not url.startswith(self.path_prefix):
+            if self.path_prefixes and not url.startswith(self.path_prefixes):
                 continue
             if url not in self.cache:
                 jamais_vues.append(url)
@@ -146,6 +160,9 @@ class Verifier:
                 a_rafraichir.append(url)
         selection = jamais_vues + a_rafraichir
         return selection[: self.max_urls] if self.max_urls > 0 else selection
+
+    def _path_matche_quelque_chose(self) -> bool:
+        return any(url.startswith(self.path_prefixes) for url, _ in self.store.urls())
 
     # -- contrôle ------------------------------------------------------------
 
@@ -277,7 +294,19 @@ class Verifier:
         self.load_cache()
         urls = self.pending()
         if not urls:
-            log.info("rien à contrôler")
+            if self.path_prefixes and not self._path_matche_quelque_chose():
+                # Distinct du cas « tout est déjà à jour » : ici, --path ne
+                # désigne rien du tout dans l'index, très probablement une
+                # faute de frappe. Sans ce message, les deux se confondent
+                # dans le même « rien à contrôler ».
+                log.warning(
+                    "aucune URL de l'index ne correspond à --path (%s) : "
+                    "vérifiez le préfixe (attendu : segments séparés par des "
+                    "slashs, ex. www.rts.ch/meteo/)",
+                    ", ".join(self.path_prefixes),
+                )
+            else:
+                log.info("rien à contrôler")
             return
         log.info("%d URLs à contrôler", len(urls))
 

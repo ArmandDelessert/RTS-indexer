@@ -367,10 +367,12 @@ def build_parser() -> argparse.ArgumentParser:
     )
     p.add_argument(
         "--path",
+        action="append",
         default=None,
         help=(
             "ne contrôler que les URLs sous ce préfixe "
-            "(ex. www.rts.ch/meteo/ ou https://www.rts.ch/meteo/)"
+            "(ex. www.rts.ch/meteo/ ou https://www.rts.ch/meteo/). "
+            "Répétable pour cibler plusieurs sous-arbres à la fois."
         ),
     )
     p.set_defaults(func=cmd_verify)

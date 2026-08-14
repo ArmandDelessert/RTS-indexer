@@ -400,3 +400,48 @@ def test_path_accepte_l_url_complete(tmp_path):
 def test_sans_path_tout_est_controle(tmp_path):
     verifier = _verifier(tmp_path)
     assert len(verifier.pending()) == 3
+
+
+def test_path_avec_antislash_est_normalise(tmp_path):
+    """Incident réel : `data\\www.rts.ch\\meteo` copié depuis l'explorateur
+    Windows contient des antislashs, alors que les URLs n'en portent jamais.
+    Sans normalisation, --path ne matche jamais rien, silencieusement."""
+    meteo = "https://www.rts.ch/meteo/previsions-1.html"
+    store = _store(tmp_path, urls=[VIVANTE, meteo])
+    verifier = _verifier(tmp_path, store=store, path_prefix="www.rts.ch\\meteo\\")
+    assert verifier.pending() == [meteo]
+
+
+def test_plusieurs_path_ciblent_plusieurs_sous_arbres(tmp_path):
+    meteo = "https://www.rts.ch/meteo/previsions-1.html"
+    sport = "https://www.rts.ch/sport/football/match-1.html"
+    store = _store(tmp_path, urls=[VIVANTE, meteo, sport])
+    verifier = _verifier(
+        tmp_path,
+        store=store,
+        path_prefix=["www.rts.ch/meteo/", "www.rts.ch/sport/"],
+    )
+    assert sorted(verifier.pending()) == sorted([meteo, sport])
+
+
+def test_path_qui_ne_matche_rien_previent_explicitement(tmp_path, caplog):
+    """Un --path fautif ne doit pas se confondre avec un index déjà à jour :
+    c'est exactement l'ambiguïté qui a fait perdre un run entier."""
+    verifier = _verifier(tmp_path, path_prefix="www.rts.ch/inexistant/")
+    with caplog.at_level("WARNING"):
+        asyncio.run(verifier.run())
+
+    assert verifier.checked == 0
+    assert any("aucune URL" in m for m in caplog.messages)
+
+
+def test_path_qui_matche_mais_deja_a_jour_reste_discret(tmp_path, caplog):
+    """À l'inverse, un --path valide dont tout est déjà frais ne doit pas
+    déclencher le même avertissement : ce n'est pas une erreur."""
+    verifier = _verifier(tmp_path, path_prefix="www.rts.ch/info/")
+    asyncio.run(verifier.run())  # premier passage : tout devient "vu"
+
+    with caplog.at_level("WARNING"):
+        asyncio.run(verifier.run())  # second passage : rien de neuf, normal
+
+    assert not any("aucune URL" in m for m in caplog.messages)
