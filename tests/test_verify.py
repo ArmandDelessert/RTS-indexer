@@ -8,6 +8,7 @@ vivantes d'un coup.
 
 import asyncio
 import json
+import time
 from datetime import UTC, datetime, timedelta
 
 import httpx
@@ -54,6 +55,9 @@ def _store(tmp_path, urls=(VIVANTE, MORTE, RUBRIQUE)):
 def _verifier(tmp_path, store=None, **kwargs):
     kwargs.setdefault("transport", _transport(kwargs.pop("codes", None), kwargs.pop("log", None)))
     kwargs.setdefault("cache_dir", tmp_path / "cache")
+    # Sans ça, le moindre 404 ferait attendre le délai réel (60 s) avant le
+    # second avis, et chaque test durerait une minute.
+    kwargs.setdefault("retry_delay", 0)
     return Verifier(store or _store(tmp_path), **kwargs)
 
 
@@ -137,7 +141,9 @@ def test_head_puis_get_si_la_methode_est_refusee(tmp_path):
     verifier = _verifier(tmp_path, store=store, transport=httpx.MockTransport(handler))
     asyncio.run(verifier.run())
 
-    assert [methode for methode, _ in appels] == ["HEAD", "GET"]
+    # Deux tentatives : le 404 vaut un second avis (cf. VERIFY_RETRY_CODES), et
+    # chacune rejoue le repli HEAD -> GET.
+    assert [methode for methode, _ in appels] == ["HEAD", "GET", "HEAD", "GET"]
     assert dict(verifier.store.urls())[MORTE] is True
 
 
@@ -220,3 +226,177 @@ def test_index_vide_ne_fait_rien(tmp_path):
     verifier = _verifier(tmp_path, store=Store(tmp_path / "data"))
     asyncio.run(verifier.run())
     assert verifier.checked == 0
+
+
+# -- second avis avant de condamner ------------------------------------------
+
+
+def test_404_isole_ne_condamne_pas_du_premier_coup(tmp_path):
+    """Le cas qui motive tout : un 404 passager (incident serveur ou cache
+    négatif de CDN) ne doit pas suffire à enterrer une URL vivante."""
+    appels: list[str] = []
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        appels.append(request.method)
+        # 404 au premier passage, 200 au second : le sursis doit la sauver.
+        return httpx.Response(404 if len(appels) == 1 else 200)
+
+    store = _store(tmp_path, urls=[MORTE])
+    verifier = _verifier(tmp_path, store=store, transport=httpx.MockTransport(handler))
+    asyncio.run(verifier.run())
+
+    assert verifier.reessais == 1
+    assert verifier.morts == 0
+    assert dict(verifier.store.urls())[MORTE] is False
+
+
+def test_404_confirme_condamne(tmp_path):
+    verifier = _verifier(tmp_path, store=_store(tmp_path, urls=[MORTE]))
+    asyncio.run(verifier.run())
+
+    assert verifier.reessais == 1
+    assert verifier.morts == 1
+    assert dict(verifier.store.urls())[MORTE] is True
+    # Une seule URL contrôlée, malgré les deux requêtes.
+    assert verifier.checked == 1
+
+
+def test_410_ne_vaut_pas_de_second_avis(tmp_path):
+    """410 = suppression explicite et délibérée du serveur. Mesuré : 70 % des
+    URLs mortes répondent 410, les réinterroger serait du gaspillage pur."""
+    appels: list[str] = []
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        appels.append(request.method)
+        return httpx.Response(410)
+
+    store = _store(tmp_path, urls=[MORTE])
+    verifier = _verifier(tmp_path, store=store, transport=httpx.MockTransport(handler))
+    asyncio.run(verifier.run())
+
+    assert len(appels) == 1
+    assert verifier.reessais == 0
+    assert dict(verifier.store.urls())[MORTE] is True
+
+
+def test_non_concluant_est_reessaye_dans_le_meme_run(tmp_path):
+    """Un 429 ou un 5xx est transitoire par nature : mieux vaut réessayer
+    quelques instants plus tard qu'attendre le prochain run, des semaines
+    après."""
+    appels: list[str] = []
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        appels.append(request.method)
+        return httpx.Response(503 if len(appels) == 1 else 200)
+
+    store = _store(tmp_path, urls=[VIVANTE])
+    verifier = _verifier(tmp_path, store=store, transport=httpx.MockTransport(handler))
+    asyncio.run(verifier.run())
+
+    assert verifier.reessais == 1
+    assert verifier.non_concluants == 0
+    assert dict(verifier.store.urls())[VIVANTE] is False
+
+
+def test_non_concluant_persistant_reste_non_concluant(tmp_path):
+    """Épuiser les essais ne transforme pas un doute en verdict : ni sigil, ni
+    cache, on retentera au prochain run."""
+    verifier = _verifier(
+        tmp_path,
+        store=_store(tmp_path, urls=[VIVANTE]),
+        transport=httpx.MockTransport(lambda _: httpx.Response(503)),
+    )
+    asyncio.run(verifier.run())
+
+    assert verifier.non_concluants == 1
+    assert verifier.cache == {}  # rien mis en cache : à recontrôler
+    assert dict(verifier.store.urls())[VIVANTE] is False  # sigil intact
+
+
+def test_le_sursis_pose_une_echeance_dans_le_futur(tmp_path):
+    """Le second avis n'est pas immédiat : l'URL passe par une file à échéance,
+    sans quoi on retomberait sur la même réponse en cache côté CDN."""
+    verifier = _verifier(tmp_path, retry_delay=30.0)
+
+    assert verifier._reprogrammer(MORTE, "HTTP 404") is True
+    echeance, url = verifier._differes[0]
+    assert url == MORTE
+    assert echeance > time.monotonic() + 25  # ~30 s dans le futur
+    # L'échéance n'étant pas atteinte, rien n'est encore à reprendre.
+    assert verifier._differe_du() is None
+
+
+def test_les_essais_sont_bornes(tmp_path):
+    """Sans borne, une URL durablement en erreur boucherait la file
+    indéfiniment."""
+    verifier = _verifier(tmp_path, retry_delay=0)
+
+    assert verifier._reprogrammer(MORTE, "HTTP 404") is True
+    assert verifier._reprogrammer(MORTE, "HTTP 404") is False
+    assert verifier.reessais == 1
+
+
+# -- doublons (redirections) -------------------------------------------------
+
+
+def test_redirection_signale_un_doublon(tmp_path):
+    """Une variante de slug répond 200 en redirigeant vers l'article canonique :
+    elle paraissait saine, le suivi de l'URL finale la démasque."""
+    canonique = "https://www.rts.ch/info/suisse/2026/article/vivante-1.html"
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        if request.url.path.endswith("variante-9.html"):
+            return httpx.Response(301, headers={"Location": canonique})
+        return httpx.Response(200)
+
+    variante = "https://www.rts.ch/info/suisse/2026/article/variante-9.html"
+    store = _store(tmp_path, urls=[variante])
+    verifier = _verifier(tmp_path, store=store, transport=httpx.MockTransport(handler))
+    asyncio.run(verifier.run())
+
+    assert verifier.redirections == {variante: canonique}
+    assert ("doublon", variante, canonique) in store.anomalies
+    # Journalisé seulement : rien n'est supprimé à ce stade.
+    assert dict(store.urls())[variante] is False
+
+
+def test_une_url_sans_redirection_n_est_pas_un_doublon(tmp_path):
+    verifier = _verifier(tmp_path, store=_store(tmp_path, urls=[VIVANTE]))
+    asyncio.run(verifier.run())
+    assert verifier.redirections == {}
+
+
+def test_anomalie_doublon_survit_au_rechargement(tmp_path):
+    """Contrairement aux autres anomalies, un doublon ne peut pas être rejoué
+    hors ligne : il vient d'une redirection constatée sur le réseau."""
+    store = Store(tmp_path / "data")
+    store.add(VIVANTE)
+    store.anomalies.add(("doublon", VIVANTE, "https://www.rts.ch/canonique.html"))
+    store.write()
+
+    relu = Store(tmp_path / "data").load()
+    assert ("doublon", VIVANTE, "https://www.rts.ch/canonique.html") in relu.anomalies
+
+
+# -- ciblage par sous-arbre --------------------------------------------------
+
+
+def test_path_restreint_le_controle_a_un_sous_arbre(tmp_path):
+    meteo = "https://www.rts.ch/meteo/previsions-1.html"
+    store = _store(tmp_path, urls=[VIVANTE, MORTE, meteo])
+    verifier = _verifier(tmp_path, store=store, path_prefix="www.rts.ch/meteo/")
+    assert verifier.pending() == [meteo]
+
+
+def test_path_accepte_l_url_complete(tmp_path):
+    meteo = "https://www.rts.ch/meteo/previsions-1.html"
+    store = _store(tmp_path, urls=[VIVANTE, meteo])
+    verifier = _verifier(
+        tmp_path, store=store, path_prefix="https://www.rts.ch/meteo/"
+    )
+    assert verifier.pending() == [meteo]
+
+
+def test_sans_path_tout_est_controle(tmp_path):
+    verifier = _verifier(tmp_path)
+    assert len(verifier.pending()) == 3

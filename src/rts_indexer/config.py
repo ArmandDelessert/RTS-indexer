@@ -141,6 +141,27 @@ VERIFY_CHECKPOINT_URLS = 500
 #: exemple un 403 sur /360/paju/suissedescimes/, qui n'est pas une page morte.
 VERIFY_DEAD_CODES = frozenset({404, 410})
 
+#: Codes justifiant un second avis avant de condamner une URL.
+#:
+#: Mesuré sur 400 URLs déjà marquées mortes, re-contrôlées à froid : **aucun
+#: faux positif**, et 70 % d'entre elles répondaient 410 — un signal explicite
+#: et délibéré de suppression, qu'il serait vain de réinterroger. Seul le 404,
+#: qui peut aussi traduire un incident passager côté serveur ou CDN, mérite
+#: d'être confirmé. Repasser *tous* les codes morts par deux tours coûterait
+#: ~38 % de requêtes en plus pour un problème mesuré sous 0,75 % ; se limiter
+#: au 404 ramène ce surcoût à ~6 %.
+VERIFY_RETRY_CODES = frozenset({404})
+#: Nombre total de tentatives pour une URL suspecte (1 = pas de second avis).
+VERIFY_ATTEMPTS = 2
+#: Délai minimal avant de réessayer une URL suspecte (secondes).
+#:
+#: Un 404 fugace vient typiquement d'un cache négatif de CDN, dont les TTL
+#: usuels vont de quelques dizaines de secondes à quelques minutes : réessayer
+#: plus tôt retomberait sur la même réponse en cache, l'essai serait gaspillé.
+#: L'attente n'immobilise aucun worker — l'URL est remise dans une file à
+#: échéance et le parcours continue pendant ce temps.
+VERIFY_RETRY_DELAY = 60.0
+
 # --- Format de stockage -----------------------------------------------------
 
 INDEX_BASENAME = "_index"

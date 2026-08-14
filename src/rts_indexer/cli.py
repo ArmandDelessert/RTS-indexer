@@ -5,6 +5,7 @@ from __future__ import annotations
 import argparse
 import logging
 import sys
+import time
 from pathlib import Path
 
 from . import config, explorer
@@ -14,6 +15,11 @@ from .sources import crawl as crawl_source
 from .store import Store
 
 log = logging.getLogger(__name__)
+
+#: Instant de démarrage, posé par main(). `monotonic` et non `time()` : insensible
+#: à un changement d'heure système (passage à l'heure d'hiver, resynchronisation
+#: NTP) au milieu d'un run qui peut durer des heures.
+_DEBUT: float | None = None
 
 
 def _store(args: argparse.Namespace) -> Store:
@@ -28,10 +34,30 @@ def _log_setup(verbose: bool) -> None:
     )
 
 
+def _duree(secondes: float) -> str:
+    """Durée lisible : `2 h 05 min`, `4 min 12 s`, `8.3 s`."""
+    if secondes < 60:
+        return f"{secondes:.1f} s"
+    minutes, sec = divmod(int(secondes), 60)
+    if minutes < 60:
+        return f"{minutes} min {sec:02d} s"
+    heures, minutes = divmod(minutes, 60)
+    return f"{heures} h {minutes:02d} min"
+
+
 def _report(stats: dict[str, int]) -> None:
+    """Affiche les compteurs, puis la durée écoulée depuis le lancement.
+
+    La durée est imprimée à part et n'entre jamais dans ``stats`` : ce
+    dictionnaire est celui que le store sérialise dans ``_stats.json``, et y
+    glisser une valeur qui change à chaque exécution produirait un diff Git à
+    chaque run.
+    """
     width = max(len(k) for k in stats)
     for key, value in stats.items():
         print(f"{key.replace('_', ' '):<{width}}  {value:>9,}".replace(",", "'"))
+    if _DEBUT is not None:
+        print(f"{'duree':<{width}}  {_duree(time.monotonic() - _DEBUT):>9}")
 
 
 def cmd_sitemap(args: argparse.Namespace) -> int:
@@ -169,6 +195,7 @@ def cmd_verify(args: argparse.Namespace) -> int:
             store,
             max_urls=args.limit,
             recheck_days=args.recheck_days,
+            path_prefix=args.path,
         )
     except KeyboardInterrupt:
         print("\nInterruption : écriture des verdicts déjà obtenus...", file=sys.stderr)
@@ -183,8 +210,14 @@ def cmd_verify(args: argparse.Namespace) -> int:
         f"{verifier.checked} URLs contrôlées : "
         f"{verifier.morts} nouvellement mortes, "
         f"{verifier.ressuscites} de nouveau vivantes, "
-        f"{verifier.non_concluants} non concluantes"
+        f"{verifier.non_concluants} non concluantes "
+        f"({verifier.reessais} seconds avis)"
     )
+    if verifier.redirections:
+        print(
+            f"{len(verifier.redirections)} URLs redirigent ailleurs "
+            f"(doublons probables, journalisés dans {config.ANOMALIES_FILE})"
+        )
     _report(store.write())
     return 0
 
@@ -332,6 +365,14 @@ def build_parser() -> argparse.ArgumentParser:
         default=config.VERIFY_RECHECK_DAYS,
         help="âge au-delà duquel une URL déjà contrôlée l'est à nouveau (défaut: %(default)s)",
     )
+    p.add_argument(
+        "--path",
+        default=None,
+        help=(
+            "ne contrôler que les URLs sous ce préfixe "
+            "(ex. www.rts.ch/meteo/ ou https://www.rts.ch/meteo/)"
+        ),
+    )
     p.set_defaults(func=cmd_verify)
 
     p = sub.add_parser("build", help="relit et réécrit data/ (tri, sharding, purge)")
@@ -356,8 +397,10 @@ def build_parser() -> argparse.ArgumentParser:
 
 
 def main(argv: list[str] | None = None) -> int:
+    global _DEBUT
     args = build_parser().parse_args(argv)
     _log_setup(args.verbose)
+    _DEBUT = time.monotonic()
     try:
         return args.func(args)
     except KeyboardInterrupt:

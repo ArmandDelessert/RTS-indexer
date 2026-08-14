@@ -256,6 +256,12 @@ class Store:
                 self.anomalies.add((kind, url, detail))
 
     def _anomaly_still_applies(self, kind: str, url: str) -> bool:
+        if kind == "doublon":
+            # Vaut tant que l'URL reste indexée. Contrairement aux deux autres,
+            # ce verdict vient du réseau (une redirection constatée par
+            # `verify`) et ne peut pas être rejoué hors ligne : le conserver
+            # est le seul moyen de ne pas perdre l'information entre deux runs.
+            return self.status(url) is not None
         if kind not in ("collision", "trop_long"):
             return False  # type retiré du code (ex. l'ancienne "majuscule")
         try:
