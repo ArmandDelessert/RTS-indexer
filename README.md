@@ -140,15 +140,36 @@ python -m rts_indexer commoncrawl [--max-pages N] [--pages-per-index N] [--max-i
 ### `verify`
 
 ```bash
-python -m rts_indexer verify [--limit N] [--recheck-days N]
+python -m rts_indexer verify [--limit N] [--recheck-days N] [--path PREFIXE]
 ```
 
 - `--limit` — nombre maximal d'URLs à contrôler, les jamais-vues d'abord (0 = toutes).
 - `--recheck-days` (défaut 30) — âge au-delà duquel une URL déjà contrôlée l'est de nouveau.
+- `--path` — ne contrôler que les URLs sous ce préfixe (`www.rts.ch/meteo/` ou l'URL complète).
+  Pratique pour valider un changement sans lancer un run complet.
+
+Il n'y a pas de curseur de reprise : `.cache/verify.json` mémorise la date et le code de chaque
+contrôle, et chaque exécution attaque en priorité les URLs jamais vues, puis celles dont le
+contrôle dépasse `--recheck-days`. Plus robuste qu'un curseur positionnel, qui se désynchroniserait
+dès que l'index change de taille.
 
 Verdict volontairement prudent : seuls 404 et 410 marquent une URL morte. Un 403, un 429 ou une
 erreur serveur sont non concluants (ni cache, ni changement de sigil) — rts.ch renvoie par
 exemple un 403 sur des pages bien vivantes.
+
+**Second avis.** Un 404 isolé ne condamne pas : l'URL est remise dans une file à échéance et
+recontrôlée une minute plus tard, le sigil n'étant posé que si le second avis confirme. Les
+réponses non concluantes suivent le même chemin — elles sont transitoires par nature, mieux vaut
+réessayer dans la minute qu'au prochain run. Le 410 en est exclu : c'est une suppression explicite
+du serveur (mesuré : 70 % des URLs mortes), la réinterroger serait du gaspillage. L'attente
+n'immobilise aucun worker, le parcours continue pendant ce temps.
+
+**Doublons.** Le client suit les redirections ; comparer l'URL finale à l'URL demandée démasque
+les variantes de slug qui pointent vers le même article — elles répondent 200 et paraissent donc
+saines. Elles sont journalisées dans `_anomalies.tsv` (type `doublon`) sans être supprimées : le
+serveur seul sait quelle forme est canonique, et sa règle est contre-intuitive
+(`...traversent-elles-l-atlantique.html` redirige vers `...traversentelles-latlantique.html`).
+Coût réseau nul, l'information transitait déjà.
 
 ### `site`
 
@@ -181,7 +202,7 @@ autrement — et de rattraper une dérive externe. Il est lancé chaque semaine 
 | `vivantes_ou_non_verifiees` | `urls` moins `mortes`. Le nom est double à dessein : une URL jamais passée par `verify` compte comme vivante ici, faute de verdict contraire. |
 | `mortes` | URLs pour lesquelles `verify` a obtenu un 404 ou 410 confirmé (sigil `!`). Reste petit tant que `verify` n'a tourné que sur un échantillon — ce n'est pas « peu d'URLs mortes », c'est « peu d'URLs *contrôlées*. » |
 | `dossiers` | Segments de chemin distincts sous `data/` (une entrée par `_index.txt`, hors shards). |
-| `anomalies` | Lignes dans `_anomalies.tsv` : URLs qu'une source a rencontrées sans pouvoir les indexer proprement — chemin trop long (`trop_long`, au-delà de `MAX_REL_PATH_LEN`) ou deux URLs qui ne diffèrent que par la casse et visent le même chemin disque, NTFS étant insensible à la casse (`collision`). |
+| `anomalies` | Lignes dans `_anomalies.tsv`, de trois types : `trop_long` (chemin projeté au-delà de `MAX_REL_PATH_LEN`), `collision` (deux URLs ne différant que par la casse visent le même chemin disque, NTFS étant insensible à la casse), et `doublon` (l'URL redirige vers une autre, constaté par `verify`). |
 
 ## Écriture sélective
 
