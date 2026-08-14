@@ -66,3 +66,18 @@ def test_main_absorbe_ctrl_c_avec_le_code_de_sortie_conventionnel(tmp_path, monk
 
     assert code == 130
     assert "Traceback" not in capsys.readouterr().err
+
+
+def test_dedupe_supprime_et_rapporte(tmp_path, capsys):
+    article = "https://www.rts.ch/info/suisse/2026/article/x-1.html"
+    canonique = "https://www.rts.ch/info/suisse/2026/article/x-2.html"
+    store = Store(tmp_path)
+    store.add_many([article, canonique])
+    store.anomalies.add(("doublon", article, canonique))
+    store.write()
+
+    code = cli.main(["--data-dir", str(tmp_path), "dedupe"])
+
+    assert code == 0
+    assert "1 doublons supprimés" in capsys.readouterr().out
+    assert dict(Store(tmp_path).load().urls()) == {canonique: False}

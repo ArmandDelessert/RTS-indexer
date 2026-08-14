@@ -222,6 +222,15 @@ def cmd_verify(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_dedupe(args: argparse.Namespace) -> int:
+    """Supprime les URLs journalisées comme doublons par `verify`."""
+    store = _store(args).load()
+    supprimes, ignores = store.resolve_doublons()
+    print(f"{supprimes} doublons supprimés, {ignores} ignorés (cible absente de l'index)")
+    _report(store.write())
+    return 0
+
+
 def cmd_build(args: argparse.Namespace) -> int:
     """Relit puis réécrit ``/data`` : renormalise le tri et le sharding.
 
@@ -376,6 +385,11 @@ def build_parser() -> argparse.ArgumentParser:
         ),
     )
     p.set_defaults(func=cmd_verify)
+
+    p = sub.add_parser(
+        "dedupe", help="supprime les URLs journalisées comme doublons par verify"
+    )
+    p.set_defaults(func=cmd_dedupe)
 
     p = sub.add_parser("build", help="relit et réécrit data/ (tri, sharding, purge)")
     p.set_defaults(func=cmd_build)

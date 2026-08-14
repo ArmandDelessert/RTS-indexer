@@ -63,6 +63,7 @@ python -m rts_indexer <commande> [options]
 | `wayback` | Collecte l'archive historique (Internet Archive). |
 | `commoncrawl` | Collecte l'archive Common Crawl. |
 | `verify` | Contrôle quelles URLs répondent encore, pose/retire le sigil `!`. |
+| `dedupe` | Supprime les URLs journalisées comme doublons par `verify`. |
 | `build` | Relit et réécrit `data/` (tri, sharding, purge) sans rien collecter. |
 | `site` | Génère la page web de consultation (`site/index.html`). |
 | `stats` | Affiche les compteurs de l'index. |
@@ -166,10 +167,23 @@ n'immobilise aucun worker, le parcours continue pendant ce temps.
 
 **Doublons.** Le client suit les redirections ; comparer l'URL finale à l'URL demandée démasque
 les variantes de slug qui pointent vers le même article — elles répondent 200 et paraissent donc
-saines. Elles sont journalisées dans `_anomalies.tsv` (type `doublon`) sans être supprimées : le
-serveur seul sait quelle forme est canonique, et sa règle est contre-intuitive
+saines. Elles sont journalisées dans `_anomalies.tsv` (type `doublon`) sans être supprimées à ce
+stade : le serveur seul sait quelle forme est canonique, et sa règle est contre-intuitive
 (`...traversent-elles-l-atlantique.html` redirige vers `...traversentelles-latlantique.html`).
-Coût réseau nul, l'information transitait déjà.
+Coût réseau nul, l'information transitait déjà. La suppression effective se fait ensuite via
+`dedupe`.
+
+### `dedupe`
+
+```bash
+python -m rts_indexer dedupe
+```
+
+Supprime les URLs journalisées comme doublons (`verify` en pose le constat, `dedupe` en tire la
+conséquence). Ne supprime **que** si la cible de la redirection est elle-même indexée : mieux vaut
+garder un doublon en trop que perdre une URL dont la destination s'avère introuvable — un
+identifiant qui redirige vers une image sur `img.rts.ch`, par exemple, hors périmètre et jamais
+indexé. Les doublons dont la cible manque sont journalisés et conservés, pas supprimés à l'aveugle.
 
 ### `site`
 
@@ -217,9 +231,12 @@ amont ne touche plus aucun fichier, là où il les réécrivait auparavant à l'
 Le point délicat est que `_prune()` supprime tout fichier d'index qu'il ne reconnaît pas comme
 légitime. Pour un dossier qu'on ne réécrit pas, on ne *recalcule* donc pas quels fichiers
 devraient exister — un tel calcul, en divergeant de la réalité sur un seul cas, effacerait les
-fichiers concernés. On réutilise ceux qui ont été **observés** sur disque au chargement. Comme
-aucune URL n'est jamais retirée de l'index (`verify` ne fait que poser ou retirer le sigil `!`),
-un dossier inchangé a nécessairement les bons fichiers sur disque.
+fichiers concernés. On réutilise ceux qui ont été **observés** sur disque au chargement. L'invariant
+qui rend ça sûr n'est pas « aucune URL n'est jamais retirée » (`remove()` en retire, pour éliminer
+des doublons — voir plus bas) mais plus précis : *un dossier non marqué sale a les bons fichiers sur
+disque*. `add()` et `remove()` marquent systématiquement sale tout dossier dont le contenu change
+réellement ; un dossier non touché n'a, par construction, aucune raison d'avoir divergé de ce qui a
+été observé au chargement.
 
 ### Purge ciblée
 
@@ -227,9 +244,8 @@ Même raisonnement pour la suppression. La purge n'examine plus tout l'arbre à 
 ses deux parcours de 138'000 dossiers représentaient, une fois l'écriture devenue sélective,
 l'essentiel du temps restant. Elle ne visite que les dossiers susceptibles de porter un orphelin :
 ceux dont un fichier était illisible au chargement (leur contenu est perdu, le fichier doit
-partir) et ceux devenus vides. Les dossiers réécrits se purgent déjà eux-mêmes au passage, et un
-dossier inchangé n'a rien à purger — toujours pour la même raison : aucune URL n'est jamais
-retirée.
+partir) et ceux devenus entièrement vides après un `remove()`. Les dossiers réécrits se purgent
+déjà eux-mêmes au passage, et un dossier ni sale ni vidé n'a rien à purger.
 
 La contrepartie est réelle et assumée : une **dérive externe** — fichier déposé à la main dans
 `data/`, reste d'une fusion Git, débris d'une écriture interrompue — n'est plus corrigée à chaque

@@ -167,6 +167,63 @@ class Store:
         """Ajoute un itérable d'URLs, retourne le nombre de nouveautés."""
         return sum(self.add(url) for url in urls)  # type: ignore[union-attr]
 
+    def remove(self, url: str) -> bool:
+        """Retire une URL de l'index. Retourne ``True`` si elle existait.
+
+        Contrairement à ``add()``, qui ne fait qu'ajouter : c'est la seule
+        façon de faire disparaître une URL, réservée à l'élimination de
+        doublons confirmés (une URL qui redirige vers une autre, déjà
+        indexée — cf. :meth:`resolve_doublons`). Marque le dossier sale :
+        l'invariant de l'écriture sélective (« un dossier inchangé a les
+        bons fichiers sur disque ») reste vrai puisque ce dossier n'est
+        justement plus inchangé. Si le dossier devient entièrement vide,
+        ``write()`` s'en aperçoit déjà de lui-même (``entry.slugs`` et
+        ``entry.is_page`` vides) et le fait purger.
+        """
+        try:
+            relpath, leaf = pathmap.url_to_location(url)
+        except pathmap.PathMappingError:
+            return False
+        entry = self.dirs.get(relpath)
+        if entry is None:
+            return False
+        if leaf is None:
+            if entry.page_dead is None:
+                return False
+            entry.page_dead = None
+        else:
+            if leaf not in entry.slugs:
+                return False
+            del entry.slugs[leaf]
+        self._dirty.add(relpath)
+        return True
+
+    def resolve_doublons(self) -> tuple[int, int]:
+        """Supprime les URLs journalisées comme doublons par ``verify``.
+
+        Ne supprime que si la cible (l'URL vers laquelle le serveur
+        redirige) est elle-même indexée : mieux vaut conserver un doublon
+        en trop que perdre une URL dont la destination s'avère introuvable
+        — un identifiant qui redirige vers une image sur ``img.rts.ch``, par
+        exemple, hors périmètre et jamais indexé.
+
+        Retourne ``(supprimés, ignorés)``.
+        """
+        doublons = [(u, cible) for genre, u, cible in self.anomalies if genre == "doublon"]
+        supprimes = ignores = 0
+        for url, cible in doublons:
+            if self.status(cible) is None:
+                log.warning("doublon ignoré, cible absente de l'index : %s -> %s", url, cible)
+                ignores += 1
+                continue
+            if self.remove(url):
+                supprimes += 1
+            # L'anomalie disparaît dans les deux cas : soit résolue à
+            # l'instant, soit déjà absente (un rechargement l'aurait de
+            # toute façon écartée, cf. _anomaly_still_applies).
+            self.anomalies.discard(("doublon", url, cible))
+        return supprimes, ignores
+
     # -- chargement ----------------------------------------------------------
 
     def load(self) -> Store:
