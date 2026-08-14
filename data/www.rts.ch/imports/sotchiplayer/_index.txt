@@ -1,2 +1,2 @@
-Desktop.html
-Detect.html
+!Desktop.html
+!Detect.html

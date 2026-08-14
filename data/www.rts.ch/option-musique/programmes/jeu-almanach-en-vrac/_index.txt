@@ -1,5 +1,5 @@
 ./
 7010074-jeu-almanach-en-vrac.html
-7544541-jeu-almanach-en-vrac-18-03-2016.html
-7719603-jeu-almanach-en-vrac-27-05-2016.html
-7748262-jeu-almanach-en-vrac-08-06-2016.html
+!7544541-jeu-almanach-en-vrac-18-03-2016.html
+!7719603-jeu-almanach-en-vrac-27-05-2016.html
+!7748262-jeu-almanach-en-vrac-08-06-2016.html
