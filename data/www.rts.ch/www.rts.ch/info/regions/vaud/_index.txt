@@ -107,7 +107,7 @@
 9024729-plus-de-200000-vaudois-sont-aides-pour-payer-leurs-primes-maladie.html
 9033178-le-municipal-aiglon-sous-le-coup-dune-enquete-penale-demissionne.html
 9035320-rester-humain-le-defi-des-grands-hopitaux-universitaires-en-suisse.html
-9044928-olivier-francais-renonce-a-sa-rente-dancien-municipal-lausannois.html
+!9044928-olivier-francais-renonce-a-sa-rente-dancien-municipal-lausannois.html
 9058863-je-ne-veux-pas-vendre-a-un-nabab-langoisse-des-paysans-vaudois.html
 9061029-debat-autour-dune-nouvelle-formation-en-theologie-a-saintlegier-vd.html
 9062004-brigitte-crottaz-mon-profil-atypique-une-richesse-plutot-quune-faiblesse.html

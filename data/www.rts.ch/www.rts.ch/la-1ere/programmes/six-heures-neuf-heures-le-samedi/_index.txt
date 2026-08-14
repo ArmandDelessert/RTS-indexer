@@ -2,7 +2,7 @@
 7547122-indices-numeriques-les-policiers-se-forment-69s_20160319t060000_letalk2.html
 7565520-le-secteur-des-paiements-atomise-69s_20160326t060000_letalk2.html
 7584395-la-selection-69s_20160402t060000_laselection.html
-7618170-lintelligence-artificielle-vous-soignera-bientot-69s_20160416t060000_letalk2.html
+!7618170-lintelligence-artificielle-vous-soignera-bientot-69s_20160416t060000_letalk2.html
 7635386-les-medias-merci-patron-bientot-en-suisse-romande-69s_20160423t060000_lesmedias.html
 7652946-darknet-plongee-en-eaux-troubles-mais-pas-que-69s_20160430t060000_letalk2.html
 7670829-un-nouveau-cadre-juridique-pour-les-robots-69s_20160507t060000_letalk2.html

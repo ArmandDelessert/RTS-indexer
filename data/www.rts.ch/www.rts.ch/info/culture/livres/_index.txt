@@ -75,7 +75,7 @@
 9028716-la-correspondance-de-proust-numerisee-via-un-projet-universitaire.html
 9031693-sommesnous-trop-occupes-pour-desirer.html
 9032404-le-festival-du-polar-lausannoir-annule-la-venue-du-controverse-marsault.html
-9047485-yannick-haenel-met-en-scene-son-double-dans-un-epique-periple.html
+!9047485-yannick-haenel-met-en-scene-son-double-dans-un-epique-periple.html
 9049003-la-revolution-francaise-vecue-par-une-famille-de-vampires.html
 9060684-le-prix-goncourt-decerne-a-eric-vuillard-pour-lordre-du-jour.html
 9060737-le-prix-medicis-recompense-yannick-haenel-pour-tiens-ferme-ta-couronne.html

@@ -18,7 +18,7 @@
 8364092-les-beaux-parleurs-lbp_20170219t110345_lesbeauxparleurs.html
 8473984-linterview-de-linvite-lbp_20170402t110345_linterviewdelinvite.html
 9038524-les-beaux-parleurs-12-11-2017.html
-9078628-jeanluc-bideau-comedien-de-notre-histoire-26-11-2017.html
+!9078628-jeanluc-bideau-comedien-de-notre-histoire-26-11-2017.html
 9098530-francois-burland-artiste-engage-03-12-2017.html
 9117290-linterview-de-vincent-kucholl-10-12-2017.html
 9211874-on-ne-nous-dit-pas-tout-14-01-2018.html

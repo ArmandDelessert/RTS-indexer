@@ -1,4 +1,4 @@
-7238529-participez-au-jury-des-auditeurs-du-prix-du-journalisme-radio-des-mfp.html
+!7238529-participez-au-jury-des-auditeurs-du-prix-du-journalisme-radio-des-mfp.html
 7460844-un-cargo-est-a-la-derive-depuis-une-semaine-au-large-des-cotes-francaises.html
 7462271-le-coup-denvoi-des-primaires-americaines-donne-dans-liowa.html
 7463285-donald-trump-battu-et-hillary-clinton-talonnee-lors-des-primaires-de-liowa.html
@@ -553,7 +553,7 @@
 7962749-un-puissant-seisme-fait-au-moins-six-morts-dans-le-centre-de-litalie.html
 7965223-accord-de-paix-historique-entre-gouvernement-colombien-et-farc.html
 7965370-le-bilan-du-seisme-en-italie-salourdit-encore-et-souleve-des-questions.html
-7965923-la-turquie-tire-sur-des-combattants-kurdes-dans-le-nord-de-la-syrie.html
+!7965923-la-turquie-tire-sur-des-combattants-kurdes-dans-le-nord-de-la-syrie.html
 7966779-lonu-annonce-une-treve-de-48-heures-a-alep-avec-laccord-de-la-russie.html
 7970070-lancien-president-bresilien-lula-a-ete-inculpe-pour-corruption.html
 7971620-le-regime-syrien-reprend-le-controle-de-la-ville-de-daraya-apres-quatre-ans-de-siege.html
@@ -1456,7 +1456,7 @@
 8809304-journee-meurtriere-au-venezuela-ou-les-electeurs-ont-boude-les-urnes.html
 8810346-au-venezuela-lopposition-conteste-le-taux-de-participation-officiel-de-42.html
 8813656-le-chef-de-la-communication-de-la-maison-blanche-remplace-apres-10-jours.html
-8813662-les-etatsunis-qualifient-nicolas-maduro-de-dictateur-et-le-sanctionnent.html
+!8813662-les-etatsunis-qualifient-nicolas-maduro-de-dictateur-et-le-sanctionnent.html
 8814333-trump-aurait-dicte-la-declaration-de-son-fils-sur-lavocate-russe.html
 8814394-test-controverse-de-reconnaissance-faciale-lance-dans-une-gare-de-berlin.html
 8815464-cest-officiel-christopher-wray-est-le-nouveau-directeur-du-fbi-americain.html
@@ -1590,7 +1590,7 @@
 8887786-pres-de-21000-evacues-en-allemagne-pour-desamorcer-une-ancienne-bombe.html
 8888869-angela-merkel-veut-stopper-les-negociations-dadhesion-de-la-turquie-a-lue.html
 8890590-une-solution-militaire-en-coree-du-nord-une-solution-suicidaire.html
-8890963-le-cri-etouffe-des-femmes-violees-par-le-regime-syrien-resonne-encore.html
+!8890963-le-cri-etouffe-des-femmes-violees-par-le-regime-syrien-resonne-encore.html
 8893120-louragan-irma-menace-plusieurs-iles-des-caraibes-et-la-floride.html
 8893835-lexode-des-rohingyas-birmans-atteint-un-pic-a-37000-refugies-en-un-jour.html
 8894040-le-calvaire-des-musulmans-rohingyas-victimes-de-nettoyage-ethnique.html
@@ -2381,7 +2381,7 @@
 9415921-les-citoyens-russes-vivant-en-ukraine-prives-de-vote-pour-la-presidentielle.html
 9416502-la-russie-declare-23-diplomates-britanniques-persona-non-grata.html
 9416933-des-dizaines-de-milliers-despagnols-defilent-pour-defendre-leurs-retraites.html
-9418377-les-russes-elisent-leur-president-dans-un-contexte-favorable-a-poutine.html
+!9418377-les-russes-elisent-leur-president-dans-un-contexte-favorable-a-poutine.html
 9418515-les-forces-turques-et-leurs-allies-controlent-desormais-la-ville-dafrine.html
 9418820-a-geneve-le-leader-catalan-carles-puigdemont-defend-son-choix-de-lexil.html
 9419152-vladimir-poutine-est-reelu-pour-un-4eme-mandat-a-la-tete-de-la-russie.html

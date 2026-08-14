@@ -1,4 +1,4 @@
-7427872-guichet-impots-oep_20160203t083645_onenparle.html
+!7427872-guichet-impots-oep_20160203t083645_onenparle.html
 7443974-scandale-vw-quel-impact-sur-les-vehicules-corriges-oep_20160209t083645_sequence1.html
 7460291-chirurgie-et-medecine-esthetique-quels-risques-oep_20160215t083645_sequence3.html
 7470112-cybersante-le-secret-medical-estil-toujours-preserve-oep_20160218t083645_sequence3.html
@@ -17,13 +17,13 @@
 7677050-cumulus-et-supercard-a-qui-profite-la-fidelite-oep_20160510t083645_sequence1.html
 7683298-des-call-centers-connaissent-vos-donnees-medicales-oep_20160512t083645_sequence1.html
 7691762-vivre-avec-le-trouble-anxieux-oep_20160516t083315_sequence3.html
-7713894-guichet-bienvenue-au-chomage-oep_20160525t083645_onenparle.html
+!7713894-guichet-bienvenue-au-chomage-oep_20160525t083645_onenparle.html
 7725397-lidentite-et-les-habitudes-des-citoyens-a-vendre-sur-le-net-oep_20160530t083645_sequence1.html
 7727434-fautil-craindre-le-neuromarketing-oep_20160531t083645_sequence4.html
 7742546-le-bilan-co2-dune-pomme-de-nouvellezelande-vaut-deux-fois-plus-que-celui-dune-suisse-oep_20160606t084145_sequence1.html
 7745091-que-fait-le-canton-afin-de-mieux-proteger-les-donnees-personnelles-des-vaudois-oep_20160607t084145_sequence1.html
 7751745-un-taux-dactivite-inferieur-a-70-ne-garantit-pas-le-minimum-vital-a-la-retraite-oep_20160609t083645_sequence1.html
-7751886-guichet-lentretien-des-piscines-oep_20160601t083645_onenparle.html
+!7751886-guichet-lentretien-des-piscines-oep_20160601t083645_onenparle.html
 7760984-diamants-et-commerce-equitable-oep_20160613t083645_sequence2.html
 7763700-les-garcons-recoivent-plus-dargent-de-poche-que-les-filles-oep_20160614t084145_sequence1.html
 7783587-plastique-a-neuchatel-la-fin-du-tout-a-la-dechetterie-oep_20160621t083645_sequence1.html
@@ -86,7 +86,7 @@
 8534340-les-avis-de-disparition-sur-les-reseaux-sociaux-oep_20170425t083645_sequence1.html
 8540577-guichet-la-puberte-oep_20170427t083645_onenparle.html
 8558115-17-ans-youtubeuse-mode-demploi-oep_20170505t083645_sequence5.html
-8590876-lillettrisme-administratif-nous-guette-tous-17-05-2017.html
+!8590876-lillettrisme-administratif-nous-guette-tous-17-05-2017.html
 8610285-guichet-le-cannabis-24-05-2017.html
 8615695-subtilites-routieres-en-vacances-26-05-2017.html
 8640746-betail-nourri-a-lhuile-de-palme-05-06-2017.html
@@ -98,7 +98,7 @@
 8671404-le-roaming-en-europe-cest-fini-16-06-2017.html
 8677794-mon-bienetre-au-naturel-19-06-2017.html
 8680002-medecines-complementaires-definitivement-remboursees-et-maintenant-20-06-2017.html
-8708136-derives-dans-lassurance-maladie-le-debat-30-06-2017.html
+!8708136-derives-dans-lassurance-maladie-le-debat-30-06-2017.html
 8743960-les-rates-de-lindustrie-au-musee-14-07-2017.html
 8814009-acrylamide-pourquoi-la-suisse-ne-reglemente-pas-15-08-2017.html
 8846035-21000-identifiants-pirates-suisje-concernee-30-08-2017.html

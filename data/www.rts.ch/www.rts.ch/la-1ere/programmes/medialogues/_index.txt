@@ -3,7 +3,7 @@
 7842627-journaliste-correspondant-en-suisse-58-med_20160806t091045_sequence1.html
 7843252-journaliste-correspondant-en-suisse-68-med_20160813t091045_sequence1.html
 7843765-journaliste-correspondant-en-suisse-78-med_20160820t091045_sequence1.html
-7844615-journaliste-correspondant-en-suisse-88-med_20160827t091045_sequence1.html
+!7844615-journaliste-correspondant-en-suisse-88-med_20160827t091045_sequence1.html
 8160635-tu-regardes-la-tv-non-mon-smartphone-med_20161126t091545_turegardeslatvnonmonsmartphone.html
 8177578-leducation-aux-medias-prioritaire-med_20161203t091045_leducationauxmediasprioritaire.html
 8221275-datak-med_20170107t091545_datak.html

@@ -10,7 +10,7 @@
 7751701-un-nouvel-outil-pour-la-traque-aux-tumeurs-cqfd_20160609t100415_actu.html
 7751898-les-pompiers-du-tunnel-de-base-du-gothard-cqfd_20160601t100415_dossier.html
 7763704-les-animaux-au-travail-cqfd_20160614t100415_chronique.html
-7789894-pour-sa-1000e-cqfd-prend-le-temps-cqfd_20160623t100415_actu.html
+!7789894-pour-sa-1000e-cqfd-prend-le-temps-cqfd_20160623t100415_actu.html
 7995049-la-vie-secrete-des-enfants-cqfd_20160920t100415_dossier.html
 8011939-cholesterol-lacces-aux-donnees-brutes-des-essais-cliniques-cqfd_20160927t100415_dossier.html
 8038159-115-ans-lage-maximum-des-humains-cqfd_20161007t100415_actu.html

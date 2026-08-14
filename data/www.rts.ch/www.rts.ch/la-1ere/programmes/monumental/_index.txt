@@ -1,7 +1,7 @@
 7419036-la-havane-cuba-mon_20160131t130345_monumental.html
 7458176-cinecitta-mon_20160214t130345_monumental.html
 7604363-les-hotels-mythiques-12-mon_20160410t130345_monumental.html
-7619718-les-hotels-mythiques-22-mon_20160417t130345_monumental.html
+!7619718-les-hotels-mythiques-22-mon_20160417t130345_monumental.html
 7689887-shanghai-mon_20160515t130345_monumental.html
 7778621-la-naissance-de-venise-mon_20160619t130345_monumental.html
 7795153-la-naissance-de-venise-mon_20160625t140345_monumental.html
