@@ -180,10 +180,18 @@ python -m rts_indexer dedupe
 ```
 
 Supprime les URLs journalisées comme doublons (`verify` en pose le constat, `dedupe` en tire la
-conséquence). Ne supprime **que** si la cible de la redirection est elle-même indexée : mieux vaut
-garder un doublon en trop que perdre une URL dont la destination s'avère introuvable — un
-identifiant qui redirige vers une image sur `img.rts.ch`, par exemple, hors périmètre et jamais
-indexé. Les doublons dont la cible manque sont journalisés et conservés, pas supprimés à l'aveugle.
+conséquence). Si la cible de la redirection n'est pas encore indexée, elle l'est d'abord — `verify`
+a déjà obtenu un vrai 200 dessus au moment de constater la redirection, ce n'est pas une
+supposition. C'est d'ailleurs le cas majoritaire en pratique : lors du premier passage réel sur
+l'index, 5'807 doublons sur 5'856 cibles manquantes pointaient vers une vraie page rts.ch jamais
+collectée, contre 48 seulement vers un hôte hors périmètre (`img.rts.ch`).
+
+Cette confiance est filtrée, pas aveugle : la cible passe par `urlnorm.normalize()`, le même
+contrôle de périmètre qu'utilisent toutes les autres sources, avant d'être indexée. Sans ce filtre,
+un identifiant qui redirige vers une image sur `img.rts.ch` entrerait dans l'index sans contrôle —
+`Store.add()` seul ne vérifie ni l'hôte ni l'extension. Une cible qui échoue à ce filtre fait
+ignorer le doublon plutôt que de le supprimer à l'aveugle : mieux vaut garder un doublon en trop que
+perdre une URL dont la destination s'avère hors périmètre.
 
 ### `site`
 

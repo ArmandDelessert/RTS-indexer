@@ -422,30 +422,49 @@ def test_resolve_doublons_supprime_si_la_cible_existe(tmp_path):
     store.write()
 
     relu = Store(tmp_path).load()
-    supprimes, ignores = relu.resolve_doublons()
+    supprimes, ajoutees, ignores = relu.resolve_doublons()
 
-    assert (supprimes, ignores) == (1, 0)
+    assert (supprimes, ajoutees, ignores) == (1, 0, 0)  # cible déjà indexée
     assert ("doublon", ARTICLE, AUTRE) not in relu.anomalies
     relu.write()
     assert dict(Store(tmp_path).load().urls()) == {AUTRE: False}
 
 
-def test_resolve_doublons_ignore_si_la_cible_est_absente(tmp_path):
-    """Le critère de sécurité : ne jamais supprimer si la cible n'est pas
-    elle-même indexée — un identifiant qui redirige vers une image sur
-    img.rts.ch, par exemple, hors périmètre et jamais indexé."""
-    cible_absente = "https://img.rts.ch/articles/2011/image/x-1.image"
+def test_resolve_doublons_indexe_la_cible_manquante_puis_supprime(tmp_path):
+    """Le cas majoritaire en pratique (5'807 cas sur 5'856 lors du premier
+    passage réel) : la cible est une vraie URL rts.ch, simplement jamais
+    collectée. verify a déjà obtenu un 200 dessus — on peut lui faire
+    confiance, une fois passée par le même filtre que les autres sources."""
+    cible_jamais_collectee = "https://www.rts.ch/info/suisse/2026/article/nouvelle-3.html"
     store = Store(tmp_path)
     store.add(ARTICLE)
-    store.anomalies.add(("doublon", ARTICLE, cible_absente))
+    store.anomalies.add(("doublon", ARTICLE, cible_jamais_collectee))
     store.write()
 
     relu = Store(tmp_path).load()
-    supprimes, ignores = relu.resolve_doublons()
+    supprimes, ajoutees, ignores = relu.resolve_doublons()
 
-    assert (supprimes, ignores) == (0, 1)
-    assert ("doublon", ARTICLE, cible_absente) in relu.anomalies  # conservée
-    assert dict(relu.urls()) == {ARTICLE: False}  # rien supprimé
+    assert (supprimes, ajoutees, ignores) == (1, 1, 0)
+    relu.write()
+    assert dict(Store(tmp_path).load().urls()) == {cible_jamais_collectee: False}
+
+
+def test_resolve_doublons_ignore_si_la_cible_est_hors_perimetre(tmp_path):
+    """Le critère de sécurité : ne jamais supprimer si la cible échoue au
+    filtre de périmètre — un identifiant qui redirige vers une image sur
+    img.rts.ch, par exemple, hors hôte connu et hors format HTML."""
+    cible_hors_perimetre = "https://img.rts.ch/articles/2011/image/x-1.image"
+    store = Store(tmp_path)
+    store.add(ARTICLE)
+    store.anomalies.add(("doublon", ARTICLE, cible_hors_perimetre))
+    store.write()
+
+    relu = Store(tmp_path).load()
+    supprimes, ajoutees, ignores = relu.resolve_doublons()
+
+    assert (supprimes, ajoutees, ignores) == (0, 0, 1)
+    assert ("doublon", ARTICLE, cible_hors_perimetre) in relu.anomalies  # conservée
+    assert dict(relu.urls()) == {ARTICLE: False}  # rien supprimé, rien ajouté
 
 
 def test_resolve_doublons_ignore_les_anomalies_d_autres_types(tmp_path):
@@ -454,8 +473,8 @@ def test_resolve_doublons_ignore_les_anomalies_d_autres_types(tmp_path):
     store.anomalies.add(("trop_long", "https://www.rts.ch/x", "raison"))
     store.anomalies.add(("collision", "https://www.rts.ch/y", "raison"))
 
-    supprimes, ignores = store.resolve_doublons()
-    assert (supprimes, ignores) == (0, 0)
+    supprimes, ajoutees, ignores = store.resolve_doublons()
+    assert (supprimes, ajoutees, ignores) == (0, 0, 0)
     assert len(store.anomalies) == 2  # intactes
 
 

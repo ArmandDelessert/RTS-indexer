@@ -31,7 +31,7 @@ from dataclasses import dataclass, field
 from datetime import UTC, datetime
 from pathlib import Path
 
-from . import config, fsutil, pathmap
+from . import config, fsutil, pathmap, urlnorm
 
 log = logging.getLogger(__name__)
 
@@ -198,31 +198,45 @@ class Store:
         self._dirty.add(relpath)
         return True
 
-    def resolve_doublons(self) -> tuple[int, int]:
+    def resolve_doublons(self) -> tuple[int, int, int]:
         """Supprime les URLs journalisées comme doublons par ``verify``.
 
-        Ne supprime que si la cible (l'URL vers laquelle le serveur
-        redirige) est elle-même indexée : mieux vaut conserver un doublon
-        en trop que perdre une URL dont la destination s'avère introuvable
-        — un identifiant qui redirige vers une image sur ``img.rts.ch``, par
-        exemple, hors périmètre et jamais indexé.
+        La cible (l'URL vers laquelle le serveur redirige) est indexée si
+        elle ne l'est pas déjà : ``verify`` a obtenu un vrai 200 dessus au
+        moment de constater la redirection, ce n'est pas une supposition.
+        Mais on ne lui fait confiance qu'après l'avoir fait passer par
+        :func:`urlnorm.normalize`, le même filtre de périmètre que toutes
+        les autres sources — sans ça, un identifiant qui redirige vers une
+        image sur ``img.rts.ch`` (hors périmètre, hors format HTML)
+        entrerait dans l'index sans contrôle, puisque ``add()`` seul ne
+        vérifie ni l'hôte ni l'extension.
 
-        Retourne ``(supprimés, ignorés)``.
+        Un doublon dont la cible échoue à ce filtre est ignoré, pas
+        supprimé : mieux vaut conserver un doublon en trop que perdre une
+        URL dont la destination s'avère hors périmètre.
+
+        Retourne ``(supprimés, cibles ajoutées, ignorés)``.
         """
         doublons = [(u, cible) for genre, u, cible in self.anomalies if genre == "doublon"]
-        supprimes = ignores = 0
-        for url, cible in doublons:
-            if self.status(cible) is None:
-                log.warning("doublon ignoré, cible absente de l'index : %s -> %s", url, cible)
+        supprimes = ajoutees = ignores = 0
+        for url, cible_brute in doublons:
+            cible = urlnorm.normalize(cible_brute)
+            if cible is None:
+                log.warning("doublon ignoré, cible hors périmètre : %s -> %s", url, cible_brute)
                 ignores += 1
                 continue
+            if self.status(cible) is None:
+                self.add(cible)
+                ajoutees += 1
             if self.remove(url):
                 supprimes += 1
-            # L'anomalie disparaît dans les deux cas : soit résolue à
-            # l'instant, soit déjà absente (un rechargement l'aurait de
-            # toute façon écartée, cf. _anomaly_still_applies).
-            self.anomalies.discard(("doublon", url, cible))
-        return supprimes, ignores
+            # L'anomalie disparaît dans tous les cas résolus : soit le
+            # doublon vient d'être retiré, soit il l'était déjà (un
+            # rechargement l'aurait de toute façon écarté, cf.
+            # _anomaly_still_applies) — seule la comparer à la valeur brute
+            # d'origine la retrouve dans l'ensemble.
+            self.anomalies.discard(("doublon", url, cible_brute))
+        return supprimes, ajoutees, ignores
 
     # -- chargement ----------------------------------------------------------
 

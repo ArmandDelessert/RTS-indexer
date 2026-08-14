@@ -225,8 +225,11 @@ def cmd_verify(args: argparse.Namespace) -> int:
 def cmd_dedupe(args: argparse.Namespace) -> int:
     """Supprime les URLs journalisées comme doublons par `verify`."""
     store = _store(args).load()
-    supprimes, ignores = store.resolve_doublons()
-    print(f"{supprimes} doublons supprimés, {ignores} ignorés (cible absente de l'index)")
+    supprimes, ajoutees, ignores = store.resolve_doublons()
+    print(
+        f"{supprimes} doublons supprimés ({ajoutees} cibles nouvellement indexées), "
+        f"{ignores} ignorés (cible hors périmètre)"
+    )
     _report(store.write())
     return 0
 
