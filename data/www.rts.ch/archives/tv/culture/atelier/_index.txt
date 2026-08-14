@@ -1,4 +1,4 @@
 ./
 13090718-le-first-folk-festival.html
-3446555-les-fans-de-folk.html
-6909866-le-first-folk-festival.html
+!3446555-les-fans-de-folk.html
+!6909866-le-first-folk-festival.html

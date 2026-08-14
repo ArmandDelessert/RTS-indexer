@@ -1,4 +1,4 @@
-./
+!./
 10130927-les-avalanches.html
 10531769-dans-les-calanques.html
 10645727-dans-une-voie-du-creux-du-van.html
@@ -21,6 +21,6 @@
 8316057-a-la-trace.html
 8427952-la-haute-route.html
 8514378-une-course-unique.html
-8515128-les-medailles.html
+!8515128-les-medailles.html
 9204450-lecon-de-fond.html
-9256762-le-ski-acrobatique.html
+!9256762-le-ski-acrobatique.html

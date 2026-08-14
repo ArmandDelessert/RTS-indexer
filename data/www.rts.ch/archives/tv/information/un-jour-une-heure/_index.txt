@@ -3,7 +3,7 @@
 10012416-dimanche-sans-voiture.html
 10051757-delle-belfort-une-nouvelle-liaison.html
 10195706-a-travers-la-chaussette.html
-10203883-le-prix-de-lausanne-un-evenement.html
+!10203883-le-prix-de-lausanne-un-evenement.html
 10207129-nous-voulons-un-centre-femmes.html
 10209038-une-maison-des-congres.html
 10219529-le-centre-femmes-de-geneve.html
@@ -126,7 +126,7 @@
 3436913-le-scandale-de-chiasso.html
 3437100-honneur-a-la-chine.html
 3437210-au-canard-enchaine.html
-3437343-paroles-de-sportifs.html
+!3437343-paroles-de-sportifs.html
 3437470-le-175e-anniversaire.html
 3438250-claude-goretta-recoit-le-prix-du-jury-a-cannes-.html
 3438250-claude-goretta-recoit-le-prix-du-jury-a-cannes.html
@@ -138,7 +138,7 @@
 3438762-fribourg-est-pret.html
 3438944-le-cervin-en-amateur.html
 3438967-un-chantier-daltitude.html
-3439041-l-avis-du-matelot.html
+!3439041-l-avis-du-matelot.html
 3440007-la-chasse-au-sanglier.html
 3440009-les-bebes-phoques.html
 3440012-la-mort-du-renard.html
@@ -158,7 +158,7 @@
 3442248-holdup-a-fribourg.html
 3442575-retour-a-la-nature.html
 3443122-le-municipal.html
-3443261-la-liberte-enfin-.html
+!3443261-la-liberte-enfin-.html
 3443345-ronald-reagan.html
 3443757-le-numerus-clausus.html
 3443825-fier-de-son-fiston.html
@@ -171,7 +171,7 @@
 3444588-espoirs-et-craintes.html
 3444600-retour-au-sinai.html
 3445950-un-vaccin-adapte.html
-3446065-le-skylab.html
+!3446065-le-skylab.html
 3446123-les-loups-arrivent.html
 3446487-nouvel-ordinateur.html
 3447256-une-longue-attente.html
@@ -199,8 +199,8 @@
 3449718-un-nouvel-emetteur.html
 3450177-raciste-la-suisse-.html
 3450177-raciste-la-suisse.html
-3450248-grand-passage-en-feu.html
-3450633-les-examens.html
+!3450248-grand-passage-en-feu.html
+!3450633-les-examens.html
 3450747-les-profs-en-greve.html
 3450839-sur-les-jeunes.html
 3450850-protestation-a-voltaire.html
@@ -225,7 +225,7 @@
 3461637-la-premiere-votation.html
 3461714-guerre-au-liban.html
 3462039-le-goncourt.html
-3462087-la-mode-du-roller.html
+!3462087-la-mode-du-roller.html
 3462323-le-ku-klux-klan.html
 3462588-lete-sur-le-lac.html
 3463634-l-alpinisme-au-feminin.html
@@ -245,7 +245,7 @@
 3466697-claude-autant-lara.html
 3466697-claude-autantlara.html
 3466823-roland-beguelin.html
-3466905-mgr-lefebvre-a-econe.html
+!3466905-mgr-lefebvre-a-econe.html
 3467043-la-tsr-a-25-ans.html
 3467051-de-beaux-livres.html
 3467125-j-schneiderrime.html
@@ -272,7 +272,7 @@
 3472328-fribourg-rue-des-alpes.html
 3472385-la-maison-gallopin.html
 3472406-le-vieux-sion-renove.html
-3472417-les-tanneries-a-sion.html
+!3472417-les-tanneries-a-sion.html
 3472940-le-nouveau-bonjour.html
 3472941-la-fin-du-bonjour.html
 3473005-la-ceinture-de-securite.html
@@ -290,7 +290,7 @@
 3476944-la-position-de-l-uss.html
 3476944-la-position-de-luss.html
 3476945-un-net-refus-en-1974.html
-3656020-cinematheque-suisse.html
+!3656020-cinematheque-suisse.html
 3707988-heros-du-jour.html
 3747529-vague-de-froid.html
 3809055-a-lajoux.html
@@ -298,8 +298,8 @@
 3980195-gares-a-beaubourg.html
 4047228-lete-en-crimee.html
 4060798-a-panossiere.html
-4066497-dans-les-bois.html
-4066497-un-valais-peace-and-love.html
+!4066497-dans-les-bois.html
+!4066497-un-valais-peace-and-love.html
 4495893-la-cabane-du-nord.html
 4587050-opposition-valaisanne.html
 4587225-la-lat-en-votation.html
@@ -307,8 +307,8 @@
 4733436-le-living-theatre.html
 4733608-la-danse-moderne.html
 4739064-jean-pierre-besson.html
-4756458-la-gym-s-assouplit.html
-4756458-la-gym-sassouplit.html
+!4756458-la-gym-s-assouplit.html
+!4756458-la-gym-sassouplit.html
 4759754-geneve-1925.html
 4956820-chef-d-orchestre.html
 4979680-pierre-jaccoud-parle.html
@@ -365,10 +365,10 @@
 7900729-plouf-dans-leau.html
 7947791-avec-la-calculatrice.html
 7963800-georges-oltramare.html
-7977299-le-grand-jour.html
-7977321-air-bonheur.html
-7978088-le-bonheur-en-actions.html
-7985369-refugies.html
+!7977299-le-grand-jour.html
+!7977321-air-bonheur.html
+!7978088-le-bonheur-en-actions.html
+!7985369-refugies.html
 7993171-un-jeune-pas-comme-les-autres.html
 8045671-loreille-percee.html
 8066308-hockey-au-feminin.html
@@ -381,7 +381,7 @@
 8350333-sus-aux-chats-.html
 8350347-lutter-contre-la-rage.html
 8357745-chaussette-de-sauvetage.html
-8405922-vivre-au-lignon.html
+!8405922-vivre-au-lignon.html
 8412106-categorie-travailleuse.html
 8412413-egalite-de-traitement.html
 8439221-la-conquete-de-paris.html

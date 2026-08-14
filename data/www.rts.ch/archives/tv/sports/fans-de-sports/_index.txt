@@ -19,10 +19,10 @@
 6829964-hermann-a-servette.html
 7720189-alain-geiger.html
 8318255-lisemarie-morerod.html
-8318502-le-triomphe-helvetique.html
+!8318502-le-triomphe-helvetique.html
 8641512-a-rolandgarros.html
 8976207-skateboard-competition-de-skateboard-a-versoix-en-1989.html
-8976215-skate-en-tete.html
+!8976215-skate-en-tete.html
 8997223-patrouille-des-glaciers.html
 9128626-populaire-escalade.html
 9623712-eric-tabarly.html

@@ -11,7 +11,7 @@
 3441630-le-cafe-de-la-pointe.html
 3449089-en-calabre.html
 3453002-les-gens-du-rotillon.html
-3462806-apprentis-boulangers.html
+!3462806-apprentis-boulangers.html
 7519078-cimenteur-verrier.html
 7686934-la-reliure.html
 8222617-profession-caviste.html

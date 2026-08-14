@@ -11,7 +11,7 @@
 11988585-philippe-chatel.html
 12001940-exercice-en-forme-de-z.html
 12769174-jecoute-de-la-musique-saoule.html
-3439119-a-notre-amour.html
+!3439119-a-notre-amour.html
 3439299-gloire-aux-clodettes.html
 3439336-joe-dassin.html
 3439568-je-savais-deja.html
@@ -28,7 +28,7 @@
 7324747-champagne.html
 7826354-au-bord-de-la-mer.html
 8062030-besoin-de-toi-besoin-de-lui.html
-8130334-jane-birkin.html
+!8130334-jane-birkin.html
 8130345-so-birkin.html
 8575882-mes-emmerdes.html
 8632870-astor-piazzolla.html

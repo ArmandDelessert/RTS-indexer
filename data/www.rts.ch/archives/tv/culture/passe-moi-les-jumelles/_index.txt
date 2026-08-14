@@ -1,4 +1,4 @@
-./
+!./
 10067599-le-chapon-.html
 10140212-menace-sur-le-fleuve.html
 10794605-laurent-bourgnon.html
@@ -14,7 +14,7 @@
 3438955-ode-au-cervin.html
 3438978-train-avec-vue.html
 3440845-des-pistes-soignees.html
-3446931-gens-de-legendes.html
+!3446931-gens-de-legendes.html
 3448303-marcel-aux-doigts-dor.html
 3463658-nos-ermites.html
 3465463-laustralie-des-routiers.html

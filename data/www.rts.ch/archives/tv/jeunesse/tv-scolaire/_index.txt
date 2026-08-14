@@ -1,4 +1,4 @@
-./
+!./
 10200175-le-travailleur-etranger-parmi-nous-le-quotidien.html
 10200199-le-travailleur-etranger-parmi-nous.html
 11301914.html
@@ -10,7 +10,7 @@
 4290866-en-car-postal.html
 4376296-l-onde-verte.html
 4376296-londe-verte.html
-6154330-geneve-linternationale.html
+!6154330-geneve-linternationale.html
 8592112-ramuz-decouvre-le-valais.html
 8940453-broderie-mecanique.html
-9010462-la-visite-de-cointrin.html
+!9010462-la-visite-de-cointrin.html

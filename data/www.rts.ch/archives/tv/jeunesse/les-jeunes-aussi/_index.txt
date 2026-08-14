@@ -11,13 +11,13 @@
 3436470-lecole-de-pilote.html
 3437102-l-education-chinoise.html
 3437102-leducation-chinoise.html
-3438173-le-film-a-locarno.html
+!3438173-le-film-a-locarno.html
 3441911-l-amour-des-jeunes.html
 3441911-lamour-des-jeunes.html
 3442448-tricher-a-l-ecole.html
 3442448-tricher-a-lecole.html
-3446571-johnny-et-jimi.html
-3450676-cavaliers-disciplines.html
+!3446571-johnny-et-jimi.html
+!3450676-cavaliers-disciplines.html
 3450700-petits-boulots.html
 3450793-les-idoles-modernes.html
 3460110-patrick-allenbach.html
@@ -29,7 +29,7 @@
 5620435-partir-a-laventure.html
 6553255-des-gouts-de-luxe.html
 6839806-cest-mode.html
-7201460-namaste.html
-8699726-le-retour-de-johnny.html
+!7201460-namaste.html
+!8699726-le-retour-de-johnny.html
 9120343-dans-un-rond-de-fumee.html
-9140914-johnny-a-salut-les-copains.html
+!9140914-johnny-a-salut-les-copains.html

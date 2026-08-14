@@ -2,7 +2,7 @@
 a-l-assaut-de-l-olympia-26185851.html
 a-mes-15-ans-26187305.html
 aigle-leysin-26186352.html
-animaux-de-nos-forets-26186991.html
+!animaux-de-nos-forets-26186991.html
 apprentis-26955517.html
 arrestation-du-major-davel-26187841.html
 arrivee-de-joan-baez-26187047.html
@@ -108,7 +108,7 @@ maurice-herzog-26955691.html
 michel-sardou-26187116.html
 mireille-darc-26395382.html
 montreux-a-l-heure-du-jazz-27444533.html
-ni-dieu-ni-maitre-26187003.html
+!ni-dieu-ni-maitre-26187003.html
 notre-patrie-26390663.html
 nyon-saint-cergue-26186936.html
 orientation-professionnelle-26955759.html

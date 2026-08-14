@@ -18,10 +18,10 @@
 4090025-fastfood.html
 4920050-la-chorale-des-bouchers-version-sd.html
 4920050-la-chorale-des-bouchers.html
-5237478-la-fondue.html
+!5237478-la-fondue.html
 5297632-ne-pas-etre-soldat.html
 5404175-saisonnier-en-suisse.html
-6796776-naissance-d-un-tube.html
+!6796776-naissance-d-un-tube.html
 7223669-des-barbus-au-poil.html
 7750191-cest-la-jungle.html
 8302878-dernier-tour-de-piste.html
@@ -42,7 +42,7 @@
 9064424-la-sante-dabord.html
 9233550-drague-ou-harcelement-de-rue.html
 9515922-fous-de-xamax.html
-9532083-celine-l-arrangeur-et-l-eurovision.html
-9532083-celine-larrangeur-et-leurovision.html
+!9532083-celine-l-arrangeur-et-l-eurovision.html
+!9532083-celine-larrangeur-et-leurovision.html
 9623769-infirmiere-en-trottinette.html
-9623844-mademoiselle-111.html
+!9623844-mademoiselle-111.html

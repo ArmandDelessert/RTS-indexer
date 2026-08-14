@@ -8,7 +8,7 @@ crapaud-fou-25004647.html
 culture-club-25005985.html
 eclats-de-mediterranee-25007239.html
 et-la-vie-va-25007243.html
-face-aux-petits-partis-25001762.html
+!face-aux-petits-partis-25001762.html
 future-groove-25004957.html
 hotline-25006493.html
 la-legende-de-bardonnex-25006081.html

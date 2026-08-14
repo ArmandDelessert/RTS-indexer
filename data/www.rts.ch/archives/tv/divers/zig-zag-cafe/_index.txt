@@ -1,4 +1,4 @@
-./
+!./
 10470234-la-francophonie-ou-la-place-du-francais-dans-le-monde.html
 10824391-les-grands-barrages-la-grandedixence.html
 10874202-john-howe.html
@@ -12,9 +12,9 @@
 12631965-jane-savigny-joue-lagarce.html
 13470976.html
 3436205-record-pour-burrell.html
-3437074-le-chant-des-mineurs.html
-3437087-la-dixence-de-chappaz.html
-3437141-la-derniere-benne.html
+!3437074-le-chant-des-mineurs.html
+!3437087-la-dixence-de-chappaz.html
+!3437141-la-derniere-benne.html
 3445907-geo-voumard.html
 3445992-une-oeuvre.html
 3446427-un-homme-tres-bien.html
@@ -22,7 +22,7 @@
 3447343-boutros-boutrosghali.html
 3449867-hommage-a-l-ecrivain.html
 3449867-hommage-a-lecrivain.html
-3462773-bernard-stamm.html
+!3462773-bernard-stamm.html
 3462782-fous-de-mer.html
 3465526-luxe-et-volupte.html
 3467429-emotions-du-choeur.html

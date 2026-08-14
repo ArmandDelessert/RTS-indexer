@@ -6,10 +6,10 @@
 4080906-montreux-jazz-1970.html
 4081010-julie-driscoll.html
 4081081-bourse-aux-disques.html
-4081101-l-atelier-de-clark-terry-.html
-4081101-latelier-de-clark-terry.html
+!4081101-l-atelier-de-clark-terry-.html
+!4081101-latelier-de-clark-terry.html
 4081129-aretha-franklin.html
 4081398-montreux-jazz-1972.html
 4986881-randy-crawford-et-al-jarreau-.html
 7845080-celebrite-en-cuisine.html
-9779938-aretha-franklin-a-montreux.html
+!9779938-aretha-franklin-a-montreux.html

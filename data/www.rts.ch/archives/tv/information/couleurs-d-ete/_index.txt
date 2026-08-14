@@ -1,4 +1,4 @@
-./
+!./
 10730130-la-faune-en-danger.html
 11657865-gondo-reconstruit.html
 12341022-palaces-de-la-belle-epoque.html

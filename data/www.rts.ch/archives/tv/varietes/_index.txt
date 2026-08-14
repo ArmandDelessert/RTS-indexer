@@ -9,5 +9,5 @@
 3472511-premiers-ordinateurs.html
 3472522-punk-cherche-batteur.html
 3472533-post-tenebras-rock.html
-3472544-les-debuts-du-mix.html
-3474290-bob-le-punk.html
+!3472544-les-debuts-du-mix.html
+!3474290-bob-le-punk.html

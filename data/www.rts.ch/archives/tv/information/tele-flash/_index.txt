@@ -3,6 +3,6 @@
 13386892-grueriens-en-fete.html
 13737923-payerne-et-ses-brandons.html
 6209504-le-premier-pont-du-gotteron.html
-6432745-grueriens-en-fete.html
+!6432745-grueriens-en-fete.html
 9733951-interview-du-medecin-francais-raoul-follereau.html
 9855032-la-comediefrancaise.html

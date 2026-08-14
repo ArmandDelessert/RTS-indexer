@@ -4,10 +4,10 @@
 13046552-le-cheval-dans-lart-et-dans-la-vie.html
 13250448-herman-hesse.html
 13425847-le-combat-de-brecht.html
-3440115-hommage-au-cheval.html
-3440115-un-cheval-en-ville.html
+!3440115-hommage-au-cheval.html
+!3440115-un-cheval-en-ville.html
 3463671-l-everest-suisse-.html
 3463671-l-everest-suisse.html
 3463671-leverest-suisse.html
 3467998-jo-excoffier.html
-4175928-hermann-hesse.html
+!4175928-hermann-hesse.html

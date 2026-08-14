@@ -2,7 +2,7 @@
 3478395-alexandre-burger.html
 3478396-dom-helder-camara.html
 3478397-fritz-chervet.html
-3478399-roland-collombin.html
+!3478399-roland-collombin.html
 3478400-pascal-couchepin.html
 3478401-bernard-crettaz.html
 3478407-les-aiglons.html

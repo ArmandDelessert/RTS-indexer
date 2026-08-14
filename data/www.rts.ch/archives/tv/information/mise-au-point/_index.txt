@@ -1,4 +1,4 @@
-./
+!./
 10213056-les-creationnistes-contre-darwin.html
 10486258-martina-chyba.html
 10512329-miss-knie.html
@@ -29,7 +29,7 @@
 3448434-deminage-en-bosnie.html
 3474270-la-fin-d-une-epoque-.html
 3474270-la-fin-dune-epoque.html
-3474302-rhino-c-est-fini.html
+!3474302-rhino-c-est-fini.html
 4114362-aux-mains-de-canal-.html
 4114362-aux-mains-de-canal.html
 4496545-les-libertariens.html

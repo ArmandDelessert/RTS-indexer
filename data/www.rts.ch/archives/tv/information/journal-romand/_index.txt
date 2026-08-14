@@ -1,5 +1,5 @@
-./
-10046664-le-patois-dans-la-rue.html
+!./
+!10046664-le-patois-dans-la-rue.html
 10075074-et-naftule-fut.html
 10143196-frequence-banane.html
 10168189-jeunesse-vaudoise-en-fete.html

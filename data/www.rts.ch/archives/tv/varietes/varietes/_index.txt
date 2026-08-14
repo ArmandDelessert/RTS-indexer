@@ -31,7 +31,7 @@
 3439865-les-tubes-de-gilles.html
 3441887-bonjour-tout-le-monde.html
 3443328-le-faux-reagan.html
-3443379-a-star-is-born.html
+!3443379-a-star-is-born.html
 3443380-un-autographe-please.html
 3447771-gilles-et-piaf.html
 3447772-la-mort-de-piaf.html
@@ -40,7 +40,7 @@
 3449131-l-automate.html
 3449131-lautomate.html
 3449161-monsieur-haller.html
-3450128-les-vaudois.html
+!3450128-les-vaudois.html
 3460040-la-cabine-telephonique.html
 3460047-monsieur-elvis.html
 3460054-deux-fanfares.html
@@ -55,11 +55,11 @@
 3465854-balade-a-paris.html
 3468063-confidences.html
 3468063-leo-ferre.html
-3476535-les-petits-metiers.html
+!3476535-les-petits-metiers.html
 4052525-piano-seven.html
 4976796-caporal-schnyder.html
 5221527-raynaud-et-morisod.html
-5221544-fernand-bluffe.html
+!5221544-fernand-bluffe.html
 5653530-le-retour-des-aiglons.html
 5855106-charles-aznavour.html
 6003157-pierrick-un-garcon-heureux.html

@@ -8,5 +8,5 @@
 5198817-greg-papa-dachille.html
 5198894-derib-et-cosey.html
 5198917-franquin.html
-7431967-peyo.html
+!7431967-peyo.html
 7818309-partir-pour-bruxelles.html

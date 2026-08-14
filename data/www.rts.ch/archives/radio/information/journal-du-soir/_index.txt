@@ -49,7 +49,7 @@
 3368812-biere-au-cyanure-29-06-1989.html
 3415909-fin-du-reve-13-07-1982.html
 3415909-fin-du-reve.html
-3419635-contestation-decryptee-06-10-1980.html
+!3419635-contestation-decryptee-06-10-1980.html
 3420314-une-page-se-tourne-01-11-1989.html
 3420314-une-page-se-tourne.html
 3422295-campagne-electorale-1987-3-3-.html

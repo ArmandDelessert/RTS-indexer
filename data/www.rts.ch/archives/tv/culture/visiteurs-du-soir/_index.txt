@@ -23,7 +23,7 @@
 15271908-daniel-ceppi.html
 15425189-paul-vallotton.html
 3436534-fernand-carrel.html
-3441399-le-fondeur-de-cloches.html
+!3441399-le-fondeur-de-cloches.html
 3442128-bruno-muller.html
 3444295-vladimir-dimitrijevic.html
 3444416-marlyse-pietri.html
@@ -34,9 +34,9 @@
 3461746-jean-luc-benoziglio.html
 3461746-jeanluc-benoziglio.html
 3461915-jeanpierre-monnier.html
-3467018-espace-et-memoire.html
-3467018-l-espace-et-la-memoire.html
-3467026-l-image-et-ses-lecons.html
+!3467018-espace-et-memoire.html
+!3467018-l-espace-et-la-memoire.html
+!3467026-l-image-et-ses-lecons.html
 3467133-charles-bukowski.html
 3467619-alain-cuny.html
 3469239-anne-c-menetrey.html
@@ -44,7 +44,7 @@
 3469326-norbert-moret.html
 3469326-norbert-moret.html.html
 3469419-simone-oppliger.html
-3475489-jean-tinguely-et-les-bolides.html
+!3475489-jean-tinguely-et-les-bolides.html
 3476800-les-vents-du-leman.html
 4196497-l-ecriture-2-.html
 4196497-lecriture-2.html

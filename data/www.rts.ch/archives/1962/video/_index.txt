@@ -6,7 +6,7 @@ barbara-et-colette-jean-26180820.html
 barbara-vous-dit-bonsoir-26180901.html
 becaud-a-l-olympia-26180941.html
 brrrrr-glacial-26181327.html
-carrefour-12-10-62-26181098.html
+!carrefour-12-10-62-26181098.html
 carrefour-18-05-62-26180692.html
 carrefour-21-11-62-26181210.html
 chez-rei-bouba-26180956.html
@@ -90,7 +90,7 @@ reponse-aux-telelespectateurs-28975175.html
 robert-oppenheimer-26180742.html
 rodolphe-m-arlaud-26953466.html
 romy-schneider-26392916.html
-securite-des-pietons-26180942.html
+!securite-des-pietons-26180942.html
 sur-les-routes-26181506.html
 tempete-de-neige-a-la-vue-des-alpes-26953569.html
 tout-le-monde-a-bord-26181145.html

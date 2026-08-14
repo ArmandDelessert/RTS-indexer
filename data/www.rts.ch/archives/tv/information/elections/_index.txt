@@ -6,7 +6,7 @@
 3435623-oui-a-la-greve.html
 3435624-le-parti-de-l-urss.html
 3435624-le-parti-de-lurss.html
-3436749-christiane-brunner.html
+!3436749-christiane-brunner.html
 3436751-au-palais-federal.html
 3437663-jai-pas-compris.html
 3441256-joseph-deiss.html

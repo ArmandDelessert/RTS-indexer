@@ -146,8 +146,8 @@ republik-kalakuta-25001086.html
 residence-25007578.html
 rien-n-est-joue-25007206.html
 rockspotting-25005479.html
-rts-decouverte-25005068.html
-rts-decouverte-25005663.html
+!rts-decouverte-25005068.html
+!rts-decouverte-25005663.html
 signature-25001371.html
 soiree-chanson-option-musique-reflets-25005286.html
 specimen-25002985.html

@@ -1,4 +1,4 @@
-./
+!./
 10027147-la-suisse-et-l-exportation-d-armes.html
 10043777-souvenirs-de-saisonniers.html
 10057323-la-declaration-universelle-des-droits-de-l-homme.html
@@ -36,7 +36,7 @@
 10445750-samy-leboueur.html
 10455347-le-boguet.html
 10464867-les-examens.html
-10485146-football-au-feminin.html
+!10485146-football-au-feminin.html
 10501597-la-fete-federale-de-gymnastique.html
 10520834-le-dernier-grand-prix.html
 10545617-cossonay-au-fil-du-temps.html

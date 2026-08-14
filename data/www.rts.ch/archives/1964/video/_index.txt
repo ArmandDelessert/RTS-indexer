@@ -4,7 +4,7 @@ a-bogota-26181866.html
 a-l-eglise-russe-de-geneve-26953997.html
 a-la-scala-26404267.html
 a-travers-la-rade-26954388.html
-apprentis-boulangers-26181961.html
+!apprentis-boulangers-26181961.html
 apprivoiser-la-mort-26385848.html
 aptes-au-service-26954156.html
 avec-charlie-chaplin-26181681.html
@@ -26,7 +26,7 @@ courrier-de-telespectateurs-26954147.html
 course-d-orientation-au-brassus-26954497.html
 culte-du-travail-26954312.html
 de-nouvelles-taxes-26182018.html
-decorer-son-frigo-26181110.html
+!decorer-son-frigo-26181110.html
 decouvrir-les-welches-26954323.html
 dernier-voyage-pour-le-tram-29277351.html
 des-dioramas-pour-presenter-la-faune-du-pays-26181798.html

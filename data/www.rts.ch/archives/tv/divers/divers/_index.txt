@@ -1,4 +1,4 @@
-./
+!./
 10245104-un-jeune-poete.html
 10742297-a-lalpage-de-balavaux.html
 10855633-sur-le-theatre.html
@@ -15,16 +15,16 @@
 4604783-le-jour-davant.html
 4673132-michel-chevalley.html
 4673142-patrick-aebischer.html
-4809866-ca-roule-pour-lui.html
+!4809866-ca-roule-pour-lui.html
 4812442-la-comedie-1960.html
-5028523-surprenant-nobs.html
-5093400-fribourg-annee-1963.html
+!5028523-surprenant-nobs.html
+!5093400-fribourg-annee-1963.html
 5144924-la-suisse-vigilante.html
 5247236-vin-de-motiers.html
 5247343-peintures-du-cure.html
 5247383-bourguignonne-.html
 5247383-bourguignonne.html
-5252563-guide-a-evolene.html
+!5252563-guide-a-evolene.html
 5505735-au-bonheur-des-dames.html
 5509710-riches-comme-cresus.html
 5562973-la-jeune-television.html
@@ -32,7 +32,7 @@
 5602960-vous-avez-dit-yeye.html
 5662489-gilly-gilly.html
 5723124-cher-rwanda.html
-5757694-eureka.html
+!5757694-eureka.html
 5772949-intermede-musical.html
 5778254-l-expo-vue-d-en-haut.html
 5778254-lexpo-vue-den-haut.html
@@ -40,7 +40,7 @@
 5781801-fin-de-journee.html
 6231320-un-circuit-a-plainpalais.html
 6389382-le-journaliste-de-guerre.html
-6875202-escale-a-geneve.html
+!6875202-escale-a-geneve.html
 7013659-le-cirque-debarque.html
 7013674-quelle-menagerie-.html
 7013674-quelle-menagerie.html
@@ -82,9 +82,9 @@
 8894637-une-fiction-en-patois.html
 8960137-sous-l-oeil-du-geant.html
 9044712-la-fete-des-raves.html
-9102124-barbara.html
-9105290-le-cirque-pilatus.html
-9148025-johnny-a-bochuz.html
+!9102124-barbara.html
+!9105290-le-cirque-pilatus.html
+!9148025-johnny-a-bochuz.html
 9163504-francois-court-et-dracula.html
 9173830-michel-corboz-leveil.html
 9173876-michel-corboz-les-grandes-oeuvres.html
@@ -100,4 +100,4 @@
 9882907-parti-de-ijmuiden.html
 9885397-apprentis-matelots.html
 9923060-saintvalentin-12.html
-9997089-guides-a-evolene.html
+!9997089-guides-a-evolene.html

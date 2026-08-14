@@ -10,6 +10,6 @@
 6722875-un-mur-pour-s-evader.html
 6722875-un-mur-pour-sevader.html
 7363546-la-coupole.html
-9082252-bejart-et-lopera.html
-9840736-festival-de-la-batie.html
+!9082252-bejart-et-lopera.html
+!9840736-festival-de-la-batie.html
 9979882-miriam-makeba.html

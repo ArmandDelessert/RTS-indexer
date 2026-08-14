@@ -8,7 +8,7 @@
 10202909-flashes-sur-le-troisieme-age.html
 10202983-folk-music.html
 10203339-la-radiogoniometrie-12.html
-10274350-gabrielle-nanchen.html
+!10274350-gabrielle-nanchen.html
 10504111-pecheur-professionnel.html
 10512919-fredy-knie-junior.html
 10616366-les-jeunes-et-la-pollution.html
@@ -24,7 +24,7 @@
 13253702-dani-a-samedijeunesse.html
 13760473-alerte-au-feu.html
 3460277-zep.html
-3468379-par-toutatis.html
+!3468379-par-toutatis.html
 4204516-la-religion.html
 5620519-moi-mon-truc-c-est-.html
 5620519-moi-mon-truc-cest.html

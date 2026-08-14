@@ -9,7 +9,7 @@
 3446030-l-homme-engage.html
 3446030-lhomme-engage.html
 3450994-les-poursuites.html
-3452089-la-chaine-du-bonheur.html
+!3452089-la-chaine-du-bonheur.html
 3452223-a-cologny.html
 3452330-facteur-a-epalinges.html
 3452930-pour-le-menage.html
@@ -39,8 +39,8 @@
 3453759-bonsoir-07-05-70.html.html
 3453789-bonsoir-04-06-70.html
 3453789-bonsoir-040670.html
-3453799-bonsoir-15-09-70.html
-3453799-tout-doux-tout-doucement-le-leb.html
+!3453799-bonsoir-15-09-70.html
+!3453799-tout-doux-tout-doucement-le-leb.html
 3453809-bonsoir-170970.html
 3453819-bonsoir-23-09-70.html
 3453819-bonsoir-230970.html
@@ -66,8 +66,8 @@
 6842535-naissance-dune-ile.html
 6959801-le-radical-vaudois-modele.html
 7247488-intermede-musical.html
-7864416-les-prises.html
-7996382-la-chaine-du-bonheur.html
+!7864416-les-prises.html
+!7996382-la-chaine-du-bonheur.html
 8063982-des-debuts-prometteurs.html
 8236398-lumiere-de-la-nativite.html
 8447085-le-petit-train-de-vidy.html
@@ -76,7 +76,7 @@
 8994675-cordonnerie-et-bel-canto.html
 9009830-a-sainte-helene.html
 9009830-a-saintehelene.html
-9029385-le-facteur-de-courrendlin.html
+!9029385-le-facteur-de-courrendlin.html
 9061770-le-postier-d-asuel.html
 9061770-le-postier-dasuel.html
 9061781-chers-facteurs-.html

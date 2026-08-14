@@ -19,7 +19,7 @@ catherine-wahli-29057966.html
 charlotte-girard-miniaturiste-29243039.html
 chasse-aux-bouvreuils-29165702.html
 chaussette-de-sauvetage-26957050.html
-cherchez-la-petite-bete-26191307.html
+!cherchez-la-petite-bete-26191307.html
 chillon-et-la-maison-de-savoie-26189792.html
 chillon-la-forteresse-26189577.html
 chomage-au-feminin-26191311.html
@@ -45,7 +45,7 @@ face-a-un-ordinateur-29042827.html
 federico-fellini-le-tournage-de-casanova-28427002.html
 festival-multiculturel-a-geneve-29296696.html
 fol-art-26394460.html
-fragments-d-italie-26191364.html
+!fragments-d-italie-26191364.html
 gothard-les-morts-le-monument-les-italiens-26956832.html
 gothard-mort-favre-rencontre-equipes-26956817.html
 hemmi-et-good-a-l-honneur-26957190.html
@@ -54,7 +54,7 @@ horodateur-perforateur-des-cff-29296487.html
 il-maestro-26190448.html
 innsbruck-au-lit-26189687.html
 jacques-bergier-26190766.html
-jacques-martin-26190320.html
+!jacques-martin-26190320.html
 jane-savigny-tragique-26190625.html
 jean-claude-hesselbarth-28966631.html
 jean-dubuffet-26189527.html
@@ -68,7 +68,7 @@ l-espagne-apres-la-dictature-29056744.html
 l-ete-sur-le-lac-26189810.html
 l-homme-de-pincevent-26386234.html
 l-horloge-parlante-26190715.html
-la-bande-a-derib-26191283.html
+!la-bande-a-derib-26191283.html
 la-ceinture-si-je-veux-26957026.html
 la-police-politique-26191617.html
 la-premiere-d-abe-26956977.html
@@ -99,7 +99,7 @@ les-oublies-de-la-recession-29135022.html
 les-parents-se-mettent-aux-maths-modernes-29177917.html
 les-pionniers-vaudois-26189538.html
 lucienne-eich-poetesse-29243234.html
-maigrir-sans-effort-26189472.html
+!maigrir-sans-effort-26189472.html
 marathon-man-28747320.html
 marc-chagall-26402539.html
 mohammed-ali-un-autre-combat-28502067.html

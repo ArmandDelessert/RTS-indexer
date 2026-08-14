@@ -6,9 +6,9 @@
 3437209-paul-grimault.html
 3438161-claude-goretta-homme-de-cinema-et-de-television.html
 3438161-claude-goretta.html
-3438162-alain-tanner.html
-3438305-luchino-visconti.html
-3440401-freddy-buache.html
+!3438162-alain-tanner.html
+!3438305-luchino-visconti.html
+!3440401-freddy-buache.html
 3440443-l-aide-de-l-etat.html
 3440443-laide-de-letat.html
 3440536-francois-simon.html

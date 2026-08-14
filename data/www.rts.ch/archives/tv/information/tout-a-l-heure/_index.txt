@@ -16,7 +16,7 @@
 3442687-victime-du-succes.html
 3443114-l-hommage.html
 3443114-lhommage.html
-3443618-la-lecon-de-chant.html
+!3443618-la-lecon-de-chant.html
 3447656-la-gay-pride.html
 3448335-l-atout-de-gotteron.html
 3448335-latout-de-gotteron.html

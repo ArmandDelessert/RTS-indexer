@@ -1,4 +1,4 @@
-./
+!./
 3437183-fribourg.html
 3442392-valais.html
 3446083-une-vie-de-femme.html
@@ -8,5 +8,5 @@
 3449955-berne.html
 3465726-panorama-du-jura.html
 3465740-neuchatel.html
-4583875-appenzell.html
+!4583875-appenzell.html
 6372028-le-festival-et-le-kreuz.html

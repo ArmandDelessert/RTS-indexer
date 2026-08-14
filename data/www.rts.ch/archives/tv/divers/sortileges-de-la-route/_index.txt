@@ -7,5 +7,5 @@
 7455252-permis-de-rouler.html
 7455287-les-bonnes-manieres.html
 8988650-les-dangers-de-la-route.html
-9646865-partons-en-vacances-.html
-9646865-partons-en-vacances.html
+!9646865-partons-en-vacances-.html
+!9646865-partons-en-vacances.html

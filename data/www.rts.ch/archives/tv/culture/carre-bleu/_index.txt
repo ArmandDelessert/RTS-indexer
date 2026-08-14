@@ -17,9 +17,9 @@
 3437185-armand-niquille.html.html
 3441684-emile-chambon.html
 3442926-vous-avez-dit-sculpture.html
-3451971-au-bistrot.html
-3453470-la-chaux-de-fonds.html
-3453470-la-chauxdefonds.html
+!3451971-au-bistrot.html
+!3453470-la-chaux-de-fonds.html
+!3453470-la-chauxdefonds.html
 3453478-charles-chinet.html
 3468615-eugene-ionesco.html
 4443516-harald-szeemann.html

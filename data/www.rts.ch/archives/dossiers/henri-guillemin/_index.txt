@@ -11,7 +11,7 @@
 3477797-laffaire-petain.html
 3477849-jeanne-d-arc.html
 3477849-jeanne-darc.html
-3477989-napoleon.html
+!3477989-napoleon.html
 3478307-leon-tolstoi.html
 7067376-l-affaire-bazaine.html
 7067376-laffaire-bazaine.html

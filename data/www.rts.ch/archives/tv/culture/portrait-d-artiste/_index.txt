@@ -3,8 +3,8 @@
 12837751-leo-andenmatten-peintre-valaisan.html
 3436055-robert-hainard.html
 3461047-mireille-darc.html
-3468672-jenny-humbert-droz.html
-3468672-jenny-humbertdroz.html
+!3468672-jenny-humbert-droz.html
+!3468672-jenny-humbertdroz.html
 8872150-mireille-darc.html
 9124307-jean-baier-ou-l-equilibre-geometrique.html
 9124307-jean-baier-ou-lequilibre-geometrique.html

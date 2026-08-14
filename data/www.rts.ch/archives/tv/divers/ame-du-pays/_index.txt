@@ -1,5 +1,5 @@
-./
-3438494-les-carnavals-romands.html
+!./
+!3438494-les-carnavals-romands.html
 3442236-pirates-du-lac.html
 4920065-l-amour-du-pain.html
 4920065-lamour-du-pain.html

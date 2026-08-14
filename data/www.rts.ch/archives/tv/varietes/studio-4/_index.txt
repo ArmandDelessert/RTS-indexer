@@ -1,7 +1,7 @@
 ./
 12642606-une-star-en-devenir.html
-3439187-balavoine-et-berger.html
-3445200-duo-de-reve.html
+!3439187-balavoine-et-berger.html
+!3445200-duo-de-reve.html
 4963824-gilbert-montagne.html
 5354989-birkin-babe-alone.html
 7192224-duo-de-clarinettes.html

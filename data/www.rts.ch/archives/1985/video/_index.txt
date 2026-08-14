@@ -18,7 +18,7 @@ commerce-familial-26958404.html
 corynne-charby-26958446.html
 de-jeunes-inventeurs-26957932.html
 deces-de-simone-signoret-26192658.html
-derborence-26193393.html
+!derborence-26193393.html
 derriere-la-camera-27490632.html
 des-credits-26958649.html
 diane-dufresne-26194963.html
@@ -54,7 +54,7 @@ la-recette-du-papet-vaudois-26194095.html
 la-revendication-26193549.html
 la-vente-par-correspondance-26193302.html
 la-ville-ensevelie-26958593.html
-le-frisbee-26958011.html
+!le-frisbee-26958011.html
 le-frisbee-28855781.html
 le-grand-nord-de-la-suisse-26958304.html
 le-jambon-de-noces-26195154.html

@@ -1,4 +1,4 @@
-./
+!./
 10895895-la-guilde-du-livre.html
 10910803-guy-de-pourtales.html
 10976421-dedicace.html
@@ -13,7 +13,7 @@
 3563968-menuhin-au-ciem.html
 3563982-pas-de-1er-prix.html
 3943049-etre-utile-ailleurs.html
-4633016-collection-tintin.html
+!4633016-collection-tintin.html
 4777826-decouvrir-la-gravure.html
 4958773-avec-lino-ventura.html
 5845510-hr-giger.html
@@ -29,7 +29,7 @@
 8645154-roger-moore.html
 8737481-les-trois-automates.html
 8752747-fete-a-lausanne.html
-9025408-catherine-colomb.html
+!9025408-catherine-colomb.html
 9025419-catherine-colomb.html
 9082440-les-paysans-horlogers-neuchatelois.html
 9089265-le-tunnel-du-grand-saint-bernard.html

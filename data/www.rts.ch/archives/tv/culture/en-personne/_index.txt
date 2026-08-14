@@ -6,8 +6,8 @@
 3468106-armand-forel.html
 3468723-armin-jordan.html
 3992144-philippe-jaccottet.html
-4217531-un-couple-d-ecrivains.html
-4217531-un-couple-decrivains.html
+!4217531-un-couple-d-ecrivains.html
+!4217531-un-couple-decrivains.html
 4820800-walter-weideli.html
 9504066-corinna-bille-entre-reel-et-fantastique.html
 9514210-le-regard-de-maurice-chappaz.html

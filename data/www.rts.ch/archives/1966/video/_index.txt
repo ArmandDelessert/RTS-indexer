@@ -13,7 +13,7 @@ annie-cordy-26182726.html
 aquarelle-zbinden-26183076.html
 armee-du-salut-les-soldats-du-bon-dieu-26182764.html
 ascension-du-cervin-28857214.html
-au-revoir-marins-26183391.html
+!au-revoir-marins-26183391.html
 aux-etangs-de-bonfol-26182909.html
 avalanche-a-zermatt-26954550.html
 avant-le-depart-26182833.html
@@ -44,7 +44,7 @@ des-nouveaux-batiments-pour-la-tsr-28664446.html
 des-oeufs-a-la-chaine-26954771.html
 dossier-inde-1966-26954930.html
 du-lsd-a-l-antenne-de-la-tsr-26182712.html
-en-zone-viet-cong-26183401.html
+!en-zone-viet-cong-26183401.html
 entre-blancs-et-noirs-26389004.html
 equipements-de-camping-26182775.html
 escapade-gourmande-26954652.html
@@ -80,7 +80,7 @@ la-piste-d-etagnieres-26182205.html
 la-presse-feminine-26182467.html
 la-traversee-du-lac-26954645.html
 la-vache-amelioree-26182728.html
-le-bikini-plastique-26182765.html
+!le-bikini-plastique-26182765.html
 le-cardinal-journet-26392148.html
 le-chasseral-pare-26954813.html
 le-costume-d-evolene-26182625.html
@@ -128,7 +128,7 @@ terreau-valaisan-26183070.html
 theatre-au-village-26387498.html
 tourisme-et-agriculture-26182998.html
 trains-sans-cahots-26954638.html
-travail-a-la-banque-26182736.html
+!travail-a-la-banque-26182736.html
 travaux-et-anecdotes-26183058.html
 tricher-a-l-ecole-26183201.html
 un-amour-de-chien-26182953.html
