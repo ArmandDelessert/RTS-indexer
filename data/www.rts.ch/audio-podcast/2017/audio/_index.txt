@@ -3030,7 +3030,7 @@ nos-donnees-pourraient-etre-inscrites-dans-de-l-adn-selon-une-etude-25742554.htm
 nota-bene-amazon-20-ans-de-gratuite-pour-regner-25748128.html
 nota-bene-amazon-en-chair-et-en-os-25750499.html
 nota-bene-art-basel-piece-maitresse-de-l-art-contemporain-25749983.html
-nota-bene-ca-gazouille-moyen-pour-twitter-25747798.html
+!nota-bene-ca-gazouille-moyen-pour-twitter-25747798.html
 nota-bene-des-chicanes-sur-la-route-des-voitures-electriques-25749482.html
 nota-bene-l-entreprise-chinoise-tsinghua-investit-dans-les-puces-memoires-25739788.html
 nota-bene-l-industrie-auto-tatonne-dans-la-cartographie-25749262.html
