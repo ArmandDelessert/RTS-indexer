@@ -66,6 +66,23 @@ def _prefixes_canoniques(prefixes: str | list[str] | None) -> tuple[str, ...]:
     return tuple(_prefixe_canonique(p) for p in prefixes)
 
 
+def _duree(secondes: float) -> str:
+    """Durée lisible : ``2 h 05 min``, ``4 min 12 s``, ``8 s``.
+
+    Doublon volontaire de l'équivalent dans cli.py plutôt qu'un module
+    partagé pour une fonction de cette taille, à deux usages : la garder
+    locale évite de faire dépendre verify.py de cli.py pour une simple
+    mise en forme.
+    """
+    if secondes < 60:
+        return f"{secondes:.0f} s"
+    minutes, sec = divmod(int(secondes), 60)
+    if minutes < 60:
+        return f"{minutes} min {sec:02d} s"
+    heures, minutes = divmod(minutes, 60)
+    return f"{heures} h {minutes:02d} min"
+
+
 class Verifier:
     def __init__(
         self,
@@ -109,6 +126,12 @@ class Verifier:
         self.reessais = 0
         #: url demandée -> URL finale, quand le serveur redirige ailleurs.
         self.redirections: dict[str, str] = {}
+        #: Taille de la sélection et instant de départ, posés par run(). Ce sont
+        #: eux qui donnent leur sens au pourcentage et à l'estimation restante
+        #: dans _progression() — sans total connu, un compteur qui avance ne dit
+        #: rien de la distance qu'il reste à parcourir.
+        self._total = 0
+        self._debut = 0.0
 
     # -- cache ---------------------------------------------------------------
 
@@ -241,6 +264,23 @@ class Verifier:
             self.ressuscites += 1
             log.info("de nouveau vivante (HTTP %d): %s", status, url)
 
+    def _progression(self) -> str:
+        """``2450/7300 (34%), 12 min 03 s écoulées, ~23 min restantes``.
+
+        L'estimation restante suppose un débit constant, ce qui n'est vrai
+        qu'en gros : elle ne voit ni les seconds avis, ni les ralentissements
+        réseau. Une approximation affichée vaut mieux qu'un silence total sur
+        un run qui peut durer des heures.
+        """
+        pct = 100 * self.checked / self._total if self._total else 100
+        ecoule = time.monotonic() - self._debut
+        resultat = f"{self.checked}/{self._total} ({pct:.0f}%), {_duree(ecoule)} écoulées"
+        if 0 < self.checked < self._total and ecoule > 0:
+            taux = self.checked / ecoule
+            restant = (self._total - self.checked) / taux
+            resultat += f", ~{_duree(restant)} restantes"
+        return resultat
+
     def _checkpoint(self) -> None:
         try:
             self.store.write()
@@ -248,7 +288,7 @@ class Verifier:
         except Exception:
             log.exception("échec du checkpoint à %d URLs, le contrôle continue", self.checked)
         else:
-            log.info("checkpoint: %d URLs contrôlées", self.checked)
+            log.info("checkpoint (écrit sur disque) : %s", self._progression())
 
     def _differe_du(self) -> str | None:
         """Retire et retourne une URL différée dont l'échéance est atteinte.
@@ -279,6 +319,7 @@ class Verifier:
                 continue
 
             self._en_vol += 1
+            avant = self.checked
             try:
                 await self._check(http, limiter, url)
             except Exception:
@@ -287,8 +328,16 @@ class Verifier:
                 log.exception("erreur inattendue en contrôlant %s, URL ignorée", url)
             finally:
                 self._en_vol -= 1
+            # Une URL reprogrammée (second avis) ne fait pas avancer `checked` :
+            # sans ce garde, la condition modulo resterait vraie à chaque
+            # passage tant que le compte ne bouge pas, et redéclencherait le
+            # même checkpoint en boucle.
+            if self.checked == avant:
+                continue
             if config.VERIFY_CHECKPOINT_URLS and self.checked % config.VERIFY_CHECKPOINT_URLS == 0:
-                self._checkpoint()
+                self._checkpoint()  # inclut déjà la progression, pas de doublon
+            elif config.VERIFY_PROGRESS_STEP and self.checked % config.VERIFY_PROGRESS_STEP == 0:
+                log.info("progression : %s", self._progression())
 
     async def run(self) -> None:
         self.load_cache()
@@ -308,7 +357,9 @@ class Verifier:
             else:
                 log.info("rien à contrôler")
             return
-        log.info("%d URLs à contrôler", len(urls))
+        self._total = len(urls)
+        self._debut = time.monotonic()
+        log.info("%d URLs à contrôler", self._total)
 
         queue: asyncio.Queue[str] = asyncio.Queue()
         for url in urls:

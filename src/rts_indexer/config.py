@@ -134,6 +134,10 @@ VERIFY_MIN_INTERVAL = 0.5
 #: revérifier à chaque run prendrait des heures pour rien.
 VERIFY_RECHECK_DAYS = 30
 VERIFY_CHECKPOINT_URLS = 500
+#: Cadence d'un point d'avancement léger (pas d'écriture disque, juste un log).
+#: Un run de plusieurs dizaines de milliers d'URLs peut durer des heures sans
+#: le moindre signe de vie sinon entre deux checkpoints.
+VERIFY_PROGRESS_STEP = 100
 
 #: Codes concluants. Tout le reste (403, 429, 5xx, timeout) est *non
 #: concluant* : ni vivant ni mort, on ne touche pas au sigil et on ne met pas

@@ -445,3 +445,80 @@ def test_path_qui_matche_mais_deja_a_jour_reste_discret(tmp_path, caplog):
         asyncio.run(verifier.run())  # second passage : rien de neuf, normal
 
     assert not any("aucune URL" in m for m in caplog.messages)
+
+
+# -- progression --------------------------------------------------------------
+
+
+def test_progression_rappelle_le_total_et_le_pourcentage(tmp_path):
+    verifier = _verifier(tmp_path)
+    verifier._total = 20
+    verifier._debut = time.monotonic() - 10
+    verifier.checked = 5
+
+    assert verifier._progression() == "5/20 (25%), 10 s écoulées, ~30 s restantes"
+
+
+def test_progression_sans_estimation_avant_le_premier_verdict(tmp_path):
+    """Sans aucune donnée de débit, une estimation serait inventée : mieux
+    vaut l'omettre que d'afficher un chiffre sans fondement."""
+    verifier = _verifier(tmp_path)
+    verifier._total = 20
+    verifier._debut = time.monotonic()
+    verifier.checked = 0
+
+    assert "restantes" not in verifier._progression()
+
+
+def test_progression_ne_depasse_pas_100_pour_cent_a_la_fin(tmp_path):
+    verifier = _verifier(tmp_path)
+    verifier._total = 20
+    verifier._debut = time.monotonic() - 60
+    verifier.checked = 20
+
+    resultat = verifier._progression()
+    assert "100%" in resultat
+    assert "restantes" not in resultat  # plus rien à estimer, le run est fini
+
+
+def test_le_checkpoint_inclut_la_progression(tmp_path, caplog):
+    """Le rapport initial (`checkpoint: 5500 URLs contrôlées`) ne rappelait
+    pas le total : impossible de juger l'avancement d'un coup d'œil."""
+    verifier = _verifier(tmp_path, store=_store(tmp_path, urls=[VIVANTE]))
+    verifier._total = 1
+    verifier._debut = time.monotonic()
+    verifier.checked = 1
+
+    with caplog.at_level("INFO"):
+        verifier._checkpoint()
+
+    assert any("1/1 (100%)" in m for m in caplog.messages)
+
+
+def test_pas_de_checkpoint_redondant_apres_une_reprogrammation(tmp_path, monkeypatch):
+    """Une URL reprogrammée (second avis) ne fait pas avancer `checked` : le
+    garde de _worker doit l'empêcher de redéclencher le même checkpoint."""
+    monkeypatch.setattr(config, "VERIFY_CHECKPOINT_URLS", 1)
+    appels: list[str] = []
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        appels.append(request.method)
+        # 404 puis 200 : une reprogrammation avant le verdict final.
+        return httpx.Response(404 if len(appels) == 1 else 200)
+
+    store = _store(tmp_path, urls=[MORTE])
+    verifier = _verifier(tmp_path, store=store, transport=httpx.MockTransport(handler))
+
+    checkpoints: list[int] = []
+    original = verifier._checkpoint
+
+    def checkpoint_compte():
+        checkpoints.append(verifier.checked)
+        original()
+
+    monkeypatch.setattr(verifier, "_checkpoint", checkpoint_compte)
+    asyncio.run(verifier.run())
+
+    # Un seul checkpoint, une fois le verdict réellement obtenu — pas un par
+    # passage de worker.
+    assert checkpoints == [1]
