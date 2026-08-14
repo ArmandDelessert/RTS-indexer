@@ -1,7 +1,7 @@
-./
-7941772-participez-.html
-7941772-participez.html
+!./
+!7941772-participez-.html
+!7941772-participez.html
 7947178-le-jeu-ou-c-est-vous-qui-posez-les-questions-.html
-7963153-accroche-menu-accueil-c-est-ma-question.html
+!7963153-accroche-menu-accueil-c-est-ma-question.html
 8002116-l-equipe-de-c-est-ma-question-vient-a-votre-rencontre.html
-8035761-telechargez-lapplication-cest-ma-question.html
+!8035761-telechargez-lapplication-cest-ma-question.html

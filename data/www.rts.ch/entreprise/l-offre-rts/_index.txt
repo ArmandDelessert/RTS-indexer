@@ -10,7 +10,7 @@
 8968720-films-et-series.html
 8968720-films-series.html
 8973535-information.html
-8988006-reseaux-sociaux-rts.html
+!8988006-reseaux-sociaux-rts.html
 9016108-audiences-2020.html
 9016108-audiences-2021.html
 9016108-audiences-2022.html
@@ -20,5 +20,5 @@
 9052059-chaines-de-television.html
 9052059-chaines-tv.html
 9052059-une-offre-tv-pour-tous.html
-9064560-tous-les-chemins-menent-a-nos-programmes.html
+!9064560-tous-les-chemins-menent-a-nos-programmes.html
 9316178-jeunesse.html

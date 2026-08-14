@@ -1,6 +1,6 @@
-./
-6527842-les-acteurs.html
-6528090-les-auteurs.html
+!./
+!6527842-les-acteurs.html
+!6528090-les-auteurs.html
 6547361-l-ecal-et-la-head-font-halte-a-station-horizon.html
-6568818-le-resume-des-episodes.html
+!6568818-le-resume-des-episodes.html
 6570550-fullytexas.html

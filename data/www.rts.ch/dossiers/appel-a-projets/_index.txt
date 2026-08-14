@@ -1,6 +1,6 @@
 ./
 11336971-appel-a-temoignages.html
-8584505--appel-a-projets-.html
-8584505-appel-a-projets.html
-8584505-guichet-ouvert.html
-8584505-la-rts-lance-un-appel-a-projets-pour-les-jeunes.html
+!8584505--appel-a-projets-.html
+!8584505-appel-a-projets.html
+!8584505-guichet-ouvert.html
+!8584505-la-rts-lance-un-appel-a-projets-pour-les-jeunes.html

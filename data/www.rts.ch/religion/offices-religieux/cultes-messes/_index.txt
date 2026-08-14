@@ -1,4 +1,4 @@
-./
+!./
 4819086-culte-au-temple-de-dombresson-ne-.html
 7477343-culte-en-direct-de-l-eglise-reformee-st-jean-a-davos-platz-gr-.html
 7512411-messe-en-direct-de-l-eglise-st-pierre-de-wil-sg-.html
@@ -11,4 +11,4 @@
 8839175-culte-de-la-mi-ete-en-direct-de-l-alpage-de-solalex.html
 8839175-culte-en-direct-de-l-alpage-de-solalex.html
 9058542-culte-de-cloture-du-500eme-anniversaire-de-la-reforme.html
-9317728-messe-transmise-en-direct-et-en-streaming-de-la-paroisse-de-l-immaculee-conception-a-leysin.html
+!9317728-messe-transmise-en-direct-et-en-streaming-de-la-paroisse-de-l-immaculee-conception-a-leysin.html

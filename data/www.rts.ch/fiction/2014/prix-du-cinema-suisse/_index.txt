@@ -1,2 +1,2 @@
-./
-5650106-un-peu-d-histoire.html
+!./
+!5650106-un-peu-d-histoire.html

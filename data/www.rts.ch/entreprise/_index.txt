@@ -28,7 +28,7 @@
 13243327-la-rts-au-montreux-jazz-festival.html
 13243374-la-rts-au-mjf-en-images.html
 13310903.html
-13312282.html
+!13312282.html
 13312296-fetons-ensemble-les-100-ans-de-la-radio-.html
 13312296-fetons-ensemble-les-100-ans-de-la-radio.html
 13312296-nous-avons-fete-ensemble-les-100-ans-de-la-radio.html
@@ -44,8 +44,8 @@
 13497611-le-pole-de-creation-numerique-en-action.html
 13497661-education-aux-medias.html
 13709220.html
-14531901-sophie-balbo.html
-14531901.html
+!14531901-sophie-balbo.html
+!14531901.html
 14533814-marco-ferrara.html
 14533814.html
 14533843-christophe-minder.html

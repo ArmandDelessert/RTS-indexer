@@ -1,4 +1,4 @@
-./
-1000886-1-journee.html
-1007182-le-samedi-a-19h10-sur-tsr1.html
-924032-l-infiltre.html
+!./
+!1000886-1-journee.html
+!1007182-le-samedi-a-19h10-sur-tsr1.html
+!924032-l-infiltre.html

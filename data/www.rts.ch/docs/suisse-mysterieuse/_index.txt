@@ -1,3 +1,3 @@
 ./
-495299-suisse-mysterieuse-episode-3-le-triangle-magique.html
-495490-suisse-mysterieuse-episode-10-les-menhirs-de-la-mutta.html
+!495299-suisse-mysterieuse-episode-3-le-triangle-magique.html
+!495490-suisse-mysterieuse-episode-10-les-menhirs-de-la-mutta.html

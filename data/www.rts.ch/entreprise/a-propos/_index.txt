@@ -5,13 +5,13 @@
 11361376-soustitrage.html
 11361447-langue-des-signes.html
 11361455-audiodescription.html
-11833737-egalite-diversite.html
-11833737-mesures-antisexistes-et-inclusives.html
+!11833737-egalite-diversite.html
+!11833737-mesures-antisexistes-et-inclusives.html
 12035358-le-futur-batiment-rts-a-lausanne-en-images.html
 12534572-feuille-de-route-de-la-certification-edge-et-de-la-charte-pour-un-media-de-service-public-antisexiste-et-inclusif.html
 13747375.html
 13864408-notre-feuille-de-route.html
-8965500-des-programmes-pour-tous.html
+!8965500-des-programmes-pour-tous.html
 8968919-la-direction-et-les-departements.html
 8968919-la-direction-les-departements.html
 8968919-la-direction.html

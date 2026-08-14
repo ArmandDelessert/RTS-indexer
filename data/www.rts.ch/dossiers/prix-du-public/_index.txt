@@ -7,7 +7,7 @@
 11163036-sam-edmond-vullioud.html
 11163052-revolution-aux-confins-annette-hug.html
 11321557-pascal-janovjak-remporte-le-prix-du-public-rts-pour-son-roman-le-zoo-de-rome.html
-12010519-participez-au-jury-du-prix-du-public-2021-de-la-rts.html
+!12010519-participez-au-jury-du-prix-du-public-2021-de-la-rts.html
 12037268-se-rejouir-de-la-fin-adrien-gygax.html
 12037328-la-soustraction-des-possibles-joseph-incardona.html
 12037367-un-toit-bernard-utz.html

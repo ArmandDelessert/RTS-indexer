@@ -6,7 +6,7 @@
 5712653-sexe-et-religions-pourquoi-ca-coince-.html
 6401923-noel-invitation-au-merveilleux.html
 6732281-sexe-et-pedophilie-les-tabous-du-vatican.html
-7178191-reportage-de-nombreux-migrants-echouent-a-patras.html
+!7178191-reportage-de-nombreux-migrants-echouent-a-patras.html
 7476006-reportage-voyages-au-bout-de-sa-nuit.html
 7493504-harcelement-de-rue-stop-aux-gros-lourds-.html
 7493506-debat-harcelement-de-rue-stop-aux-gros-lourds-.html
@@ -27,9 +27,9 @@
 7603533-entretien-l-autre-dieu-de-marion-muller-colard.html
 7671415-l-espoir-n-a-pas-dit-son-dernier-mot.html
 7671417-reportage-le-chant-des-derniers-arameens.html
-7688867-reportage-la-vie-d-alexandre-jollien-a-seoul.html
-7688869-debat-voile-la-nouvelle-tendance-mode-.html
-7688871-voile-la-nouvelle-tendance-mode.html
+!7688867-reportage-la-vie-d-alexandre-jollien-a-seoul.html
+!7688869-debat-voile-la-nouvelle-tendance-mode-.html
+!7688871-voile-la-nouvelle-tendance-mode.html
 7705090-debat-surmonter-le-choc-d-une-mort-annoncee.html
 7705092-surmonter-le-choc-d-une-mort-annoncee.html
 7705094-reportage-surmonter-le-choc-d-une-mort-annoncee.html
@@ -49,7 +49,7 @@
 8143913-calvin-les-protestants-et-moi.html
 8178068-debat-jean-ziegler-confessions-d-un-revolte.html
 8435264--droles-de-voisins-decouverte-de-la-maison-des-religions-.html
-8510597-birmanie-la-malediction-des-rohingyas.html
+!8510597-birmanie-la-malediction-des-rohingyas.html
 8580790-chypre-une-reconciliation-est-elle-possible-.html
 8599922-la-medecine-du-big-data-le-patient-face-au-choix.html
 8674814-amerique-de-trump-les-creationnistes-au-pouvoir.html
@@ -57,5 +57,5 @@
 8957161-chretiens-et-homosexuels-le-difficile-coming-out.html
 9034871-ils-ont-tout-quitte-pour-leur-foi.html
 9095244-refugies-climatiques-s-adapter-avant-de-fuir.html
-9281955-vivre-avec-les-morts.html
+!9281955-vivre-avec-les-morts.html
 9297613-et-si-jerusalem-rendait-fou-.html

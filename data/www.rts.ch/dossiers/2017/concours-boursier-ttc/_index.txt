@@ -1,5 +1,5 @@
 ./
-8740002-le-concours-boursier-de-ttc-cest-termine.html
-8740002-le-concours-boursier-de-ttc-est-de-retour-.html
+!8740002-le-concours-boursier-de-ttc-cest-termine.html
+!8740002-le-concours-boursier-de-ttc-est-de-retour-.html
 8841548-reglement-de-participation.html
 8846414-contact.html

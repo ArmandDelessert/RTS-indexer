@@ -1,2 +1,2 @@
-./
-6842599-statistiques.html
+!./
+!6842599-statistiques.html

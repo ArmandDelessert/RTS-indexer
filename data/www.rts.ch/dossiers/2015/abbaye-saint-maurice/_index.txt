@@ -1,4 +1,4 @@
-./
+!./
 6308957-archives-histoire-de-l-abbaye.html
 6308959-archives-le-tresor.html
 6308960-archives-le-college-de-saint-maurice.html

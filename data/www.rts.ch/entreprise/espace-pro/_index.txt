@@ -9,6 +9,6 @@
 13284516-emmanuel-cuenod-nouveau-directeur-du-pole-de-creation-numerique.html
 8970942-espace-presse.html
 8970942-relations-medias.html
-9061017-partenariats.html
+!9061017-partenariats.html
 9084581-sponsoring-pub-marketing.html
 9084581-votre-publicite-ou-sponsoring-a-lantenne-de-la-rts.html
