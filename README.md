@@ -189,9 +189,10 @@ collectée, contre 48 seulement vers un hôte hors périmètre (`img.rts.ch`).
 Cette confiance est filtrée, pas aveugle : la cible passe par `urlnorm.normalize()`, le même
 contrôle de périmètre qu'utilisent toutes les autres sources, avant d'être indexée. Sans ce filtre,
 un identifiant qui redirige vers une image sur `img.rts.ch` entrerait dans l'index sans contrôle —
-`Store.add()` seul ne vérifie ni l'hôte ni l'extension. Une cible qui échoue à ce filtre fait
-ignorer le doublon plutôt que de le supprimer à l'aveugle : mieux vaut garder un doublon en trop que
-perdre une URL dont la destination s'avère hors périmètre.
+`Store.add()` seul ne vérifie ni l'hôte ni l'extension. Une cible qui échoue à ce filtre n'est pas
+un vrai doublon — rien dans l'index n'en fait double emploi, elle redirige simplement hors
+périmètre — donc `dedupe` ne supprime rien : l'anomalie est **requalifiée** `hors_perimetre` plutôt
+que laissée sous l'étiquette `doublon`, trompeuse pour ce cas.
 
 ### `site`
 
@@ -224,7 +225,7 @@ autrement — et de rattraper une dérive externe. Il est lancé chaque semaine 
 | `vivantes_ou_non_verifiees` | `urls` moins `mortes`. Le nom est double à dessein : une URL jamais passée par `verify` compte comme vivante ici, faute de verdict contraire. |
 | `mortes` | URLs pour lesquelles `verify` a obtenu un 404 ou 410 confirmé (sigil `!`). Reste petit tant que `verify` n'a tourné que sur un échantillon — ce n'est pas « peu d'URLs mortes », c'est « peu d'URLs *contrôlées*. » |
 | `dossiers` | Segments de chemin distincts sous `data/` (une entrée par `_index.txt`, hors shards). |
-| `anomalies` | Lignes dans `_anomalies.tsv`, de trois types : `trop_long` (chemin projeté au-delà de `MAX_REL_PATH_LEN`), `collision` (deux URLs ne différant que par la casse visent le même chemin disque, NTFS étant insensible à la casse), et `doublon` (l'URL redirige vers une autre, constaté par `verify`). |
+| `anomalies` | Lignes dans `_anomalies.tsv`, de quatre types : `trop_long` (chemin projeté au-delà de `MAX_REL_PATH_LEN`), `collision` (deux URLs ne différant que par la casse visent le même chemin disque, NTFS étant insensible à la casse), `doublon` (l'URL redirige vers une autre du périmètre, constaté par `verify` — actionnable par `dedupe`), et `hors_perimetre` (l'URL redirige hors périmètre, ex. vers `img.rts.ch` — ce n'est pas un vrai doublon, rien dans l'index n'en fait double emploi, et `dedupe` ne le résoudra jamais). |
 
 ## Écriture sélective
 

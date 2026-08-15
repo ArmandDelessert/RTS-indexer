@@ -450,10 +450,16 @@ def test_resolve_doublons_indexe_la_cible_manquante_puis_supprime(tmp_path):
     assert dict(Store(tmp_path).load().urls()) == {cible_jamais_collectee: False}
 
 
-def test_resolve_doublons_ignore_si_la_cible_est_hors_perimetre(tmp_path):
+def test_resolve_doublons_requalifie_si_la_cible_est_hors_perimetre(tmp_path):
     """Le critère de sécurité : ne jamais supprimer si la cible échoue au
     filtre de périmètre — un identifiant qui redirige vers une image sur
-    img.rts.ch, par exemple, hors hôte connu et hors format HTML."""
+    img.rts.ch, par exemple, hors hôte connu et hors format HTML.
+
+    Incident réel : ces cas restaient étiquetés `doublon` indéfiniment, alors
+    que ce n'en sont pas — rien dans l'index ne fait double emploi avec eux,
+    ils redirigent simplement hors périmètre. `resolve_doublons()` les
+    requalifie donc sous un type distinct plutôt que de les laisser sous une
+    étiquette trompeuse."""
     cible_hors_perimetre = "https://img.rts.ch/articles/2011/image/x-1.image"
     store = Store(tmp_path)
     store.add(ARTICLE)
@@ -464,8 +470,37 @@ def test_resolve_doublons_ignore_si_la_cible_est_hors_perimetre(tmp_path):
     supprimes, ajoutees, ignores = relu.resolve_doublons()
 
     assert (supprimes, ajoutees, ignores) == (0, 0, 1)
-    assert ("doublon", ARTICLE, cible_hors_perimetre) in relu.anomalies  # conservée
+    assert ("doublon", ARTICLE, cible_hors_perimetre) not in relu.anomalies
+    assert ("hors_perimetre", ARTICLE, cible_hors_perimetre) in relu.anomalies
     assert dict(relu.urls()) == {ARTICLE: False}  # rien supprimé, rien ajouté
+
+
+def test_hors_perimetre_survit_au_rechargement(tmp_path):
+    """Comme `doublon`, ce verdict vient du réseau et ne peut pas être rejoué
+    hors ligne : il doit survivre à un load()/write(), pas disparaître comme
+    un type d'anomalie retiré du code."""
+    cible_hors_perimetre = "https://img.rts.ch/articles/2011/image/x-1.image"
+    store = Store(tmp_path)
+    store.add(ARTICLE)
+    store.anomalies.add(("hors_perimetre", ARTICLE, cible_hors_perimetre))
+    store.write()
+
+    relu = Store(tmp_path).load()
+    assert ("hors_perimetre", ARTICLE, cible_hors_perimetre) in relu.anomalies
+
+
+def test_hors_perimetre_disparait_si_l_url_source_est_retiree(tmp_path):
+    cible_hors_perimetre = "https://img.rts.ch/articles/2011/image/x-1.image"
+    store = Store(tmp_path)
+    store.add(ARTICLE)
+    store.anomalies.add(("hors_perimetre", ARTICLE, cible_hors_perimetre))
+    store.write()
+
+    store2 = Store(tmp_path)  # repart de zéro : ARTICLE n'est jamais réaffirmée
+    store2.write()
+
+    relu = Store(tmp_path).load()
+    assert relu.anomalies == set()
 
 
 def test_resolve_doublons_ignore_les_anomalies_d_autres_types(tmp_path):

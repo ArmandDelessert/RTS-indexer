@@ -222,8 +222,15 @@ class Store:
         supprimes = ajoutees = ignores = 0
         for url, cible_brute in doublons:
             cible = urlnorm.normalize(cible_brute)
+            self.anomalies.discard(("doublon", url, cible_brute))
             if cible is None:
-                log.warning("doublon ignoré, cible hors périmètre : %s -> %s", url, cible_brute)
+                # Pas un doublon : rien dans l'index ne fait double emploi
+                # avec cette URL, elle redirige simplement hors périmètre
+                # (image sur img.rts.ch, domaine tiers...). Requalifiée
+                # plutôt que laissée sous une étiquette trompeuse — c'est
+                # justement la confusion que ça a causée en pratique.
+                log.warning("doublon requalifié, hors périmètre : %s -> %s", url, cible_brute)
+                self.anomalies.add(("hors_perimetre", url, cible_brute))
                 ignores += 1
                 continue
             if self.status(cible) is None:
@@ -231,12 +238,6 @@ class Store:
                 ajoutees += 1
             if self.remove(url):
                 supprimes += 1
-            # L'anomalie disparaît dans tous les cas résolus : soit le
-            # doublon vient d'être retiré, soit il l'était déjà (un
-            # rechargement l'aurait de toute façon écarté, cf.
-            # _anomaly_still_applies) — seule la comparer à la valeur brute
-            # d'origine la retrouve dans l'ensemble.
-            self.anomalies.discard(("doublon", url, cible_brute))
         return supprimes, ajoutees, ignores
 
     # -- chargement ----------------------------------------------------------
@@ -328,11 +329,14 @@ class Store:
                 self.anomalies.add((kind, url, detail))
 
     def _anomaly_still_applies(self, kind: str, url: str) -> bool:
-        if kind == "doublon":
-            # Vaut tant que l'URL reste indexée. Contrairement aux deux autres,
-            # ce verdict vient du réseau (une redirection constatée par
-            # `verify`) et ne peut pas être rejoué hors ligne : le conserver
-            # est le seul moyen de ne pas perdre l'information entre deux runs.
+        if kind in ("doublon", "hors_perimetre"):
+            # Vaut tant que l'URL reste indexée. Contrairement aux deux
+            # suivants, ce verdict vient du réseau (une redirection constatée
+            # par `verify`) et ne peut pas être rejoué hors ligne : le
+            # conserver est le seul moyen de ne pas perdre l'information entre
+            # deux runs. `hors_perimetre` ne sera jamais résolu par `dedupe`
+            # (voir :meth:`resolve_doublons`), mais reste sujet à disparaître
+            # si l'URL source elle-même finit par être retirée de l'index.
             return self.status(url) is not None
         if kind not in ("collision", "trop_long"):
             return False  # type retiré du code (ex. l'ancienne "majuscule")

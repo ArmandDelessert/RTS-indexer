@@ -228,7 +228,7 @@ def cmd_dedupe(args: argparse.Namespace) -> int:
     supprimes, ajoutees, ignores = store.resolve_doublons()
     print(
         f"{supprimes} doublons supprimés ({ajoutees} cibles nouvellement indexées), "
-        f"{ignores} ignorés (cible hors périmètre)"
+        f"{ignores} requalifiés hors périmètre (pas de vrai doublon)"
     )
     _report(store.write())
     return 0
