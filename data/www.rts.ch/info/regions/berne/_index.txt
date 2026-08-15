@@ -1141,8 +1141,10 @@
 7754655-la-reitschule-assure-d-un-nouveau-contrat-de-prestation.html
 7754655-la-reitschule-assuree-dun-nouveau-contrat-de-prestation.html
 7754655-le-centre-alternatif-de-la-reitschule-a-berne-continuera-d-etre-soutenu.html
+7754655-le-centre-alternatif-de-la-reitschule-a-berne-continuera-detre-soutenu.html
 7756285-un-requerant-condamne-a-13-ans-de-prison-pour-un-meurtre-a-champion.html
 7759188-de-violents-orages-ont-prive-5300-foyers-du-jura-bernois-d-electricite.html
+7759188-de-violents-orages-ont-prive-5300-foyers-du-jura-bernois-delectricite.html
 7759188-des-intemperies-ont-prive-5300-foyers-du-jura-bernois-d-electricite.html
 7770953-deux-candidats-aux-profils-opposes-pour-lelection-a-la-mairie-de-moutier.html
 7775453-le-resultat-d-une-votation-sur-une-fusion-a-ete-annule-a-cremines-be-.html
@@ -1202,6 +1204,7 @@
 8010515-trois-nouvelles-aires-pour-les-yeniches-suisses-dans-le-canton-de-berne.html
 8014452-les-expertises-independantes-pas-decisives-pour-l-avenir-de-moutier-.html
 8014452-les-expertises-independantes-pas-decisives-pour-l-avenir-de-moutier.html
+8014452-les-expertises-independantes-pas-decisives-pour-lavenir-de-moutier.html
 8026903-un-village-entier-datant-de-l-age-du-bronze-decouvert-a-kehrsatz-be-.html
 8027788-mesures-urgentes-reclamees-pour-soutenir-les-pme-dans-l-arc-jurassien.html
 8053236-saint-imier-proteste-contre-la-disparition-des-points-de-vente-cff.html
@@ -1327,6 +1330,7 @@
 8711400-les-jurassiens-en-fete-a-moutier-apres-le-oui-dans-les-urnes.html
 8724271-berne-veut-renforcer-les-droits-de-sa-population-francophone.html
 8727052-un-incendie-s-est-declare-dans-une-usine-du-jura-bernois.html
+8727052-un-incendie-sest-declare-dans-une-usine-du-jura-bernois.html
 8731043-les-sauveteurs-bernois-se-dotent-d-un-nouvel-outil-pour-retrouver-les-noyes.html
 8742006-fronde-des-communes-bernoises-face-aux-coupes-dans-l-aide-sociale.html
 8743992-des-musulmanes-font-de-la-prevention-contre-la-radicalisation-a-bienne.html
@@ -1341,6 +1345,7 @@
 8776162-l-echange-gratuit-des-plaques-apres-le-vote-de-moutier-objet-d-un-recours.html
 8780076-un-avion-de-tourisme-endommage-un-immeuble-puis-s-ecrase-a-belp-be-.html
 8780076-un-avion-de-tourisme-endommage-un-immeuble-puis-s-ecrase-a-belp-be.html
+8780076-un-avion-de-tourisme-endommage-un-immeuble-puis-secrase-a-belp-be.html
 8780106-cent-militants-et-autant-de-policiers-lors-d-une-manif-anti-g20-a-berne.html
 8782605-le-miracle-de-la-vigne-de-moutier-ravagee-par-le-gel-en-avril.html
 8788302-douze-recours-deposes-apres-le-oui-de-moutier-a-son-transfert-dans-le-jura.html
@@ -1353,6 +1358,7 @@
 8843590-la-ville-de-berne-propose-un-guide-pour-lutter-contre-la-radicalisation.html
 8854270-plusieurs-blesses-dans-un-eboulement-pres-du-col-du-grimsel-be-.html
 8854270-plusieurs-blesses-dans-un-eboulement-pres-du-col-du-grimsel-be.html
+8854270-six-randonneurs-blesses-dans-un-eboulement-pres-du-col-du-grimsel.html
 8856243-enquete-a-la-neuveville-be-apres-la-mort-de-deux-femmes-dans-le-port.html
 8857194-des-chevaux-de-l-armee-pourraient-etre-malades-au-centre-de-schonbuhl.html
 8857194-des-chevaux-de-larmee-pourraient-etre-malades-au-centre-de-schonbuhl.html
@@ -1367,13 +1373,16 @@
 8866651-bienne-cree-un-centre-de-prevention-de-l-extremisme-et-de-la-violence.html
 8866651-bienne-cree-un-centre-de-prevention-de-lextremisme-et-de-la-violence.html
 8870318-la-fete-folklorique-d-unspunnen-bat-son-plein-a-interlaken.html
+8870318-la-fete-folklorique-dunspunnen-bat-son-plein-a-interlaken.html
 8898386-deux-biennoises-ont-rejoint-les-rangs-du-groupe-etat-islamique-en-syrie.html
 8898414-l-hopital-de-moutier-pourrait-etre-mis-en-vente-prochainement.html
 8898414-lhopital-de-moutier-pourrait-etre-mis-en-vente-prochainement.html
 8901197-hopital-de-moutier-on-travaille-dur-pour-trouver-des-solutions-.html
 8901197-hopital-de-moutier-on-travaille-dur-pour-trouver-des-solutions.html
 8902972-les-ministres-bernois-ne-siegeront-plus-dans-des-conseils-d-administration.html
+8902972-les-ministres-bernois-ne-siegeront-plus-dans-des-conseils-dadministration.html
 8903731-une-centaine-d-emplois-menaces-au-sein-de-la-verrerie-de-moutier.html
+8903731-une-centaine-demplois-menaces-au-sein-de-la-verrerie-de-moutier.html
 8909328-le-ministere-public-saisi-d-une-plainte-penale-sur-le-vote-de-moutier.html
 8909328-le-ministere-public-saisi-dune-plainte-penale-sur-le-vote-de-moutier.html
 8909350-la-ville-de-bienne-s-active-pour-rendre-son-centre-ville-plus-attrayant.html
@@ -1387,6 +1396,7 @@
 8944155-feu-vert-pour-le-projet-de-campus-de-la-hes-bernoise-a-bienne.html
 8952766-un-recours-depose-apres-le-non-de-belprahon-au-canton-du-jura.html
 8959193-le-predicateur-controverse-de-bienne-perd-definitivement-son-droit-d-asile.html
+8959193-le-predicateur-controverse-de-bienne-perd-definitivement-son-droit-dasile.html
 8968873-incoherences-relevees-dans-le-futur-batiment-de-fedpol-et-du-mpc-a-berne.html
 8980479-des-arrestations-a-berne-apres-une-manifestation-de-la-gauche-alternative.html
 8987572-un-slogan-en-faveur-du-leader-du-pkk-a-berne-risque-de-facher-la-turquie.html
@@ -1421,6 +1431,7 @@
 9315349-les-votes-sur-l-appartenance-cantonale-de-moutier-n-ont-pas-ete-monnayes.html
 9315349-les-votes-sur-lappartenance-cantonale-de-moutier-nont-pas-ete-monnayes.html
 9364176-quatre-personnes-sont-mortes-dans-les-alpes-suisses-ce-week-end.html
+9364176-quatre-personnes-sont-mortes-dans-les-alpes-suisses-ce-weekend.html
 9364176-un-homme-emporte-par-une-avalanche-pres-de-gstaad-be-est-decede.html
 9378288-un-jeune-homme-arrete-apres-une-alerte-a-la-bombe-a-berne.html
 9378288-une-personne-arretee-apres-une-alerte-a-la-bombe-a-berne.html

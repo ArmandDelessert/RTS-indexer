@@ -206,6 +206,7 @@
 7473211-pres-de-1500-personnes-ont-assiste-aux-obseques-du-chef-benoit-violier.html
 7474302-daniel-brelaz-je-ne-vais-pas-faire-de-la-politique-jusqu-a-80-ans-.html
 7474302-daniel-brelaz-je-ne-vais-pas-faire-de-la-politique-jusqu-a-80-ans.html
+7474302-daniel-brelaz-je-ne-vais-pas-faire-de-la-politique-jusqua-80-ans.html
 7475572-andre-kudelski-dement-que-benoit-violier-a-ete-victime-d-une-escroquerie.html
 7475572-andre-kudelski-dement-que-benoit-violier-a-ete-victime-dune-escroquerie.html
 7475572-benoit-violier-aurait-perdu-une-somme-importante-dans-une-escroquerie.html
@@ -285,6 +286,7 @@
 7563083-claude-alain-voiblet-exclu-de-l-udc-vaud.html
 7563083-claudealain-voiblet-exclu-de-ludc-vaud.html
 7565132-l-udc-lausannoise-vole-a-la-rescousse-de-claude-alain-voiblet.html
+7565132-ludc-lausannoise-vole-a-la-rescousse-de-claudealain-voiblet.html
 7565902-les-donnees-de-70-des-vaudois-transmises-a-des-fins-publicitaires.html
 7566289-des-centaines-de-lausannois-defilent-contre-les-accords-de-dublin.html
 7573050-claude-alain-voiblet-reste-a-la-tete-de-l-udc-lausanne.html
@@ -322,6 +324,7 @@
 7612234-naissance-inattendue-de-lourson-surprise-au-juraparc-de-vallorbe-vd.html
 7613443-les-migrants-doivent-quitter-la-halle-heineken-qu-ils-occupent-a-renens.html
 7616196-le-palace-mirador-au-mont-pelerin-vd-vendu-au-groupe-chinois-dartong.html
+7616196-le-palace-mirador-au-montpelerin-vd-vendu-au-groupe-chinois-dartong.html
 7617057-les-deux-cambrioleurs-de-lucens-vd-condamnes-a-six-ans-de-prison.html
 7617057-les-deux-cambrioleurs-de-lucens-vd-ecopent-de-six-ans-de-prison.html
 7617117-la-defense-de-claude-d-fait-appel-contre-la-sanction-maximale-infligee.html
@@ -347,6 +350,7 @@
 7650316-claudealain-voiblet-exclu-de-ludc-vaud-par-les-delegues-du-parti.html
 7651542-la-municipalite-de-lausanne-redefinit-les-dicasteres-de-ses-elus.html
 7659972-lausanne-devoile-le-visage-de-sa-nouvelle-place-de-la-gare.html
+7659998-la-nouvelle-place-de-la-gare-de-lausanne.html
 7664333-debut-d-incendie-a-l-usine-merck-serono-a-corsier-sur-vevey-vd-.html
 7664333-debut-dincendie-a-lusine-merckserono-a-corsiersurvevey-vd.html
 7664333-evacuation-de-l-usine-merck-serono-a-corsier-vd-suite-a-un-incendie.html
@@ -388,6 +392,7 @@
 7723956-le-role-des-femmes-pour-l-udc-vaud-me-fait-dresser-les-cheveux-sur-la-tete-.html
 7723956-le-role-des-femmes-pour-l-udc-vaud-me-fait-dresser-les-cheveux-sur-la-tete.html
 7724395-le-conducteur-auteur-d-un-delit-de-fuite-a-morges-vd-a-ete-interpelle.html
+7724395-le-conducteur-auteur-dun-delit-de-fuite-a-morges-vd-a-ete-interpelle.html
 7724832-les-caves-ouvertes-vaudoises-ont-trouve-leur-public-ce-week-end.html
 7728856-nouvelle-offre-lacustre-sur-le-lac-de-neuchatel-depuis-yverdon-les-bains.html
 7730813-l-udc-vaud-retire-son-document-polemique-sur-la-famille.html
@@ -473,6 +478,7 @@
 7866788-lausanne-n-est-plus-aussi-dangereuse-que-par-le-passe-selon-une-etude.html
 7869979-deces-de-francoise-champoud-la-premiere-municipale-lausannoise.html
 7869979-francoise-champoud-premiere-municipale-lausannoise-est-decedee.html
+7874574-des-proprietaires-de-terrains-dezones-aux-diablerets-menacent-la-telecabine.html
 7874574-des-proprietaires-de-terrains-dezones-aux-diablerets-menacent-un-telecabine.html
 7876575-vaud-mauvais-eleve-dans-le-renvoi-des-requerants-d-asile-vers-un-autre-pays.html
 7876575-vaud-mauvais-eleve-pour-le-renvoi-des-requerants-d-asile-vers-un-autre-pays.html
@@ -493,8 +499,10 @@
 7931527-couac-du-ministere-public-vaudois-apres-une-interpellation-musclee.html
 7944371-le-centre-de-lausanne-brievement-boucle-a-cause-d-un-colis-suspect.html
 7944889-le-canton-de-vaud-veut-ameliorer-l-accueil-des-migrants-a-l-ecole.html
+7944889-le-canton-de-vaud-veut-ameliorer-laccueil-des-migrants-a-lecole.html
 7945724-une-collision-avec-une-vache-pres-d-yverdon-perturbe-le-trafic-cff-.html
 7945724-une-collision-avec-une-vache-pres-d-yverdon-perturbe-le-trafic-cff.html
+7945724-une-collision-avec-une-vache-pres-dyverdon-perturbe-le-trafic-cff.html
 7946963-lancement-d-une-application-du-chuv-pour-pallier-l-attente-aux-urgences.html
 7954360-pierre-yves-oppikofer-l-un-des-fondateurs-de-solidarites-est-decede.html
 7955508-anne-catherine-lyon-veut-briguer-un-quatrieme-mandat-au-conseil-d-etat.html
@@ -522,6 +530,7 @@
 7992427-le-patron-de-la-start-up-payernoise-s3-a-ete-violemment-agresse.html
 7992427-le-patron-de-la-startup-payernoise-s3-a-ete-violemment-agresse.html
 7994475-pierre-yves-maillard-a-envie-de-continuer-au-sein-de-l-executif-vaudois.html
+7994475-pierreyves-maillarda-enviede-continuer-au-sein-de-lexecutif-vaudois.html
 7995435-l-udc-vaudoise-veut-faire-payer-aux-detenus-leur-sejour-en-prison-.html
 7995435-un-postulat-udc-veut-faire-payer-aux-detenus-leur-sejour-en-prison-.html
 7995695-90-emplois-perdus-d-ici-2017-au-siege-de-nissan-international-a-rolle.html

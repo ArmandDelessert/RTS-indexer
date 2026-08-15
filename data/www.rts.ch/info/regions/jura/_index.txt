@@ -1206,6 +1206,7 @@
 8866616-la-halle-d-excavation-de-la-decharge-de-bonfol-demolie-a-la-dynamite.html
 8866616-la-halle-dexcavation-de-la-decharge-de-bonfol-demolie-a-la-dynamite.html
 8869944-l-auberge-du-peu-pequignot-au-noirmont-ju-ravagee-par-un-incendie.html
+8869944-lauberge-du-peupequignot-au-noirmont-ju-ravagee-par-un-incendie.html
 8874477-le-jura-va-ouvrir-la-totalite-de-son-reseau-de-bus-a-la-concurrence.html
 8878899-le-lieu-du-tableau-paysage-du-jura-de-courbet-aurait-ete-identifie.html
 8878899-le-lieu-du-tableau-paysage-du-jura-de-courbet-identifie-par-un-promeneur.html
@@ -1225,6 +1226,7 @@
 9006397-une-centaine-de-boulets-de-catapulte-retrouves-au-chateau-de-porrentruy.html
 9012153-un-groupe-citoyen-se-mobilise-dans-le-jura-contre-le-glyphosate.html
 9019489-la-gauche-regagne-la-majorite-a-l-executif-et-au-legislatif-de-delemont.html
+9019489-la-gauche-regagne-la-majorite-a-lexecutif-et-au-legislatif-de-delemont.html
 9019489-un-second-tour-determinera-qui-decrochera-la-mairie-de-porrentruy.html
 9027742-le-jura-a-ete-plus-que-froisse-par-le-projet-de-jeux-olympiques.html
 9029502-la-loi-sur-le-salaire-minimum-a-ete-adoptee-par-le-parlement-jurassien.html
@@ -1234,7 +1236,9 @@
 9055187-absente-depuis-5-ans-la-maladie-de-la-langue-bleue-reapparait-en-suisse.html
 9077062--la-saint-martin-un-moment-ou-l-on-se-reunit-pour-dire-zut-a-tout-.html
 9077062-la-saint-martin-un-moment-ou-l-on-se-reunit-pour-dire-zut-a-tout.html
+9077062-la-saintmartin-un-moment-ou-lon-se-reunit-pour-dire-zut-a-tout.html
 9078865-le-liberal-radical-gabriel-voirol-elu-a-la-mairie-de-porrentruy.html
+9078865-le-liberalradical-gabriel-voirol-elu-a-la-mairie-de-porrentruy.html
 9108542-le-parlement-jurassien-adopte-un-salaire-minimum-de-20-francs.html
 9108542-le-parlement-jurassien-adopte-un-salaire-minimum-horaire-de-20-francs.html
 9124804-un-tremblement-de-terre-en-coree-du-sud-a-des-repercussions-dans-le-jura.html
@@ -1276,6 +1280,7 @@
 9346438-les-jurassiens-consultes-le-4-mars-sur-des-sites-pour-dechets-nucleaires.html
 9358012-l-hopital-du-jura-se-separe-d-une-collaboratrice-condamnee-en-france-.html
 9358012-l-hopital-du-jura-se-separe-d-une-collaboratrice-condamnee-en-france.html
+9358012-lhopital-du-jura-se-separe-dune-collaboratrice-condamnee-en-france.html
 9372392-pas-de-levee-de-l-immunite-des-juges-jurassiens-dans-l-affaire-queloz.html
 9372392-pas-de-levee-de-limmunite-des-juges-jurassiens-dans-laffaire-queloz.html
 9377796-l-incendie-d-un-immeuble-a-delemont-mi-fevrier-cachait-un-homicide.html
@@ -1284,6 +1289,7 @@
 9391184-comptes-2017-du-canton-du-jura-juges-satisfaisants-par-le-gouvernement.html
 9391184-les-comptes-2017-du-canton-du-jura-juges-satisfaisants-par-le-gouvernement.html
 9393523-depot-d-une-initiative-pour-l-egalite-salariale-hommes-femmes-dans-le-jura.html
+9393523-depot-dune-initiative-pour-legalite-salariale-hommesfemmes-dans-le-jura.html
 9395328-petition-contre-les-ponctions-de-la-hep-bejune-sur-ses-etudiants.html
 9395328-petition-contre-les-ponctions-de-la-hepbejune-sur-ses-etudiants.html
 9417038-le-canton-du-jura-deplore-les-lenteurs-pour-le-futur-transfert-de-moutier.html

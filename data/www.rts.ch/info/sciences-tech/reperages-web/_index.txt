@@ -408,6 +408,7 @@
 7520352-la-france-menerait-des-operations-secretes-en-libye-face-au-groupe-ei.html
 7526514-chaperon-sur-le-web-un-des-nouveaux-metiers-ouverts-aux-humains-en-2035.html
 7537460-francois-hollande-se-fait-insulter-en-direct-sur-l-application-periscope.html
+7537460-francois-hollande-se-fait-insulter-en-direct-sur-lapplication-periscope.html
 7542311-aux-etats-unis-pic-des-recherches-google-sur-l-emigration-au-canada.html
 7554532-sculpture-de-neige-monumentale-en-attendant-game-of-thrones-.html
 7565770-les-iles-tokelau-numero-un-mondial-meconnu-des-noms-de-domaines.html
@@ -473,9 +474,11 @@
 7874029-des-entreprises-alimentaires-cherchent-a-deposer-la-marque-brexit-.html
 7874029-des-entreprises-alimentaires-cherchent-a-deposer-la-marque-brexit.html
 7875484-le-coiffeur-de-francois-hollande-paye-pres-de-10-000-euros-par-mois.html
+7875484-le-coiffeur-de-francois-hollande-paye-pres-de-10000-euros-par-mois.html
 7876192-une-enquete-accuse-jean-marc-morandini-de-pratiques-glauques-.html
 7876192-une-enquete-accuse-jeanmarc-morandini-de-pratiques-glauques.html
 7892933-quand-la-folie-pokemon-go-sert-a-attirer-l-attention-sur-le-drame-syrien.html
+7892933-quand-la-folie-pokemon-go-sert-a-attirer-lattention-sur-le-drame-syrien.html
 7894943-les-6000-pages-du-rapport-chilcot-seront-lues-en-public-a-edimbourg.html
 7912119-fausse-alerte-au-seisme-declenchee-au-japon-peut-etre-a-cause-de-la-foudre.html
 7913934-un-emoji-pisolet-a-eau-pour-reduire-symboliquement-la-violence-des-armes.html
@@ -637,6 +640,7 @@
 8858041-j-ai-mal-aux-yeux-une-requete-google-en-hausse-apres-l-eclipse.html
 8866563-mille-ans-avant-la-naissance-de-pythagore-son-theoreme-etait-connu.html
 8900296-la-presentatrice-tv-en-rose-l-arme-de-propagande-du-regime-nord-coreen.html
+8900296-la-presentatrice-tv-en-rose-larme-de-propagande-du-regime-nordcoreen.html
 8968375-l-enquete-sur-les-delateurs-d-anne-frank-rouverte-par-un-ex-agent-du-fbi.html
 8973368-donald-trump-a-depasse-le-pape-en-tant-que-leader-le-plus-suivi-sur-twitter.html
 8984613-mike-pence-quitte-un-match-de-foot-americain-vraie-colere-ou-coup-de-com-.html
@@ -653,6 +657,7 @@
 9213817-payer-un-homme-davantage-qu-une-femme-est-desormais-illegal-en-islande.html
 9213817-payer-un-homme-davantage-quune-femme-est-desormais-illegal-en-islande.html
 9224744-decouverte-d-un-nombre-premier-record-comptant-23-249-425-chiffres.html
+9224744-decouverte-dun-nombre-premier-record-comptant-23249425-chiffres.html
 9261684-les-avions-malmenes-par-la-tempete-friederike-lors-de-leurs-atterrissages.html
 9279349-une-faille-de-tinder-permet-d-espionner-l-activite-des-utilisateurs.html
 9279349-une-faille-de-tinder-permet-despionner-lactivite-des-utilisateurs.html

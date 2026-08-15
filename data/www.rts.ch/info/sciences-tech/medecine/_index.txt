@@ -795,6 +795,7 @@
 9092046-la-somniloquie-ce-langage-souvent-ordurier-qui-accompagne-nos-reves.html
 9092106-mise-en-garde-contre-la-toxicite-de-certains-medicaments-sans-ordonnance.html
 9101141-quelques-conseils-pour-aider-son-enfant-a-s-endormir-tout-seul.html
+9101141-quelques-conseils-pour-aider-son-enfant-a-sendormir-tout-seul.html
 9126756--transplanter-un-coeur-c-est-plus-qu-une-operation-selon-rene-pretre.html
 9126756-transplanter-un-coeur-c-est-plus-qu-une-operation-selon-rene-pretre.html
 9126756-transplanter-un-coeur-cest-plus-quune-operation-selon-rene-pretre.html
@@ -803,6 +804,7 @@
 9165799-un-centre-pour-muscles-artificiels-cree-a-l-epfl-grace-a-une-donation.html
 9165799-un-centre-pour-muscles-artificiels-cree-a-lepfl-grace-a-une-donation.html
 9242555-l-ofsp-se-defend-de-limiter-le-contact-entre-le-medecin-et-le-patient.html
+9242555-lofsp-se-defend-de-limiter-le-contact-entre-le-medecin-et-le-patient.html
 9248612-le-blue-monday-ou-quand-la-deprime-hivernale-est-a-son-apogee-.html
 9248612-le-blue-monday-ou-quand-la-deprime-hivernale-est-a-son-apogee.html
 9271208-l-osteoporose-au-coeur-d-un-scandale-decouvert-a-lausanne.html

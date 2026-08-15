@@ -373,6 +373,7 @@
 7502132-gros-cerveau-rime-avec-extinction-selon-un-chercheur-de-stanford.html
 7502290-nouvelle-espece-de-tortue-d-eau-douce-decouverte-en-nouvelle-guinee.html
 7503051-le-nombre-d-attaques-au-pointeur-laser-contre-des-avions-a-explose.html
+7503051-le-nombre-dattaques-au-pointeur-laser-contre-des-avions-a-explose.html
 7503758-le-pole-valaisan-de-l-epfl-a-depasse-les-attentes-en-un-an-d-existence.html
 7506335-des-chercheurs-canadiens-presentent-le-premier-smartphone-flexible.html
 7506520-les-couples-tendraient-a-avoir-des-systemes-immunitaires-similaires.html
@@ -463,6 +464,7 @@
 7612452-le-human-brain-project-entre-dans-sa-phase-operationnelle.html
 7614186-travaux-pour-geler-le-sol-autour-de-la-centrale-nucleaire-de-fukushima.html
 7615798-un-humain-sur-cinq-pourrait-etre-obese-dans-le-monde-d-ici-dix-ans.html
+7615798-un-humain-sur-cinq-pourrait-etre-obese-dans-le-monde-dici-dix-ans.html
 7617106--on-ne-parle-plus-de-moi-comme-d-un-autiste-mais-comme-d-un-ecrivain-.html
 7617106-on-ne-parle-plus-de-moi-comme-d-un-autiste-mais-comme-d-un-ecrivain.html
 7617106-on-ne-parle-plus-de-moi-comme-dun-autiste-mais-comme-dun-ecrivain.html
@@ -508,6 +510,7 @@
 7662493-le-paludisme-a-disparu-en-europe-en-asie-centrale-et-dans-le-caucase.html
 7663994-une-tenue-efficace-contre-les-epidemies-mise-au-point-en-suisse.html
 7667440-solar-impulse-2-s-envole-de-hawai-et-reprend-son-tour-du-monde.html
+7667440-solar-impulse-2-senvole-de-hawai-et-reprend-son-tour-du-monde.html
 7671924-hubble-fete-son-26e-anniversaire-avec-une-nebuleuse-spectaculaire.html
 7672545-nouvelle-etape-reussie-pour-solar-impulse-entre-hawai-et-la-californie.html
 7672592-la-depakine-un-medicament-contre-l-epilepsie-qui-nuit-aux-foetus.html
@@ -566,6 +569,7 @@
 7714021--un-monopole-de-grandes-entreprises-du-net-ne-respecte-presque-aucune-loi-.html
 7714021-un-monopole-de-grandes-entreprises-du-net-ne-respecte-presque-aucune-loi.html
 7717143-solar-impulse-2-entame-un-vol-de-plus-de-17-heures-a-travers-les-etats-unis.html
+7717143-solar-impulse-2-entame-un-vol-de-plus-de-17-heures-a-travers-les-etatsunis.html
 7717302-test-de-propulsion-pour-des-trains-a-tres-grande-vitesse-aux-etats-unis.html
 7717302-test-de-propulsion-pour-des-trains-a-tres-grande-vitesse-aux-etatsunis.html
 7718327-avancee-dans-la-lutte-contre-la-tuberculose-multiresistante.html
@@ -576,6 +580,7 @@
 7724379-le-plus-gros-paquebot-du-monde-a-quitte-le-port-de-saint-nazaire.html
 7724379-le-plus-gros-paquebot-du-monde-a-quitte-le-port-de-saintnazaire.html
 7724561-l-union-europeenne-pourrait-infliger-3-milliards-d-euros-d-amende-a-google.html
+7724561-lunion-europeenne-pourrait-infliger-3-milliards-deuros-damende-a-google.html
 7725882-tresor-antique-sauve-par-un-naufrage-decouvert-dans-le-port-de-cesaree.html
 7725884-vingt-sept-baleines-s-echouent-sur-une-plage-mexicaine.html
 7726815-le-glyphosate-probablement-pas-cancerigene-selon-une-nouvelle-etude.html
@@ -584,6 +589,7 @@
 7728294-la-station-spatiale-iss-a-fait-le-tour-de-la-terre-pour-la-100-000e-fois.html
 7728328-un-clone-americain-du-virus-zika-pour-accelerer-la-decouverte-d-un-vaccin.html
 7728745-l-obesite-maternelle-augmente-de-50-le-risque-d-obesite-chez-l-enfant.html
+7728745-lobesite-maternelle-augmente-de-50-le-risque-dobesite-chez-lenfant.html
 7731510-un-nouveau-rapport-americain-avance-que-les-ogm-ne-sont-pas-nefastes.html
 7732286-runkeeper-l-application-qui-court-apres-les-donnees-meme-inactive.html
 7732286-runkeeper-lapplication-qui-court-apres-les-donnees-meme-inactive.html
@@ -613,6 +619,7 @@
 7758208-un-module-gonflable-dans-l-espace-le-pari-de-la-nasa-sur-le-point-de-reussir.html
 7758208-un-module-gonflable-dans-l-espace-le-test-reussi-de-la-nasa.html
 7758208-un-module-gonflable-dans-lespace-le-pari-de-la-nasa-sur-le-point-de-reussir.html
+7758208-un-module-gonflable-dans-lespace-le-test-reussi-de-la-nasa.html
 7758246-images-en-camera-embarquee-de-l-atterrissage-de-la-fusee-de-spacex.html
 7760890-une-partie-de-la-grande-barriere-de-corail-australienne-est-mourante.html
 7760890-une-partie-de-la-grande-barriere-de-corail-est-mourante.html
@@ -709,6 +716,7 @@
 7877756-decouverte-d-un-nouveau-dinosaure-aux-airs-de-tyrannosaure.html
 7877758-surpoids-et-obesite-reduiraient-l-esperance-de-vie-de-1-a-10-ans.html
 7879638-l-epidemie-de-zika-devrait-s-eteindre-dans-les-trois-ans-selon-une-etude.html
+7879638-lepidemie-de-zika-devrait-seteindre-dans-les-trois-ans-selon-une-etude.html
 7879701-la-perte-de-biodiversite-une-menace-pour-les-societes-humaines.html
 7882807-le-jeu-video-pokemon-go-est-officiellement-disponible-en-suisse-.html
 7885833-les-marais-irakiens-asseches-par-saddam-hussein-classes-a-lunesco.html
@@ -719,6 +727,7 @@
 7895228-le-dernier-fabricant-de-magnetoscopes-au-monde-cesse-la-production.html
 7896586-le-russe-konioukhov-bat-le-record-du-tour-du-monde-en-montgolfiere.html
 7897845-solar-impulse-2-quitte-l-egypte-pour-la-derniere-etape-de-son-tour-du-monde.html
+7897845-solar-impulse-2-quitte-legypte-pour-la-derniere-etape-de-son-tour-du-monde.html
 7897903-des-bacteries-d-au-moins-15-millions-d-annees-dans-nos-intestins.html
 7897903-des-bacteries-dau-moins-15-millions-dannees-dans-nos-intestins.html
 7900800-zika-pourrait-engendrer-des-dizaines-de-milliers-de-bebes-malformes.html
@@ -797,6 +806,7 @@
 7967019-whatsapp-va-partager-les-numeros-de-ses-utilisateurs-avec-facebook.html
 7968308-premiere-detection-d-une-onde-sismique-s-apres-un-micro-seisme.html
 7968769-de-graves-failles-de-securite-permettaient-d-espionner-les-iphones.html
+7968769-de-graves-failles-de-securite-permettaient-despionner-les-iphones.html
 7969562--il-ne-suffit-pas-d-inventer-il-faut-encore-prouver-que-l-idee-est-bonne-.html
 7970944-barack-obama-cree-la-plus-grande-reserve-marine-du-monde-a-hawai.html
 7970944-obama-va-creer-la-plus-grande-reserve-naturelle-marine-du-monde-a-hawai.html

@@ -1,4 +1,3 @@
-./
 !2480063-soiree-chanson-bleu-musique-du-01-10-2010.html
 !2482615-soiree-chanson-bleu-musique-du-08-10-2010.html
 !2533328-soiree-chanson-bleu-musique-du-15-10-2010.html
@@ -101,7 +100,6 @@
 !4699667-soiree-chanson-bleu-musique-du-15-03-2013.html
 !4718977-soiree-chanson-bleu-musique-du-22-03-2013.html
 !4740634-soiree-chanson-bleu-musique-du-29-03-2013.html
-4760922-sarclo-en-concert-05-04-2013.html
 !4760923-soiree-chanson-bleu-musique-du-05-04-2013.html
 !4779298-soiree-chanson-bleu-musique-du-12-04-2013.html
 !4795185-soiree-chanson-bleu-musique-du-19-04-2013.html
@@ -122,21 +120,4 @@
 !5245583-soiree-chanson-bleu-musique-du-11-10-2013.html
 !5265119-soiree-chanson-bleu-musique-du-18-10-2013.html
 !5283165-soiree-chanson-bleu-musique-du-25-10-2013.html
-5302241-alex-beaupain-a-besancon-01-11-2013.html
-5321051-thierry-romanens-et-ses-invites-08-11-2013.html
-5339791-iuball-kollettivo-musicale-15-11-2013.html
-5359377-les-anglofolies-2013-22-11-2013.html
-5377555-lara-brown-et-nill-klemm-29-11-2013.html
-5396370-chansons-d-ici-et-d-ici-06-12-2013.html
-5397014-les-anglofolies-2013.html
-5397392-lara-brown-et-nill-klemm-a-l-esprit-frappeur.html
-5415039-finale-du-festival-de-granby-13-12-2013.html
-5432999-soiree-chanson-bleu-musique-20-12-2013.html
-5453458-soiree-chanson-bleu-musique-27-12-2013.html
-5473153-soiree-chanson-bleu-musique-03-01-2014.html
-5481691-les-anglofolies-2013-10-01-2014.html
-5500157-ostap-bender-au-festival-les-anglofolies-17-01-2014.html
-5765179-nicolas-fraissinet-a-voix-de-fete-25-04-2014.html
-5817119-pierre-lautomne-en-live-16-05-2014.html
-5926189-sylvie-bourban-en-live-27-06-2014.html
 !5926190-soiree-chanson-bleu-musique-du-27-06-2014.html

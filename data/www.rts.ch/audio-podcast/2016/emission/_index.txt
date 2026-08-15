@@ -2,7 +2,9 @@
 a-l-abordage-25000237.html
 babel-25000879.html
 bang-25006840.html
+blues-en-scene-25005970.html
 c-est-ma-question-25000307.html
+c-est-un-monde-25005731.html
 cadeau-musical-25005845.html
 caracteres-25004105.html
 chacun-pour-tous-25006013.html
@@ -16,6 +18,7 @@ culture-au-point-25005243.html
 de-l-espace-25002628.html
 deux-heures-avant-la-nuit-25006147.html
 elodie-a-dit-25005867.html
+fresh-pop-25006078.html
 gens-du-pays-25005679.html
 giuseppe-25005667.html
 hors-piste-total-25005913.html
@@ -33,15 +36,18 @@ la-dinde-du-jour-25005489.html
 la-matinale-25002993.html
 la-matinale-du-samedi-25003474.html
 la-note-bleue-25000309.html
+la-route-aux-4-chansons-25006269.html
 la-suisse-devisse-25005884.html
 la-thematique-25006339.html
 la-vie-des-gens-25005204.html
+le-gout-des-notes-25007024.html
 le-gros-bisou-25005568.html
 le-son-du-jour-25001579.html
 le-tresgrosshow-25006839.html
 le-turboshow-25004356.html
 le-turboshow-best-of-25006092.html
 les-beaux-parleurs-25000971.html
+les-fantaisies-du-music-hall-25005761.html
 les-fetes-de-la-3-25001767.html
 les-iles-25005347.html
 les-justes-prix-25006737.html
@@ -52,6 +58,7 @@ les-sales-recettes-25006273.html
 les-unes-25006055.html
 magnetique-25004104.html
 marie-dans-sa-cage-25004101.html
+michel-polnareff-auto-bio-25006189.html
 moi-president-25001672.html
 nectar-25002110.html
 nez-a-nez-25003731.html
@@ -61,6 +68,7 @@ pop-fetes-pop-story-25002739.html
 poussiere-d-etoile-25003010.html
 premier-rendez-vous-25000354.html
 quai-des-orfevres-25002995.html
+que-sont-ils-devenus-25007027.html
 reveil-a-3-25004657.html
 rhinoferoce-25001102.html
 rtsculture-25003507.html
@@ -68,6 +76,7 @@ sortir-avec-anne-25005312.html
 sous-les-paves-25003390.html
 sous-les-paves-25004630.html
 suivez-le-guide-25005683.html
+terre-d-espagne-25006174.html
 versus-25002687.html
 versus-ecouter-25003387.html
 versus-lire-25003580.html

@@ -293,6 +293,7 @@
 7461132-l-avenir-artistique-du-musee-d-art-et-d-histoire-de-geneve-devoile.html
 7461762-un-mois-apres-lalerte-terroriste-a-geneve-des-enquetes-au-point-mort.html
 7463602-le-conseiller-d-etat-genevois-poggia-critique-vaud-pour-sa-politique-d-asile.html
+7463602-le-conseiller-detat-genevois-poggia-critique-vaud-pour-sa-politique-dasile.html
 7464021-les-genevois-se-prononceront-sur-les-allegements-fiscaux-aux-entreprises.html
 7464208-le-batiment-provisoire-de-l-opera-des-nations-inaugure-a-geneve.html
 7464208-le-batiment-provisoire-de-lopera-des-nations-inaugure-a-geneve.html
@@ -304,6 +305,7 @@
 7479433-geneve-lance-une-formation-d-adultes-contre-le-cyber-harcelement.html
 7479433-geneve-lance-une-formation-dadultes-contre-le-cyberharcelement.html
 7481929-un-homme-ouvre-le-feu-sur-la-police-a-geneve-avant-d-etre-tue.html
+7481929-un-homme-ouvre-le-feu-sur-la-police-a-geneve-avant-detre-tue.html
 7481929-un-octogenaire-ouvre-le-feu-sur-la-police-a-geneve-apres-avoir-tue-sa-femme.html
 7481929-un-octogenaire-ouvre-le-feu-sur-la-police-a-geneve-avant-d-etre-tue.html
 7484040-le-procureur-genevois-olivier-jornot-est-sous-enquete-disciplinaire.html
@@ -318,6 +320,7 @@
 7497644-l-alternative-des-opposants-a-la-renovation-du-musee-d-art-et-d-histoire-de-geneve.html
 7497644-lalternative-des-opposants-a-la-renovation-du-musee-dart-et-dhistoire-de-geneve.html
 7497820-l-avocat-genevois-dominique-warluzel-libere-sous-caution.html
+7497820-lavocat-genevois-dominique-warluzel-libere-sous-caution.html
 7499486-deux-series-de-vols-de-nuit-autorisees-a-l-aeroport-de-geneve.html
 7499932-des-premieres-mondiales-attendues-au-salon-de-l-auto-de-geneve.html
 7499932-le-salon-de-l-auto-de-geneve-accueillera-plusieurs-premieres-mondiales.html
@@ -332,6 +335,7 @@
 7514138-semaine-de-mobilisation-des-taxis-genevois-contre-la-concurrence-duber.html
 7514799-les-delais-de-ladministration-fiscale-genevoise-juges-trop-longs.html
 7517388-des-lignes-telephoniques-genevoises-espionnees-par-les-etats-unis.html
+7517388-des-lignes-telephoniques-genevoises-espionnees-par-les-etatsunis.html
 7521261-l-autoroute-de-contournement-a-geneve-sera-elargie-des-2018.html
 7521261-lautoroute-de-contournement-a-geneve-sera-elargie-des-2018.html
 7521470-une-clinique-genevoise-refuse-d-accueillir-l-avocat-dominique-warluzel.html
@@ -363,6 +367,7 @@
 7546132-geneve-veut-renforcer-son-reseau-de-soins-pour-les-aines.html
 7546132-le-canton-de-geneve-veut-renforcer-son-reseau-de-soins-pour-les-aines.html
 7547372-plus-de-200-taxis-ont-proteste-contre-uber-a-l-aeroport-de-geneve.html
+7547372-plus-de-200-taxis-ont-proteste-contre-uber-a-laeroport-de-geneve.html
 7547372-plus-de-200-taxis-protestent-contre-uber-a-l-aeroport-de-geneve.html
 7550188--il-faudrait-quelqu-un-comme-jacques-eynard-pour-relancer-le-projet-de-mah-.html
 7550188--il-faudrait-quelqu-un-comme-jacques-hainard-pour-relancer-le-projet-de-mah-.html
@@ -418,6 +423,7 @@
 7630366-encadrer-des-refugies-mineurs-est-essentiel-vu-quils-resteront-en-suisse.html
 7630703-suite-aux-panama-papers-la-justice-genevoise-a-ouvert-des-procedures.html
 7634347-a-geneve-l-executif-veut-50-millions-pour-rajeunir-ses-feux-de-circulation.html
+7634347-a-geneve-lexecutif-veut-50-millions-pour-rajeunir-ses-feux-de-circulation.html
 7634661-perquisition-aux-ports-francs-de-geneve-dans-l-affaire-du-modigliani.html
 7634661-perquisition-aux-ports-francs-de-geneve-dans-laffaire-du-modigliani.html
 7635677-un-rapport-critique-la-fondation-des-immeubles-de-la-geneve-internationale.html
@@ -470,6 +476,7 @@
 7691131-importants-degats-et-evacuation-partielle-a-geneve-suite-a-un-incendie.html
 7691954-plusieurs-quartiers-de-geneve-prives-d-electricite.html
 7691954-plusieurs-quartiers-du-centre-de-geneve-prives-d-electricite.html
+7691954-plusieurs-quartiers-du-centre-de-geneve-prives-delectricite.html
 7696803-geneve-veut-doper-le-tourisme-de-loisir-avec-des-nuits-gratuites.html
 7698263-eric-stauffer-demissionne-du-mcg-et-pourrait-quitter-le-grand-conseil.html
 7698263-eric-stauffer-demissionne-du-mcg-et-va-quitter-le-grand-conseil.html
@@ -518,6 +525,7 @@
 7749743-le-scrutin-du-5-juin-en-ville-de-geneve-pourrait-etre-annule-par-un-recours.html
 7752159-une-course-poursuite-de-la-police-francaise-sur-sol-genevois-cree-le-malaise.html
 7753432-le-management-du-musee-d-art-et-d-histoire-de-geneve-a-nouveau-critique.html
+7753432-le-management-du-musee-dart-et-dhistoire-de-geneve-a-nouveau-critique.html
 7757829-des-renforts-policiers-a-geneve-pour-faire-face-a-trois-gros-evenements.html
 7758335-des-milliers-de-manifestants-defilent-a-geneve-pour-lutter-contre-l-austerite.html
 7763219-geneve-ambitionne-de-devenir-leader-europeen-dans-la-chirurgie-de-pointe.html
@@ -606,6 +614,7 @@
 7902935-l-un-des-auteurs-de-l-attaque-d-une-eglise-en-france-avait-ete-arrete-a-geneve.html
 7902935-lun-des-auteurs-de-lattaque-dune-eglise-en-france-avait-ete-arrete-a-geneve.html
 7903606-l-unique-garderie-d-enfants-parentale-de-geneve-sommee-de-se-normaliser.html
+7903606-lunique-garderie-denfants-parentale-de-geneve-sommee-de-se-normaliser.html
 7904501-mesures-de-securite-exceptionnelles-a-l-aeroport-de-geneve.html
 7904501-mesures-de-securite-exceptionnelles-a-laeroport-de-geneve.html
 7904501-securite-renforcee-a-l-aeroport-de-geneve-par-crainte-d-un-attentat.html

@@ -142,9 +142,11 @@
 8090701-pme-les-etrangers-ontils-moins-peur-dentreprendre.html
 8090723-airbus-livre-son-10-000e-avion-un-a350-destine-a-singapore-airlines.html
 8090739-avec-86-milliards-les-recettes-des-cantons-n-ont-jamais-ete-aussi-elevees.html
+8090739-avec-86-milliards-les-recettes-des-cantons-nont-jamais-ete-aussi-elevees.html
 8091108--les-negociations-avec-tamedia-sont-un-echec-selon-le-personnel.html
 8093409-le-patron-de-la-finma-veut-changer-le-systeme-d-audit-des-banques.html
 8093599-la-competitivite-des-pme-suisses-de-l-industrie-des-machines-est-menacee.html
+8093599-la-competitivite-des-pme-suisses-de-lindustrie-des-machines-est-menacee.html
 8095325-bisbille-entre-departements-federaux-a-propos-d-exportations-d-armes.html
 8095325-bisbille-entre-departements-federaux-a-propos-dexportations-darmes.html
 8095428-autrefois-paradis-fiscal-le-micro-etat-de-saint-marin-au-bord-de-la-faillite.html
@@ -156,6 +158,7 @@
 8102274-les-clients-de-swisscard-pourront-bientot-utiliser-apple-pay.html
 8102516-les-dix-domaines-skiables-les-plus-chers-en-europe-se-trouvent-en-suisse.html
 8104930-les-exportations-suisses-depassent-le-niveau-d-avant-la-fin-du-taux-plancher.html
+8104930-les-exportations-suisses-depassent-le-niveau-davant-la-fin-du-taux-plancher.html
 8105235-le-conseil-federal-presente-cinq-axes-pour-renforcer-la-place-financiere-.html
 8105696-le-transformateur-de-viande-bell-fermera-son-usine-de-cheseaux-vd-.html
 8107752-le-groupe-aeronautique-bombardier-veut-supprimer-7500-postes-d-ici-2018.html
@@ -276,6 +279,7 @@
 8217354-credit-suisse-ecope-d-une-amende-de-16-5-millions-aux-etats-unis.html
 8218524-l-eurogroupe-valide-un-allegement-de-la-dette-grecque.html
 8223262-une-nouvelle-affaire-de-fraude-fiscale-secoue-credit-suisse-aux-etats-unis.html
+8223262-une-nouvelle-affaire-de-fraude-fiscale-secoue-credit-suisse-aux-etatsunis.html
 8223766-les-accords-fiscaux-pour-les-multinationales-ont-triple-dans-l-ue.html
 8223860-credit-suisse-veut-realiser-davantage-d-economies-d-ici-a-2018.html
 8224151-les-magasins-charles-vogele-rachetes-par-le-groupe-italien-sempione-retail.html
@@ -362,6 +366,7 @@
 8302106-les-ventes-mondiales-de-pc-en-recul-pour-la-5e-annee-de-suite.html
 8302159-les-ventes-de-richemont-au-3e-trimestre-depassent-les-attentes.html
 8302626-les-exportations-de-la-pharma-suisse-vers-la-chine-explosent-depuis-2010.html
+8302666-echec-dubs-contre-une-caution-de-plus-dun-milliard-deuros-en-france.html
 8302712-les-taux-hypothecaires-remontent-apres-un-plus-bas-historique.html
 8302882-les-entreprises-suisses-investissent-toujours-plus-dans-la-recherche.html
 8303550-une-montre-en-vacherin-mont-d-or-pour-defendre-le-label-swiss-made-.html
@@ -468,6 +473,7 @@
 8430833-la-maison-mere-de-snapchat-debarque-en-fanfare-a-wall-street.html
 8430833-la-maison-mere-de-snapchat-prend-44-en-entrant-en-bourse.html
 8432077-caterpillar-perquisitionne-aux-etats-unis-a-cause-d-une-filiale-suisse.html
+8432077-caterpillar-perquisitionne-aux-etatsunis-a-cause-dune-filiale-suisse.html
 8432578-tamedia-pourrait-supprimer-des-titres-romands-dans-les-5-prochaines-annees.html
 8436398-la-chine-abaisse-son-objectif-de-croissance-economique-pour-2017.html
 8438527-le-groupe-francais-peugeot-citroen-rachete-opel-pour-1-3-milliard-d-euros.html
@@ -524,6 +530,7 @@
 8524321-les-couts-du-travail-vont-du-simple-au-decuple-dans-les-pays-de-l-ue.html
 8526066-le-groupe-de-pret-a-porter-yendi-en-proie-a-des-difficultes-financieres.html
 8526147-la-frc-denonce-le-duopole-de-migros-et-coop.html
+8526898-novartis-aurait-soudoye-des-milliers-de-personnes-en-grece.html
 8526992-la-guerre-de-la-cigarette-du-futur-et-son-tabac-chauffe-se-joue-en-suisse.html
 8527170-la-fondation-ethos-veut-faire-le-menage-a-la-tete-de-credit-suisse.html
 8528687-le-financement-participatif-pour-payer-un-traitement-medical-inaccessible.html
@@ -563,6 +570,7 @@
 8574483-la-bns-realise-un-benefice-de-7-9-milliards-au-premier-trimestre.html
 8574598-premiere-hausse-des-exportations-horlogeres-depuis-20-mois.html
 8577940-le-pouvoir-d-achat-des-suisses-a-legerement-augmente-en-2016.html
+8577940-le-pouvoir-dachat-des-suisses-a-legerement-augmente-en-2016.html
 8577985-greenpeace-perturbe-l-assemblee-generale-de-credit-suisse-a-zurich.html
 8577985-greenpeace-perturbe-lassemblee-generale-de-credit-suisse-a-zurich.html
 8578082-l-entrepreneur-genevois-christophe-barman-prend-la-tete-de-la-frc.html
@@ -596,6 +604,7 @@
 8604281-la-suisse-manque-d-ingenieurs-indigenes-souligne-une-enquete.html
 8604281-la-suisse-manque-dingenieurs-indigenes-souligne-une-enquete.html
 8606481-le-taux-de-chomage-a-diminue-a-3-3-en-suisse-le-mois-dernier.html
+8606481-le-taux-de-chomage-a-diminue-a-33-en-suisse-le-mois-dernier.html
 8610376-apple-vaut-desormais-plus-de-800-milliards-de-dollars-en-bourse.html
 8610620-la-banque-nationale-suisse-devoile-le-nouveau-billet-de-20-francs.html
 8610734-la-suisse-romande-parmi-les-dix-regions-les-plus-prosperes-d-europe.html
@@ -603,6 +612,7 @@
 8613060--il-est-tres-important-de-conserver-la-suissitude-de-syngenta-.html
 8613060-il-est-tres-important-de-conserver-la-suissitude-de-syngenta.html
 8613235-snapchat-perd-2-2-milliards-en-un-trimestre-et-s-effondre-en-bourse.html
+8613235-snapchat-perd-22-milliards-en-un-trimestre-et-seffondre-en-bourse.html
 8613300-l-ue-releve-sa-prevision-de-croissance-pour-2017-dans-la-zone-euro.html
 8613518-la-plateforme-en-ligne-moneyhouse-contrainte-de-revoir-ses-pratiques.html
 8614092-les-resultats-de-la-lutte-contre-le-dumping-salarial-sont-assez-stables-.html
@@ -638,16 +648,22 @@
 8644383-l-internationale-face-a-la-multinationale-le-duel-brabeck-ziegler.html
 8647614-la-societe-uber-admet-avoir-sous-paye-ses-chauffeurs-a-new-york.html
 8647661-le-nombre-d-emplois-lies-aux-energies-renouvelables-a-double-dans-le-monde.html
+8647661-toujours-plus-demplois-lies-aux-energies-renouvelables-dans-le-monde.html
 8647697-sunrise-vend-2239-mats-d-antenne-a-l-espagnol-cellnex-telecom.html
+8647697-sunrise-vend-2239-mats-dantenne-a-lespagnol-cellnex-telecom.html
 8647929-un-revenu-de-base-est-inefficace-pour-lutter-contre-la-pauvrete-selon-l-ocde.html
 8647929-un-revenu-de-base-est-inefficace-pour-lutter-contre-la-pauvrete-selon-locde.html
 8648313-l-agence-moody-s-abaisse-la-note-de-la-dette-chinoise-pekin-proteste.html
 8650677-plus-de-1300-membres-du-personnel-d-alitalia-mis-au-chomage-technique.html
+8650677-plus-de-1300-membres-du-personnel-dalitalia-mis-au-chomage-technique.html
 8651977-plainte-liee-au-dieselgate-deposee-contre-general-motors-aux-etats-unis.html
+8651977-plainte-liee-au-dieselgate-deposee-contre-general-motors-aux-etatsunis.html
 8651992-l-opep-prolonge-ses-quotas-de-production-de-petrole-de-9-mois-.html
 8651992-l-opep-prolonge-ses-quotas-de-production-de-petrole-de-9-mois.html
+8651992-lopep-prolonge-ses-quotas-de-production-de-petrole-de-9-mois.html
 8654945-en-france-le-tgv-va-changer-de-nom-des-juillet-et-devenir-inoui-.html
 8658680-l-emploi-a-legerement-augmente-en-suisse-au-cours-du-1er-trimestre.html
+8658680-lemploi-a-legerement-augmente-en-suisse-au-cours-du-1er-trimestre.html
 8660012-les-genereux-donateurs-de-l-oms-orientent-ils-sa-politique-.html
 8660012-les-genereux-donateurs-de-loms-oriententils-sa-politique.html
 8661380-credit-suisse-ecope-dune-amende-a-singapour-dans-le-scandale-1mdb.html
@@ -685,6 +701,7 @@
 8691352-bombardier-na-pas-tenu-toutes-ses-promesses-envers-leconomie-suisse.html
 8691469-le-pari-perdu-de-theresa-may-fait-baisser-la-livre-pas-les-bourses.html
 8694588--je-ne-vois-pas-de-montee-des-taux-d-interets-dans-les-deux-ans-.html
+8694588-je-ne-vois-pas-de-montee-des-taux-dinterets-dans-les-deux-ans.html
 8694588-je-ne-vois-pas-de-remontee-des-taux-d-interets-dans-les-deux-ans.html
 8694610-nouvel-elan-pour-la-creation-d-un-fonds-souverain-de-la-bns.html
 8696645-les-importateurs-sanctionnes-pour-des-voitures-neuves-trop-polluantes.html
@@ -736,6 +753,7 @@
 8726880-une-societe-financiere-s-empare-de-l-ancienne-marque-de-credit-suisse.html
 8726880-une-societe-s-empare-du-logo-de-credit-suisse-symbole-du-mythique-bonnet.html
 8727383-migros-quitte-l-interprofession-qui-fixe-le-prix-indicatif-du-lait.html
+8727383-migros-quitte-linterprofession-qui-fixe-le-prix-indicatif-du-lait.html
 8728781-le-groupe-balois-syngenta-condamne-a-payer-plus-de-200-millions-de-francs.html
 8730691-ticketcorner-va-faire-recours-contre-la-decision-de-la-comco.html
 8731722-l-italie-versera-jusqu-a-17-milliards-pour-le-sauvetage-de-deux-banques.html
@@ -751,6 +769,7 @@
 8741972-le-benefice-des-banques-suisses-a-diminue-de-moitie-en-2016.html
 8744091-la-centrale-au-gaz-naturel-de-chavalon-vs-ne-sera-pas-construite.html
 8744439-bombardier-s-engage-a-produire-la-commande-des-cff-en-suisse.html
+8744439-bombardier-sengage-a-produire-la-commande-des-cff-en-suisse.html
 8746388-envoyer-une-lettre-coutera-plus-cher-ces-prochaines-annees-en-suisse.html
 8746899--le-fmi-ne-compte-plus-participer-a-un-plan-de-sauvetage-de-la-grece-.html
 8746899-le-fmi-ne-compte-plus-participer-a-un-plan-de-sauvetage-de-la-grece.html
@@ -772,6 +791,7 @@
 8760789-le-taux-de-chomage-en-suisse-n-a-jamais-ete-aussi-bas-depuis-2015.html
 8761538-bombardier-va-supprimer-45-emplois-fixes-cette-annee-en-suisse.html
 8764581-en-suisse-le-temps-de-travail-a-baisse-d-un-tiers-depuis-les-annees-1950.html
+8764581-en-suisse-le-temps-de-travail-a-baisse-dun-tiers-depuis-les-annees-1950.html
 8765302-les-cff-ont-envisage-de-remplacer-le-retardataire-bombardier.html
 8767422-l-euro-passe-au-dela-de-1-10-franc-pour-la-premiere-fois-en-dix-mois.html
 8767422-leuro-passe-audela-de-110-franc-pour-la-premiere-fois-en-dix-mois.html
@@ -788,11 +808,13 @@
 8775220-daimler-aurait-manipule-les-moteurs-de-pres-d-un-million-de-voitures-.html
 8775660-les-entreprises-doivent-miser-davantage-sur-les-seniors-selon-ubs.html
 8776897-les-transports-publics-lancent-une-carte-journaliere-des-29-francs.html
+8777475-honda-rappelle-12-million-de-vehicules-aux-etatsunis.html
 8777854-easyjet-cree-une-compagnie-aerienne-a-vienne-pour-contourner-le-brexit.html
 8777854-easyjet-s-installe-a-vienne-pour-contourner-le-brexit.html
 8784241-netflix-a-gagne-plus-de-cinq-millions-d-abonnes-au-second-trimestre.html
 8784241-netflix-a-gagne-plus-de-cinq-millions-dabonnes-au-second-trimestre.html
 8785476-la-suisse-est-le-pays-qui-a-investi-le-plus-dans-l-ue-l-an-dernier.html
+8785476-la-suisse-est-le-pays-qui-a-investi-le-plus-dans-lue-lan-dernier.html
 8786164-le-fmi-releve-sa-prevision-de-croissance-2017-pour-l-espagne.html
 8786299-daimler-rappelle-plus-de-3-millions-de-mercedes-benz-diesel-en-europe.html
 8788497-les-retraites-suisses-jouiraient-du-deuxieme-meilleur-systeme-au-monde.html
@@ -821,6 +843,7 @@
 8806378-les-revenus-publicitaires-de-facebook-freines-faute-d-espace-disponible.html
 8806378-les-revenus-publicitaires-de-facebook-freines-faute-despace-disponible.html
 8810540-la-bns-degage-un-benefice-de-1-21-milliard-au-premier-semestre.html
+8810540-la-bns-degage-un-benefice-de-121-milliard-au-premier-semestre.html
 8810762-la-banque-reyl-paiera-les-amendes-infligees-par-la-justice-francaise.html
 8813464-le-franc-suisse-continue-a-s-affaiblir-face-a-l-euro.html
 8813464-le-franc-suisse-continue-a-saffaiblir-face-a-leuro.html
@@ -865,6 +888,7 @@
 8856838–la-bns-mene-une-politique-neutre-en-matiere-d-investissements.html
 8856838���la-bns-mene-une-politique-neutre-en-matiere-d-investissements.html
 8857792-la-tva-pousse-l-economie-a-rejeter-la-prevoyance-2020-selon-les-syndicats.html
+8857792-la-tva-pousse-leconomie-a-rejeter-la-prevoyance-2020-selon-les-syndicats.html
 8857862-la-russie-a-acheve-le-reglement-de-sa-dette-exterieure-heritee-de-l-ex-urss.html
 8858208-les-actionnaires-contestent-davantage-les-salaires-des-patrons-selon-ethos.html
 8858271-les-exportations-horlogeres-poursuivent-leur-redressement.html
@@ -887,12 +911,15 @@
 8873399-une-plainte-contre-denner-pour-des-promotions-jugees-mensongeres.html
 8874478-le-groupe-de-presse-zurichois-tamedia-enregistre-une-hausse-de-son-benefice.html
 8874923-un-paparazzo-gagne-dix-fois-moins-que-ce-qu-il-gagnait-en-2010.html
+8874923-un-paparazzo-gagne-dix-fois-moins-que-ce-quil-gagnait-en-2010.html
 8875827-geneve-zurich-et-bale-en-manque-de-specialistes-extra-europeens.html
 8876534-les-prix-de-l-electricite-augmenteront-legerement-en-suisse-en-2018.html
+8876534-les-prix-de-lelectricite-augmenteront-legerement-en-suisse-en-2018.html
 8877395-en-russie-la-banque-centrale-renfloue-la-deuxieme-banque-privee-du-pays.html
 8878553-une-enquete-americaine-est-ouverte-contre-uber-pour-corruption.html
 8882053-nestle-va-fermer-l-usine-galderma-d-egerkingen-menacant-190-emplois.html
 8882618-les-marges-des-grands-distributeurs-au-c-ur-de-la-cherte-des-produits-bio.html
+8882618-les-marges-des-grands-distributeurs-au-cur-de-la-cherte-des-produits-bio.html
 8882889-adblue-ce-liquide-anti-pollution-qui-va-rencherir-le-cout-du-diesel.html
 8882889-adblue-ce-liquide-antipollution-qui-va-rencherir-le-cout-du-diesel.html
 8887276-l-abonnement-de-ski-degriffe-magic-pass-a-atteint-son-seuil-de-rentabilite.html
@@ -923,8 +950,10 @@
 8921774-mise-en-faillite-pour-le-fabricant-zurichois-de-cuisines-piatti-.html
 8922985-la-compagnie-irlandaise-ryanair-supprime-2000-vols-jusqu-a-fin-octobre.html
 8924274-la-france-fait-pression-pour-mieux-taxer-les-geants-d-internet-dans-l-ue.html
+8924274-la-france-fait-pression-pour-mieux-taxer-les-geants-dinternet-dans-lue.html
 8925612-arrestation-aux-etats-unis-d-un-ancien-negociant-de-metaux-precieux-d-ubs.html
 8927555-abb-tres-implique-dans-la-remise-en-etat-de-l-electricite-aux-etats-unis.html
+8927555-abb-tres-implique-dans-la-remise-en-etat-de-lelectricite-aux-etatsunis.html
 8929839-toys-r-us-se-met-en-procedure-de-faillite-aux-etats-unis.html
 8932153-la-societe-edwards-ferme-son-site-d-horw-lu-et-supprime-250-emplois.html
 8933567-peter-spuhler-annonce-son-depart-de-la-direction-de-stadler-rail.html
@@ -955,6 +984,7 @@
 8968684-l-ennui-au-travail-un-tabou-pas-si-rare-aux-causes-multiples.html
 8968794-les-plateformes-comme-airbnb-aggravent-la-situation-immobiliere.html
 8968867-ubs-pourrait-a-l-avenir-biffer-30-000-emplois-avec-l-evolution-technologique.html
+8968867-ubs-pourrait-a-lavenir-biffer-30000-emplois-avec-levolution-technologique.html
 8972735-l-ue-a-l-offensive-contre-amazon-au-luxembourg-et-apple-en-irlande.html
 8972735-lue-a-loffensive-contre-amazon-au-luxembourg-et-apple-en-irlande.html
 8973728-l-onu-appelle-la-suisse-a-durcir-le-controle-de-sa-place-financiere.html
@@ -974,3 +1004,4 @@
 8996586-le-pdg-de-samsung-electronics-annonce-sa-demission.html
 8996915-echange-automatique-entre-la-suisse-et-singapour-et-hong-kong.html
 8999806-la-delegation-suisse-satisfaite-a-l-issue-de-la-reunion-annuelle-du-fmi.html
+8999806-la-delegation-suisse-satisfaite-a-lissue-de-la-reunion-annuelle-du-fmi.html

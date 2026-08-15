@@ -1,5 +1,4 @@
 ./
-10369667-notre-dame-a-brule.html
 !11137240-ouverture-des-archives-du-pape-de-la-shoah.html
 !11175575-comment-faire-une-croix-sous-jesus.html
 !11375341-un-objet-pour-dire-sa-foi.html
@@ -10,15 +9,7 @@
 !12300684-resiliences-la-vie-grace-a-lepreuve.html
 !12300684.html
 !6297362-a-propos.html
-6408110-noel-sur-les-ondes-de-la-rts.html
-6554170-par-odin-la-mythologie-nordique-revient-en-force.html
-6691955-glossaire-du-religieux.html
 !6732668-l-islam-en-suisse.html
-6795298-rtsreligion-a-taize.html
-6816708-des-croisades-a-l-islamisme-orient-occident-regards-croises-.html
-6816708-orient-occident-histoires-croisees.html
-6995305-serie-charlie-dans-le-retro-.html
-7852688-la-reforme-vue-de-suisse.html
 !9338461-un-nouveau-look-pour-rtsreligion-ch.html
 !9532018-68-nuances-d-eglise.html
 !9532018-68-nuances-deglise.html

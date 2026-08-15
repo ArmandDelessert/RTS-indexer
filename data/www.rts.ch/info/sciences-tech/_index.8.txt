@@ -116,6 +116,7 @@
 8127043-comment-le-rat-brun-a-conquis-le-monde-et-empeche-l-essor-de-maladies.html
 8128225-retour-sur-terre-de-trois-astronautes-de-la-station-spatiale-internationale.html
 8128614-les-premieres-secondes-ne-permettent-pas-de-prevoir-l-intensite-d-un-seisme.html
+8128614-les-premieres-secondes-ne-permettent-pas-de-prevoir-lintensite-dun-seisme.html
 8129901-les-promesses-non-tenues-des-cultures-d-ogm-en-amerique-du-nord.html
 8130803-le-rechauffement-va-modifier-en-profondeur-le-paysage-forestier-suisse.html
 8130803-le-rechauffement-va-modifier-le-paysage-forestier-suisse.html
@@ -205,6 +206,7 @@
 8240526-la-norvege-met-en-circulation-sa-100-000eme-voiture-electrique.html
 8242041-un-accelerateur-de-particules-pour-promouvoir-la-paix-au-moyen-orient-.html
 8242404-ouverture-de-lascaux-4-un-fac-simile-xxl-pour-se-croire-dans-la-vraie-grotte.html
+8242404-ouverture-de-lascaux-4-un-facsimile-xxl-pour-se-croire-dans-la-vraie-grotte.html
 8242431-l-euro2016-pokemon-et-trump-ont-attire-les-suisses-sur-google-en-2015.html
 8242431-leuro-de-foot-pokemon-et-trump-ont-attire-les-suisses-sur-google-en-2016.html
 8243487-le-retrait-de-la-pilule-contre-l-infertilite-feminine-inquiete-les-medecins.html
@@ -481,6 +483,7 @@
 8687133-les-prescriptions-de-medicaments-plus-souvent-inappropriees-pour-les-seniors.html
 8687178--un-cancer-c-est-toujours-injuste-.html
 8687178-un-cancer-c-est-toujours-injuste.html
+8687178-un-cancer-cest-toujours-injuste.html
 8697950-decouverte-d-un-virus-capable-d-attaquer-les-reseaux-electriques.html
 8697950-decouverte-dun-virus-capable-dattaquer-les-reseaux-electriques.html
 8706342-le-gif-a-30-ans-et-s-affiche-partout-d-internet-a-notre-smartphone.html
@@ -554,6 +557,7 @@
 8777578-sursis-de-quelques-semaines-pour-la-plateforme-musicale-soundcloud.html
 8777750-nouvelle-phase-d-essai-pour-le-train-futuriste-hyperloop-aux-etats-unis.html
 8781298-l-observatoire-du-gornergrat-permet-d-amener-les-etoiles-dans-les-ecoles.html
+8781298-lobservatoire-du-gornergrat-permet-damener-les-etoiles-dans-les-ecoles.html
 8783285-pourquoi-les-animaux-les-plus-gros-ne-sont-pas-les-plus-rapides.html
 8783422-un-nanomateriau-pouvant-stocker-l-energie-solaire-a-ete-developpe.html
 8787800-la-suisse-mauvaise-eleve-en-matiere-de-lutte-contre-la-tabagisme.html
@@ -569,6 +573,7 @@
 8790925-elon-musk-dit-pouvoir-demarrer-le-chantier-dun-train-hyperloop.html
 8791620-la-chaine-americaine-nbc-lance-un-jt-diffuse-sur-snapchat.html
 8804479-twitter-commence-a-perdre-des-utilisateurs-aux-etats-unis.html
+8804479-twitter-commence-a-perdre-des-utilisateurs-aux-etatsunis.html
 8804697-finir-la-boite-d-antibiotiques-meme-si-on-se-sent-mieux-serait-inutile.html
 8805775-les-secrets-de-l-invincible-tardigrade-decryptes-par-des-chercheurs.html
 8806527-ou-profiter-de-la-nuit-des-etoiles-en-suisse-romande-.html
@@ -588,6 +593,7 @@
 8821355-une-faille-de-securite-dandroid-decouverte-par-des-chercheurs-suisses.html
 8822571-la-mortalite-due-au-rechauffement-climatique-va-grimper-en-europe.html
 8827842-un-rapport-federal-americain-s-inquiete-du-changement-climatique.html
+8827842-un-rapport-federal-americain-sinquiete-du-changement-climatique.html
 8834322-des-inondations-plus-tot-en-europe-avec-le-rechauffement-climatique.html
 8836435-un-nouveau-riz-enrichi-elabore-a-zurich-pour-combattre-la-faim.html
 8837674-le-pere-des-mots-de-passe-revient-en-arriere-sur-ses-recommandations.html
@@ -613,6 +619,7 @@
 8871987-mirena-un-sterilet-hormonal-avec-des-effets-secondaires-qui-font-debat.html
 8874994-la-production-d-antibiotiques-jugee-catastrophique-pour-l-environnement.html
 8879231-la-suisse-veut-etre-auto-suffisante-dans-sa-production-de-phosphore.html
+8879231-la-suisse-veut-etre-autosuffisante-dans-sa-production-de-phosphore.html
 8879999-le-vin-le-plus-vieux-du-monde-viendrait-de-sicile-en-italie.html
 8881551-les-super-physionomistes-un-atout-hors-norme-au-service-de-la-police.html
 8881551-les-superphysionomistes-un-atout-horsnorme-au-service-de-la-police.html
@@ -660,6 +667,7 @@
 8951167-les-ventes-de-pilules-contraceptives-ont-diminue-de-20-depuis-2010.html
 8952456-twitter-teste-des-messages-a-280-caracteres-pour-essayer-de-se-relancer.html
 8953784-l-aeroport-de-zurich-met-en-service-ses-detecteurs-de-visage.html
+8953784-laeroport-de-zurich-met-en-service-ses-detecteurs-de-visage.html
 8954237-la-russie-et-les-etats-unis-main-dans-la-main-pour-viser-la-lune.html
 8954237-la-russie-et-les-etatsunis-main-dans-la-main-pour-viser-la-lune.html
 8954451-la-minuscule-grenouille-de-darwin-est-menacee-d-extinction.html

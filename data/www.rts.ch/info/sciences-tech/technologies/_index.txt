@@ -410,6 +410,7 @@
 8574855-apres-ses-oreilles-amazon-tente-d-inviter-ses-yeux-dans-les-foyers.html
 8576565-la-sonde-cassini-envoie-des-photos-inedites-de-la-planete-saturne.html
 8636956-un-logiciel-concu-par-l-epfl-aux-commandes-d-une-flottille-de-satellites.html
+8636956-un-logiciel-concu-par-lepfl-aux-commandes-dune-flottille-de-satellites.html
 8659332-le-premier-arbre-solaire-multifonctions-d-europe-inaugure-en-france.html
 8659332-le-premier-arbre-solaire-multifonctions-deurope-inaugure-en-france.html
 8667476-facebook-gagne-en-justice-face-aux-parents-d-une-ado-decedee-a-berlin.html
@@ -440,6 +441,7 @@
 9108628-meme-desactivee-la-geolocalisation-des-android-est-collectee-par-google.html
 9154943-la-plateforme-de-videos-youtube-prepare-un-service-musical-payant.html
 9170628-federer-et-iphone-8-les-recherches-les-plus-populaires-sur-google-ch.html
+9170628-federer-et-iphone-8-les-recherches-les-plus-populaires-sur-googlech.html
 9177593-l-intelligence-artificielle-permet-la-decouverte-d-une-nouvelle-exoplanete.html
 9177686--la-fin-de-la-neutralite-d-internet-constitue-un-probleme-fondamental-.html
 9177686--la-fin-de-la-neutralite-du-net-constitue-un-probleme-fondamental-.html

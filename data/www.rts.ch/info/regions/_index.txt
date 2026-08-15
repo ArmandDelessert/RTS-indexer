@@ -730,6 +730,7 @@
 5098710-les-photos-de-la-semaine-du-29-juillet.html
 5122592-deux-pyromanes-du-jura-bernois-ont-ete-arretes.html
 5161423-les-photos-de-la-semaine-du-26-aout.html
+5191762-les-photos-de-la-semaine-du-9-septembre.html
 5218078-une-femme-disparait-apres-avoir-rencontre-un-ancien-detenu-de-gorgier.html
 5258084-les-cantons-vont-devoir-recruter-de-nombreux-enseignants-d-ici-2022.html
 5279851-les-cff-construiront-1500-logements-neufs-en-romandie-d-ici-2025.html
@@ -777,11 +778,13 @@
 5902035-le-trafic-ferroviaire-entre-berne-et-lausanne-fortement-perturbe.html
 5902035-trafic-ferroviaire-entre-berne-et-lausanne-tres-perturbe-mardi.html
 5917758-des-sites-chaux-de-fonniers-et-biennois-pouvant-contenir-du-radium-controles.html
+5917807-les-photos-de-la-semaine-du-9-juin.html
 5919733-un-accident-de-poids-lourd-a-perturbe-le-trafic-aux-environs-d-yverdon.html
 5919733-un-accident-de-poids-lourd-perturbe-le-trafic-aux-environs-d-yverdon.html
 5934773-neuchatel-et-le-jura-vont-intensifier-leur-collaboration-en-matiere-de-sante.html
 5952846-les-photos-de-la-semaine-du-23-juin.html
 5987452-les-photos-de-la-semaine-du-7-juillet.html
+6031784-les-photos-de-la-semaine-du-28-juillet.html
 6041252-l-ancien-chef-des-programmes-de-la-tsr-bernard-beguin-est-decede.html
 6043747-les-photos-de-la-semaine-du-4-aout.html
 6058941-les-enseignants-romands-denoncent-les-coupes-budgetaires.html
@@ -919,6 +922,7 @@
 7442941-des-temperatures-printanieres-en-ce-debut-de-semaine.html
 7448870-la-grippe-prend-ses-quartiers-d-hiver-en-suisse-romande.html
 7460894-accord-sur-trois-des-quatre-centres-federaux-d-asile-romands.html
+7460894-accord-sur-trois-des-quatre-centres-federaux-dasile-romands.html
 7499040-enquete-sur-le-sadique-de-romont-dans-l-affaire-des-disparus-de-l-isere.html
 7499040-la-france-sinteresse-au-sadique-de-romont-en-lien-avec-des-crimes-impunis.html
 7527302-uber-lance-une-nouvelle-offensive-en-suisse-romande.html
@@ -989,6 +993,7 @@
 8015893-pierrepascal-rossi-ancien-journaliste-et-presentateur-du-tj-est-decede.html
 8054333-le-oui-tessinois-a-l-initiative-les-notres-d-abord-fait-des-emules.html
 8054560-l-expulsion-des-criminels-etrangers-va-peser-sur-les-tribunaux-romands.html
+8054560-lexpulsion-des-criminels-etrangers-va-peser-sur-les-tribunaux-romands.html
 8078548-plongee-au-coeur-des-vendanges.html
 8081481-l-impact-de-l-immigration-et-des-frontaliers-sur-l-arc-lemanique-chiffre.html
 8081481-limpact-de-limmigration-et-des-frontaliers-sur-larc-lemanique-chiffre.html
@@ -1002,6 +1007,7 @@
 8191938-les-rentes-a-vie-des-ex-syndics-et-presidents-des-pratiques-variables.html
 8191938-les-rentes-a-vie-des-exsyndics-et-presidents-des-pratiques-variables.html
 8205300-stressees-sous-estimees-epuisees-les-infirmieres-romandes-crient-leur-mal-etre.html
+8205300-stressees-sousestimees-epuisees-les-infirmieres-romandes-crient-leur-maletre.html
 8205300-stresses-sousestimes-epuises-les-infirmiers-romands-crient-leur-maletre.html
 8207196-des-labels-pour-pacifier-la-vie-nocturne-a-geneve-et-a-lausanne.html
 8207196-des-labels-pour-pacifier-la-vie-nocturne-a-geneve-et-lausanne.html
@@ -1039,6 +1045,7 @@
 8539076-franc-succes-pour-le-magic-pass-sesame-pour-25-stations-de-ski.html
 8582859-environ-55-000-sportifs-ont-profite-du-soleil-a-morat-lors-du-slowup.html
 8587389-les-chiffres-de-la-criminalite-de-l-ofs-continuent-de-faire-polemique.html
+8587389-les-chiffres-de-la-criminalite-de-lofs-continuent-de-faire-polemique.html
 8587791-directives-cantonales-et-federales-sur-les-chiens-de-plus-en-plus-opposees.html
 8601887-grosses-perturbations-sur-la-ligne-geneve-lausanne-des-cff.html
 8601887-la-ligne-geneve-lausanne-des-cff-a-subi-de-grosses-perturbations.html
@@ -1051,6 +1058,7 @@
 8669882-berne-et-fribourg-ont-ete-durement-touches-par-les-orages.html
 8680060-stations-de-moyenne-montagne-l-ineluctable-descente-.html
 8684380-les-attentats-en-angleterre-remettent-en-question-des-voyages-d-etudes.html
+8684380-les-attentats-en-angleterre-remettent-en-question-des-voyages-detudes.html
 8691014-un-groupe-de-reflexion-veut-soutenir-de-nouveaux-medias-romands.html
 8699065-la-ligne-cff-entre-vevey-et-villeneuve-en-proie-a-de-fortes-perturbations.html
 8699065-la-ligne-cff-entre-vevey-et-villeneuve-retablie-apres-des-perturbations.html
@@ -1065,10 +1073,12 @@
 8722221-le-danger-dincendie-de-foret-releve-dans-plusieurs-regions-de-suisse.html
 8724365-votre-bureau-de-poste-est-il-menace-de-fermeture-.html
 8724365-votre-bureau-de-poste-est-il-menace-de-fermeture.html
+8724365-votre-bureau-de-poste-estil-menace-de-fermeture.html
 8724376-les-plans-canicule-romands-se-concentrent-sur-les-seniors.html
 8743195-le-tessin-mise-sur-un-seul-candidat-pour-succeder-a-didier-burkhalter.html
 8750595-la-question-du-vivreensemble-dans-lespace-rural-va-crescendo.html
 8752525-les-temps-de-trajets-en-train-geneve-lausanne-seront-allonges-ce-week-end.html
+8752525-les-temps-de-trajets-en-train-genevelausanne-seront-allonges-ce-weekend.html
 8762001-d-importants-travaux-sur-le-reseau-des-cff-indisposent-les-usagers.html
 8775525-les-cooperatives-un-art-d-habiter-autrement-qui-gagne-l-arc-lemanique.html
 8775525-les-cooperatives-un-art-dhabiter-autrement-qui-gagne-larc-lemanique.html
@@ -1121,6 +1131,7 @@
 9071771-jusqu-a-275-000-francs-par-an-ce-que-gagnent-les-maires-de-suisse-romande.html
 9071771-jusqua-275000-francs-par-an-ce-que-gagnent-les-maires-de-suisse-romande.html
 9073537-les-cantons-latins-prets-a-s-associer-a-la-securite-des-jo-de-sion-2026.html
+9073537-les-cantons-latins-prets-a-sassocier-a-la-securite-des-jo-de-sion-2026.html
 9095433-penser-un-art-qui-peut-s-apprendre-des-le-plus-jeune-age.html
 9135907-la-saison-de-ski-demarre-sur-une-note-d-optimisme-en-suisse-romande.html
 9150072-les-eleveurs-veulent-valoriser-la-viande-chevaline-avec-une-nouvelle-filiere.html
@@ -1133,6 +1144,7 @@
 9183137-des-chutes-de-neige-provoquent-accidents-et-ralentissements.html
 9191566-les-journalistes-de-tamedia-expriment-leur-defiance-envers-serge-reymond.html
 9192921-les-stations-de-ski-se-rejouissent-de-l-excellent-debut-de-saison.html
+9192921-les-stations-de-ski-se-rejouissent-de-lexcellent-debut-de-saison.html
 9195724-vaste-projet-agricole-intercantonal-lance-pour-proteger-des-abeilles.html
 9202576-la-broye-un-modele-intercantonal.html
 9204585-le-cabotage-une-activite-qui-tourne-a-plein-regime-a-laeroport-de-geneve.html
@@ -1143,16 +1155,19 @@
 9222294-lacces-a-plusieurs-localites-du-valais-coupees-du-monde-peu-a-peu-retabli.html
 9222398-le-durcissement-de-la-loi-sur-les-armes-critique-par-les-cantons-romands.html
 9224424-la-hep-bejune-veut-ponctionner-ses-etudiants-des-deputes-ripostent.html
+9224424-la-hepbejune-veut-ponctionner-ses-etudiants-des-deputes-ripostent.html
 9229730-le-chablais-se-mobilise-pour-les-lignes-ferroviaires-aigle-leysin-et-du-tonkin.html
 9229730-le-chablais-se-mobilise-pour-les-lignes-ferroviaires-aigleleysin-et-du-tonkin.html
 9242915-les-cantons-de-vaud-valais-et-berne-face-au-risque-de-penurie-de-sang.html
 9253746-le-parlement-jurassien-appele-a-se-prononcer-dans-le-cadre-de-laffaire-queloz.html
 9258105-lancement-d-une-application-pour-sensibiliser-aux-maladies-liees-a-l-altitude.html
 9293426-le-plus-ancien-directeur-d-une-prison-romande-n-a-que-six-ans-de-fonction.html
+9293426-le-plus-ancien-directeur-dune-prison-romande-na-que-six-ans-de-fonction.html
 9302873-une-photo-montrant-un-couple-gay-enlace-embrase-l-eglise-reformee.html
 9302873-une-photo-montrant-un-couple-gay-enlace-embrase-leglise-reformee.html
 9325270-les-suisses-se-desinteressent-toujours-plus-de-la-politique-communale.html
 9327529-l-ado-decede-apres-une-chute-sur-un-snowpark-d-anzere-etait-en-camp.html
+9327529-lado-decede-apres-une-chute-sur-un-snowpark-danzere-etait-en-camp.html
 9337484-les-hopitaux-de-vevey-et-monthey-auront-la-geriatrie-et-la-readaptation.html
 9353915-deux-cantons-votent-le-4-mars-sur-la-transparence-financiere-des-partis.html
 9356808-plus-d-hebergements-d-urgence-a-lausanne-et-a-geneve-contre-le-froid.html
@@ -1223,6 +1238,7 @@
 9746548-alerte-canicule-sur-lensemble-de-la-suisse-les-comportements-a-adopter.html
 9753201-a-cause-de-la-secheresse-les-vaches-d-alpage-sont-ravitaillees-par-helico.html
 9753201-a-cause-de-la-secheresse-les-vaches-dalpage-sont-ravitaillees-par-helico.html
+9756498-les-images-de-la-carcasse-de-lavion-ju52-hbhot.html
 9759983-de-violents-orages-frappent-la-suisse-romande-des-inondations-en-valais.html
 9764234-les-cantons-romands-sont-partages-sur-la-place-des-portables-a-l-ecole.html
 9764234-les-cantons-romands-sont-partages-sur-la-place-des-portables-a-lecole.html

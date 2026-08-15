@@ -150,6 +150,7 @@
 11358565-les-masques-se-sont-imposes-dans-lespace-public.html
 11358581-ici-et-la-des-lueurs-despoir.html
 11358582-des-hopitaux-surcharges-et-plus-de-350000-morts-dans-le-monde.html
+11358583-la-suisse-en-semiconfinement.html
 11358585-distances-physiques-et-mesures-dhygiene-se-sont-imposees.html
 11418760-aucun-deces-du-covid-19-en-suisse-depuis-vendredi.html
 11418760-la-distance-sociale-se-reduit-les-evenements-jusqu-a-1000-personnes-a-nouveau-permis.html
@@ -1632,6 +1633,7 @@
 3433893-la-presidente-indienne-pratibha-devisingh-patil-sera-en-suisse-lundi-et-mardi-pour-une-visite-d-etat.html
 3485096-steve-jobs-ou-l-incroyable-parcours-d-un-visionnaire-.html
 3515784-le-logiciel-espion-trojan-a-ete-utilise-dans-les-cantons-de-vaud-et-de-fribourg-egalement.html
+3516368-images-des-inondations-en-thailande.html
 3527139-le-clan-kadhafi-decime-en-quelques-mois.html
 3544923-pierre-yves-maillard-se-lance-dans-la-course-au-conseil-federal-alors-que-jean-studer-renonce.html
 3551502-le-parti-socialiste-vaudois-a-adoube-samedi-pierre-yves-maillard-comme-candidat-au-conseil-federal.html
@@ -1644,6 +1646,7 @@
 3585326-le-trafic-cff-lausannegeneve-retabli.html
 3600446-armes-militaires-mesures-a-prendre-durgence.html
 3605160-plus-de-20-milliards-pour-demanteler-les-centrales.html
+3606360-saldome-2-la-plus-grande-coupole-deurope.html
 3611453-l-udc-a-subi-des-revers-aux-2e-tours-des-elections-aux-etats-a-zurich-st-gall-uri-et-en-argovie.html
 3618526-berne-ne-legiferera-pas-sur-le-telechargement.html
 3630477-inauguration-de-la-prime-tower-a-zurich.html
@@ -1840,12 +1843,14 @@
 4864341-explosion-meurtriere-en-plein-centre-de-damas-mardi.html
 4900095-apres-l-abondance-et-la-prosperite-pour-les-finances-fribourgeoises-14-05-2013.html
 4903462-le-ciblage-de-partis-conservateurs-par-le-fisc-americain-fache-obama.html
+4916978-le-parcours-de-lequipe-de-suisse.html
 4925039--on-peut-acheter-des-choses-necessaires-pour-l-armee-estime-ueli-maurer.html
 4925039-on-peut-acheter-des-choses-necessaires-pour-l-armee-estime-ueli-maurer-23-05-2013.html
 4934628-les-gagnants-du-66e-festival-de-cannes-2013.html
 4937346-interview-de-j-f-steiert-vice-president-de-la-federation-suisse-des-patients-28-05-2013.html
 4975723-le-jura-bernois-prefere-le-statu-quo-11-06-2013.html
 4985135-premiere-mondiale-pour-la-societe-horlogere-crevoisier-ju-14-06-2013.html
+5001901-james-gandolfini-ses-plus-grands-roles.html
 5043191-la-carte-de-laffaire-snowden-et-du-scandale-prism.html
 5090823-temoignage-d-un-jeune-pelerin-romand-25-07-2013.html
 5098578-le-bilan-du-paleo-par-son-programmateur-jacques-monnier-29-07-2013.html
@@ -1950,12 +1955,14 @@
 6527145-bilan-un-an-9-fevrier-dossier.html
 6537750-nuage-toxique-pres-de-barcelone-les-images.html
 6558376-deux-cyclones-font-des-degats-mais-pas-de-victimes-en-australie.html
+6559917-des-stars-retouchees-sur-photoshop-par-lartiste-espagnol-david-lopera-font-le-buzz-sur-internet.html
 6565377-la-fondation-genevoise-dinterpol.html
 6583920-les-opposants-russes-assassines.html
 6597265-l-initiative-du-pdc-sur-la-famille-et-celle-des-vert-liberaux-sur-l-energie-balayees-dans-les-urnes.html
 6597265-l-initiative-du-pdc-sur-la-famille-et-celle-des-vert-liberaux-sur-l-energie-nettement-rejetees-dans-les-urnes.html
 6597265-votations-federales-du-8-mars.html
 6600421-linitiative-pdc-et-la-taxe-sur-lenergie-largement-refusees.html
+6610977-chen-jian-est-en-charge-de-la-rehabilitation-du-quartier.html
 6616574-la-composition-actuelle-de-la-knesset.html
 6617148--tasvulactu-le-regard-des-adolescents-sur-l-actualite.html
 6617148-tasvulactu-le-regard-des-adolescents-sur-l-actualite.html
@@ -1975,6 +1982,7 @@
 6681754-photo-meteo.html
 6718835-les-photos-meteo-de-la-semaine.html
 6723355-le-massacre-des-armeniens-cent-ans-apres.html
+6723639-les-cliches-du-photographe-antoine-agoudjian.html
 6836327-les-photos-meteo-de-la-semaine.html
 6839728-conflit-sur-la-page-wikipedia-de-christian-luscher.html
 6872149-le-conseil-national-a-accepte-lachat-pour-250-millions-de-drones-israeliens-hermes-900-renommes-ads-15.html
@@ -2034,12 +2042,18 @@
 7617260-les-biens-culturels-detruits-dans-les-musees-de-palmyre.html
 7656656.html
 7694921-la-vie-quotidienne-au-camp-de-maiaini-en-ethiopie.html
+7723038-les-images-des-intemperies-en-suisse-centrale.html
+7750555-les-dix-transferts-de-footballeurs-suisses-les-plus-chers-de-lhistoire-en-images.html
+7784184-donetsk-une-ville-aux-deux-visages.html
 7811204-le-foot-au-parlement.html
 7862197-redecouvrir-les-emissions-culte-de-la-tv-romande-depuis-les-annees-1960.html
 7862197-redecouvrir-les-emissions-cultes-de-la-tv-romande-depuis-les-annees-1960.html
 7883645-quelques-oeuvres-de-larchitecte-le-corbusier.html
 7887190-speleologue-transformiste-ou-mineur-nous-avons-teste-pour-vous.html
 7944332-fete-federale-de-lutte-2016.html
+8068155-qui-sont-les-candidats-a-la-succession-de-ban-kimoon.html
+8075143-8-octobre-2016-laredo-texas.html
+8076914-9-octobre-de-la-frontiere-a-san-antonio.html
 8145303-resultats-intermediaires.html
 8145497-resultats-provisoires.html
 8145601-resultats-intermediaires.html
@@ -2075,6 +2089,7 @@
 8210501-horlogerie-l-hiver-s-annonce-rude-dans-la-vallee-de-joux.html
 8230649-violents-affrontements-entre-police-et-manifestants-au-cameroun.html
 8315943-de-la-glace-sur-le-pourtour-du-leman.html
+8433679-images-radar-du-wc135-en-mer-baltique-et-du-rc135-pres-de-kaliningrad.html
 8561109-emmanuel-macron-arriverait-en-tete-du-1er-tour-la-deuxieme-place-reste-incertaine.html
 8561109-emmanuel-macron-en-tete-du-1er-tour-devant-marine-le-pen.html
 8561109-emmanuel-macron-et-marine-le-pen-au-second-tour-de-la-presidentielle.html
@@ -2095,6 +2110,8 @@
 8561109-qui-seront-les-deux-qualifies-pour-le-2e-tour-les-francais-dans-lattente.html
 8561109-tous-les-candidats-a-la-presidentielle-ont-desormais-vote-en-france.html
 8564576-emmanuel-macron-et-marine-le-pen-au-second-tour-de-la-presidentielle.html
+8608883-les-projets-primes.html
+8712406-le-retour-des-urnes.html
 8713358-les-images-de-la-joie-des-jurassiens.html
 8714705--he-mademoiselle-pourquoi-tu-reponds-pas-.html
 8714705-he-mademoiselle-pourquoi-tu-reponds-pas.html
@@ -2108,7 +2125,9 @@
 9101172-lintelligence-artificielle-au-quotidien-partout-et-tout-le-temps.html
 9182897-tellement-2017-.html
 9182897-tellement-2017.html
+9233089-la-station-hautvalaisanne-de-zermatt-perturbee-par-la-neige.html
 9270504-egalite-des-sexes-minnie-recoit-aussi-une-etoile-a-hollywood.html
+9467524-les-laureats-du-swiss-press-photo-2018.html
 9492296-mai-68-en-photos.html
 9546419--j-ai-fait-du-luc-barthassat-et-peut-etre-qu-aujourd-hui-j-en-fais-un-peu-les-frais-.html
 9546419-jai-fait-du-luc-barthassat-et-peutetre-quaujourdhui-jen-fais-un-peu-les-frais.html

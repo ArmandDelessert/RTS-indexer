@@ -93,6 +93,7 @@
 9202219-l-apparition-des-bourgeons-est-toujours-plus-precoce-dans-les-alpes.html
 9204819-l-industrie-petrochimique-veut-doper-la-production-mondiale-de-plastique.html
 9206155-un-scientifique-japonais-invente-un-verre-auto-regenerant.html
+9206155-un-scientifique-japonais-invente-un-verre-autoregenerant.html
 9206825-les-series-tv-une-image-pretentieuse-de-la-medecine-legale-americaine.html
 9217590--la-suisse-a-besoin-d-un-secretaire-d-etat-au-numerique-.html
 9217590-la-suisse-a-besoin-dun-secretaire-detat-au-numerique.html
@@ -108,6 +109,7 @@
 9223361-comment-se-proteger-contre-les-failles-decouvertes-sur-des-milliards-de-puces.html
 9223836-twitter-n-entend-pas-supprimer-les-tweets-de-responsables-politiques.html
 9223836-twitter-ne-supprimera-pas-les-tweets-de-responsables-politiques.html
+9223836-twitter-nentend-pas-supprimer-les-tweets-de-responsables-politiques.html
 9225121-eleanor-et-la-vague-de-froid-polaire-aux-etats-unis-ont-la-meme-origine.html
 9225121-eleanor-et-la-vague-de-froid-polaire-aux-etatsunis-ont-la-meme-origine.html
 9226546-un-fauteuil-roulant-novateur-permet-de-monter-et-descendre-les-escaliers.html
@@ -178,6 +180,7 @@
 9346472-les-produits-de-nettoyage-ont-un-effet-sur-les-capacites-respiratoires.html
 9349078-un-jeu-pour-apprendre-a-debusquer-les-fake-news-est-lance-sur-internet.html
 9349347-une-start-up-de-l-epfl-met-au-point-un-prelevement-sanguin-sans-aiguille.html
+9349347-une-startup-de-lepfl-met-au-point-un-prelevement-sanguin-sans-aiguille.html
 9349992-raisin-et-celeri-les-fruits-et-legumes-contenant-le-plus-de-pesticides.html
 9351710-les-conditions-de-vie-durant-l-enfance-ont-des-effets-sur-la-sante-des-adultes.html
 9351710-les-conditions-de-vie-durant-lenfance-ont-des-effets-sur-la-sante-des-adultes.html

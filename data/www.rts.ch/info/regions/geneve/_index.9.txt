@@ -1,6 +1,7 @@
 9002929-un-recours-a-ete-depose-contre-lannulation-du-vote-en-ville-de-geneve.html
 9012888-geneve-prend-une-serie-de-mesures-pour-soutenir-les-proches-aidants.html
 9016828-l-islamologue-suisse-tariq-ramadan-vise-par-une-plainte-pour-viol.html
+9016828-lislamologue-suisse-tariq-ramadan-vise-par-une-plainte-pour-viol.html
 9017850-geneve-va-appliquer-une-politique-plus-ferme-contre-les-dealers-de-drogue.html
 9019545-procter-gamble-attaque-en-justice-a-geneve-par-400-anciens-employes.html
 9019839-erwin-sperisen-reclame-un-million-de-francs-a-geneve-pour-tort-moral.html
@@ -9,10 +10,12 @@
 9037749-un-avion-bloque-sur-laeroport-de-geneve-a-provoque-des-perturbations.html
 9038803-pierre-maudet-j-avais-besoin-de-me-stabiliser-de-me-retrouver-.html
 9038803-pierre-maudet-j-avais-besoin-de-me-stabiliser-de-me-retrouver.html
+9038803-pierre-maudet-javais-besoin-de-me-stabiliser-de-me-retrouver.html
 9041905-le-nouveau-trace-du-projet-genevois-de-telecabine-urbaine-fait-debat-.html
 9041905-le-nouveau-trace-du-projet-genevois-de-telecabine-urbaine-fait-debat.html
 9044947-le-pdc-genevois-veut-faire-interdire-les-pesticides-dans-le-canton.html
 9048649-les-touristes-a-geneve-sont-prives-de-jet-d-eau-jusqu-a-la-mi-novembre.html
+9048649-les-touristes-a-geneve-sont-prives-de-jet-deau-jusqua-la-minovembre.html
 9054874--durant-l-ete-un-tiers-de-l-effectif-de-police-est-en-vacances-.html
 9054874-durant-lete-un-tiers-de-leffectif-de-police-est-en-vacances.html
 9055496-le-tribunal-federal-rejette-le-recours-sur-la-votation-annulee-a-geneve.html
@@ -37,6 +40,7 @@
 9089653--il-existe-un-malentendu-entre-suisses-et-etrangers-.html
 9089653-il-existe-un-malentendu-entre-suisses-et-etrangers.html
 9090106-l-aeroport-de-geneve-devra-grandir-tout-en-limitant-les-nuisances-sonores.html
+9090106-laeroport-de-geneve-devra-grandir-tout-en-limitant-les-nuisances-sonores.html
 9093175-premier-forage-exploratoire-pour-un-projet-de-geothermie-a-satigny-ge-.html
 9095453-geneve-lance-une-plateforme-securisee-pour-les-lanceurs-d-alerte.html
 9095453-geneve-lance-une-plateforme-securisee-pour-les-lanceurs-dalerte.html
@@ -78,18 +82,22 @@
 9185185-des-video-clips-pour-inciter-les-jeunes-a-se-naturaliser-a-geneve.html
 9185185-des-videoclips-pour-inciter-les-jeunes-a-se-naturaliser-a-geneve.html
 9186149-accord-entre-l-etat-et-la-police-genevoise-sur-les-frais-medicaux.html
+9186149-accord-entre-letat-et-la-police-genevoise-sur-les-frais-medicaux.html
 9190624-le-conseil-d-etat-genevois-inflige-5000-francs-d-amende-a-remy-pagani.html
 9197403-a-geneve-un-banquier-qui-voulait-tuer-sa-femme-condamne-plus-lourdement-.html
 9201093-peine-confirmee-a-geneve-pour-l-exces-de-vitesse-d-un-policier-en-exercice.html
 9201093-peine-confirmee-a-geneve-pour-lexces-de-vitesse-dun-policier-en-exercice.html
 9204730-le-tribunal-federal-confirme-le-delit-de-chauffard-contre-un-policier-genevois.html
 9207859-des-lombrics-pour-epurer-les-eaux-usees-d-un-immeuble-genevois.html
+9207859-des-lombrics-pour-epurer-les-eaux-usees-dun-immeuble-genevois.html
 9210598-pres-de-500-kilos-de-haschich-a-destination-de-geneve-interceptes.html
 9211527-nouvelle-attaque-contre-un-bureau-de-change-a-la-frontiere-franco-genevoise.html
+9211527-nouvelle-attaque-contre-un-bureau-de-change-a-la-frontiere-francogenevoise.html
 9213272-des-dizaines-d-interpelles-apres-une-manifestation-sauvage-a-geneve.html
 9213272-plus-d-une-centaine-d-interpelles-apres-une-manifestation-sauvage-a-geneve.html
 9213334-l-attractivite-du-grand-geneve-sera-davantage-controlee-en-2018-.html
 9215524-l-initiative-pour-une-politique-culturelle-coherente-deposee-a-geneve.html
+9215524-linitiative-pour-une-politique-culturelle-coherente-deposee-a-geneve.html
 9222656-des-pieux-datant-du-neolithique-decouverts-dans-la-rade-a-geneve.html
 9222656-des-pieux-datant-du-neolithique-decouverts-dans-la-rade-de-geneve.html
 9222964-des-etudiants-de-l-epfl-planchent-sur-une-telecabine-urbaine-a-geneve.html
@@ -123,6 +131,7 @@
 9301628-stations-d-amarrage-a-l-enquete-pour-le-projet-de-bateaux-taxis-genevois.html
 9306250-de-nombreuses-societes-de-transport-viennent-concurrencer-uber-a-geneve.html
 9306945-pablo-cruchon-se-retire-de-la-course-au-conseil-d-etat-genevois.html
+9306945-pablo-cruchon-se-retire-de-la-course-au-conseil-detat-genevois.html
 9310770-anja-wyden-guelpa-je-me-rejouis-de-ne-plus-etre-une-figure-publique-.html
 9310770-anja-wyden-guelpa-je-me-rejouis-de-ne-plus-etre-une-figure-publique.html
 9312449-a-geneve-une-scan-car-va-debusquer-les-voitures-mal-garees.html
@@ -155,6 +164,7 @@
 9362580-environ-200-personnes-manifestent-contre-le-betonnage-a-geneve.html
 9363852-deux-aiglons-en-dressage-a-geneve-pour-intercepter-les-drones.html
 9364131-un-appel-a-la-greve-pourrait-perturber-le-travail-de-l-onu-mardi-a-geneve.html
+9364131-un-appel-a-la-greve-pourrait-perturber-le-travail-de-lonu-mardi-a-geneve.html
 9366953-les-hug-de-geneve-licencient-un-medecin-condamne-pour-viol-en-france.html
 9369339-les-chirurgiens-de-la-main-genevois-en-greve-mettent-fin-a-leur-mouvement.html
 9369339-les-chirurgiens-genevois-en-greve-mettent-fin-a-leur-mouvement.html
@@ -186,6 +196,7 @@
 9400178-demande-denquete-administrative-sur-tariq-ramadan-a-geneve.html
 9400208-un-incendie-ravage-le-sommet-d-un-immeuble-dans-le-centre-de-geneve.html
 9401993-l-immeuble-genevois-sinistre-est-securise-mais-reste-inhabitable.html
+9401993-limmeuble-genevois-sinistre-est-securise-mais-reste-inhabitable.html
 9402177-les-debats-des-elections-cantonales-genevoises.html
 9402248-enquete-administrative-sur-tariq-ramadan-peu-probable-a-geneve.html
 9402248-le-dip-genevois-n-envisage-pas-d-ouvrir-une-enquete-sur-tariq-ramadan.html
@@ -204,11 +215,13 @@
 9410899-nouveau-cas-de-harcelement-sexuel-au-college-genevois-de-saussure.html
 9412464-a-geneve-la-gauche-et-les-syndicats-unis-contre-la-reforme-fiscale-pf17.html
 9412773-le-personnel-de-l-onu-va-faire-greve-vendredi-a-geneve.html
+9412773-le-personnel-de-lonu-va-faire-greve-vendredi-a-geneve.html
 9415431-plainte-penale-du-dip-genevois-dans-l-affaire-de-harcelement-a-de-saussure.html
 9415431-plainte-penale-du-dip-genevois-dans-laffaire-de-harcelement-a-de-saussure.html
 9417186-plus-de-2000-personnes-dans-les-rues-de-geneve-pour-une-ville-pour-tous.html
 9417245-anne-emery-torracinta-mandate-le-compagnon-de-sa-secretaire-generale-.html
 9417245-anne-emery-torracinta-mandate-le-compagnon-de-sa-secretaire-generale.html
+9417245-anne-emerytorracinta-mandate-le-compagnon-de-sa-secretaire-generale.html
 9418976-temoignages-d-eleves-harcelees-par-un-prof-du-college-de-saussure-a-geneve.html
 9418976-temoignages-deleves-harcelees-par-un-prof-du-college-de-saussure-a-geneve.html
 9420164-francois-longchamp-la-visibilite-n-est-pas-essentielle-en-politique-.html
@@ -219,6 +232,7 @@
 9421859-l-initiative-genevoise-pour-plafonner-les-primes-a-fait-le-plein-de-signatures.html
 9422208-demande-de-revision-possible-apres-une-expertise-de-la-clinique-corela.html
 9422307-les-frontaliers-en-ligne-de-mire-a-l-approche-des-elections-genevoises.html
+9422307-les-frontaliers-en-ligne-de-mire-a-lapproche-des-elections-genevoises.html
 9424814-polemique-sur-la-brochure-explicative-pour-les-elections-genevoises.html
 9426865-le-rapport-sur-le-meurtre-d-adeline-s-invite-dans-les-elections-genevoises.html
 9426865-le-rapport-sur-le-meurtre-dadeline-sinvite-dans-les-elections-genevoises.html

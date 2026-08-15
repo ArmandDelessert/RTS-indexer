@@ -50,6 +50,7 @@
 8069539-nouvelle-candidature-socialiste-dans-la-course-au-conseil-d-etat-vaudois.html
 8069925-le-buffet-de-la-gare-de-lausanne-devient-vegetarien.html
 8070461-une-premiere-pierre-symbolique-pour-le-musee-des-beaux-arts-a-lausanne.html
+8070461-une-premiere-pierre-symbolique-pour-le-musee-des-beauxarts-a-lausanne.html
 8072258-l-udc-presentera-un-candidat-pour-l-election-au-conseil-d-etat-vaudois.html
 8072258-ludc-presentera-un-candidat-pour-lelection-au-conseil-detat-vaudois.html
 8074951-la-vert-liberale-isabelle-chevalley-candidate-au-conseil-d-etat-vaudois.html
@@ -274,6 +275,7 @@
 8567500-le-tessin-met-en-peril-l-observatoire-de-la-vie-politique-regionale-de-l-unil.html
 8567500-le-tessin-met-en-peril-lobservatoire-de-la-vie-politique-regionale-de-lunil.html
 8570648-le-cadavre-d-une-femme-a-ete-retrouve-a-corsier-sur-vevey.html
+8570648-le-cadavre-dune-femme-a-ete-retrouve-a-corsiersurvevey.html
 8572169-cinq-conseillers-d-etat-sortants-elus-au-1er-tour-des-elections-vaudoises-le-grand-conseil-reste-a-droite.html
 8572169-cinq-conseillers-d-etat-sortants-elus-au-1er-tour-des-elections-vaudoises-le-suivi-en-direct.html
 8572169-cinq-conseillers-d-etat-sortants-elus-au-1er-tour-des-elections-vaudoises-stabilite-au-grand-conseil.html
@@ -286,9 +288,11 @@
 8574917-la-caisse-de-chomage-vaudoise-aurait-ete-flouee-par-des-collaborateurs-d-unia-et-des-patrons-.html
 8574917-la-caisse-de-chomage-vaudoise-aurait-ete-flouee-par-des-collaborateurs-dunia-et-des-patrons.html
 8578935-johann-schneider-ammann-inspecte-les-degats-du-gel-en-terres-vaudoises.html
+8578935-johann-schneiderammann-inspecte-les-degats-du-gel-en-terres-vaudoises.html
 8580844-la-victime-retrouvee-a-corsier-sur-vevey-a-ete-tuee-par-son-mari.html
 8580844-la-victime-retrouvee-a-corsiersurvevey-a-ete-tuee-par-son-mari.html
 8580850-les-vaudois-aux-urnes-dimanche-au-terme-d-une-morne-campagne.html
+8580850-les-vaudois-aux-urnes-dimanche-au-terme-dune-morne-campagne.html
 8582137-cinq-conseillers-detat-sortants-elus-au-1er-tour-des-elections-vaudoises-le-grand-conseil-reste-a-droite.html
 8584717-l-independant-toto-morand-candidat-au-2e-tour-au-conseil-d-etat-vaudois.html
 8586618-la-vert-liberale-isabelle-chevalley-candidate-au-conseil-d-etat-vaudois.html
@@ -308,6 +312,7 @@
 8606969-l-initiative-de-l-udc-vaudoise-contre-l-integrisme-religieux-a-echoue.html
 8607616-debat-entre-les-6-candidats-pour-le-2e-tour-au-conseil-d-etat-vaudois.html
 8607616-debat-entre-les-six-candidats-avant-le-second-tour-au-conseil-d-etat-vaudois.html
+8607616-debat-entre-les-six-candidats-avant-le-second-tour-au-conseil-detat-vaudois.html
 8610929-la-confederation-donne-son-feu-vert-au-tunnel-du-leb-a-lausanne.html
 8611721-la-justice-vaudoise-valide-la-loi-interdisant-la-mendicite-dans-le-canton.html
 8617218-la-candidate-socialiste-vaudoise-cesla-amarelle-accusee-de-mensonge.html
@@ -325,6 +330,7 @@
 8634499-faillites-en-serie-derriere-larnaque-de-la-caisse-de-chomage-vaudoise.html
 8634637-vaud-veut-serrer-la-vis-au-service-de-voitures-avec-chauffeur-uber.html
 8637279-plus-de-2800-personnes-defilent-contre-l-agrochimie-a-morges-et-a-bale.html
+8637279-plus-de-2800-personnes-defilent-contre-lagrochimie-a-morges-et-a-bale.html
 8641530-faible-mobilisation-de-l-electorat-de-droite-au-2e-tour-au-conseil-d-etat-vaudois.html
 8644327-le-grand-conseil-vaudois-accorde-46-millions-pour-le-tunnel-du-leb.html
 8648217-un-fourgon-braque-sur-l-a1-pres-de-nyon-les-voleurs-arretes-en-france.html
@@ -333,6 +339,7 @@
 8656488--il-faut-ameliorer-le-bonheur-national-brut-des-vaudois-plutot-que-leur-pib-.html
 8656488-il-faut-ameliorer-le-bonheur-national-brut-des-vaudois-plutot-que-leur-pib.html
 8659090-deux-des-braqueurs-de-l-a1-a-nyon-avaient-deja-ete-condamnes-en-suisse.html
+8659090-deux-des-braqueurs-de-la1-a-nyon-avaient-deja-ete-condamnes-en-suisse.html
 8659890-le-canton-de-vaud-va-abandonner-les-curatelles-imposees-des-lan-prochain.html
 8659942-le-conjoint-de-cesla-amarelle-demissionne-de-la-direction-du-chuv.html
 8662164-thierry-meyer-quitte-la-redaction-en-chef-du-quotidien-vaudois-24-heures.html
@@ -353,6 +360,7 @@
 8705927-le-conseil-d-etat-vaudois-preside-par-nuria-gorrite-cesla-amarelle-a-l-ecole.html
 8705927-le-conseil-detat-vaudois-preside-par-nuria-gorrite-cesla-amarelle-a-lecole.html
 8707128-prison-a-vie-pour-l-homme-qui-a-poignarde-sa-femme-a-lutry-en-2015.html
+8707128-prison-a-vie-pour-lhomme-qui-a-poignarde-sa-femme-a-lutry-en-2015.html
 8717064-dans-le-canton-de-vaud-un-homme-condamne-pour-avoir-ebouillante-une-fillette.html
 8718844-plus-de-5000-signatures-vaudoises-pour-le-litre-de-lait-paye-un-franc.html
 8720278-la-confederation-recommande-le-rejet-du-projet-de-centre-d-asile-a-dailly.html
@@ -363,6 +371,7 @@
 8722646-la-societe-sicpa-devrait-supprimer-jusqua-150-postes-a-prilly-vd.html
 8722721-le-rejet-du-centre-d-asile-a-dailly-vd-une-decision-incomprehensible-.html
 8722721-le-rejet-du-centre-d-asile-a-dailly-vd-une-decision-incomprehensible.html
+8722721-le-rejet-du-centre-dasile-a-dailly-vd-une-decision-incomprehensible.html
 8722979-le-legislatif-de-pully-vd-accepte-le-projet-de-musee-ramuz-a-la-muette-.html
 8722979-le-legislatif-de-pully-vd-accepte-le-projet-de-musee-ramuz-a-la-muette.html
 8726273-nouvelle-attaque-contre-le-local-d-injection-prevu-a-lausanne.html
@@ -382,6 +391,7 @@
 8741881-le-conseil-d-etat-vaudois-epingle-pour-exces-de-confiance-dans-l-affaire-s3.html
 8741881-le-conseil-detat-vaudois-epingle-pour-exces-de-confiance-dans-laffaire-s3.html
 8744301-deux-liberations-apres-l-operation-antiterroriste-dans-le-canton-de-vaud.html
+8744301-deux-liberations-apres-loperation-antiterroriste-dans-le-canton-de-vaud.html
 8744747-quatre-ans-de-prison-pour-un-complice-d-une-evasion-dans-le-canton-de-vaud.html
 8746479-seisme-de-magnitude-4-3-enregistre-pres-de-chateau-d-oex-vd-.html
 8746479-seisme-de-magnitude-4-3-enregistre-pres-de-chateau-d-oex-vd.html
@@ -437,7 +447,9 @@
 8847008-un-mat-flottant-disparu-remonte-a-la-surface-du-lac-leman.html
 8849338-un-camion-en-feu-provoque-la-fermeture-de-l-a12-pres-de-vevey.html
 8850516-anne-catherine-lyon-renonce-a-un-poste-au-sein-du-musee-cantonal-des-beaux-arts.html
+8850516-annecatherine-lyon-renonce-a-un-poste-au-sein-du-musee-cantonal-des-beauxarts.html
 8853854-une-enquete-denonce-des-pratiques-de-dumping-salarial-a-l-unil.html
+8853854-une-enquete-denonce-des-pratiques-de-dumping-salarial-a-lunil.html
 8853854-une-enquete-revele-des-pratiques-de-dumping-salarial-a-l-unil.html
 8854376-pres-de-200-velos-electriques-en-libre-service-debarquent-a-lausanne.html
 8854376-pres-de-200-velos-electriques-en-libreservice-debarquent-a-lausanne.html
@@ -467,6 +479,7 @@
 8912159-la-qualite-de-l-air-s-est-sensiblement-amelioree-dans-le-canton-de-vaud.html
 8918502--il-faut-etre-millionnaire-aujourd-hui-pour-etre-vigneron-a-lavaux-.html
 8918502-il-faut-etre-millionnaire-aujourd-hui-pour-etre-vigneron-a-lavaux.html
+8918502-il-faut-etre-millionnaire-aujourdhui-pour-etre-vigneron-a-lavaux.html
 8919633-fache-toto-morand-cesse-son-soutien-aux-manifestations-lausannoises.html
 8922472-le-buffet-vegetarien-d-une-reception-officielle-vaudoise-offusque-l-udc.html
 8922472-le-buffet-vegetarien-dune-reception-officielle-vaudoise-offusque-ludc.html

@@ -121,6 +121,7 @@
 8499670-fathi-derder-sera-le-nouveau-redacteur-en-chef-de-l-agefi.html
 8520789-pascal-crittin-succede-a-gilles-marchand-a-la-direction-de-la-rts.html
 8582112-l-emission-satirique-26-minutes-s-arretera-en-decembre-2017.html
+8582112-lemission-satirique-26-minutes-sarretera-en-decembre-2017.html
 8688771-la-chaine-qatarie-al-jazeera-se-dit-victime-d-une-cyberattaque.html
 8688771-la-chaine-qatarie-al-jazeera-se-dit-victime-dune-cyberattaque.html
 8688869-david-pujadas-a-presente-son-dernier-journal-de-20-heures-sur-france-2.html
@@ -146,6 +147,7 @@
 9130708-les-morts-et-les-millions-de-dollars-de-degats-lies-au-jeu-pokemon-go.html
 9133171-project-veritas-une-organisation-en-croisade-contre-les-medias-americains.html
 9177664-de-la-fin-de-l-hebdo-au-malaise-chez-tamedia-annee-tendue-pour-la-presse-romande.html
+9177664-de-la-fin-de-lhebdo-au-malaise-chez-tamedia-annee-tendue-pour-la-presse-romande.html
 9179623-le-journaliste-de-la-rts-christian-favre-laureat-du-champignac-d-or.html
 9179623-le-journaliste-de-la-rts-christian-favre-laureat-du-champignac-dor.html
 9196471-les-redactions-romandes-de-tamedia-tentent-de-negocier-a-zurich-en-vain.html

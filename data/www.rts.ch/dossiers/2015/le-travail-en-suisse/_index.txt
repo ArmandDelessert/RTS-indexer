@@ -1,10 +1,8 @@
 ./
 7027628-test-de-bergen.html
-7034065-travailler-en-suisse-le-paradis-.html
+7034065-travailler-en-suisse-le-paradis.html
 7043395-infographie-sur-la-retraite-en-suisse.html
 7049612-travail-et-sante.html
 7050609-infographies-heures-supplementaires-et-vacances.html
-7050680-travailler-comment-on-s-arrete-.html
 7050680-travailler-comment-on-sarrete.html
-7086787-les-inegalites-hommes-femmes.html
 7086787-les-inegalites-hommesfemmes.html

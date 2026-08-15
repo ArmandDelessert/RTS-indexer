@@ -1711,6 +1711,7 @@
 7715176-les-comptes-2015-du-canton-de-fribourg-adoptes-a-l-unanimite.html
 7717812-la-fete-federale-de-lutte-2016-devoile-ses-contours-a-estavayer-le-lac-.html
 7728302-le-tf-decidera-du-sort-de-l-initiative-udc-sur-le-centre-islam-et-societe.html
+7728302-le-tf-decidera-du-sort-de-linitiative-udc-sur-le-centre-islam-et-societe.html
 7728777-fronde-de-la-section-fribourgeoise-du-pbd-contre-la-tete-du-parti.html
 7731733-demande-de-10-millions-de-francs-pour-soutenir-la-bluefactory-a-fribourg.html
 7737108-petition-des-employes-de-l-hopital-fribourgeois-pour-defendre-les-salaires.html
@@ -1752,6 +1753,7 @@
 7915974-une-aire-de-repos-de-la12-bientot-amenagee-pour-les-gens-du-voyage.html
 7936463-un-pretre-domicilie-dans-le-canton-de-fribourg-suspendu.html
 7937580-collision-fatale-sur-l-a12-entre-berne-et-fribourg-suite-a-un-contresens.html
+7937580-collision-fatale-sur-la12-entre-berne-et-fribourg-suite-a-un-contresens.html
 7949608-le-public-de-la-fete-federale-de-lutte-boude-les-transports-publics.html
 7955466-l-incendie-d-un-moulin-pres-de-payerne-perturbe-trafic-et-habitants.html
 7961368-des-millions-de-francs-de-degats-apres-l-incendie-d-un-moulin-a-cousset-fr-.html
@@ -1762,6 +1764,7 @@
 7969294-les-visiteurs-de-la-fete-federale-de-lutte-boudent-les-transports-publics.html
 7970583-52-000-spectateurs-applaudissent-les-hercules-de-la-lutte-a-estavayer.html
 7970583-la-fete-federale-de-lutte-d-estavayer-dominee-par-la-chaleur-et-la-sueur.html
+7970583-la-fete-federale-de-lutte-destavayer-dominee-par-la-chaleur-et-la-sueur.html
 7970583-les-colosses-de-la-lutte-bravent-la-chaleur-a-estavayer-le-lac.html
 7970583-sciure-et-sueur-en-vedette-a-la-fete-federale-de-lutte-d-estavayer.html
 7972482-debut-d-une-derniere-journee-a-suspense-a-la-fete-federale-de-lutte.html
@@ -1858,6 +1861,7 @@
 8389945-discorde-a-l-universite-de-fribourg-pour-la-nomination-d-un-professeur-de-droit.html
 8389945-discorde-a-luniversite-de-fribourg-pour-la-nomination-dun-professeur-de-droit.html
 8396293-la-marche-blanche-se-mobilise-apres-le-temoignage-d-un-fribourgeois-abuse.html
+8396293-la-marche-blanche-se-mobilise-apres-le-temoignage-dun-fribourgeois-abuse.html
 8404844-un-projet-de-milice-pour-le-centre-federal-de-requerants-de-chevrilles.html
 8421472-le-musee-d-histoire-naturelle-de-fribourg-sera-delocalise.html
 8421472-le-musee-dhistoire-naturelle-de-fribourg-sera-delocalise.html
@@ -1921,6 +1925,7 @@
 8855237-l-executif-fribourgeois-tance-apres-l-echec-du-projet-pour-les-archives.html
 8855237-lexecutif-fribourgeois-tance-apres-lechec-du-projet-pour-les-archives.html
 8877159-a-fribourg-l-imbroglio-juridique-lie-au-naufrage-de-la-jazz-parade-se-denoue.html
+8877159-a-fribourg-limbroglio-juridique-lie-au-naufrage-de-la-jazz-parade-se-denoue.html
 8881074-le-ps-fribourgeois-joue-la-credibilite-d-alain-berset-et-christian-levrat-sur-les-retraites.html
 8894071-un-des-auteurs-presumes-de-l-assassinat-de-frasses-s-est-evade.html
 8897385-la-salle-mummenschanz-a-villars-sur-glane-fr-provisoirement-fermee.html
@@ -1954,6 +1959,7 @@
 9005721-un-toit-amene-par-les-airs-pour-proteger-le-chateau-d-illens-fr-.html
 9005721-un-toit-amene-par-les-airs-pour-proteger-le-chateau-dillens-fr.html
 9043953-l-agrandissement-de-la-patinoire-de-fribourg-franchit-une-nouvelle-etape.html
+9043953-lagrandissement-de-la-patinoire-de-fribourg-franchit-une-nouvelle-etape.html
 9054027-le-maintien-en-detention-demande-pour-l-incendiaire-presume-de-la-broye.html
 9067885-la-taxe-d-inscription-a-l-universite-de-fribourg-augmentera-de-33-.html
 9068570-la-verte-marie-garnier-demissionne-du-conseil-d-etat-fribourgeois.html
@@ -1964,6 +1970,7 @@
 9075659-le-procureur-general-fribourgeois-se-recuse-dans-l-affaire-marie-garnier.html
 9075659-le-procureur-general-fribourgeois-se-recuse-dans-laffaire-marie-garnier.html
 9081677-l-affaire-garnier-pourrait-etre-instruite-a-l-exterieur-du-canton-de-fribourg.html
+9081677-laffaire-garnier-pourrait-etre-instruite-a-lexterieur-du-canton-de-fribourg.html
 9085322-l-immunite-de-la-ministre-fribourgeoise-demissionnaire-marie-garnier-levee.html
 9090829-a-fribourg-l-udc-lancera-un-candidat-pour-succeder-a-marie-garnier.html
 9091499-christian-levrat-renonce-a-briguer-le-siege-de-marie-garnier-a-fribourg.html
@@ -1985,10 +1992,12 @@
 9135888-une-saint-nicolas-festive-mais-sans-drones-cette-annee-a-fribourg.html
 9136815-le-cortege-de-la-st-nicolas-a-fribourg-a-attire-quelque-30-000-personnes.html
 9148306-le-poison-trouve-chez-un-depute-fribourgeois-n-a-pas-tue-la-louve-f13.html
+9148306-le-poison-trouve-chez-un-depute-fribourgeois-na-pas-tue-la-louve-f13.html
 9155888-les-fribourgeois-boudent-leur-principale-rue-commercante.html
 9158138-l-ecologiste-sylvie-bonvin-sansonnens-vise-le-conseil-d-etat-fribourgeois.html
 9170225-quelque-150-emplois-biffes-dans-le-second-oeuvre-fribourgeois-en-2017.html
 9170695-le-grand-conseil-fribourgeois-donne-davantage-d-autonomie-a-ses-prefets.html
+9170695-le-grand-conseil-fribourgeois-donne-davantage-dautonomie-a-ses-prefets.html
 9172997-la-societe-fribourgeoise-translait-veut-sallier-a-un-geant-chinois.html
 9173507-la-presidence-d-alain-berset-celebree-a-travers-le-canton-de-fribourg.html
 9183413-de-nouveaux-postes-dans-les-prisons-apres-l-evasion-d-un-detenu-a-fribourg.html
@@ -1997,14 +2006,18 @@
 9203168-limplantation-dun-fastfood-a-la-heg-de-fribourg-deplait-toujours.html
 9209050-en-situation-financiere-fragile-l-hopital-fribourgeois-se-rebelle-contre-l-etat.html
 9216418-attaque-sur-les-taxes-universitaires-le-conseil-d-etat-fribourgeois-retorque.html
+9216418-attaque-sur-les-taxes-universitaires-le-conseil-detat-fribourgeois-retorque.html
 9217844-l-udc-lance-ruedi-schlafli-dans-la-course-au-conseil-d-etat-fribourgeois.html
+9217844-ludc-lance-ruedi-schlafli-dans-la-course-au-conseil-detat-fribourgeois.html
 9224809-a-plumes-ou-a-poils-10-000-petits-animaux-sont-exposes-a-fribourg.html
+9224809-a-plumes-ou-a-poils-10000-petits-animaux-sont-exposes-a-fribourg.html
 9239029-le-canton-de-fribourg-sur-le-point-de-conclure-un-accord-avec-airbnb.html
 9246737-le-ps-fribourgeois-accuse-de-manoeuvres-dans-la-succession-garnier.html
 9249273-le-cg-pcs-fribourg-offre-son-soutien-aux-verts-dans-la-succession-garnier.html
 9251426-les-petites-communes-fribourgeoises-au-front-contre-la-fin-de-la-zone-villa.html
 9255745-fribourg-promeut-l-alimentation-des-seniors-afin-de-limiter-leurs-chutes.html
 9257463-le-pbd-fribourgeois-vise-le-conseil-d-etat-avec-philippe-nahum.html
+9257463-le-pbd-fribourgeois-vise-le-conseil-detat-avec-philippe-nahum.html
 9259654-fribourg-veut-implanter-a-saint-aubin-un-pole-d-innovation-agroalimentaire.html
 9259654-fribourg-veut-implanter-a-saintaubin-un-pole-dinnovation-agroalimentaire.html
 9264031-le-corps-d-une-genevoise-assassinee-retrouve-au-bord-du-lac-de-neuchatel.html
@@ -2042,6 +2055,7 @@
 9345276-les-prisons-romandes-paient-les-factures-de-la-politique-migratoire.html
 9347257-des-deputes-fribourgeois-demandent-la-fermeture-de-la-prison-centrale.html
 9349232-fribourg-en-quete-d-une-solution-pour-financer-les-camps-de-ski-scolaires.html
+9349232-fribourg-en-quete-dune-solution-pour-financer-les-camps-de-ski-scolaires.html
 9351959-la-directrice-de-l-hopital-de-fribourg-claudia-kach-quitte-l-institution.html
 9351959-la-directrice-de-lhopital-de-fribourg-claudia-kach-quitte-linstitution.html
 9357255-petition-contre-l-experimentation-sur-des-singes-a-fribourg-deposee.html
@@ -2061,6 +2075,7 @@
 9382115-fribourg-et-schwyz-introduisent-la-transparence-financiere-des-partis-.html
 9382115-fribourg-et-schwyz-introduisent-la-transparence-financiere-des-partis.html
 9384309-l-udc-laissera-la-liberte-de-vote-au-2e-tour-de-la-complementaire-a-fribourg.html
+9384309-ludc-laissera-la-liberte-de-vote-au-2e-tour-de-la-complementaire-a-fribourg.html
 9390404-l-udc-soutient-finalement-le-candidat-plr-au-conseil-d-etat-fribourgeois.html
 9391663-a-fribourg-le-pdc-a-renonce-in-extremis-a-sa-liste-didier-castella.html
 9391663-a-fribourg-le-plr-demande-au-pdc-de-renoncer-a-sa-liste-didier-castella-.html
@@ -2073,6 +2088,7 @@
 9408052-pylone-sous-haute-surveillance-apres-les-glissements-de-terrain-au-lac-noir.html
 9414425-comment-le-canton-de-fribourg-veut-accelerer-l-implantation-d-entreprises.html
 9425100-l-hopital-fribourgeois-utilisera-ses-fonds-propres-pour-effacer-ses-pertes.html
+9425100-lhopital-fribourgeois-utilisera-ses-fonds-propres-pour-effacer-ses-pertes.html
 9430852-le-geant-de-la-nutrition-pour-bebes-milupa-quitte-la-broye-fribourgeoise.html
 9437259-le-plr-didier-castella-elu-au-conseil-d-etat-fribourgeois.html
 9437259-le-plr-didier-castella-elu-au-conseil-detat-fribourgeois.html

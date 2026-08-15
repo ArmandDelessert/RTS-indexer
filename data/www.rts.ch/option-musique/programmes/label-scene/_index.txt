@@ -1,12 +1,4 @@
-./
-6067792-label-scene.html
-6193296-les-20-ans-d-option-musique-a-lausanne-17-10-2014.html
-6211427-en-2014-au-quebec-la-releve-musicale-sort-de-granby-24-10-2014.html
-6229790-iubal-collettivo-musicale-31-10-2014.html
 !6302120-label-scene-du-28-11-2014.html
-6520206-simon-gerber-a-tavannes-20-02-2015.html
-6539109-frederic-bobin-a-saint-imier-27-02-2015.html
-6595324-florilege-d-artistes-suisses-20-03-2015.html
 !6708863-label-scene-du-01-05-2015.html
 !6840768-label-scene-du-19-06-2015.html
 !6859992-label-scene-du-26-06-2015.html
@@ -16,7 +8,6 @@
 !7507691-label-scene-du-04-03-2016.html
 !7525905-label-scene-du-11-03-2016.html
 !7544563-label-scene-du-18-03-2016.html
-7562968-du-monde-dans-nos-studios-un-florilege-d-artistes-enregistres-par-la-rts-au-studio-15-25-03-2016.html
 !7581539-label-scene-du-01-04-2016.html
 !7719638-label-scene-du-27-05-2016.html
 !7754563-label-scene-du-10-06-2016.html

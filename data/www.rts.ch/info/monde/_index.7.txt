@@ -3063,6 +3063,7 @@
 7460442-un-nobel-de-la-paix-reclame-pour-les-habitants-des-iles-grecques.html
 7460807-le-president-cubain-raul-castro-accueilli-avec-les-honneurs-a-paris.html
 7460844-l-operation-de-remorquage-d-un-cargo-a-la-derive-en-france-a-reussi.html
+7460844-loperation-de-remorquage-dun-cargo-a-la-derive-en-france-a-reussi.html
 7460891-l-onu-rejette-toute-amnistie-pour-les-crimes-de-guerre-en-syrie.html
 7461135-endeuille-par-la-mort-du-chef-violier-le-guide-michelin-devoile-son-palmares.html
 7461188-taubira-critique-la-decheance-de-nationalite-dans-un-livre-surprise.html
@@ -3071,6 +3072,7 @@
 7461763-quelque-250-millions-de-dollars-promis-pour-lutter-contre-boko-haram.html
 7461918-les-restes-dun-bateau-funeraire-vieux-de-4500-ans-decouverts-en-egypte.html
 7462271-le-coup-d-envoi-des-primaires-americaines-donne-dans-l-iowa.html
+7462271-le-coup-denvoi-des-primaires-americaines-donne-dans-liowa.html
 7462494-l-oms-declare-le-virus-zika-urgence-de-sante-publique-mondiale-.html
 7462494-l-oms-declare-le-virus-zika-urgence-de-sante-publique-mondiale.html
 7462494-loms-declare-le-virus-zika-urgence-de-sante-publique-mondiale.html
@@ -3101,6 +3103,7 @@
 7465568-larmee-grecque-va-accroitre-son-aide-a-la-gestion-du-flux-migratoire.html
 7465597--le-regime-syrien-n-a-pas-l-intention-de-trouver-une-solution-.html
 7465597-le-regime-syrien-n-a-pas-l-intention-de-trouver-une-solution.html
+7465597-le-regime-syrien-na-pas-lintention-de-trouver-une-solution.html
 7465649-le-plan-d-action-de-l-ue-contre-le-terrorisme-vise-le-porte-monnaie.html
 7465996-le-texas-rapporte-un-cas-de-virus-zika-transmis-par-voie-sexuelle.html
 7466571-la-coree-du-nord-mise-en-garde-contre-un-nouveau-tir-de-missile.html
@@ -3121,12 +3124,14 @@
 7468632-donald-trump-accuse-ted-cruz-de-fraude-et-demande-un-nouveau-scrutin.html
 7468716-l-armee-syrienne-coupe-la-route-de-ravitaillement-des-rebelles-a-alep.html
 7469473-cinq-hotspots-pour-refugies-en-grece-seront-prets-a-la-mi-fevrier.html
+7469473-cinq-hotspots-pour-refugies-en-grece-seront-prets-a-la-mifevrier.html
 7469473-les-cinq-hotspots-pour-refugies-seront-prets-a-la-mi-fevrier-en-grece.html
 7469511-feu-vert-de-l-union-europeenne-pour-verser-3-milliards-a-la-turquie.html
 7469544-en-visite-dans-une-mosquee-obama-fustige-l-attitude-de-donald-trump.html
 7470015-amnesty-denonce-les-derives-de-l-etat-d-urgence-en-france.html
 7470302-julian-assange-se-rendra-en-cas-de-decision-defavorable-de-l-onu.html
 7470302-la-detention-de-julian-assange-jugee-illegale-par-un-arbitrage-de-l-onu.html
+7470302-la-detention-de-julian-assange-jugee-illegale-par-un-arbitrage-de-lonu.html
 7470345-les-pays-donateurs-promettent-plus-de-10-milliards-d-aide-a-la-syrie.html
 7470345-les-pays-donateurs-promettent-plus-de-6-milliards-d-aide-a-la-syrie.html
 7470345-londres-et-berlin-promettent-plus-de-4-milliards-de-francs-d-aide-a-la-syrie.html
@@ -3149,6 +3154,7 @@
 7472979-le-nombre-de-djihadistes-de-l-ei-a-double-en-libye-selon-washington.html
 7473047-des-avions-japonais-deroutes-par-crainte-d-un-missile-nord-coreen.html
 7473084-julian-assange-devra-etre-libere-et-indemnise-estime-l-onu.html
+7473084-julian-assange-devra-etre-libere-et-indemnise-estime-lonu.html
 7473085-hillary-clinton-et-bernie-sanders-se-sont-affrontes-lors-d-un-debat-plus-incisif.html
 7473140-le-president-haitien-s-en-ira-dimanche-laissant-le-pays-sans-chef-d-etat.html
 7473203-le-camp-du-brexit-creuse-l-ecart-avec-les-pro-ue-en-grande-bretagne.html
@@ -3160,6 +3166,7 @@
 7474160-la-chute-d-une-grue-fait-un-mort-et-trois-blesses-a-new-york.html
 7474283-les-negociations-entre-les-socialistes-et-podemos-bloquees-en-espagne.html
 7474421-angela-merkel-une-heroine-pour-avoir-accepte-les-refugies-selon-l-onu.html
+7474421-angela-merkel-une-heroine-pour-avoir-accepte-les-refugies-selon-lonu.html
 7474628-deces-de-trois-patients-atteints-par-le-virus-zika-en-colombie.html
 7474793-deux-journalistes-turcs-risquent-la-prison-a-vie-pour-terrorisme-.html
 7474854-3-morts-dans-l-effondrement-d-une-tour-a-taiwan-apres-un-seisme.html
@@ -3169,6 +3176,7 @@
 7474854-sept-morts-dans-l-effondrement-d-une-tour-a-taiwan-apres-un-seisme.html
 7474854-un-puissant-seisme-fait-au-moins-12-morts-dans-l-ile-de-taiwan.html
 7474854-un-puissant-seisme-fait-au-moins-18-morts-dans-l-ile-de-taiwan.html
+7474854-un-puissant-seisme-fait-au-moins-18-morts-dans-lile-de-taiwan.html
 7475334-un-homme-lapide-en-haiti-alors-que-le-pays-s-enfonce-dans-la-crise.html
 7475334-un-homme-lapide-en-haiti-alors-que-le-pays-senfonce-dans-la-crise.html
 7475463-l-iran-vend-desormais-plus-de-300-000-barils-de-brut-par-jour-en-europe.html
@@ -3179,6 +3187,7 @@
 7475696-ferrari-de-collection-vendue-pour-la-somme-record-de-32-millions-deuros.html
 7475877-le-pentagone-bloque-l-acces-a-1800-cliches-de-prisonniers-maltraites.html
 7475939-des-milliers-de-partisans-de-pegida-ont-manifeste-a-travers-l-europe.html
+7475939-des-milliers-de-partisans-de-pegida-ont-manifeste-a-travers-leurope.html
 7476328-gouvernement-de-transition-en-haiti-faute-de-president-elu.html
 7476751-la-coree-du-nord-procede-au-tir-d-une-fusee-a-longue-portee.html
 7476751-la-coree-du-nord-procede-au-tir-dune-fusee-a-longue-portee.html
@@ -3200,6 +3209,7 @@
 7479345-des-islamistes-soupconnes-de-vouloir-frapper-moscou-arretes-en-russie.html
 7479583-onze-migrants-se-noient-en-voulant-rallier-l-europe-par-la-mer.html
 7479583-une-trentaine-de-migrants-se-noient-en-voulant-rallier-l-europe-par-la-mer.html
+7479583-une-trentaine-de-migrants-se-noient-en-voulant-rallier-leurope-par-la-mer.html
 7479697-l-armee-syrienne-progresse-sur-plusieurs-fronts-vers-la-frontiere-turque.html
 7479697-les-rebelles-syriens-sont-attaques-sur-plusieurs-fronts-dans-le-nord-du-pays.html
 7479921-58-000-enfants-somaliens-risquent-de-mourir-de-faim-selon-l-onu.html
@@ -3217,6 +3227,7 @@
 7480889-la-turquie-redoute-davoir-jusqua-600000-nouveaux-refugies.html
 7480920-labsenteisme-des-elus-francais-pour-le-vote-sur-letat-durgence-indigne.html
 7481433-accord-de-plafonnement-des-emissions-de-co2-dans-l-aviation-civile.html
+7481433-accord-de-plafonnement-des-emissions-de-co2-dans-laviation-civile.html
 7481635-violents-accrochages-entre-policiers-et-manifestants-a-hong-kong-.html
 7481738-au-moins-huit-morts-dans-un-choc-frontal-entre-deux-trains-en-baviere.html
 7481738-dix-morts-et-des-dizaines-de-blesses-dans-un-accident-de-train-en-baviere.html
@@ -3235,6 +3246,7 @@
 7484052-les-deputes-votent-lextension-de-la-decheance-de-nationalite-en-france.html
 7484052-plus-de-3000-perquisitions-en-france-depuis-l-etat-d-urgence.html
 7484498-donald-trump-et-bernie-sanders-s-imposent-dans-le-new-hampshire.html
+7484498-donald-trump-et-bernie-sanders-simposent-dans-le-new-hampshire.html
 7484498-sanders-et-trump-remportent-la-primaire-du-new-hampshire.html
 7484498-trump-et-sanders-remportent-la-primaire-du-new-hampshire.html
 7484507-brutal-coup-d-arret-a-l-ambitieux-programme-d-obama-pour-le-climat.html
@@ -3273,6 +3285,7 @@
 7488781-la-turquie-annonce-la-fin-de-son-offensive-sur-la-ville-kurde-de-cizre.html
 7488953-retour-de-jeanmarc-ayrault-et-des-ecolos-dans-le-gouvernement-francais.html
 7489525-francois-hollande-demande-l-arret-des-bombardements-russes-en-syrie.html
+7489525-francois-hollande-demande-larret-des-bombardements-russes-en-syrie.html
 7489528-le-president-turc-menace-d-envoyer-les-refugies-syriens-en-europe.html
 7490151-accord-a-munich-pour-un-cessez-le-feu-d-ici-une-semaine-en-syrie.html
 7490151-accord-a-munich-pour-un-cessezlefeu-dici-une-semaine-en-syrie.html
@@ -3288,11 +3301,14 @@
 7492873-jim-gilmore-se-retire-de-la-course-a-l-investiture-republicaine-.html
 7492873-jim-gilmore-se-retire-de-la-course-a-linvestiture-republicaine.html
 7493040-la-pollution-tue-prematurement-5-5-millions-de-personnes-par-an.html
+7493040-la-pollution-tue-prematurement-55-millions-de-personnes-par-an.html
 7493154-le-monde-est-entre-dans-une-nouvelle-guerre-froide-selon-moscou.html
 7493214-les-roses-de-la-st-valentin-ont-parcouru-6000-kilometres.html
+7493214-les-roses-de-la-stvalentin-ont-parcouru-6000-kilometres.html
 7493241-des-rebelles-syriens-ont-tue-76-soldats-et-miliciens-du-regime-pres-de-damas.html
 7493241-une-embuscade-rebelle-tue-76-soldats-et-miliciens-du-regime-pres-de-damas.html
 7493517-l-idee-de-repartition-permanente-des-refugies-dans-l-ue-rejetee-par-paris.html
+7493517-lidee-de-repartition-permanente-des-refugies-dans-lue-rejetee-par-paris.html
 7493573-la-turquie-et-l-arabie-saoudite-pretes-a-envoyer-des-troupes-en-syrie.html
 7493588-apres-les-kurdes-de-syrie-la-turquie-a-vise-des-territoires-du-regime.html
 7493588-apres-les-kurdes-de-syrie-la-turquie-frappe-des-territoires-du-regime.html
@@ -3302,8 +3318,10 @@
 7494405-barack-obama-peut-faire-basculer-la-majorite-de-la-cour-supreme.html
 7494405-barack-obama-pourrait-faire-basculer-la-majorite-de-la-cour-supreme.html
 7494405-la-mort-d-un-juge-pourrait-faire-basculer-la-cour-supreme-americaine.html
+7494405-la-mort-dun-juge-pourrait-faire-basculer-la-cour-supreme-americaine.html
 7494555-plus-de-11-000-civils-tues-ou-blesses-en-afghanistan-en-2015-.html
 7494555-plus-de-11-000-civils-tues-ou-blesses-en-afghanistan-en-2015.html
+7494555-plus-de-11000-civils-tues-ou-blesses-en-afghanistan-en-2015.html
 7494807-la-suisse-menera-les-relations-diplomatiques-entre-ryad-et-teheran.html
 7495090-deux-tiers-de-la-population-mondiale-connaissent-des-penuries-d-eau.html
 7495238-copenhague-se-recueille-un-an-apres-les-attaques-qui-ont-fait-deux-morts.html
@@ -3315,6 +3333,7 @@
 7496392-un-avion-fait-demi-tour-apres-avoir-ete-vise-par-un-laser.html
 7496392-un-avion-fait-demitour-apres-avoir-ete-vise-par-un-laser.html
 7496478-la-slovenie-pose-des-restrictions-a-l-entree-de-migrants-a-ses-frontieres.html
+7496478-la-slovenie-pose-des-restrictions-a-lentree-de-migrants-a-ses-frontieres.html
 7496669-la-bosnie-herzegovine-demande-son-adhesion-a-l-union-europeenne.html
 7496669-la-bosnieherzegovine-demande-son-adhesion-a-lunion-europeenne.html
 7496711-les-drones-reelle-menace-pour-la-securite-des-avions-civils-selon-l-iata.html
@@ -3344,6 +3363,7 @@
 7500971-l-autriche-annonce-des-controles-le-long-de-sa-frontiere-avec-l-italie.html
 7501038-damas-accepte-l-envoi-d-une-aide-humanitaire-a-sept-zones-assiegees-.html
 7501099-nicolas-sarkozy-mis-en-examen-dans-l-affaire-bygmalion.html
+7501099-nicolas-sarkozy-mis-en-examen-dans-laffaire-bygmalion.html
 7501877-dans-le-michoacan-au-mexique-le-pape-denonce-violence-et-corruption.html
 7502043-damas-remet-en-cause-la-neutralite-de-l-ong-medecins-sans-frontieres.html
 7502245-plus-d-un-million-d-enfants-victimes-de-malnutrition-aigne-en-afrique.html
@@ -3402,6 +3422,7 @@
 7511582-damas-se-dit-pret-a-une-treve-si-les-terroristes-ne-l-exploitent-pas-.html
 7511582-damas-se-dit-pret-a-une-treve-si-les-terroristes-ne-lexploitent-pas.html
 7511687-trump-triomphe-en-caroline-du-sud-clinton-s-impose-dans-le-nevada.html
+7511687-trump-triomphe-en-caroline-du-sud-clinton-simpose-dans-le-nevada.html
 7512120-le-tireur-arrete-par-la-police-dans-le-michigan-a-fait-six-victimes-.html
 7512120-un-homme-soupconne-d-avoir-abattu-six-personnes-arrete-dans-le-michigan.html
 7512134-le-republicain-jeb-bush-se-retire-de-la-course-a-la-maison-blanche.html
@@ -3418,11 +3439,13 @@
 7512725-cinq-morts-dans-une-fusillade-entre-soldats-et-hommes-armes-en-inde.html
 7512735-renforts-militaires-aux-frontieres-en-autriche-face-a-l-afflux-de-migrants.html
 7512758-des-dizaines-d-habitants-de-fallouja-enleves-par-l-ei-en-irak.html
+7512758-des-dizaines-dhabitants-de-fallouja-enleves-par-lei-en-irak.html
 7512862-le-maire-de-londres-boris-johnson-fera-campagne-pour-la-sortie-de-l-ue.html
 7512862-le-maire-de-londres-boris-johnson-fera-campagne-pour-le-brexit.html
 7513850-la-suisse-est-le-14e-pays-exportateur-de-materiel-militaire.html
 7513850-les-exportations-chinoises-d-armes-ont-double-en-cinq-ans-selon-un-rapport.html
 7513872-evo-morales-pourrait-etre-prive-d-un-quatrieme-mandat-en-bolivie.html
+7513872-evo-morales-pourrait-etre-prive-dun-quatrieme-mandat-en-bolivie.html
 7513872-issue-incertaine-pour-evo-morales-candidat-a-un-4eme-mandat-en-bolivie.html
 7513872-les-boliviens-diraient-non-a-un-quatrieme-mandat-pour-evo-morales.html
 7514057-le-puissant-cyclone-winston-a-tue-29-personnes-aux-iles-fidji.html
@@ -3436,6 +3459,7 @@
 7514552-le-principal-opposant-ougandais-a-nouveau-arrete-apres-un-vote-controverse.html
 7514552-principal-opposant-ougandais-arrete-pour-la-3e-fois-apres-la-presidentielle.html
 7514899-deux-ans-apres-son-arrivee-au-pouvoir-matteo-renzi-s-impose-en-reformateur.html
+7514899-deux-ans-apres-son-arrivee-au-pouvoir-matteo-renzi-simpose-en-reformateur.html
 7514899-deux-ans-apres-son-arrivee-matteo-renzi-veut-toujours-reformer-l-italie.html
 7515389-l-indonesie-fait-exploser-et-coule-31-bateaux-de-peche-illegale.html
 7515676-embouteillage-de-migrants-a-la-frontiere-greco-macedonienne.html
@@ -3471,6 +3495,7 @@
 7521445-l-ex-star-du-foot-turc-hakan-sukur-juge-pour-insulte-contre-erdogan.html
 7521763-la-hongrie-organisera-un-referendum-sur-les-quotas-de-migrants.html
 7521882-l-egypte-admet-que-le-crash-d-avion-dans-le-sinai-est-du-a-un-attentat.html
+7521882-legypte-admet-que-le-crash-davion-dans-le-sinai-est-du-a-un-attentat.html
 7521972-corruption-et-pots-de-vin-qui-est-accuse-de-quoi-dans-le-scandale-fifa-.html
 7521972-corruption-et-potsdevin-qui-est-accuse-de-quoi-dans-le-scandale-fifa.html
 7522069-obama-remonte-contre-le-senat-qui-veut-bloquer-la-nomination-d-un-juge.html
@@ -3498,6 +3523,7 @@
 7526234-les-rivaux-republicains-de-donald-trump-lachent-leurs-coups.html
 7526284--il-faut-instaurer-un-plus-grand-contre-pouvoir-au-president-de-la-fifa-.html
 7526284-il-faut-instaurer-un-plus-grand-contre-pouvoir-au-president-de-la-fifa.html
+7526284-il-faut-instaurer-un-plus-grand-contrepouvoir-au-president-de-la-fifa.html
 7526436-gianni-infantino-en-tete-un-deuxieme-tour-necessaire-a-la-fifa.html
 7526436-l-election-du-nouveau-president-de-la-fifa-en-direct.html
 7526436-l-italo-suisse-gianni-infantino-elu-a-la-tete-de-la-fifa.html
@@ -3527,9 +3553,11 @@
 7529545-deux-attaques-suicides-font-plus-de-20-morts-en-afghanistan.html
 7529561-une-vague-de-manifestants-anti-nucleaires-deferle-sur-londres.html
 7529571-des-milliers-de-russes-commemorent-le-meurtre-de-l-opposant-nemtsov.html
+7529571-des-milliers-de-russes-commemorent-le-meurtre-de-lopposant-nemtsov.html
 7529581-un-raid-aerien-de-la-coalition-arabe-fait-au-moins-trente-morts-au-yemen.html
 7529760-premier-cas-de-transmission-du-virus-zika-par-voie-sexuelle-en-france.html
 7529816-les-etats-unis-et-la-russie-dressent-un-bilan-positif-de-la-treve-en-syrie.html
+7529816-les-etatsunis-et-la-russie-dressent-un-bilan-positif-de-la-treve-en-syrie.html
 7530577-hillary-clinton-remporte-haut-la-main-la-primaire-en-caroline-du-sud.html
 7530754-jusqu-a-70-000-migrants-pourraient-se-retrouver-bloques-en-grece.html
 7530754-jusqua-70000-migrants-pourraient-se-retrouver-bloques-en-grece.html
@@ -3547,6 +3575,7 @@
 7534564-pres-de-80-morts-en-deux-jours-dans-des-attentats-anti-chiites-en-irak.html
 7534802-les-elections-consacrent-le-triomphe-des-reformateurs-en-iran.html
 7535497-le-virus-zika-peut-provoquer-le-syndrome-de-guillain-barre.html
+7535497-le-virus-zika-peut-provoquer-le-syndrome-de-guillainbarre.html
 7535714--chacun-des-membres-de-l-ue-est-pousse-par-la-tyrannie-du-court-terme-.html
 7535714-chacun-des-membres-de-lue-est-pousse-par-la-tyrannie-du-court-terme.html
 7535866-corridor-humanitaire-en-italie-pour-accueillir-des-refugies-syriens.html
@@ -3570,6 +3599,7 @@
 7540287-un-puissant-tremblement-de-terre-frappe-l-ile-de-sumatra-en-indonesie.html
 7540287-un-puissant-tremblement-de-terre-frappe-lile-de-sumatra-en-indonesie.html
 7540345-aide-financiere-inedite-de-l-ue-pour-faire-face-a-l-afflux-de-refugies.html
+7540345-aide-financiere-inedite-de-lue-pour-faire-face-a-lafflux-de-refugies.html
 7540345-aide-humanitaire-inedite-de-l-ue-pour-faire-face-a-l-afflux-de-refugies.html
 7540610-les-medias-americains-analysent-les-resultats-du-super-tuesday-.html
 7540610-les-medias-americains-saluent-les-resultats-du-super-tuesday.html
@@ -3578,6 +3608,7 @@
 7540705-staffan-de-mistura-livre-son-plan-pour-la-reprise-des-negociations-syriennes.html
 7540720-droite-et-podemos-barrent-la-route-a-un-gouvernement-socialiste-en-espagne.html
 7541750-pyongyang-repond-aux-nouvelles-sanctions-de-l-onu-par-des-tirs.html
+7541750-pyongyang-repond-aux-nouvelles-sanctions-de-lonu-par-des-tirs.html
 7541758-plus-de-6-milliards-de-dollars-pour-la-rupture-d-un-barrage-minier-au-bresil.html
 7541942-l-ex-patron-de-vw-averti-du-scandale-un-an-avant-qu-il-n-eclate.html
 7541956-au-soudan-du-sud-les-deux-camps-trainent-des-pieds-pour-faire-la-paix.html
@@ -3589,6 +3620,7 @@
 7542989-une-panne-generale-d-electricite-touche-la-syrie.html
 7542989-une-panne-generale-delectricite-touche-la-syrie.html
 7543269-davantage-de-femmes-au-parlement-au-rwanda-et-a-cuba-qu-en-suisse.html
+7543269-davantage-de-femmes-au-parlement-au-rwanda-et-a-cuba-quen-suisse.html
 7543431-un-brexit-aurait-des-consequences-sur-les-migrants-met-en-garde-hollande.html
 7543711-la-gare-la-plus-chere-au-monde-ouvre-ses-portes-a-new-york-.html
 7543711-la-gare-la-plus-couteuse-au-monde-ouvre-ses-portes-a-new-york-.html
@@ -3611,12 +3643,14 @@
 7546143-la-carte-de-lembrasement-du-monde-arabe.html
 7546291-les-dates-cles-du-scandale-bresilien-petrobras.html
 7546686-nouvel-echec-pour-la-formation-d-un-gouvernement-en-espagne.html
+7546686-nouvel-echec-pour-la-formation-dun-gouvernement-en-espagne.html
 7546734-plus-d-un-million-de-signatures-contre-la-nouvelle-loi-du-travail-en-france.html
 7546734-plus-dun-million-de-signatures-contre-la-nouvelle-loi-du-travail-en-france.html
 7547227-un-navire-nord-coreen-saisi-en-vertu-des-sanctions-de-l-onu.html
 7547341-climat-hostile-en-turquie-apres-la-mise-sous-tutelle-judiciaire-d-un-journal.html
 7547542-annonce-d-une-reprise-echelonnee-des-pourparlers-sur-la-syrie-a-geneve.html
 7548418-l-arabie-saoudite-va-recuperer-des-armes-francaises-destinees-au-liban.html
+7548418-larabie-saoudite-va-recuperer-des-armes-francaises-destinees-au-liban.html
 7548768-la-foule-a-l-enterrement-de-la-militante-ecologiste-hondurienne-assassinee.html
 7548844-nouvelle-vague-de-primaires-et-caucus-dans-cinq-etats-americains.html
 7548893-les-legislatives-slovaques-debouchent-sur-parlement-tres-fragmente.html
@@ -3633,6 +3667,7 @@
 7550218-une-ministre-francaise-promet-la-fermeture-de-fessenheim-en-2016.html
 7550290-l-ex-premiere-dame-americaine-nancy-reagan-est-decedee-a-l-age-de-94-ans.html
 7550369-le-budget-de-la-defense-russe-pourrait-etre-reduit-de-5-cette-annee.html
+7550705-leurope-sapprete-a-fermer-la-route-occidentale-des-balkans-aux-refugies.html
 7551246-pyongyang-menace-seoul-et-les-usa-de-frappes-nucleaires-a-l-aveugle-.html
 7551246-pyongyang-menace-seoul-et-washington-de-frappes-nucleaires-a-l-aveugle-.html
 7551246-pyongyang-menace-seoul-et-washington-de-frappes-nucleaires-a-laveugle.html
@@ -3654,6 +3689,7 @@
 7553558-la-turquie-propose-son-aide-a-l-ue-mais-fait-monter-les-encheres.html
 7553583-le-milliardaire-michael-bloomberg-ne-sera-pas-candidat-a-la-maison-blanche.html
 7554016-l-ue-et-la-turquie-se-donnent-10-jours-pour-un-accord-sur-les-refugies.html
+7554016-lue-et-la-turquie-se-donnent-10-jours-pour-un-accord-sur-les-refugies.html
 7554033-l-australie-a-bon-espoir-de-retrouver-l-avion-disparu-de-malaysia-airlines.html
 7554033-l-australie-a-bon-espoir-de-retrouver-le-boeing-disparu-de-malaysia.html
 7554226-le-regime-syrien-negociera-a-geneve-des-le-lundi-14-mars.html
@@ -3679,6 +3715,7 @@
 7558663-salaries-et-etudiants-francais-dans-la-rue-contre-la-reforme-du-droit-du-travail.html
 7559070-buckingham-dement-etre-en-faveur-du-brexit-comme-l-affirme-un-tabloid.html
 7559685-l-effondrement-d-un-immeuble-au-nigeria-fait-34-morts.html
+7559685-leffondrement-dun-immeuble-au-nigeria-fait-34-morts.html
 7560160-l-ancien-president-bresilien-lula-mis-en-examen-pour-blanchiment-d-argent.html
 7560160-l-ancien-president-bresilien-lula-mis-en-examen.html
 7560160-lancien-president-bresilien-lula-mis-en-examen-pour-blanchiment-dargent.html
@@ -3710,6 +3747,7 @@
 7564522-premier-pas-vers-la-normalisation-des-relations-entre-lue-et-cuba.html
 7564826-dilma-rousseff-ne-veut-pas-demissionner-malgre-les-scandales.html
 7565450-donald-trump-annule-un-meeting-a-chicago-a-la-suite-d-echauffourees.html
+7565450-donald-trump-annule-un-meeting-a-chicago-a-la-suite-dechauffourees.html
 7565619-l-onu-s-attaque-aux-abus-sexuels-commis-par-des-casques-bleus.html
 7565637-le-president-americain-oppose-a-des-smartphones-impenetrables.html
 7565711-john-kerry-defend-les-pourparlers-de-geneve-malgre-des-incidents-en-syrie.html
@@ -3723,6 +3761,7 @@
 7566379-les-refugies-manifestent-en-grece-pour-l-ouverture-de-la-frontiere.html
 7566379-les-refugies-manifestent-en-grece-pour-louverture-de-la-frontiere.html
 7566602-les-leaders-sociaux-democrates-reunis-pour-relancer-le-projet-europeen.html
+7566602-les-leaders-sociauxdemocrates-reunis-pour-relancer-le-projet-europeen.html
 7566727-angela-merkel-maintient-sa-position-sur-les-refugies-avant-les-regionales.html
 7567302-le-wyoming-et-washington-ne-veulent-pas-de-donald-trump.html
 7567302-le-wyoming-et-washington-ne-veulent-pas-de-trump-a-l-investiture-republicaine.html
@@ -3734,23 +3773,27 @@
 7567456-l-opposition-syrienne-exige-le-depart-de-bachar-al-assad-mort-ou-vif.html
 7567490-le-rapport-final-confirme-le-scenario-du-crash-volontaire-pour-germanwings.html
 7567883-600-combattants-de-l-ei-auraient-ete-tues-ces-trois-dernieres-semaines.html
+7567883-600-combattants-de-lei-auraient-ete-tues-ces-trois-dernieres-semaines.html
 7567972-raids-aeriens-meurtriers-contre-les-islamistes-a-aden-au-yemen.html
 7567990-le-pape-francois-celebre-le-troisieme-anniversaire-de-son-election.html
 7568043-des-centaines-de-milliers-de-bresiliens-manifestent-contre-leur-presidente.html
 7568043-les-bresiliens-affluent-par-milliers-pour-manifester-contre-la-presidente.html
 7568077-dix-huit-victimes-dont-quatre-europeens-dans-une-fusillade-en-cote-d-ivoire.html
 7568077-dix-huit-victimes-dont-quatre-francais-dans-une-fusillade-en-cote-d-ivoire.html
+7568077-dixhuit-victimes-dont-quatre-francais-dans-une-fusillade-en-cote-divoire.html
 7568077-seize-victimes-dont-quatre-europeens-dans-une-fusillade-en-cote-d-ivoire.html
 7568154-les-occidentaux-soutiennent-le-nouveau-gouvernement-libyen.html
 7568212-au-moins-27-morts-et-75-blesses-dans-une-nouvelle-explosion-a-ankara.html
 7568212-au-moins-34-morts-et-125-blesses-dans-une-explosion-au-centre-d-ankara.html
 7568212-le-bilan-de-l-attentat-d-ankara-s-alourdit-a-37-morts-et-122-blesses.html
 7568212-le-bilan-de-l-attentat-d-ankara-s-alourdit-a-37-morts.html
+7568212-le-bilan-de-lattentat-dankara-salourdit-a-37-morts.html
 7568212-le-bilan-s-alourdit-a-37-morts-et-122-blesses-dans-une-explosion-au-centre-d-ankara.html
 7568212-une-nouvelle-explosion-dans-le-centre-d-ankara-fait-plusieurs-morts.html
 7569191-les-pourparlers-de-paix-sur-la-syrie-s-annoncent-difficiles-a-geneve.html
 7569297-debut-de-l-audition-des-temoins-dans-le-proces-vatileaks-2-.html
 7569297-debut-de-l-audition-des-temoins-dans-le-proces-vatileaks-2.html
+7569297-debut-de-laudition-des-temoins-dans-le-proces-vatileaks-2.html
 7569391--la-grande-perdante-aux-regionales-en-allemagne-n-est-pas-angela-merkel-.html
 7569391--le-grand-perdant-aux-regionales-en-allemagne-n-est-pas-angela-merkel-.html
 7569391-la-grande-perdante-aux-regionales-en-allemagne-n-est-pas-angela-merkel.html
@@ -3841,6 +3884,7 @@
 7580620-lexpatron-de-la-fifa-sepp-blatter-a-gagne-328-millions-deuros-en-2015.html
 7580640-tractations-compliquees-a-bruxelles-pour-boucler-un-accord-avec-la-turquie.html
 7581679-l-ue-a-finalise-une-position-commune-a-presenter-a-la-turquie.html
+7581679-lue-a-finalise-une-position-commune-a-presenter-a-la-turquie.html
 7581794-le-virus-ebola-refait-surface-en-guinee-avec-de-nouvelles-victimes.html
 7581794-le-virus-ebola-refait-surface-en-guinee-avec-deux-nouvelle-victimes.html
 7581794-le-virus-ebola-refait-surface-en-guinee-avec-deux-nouvelles-victimes.html
@@ -3866,6 +3910,7 @@
 7584507-le-president-al-assad-somme-de-livrer-sa-solution-pour-la-syrie.html
 7584554-salah-abdeslam-pourrait-etre-remis-a-la-france-plutot-qu-extrade-.html
 7584554-salah-abdeslam-pourrait-etre-remis-a-la-france-plutot-qu-extrade.html
+7584554-salah-abdeslam-pourrait-etre-remis-a-la-france-plutot-quextrade.html
 7584577--il-faut-renforcer-la-presence-internationale-au-burundi-.html
 7584648-un-attentat-fait-plusieurs-morts-sur-une-grande-avenue-pietonne-a-istanbul.html
 7584673-un-airbus-a380-frole-la-collision-avec-un-drone-au-dessus-de-los-angeles.html
@@ -3881,6 +3926,7 @@
 7586227-election-presidentielle-sous-tension-au-congo-brazzaville.html
 7586370-une-quinzaine-de-morts-dans-une-collision-d-autocar-en-espagne.html
 7586370-une-suissesse-blessee-dans-l-accident-de-car-qui-a-fait-13-morts-en-espagne.html
+7586370-une-suissesse-blessee-dans-laccident-de-car-qui-a-fait-13-morts-en-espagne.html
 7586519-des-camions-poubelle-s-attaquent-au-fleuve-de-dechets-autour-de-beyrouth.html
 7586519-des-camions-poubelle-sattaquent-au-fleuve-de-dechets-autour-de-beyrouth.html
 7586781-l-auteur-de-l-attentat-d-istanbul-etait-membre-du-groupe-etat-islamique.html
@@ -3892,6 +3938,7 @@
 7588312-l-opposition-syrienne-ne-veut-pas-d-un-report-des-negociations-a-geneve.html
 7588312-lopposition-syrienne-ne-veut-pas-dun-report-des-negociations-a-geneve.html
 7588493-sept-italiennes-parmi-les-victimes-de-l-accident-de-car-en-espagne.html
+7588493-sept-italiennes-parmi-les-victimes-de-laccident-de-car-en-espagne.html
 7588578-le-communautarisme-a-protege-abdeslam-selon-la-maire-de-paris.html
 7589287-un-potentiel-artificier-des-attentats-de-paris-a-ete-identifie.html
 7589350-le-flux-migratoire-ne-tarit-pas-en-grece-malgre-l-accord-ue-turquie.html
@@ -3930,6 +3977,7 @@
 7592328-une-centaine-de-migrants-interceptes-au-large-de-lesbos.html
 7592539-comment-la-cote-de-donald-trump-a-explose-aupres-des-bookmakers.html
 7593550-la-justice-valide-les-ecoutes-ayant-mene-a-l-inculpation-de-sarkozy.html
+7593562-les-dessinateurs-rendent-hommage-a-bruxelles-meurtrie.html
 7594705-la-belgique-sous-le-choc-se-recueille-apres-les-attentats-meurtriers.html
 7595170-les-etats-unis-ont-frappe-un-camp-d-al-qaida-au-yemen-faisant-50-morts.html
 7595170-les-etats-unis-ont-frappe-un-camp-d-al-qaida-au-yemen.html
@@ -3961,6 +4009,7 @@
 7597807--le-processus-de-paix-en-syrie-doit-reussir-aussi-pour-les-europeens-.html
 7597807-le-processus-de-paix-en-syrie-doit-reussir-aussi-pour-les-europeens.html
 7597817-polemique-autour-du-signalement-a-la-belgique-d-un-des-freres-kamikazes.html
+7597817-polemique-autour-du-signalement-a-la-belgique-dun-des-freres-kamikazes.html
 7597836-les-attaques-de-bruxelles-visaient-aussi-les-americains-selon-un-parlementaire.html
 7597836-les-attaques-de-bruxelles-visaient-aussi-les-americains.html
 7598204-congo-le-president-sassou-nguesso-reelu-au-premier-tour.html
@@ -3971,6 +4020,7 @@
 7598591-quelques-bons-reflexes-a-adopter-en-cas-d-attaque-terroriste.html
 7598591-quelques-bons-reflexes-a-adopter-en-cas-dattaque-terroriste.html
 7598772-aucun-migrant-n-aurait-debarque-sur-les-iles-grecques-depuis-24-heures.html
+7598772-aucun-migrant-naurait-debarque-sur-les-iles-grecques-depuis-24-heures.html
 7598821-salah-abdeslam-n-etait-pas-au-courant-des-attentats-de-bruxelles-selon-son-avocat.html
 7598821-salah-abdeslam-pas-au-courant-des-attentats-de-bruxelles-selon-son-avocat.html
 7598887-l-irak-lance-une-operation-militaire-pour-reprendre-mossoul-au-groupe-ei.html
@@ -4004,15 +4054,18 @@
 7601981-john-kerry-nous-devons-reiterer-notre-determination-a-nous-unir-.html
 7601981-john-kerry-nous-devons-reiterer-notre-determination-a-nous-unir.html
 7602138-trois-interpellations-au-cours-d-operations-policieres-a-bruxelles.html
+7602138-trois-interpellations-au-cours-doperations-policieres-a-bruxelles.html
 7602167-l-armee-syrienne-reprend-la-citadelle-de-palmyre-au-groupe-etat-islamique.html
 7602167-larmee-syrienne-reprend-la-citadelle-de-palmyre-au-groupe-etat-islamique.html
 7602249-le-numero-2-du-groupe-etat-islamique-aurait-ete-tue-par-les-etats-unis.html
 7602249-le-numero-2-du-groupe-etat-islamique-aurait-ete-tue-par-les-etatsunis.html
 7602404-le-reseau-terroriste-de-bruxelles-et-paris-bientot-aneanti-selon-hollande.html
 7602475-le-fourgon-des-portugais-decedes-en-france-n-etait-pas-homologue.html
+7602475-le-fourgon-des-portugais-decedes-en-france-netait-pas-homologue.html
 7602665-un-attentat-suicide-fait-30-morts-apres-un-match-de-foot-pres-de-bagdad.html
 7602677-trois-attaques-de-l-ei-font-plus-de-25-morts-a-aden-au-yemen.html
 7602977-le-pape-francois-critique-l-ue-pour-sa-gestion-des-migrants.html
+7602977-le-pape-francois-critique-lue-pour-sa-gestion-des-migrants.html
 7603223-aung-san-suu-kyi-furieuse-d-etre-interviewee-par-une-musulmane-.html
 7603243-deux-hommes-suspectes-d-avoir-participe-aux-attentats-de-bruxelles-inculpes.html
 7603243-deux-hommes-suspectes-davoir-participe-aux-attentats-de-bruxelles-inculpes.html
@@ -4068,10 +4121,12 @@
 7607580-le-vice-president-bresilien-appelle-a-rompre-avec-dilma-rousseff.html
 7607657-le-volcan-pavlof-en-alaska-entre-en-eruption-le-trafic-aerien-detourne.html
 7607694-les-pays-riches-ont-reinstalle-1-39-des-refugies-syriens-selon-oxfam.html
+7607694-les-pays-riches-ont-reinstalle-139-des-refugies-syriens-selon-oxfam.html
 7607799--quelque-chose-doit-changer-dans-ce-pays-estime-une-journaliste-belge.html
 7607871-la-plupart-des-passagers-du-vol-egypt-air-detourne-a-chypre-ont-ete-liberes.html
 7607871-le-pirate-du-vol-degypt-air-vers-chypre-arrete-et-tous-les-otages-liberes.html
 7607871-otages-liberes-et-pirate-arrete-apres-le-detournement-d-un-avion-vers-chypre.html
+7607871-otages-liberes-et-pirate-arrete-apres-le-detournement-dun-avion-vers-chypre.html
 7607871-un-avion-degypt-air-detourne-par-au-moins-un-pirate-a-chypre.html
 7608091-des-lois-de-defense-contestees-entrent-en-vigueur-au-japon.html
 7608281-le-nombre-de-touristes-a-chute-de-10-en-turquie-apres-les-attentats.html
@@ -4081,6 +4136,7 @@
 7609034-causes-personnelles-ou-politiques-les-principaux-detournements-d-avions.html
 7609669-le-directeur-de-campagne-de-donald-trump-arrete-pour-voies-de-fait.html
 7609847-l-oms-decrete-la-fin-de-l-urgence-de-sante-internationale-pour-ebola.html
+7609847-loms-decrete-la-fin-de-lurgence-de-sante-internationale-pour-ebola.html
 7610718-le-president-de-la-birmanie-doublure-d-aung-suu-kyi-prete-serment.html
 7611688--l-ei-nous-obligeait-a-nous-couvrir-le-visage-et-controlait-tout-de-nos-vies-.html
 7611775-francois-hollande-renonce-a-la-decheance-de-nationalite-en-france.html
@@ -4089,13 +4145,16 @@
 7611924-des-milliers-de-tonnes-d-aliments-frelates-ou-contrefaits-saisis-dans-le-monde.html
 7612093-bachar-al-assad-dit-souhaiter-un-gouvernement-de-transition-federe-.html
 7612093-bachar-al-assad-dit-souhaiter-un-gouvernement-de-transition-federe.html
+7612093-bachar-alassad-dit-souhaiter-un-gouvernement-de-transition-federe.html
 7612183-les-rouages-du-scandale-petrobras-qui-fait-vaciller-les-puissants-du-bresil.html
 7612433-perquisitions-des-locaux-de-l-eveche-de-lyon-dans-une-enquete-pour-pedophilie.html
 7612466-le-suspect-d-un-projet-d-attentat-dejoue-inculpe-par-la-justice-francaise.html
+7612466-le-suspect-dun-projet-dattentat-dejoue-inculpe-par-la-justice-francaise.html
 7612477-une-brigade-blindee-americaine-deployee-en-europe-de-l-est-des-2017.html
 7612909-pres-de-1400-migrants-secourus-en-un-jour-au-large-de-l-italie.html
 7612925-la-presidente-bresilienne-dilma-rousseff-denonce-un-coup-d-etat-.html
 7612925-la-presidente-bresilienne-dilma-rousseff-denonce-un-coup-d-etat.html
+7612925-la-presidente-bresilienne-dilma-rousseff-denonce-un-coup-detat.html
 7613299-l-abus-des-migrants-pour-le-mondial-au-qatar-se-poursuit-selon-amnesty.html
 7613299-labus-des-migrants-pour-le-mondial-au-qatar-se-poursuit-selon-amnesty.html
 7613332-donald-trump-suggere-de-punir-celles-qui-avortent-avant-de-se-retracter.html
@@ -4108,6 +4167,7 @@
 7613783-paris-face-a-une-nouvelle-vague-de-contestation-contre-la-loi-sur-le-travail.html
 7614025-le-fbi-a-depose-63-demandes-pour-debloquer-des-telephones.html
 7614046-comprendre-la-loi-sur-le-travail-le-projet-decrie-du-gouvernement-francais.html
+7614071-la-justice-belge-autorise-lextradition-vers-la-france-de-salah-abdeslam.html
 7614071-salah-abdeslam-accepte-d-etre-remis-a-la-france-et-veut-collaborer.html
 7614165-lanceurs-d-alerte-dans-les-abattoirs-francais-pour-denoncer-la-maltraitance.html
 7614165-lanceurs-dalerte-dans-les-abattoirs-francais-pour-denoncer-la-maltraitance.html
@@ -4120,6 +4180,7 @@
 7614738-le-port-du-piree-a-athenes-commence-a-se-vider-de-ses-migrants.html
 7614985--l-europe-ne-doit-pas-devenir-un-exemple-negatif-en-matiere-de-refugies-.html
 7614985-l-europe-ne-doit-pas-devenir-un-exemple-negatif-en-matiere-de-refugies.html
+7614985-leurope-ne-doit-pas-devenir-un-exemple-negatif-en-matiere-de-refugies.html
 7615317-en-plus-de-zika-le-bresil-confronte-a-une-epidemie-de-grippe-aviaire.html
 7615969-obama-et-erdogan-evoquent-la-lutte-contre-l-ei-lors-d-une-reunion-imprevue.html
 7616056-des-milliers-de-bresiliens-se-mobilisent-contre-la-destitution-de-rousseff.html
@@ -4129,19 +4190,24 @@
 7616623-un-vaccin-contre-le-virus-ebola-administre-a-800-personnes-en-guinee.html
 7617000-les-responsables-politiques-belges-critiques-dans-un-sondage.html
 7617188-la-crainte-d-un-usage-terroriste-de-la-matiere-nucleaire-persiste.html
+7617188-la-crainte-dun-usage-terroriste-de-la-matiere-nucleaire-persiste.html
 7617231-swedenland-quand-la-suisse-et-la-suede-fusionnent-pour-le-premier-avril.html
 7617419-extradition-autorisee-d-un-faussaire-presume-de-l-ei-vers-la-belgique.html
 7617755-le-president-sud-africain-reconnait-une-faute-mais-n-abdique-pas.html
+7617755-le-president-sudafricain-reconnait-une-faute-mais-nabdique-pas.html
 7617779-l-accord-controverse-entre-l-ue-et-la-turquie-se-concretise-et-inquiete.html
+7617779-laccord-controverse-entre-lue-et-la-turquie-se-concretise-et-inquiete.html
 7618249-nouvelle-expertise-dans-l-enquete-sur-les-43-etudiants-mexicains-disparus.html
 7618352--la-grave-crise-politique-au-bresil-n-affectera-pas-les-jeux-olympiques-.html
 7618352-la-grave-crise-politique-au-bresil-n-affectera-pas-les-jeux-olympiques.html
+7618352-la-grave-crise-politique-au-bresil-naffectera-pas-les-jeux-olympiques.html
 7618413-les-etats-unis-continuent-a-traquer-les-chefs-de-l-ei-en-syrie-et-en-irak.html
 7618473-au-moins-30-soldats-tues-lors-de-combats-au-nagorny-karabakh.html
 7618473-intenses-combats-au-nagorny-karabakh-entre-l-armenie-et-l-azerbaidjan.html
 7618512-un-charnier-de-42-personnes-executees-par-l-ei-decouvert-a-palmyre.html
 7618694-l-onu-enquete-sur-des-casques-bleus-soupconnes-d-abus-sexuels-en-rdc.html
 7618724-un-troisieme-suspect-de-l-attentat-dejoue-en-france-inculpe-en-belgique.html
+7618724-un-troisieme-suspect-de-lattentat-dejoue-en-france-inculpe-en-belgique.html
 7618797-l-aeroport-de-bruxelles-devrait-rouvrir-partiellement-dimanche.html
 7619215-l-opposition-italienne-depose-une-motion-de-censure-contre-le-gouvernement.html
 7619215-lopposition-italienne-depose-une-motion-de-censure-contre-le-gouvernement.html
@@ -4153,10 +4219,12 @@
 7619817-moscou-et-washington-appellent-au-cessez-le-feu-au-nagorny-karabakh.html
 7619830-des-milliers-de-colombiens-en-colere-contre-le-processus-de-paix-.html
 7619839-un-premier-avion-a-decolle-de-l-aeroport-de-bruxelles-zaventem.html
+7619839-un-premier-avion-a-decolle-de-laeroport-de-bruxelleszaventem.html
 7619851-lesbos-dans-l-expectative-avant-le-debut-des-renvois-de-migrants.html
 7620191-la-sncf-poursuit-le-renforcement-de-sa-securite-depuis-l-attaque-du-thalys.html
 7620232-l-armee-syrienne-s-empare-d-un-fief-de-l-ei-a-l-ouest-de-palmyre.html
 7620274-l-allemagne-suggere-des-accords-sur-les-migrants-avec-l-afrique-du-nord.html
+7620274-lallemagne-suggere-des-accords-sur-les-migrants-avec-lafrique-du-nord.html
 7620391-au-moins-53-morts-dans-des-intemperies-au-pakistan.html
 7620740-les-panama-papers-revelent-plus-de-214-000-entites-offshore-.html
 7620740-les-panama-papers-revelent-plus-de-214-000-entites-offshore.html
@@ -4169,9 +4237,11 @@
 7622077-la-population-fuit-massivement-le-sud-de-brazzaville-au-congo-apres-des-combats.html
 7622077-violents-combats-entre-la-police-et-des-tireurs-a-brazzaville-au-congo.html
 7622347-le-role-d-aung-san-suu-kyi-revu-a-la-baisse-au-gouvernement-birman.html
+7622347-le-role-daung-san-suu-kyi-revu-a-la-baisse-au-gouvernement-birman.html
 7622548-les-hotesses-dair-france-refusant-le-voile-ne-voleront-pas-vers-teheran.html
 7623447-le-conducteur-et-le-proprietaire-du-minibus-accidente-en-france-en-prison.html
 7623997-la-neo-zelandaise-helen-clark-se-lance-pour-succeder-a-ban-ki-moon.html
+7623997-la-neozelandaise-helen-clark-se-lance-pour-succeder-a-ban-kimoon.html
 7624013-le-royaume-disney-perd-son-prince-heritier.html
 7624267-le-vatican-et-econe-progressent-sur-le-chemin-de-la-reconciliation.html
 7624292-dans-la-tourmente-des-panama-papers-le-premier-ministre-islandais-demissionne.html
@@ -4204,6 +4274,7 @@
 7629084-les-clients-de-prostituees-seront-sanctionnes-en-france.html
 7629151-la-commission-europeenne-propose-ses-idees-de-reforme-du-systeme-dublin.html
 7629653-les-neerlandais-rejettent-l-accord-entre-l-ukraine-et-l-ue-lors-d-un-referendum.html
+7629653-les-neerlandais-rejettent-laccord-entre-lukraine-et-lue-lors-dun-referendum.html
 7630278-le-panama-promet-d-enqueter-sur-ses-pratiques-financieres.html
 7630278-sous-pression-le-panama-se-dit-pret-a-durcir-ses-pratiques-fiscales.html
 7630362-le-trafic-aerien-des-passagers-a-augmente-de-6-8-dans-le-monde-en-2015.html
@@ -4236,6 +4307,7 @@
 7634215-la-piste-de-l-erreur-humaine-se-precise-dans-le-crash-du-boeing-de-flydubai.html
 7634356-le-nouveau-pouvoir-birman-libere-69-etudiants-emprisonnes-depuis-un-an.html
 7634459-cinq-arrestations-a-bruxelles-dont-un-suspect-cle-des-attentats-de-paris.html
+7634459-cinq-arrestations-a-bruxelles-dont-un-suspectcle-des-attentats-de-paris.html
 7634459-l-un-des-suspects-cles-des-attentats-de-paris-arrete-en-belgique.html
 7634459-plusieurs-arrestations-en-lien-avec-les-attentats-de-paris-et-de-bruxelles.html
 7634619-l-allemagne-pourrait-sanctionner-les-societes-liees-aux-paradis-fiscaux.html
@@ -4256,9 +4328,11 @@
 7636010-lautriche-veut-saisir-la-maison-natale-de-hitler-pour-eviter-tout-pelerinage.html
 7636462-le-parquet-argentin-demande-une-enquete-sur-lexpresidente-kirchner.html
 7636837-l-egypte-et-l-arabie-saoudite-creent-un-fonds-d-investissement-de-16-milliards-de-dollars.html
+7636837-legypte-et-larabie-saoudite-creent-un-fonds-dinvestissement-de-16-milliards-de-dollars.html
 7636970-john-kerry-est-au-japon-pour-une-visite-sans-precedent-a-hiroshima.html
 7636973-un-incendie-fait-au-moins-79-morts-dans-un-temple-dans-le-sud-de-l-inde.html
 7636973-un-incendie-fait-plus-de-100-morts-dans-un-temple-dans-le-sud-de-l-inde.html
+7636973-un-incendie-fait-plus-de-100-morts-dans-un-temple-dans-le-sud-de-linde.html
 7636982-david-cameron-cree-un-groupe-d-enquete-sur-les-panama-papers-.html
 7636982-david-cameron-va-creer-un-groupe-d-enquete-sur-les-panama-papers-.html
 7636982-david-cameron-va-creer-un-groupe-denquete-sur-les-panama-papers.html
@@ -4271,6 +4345,7 @@
 7637587-le-boston-globe-publie-une-fausse-une-choc-avec-trump-president.html
 7637594-un-architecte-suisse-construira-la-plus-haute-tour-du-monde-a-dubai.html
 7638563-les-parties-en-conflit-au-yemen-s-engagent-a-respecter-le-cessez-le-feu.html
+7638563-les-parties-en-conflit-au-yemen-sengagent-a-respecter-le-cessezlefeu.html
 7638737-la-candidate-de-droite-keiko-fujimori-en-tete-du-premier-tour-au-perou.html
 7639014-huit-candidats-passent-un-oral-a-l-onu-pour-succeder-a-ban-ki-moon.html
 7639113-pripyat-avant-la-catastrophe.html
@@ -4292,6 +4367,7 @@
 7643585-les-bureaux-du-milliardaire-francais-vincent-bollore-perquisitionnes.html
 7643859-les-cotes-italiennes-redeviennent-un-objectif-pour-les-migrants.html
 7644315-enquete-ouverte-apres-une-alerte-a-l-aeroport-d-amsterdam-schiphol.html
+7644315-enquete-ouverte-apres-une-alerte-a-laeroport-damsterdamschiphol.html
 7644315-enquete-ouverte-suite-a-une-alerte-a-l-aeroport-d-amsterdam-schiphol.html
 7644326-le-parti-progressiste-quitte-aussi-le-gouvernement-bresilien-.html
 7644603-les-syriens-se-rendent-aux-urnes-pour-reelire-leur-parlement.html
@@ -4307,6 +4383,7 @@
 7646536-lexpresidente-argentine-cristina-kirchner-entendue-par-un-juge.html
 7646657-survols-agressifs-d-un-navire-americain-par-des-chasseurs-russes.html
 7647038-reprise-des-discussions-sur-la-syrie-a-geneve-avec-l-arrivee-des-opposants.html
+7647038-reprise-des-discussions-sur-la-syrie-a-geneve-avec-larrivee-des-opposants.html
 7647081-plainte-contre-l-ecole-de-pilotage-qui-a-forme-le-pilote-de-la-germanwings.html
 7647608-le-psd-bresilien-allie-de-dilma-rousseff-votera-aussi-pour-la-destitution.html
 7647779-la-justice-ecarte-toute-mesure-contre-mossack-fonseca-pour-le-moment-.html
@@ -4342,6 +4419,7 @@
 7651737-l-allemagne-accepte-la-demande-turque-de-poursuivre-un-humoriste.html
 7651738-evo-morales-au-pape-prenez-de-la-coca-c-est-bon-pour-la-sante-.html
 7651813-les-trois-ex-presidents-francais-coutent-10-millions-d-euros-par-an.html
+7651813-les-trois-expresidents-francais-coutent-10-millions-deuros-par-an.html
 7652021-la-delegation-syrienne-est-arrivee-a-geneve-pour-les-negociations.html
 7652181-au-japon-un-nouveau-seisme-fait-18-morts-et-des-degats-considerables.html
 7652181-au-japon-un-nouveau-seisme-fait-sept-morts-et-des-degats-considerables.html
@@ -4365,6 +4443,7 @@
 7655080-vote-crucial-au-parlement-de-brasilia-ou-dilma-rousseff-joue-sa-presidence.html
 7655706-un-drone-aurait-heurte-un-avion-reliant-geneve-a-londres.html
 7656239-au-bresil-la-presidente-dilma-rousseff-se-rapproche-d-une-destitution.html
+7656239-au-bresil-la-presidente-dilma-rousseff-se-rapproche-dune-destitution.html
 7656370-les-secouristes-fouillent-les-decombres-a-mains-nues-en-equateur.html
 7656442-4-5-millions-de-personnes-sans-eau-potable-au-chili-a-cause-des-pluies.html
 7656498-echec-du-referendum-sur-les-forages-petroliers-en-italie-renzi-soulage.html
@@ -4373,8 +4452,10 @@
 7657011-la-treve-menacee-de-voler-en-eclats-en-syrie-.html
 7657046-un-masque-a-gaz-sur-churchill-et-nelson-pour-denoncer-la-pollution.html
 7657294-des-centaines-de-migrants-auraient-peri-en-mer-au-large-de-l-egypte.html
+7657294-des-centaines-de-migrants-auraient-peri-en-mer-au-large-de-legypte.html
 7657441-le-japon-doit-faire-face-a-plus-de-100-000-evacues-suite-aux-seismes-.html
 7658256-les-desastres-naturels-ont-cause-50-000-morts-par-an-depuis-1900.html
+7658256-les-desastres-naturels-ont-cause-50000-morts-par-an-depuis-1900.html
 7658308-les-prix-pulitzer-2016-font-echo-aux-grands-drames-du-monde.html
 7658751-le-bilan-du-seisme-en-equateur-depasse-les-480-morts.html
 7658916-une-bombe-explose-dans-un-bus-a-jerusalem-blessant-21-personnes.html
@@ -4414,6 +4495,7 @@
 7664028-breivik-gagne-son-proces-contre-la-norvege-pour-traitement-inhumain.html
 7664158-retour-surprise-de-fidel-castro-devant-le-congres-du-parti-communiste-cubain.html
 7664896-volkswagen-serait-pret-a-racheter-pres-de-500-000-vehicules-aux-etats-unis.html
+7664896-volkswagen-serait-pret-a-racheter-pres-de-500000-vehicules-aux-etatsunis.html
 7664896-volkswagen-versera-5000-dollars-a-chacun-de-ses-clients-americains-trompes.html
 7665449-le-parti-republicain-s-ouvre-a-l-idee-d-une-candidature-trump.html
 7665449-le-parti-republicain-souvre-a-lidee-dune-candidature-trump.html
@@ -4428,6 +4510,7 @@
 7665895-trois-employes-inculpes-dans-le-scandale-de-l-eau-contaminee-aux-etats-unis.html
 7666556-ansar-dine-revendique-l-enlevement-de-trois-humanitaires-du-cicr-au-mali.html
 7666556-ansar-dine-revendique-l-enlevement-de-trois-humanitaires-du-cicr.html
+7666556-ansar-dine-revendique-lenlevement-de-trois-humanitaires-du-cicr-au-mali.html
 7666556-des-djihadistes-revendiquent-l-enlevement-de-trois-membres-du-cicr-au-mali.html
 7667297-bugey-fessenheim-pourquoi-ces-centrales-nucleaires-francaises-derangent-tant-les-suisses-.html
 7667297-bugey-fessenheim-pourquoi-ces-centrales-nucleaires-francaises-derangent-tant-les-suisses.html
@@ -4437,6 +4520,7 @@
 7668384-barack-obama-favorable-au-maintien-de-la-grande-bretagne-dans-l-ue.html
 7668384-barack-obama-favorable-au-maintien-de-la-grandebretagne-dans-lue.html
 7668595-les-70-000-facons-de-se-blesser-ou-de-mourir-classifiees-aux-etats-unis.html
+7668595-les-70000-facons-de-se-blesser-ou-de-mourir-classifiees-aux-etatsunis.html
 7668632-fortes-hausses-d-impots-annoncees-en-equateur-pour-la-reconstruction.html
 7668680-amnesty-accuse-l-armee-nigeriane-d-avoir-massacre-350-chiites.html
 7668784-le-plus-long-tunnel-destine-au-trafic-de-drogue-decouvert-aux-etats-unis.html
@@ -4444,10 +4528,12 @@
 7669334-les-trois-employes-du-cicr-disparus-au-mali-ont-ete-liberes.html
 7669334-les-trois-membres-de-la-croix-rouge-disparus-au-mali-sont-libres.html
 7669348-un-des-kamikazes-de-l-aeroport-de-bruxelles-etait-geolier-en-syrie.html
+7669348-un-des-kamikazes-de-laeroport-de-bruxelles-etait-geolier-en-syrie.html
 7669586-une-ministre-norvegienne-joue-la-refugiee-naufragee-et-choque-internet.html
 7669730-un-accord-sur-la-dette-grecque-devrait-etre-trouve-jeudi-prochain.html
 7669906-andreas-gross-l-islam-n-est-pas-incompatible-avec-la-democratie-.html
 7669906-andreas-gross-l-islam-n-est-pas-incompatible-avec-la-democratie.html
+7669906-andreas-gross-lislam-nest-pas-incompatible-avec-la-democratie.html
 7669968-les-drones-americains-tirent-plus-de-missiles-que-les-avions-de-combat.html
 7669980-leonardo-dicaprio-a-l-onu-il-est-temps-d-agir-pour-le-climat-.html
 7669980-leonardo-dicaprio-a-l-onu-il-est-temps-d-agir-pour-le-climat.html
@@ -4459,6 +4545,7 @@
 7670753-un-nombre-record-de-pays-signent-a-lonu-laccord-sur-le-climat.html
 7670918-barack-obama-fait-l-eloge-d-angela-merkel-la-gardienne-de-l-europe-.html
 7670918-barack-obama-fait-l-eloge-d-angela-merkel-la-gardienne-de-l-europe.html
+7670918-barack-obama-fait-leloge-dangela-merkel-la-gardienne-de-leurope.html
 7670966-mysterieux-assassinats-de-8-membres-d-une-meme-famille-aux-etats-unis.html
 7671038-l-equateur-tremble-a-nouveau-alors-que-l-aide-internationale-s-organise.html
 7671428-manifestation-contre-l-accord-de-libre-echange-transatlantique-a-hanovre.html
@@ -4519,6 +4606,7 @@
 7679509-les-espagnols-a-nouveau-appeles-aux-urnes-apres-plusieurs-mois-de-blocage.html
 7679593-un-nouveau-super-tuesday-devrait-rapprocher-clinton-et-trump-du-but.html
 7679969-onze-morts-dont-huit-militaires-dans-une-fusillade-au-cap-vert.html
+7679969-onze-morts-dont-huit-militaires-dans-une-fusillade-au-capvert.html
 7680385-les-fonctionnaires-venezueliens-ne-travailleront-plus-que-lundi-et-mardi.html
 7680390-triomphe-de-donald-trump-aux-primaires-republicaines-dans-cinq-etats.html
 7680566-le-bresil-denombre-plus-de-90-000-cas-de-contamination-au-virus-zika.html
@@ -4532,6 +4620,7 @@
 7681848-des-documents-des-panama-papers-seront-bientot-ouverts-au-public.html
 7681848-les-documents-des-panama-papers-seront-bientot-ouvert-au-public.html
 7681979-l-autriche-adopte-une-loi-pour-restreindre-son-droit-d-asile.html
+7681979-lautriche-adopte-une-loi-pour-restreindre-son-droit-dasile.html
 7682247-salah-abdeslam-inculpe-en-france-pour-assassinats-a-caractere-terroriste.html
 7682278--l-amerique-d-abord-donald-trump-livre-sa-vision-de-la-politique-etrangere.html
 7682278-l-amerique-d-abord-donald-trump-livre-sa-vision-de-la-politique-etrangere.html
@@ -4541,6 +4630,7 @@
 7683160-au-venezuela-faute-de-ressources-les-deputes-ne-seront-plus-payes-.html
 7683160-faute-de-ressources-les-deputes-ne-seront-plus-payes-au-venezuela.html
 7683168-l-envoye-special-de-l-onu-veut-revitaliser-le-cessez-le-feu-en-syrie.html
+7683168-lenvoye-special-de-lonu-veut-revitaliser-le-cessezlefeu-en-syrie.html
 7683478-arrestations-apres-des-manifs-contre-la-reforme-du-travail-en-france.html
 7683478-heurts-en-france-autour-de-la-reforme-du-droit-du-travail.html
 7683478-les-salaries-et-les-etudiants-battront-a-nouveau-le-pave-en-france.html
@@ -4576,12 +4666,14 @@
 7688649-400-manifestants-contre-un-congres-populiste-interpelles-en-allemagne.html
 7688649-en-allemagne-400-manifestants-interpelles-lors-d-un-congres-populiste.html
 7688881-des-milliers-d-irakiens-en-colere-s-introduisent-dans-le-parlement.html
+7688881-des-milliers-dirakiens-en-colere-sintroduisent-dans-le-parlement.html
 7688922-l-effondrement-d-un-immeuble-au-kenya-fait-10-morts-et-120-blesses.html
 7688922-l-effondrement-d-un-immeuble-au-kenya-fait-12-morts-et-120-blesses.html
 7688945-le-kenya-detruit-la-plus-grande-quantite-d-ivoire-de-l-histoire.html
 7688945-le-kenya-detruit-la-plus-grande-quantite-divoire-de-lhistoire.html
 7688963-plus-de-80-migrants-disparus-dans-un-naufrage-en-mer-au-large-de-la-libye.html
 7689829-apres-son-congres-l-alternative-pour-l-allemagne-s-affirme-contre-l-islam.html
+7689829-apres-son-congres-lalternative-pour-lallemagne-saffirme-contre-lislam.html
 7689829-la-droite-populiste-allemande-tentee-par-un-cap-anti-islam.html
 7689967-john-kerry-reclame-le-retablissement-du-cessez-le-feu-dans-toute-la-syrie.html
 7690028-londres-se-choisit-un-nouveau-maire-un-musulman-favori-des-sondages.html
@@ -4616,11 +4708,13 @@
 7694653-un-neo-zelandais-bat-son-propre-record-du-monde-d-apnee.html
 7694870-les-espagnols-retourneront-aux-urnes-le-26-juin-apres-des-mois-de-blocage.html
 7695167-de-mistura-demande-l-aide-de-moscou-pour-relancer-le-cessez-le-feu-en-syrie-.html
+7695200-long-helvetas-lutte-contre-la-secheresse-en-ethiopie.html
 7695501-les-orphelins-du-toit-du-monde.html
 7696703-francois-hollande-defend-la-loi-sur-le-travail-qui-arrive-au-parlement.html
 7696754-accuse-de-crime-de-guerre-en-syrie-un-allemand-est-juge-a-francfort.html
 7697004-le-fondateur-allemand-de-pegida-condamne-pour-insulte-a-des-refugies.html
 7697724-ted-cruz-abandonne-ouvrant-la-voie-a-l-investiture-de-donald-trump.html
+7697724-ted-cruz-abandonne-ouvrant-la-voie-a-linvestiture-de-donald-trump.html
 7697734-le-premier-ministre-canadien-promet-une-aide-aux-sinistres-de-fort-mcmurray.html
 7697734-un-incendie-conduit-a-des-evacuations-massives-dans-l-alberta.html
 7697734-ville-canadienne-entierement-evacuee-face-a-un-incendie-hors-de-controle.html
@@ -4631,6 +4725,7 @@
 7698636-la-justice-europeenne-valide-l-uniformisation-des-paquets-de-tabac.html
 7698636-la-justice-europeenne-valide-luniformisation-des-paquets-de-tabac.html
 7698917-l-europe-propose-une-exemption-de-visas-sous-conditions-pour-les-turcs.html
+7698917-leurope-propose-une-exemption-de-visas-sous-conditions-pour-les-turcs.html
 7699560-john-kasich-abandonne-l-investiture-republicaine-a-donald-trump.html
 7699560-john-kasich-abandonne-linvestiture-republicaine-a-donald-trump.html
 7699560-l-abandon-annonce-de-john-kasich-ouvre-la-voie-de-l-investiture-a-donald-trump.html
@@ -4648,6 +4743,7 @@
 7701390-carambolage-mortel-dans-le-nord-de-la-france-apres-une-course-poursuite.html
 7701418-les-obama-recoivent-des-personnages-de-star-wars-et-dansent-avec-eux-.html
 7701612-concert-d-un-orchestre-symphonique-russe-dans-l-amphitheatre-de-palmyre.html
+7701612-concert-dun-orchestre-symphonique-russe-dans-lamphitheatre-de-palmyre.html
 7701698-yanis-varoufakis-les-pays-europeens-ont-ete-divises-par-une-monnaie-commune-.html
 7701698-yanis-varoufakis-les-pays-europeens-ont-ete-divises-par-une-monnaie-commune.html
 7701952-rome-et-berlin-d-accord-sur-la-politique-migratoire-pas-sur-le-financement.html
@@ -4738,6 +4834,7 @@
 7711115-le-depute-francais-accuse-de-harcelement-sexuel-porte-plainte.html
 7711280-deux-hommes-soupconnes-de-terrorisme-arretes-en-italie.html
 7711280-trois-arrestations-dans-le-cadre-d-une-enquete-anti-terroriste-en-italie.html
+7711280-trois-arrestations-dans-le-cadre-dune-enquete-antiterroriste-en-italie.html
 7711298-plus-de-100-personnes-auraient-ete-brulees-vives-en-turquie.html
 7711516-prison-requise-contre-les-lanceurs-d-alerte-du-scandale-luxleaks.html
 7711643-le-gouvernement-francais-va-passer-en-force-sur-la-loi-sur-le-travail.html
@@ -4747,6 +4844,7 @@
 7711887-un-incendie-spectaculaire-detruit-la-moitie-dune-entreprise-en-espagne.html
 7712560-deux-mois-de-prison-avec-sursis-pour-dieudonne-pour-propos-antisemites.html
 7712625-l-allemagne-agrandit-son-armee-evoquant-des-tensions-avec-moscou.html
+7712625-lallemagne-agrandit-son-armee-evoquant-des-tensions-avec-moscou.html
 7712786-des-dizaines-de-migrants-interceptes-dans-un-camion-en-macedoine.html
 7712870-une-delegation-du-conseil-oecumenique-des-eglises-malmenee-en-israel.html
 7713379-nuit-debout-tonne-contre-le-passage-en-force-de-la-loi-sur-le-travail-en-france.html
@@ -4764,6 +4862,7 @@
 7715675-enquete-apres-le-suicide-en-direct-dune-francaise-sur-periscope.html
 7715721-l-humoriste-francais-dieudonne-s-est-fait-refouler-a-la-frontiere-canadienne.html
 7715746-les-deputes-italiens-ont-donne-leur-feu-vert-a-l-union-civile-homosexuelle.html
+7715746-les-deputes-italiens-ont-donne-leur-feu-vert-a-lunion-civile-homosexuelle.html
 7715746-les-deputes-italiens-ont-donne-leur-feu-vert-au-mariage-gay.html
 7715857-rama-yade-le-sexisme-est-une-facon-de-decourager-les-femmes-en-politique-.html
 7715857-rama-yade-le-sexisme-est-une-facon-de-decourager-les-femmes-en-politique.html
@@ -4810,6 +4909,7 @@
 7721746-sur-un-mur-de-vilnius-trump-embrasse-poutine-sur-la-bouche.html
 7722028-le-nouveau-gouvernement-bresilien-deja-sous-le-feu-des-critiques.html
 7722415-pfizer-interdit-l-usage-de-ses-produits-pour-les-executions-capitales.html
+7722415-pfizer-interdit-lusage-de-ses-produits-pour-les-executions-capitales.html
 7722623-le-hezbollah-accuse-des-extremistes-sunnites-d-avoir-tue-son-chef-en-syrie.html
 7722698-le-president-venezuelien-accuse-les-etats-unis-de-fomenter-un-coup-d-etat.html
 7722967-l-armee-syrienne-reprend-un-hopital-de-deir-ezzor-a-l-ei.html
@@ -4819,16 +4919,20 @@
 7723048-deux-tigres-rattrapes-apres-quatre-heures-de-cavale-aux-paysbas.html
 7723145-berlin-prevoit-plus-de-90-milliards-d-euros-pour-les-refugies-d-ici-2020.html
 7723198-au-royaume-uni-les-deux-camps-intensifient-la-campagne-sur-le-brexit.html
+7723198-au-royaumeuni-les-deux-camps-intensifient-la-campagne-sur-le-brexit.html
 7723923-l-ancien-maire-de-londres-boris-johnson-compare-l-ue-a-adolf-hitler.html
 7723998-une-dizaine-de-morts-dans-l-attaque-d-une-raffinerie-de-gaz-pres-de-bagdad.html
 7723998-une-dizaine-de-morts-dans-l-attaque-d-une-usine-pres-de-bagdad.html
 7724010-netanyahu-redit-son-opposition-a-l-initiative-de-paix-francaise.html
+7724010-netanyahu-redit-son-opposition-a-linitiative-de-paix-francaise.html
 7724085-face-au-sexisme-en-politique-l-appel-de-dix-sept-ex-ministres-francaises.html
+7724085-face-au-sexisme-en-politique-lappel-de-dixsept-exministres-francaises.html
 7724099-l-ei-vise-des-jeunes-recrues-de-la-police-au-yemen-faisant-25-morts.html
 7724099-l-ei-vise-la-police-au-yemen-faisant-une-quarantaine-de-morts.html
 7724099-l-ei-vise-la-police-au-yemen-faisant-une-trentaine-de-morts.html
 7724483-la-victoire-ukrainienne-a-l-eurovision-passe-mal-en-russie.html
 7724496-des-milliers-d-indignes-marquent-leur-cinquieme-anniversaire-a-madrid.html
+7724496-des-milliers-dindignes-marquent-leur-cinquieme-anniversaire-a-madrid.html
 7724547-le-gouvernement-du-venezuela-s-oppose-au-referendum.html
 7724547-les-mesures-repressives-se-multiplient-dans-un-venezuela-proche-du-chaos.html
 7724858-le-nouveau-president-philippin-veut-retablir-la-peine-capitale.html
@@ -4840,6 +4944,7 @@
 7725837-la-revolution-culturelle-en-chine-cetait-il-y-a-cinquante-ans.html
 7725837-les-medias-chinois-silencieux-cinquante-ans-apres-la-revolution-culturelle.html
 7725978-des-centaines-de-femmes-et-hommes-d-affaires-pour-le-brexit.html
+7725978-des-centaines-de-femmes-et-hommes-daffaires-pour-le-brexit.html
 7726203-la-capitale-afghane-kaboul-paralysee-par-des-milliers-de-manifestants.html
 7726277-la-communaute-internationale-va-soutenir-le-rearmement-de-la-libye.html
 7726332-la-tres-secrete-agence-britannique-gchq-rejoint-la-nsa-sur-twitter.html
@@ -4870,9 +4975,11 @@
 7730796-les-victimes-du-11-septembre-pourraient-poursuivre-l-arabie-saoudite.html
 7730798--donald-trump-veut-renouveler-la-politique-etrangere-des-etats-unis-.html
 7730798-donald-trump-veut-renouveler-la-politique-etrangere-des-etats-unis.html
+7730798-donald-trump-veut-renouveler-la-politique-etrangere-des-etatsunis.html
 7731245-bagarre-au-parlement-sud-africain-entre-l-opposition-et-le-service-d-ordre.html
 7731245-bagarre-au-parlement-sudafricain-entre-lopposition-et-le-service-dordre.html
 7731522-plusieurs-accusations-d-agressions-sexuelles-lors-d-un-festival-a-berlin.html
+7731522-plusieurs-accusations-dagressions-sexuelles-lors-dun-festival-a-berlin.html
 7731581-plus-de-150-disparus-suite-a-des-glissements-de-terrain-au-sri-lanka.html
 7731739-ahmed-menace-de-mort-pour-la-defense-des-homosexuels-en-tunisie.html
 7731988-des-policiers-attaques-a-paris-en-marge-d-une-manif-contre-la-haine-anti-flics-.html
@@ -4905,6 +5012,7 @@
 7733548-un-avion-degyptair-reliant-paris-au-caire-a-disparu-des-radars.html
 7734242--mon-premier-harcelement-c-etait-a-7-ans-la-parole-se-libere-au-mexique.html
 7734242-mon-premier-harcelement-c-etait-a-7-ans-la-parole-se-libere-au-mexique.html
+7734242-mon-premier-harcelement-cetait-a-7-ans-la-parole-se-libere-au-mexique.html
 7734390-la-fronde-sociale-continue-en-france-dans-un-climat-mine-par-les-violences.html
 7734733-un-allie-d-erdogan-succedera-a-ahmet-davutoglu-en-turquie.html
 7734733-un-allie-derdogan-succedera-a-ahmet-davutoglu-en-turquie.html
@@ -4923,23 +5031,27 @@
 7736466-des-sieges-et-des-valises-parmi-les-debris-du-vol-ms804-retrouves-en-mer.html
 7736466-l-armee-egyptienne-annonce-avoir-trouve-des-debris-du-vol-ms804.html
 7736599-salah-abdeslam-interroge-par-la-justice-francaise-n-a-pas-dit-un-mot.html
+7736599-salah-abdeslam-interroge-par-la-justice-francaise-na-pas-dit-un-mot.html
 7736685-la-possibilite-d-un-brexit-ravive-la-flamme-independantiste-en-ecosse.html
 7736687-les-inondations-au-sri-lanka-chassent-500-000-habitants-de-chez-eux.html
 7736889-la-taupe-de-wikileaks-fait-appel-de-sa-condamnation-a-35-ans-de-prison.html
 7737082-la-france-vent-debout.html
 7737239-le-parlement-turc-a-approuve-la-levee-d-immunite-des-deputes.html
+7737239-le-parlement-turc-a-approuve-la-levee-dimmunite-des-deputes.html
 7737527-demission-d-un-ministre-israelien-en-conflit-avec-benjamin-netanyahu.html
 7737781-des-rationnements-de-carburant-en-france-a-cause-des-greves.html
 7737784-la-souche-du-virus-zika-liee-aux-microcephalies-debarque-en-afrique.html
 7737795-la-russie-propose-aux-etats-unis-des-frappes-conjointes-en-syrie.html
 7737795-la-russie-propose-aux-etatsunis-des-frappes-conjointes-en-syrie.html
 7737795-les-etats-unis-rejettent-l-offre-russe-de-frappes-conjointes-en-syrie.html
+7737795-les-etatsunis-rejettent-loffre-russe-de-frappes-conjointes-en-syrie.html
 7738029-couvre-feu-a-bagdad-apres-des-incursions-et-heurts-dans-la-zone-verte.html
 7738029-des-manifestants-penetrent-dans-le-bureau-du-premier-ministre-irakien.html
 7738058-la-france-vent-debout.html
 7738439-le-mexique-valide-l-extradition-d-el-chapo-vers-les-etats-unis.html
 7738443-la-maison-blanche-brievement-bouclee-apres-des-coups-de-feu-a-proximite.html
 7738934-des-fumees-detectees-dans-l-avion-d-egyptair-juste-avant-sa-disparition.html
+7738934-des-fumees-detectees-dans-lavion-degyptair-juste-avant-sa-disparition.html
 7739039-un-mini-las-vegas-est-a-vendre-pour-8-millions-de-dollars-dans-le-nevada.html
 7739089-l-aide-internationale-afflue-apres-les-inondations-au-sri-lanka.html
 7739112-a-florence-les-riches-d-aujourd-hui-sont-les-memes-qu-a-la-renaissance.html
@@ -4952,17 +5064,22 @@
 7739977-le-chef-des-talibans-afghans-le-mollah-akhtar-mansour-a-ete-tue.html
 7740267-gordon-brown-inquiet-du-message-transmis-par-un-possible-brexit.html
 7740267-l-ex-premier-ministre-britannique-gordon-brown-s-inquiete-d-un-brexit.html
+7740267-lexpremier-ministre-britannique-gordon-brown-sinquiete-dun-brexit.html
 7740274-l-avion-solar-impulse-2-a-boucle-la-douzieme-etape-de-son-tour-du-monde.html
+7740274-lavion-solar-impulse-2-a-boucle-la-douzieme-etape-de-son-tour-du-monde.html
 7740408-nationaliste-ou-ecologiste-l-autriche-elit-son-nouveau-president.html
 7740492-le-mystere-reste-entier-apres-la-disparition-de-l-airbus-d-egyptair.html
+7740492-le-mystere-reste-entier-apres-la-disparition-de-lairbus-degyptair.html
 7740501-un-forcene-abat-deux-personnes-dans-une-fete-de-village-en-autriche.html
 7740649-candidats-au-coude-a-coude-au-2e-tour-de-la-presidentielle-en-autriche.html
 7740649-l-autriche-dans-l-attente-de-connaitre-son-nouveau-president-lundi.html
+7740649-lautriche-dans-lattente-de-connaitre-son-nouveau-president-lundi.html
 7740649-le-prochain-president-autrichien-ne-sera-pas-connu-avant-lundi.html
 7741119-un-fidele-du-president-erdogan-nomme-premier-ministre-en-turquie.html
 7741142-l-hommage-de-la-famille-royale-belge-deux-mois-apres-les-attentats.html
 7741142-lhommage-de-la-famille-royale-belge-deux-mois-apres-les-attentats.html
 7742184-les-autorites-irakiennes-annoncent-le-debut-d-une-offensive-sur-falloujah.html
+7742184-les-autorites-irakiennes-annoncent-le-debut-dune-offensive-sur-falloujah.html
 7742240-barack-obama-ne-s-excusera-pas-pour-la-bombe-atomique-sur-hiroshima.html
 7742297-le-president-americain-confirme-la-mort-du-chef-des-talibans-afghans.html
 7742339--la-victoire-des-partis-nationalistes-en-europe-est-deja-presente-.html
@@ -4978,12 +5095,14 @@
 7743610-l-ecologiste-alexander-van-der-bellen-prend-la-presidence-autrichienne.html
 7743610-lecologiste-alexander-van-der-bellen-prend-la-presidence-autrichienne.html
 7744083-un-policier-acquitte-a-baltimore-apres-la-mort-d-un-jeune-noir-en-2015.html
+7744083-un-policier-acquitte-a-baltimore-apres-la-mort-dun-jeune-noir-en-2015.html
 7744508-le-gouvernement-interimaire-bresilien-rattrape-par-le-scandale-petrobras.html
 7744527-plus-de-2600-migrants-recuperes-en-mediterranee-en-24-heures.html
 7744980-hillary-clinton-refuse-un-dernier-debat-democrate-face-a-bernie-sanders.html
 7745115-le-camp-de-refugies-d-idomeni-en-grece-commence-a-etre-evacue.html
 7745115-plus-de-1500-migrants-ont-deja-ete-evacues-du-camp-grec-d-idomeni.html
 7745115-plus-de-2000-migrants-ont-deja-ete-evacues-du-camp-grec-d-idomeni.html
+7745115-plus-de-2000-migrants-ont-deja-ete-evacues-du-camp-grec-didomeni.html
 7745153-toutes-les-raffineries-sont-a-l-arret-en-france-annoncent-les-syndicats.html
 7745404-les-supremacistes-blancs-voient-en-donald-trump-une-divine-surprise-.html
 7745577-l-offensive-irakienne-pour-reprendre-falloujah-a-l-ei-s-annonce-difficile.html
@@ -5006,6 +5125,7 @@
 7749406-la-france-au-ralenti-a-cause-d-une-greve-qui-fait-tache-d-huile.html
 7749406-la-france-au-ralenti-a-cause-dune-greve-qui-fait-tache-dhuile.html
 7749572-200-metres-de-quai-s-ecroulent-pres-du-ponte-vecchio-a-florence.html
+7749572-200-metres-de-quai-secroulent-pres-du-ponte-vecchio-a-florence.html
 7749797-la-pilote-ukrainienne-detenue-par-les-russes-a-ete-remise-a-l-ukraine.html
 7749797-la-pilote-ukrainienne-detenue-pres-de-deux-ans-en-russie-est-rentree-a-kiev-.html
 7749868-l-opposition-turque-denonce-les-ambitions-totalitaires-d-erdogan-.html
@@ -5016,6 +5136,7 @@
 7750792-pour-serge-moati-les-affrontements-tournent-parfois-a-la-haine-en-france.html
 7750877-la-baisse-du-chomage-en-france-se-confirme-en-avril.html
 7751058-inculpation-de-quatre-personnes-liees-a-des-projets-d-attentats-en-belgique.html
+7751058-inculpation-de-quatre-personnes-liees-a-des-projets-dattentats-en-belgique.html
 7751778-plusieurs-sondages-annoncent-une-opposition-grandissante-au-brexit.html
 7751935-en-allemagne-pegida-recupere-une-campagne-de-ferrero-avant-l-euro.html
 7752249-les-19-centrales-nucleaires-francaises-se-mettent-a-leur-tour-en-greve.html
@@ -5041,6 +5162,7 @@
 7753565-donald-trump-assure-d-etre-nomme-candidat-republicain-a-la-presidentielle.html
 7753573-les-etats-unis-utilisent-des-disquettes-pour-gerer-leurs-forces-nucleaires.html
 7754111-l-onu-n-envisage-pas-de-pourparlers-sur-la-syrie-avant-2-ou-3-semaines.html
+7754111-lonu-nenvisage-pas-de-pourparlers-sur-la-syrie-avant-2-ou-3-semaines.html
 7754152-debut-des-recherches-sous-marines-du-vol-ms804-dans-les-prochains-jours-.html
 7754855-obama-appelle-a-construire-un-monde-sans-armes-nucleaires-a-hiroshima.html
 7755153-un-incendie-s-est-declare-sur-un-avion-qui-s-appretait-a-quitter-le-japon.html
@@ -5057,6 +5179,7 @@
 7756374-plus-de-12000-migrants-secourus-en-mediterranee-depuis-lundi.html
 7757481--el-chapo-fait-appel-de-son-extradition-du-mexique-vers-les-etats-unis.html
 7757481-el-chapo-fait-appel-de-son-extradition-du-mexique-vers-les-etats-unis.html
+7757481-el-chapo-fait-appel-de-son-extradition-du-mexique-vers-les-etatsunis.html
 7757487-quinze-ex-militaires-impliques-dans-le-plan-condor-condamnes-en-argentine.html
 7757498-le-nombre-de-civils-syriens-assieges-a-augmente-de-75-000-personnes.html
 7757512-cent-cinquante-experts-demandent-d-annuler-ou-deplacer-les-jo-de-rio.html
@@ -5071,6 +5194,7 @@
 7758188-erdogan-condamne-le-soutien-des-etats-unis-aux-milices-kurdes-en-syrie.html
 7758198-la-foudre-s-abat-sur-un-parc-a-paris-blessant-11-personnes-dont-8-enfants.html
 7758198-la-foudre-s-abat-sur-un-parc-a-paris-blessant-dix-enfants-et-un-adulte.html
+7758198-la-foudre-sabat-sur-un-parc-a-paris-blessant-11-personnes-dont-8-enfants.html
 7758355-nationalistes-et-militants-antiracistes-se-sont-affrontes-a-melbourne.html
 7758427-la-foudre-fait-trois-blesses-graves-sur-un-terrain-de-foot-en-allemagne.html
 7758427-la-foudre-frappe-un-terrain-de-football-en-allemagne-faisant-35-blesses.html
@@ -5163,14 +5287,18 @@
 7771687-le-parlement-allemand-vote-la-reconnaissance-du-genocide-armenien.html
 7771740-les-forces-democratiques-syriennes-avancent-sur-le-groupe-ei-a-manbij.html
 7772445-trois-membres-presumes-de-l-ei-prevoyaient-un-attentat-en-allemagne.html
+7772445-trois-membres-presumes-de-lei-prevoyaient-un-attentat-en-allemagne.html
 7772487-le-bilan-des-inondations-s-alourdit-a-neuf-morts-en-allemagne.html
+7772487-le-bilan-des-inondations-salourdit-a-neuf-morts-en-allemagne.html
 7772549-l-etat-de-catastrophe-naturelle-va-etre-declare-en-france.html
 7772549-un-cavalier-est-decede-emporte-par-les-eaux-d-une-riviere-en-france.html
 7772781-les-etats-unis-interdisent-presque-entierement-le-commerce-de-l-ivoire.html
 7773051-deux-modeles-d-helicopteres-super-puma-interdits-de-vol-en-europe.html
+7773051-deux-modeles-dhelicopteres-super-puma-interdits-de-vol-en-europe.html
 7773051-tous-les-vols-dhelicopteres-en-super-puma-dairbus-interdits-en-europe.html
 7773490-david-cameron-plaide-a-la-television-pour-l-appartenance-a-l-ue-.html
 7773490-david-cameron-plaide-a-la-television-pour-le-maintien-dans-l-ue.html
+7773490-david-cameron-plaide-a-la-television-pour-le-maintien-dans-lue.html
 7773533-le-nombre-d-attaques-terroristes-dans-le-monde-a-baisse-en-2015.html
 7774038-le-nouveau-president-de-la-fifa-pourrait-etre-suspendu.html
 7774208-l-enfant-abandonne-dans-une-foret-au-japon-a-ete-retrouve.html
@@ -5202,6 +5330,7 @@
 7777260-un-train-transportant-du-petrole-deraille-et-senflamme-dans-loregon.html
 7777469-attaque-meurtriere-de-boko-haram-contre-des-militaires-au-niger.html
 7777471-washington-fait-etat-d-une-menace-d-attentats-en-afrique-du-sud.html
+7777471-washington-fait-etat-dune-menace-dattentats-en-afrique-du-sud.html
 7777522-une-collision-entre-un-camion-et-un-bus-fait-plus-de-30-morts-en-algerie.html
 7777670-une-mer-de-bougies-envahit-hong-kong-pour-le-souvenir-de-tiananmen.html
 7777719-le-pape-accroit-la-pression-sur-les-eveques-informes-de-cas-de-pedophilie.html
@@ -5211,6 +5340,7 @@
 7778653-les-forces-libyennes-prennent-une-base-aerienne-a-l-ei-pres-de-syrte.html
 7778653-les-forces-libyennes-prennent-une-base-aerienne-a-lei-pres-de-syrte.html
 7778677-des-risques-d-inondations-demeurent-pour-10-departements-en-france.html
+7778677-des-risques-dinondations-demeurent-pour-10-departements-en-france.html
 7778677-la-situation-s-ameliore-sur-le-front-des-intemperies-en-france.html
 7778730-l-etau-se-resserre-sur-le-groupe-ei-pres-de-son-fief-de-raqqa-en-syrie.html
 7778955-le-premier-traite-contraignant-contre-la-peche-illegale-entre-en-vigueur.html
@@ -5254,6 +5384,7 @@
 7783734-un-attentat-a-la-bombe-fait-onze-morts-au-centre-d-istanbul-.html
 7783734-une-explosion-au-centre-d-istanbul-fait-plusieurs-blesses.html
 7783776-terrorisme-et-hooliganisme-comment-la-france-se-prepare-aux-defis-de-l-euro.html
+7783776-terrorisme-et-hooliganisme-comment-la-france-se-prepare-aux-defis-de-leuro.html
 7783776-terrorisme-et-hooliganisme-la-france-face-au-defi-securitaire-de-l-euro.html
 7783881-les-eleves-russes-auront-des-cours-de-lutte-antidopage-en-2017.html
 7784224-la-sncf-propose-un-accord-aux-syndicats-pour-mettre-fin-aux-greves.html
@@ -5269,6 +5400,7 @@
 7786174-des-milliers-de-civils-fuient-un-fief-du-groupe-etat-islamique-assiege-en-syrie.html
 7786665-hillary-clinton-clame-victoire-dans-la-course-a-l-investiture-democrate.html
 7786665-hillary-clinton-remporte-la-californie-et-la-course-a-l-investiture-democrate.html
+7786665-hillary-clinton-remporte-la-californie-et-la-course-a-linvestiture-democrate.html
 7786794-forte-mobilisation-contre-un-juge-accuse-de-laxisme-dans-un-cas-de-viol.html
 7786794-mobilisation-contre-un-juge-americain-accuse-de-laxisme-dans-un-cas-de-viol.html
 7786837-la-france-lance-une-application-pour-donner-l-alerte-en-cas-d-attentat.html
@@ -5287,6 +5419,7 @@
 7789284-trois-morts-et-plusieurs-blesses-dans-une-fusillade-a-tel-aviv.html
 7790161-un-canadien-recoit-8-millions-apres-avoir-passe-27-ans-en-prison-a-tort.html
 7790244-les-tensions-sociales-continuent-a-la-veille-de-l-ouverture-de-l-euro.html
+7790244-les-tensions-sociales-continuent-a-la-veille-de-louverture-de-leuro.html
 7790282-les-deserteurs-du-groupe-etat-islamique-inquietent-leur-pays-d-origine.html
 7790315-un-double-attentat-a-bagdad-fait-au-moins-22-morts-et-70-blesses.html
 7790315-un-double-attentat-a-bagdad-fait-au-moins-24-morts-et-70-blesses.html
@@ -5312,6 +5445,7 @@
 7794615-un-aeroport-de-dallas-evacue-apres-une-fusillade.html
 7794700-du-french-cancan-et-david-guetta-pour-le-coup-d-envoi-de-l-euro-a-paris.html
 7794733-partenariats-migratoires-discutes-par-l-union-europeenne-a-luxembourg.html
+7794733-partenariats-migratoires-discutes-par-lunion-europeenne-a-luxembourg.html
 7795220-nouveaux-affrontements-a-l-issue-du-match-angleterre-russie-a-marseille.html
 7795220-nouveaux-affrontements-a-lissue-du-match-angleterrerussie-a-marseille.html
 7795220-nouveaux-heurts-a-marseille-avant-le-match-entre-l-angleterre-et-la-russie.html
@@ -5321,12 +5455,14 @@
 7795436-le-ciel-europeen-perturbe-par-des-greves-chez-air-france-et-sas.html
 7795628-defile-militaire-et-parade-aerienne-pour-les-90-ans-de-la-reine-elizabeth-ii.html
 7795684-le-leader-d-al-qaida-prete-allegeance-au-nouveau-chef-des-talibans.html
+7795684-le-leader-dalqaida-prete-allegeance-au-nouveau-chef-des-talibans.html
 7796201-un-journal-italien-offre-mein-kampf-a-ses-lecteurs-et-suscite-la-polemique.html
 7796278-plus-de-1300-migrants-recueillis-en-mediterranee-au-large-de-la-sicile.html
 7796724--la-honte-eclipse-le-football-dans-la-presse-dominicale-europeenne.html
 7796724-la-honte-eclipse-le-football-dans-la-presse-dominicale-europeenne.html
 7796833-le-bilan-de-la-fusillade-dans-un-club-gay-a-orlando-atteint-50-morts.html
 7796833-le-groupe-etat-islamique-revendique-la-tuerie-d-orlando-qui-a-fait-50-morts.html
+7796833-le-groupe-etat-islamique-revendique-la-tuerie-dorlando-qui-a-fait-50-morts.html
 7796876-le-president-venezuelien-ecarte-tout-referendum-contre-lui-en-2016.html
 7797257-l-uefa-menace-la-russie-et-l-angleterre-de-disqualification.html
 7797377-plus-de-5200-arrestations-de-radicaux-au-bangladesh-en-deux-jours-.html
@@ -5334,6 +5470,7 @@
 7797760--nous-n-allons-pas-ceder-a-la-peur-declare-obama-apres-la-tuerie-d-orlando.html
 7797760-le-groupe-etat-islamique-revendique-la-tuerie-dorlando-qui-a-fait-50-morts.html
 7797760-nous-n-allons-pas-ceder-a-la-peur-declare-obama-apres-la-tuerie-d-orlando.html
+7797760-nous-nallons-pas-ceder-a-la-peur-declare-obama-apres-la-tuerie-dorlando.html
 7797760-nous-nallons-pas-ceder-a-la-peur-declare-obama-suite-a-la-tuerie-dorlando.html
 7798347-bernie-sanders-va-rencontrer-hillary-clinton-mardi.html
 7798351-les-puissances-nucleaires-reduisent-mais-modernisent-leurs-arsenaux.html
@@ -5386,6 +5523,7 @@
 7807328-en-russie-des-controleurs-antidopage-ont-ete-menaces-d-expulsion.html
 7807434-des-morceaux-de-l-avion-d-egyptair-ecrase-en-mer-ont-ete-localises.html
 7807434-des-morceaux-de-l-avion-d-egyptair-ecrase-il-y-a-un-mois-ont-ete-localises.html
+7807434-des-morceaux-de-lavion-degyptair-ecrase-il-y-a-un-mois-ont-ete-localises.html
 7807933-la-russie-annonce-un-cessez-le-feu-de-48-heures-a-alep-en-syrie.html
 7807937-un-ex-dirigeant-de-petrobras-met-en-cause-le-president-bresilien-temer.html
 7808276-donald-trump-et-le-senat-americain-evoquent-un-controle-des-armes.html
@@ -5424,9 +5562,11 @@
 7813346-le-parlement-canadien-autorise-le-suicide-medicalement-assiste.html
 7813361-l-armee-irakienne-proclame-sa-victoire-contre-l-ei-a-falloujah.html
 7813368-trois-hommes-ont-ete-inculpes-apres-l-operation-antiterroriste-en-belgique.html
+7813368-trois-hommes-ont-ete-inculpes-apres-loperation-antiterroriste-en-belgique.html
 7813376-rio-se-retrouve-en-urgence-financiere-a-7-semaines-des-jeux-olympiques.html
 7813539-des-pirates-informatiques-denichent-138-failles-au-pentagone.html
 7813570-l-ex-patron-du-laboratoire-antidopage-de-moscou-accuse-d-abus-de-pouvoir.html
+7813570-lexpatron-du-laboratoire-antidopage-de-moscou-accuse-dabus-de-pouvoir.html
 7813909-des-milliers-de-condamnes-sont-en-liberte-a-naples-faute-de-personnel.html
 7813999-le-ps-francais-organisera-une-primaire-pour-la-presidentielle-de-2017.html
 7814157--la-detention-des-migrants-devrait-cesser-en-grece-plaide-ban-ki-moon.html
@@ -5478,6 +5618,7 @@
 7820677-la-guerre-en-syrie-a-coute-la-vie-a-700-medecins-et-autres-soignants.html
 7820766-le-congolais-jean-pierre-bemba-condamne-a-18-ans-de-prison-par-la-cpi.html
 7820786-le-cimentier-francais-lafarge-aurait-indirectement-finance-l-ei-en-syrie.html
+7820786-le-cimentier-francais-lafarge-aurait-indirectement-finance-lei-en-syrie.html
 7820795-au-moins-trois-morts-dans-des-inondations-et-eboulements-au-japon.html
 7820832-matt-damon-et-pamela-anderson-contre-les-massacres-de-chiens-en-asie.html
 7820852-les-britanniques-votent-sur-leur-appartenance-a-l-union-europeenne.html
@@ -5523,6 +5664,7 @@
 7827121-presse-politique-economie-le-monde-reagit-au-vote-sur-le-brexit.html
 7827121-un-ultime-sondage-predit-le-maintien-de-la-grande-bretagne-dans-l-ue.html
 7827128-les-rebelles-syriens-entrent-dans-manbij-ville-controlee-par-l-ei.html
+7827128-les-rebelles-syriens-entrent-dans-manbij-ville-controlee-par-lei.html
 7827215-interpol-est-a-la-recherche-de-123-trafiquants-de-migrants.html
 7827318-l-homme-soupconne-d-avoir-tire-dans-un-cinema-allemand-a-ete-abattu.html
 7827318-lhomme-soupconne-davoir-tire-dans-un-cinema-allemand-a-ete-abattu.html
@@ -5577,6 +5719,7 @@
 7831515-deux-arrestations-dans-une-operation-antiterroriste-en-belgique.html
 7831625-des-raids-menes-dans-l-est-de-la-syrie-ont-fait-47-morts-selon-une-ong.html
 7832142-les-forces-irakiennes-controlent-20-000-deplaces-a-falloujah.html
+7832142-les-forces-irakiennes-controlent-20000-deplaces-a-falloujah.html
 7832619-les-flammes-font-deux-morts-et-detruisent-150-maisons-en-californie.html
 7832623-ban-ki-moon-souhaite-continuer-a-travailler-avec-l-ue-et-le-royaume-uni.html
 7832623-ban-kimoon-souhaite-continuer-a-travailler-avec-lue-et-le-royaumeuni.html
@@ -5609,6 +5752,7 @@
 7833733-le-parti-populaire-de-mariano-rajoy-en-tete-des-legislatives-en-espagne.html
 7833733-le-parti-populaire-de-mariano-rajoy-remporte-les-legislatives-en-espagne.html
 7834211-escale-au-cap-vert-de-michelle-obama-en-campagne-pour-l-education-des-filles.html
+7834211-escale-au-capvert-de-michelle-obama-en-campagne-pour-leducation-des-filles.html
 7834328-donald-trump-devisse-dans-les-sondages-face-a-hillary-clinton.html
 7834561-un-boeing-de-singapore-airlines-prend-feu-lors-d-un-atterrissage-d-urgence.html
 7834561-un-boeing-de-singapore-airlines-prend-feu-lors-dun-atterrissage-durgence.html
@@ -5626,6 +5770,7 @@
 7838137-des-incidents-xenophobes-emaillent-lapresbrexit-en-grandebretagne.html
 7839424-le-successeur-de-david-cameron-connu-au-plus-tard-le-2-septembre.html
 7839824-enquete-pour-homicides-involontaires-ouverte-apres-le-crash-d-egyptair.html
+7839824-enquete-pour-homicides-involontaires-ouverte-apres-le-crash-degyptair.html
 7840723--l-ue-est-assez-forte-pour-survivre-au-brexit-pour-angela-merkel.html
 7840723-le-parlement-europeen-reclame-des-que-possible-l-activation-du-brexit.html
 7840723-le-parlement-europeen-reclame-des-que-possible-lactivation-du-brexit.html
@@ -5694,6 +5839,7 @@
 7848332-lune-des-boites-noires-du-vol-egyptair-commence-a-parler.html
 7848346-l-attentat-d-istanbul-qui-a-fait-41-morts-porte-la-marque-de-l-ei-selon-la-cia.html
 7848346-l-attentat-d-istanbul-qui-a-fait-42-morts-porte-la-marque-de-l-ei-selon-la-cia.html
+7848346-lattentat-distanbul-qui-a-fait-42-morts-porte-la-marque-de-lei-selon-la-cia.html
 7848680-la-ministre-britannique-theresa-may-candidate-a-la-succession-de-cameron.html
 7848680-theresa-may-annonce-sa-candidature-pour-succeder-a-david-cameron.html
 7848690-plus-de-150-combattants-de-l-ei-tues-dans-des-frappes-americaines-en-irak.html
@@ -5712,6 +5858,7 @@
 7851534-depuis-le-brexit-les-actes-xenophobes-ont-quintuple-au-royaume-uni.html
 7851534-depuis-le-brexit-les-actes-xenophobes-ont-quintuple-au-royaumeuni.html
 7851559-l-election-presidentielle-autrichienne-invalidee-en-raison-d-irregularites.html
+7851559-lelection-presidentielle-autrichienne-invalidee-en-raison-dirregularites.html
 7851877-les-sacs-plastiques-disparaissent-des-caisses-des-magasins-francais.html
 7851939-le-fbi-peut-espionner-les-appels-des-journalistes-sans-mandat.html
 7852022-l-ue-prolonge-formellement-ses-sanctions-contre-la-russie.html
@@ -5721,12 +5868,14 @@
 7852252-pour-la-paix-au-proche-orient-israel-doit-cesser-la-colonisation.html
 7852343--le-royaume-uni-restera-un-ami-de-la-france-selon-francois-hollande.html
 7852343-le-royaume-uni-restera-un-ami-de-la-france-selon-francois-hollande.html
+7852343-le-royaumeuni-restera-un-ami-de-la-france-selon-francois-hollande.html
 7852651-l-attaque-a-dacca-au-bangladesh-a-fait-20-morts-tous-civils-etrangers.html
 7852651-l-attaque-par-l-ei-au-bangladesh-a-fait-20-morts-dont-des-etrangers.html
 7852651-l-ei-revendique-une-prise-d-otages-dans-un-restaurant-au-bangladesh.html
 7852651-la-prise-d-otage-par-l-ei-au-bangladesh-est-terminee-bilan-de-20-morts.html
 7852651-lattaque-par-lei-au-bangladesh-a-fait-20-morts-tous-etrangers.html
 7852651-neuf-italiens-parmi-les-vingt-morts-de-l-attaque-de-l-ei-au-bangladesh.html
+7852651-neuf-italiens-parmi-les-vingt-morts-de-lattaque-de-lei-au-bangladesh.html
 7852651-restaurant-attaque-dans-un-quartier-chic-de-dacca-au-bangladesh.html
 7852784-les-etats-unis-ont-tue-pres-de-120-civils-hors-des-zones-de-combat.html
 7852837-abus-sexuels-presumes-de-mineurs-par-des-casques-bleus-en-centrafrique.html
@@ -5736,6 +5885,7 @@
 7853183-roumain-bienveillant-cherche-a-adopter-britannique-proeuropeen.html
 7853357-israel-boucle-hebron-apres-une-vague-d-attaques-palestiniennes.html
 7853363-la-folie-du-foot-s-empare-de-cardiff-apres-le-triomphe-gallois-a-l-euro.html
+7853363-la-folie-du-foot-sempare-de-cardiff-apres-le-triomphe-gallois-a-leuro.html
 7853564-le-pentagone-autorise-les-transgenres-a-servir-ouvertement-dans-l-armee.html
 7853564-le-pentagone-autorise-les-transgenres-a-servir-ouvertement-dans-larmee.html
 7853571-des-milliers-de-britanniques-manifestent-a-londres-contre-le-brexit.html
@@ -5744,6 +5894,7 @@
 7853850-deces-de-l-ancien-premier-ministre-francais-michel-rocard-a-85-ans.html
 7853850-deces-de-lancien-premier-ministre-francais-michel-rocard-a-85-ans.html
 7854452-a-manbij-l-ei-repousse-les-rebelles-syriens-soutenus-par-les-etats-unis.html
+7854452-a-manbij-lei-repousse-les-rebelles-syriens-soutenus-par-les-etatsunis.html
 7854461-le-bangladesh-nie-la-responsabilite-de-l-ei-dans-l-attentat-de-dacca.html
 7854476-des-inondations-tuent-43-personnes-dans-le-nord-du-pakistan.html
 7854516-au-moins-75-morts-a-bagdad-dans-un-attentat-revendique-par-l-ei.html
@@ -5752,6 +5903,7 @@
 7854516-le-bilan-des-deux-attentats-a-bagdad-s-alourdit-a-plus-de-120-morts.html
 7854526-au-moins-43-morts-dans-des-raids-du-regime-pres-de-damas.html
 7854619-30-000-personnes-sont-attendues-devant-l-ecran-geant-de-reykjavik.html
+7854619-30000-personnes-sont-attendues-devant-lecran-geant-de-reykjavik.html
 7854917-erdogan-evoque-la-naturalisation-des-refugies-syriens-et-fache-les-turcs.html
 7854975-la-vie-de-salah-abdeslam-en-prison-coran-salle-de-sport-et-telerealite.html
 7855063-premiere-arrivee-d-aide-turque-pour-gaza-apres-l-accord-turquie-israel.html
@@ -5776,6 +5928,7 @@
 7856832-le-bangladesh-tente-d-identifier-les-auteurs-de-l-attentat-de-dacca.html
 7856949-trente-trafiquants-tues-par-la-police-aux-philippines-en-quatre-jours.html
 7857133-l-industriel-serge-dassault-juge-pour-blanchiment-de-fraude-fiscale.html
+7857133-lindustriel-serge-dassault-juge-pour-blanchiment-de-fraude-fiscale.html
 7857262-craignant-des-violences-le-ps-francais-veut-delocaliser-son-universite-d-ete-.html
 7857528-pres-de-550-attentats-et-4200-morts-en-2016-nos-cartes-interactives.html
 7858280-une-vague-d-attentats-suicide-frappe-l-arabie-saoudite.html
@@ -5783,6 +5936,7 @@
 7858401-entre-le-big-mac-et-les-tripes-a-la-mode-toscane-florence-doit-choisir.html
 7858463-une-agence-nationale-de-renseignement-unique-preconisee-en-france.html
 7858536-des-inondations-font-plus-de-130-morts-en-chine.html
+7858558-muse-deja-vingt-ans-de-succes-aupres-du-public-mondial.html
 7858595-en-fin-de-regne-barack-obama-se-lache-tout-en-controle.html
 7858706-les-hongrois-se-prononceront-en-octobre-sur-la-repartition-des-refugies.html
 7858802-ce-tourisme-qui-provoque-l-overdose-chez-les-locaux.html
@@ -5848,6 +6002,7 @@
 7865578-l-irak-toujours-sous-le-choc-a-nouveau-frappe-par-un-attentat-meurtrier.html
 7865578-l-irak-toujours-sous-le-choc-a-nouveau-frappee-par-un-attentat-meurtrier.html
 7865636-cinq-policiers-abattus-en-marge-d-une-manifestation-a-dallas.html
+7865636-cinq-policiers-abattus-en-marge-dune-manifestation-a-dallas.html
 7865636-quatre-policiers-abattus-en-marge-d-une-manifestation-a-dallas.html
 7865676-dix-neuf-suspects-lies-aux-attentats-en-arabie-saoudite-arretes.html
 7865805-barack-obama-denonce-des-violences-policieres-symptomatiques-.html
@@ -5862,6 +6017,7 @@
 7866440-plus-de-deces-que-de-naissances-dans-lunion-europeenne-en-2015.html
 7866603-l-otan-annonce-le-deploiement-de-quatre-bataillons-en-europe-de-l-est.html
 7866603-les-etats-unis-vont-deployer-un-millier-de-soldats-en-pologne.html
+7866603-lotan-annonce-le-deploiement-de-quatre-bataillons-en-europe-de-lest.html
 7866678-une-victoire-des-bleus-ne-suffirait-pas-a-redorer-la-cote-de-francois-hollande.html
 7866965-six-nouveaux-suspects-arretes-apres-l-attentat-de-l-aeroport-d-istanbul.html
 7866966--le-depart-d-ahmadinejad-a-participe-a-dediaboliser-l-iran-pour-les-touristes-.html
@@ -5874,6 +6030,7 @@
 7867894-la-coree-du-nord-tire-un-missile-balistique-depuis-un-sous-marin-.html
 7867894-la-coree-du-nord-tire-un-missile-depuis-un-sous-marin.html
 7867906-nouvelles-manifestations-contre-les-violences-policieres-aux-etats-unis.html
+7867906-nouvelles-manifestations-contre-les-violences-policieres-aux-etatsunis.html
 7868137-le-materiel-militaire-de-la-police-en-question-apres-la-tuerie-de-dallas.html
 7868138-londres-exclut-officiellement-un-second-referendum-sur-le-brexit.html
 7868402-la-deputee-angela-eagel-disputera-la-direction-du-labour-a-jeremy-corbyn.html
@@ -5892,6 +6049,7 @@
 7869529-une-trentaine-de-rebelles-syriens-tues-dans-des-combats-pour-l-acces-a-alep.html
 7869923-le-sierre-blues-festival-a-battu-son-plein-avec-10-000-spectateurs.html
 7870004-les-djihadistes-de-l-etat-islamique-ont-perdu-12-de-leur-territoire-en-2016.html
+7870004-les-djihadistes-de-letat-islamique-ont-perdu-12-de-leur-territoire-en-2016.html
 7870011-au-lieu-de-feter-5-ans-d-independance-le-soudan-du-sud-pleure-ses-morts.html
 7870011-independant-depuis-5-ans-le-soudan-du-sud-subit-de-violents-combats.html
 7870137-premiere-visite-d-un-ministre-des-affaires-etrangeres-egyptien-en-israel-en-9-ans.html
@@ -5953,6 +6111,7 @@
 7875003--je-soutiens-hillary-clinton-lance-bernie-sanders-aux-cotes-de-son-ex-rivale.html
 7875406-pres-de-1000-refugies-secourus-en-mediterranee-mais-4-n-ont-pas-survecu.html
 7875417-a-dallas-barack-obama-appelle-les-etats-unis-a-la-reconciliation.html
+7875417-a-dallas-barack-obama-appelle-les-etatsunis-a-la-reconciliation.html
 7875428-victoire-cruciale-pour-jeremy-corbyn-contre-les-frondeurs-du-labour.html
 7875469-le-serbe-goran-hadzic-soupconne-de-crimes-de-guerre-en-croatie-est-mort.html
 7875836-le-president-venezuelien-place-les-ports-sous-autorite-militaire.html
@@ -5966,6 +6125,7 @@
 7876014-emotion-et-indignation-en-italie-apres-l-accident-de-trains-qui-a-fait-23-morts.html
 7876014-emotion-et-indignation-en-italie-apres-l-accident-de-trains-qui-a-fait-25-morts.html
 7876014-emotion-et-indignation-en-italie-apres-l-accident-de-trains-qui-a-fait-27-morts.html
+7876014-emotion-et-indignation-en-italie-apres-laccident-de-trains-qui-a-fait-23-morts.html
 7876093-pekin-met-en-garde-contre-un-risque-de-conflit-en-mer-de-chine.html
 7876154-le-veritable-commanditaire-des-attentats-de-paris-a-ete-identifie.html
 7876202--un-autre-candidat-en-lice-pour-la-direction-du-labour-britannique.html
@@ -6017,6 +6177,7 @@
 7880131-une-suissesse-parmi-les-84-victimes-de-l-attaque-de-nice.html
 7880131-une-suissesse-parmi-les-84-victimes-de-lattaque-de-nice.html
 7880286-la-presse-francaise-et-internationale-sous-le-choc-apres-le-carnage-a-nice-.html
+7880346-les-images-de-lattentat-de-nice.html
 7880459-vague-d-indignation-dans-le-monde-apres-l-execrable-attentat-de-nice.html
 7880459-vague-dindignation-dans-le-monde-apres-lexecrable-attentat-de-nice.html
 7880596-chronologie-mode-operatoire-bilan-ce-que-l-on-sait-de-l-attentat-de-nice.html
@@ -6127,6 +6288,7 @@
 7889021-les-bombes-de-la-coalition-et-de-la-russie-tuent-pres-de-80-civils-syriens.html
 7889355-donald-trump-formellement-investi-par-les-republicains-a-cleveland.html
 7889431-les-deputes-francais-prolongent-l-etat-d-urgence-de-six-mois.html
+7889431-les-deputes-francais-prolongent-letat-durgence-de-six-mois.html
 7890308-alain-touraine-le-climat-de-violence-est-favorable-a-nicolas-sarkozy-.html
 7890308-alain-touraine-le-climat-de-violence-est-favorable-a-nicolas-sarkozy.html
 7890349-la-lutte-sanglante-entre-le-pkk-et-la-turquie-reprend-apres-le-putsch-manque.html
@@ -6141,6 +6303,7 @@
 7891436-l-auteur-du-discours-de-melania-trump-s-excuse-pour-le-plagiat.html
 7891460-la-grande-bretagne-ne-demandera-pas-la-sortie-de-l-ue-avant-fin-2016-.html
 7891460-la-grande-bretagne-ne-demandera-pas-la-sortie-de-l-ue-avant-fin-2016.html
+7891460-la-grandebretagne-ne-demandera-pas-la-sortie-de-lue-avant-fin-2016.html
 7891726-l-opposition-syrienne-demande-l-arret-des-raids-de-la-coalition-anti-ei.html
 7891741-recep-tayyip-erdogan-proclame-trois-mois-d-etat-d-urgence-en-turquie.html
 7891741-recep-tayyip-erdogan-proclame-trois-mois-detat-durgence-en-turquie.html
@@ -6211,7 +6374,9 @@
 7896919-quinze-adolescents-blesses-dans-un-accident-de-car-dans-le-jura-francais.html
 7896919-treize-adolescents-blesses-dans-un-accident-de-car-dans-le-jura-francais.html
 7896950-au-moins-80-morts-a-kaboul-dans-un-attentat-revendique-par-l-ei.html
+7896950-au-moins-80-morts-a-kaboul-dans-un-attentat-revendique-par-lei.html
 7897146-l-auteur-de-la-fusillade-de-munich-decrit-comme-solitaire-et-depressif.html
+7897146-lauteur-de-la-fusillade-de-munich-decrit-comme-solitaire-et-depressif.html
 7897197-le-parti-democrate-americain-accuse-de-partialite-durant-les-primaires.html
 7897427-les-francais-divises-sur-l-efficacite-de-l-etat-d-urgence-selon-un-sondage.html
 7897886-faute-de-repression-le-racisme-est-de-plus-en-plus-banalise-sur-internet.html
@@ -6233,6 +6398,7 @@
 7899090-un-jeune-homme-a-ete-arrete-pour-complicite-tacite-a-munich.html
 7899420-encore-des-violences-en-allemagne.html
 7899420-l-auteur-de-l-attentat-suicide-en-allemagne-avait-fait-allegeance-a-l-ei.html
+7899420-lauteur-de-lattentat-suicide-en-allemagne-avait-fait-allegeance-a-lei.html
 7899420-un-homme-se-fait-exploser-en-allemagne-et-blesse-une-dizaine-de-personnes.html
 7899549-le-village-olympique-de-rio-inaugure-aussitot-boude-par-des-equipes.html
 7899609-nombre-record-de-victimes-civiles-en-afghanistan-au-1er-semestre-2016.html
@@ -6244,6 +6410,7 @@
 7899857–entre-1996-et-2012-un-a-deux-attentats-dejoues-par-an-en-france-.html
 7899962-mandats-d-arret-lances-contre-42-journalistes-en-turquie.html
 7900160-le-danger-d-attaques-reste-eleve-en-allemagne-estiment-les-autorites.html
+7900160-le-danger-dattaques-reste-eleve-en-allemagne-estiment-les-autorites.html
 7900565-a-belfast-theresa-may-ecarte-un-retour-des-frontieres-du-passe-.html
 7900597-la-turquie-cible-de-la-475e-tentative-de-putsch-depuis-1950-dans-le-monde.html
 7900681-un-incendie-dans-un-village-a-madagascar-fait-39-morts.html
@@ -6290,6 +6457,7 @@
 7905589-le-regime-turc-ordonne-la-fermeture-d-une-centaine-d-organes-de-presse.html
 7905799-un-algerien-de-19-ans-arrete-apres-une-chasse-a-l-homme-en-allemagne.html
 7905799-un-jeune-de-19-ans-arrete-apres-une-chasse-a-l-homme-en-allemagne.html
+7905799-un-jeune-de-19-ans-arrete-apres-une-chasse-a-lhomme-en-allemagne.html
 7905820-barack-obama-glorifie-hillary-clinton-et-houspille-donald-trump-au-passage.html
 7905820-barak-obama-apporte-son-soutien-a-hillary-clinton-a-philadelphie.html
 7905897-angela-merkel-ecourte-ses-vacances-pour-defendre-sa-politique.html
@@ -6312,6 +6480,7 @@
 7907107-le-conseil-d-etat-francais-maintient-la-videosurveillance-de-salah-abdeslam.html
 7907671-hillary-clinton-accepte-l-investiture-democrate-pour-la-presidentielle.html
 7907726-le-front-al-nosra-se-separe-de-la-nebuleuse-al-qaida-en-syrie.html
+7907726-le-front-alnosra-se-separe-de-la-nebuleuse-alqaida-en-syrie.html
 7907886-les-travaux-d-hercule-lances-au-c-ur-de-moscou-toujours-plus-critiques.html
 7907886-les-travaux-dhercule-lances-au-cur-de-moscou-toujours-plus-critiques.html
 7907986-manuel-valls-veut-suspendre-le-financement-etranger-des-mosquees.html
@@ -6336,10 +6505,13 @@
 7909582-faut-il-interdire-les-messageries-cryptees-pour-prevenir-le-terrorisme-.html
 7909786-des-milliers-d-ecossais-reclament-un-2e-referendum-d-independance.html
 7909797-l-onu-est-choquee-par-le-sort-de-mineurs-en-detention-en-australie.html
+7909797-lonu-est-choquee-par-le-sort-de-mineurs-en-detention-en-australie.html
 7909833-la-turquie-relache-une-partie-des-soldats-arretes-apres-le-putsch-avorte.html
 7910068-l-allemagne-divisee-sur-la-politique-migratoire-d-angela-merkel.html
+7910068-lallemagne-divisee-sur-la-politique-migratoire-dangela-merkel.html
 7910464-le-parlement-tunisien-retire-sa-confiance-au-gouvernement-essid.html
 7910467-apres-le-pustch-manque-erdogan-veut-controler-l-armee-et-le-renseignement.html
+7910467-apres-le-pustch-manque-erdogan-veut-controler-larmee-et-le-renseignement.html
 7910481-des-dirigeants-de-l-ei-fuient-en-masse-la-ville-irakienne-de-mossoul.html
 7910533-donald-trump-refute-les-propos-du-pere-d-un-soldat-mort-en-irak.html
 7910619-le-commando-arme-retranche-en-armenie-s-est-rendu-a-la-police.html
@@ -6350,6 +6522,7 @@
 7911041-grand-rassemblement-pro-erdogan-sous-tension-en-allemagne.html
 7911041-les-partisans-du-president-turc-envahissent-les-rues-de-cologne.html
 7911468-hillary-clinton-accuse-la-russie-d-avoir-pirate-les-e-mails-de-son-parti.html
+7911468-hillary-clinton-accuse-la-russie-davoir-pirate-les-emails-de-son-parti.html
 7912186-helicoptere-militaire-russe-abattu-dans-le-nord-ouest-de-la-syrie.html
 7912186-helicoptere-militaire-russe-abattu-dans-le-nordouest-de-la-syrie.html
 7912229-google-critiquee-pour-avoir-change-les-noms-russes-sur-ses-cartes-de-crimee.html
@@ -6359,6 +6532,7 @@
 7913005-arrestation-dun-commando-accuse-davoir-voulu-capturer-erdogan.html
 7913070-plus-de-8000-migrants-secourus-en-mediterranee-en-cinq-jours.html
 7913301-premiers-cas-de-contamination-de-zika-par-des-moustiques-aux-etats-unis.html
+7913301-premiers-cas-de-contamination-de-zika-par-des-moustiques-aux-etatsunis.html
 7913331-sixieme-inculpation-dans-l-enquete-sur-l-attentat-de-nice.html
 7913621-feu-vert-en-vue-d-un-referendum-de-revocation-anti-maduro-au-venezuela.html
 7913621-feu-vert-en-vue-dun-referendum-de-revocation-antimaduro-au-venezuela.html
@@ -6374,6 +6548,7 @@
 7915415-le-virus-zika-affecte-desormais-plus-de-soixante-pays.html
 7916356-francois-hollande-s-insurge-contre-les-exces-de-donald-trump-.html
 7916356-francois-hollande-s-insurge-contre-les-exces-de-l-americain-donald-trump.html
+7916356-francois-hollande-sinsurge-contre-les-exces-de-lamericain-donald-trump.html
 7916691-une-loi-contre-le-gaspillage-alimentaire-a-ete-adoptee-en-italie.html
 7916843-pyongyang-suscite-l-ire-de-tokyo-avec-un-tir-de-missile-au-large-du-japon.html
 7917055-les-millenials-moins-actifs-sexuellement-que-les-generations-precedentes.html
@@ -6388,6 +6563,7 @@
 7917644-des-milliers-de-yezidis-toujours-detenus-par-l-ei-en-syrie-selon-l-onu-.html
 7917654-la-garde-nationale-francaise-portee-a-84-000-personnes-d-ici-2019.html
 7917734-les-forces-libyennes-consolident-leurs-positions-dans-un-fief-du-groupe-ei.html
+7917955-qui-sont-les-electeurs-de-trump.html
 7917998-youssef-chahed-propulse-premier-ministre-de-tunisie-a-40-ans.html
 7918065-quand-google-maps-sert-d-exutoire-dans-le-conflit-syrien.html
 7918135-un-pont-s-effondre-pres-de-bombay-faisant-2-morts-et-20-disparus.html
@@ -6395,6 +6571,7 @@
 7918481-barack-obama-commue-les-peines-d-un-nombre-record-de-detenus.html
 7918481-barack-obama-commue-les-peines-dun-nombre-record-de-detenus.html
 7918823-la-police-ecarte-a-priori-la-piste-terroriste-dans-l-attaque-de-londres.html
+7918823-la-police-ecarte-a-priori-la-piste-terroriste-dans-lattaque-de-londres.html
 7918823-nouvelle-attaque-a-l-arme-blanche-a-londres.html
 7918823-une-attaque-au-couteau-fait-un-mort-et-cinq-blesses-au-centre-de-londres.html
 7918860-les-etats-unis-dementent-avoir-verse-une-rancon-de-400-millions-de-dollars-a-l-iran.html
@@ -6410,6 +6587,7 @@
 7919949-au-bresil-des-deputes-votent-pour-la-destitution-de-dilma-rousseff.html
 7919960-un-quartier-de-miami-arrose-d-insecticide-par-avion-en-raison-de-zika.html
 7920103-premiere-aide-depuis-juin-a-75-000-syriens-bloques-a-la-frontiere.html
+7920103-premiere-aide-depuis-juin-a-75000-syriens-bloques-a-la-frontiere.html
 7920288-l-egypte-affirme-avoir-tue-le-chef-de-la-branche-du-groupe-ei-dans-le-sinai.html
 7920654-un-engin-explosif-lance-contre-le-parlement-du-kosovo.html
 7920680-mclaren-critique-le-cio-et-la-mauvaise-interpretation-de-son-rapport.html
@@ -6427,16 +6605,20 @@
 7921514-l-armee-danoise-bombarde-pour-la-premiere-fois-l-ei-en-syrie.html
 7921514-larmee-danoise-bombarde-pour-la-premiere-fois-lei-en-syrie.html
 7921583-lille-annule-sa-braderie-la-plus-grande-d-europe-par-crainte-d-un-attentat.html
+7921583-lille-annule-sa-braderie-la-plus-grande-deurope-par-crainte-dun-attentat.html
 7921668-le-parti-au-pouvoir-en-turquie-etend-la-purge-jusque-dans-ses-rangs.html
 7922032-des-milliers-de-hongkongais-manifestent-pour-l-independance.html
 7922044-les-rebelles-syriens-ont-lance-un-assaut-pour-briser-le-siege-d-alep.html
+7922044-les-rebelles-syriens-ont-lance-un-assaut-pour-briser-le-siege-dalep.html
 7922448-treize-morts-et-six-blesses-dans-l-incendie-d-un-bar-a-rouen.html
+7922448-treize-morts-et-six-blesses-dans-lincendie-dun-bar-a-rouen.html
 7922500-le-systeme-carceral-en-turquie-est-au-bord-de-la-rupture.html
 7922565-un-rapport-de-l-onu-blame-le-refus-de-combattre-des-casques-bleus-a-malaka.html
 7922568-l-opposition-annonce-que-les-rebelles-syriens-ont-brise-le-siege-d-alep.html
 7922568-la-coalition-kurdo-arabe-s-empare-de-minbej-un-fief-de-l-ei-en-syrie.html
 7922568-les-opposants-au-regime-syrien-renversent-la-situation-a-alep.html
 7922568-les-rebelles-renversent-la-situation-a-alep-face-au-regime-soutenu-par-les-russes.html
+7922568-lopposition-annonce-que-les-rebelles-syriens-ont-brise-le-siege-dalep.html
 7922577-le-japon-commemore-le-bombardement-atomique-de-hiroshima.html
 7922577-le-japon-commemore-le-bombardement-de-hiroshima.html
 7922881-defaite-historique-de-l-anc-a-pretoria-la-capitale-d-afrique-du-sud.html
@@ -6450,6 +6632,7 @@
 7923089-un-homme-attaque-a-la-machette-deux-policieres-a-charleroi-en-belgique.html
 7923184-l-onu-suspend-momentanement-les-negociations-de-paix-sur-le-yemen.html
 7923235-une-balle-traverse-la-paroi-d-un-centre-de-presse-aux-jo-de-rio.html
+7923889-la-tempete-tropicale-earl-a-fait-au-moins-40-morts-dans-lest-du-mexique.html
 7923889-la-tempete-tropicale-earl-a-fait-six-morts-au-mexique.html
 7923889-la-tempete-tropicale-earl-a-fait-six-morts-dans-l-est-du-mexique.html
 7923916-des-feux-de-foret-devastateurs-font-rage-dans-le-nord-du-portugal.html
@@ -6457,6 +6640,7 @@
 7923964-le-manuel-sur-les-frappes-de-drones-americains-rendu-public.html
 7924003-au-moins-20-morts-en-macedoine-lors-de-violents-orages.html
 7924003-le-bilan-des-violents-orages-s-alourdit-a-vingt-et-un-morts-en-macedoine.html
+7924003-le-bilan-des-violents-orages-salourdit-a-vingtetun-morts-en-macedoine.html
 7924003-une-quinzaine-de-morts-en-macedoine-lors-de-violents-orages.html
 7924040-le-president-bresilien-par-interim-mis-en-cause-par-marcelo-odebrecht.html
 7924050-deux-morts-lors-d-une-fusillade-en-plein-jour-au-centre-de-marseille.html
@@ -6546,6 +6730,7 @@
 7934916-attentats-a-la-bombe-en-serie-en-thailande.html
 7934916-double-explosion-dans-une-station-balneaire-en-thailande.html
 7934916-la-thailande-frappee-par-une-serie-d-attentats-a-la-bombe.html
+7934916-la-thailande-frappee-par-une-serie-dattentats-a-la-bombe.html
 7934916-un-attentat-dans-une-station-balneaire-en-thailande-fait-au-moins-un-mort.html
 7935530-des-militaires-americains-ont-enjolive-leurs-rapports-sur-le-groupe-ei.html
 7936326-la-justice-francaise-rejette-la-liberation-conditionnelle-de-jacqueline-sauvage.html
@@ -6553,6 +6738,7 @@
 7936349-en-australie-les-abus-presumes-de-migrants-alarment-l-onu-.html
 7936349-en-australie-les-abus-presumes-de-migrants-alarment-lonu.html
 7936465-quelque-2000-civils-enleves-par-les-djihadistes-de-l-ei-en-syrie.html
+7936465-quelque-2000-civils-enleves-par-les-djihadistes-de-lei-en-syrie.html
 7936510-accuse-de-putsch-l-ancien-imam-turc-gulen-veut-une-enquete-internationale.html
 7936541-deux-agences-suisses-offrent-l-annulation-des-voyages-en-thailande-.html
 7936589-multiplication-suspecte-de-feux-de-foret-dans-le-nord-ouest-de-l-espagne.html
@@ -6561,6 +6747,7 @@
 7936925-deploiement-de-4000-casques-bleus-au-soudan-du-sud-autorise-par-l-onu.html
 7936925-l-onu-autorise-le-deploiement-de-4000-casques-bleus-au-soudan-du-sud.html
 7936974-un-homme-mis-en-examen-dans-l-enquete-sur-le-meurtre-d-un-pretre-en-france.html
+7936974-un-homme-mis-en-examen-dans-lenquete-sur-le-meurtre-dun-pretre-en-france.html
 7937476-la-thailande-renforce-la-securite-au-lendemain-des-attentats-.html
 7937501-fidel-castro-le-pere-de-la-revolution-cubaine-fete-ses-90-ans.html
 7937520-face-a-zika-les-etats-unis-declarent-l-etat-d-urgence-sanitaire-a-porto-rico.html
@@ -6613,14 +6800,17 @@
 7942522-la-chute-d-une-camera-des-jeux-olympiques-a-rio-fait-sept-blesses.html
 7942565--la-bataille-d-alep-est-l-un-des-conflits-urbains-les-plus-devastateurs-.html
 7942565-la-bataille-d-alep-est-l-un-des-conflits-urbains-les-plus-devastateurs.html
+7942565-la-bataille-dalep-est-lun-des-conflits-urbains-les-plus-devastateurs.html
 7942577-amnesty-affirme-que-15-detenus-de-guantanamo-vont-etre-liberes.html
 7942577-quinze-detenus-de-guantanamo-ont-ete-deportes-aux-emirats-arabes-unis.html
 7943173-un-suspect-inculpe-des-meurtres-d-un-imam-et-de-son-assistant-a-new-york.html
+7943173-un-suspect-inculpe-des-meurtres-dun-imam-et-de-son-assistant-a-new-york.html
 7943333-un-hopital-de-medecins-sans-frontieres-bombarde-au-yemen.html
 7943398-un-conseiller-de-trump-aurait-recu-12-millions-de-dollars-d-un-parti-prorusse.html
 7943590-plus-de-127-000-venezueliens-sont-entres-en-colombie-en-trois-jours.html
 7943646-amnesty-denonce-les-conditions-de-vie-des-mineurs-en-afrique-du-sud.html
 7944357-des-avions-russes-frappent-en-syrie-depuis-l-iran-pour-la-premiere-fois.html
+7944357-des-avions-russes-frappent-en-syrie-depuis-liran-pour-la-premiere-fois.html
 7944479-un-desequilibre-poignarde-deux-passagers-dans-l-ouest-de-autriche.html
 7944887-des-fouilles-lancees-en-pologne-en-quete-d-un-mysterieux-train-d-or-nazi-.html
 7944929-une-equipe-de-la-rts-menacee-par-des-tirs-dans-une-favela-de-rio.html
@@ -6657,6 +6847,7 @@
 7949272-plusieurs-gardes-a-vue-apres-les-heurts-intercommunautaires-en-corse.html
 7949758-la-louisiane-decouvre-les-degats-des-inondations-et-commence-a-nettoyer.html
 7950223-les-agressions-ethniques-au-royaume-uni-sont-en-hausse-depuis-le-brexit.html
+7950223-les-agressions-ethniques-au-royaumeuni-sont-en-hausse-depuis-le-brexit.html
 7950272-mariano-rajoy-et-ciudadanos-se-mettent-d-accord-en-espagne.html
 7950357-trois-attentats-attribues-au-pkk-font-14-morts-en-turquie.html
 7950575-atterrissage-d-urgence-d-un-airbus-de-qatar-airways-a-istanbul-.html
@@ -6672,6 +6863,7 @@
 7951850-peu-flatteuses-des-statues-de-trump-nu-font-sensation-aux-etats-unis.html
 7951850-peu-flatteuses-des-statues-de-trump-nu-font-sensation-aux-etatsunis.html
 7951898-l-allemagne-se-dirige-vers-une-interdiction-partielle-de-la-burqa.html
+7951899-les-statues-peu-flatteuses-de-donald-trump-en-images.html
 7952122-en-tunisie-faute-d-etat-le-citoyen-fait-la-loi.html
 7952122-en-tunisie-faute-detat-le-citoyen-fait-la-loi.html
 7952122-la-delation-encouragee-en-tunisie-faute-d-etat-pour-faire-respecter-la-loi.html
@@ -6783,6 +6975,7 @@
 7966077-la-representation-des-frontieres-selon-google-maps-fait-souvent-debat.html
 7966665-l-armee-irakienne-reprend-a-l-ei-une-ville-cle-sur-la-route-de-mossoul.html
 7966779-l-onu-annonce-une-treve-de-48-heures-a-alep-avec-l-accord-de-la-russie.html
+7966779-lonu-annonce-une-treve-de-48-heures-a-alep-avec-laccord-de-la-russie.html
 7967077-une-fillette-sortie-vivante-des-debris-a-amatrice-15-heures-apres-le-seisme.html
 7967198-arnaud-montebourg-devant-francois-hollande-selon-un-sondage-confidentiel.html
 7967198-montebourg-devancerait-hollande-a-gauche-selon-un-sondage-confidentiel.html
@@ -6831,6 +7024,7 @@
 7973198-au-gabon-jean-ping-sautoproclame-president-faisant-craindre-des-violences.html
 7973324-les-forces-libyennes-sur-le-point-de-reprendre-completement-syrte-a-l-ei-.html
 7973324-les-forces-libyennes-sur-le-point-de-reprendre-completement-syrte-a-l-ei.html
+7973324-les-forces-libyennes-sur-le-point-de-reprendre-completement-syrte-a-lei.html
 7974323-une-fausse-alerte-provoque-la-fermeture-de-l-aeroport-de-los-angeles.html
 7974323-une-partie-de-l-aeroport-de-los-angeles-ferme-apres-une-alerte.html
 7974323-une-partie-de-l-aeroport-de-los-angeles-fermee-apres-une-fausse-alerte.html
@@ -6838,9 +7032,11 @@
 7974359-l-institut-de-criminologie-de-bruxelles-cible-d-un-incendie-intentionnel.html
 7974515-un-groupe-d-architectes-se-joint-aux-secours-apres-le-seisme-en-italie.html
 7974541-les-farc-et-l-etat-colombien-mettent-fin-a-plus-de-50-ans-de-guerre.html
+7974541-les-farc-et-letat-colombien-mettent-fin-a-plus-de-50-ans-de-guerre.html
 7974742-un-attentat-fait-des-dizaines-de-morts-dans-la-capitale-provisoire-du-yemen.html
 7975189-plus-de-300-rennes-sauvages-sont-morts-foudroyes-en-norvege.html
 7975292-le-candidat-du-fpo-a-la-presidentielle-autrichienne-creuse-l-ecart.html
+7975292-le-candidat-du-fpo-a-la-presidentielle-autrichienne-creuse-lecart.html
 7975292-le-candidat-du-fpo-a-la-presidentielle-en-autriche-creuse-l-ecart-dans-les-sondages.html
 7975504-washington-exige-la-fin-des-combats-entre-turcs-et-kurdes-en-syrie.html
 7975701-le-gouvernement-italien-met-la-priorite-sur-la-reconstruction-des-ecoles.html
@@ -6878,6 +7074,7 @@
 7981574-lallemagne-veut-obliger-les-meres-infideles-a-reveler-le-nom-de-leur-amant.html
 7982265-destituee-dilma-rousseff-denonce-un-coup-d-etat-parlementaire-.html
 7982265-destituee-dilma-rousseff-denonce-un-coup-d-etat-parlementaire.html
+7982265-destituee-dilma-rousseff-denonce-un-coup-detat-parlementaire.html
 7982265-le-senat-bresilien-a-vote-la-destitution-de-la-presidente-dilma-rousseff.html
 7982275-six-adolescents-soupconnes-du-meurtre-d-un-polonais-pres-de-londres.html
 7982508-des-violences-emaillent-les-resultats-de-la-presidentielle-au-gabon.html
@@ -6892,10 +7089,12 @@
 7984426-des-armes-a-sous-munitions-utilisees-en-syrie-et-au-yemen-depuis-mi-2015.html
 7984494-empires-ephemeres-et-micro-etats-essaiment-partout-dans-le-monde.html
 7985251-l-ex-presidente-du-bresil-dilma-rousseff-fait-appel-de-sa-destitution.html
+7985251-lexpresidente-du-bresil-dilma-rousseff-fait-appel-de-sa-destitution.html
 7985582-les-violences-au-gabon-font-au-moins-3-morts-et-plus-de-1000-arrestations.html
 7986011-alerte-au-tsunami-en-nouvelle-zelande-apres-un-fort-tremblement-de-terre.html
 7986011-levee-de-l-alerte-au-tsunami-en-nouvelle-zelande-touchee-par-un-seisme.html
 7986058-quelque-14-000-migrants-secourus-au-large-de-la-libye-en-cinq-jours.html
+7986058-quelque-14000-migrants-secourus-au-large-de-la-libye-en-cinq-jours.html
 7986628-le-president-ouzbek-islam-karimov-dans-un-etat-critique.html
 7986628-le-president-ouzbek-islam-karimov-est-decede-a-l-age-de-78-ans.html
 7986628-le-president-ouzbek-islam-karimov-est-decede-a-lage-de-78-ans.html
@@ -6933,6 +7132,7 @@
 7989324-de-nouveaux-combats-dans-le-sud-est-de-la-turquie-font-25-morts.html
 7989392-victime-de-son-succes-le-vertigineux-pont-en-verre-chinois-doit-fermer.html
 7989561-deux-marocains-expulses-s-appretaient-a-commettre-des-attentats-en-france.html
+7989561-deux-marocains-expulses-sappretaient-a-commettre-des-attentats-en-france.html
 7989589-pour-sa-rentree-marine-le-pen-fustige-des-politiques-incapables-.html
 7989636-la-turquie-et-les-rebelles-ouvrent-un-nouveau-front-contre-l-ei-en-syrie.html
 7989636-la-turquie-et-les-rebelles-ouvrent-un-nouveau-front-contre-lei-en-syrie.html
@@ -6949,6 +7149,7 @@
 7990699-percee-des-populistes-de-l-afd-dans-le-land-d-angela-merkel-.html
 7990707-mere-teresa-a-ete-canonisee-par-le-pape-francois-devant-100-000-fideles.html
 7990707-mere-teresa-declaree-sainte-par-le-pape-francois-devant-100-000-fideles.html
+7990707-mere-teresa-declaree-sainte-par-le-pape-francois-devant-100000-fideles.html
 7990965-la-guerre-contre-le-crime-a-fait-2400-morts-en-trois-mois-aux-philippines.html
 7990992-echange-muscle-entre-un-agent-chinois-et-une-cheffe-de-presse-americaine.html
 7991052-la-chine-inaugure-un-sommet-du-g20-consacre-a-la-relance-economique.html
@@ -6963,6 +7164,7 @@
 7992130-l-ex-ministre-cahuzac-dit-avoir-ouvert-un-compte-en-suisse-pour-financer-michel-rocard.html
 7992130-l-ex-ministre-cahuzac-dit-avoir-ouvert-un-compte-en-suisse-pour-financer-rocard.html
 7992130-le-proces-cahuzac-reprend-devant-le-tribunal-correctionnel-de-paris.html
+7992130-lexministre-cahuzac-dit-avoir-ouvert-un-compte-en-suisse-pour-financer-michel-rocard.html
 7992132-des-dizaines-de-milliers-de-bresiliens-manifestent-contre-michel-temer.html
 7992286-les-discussions-sur-la-syrie-entre-washington-et-moscou-echouent.html
 7992337-des-candidats-de-la-rupture-avec-pekin-entrent-au-parlement-de-hong-kong.html
@@ -6979,10 +7181,12 @@
 7993058-toujours-plus-d-espace-pour-les-palmiers-a-huile.html
 7993058-une-semaine-au-chevet-de-la-foret-de-borneo.html
 7993058.html
+7993492-le-g20-appelle-les-etats-a-intensifier-laide-aux-refugies.html
 7993697-theresa-may-veut-changer-le-systeme-de-controle-de-l-immigration.html
 7993924-le-president-philippin-injurie-barack-obama-qu-il-devrait-rencontrer-mardi-.html
 7994943--l-onu-met-en-garde-contre-les-responsables-politiques-populistes.html
 7994943-l-onu-met-en-garde-contre-les-responsables-politiques-populistes.html
+7994943-lonu-met-en-garde-contre-les-responsables-politiques-populistes.html
 7995129-obama-annule-sa-rencontre-avec-le-president-philippin-qui-l-avait-insulte.html
 7995293-le-feu-a-nouveau-aux-portes-de-marseille-ravage-un-parc-naturel.html
 7996312-paris-ouvrira-mi-octobre-son-premier-centre-d-accueil-de-migrants.html
@@ -7000,3 +7204,4 @@
 7999838-un-mur-pour-eviter-les-passagers-clandestins-bientot-construit-a-calais.html
 7999981--tout-ca-est-fou-je-l-assume-dit-cahuzac-au-deuxieme-jour-de-proces.html
 7999981-tout-ca-est-fou-je-l-assume-dit-cahuzac-au-deuxieme-jour-de-proces.html
+7999981-tout-ca-est-fou-je-lassume-dit-cahuzac-au-deuxieme-jour-de-proces.html

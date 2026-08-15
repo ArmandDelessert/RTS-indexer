@@ -1948,6 +1948,7 @@
 7470414-l-integration-des-etrangers-tres-bien-percue-a-zurich-selon-l-ue.html
 7470414-lintegration-des-etrangers-tres-bien-percue-a-zurich-selon-lue.html
 7471925-plusieurs-feux-de-foret-a-la-frontiere-entre-le-tessin-et-l-italie.html
+7471925-plusieurs-feux-de-foret-a-la-frontiere-entre-le-tessin-et-litalie.html
 7482139-au-moins-11-femmes-agressees-sexuellement-a-zurich-a-nouvel-an.html
 7483386-condamne-pour-viol-a-zurich-un-detenu-s-evade-avec-une-gardienne.html
 7483386-un-detenu-condamne-pour-viol-s-evade-avec-une-gardienne-a-zurich.html
@@ -2036,8 +2037,11 @@
 7680766-bale-ville-veut-prefinancer-un-rer-sous-la-cite-rhenane.html
 7681385-sept-arrestations-de-plus-apres-les-violences-de-hooligans-a-bale.html
 7688417-une-manifestation-degenere-a-zurich-200-000-francs-de-degats.html
+7688417-une-manifestation-degenere-a-zurich-200000-francs-de-degats.html
 7690169-une-petite-commune-argovienne-refuse-d-accueillir-des-refugies.html
+7690169-une-petite-commune-argovienne-refuse-daccueillir-des-refugies.html
 7704971-premiere-vague-des-bouchons-du-week-end-au-portail-sud-du-gothard.html
+7704971-premiere-vague-des-bouchons-du-weekend-au-portail-sud-du-gothard.html
 7715716-le-tessin-continuera-a-exiger-un-extrait-de-casier-aux-demandeurs-de-permis.html
 7715793-l-universite-de-bale-membre-d-un-premier-campus-europeen.html
 7717324-le-mouvement-nuit-debout-veut-tenter-sa-chance-a-zurich.html
@@ -2072,6 +2076,7 @@
 7758752-une-voiture-remportee-par-martina-hingis-vendue-aux-encheres-a-lucerne.html
 7758765-exit-n-etendra-pas-l-aide-au-suicide-aux-personnes-incapables-de-discernement.html
 7758765-exit-ne-veut-pas-etendre-son-offre-aux-personnes-incapables-de-discernement.html
+7758765-exit-netendra-pas-laide-au-suicide-aux-personnes-incapables-de-discernement.html
 7763908-aucune-institution-securisee-n-a-voulu-du-tueur-qui-s-est-evade-en-argovie.html
 7763914-la-suisse-orientale-veut-organiser-une-exposition-nationale-en-2027.html
 7769163-un-ex-policier-zurichois-reconnu-coupable-d-abus-de-fonction.html
@@ -2118,6 +2123,7 @@
 7858568-deux-f-a-18-escortent-un-avion-israelien-apres-une-alerte-a-la-bombe.html
 7858568-deux-f-a-18-escortent-un-avion-israelien-apres-une-fausse-alerte-a-la-bombe.html
 7858568-deux-fa18-escortent-un-avion-israelien-apres-une-alerte-a-la-bombe.html
+7858568-deux-fa18-escortent-un-avion-israelien-apres-une-fausse-alerte-a-la-bombe.html
 7859208-bale-campagne-se-prononcera-sur-le-vote-des-etrangers-et-des-jeunes.html
 7861499-l-universite-de-lucerne-aura-un-professeur-de-theologie-islamique.html
 7861657-le-tessin-a-fait-face-a-un-nombre-record-d-entrees-illegales-en-juin.html
@@ -2297,6 +2303,7 @@
 8139921--la-mosquee-de-winterthour-accueille-n-importe-qui-en-tant-qu-imam-.html
 8139921--on-n-a-pas-de-service-de-gestapo-pour-surveiller-les-mosquees.html
 8139921-on-n-a-pas-de-service-de-gestapo-pour-surveiller-les-mosquees.html
+8139921-on-na-pas-de-service-de-gestapo-pour-surveiller-les-mosquees.html
 8141733-veto-federal-a-une-ecole-enfantine-islamique-dans-le-canton-de-zurich.html
 8142385-l-imam-de-la-mosquee-an-nour-de-winterthour-en-detention-preventive.html
 8142385-limam-de-la-mosquee-annour-de-winterthour-en-detention-preventive.html
@@ -2399,8 +2406,10 @@
 8447133-pont-aerien-pour-ravitailler-le-village-de-bristen-ur-coupe-du-monde.html
 8447232-zurich-demande-l-annulation-d-un-meeting-du-ministre-turc-de-l-exterieur-.html
 8447232-zurich-demande-l-annulation-d-un-meeting-du-ministre-turc-de-l-exterieur.html
+8447232-zurich-demande-lannulation-dun-meeting-du-ministre-turc-de-lexterieur.html
 8448936-le-hilton-a-zurich-renonce-a-accueillir-le-ministre-turc-des-affaires-etrangeres.html
 8448936-pour-berne-l-annulation-de-la-visite-du-ministre-turc-ne-se-justifie-pas.html
+8448936-pour-berne-lannulation-de-la-visite-du-ministre-turc-ne-se-justifie-pas.html
 8450832-la-piste-terroriste-ecartee-dans-la-fusillade-qui-a-fait-deux-morts-a-bale.html
 8450832-une-fusillade-dans-un-cafe-a-bale-fait-deux-morts-et-un-blesse-grave.html
 8452212-apres-les-refus-zurichois-et-argovien-le-meeting-pro-erdogan-deplace.html
@@ -2445,14 +2454,17 @@
 8567749-un-espion-turc-se-cacherait-au-sein-de-la-police-baloise.html
 8572172-les-douaniers-de-l-aeroport-de-zurich-saisissent-deux-ours-empailles.html
 8575525-soupconne-d-espionnage-un-policier-balois-pro-erdogan-a-ete-arrete.html
+8575525-soupconne-despionnage-un-policier-balois-proerdogan-a-ete-arrete.html
 8591421-thurgovie-souhaite-supprimer-l-enseignement-du-francais-au-primaire.html
 8591421-thurgovie-souhaite-supprimer-lenseignement-du-francais-au-primaire.html
 8594438-vitus-huonder-restera-l-eveque-de-coire-encore-deux-ans.html
 8594438-vitus-huonder-restera-leveque-de-coire-encore-deux-ans.html
 8597375-zurich-s-oppose-a-la-distribution-de-corans-par-l-association-lis-.html
 8597375-zurich-s-oppose-a-la-distribution-de-corans-par-l-association-lis.html
+8597375-zurich-soppose-a-la-distribution-de-corans-par-lassociation-lis.html
 8601351-les-citoyens-de-glaris-rejettent-une-interdiction-du-voile-integral.html
 8608993-le-tessin-n-a-pas-respecte-la-loi-en-engageant-la-sulfureuse-societe-argo-1.html
+8608993-le-tessin-na-pas-respecte-la-loi-en-engageant-la-sulfureuse-societe-argo-1.html
 8614152-action-pastorale-dediee-aux-lgbt-dans-le-diocese-de-bale.html
 8614359-les-cff-trouvent-du-petrole-sur-le-chantier-du-tunnel-d-eppenberg-so-.html
 8621861-les-zougois-votent-sur-une-initiative-contre-la-penurie-de-loyers-moderes.html
@@ -2464,6 +2476,7 @@
 8639044-les-argoviens-rejettent-des-reductions-de-primes-pour-revenus-modestes.html
 8643718-le-debat-sur-la-preference-indigene-s-immisce-dans-le-canton-de-zurich.html
 8646867-un-evade-de-dietikon-zh-condamne-pour-incitation-a-l-evasion.html
+8646867-un-evade-de-dietikon-zh-condamne-pour-incitation-a-levasion.html
 8648143-fonctionnant-sans-ordinateur-la-plus-petite-caisse-maladie-du-pays-menacee.html
 8659286-une-nonagenaire-fait-don-de-400-000-francs-a-deux-communes-zurichoises.html
 8659286-une-nonagenaire-fait-don-de-400000-francs-a-deux-communes-zurichoises.html
@@ -2478,6 +2491,7 @@
 8686095-le-tessin-renonce-a-exiger-le-casier-judiciaire-des-demandeurs-de-permis.html
 8689844-des-elus-italiens-demandent-un-corridor-humanitaire-par-la-suisse.html
 8692999-richard-hammond-star-de-top-gear-a-ete-blesse-pres-de-saint-gall.html
+8692999-richard-hammond-star-de-top-gear-a-ete-blesse-pres-de-saintgall.html
 8693020-plusieurs-milliers-de-participants-au-defile-du-pride-festival-de-zurich.html
 8697417-le-funiculaire-du-burgenstock-fait-peau-neuve-apres-une-balade-sur-le-lac.html
 8699111-le-conseil-d-etat-tessinois-menace-de-destitution-par-la-lega-et-l-udc.html
@@ -2489,11 +2503,14 @@
 8732745-un-consigliere-federale-a-tout-prix-.html
 8735276-la-ville-de-zurich-autorise-la-distribution-de-corans-dans-la-rue.html
 8735434-deux-chefs-de-la-police-lucernoise-acquittes-dans-l-affaire-de-malters.html
+8735434-deux-chefs-de-la-police-lucernoise-acquittes-dans-laffaire-de-malters.html
 8739580-la-distribution-de-corans-a-zurich-par-l-organisation-lies-abandonnee.html
 8741946-cinq-ans-apres-la-decouverte-de-2-5-kg-d-or-en-argovie-le-mystere-demeure.html
 8746659-bale-campagne-renonce-a-rendre-obligatoire-la-poignee-de-mains-a-l-ecole.html
+8746659-balecampagne-renonce-a-rendre-obligatoire-la-poignee-de-main-a-lecole.html
 8746659-balecampagne-renonce-a-rendre-obligatoire-la-poignee-de-mains.html
 8748464-un-suisse-passionne-de-rapaces-juge-pour-avoir-vole-quelque-10-500-plumes.html
+8748464-un-suisse-passionne-de-rapaces-juge-pour-avoir-vole-quelque-10500-plumes.html
 8750601-appenzell-rhodesinterieures-sexcuse-et-indemnise-des-enfants-maltraites.html
 8758212-un-projet-de-telepherique-au-dessus-du-lac-de-zurich-prevu-pour-2020.html
 8758212-un-projet-de-telepherique-audessus-du-lac-de-zurich-prevu-pour-2020.html
@@ -2518,6 +2535,7 @@
 8791591-un-rocher-menace-la-ligne-du-gothard-au-tessin-et-doit-etre-dynamite.html
 8791656-un-corps-carbonise-a-ete-decouvert-dans-une-foret-pres-d-amriswil-tg-.html
 8791656-un-corps-carbonise-a-ete-decouvert-dans-une-foret-pres-d-amriswil-tg.html
+8791656-un-corps-carbonise-a-ete-decouvert-dans-une-foret-pres-damriswil-tg.html
 8795120-des-rues-de-lucerne-inondees-a-cause-de-forts-orages-en-suisse-centrale.html
 8795175-un-accident-lors-d-un-enterrement-de-celibat-fait-18-blesses-a-wohlen-ag-.html
 8797486--le-potager-du-tessin-conquis-par-le-cannabis-legal-malgre-les-restrictions.html
@@ -2557,6 +2575,7 @@
 8841595-quatre-louveteaux-sont-nes-dans-le-val-morobbia-au-tessin.html
 8848962-sauvetage-de-l-unique-quotidien-en-langue-romanche-de-suisse.html
 8849542-tous-les-chevaux-maltraites-de-l-eleveur-thurgovien-ont-ete-vendus.html
+8849542-tous-les-chevaux-maltraites-de-leleveur-thurgovien-ont-ete-vendus.html
 8850445-lucerne-informe-ses-eleves-sur-les-mariages-forces-plus-nombreux-en-ete.html
 8850610-des-velos-en-libre-service-sauvages-font-irruption-en-suisse-alemanique.html
 8855696-le-tessin-voit-son-plus-grand-glacier-le-basodino-disparaitre.html
@@ -2573,6 +2592,7 @@
 8866308-de-nombreux-autres-sommets-des-alpes-risquent-de-partir-en-miettes.html
 8866730-candidat-au-conseil-federal-ignazio-cassis-rend-son-passeport-italien.html
 8867396-accord-entre-les-proches-de-lucie-tuee-en-2009-et-le-canton-d-argovie.html
+8867396-accord-entre-les-proches-de-lucie-tuee-en-2009-et-le-canton-dargovie.html
 8867441-un-nouvel-eboulement-deferle-sur-le-village-de-bondo-dans-les-grisons.html
 8867844-vingt-ans-de-prison-pour-un-crime-d-honneur-dans-le-canton-de-lucerne.html
 8868491-les-recherches-des-huit-disparus-dans-les-grisons-sont-suspendues.html
@@ -2594,6 +2614,7 @@
 8891635-deux-f-a-18-franchissent-le-mur-du-son-au-dessus-de-zurich.html
 8907163-une-route-coupee-apres-un-eboulement-dans-les-grisons.html
 8909229-le-glacier-au-dessus-de-saas-grund-ne-represente-plus-de-danger.html
+8909229-le-glacier-audessus-de-saasgrund-ne-represente-plus-de-danger.html
 8909916-trente-blesses-dans-un-accident-ferroviaire-en-gare-d-andermatt-ur-.html
 8909916-trente-blesses-dans-un-accident-ferroviaire-en-gare-d-andermatt-ur.html
 8909916-trente-blesses-dans-un-accident-ferroviaire-en-gare-dandermatt-ur.html
@@ -2604,13 +2625,16 @@
 8909916-un-accident-ferroviaire-en-gare-dandermatt-fait-27-blesses.html
 8914008-une-personne-reste-hospitalisee-apres-l-accident-d-andermatt-ur-.html
 8914129-5-millions-recoltes-pour-les-habitants-de-bondo-gr-apres-l-eboulement.html
+8914129-5-millions-recoltes-pour-les-habitants-de-bondo-gr-apres-leboulement.html
 8914575-le-crash-d-un-petit-avion-dans-le-canton-de-glaris-fait-deux-morts.html
+8914575-le-crash-dun-petit-avion-dans-le-canton-de-glaris-fait-deux-morts.html
 8916567-des-milliers-de-lucernois-devront-rembourser-leurs-subsides-maladie.html
 8919697-un-politicien-allemand-a-ete-tue-dans-le-crash-dans-le-canton-de-glaris.html
 8919812-l-ancien-cycliste-jan-ullrich-condamne-a-21-mois-avec-sursis-en-thurgovie.html
 8919812-lancien-cycliste-jan-ullrich-condamne-a-21-mois-avec-sursis-en-thurgovie.html
 8922447-les-mouvements-de-roche-s-intensifient-dans-la-region-de-bondo.html
 8922447-nouvelles-chutes-de-roches-dans-la-region-de-bondo-gr-.html
+8922447-nouvelles-chutes-de-roches-dans-la-region-de-bondo-gr.html
 8924673-hausse-sensible-du-nombre-de-camions-qui-traversent-la-suisse.html
 8927503-le-fondateur-du-wef-juge-les-prix-pratiques-a-davos-trop-eleves.html
 8928851-le-canton-de-saint-gall-interdit-le-port-de-la-burqa-dans-l-espace-public.html
@@ -2625,6 +2649,7 @@
 8955914-une-deputee-socialiste-tessinoise-condamnee-pour-avoir-aide-des-migrants.html
 8980318-un-requerant-d-asile-a-ete-tue-par-un-policier-au-tessin.html
 8980318-un-requerant-d-asile-sri-lankais-a-ete-tue-par-un-policier-au-tessin.html
+8980318-un-requerant-dasile-srilankais-a-ete-tue-par-un-policier-au-tessin.html
 8986295-deux-personnes-soupconnees-de-terrorisme-arretees-a-chiasso.html
 8989445-deux-personnes-disparues-apres-un-eboulement-dans-le-canton-d-uri.html
 8989445-trois-personnes-prises-dans-un-eboulement-dans-le-canton-d-uri.html
@@ -2644,6 +2669,7 @@
 9020567-un-adolescent-arrete-fait-plusieurs-blesses-avec-une-hache-a-flums-sg-.html
 9020567-un-adolescent-arrete-fait-plusieurs-blesses-avec-une-hache-a-flums-sg.html
 9020567-un-jeune-arrete-apres-avoir-blesse-des-passants-a-la-hache-a-flums-sg-.html
+9020567-un-jeune-arrete-apres-avoir-blesse-des-passants-a-la-hache-a-flums-sg.html
 9021680-un-bebe-5-femmes-et-2-hommes-blesses-lors-de-l-attaque-de-flums-sg-.html
 9021680-un-jeune-homme-attaque-a-la-hache-sept-personnes-a-flums-sg.html
 9022417-un-couple-de-professeurs-accuse-de-mobbing-et-abus-de-pouvoir-a-l-epfz.html
@@ -2675,6 +2701,7 @@
 9136321-le-producteur-harvey-weinstein-a-lugano-pour-des-vacances-.html
 9136321-le-producteur-harvey-weinstein-a-lugano-pour-des-vacances.html
 9136321-le-producteur-harvey-weinstein-serait-a-lugano-pour-des-vacances-.html
+9136321-linformation-sur-les-vacances-au-tessin-dharvey-weinstein-etait-fausse.html
 9137731-l-information-sur-le-sejour-au-tessin-d-harvey-weinstein-etait-fausse.html
 9137731-linformation-sur-le-sejour-au-tessin-dharvey-weinstein-etait-fausse.html
 9154842-la-ville-de-zurich-pourrait-tester-un-revenu-de-base-inconditionnel.html
@@ -2687,6 +2714,7 @@
 9175750-les-degats-des-eboulements-de-bondo-se-chiffrent-a-41-millions-de-francs.html
 9177137-une-femme-jugee-a-bellinzone-pour-avoir-tente-de-rejoindre-l-ei-en-syrie.html
 9177137-une-voyageuse-du-djihad-condamnee-a-dix-huit-mois-de-prison-en-suisse.html
+9177137-une-voyageuse-du-djihad-condamnee-a-dixhuit-mois-de-prison-en-suisse.html
 9177707-les-eboulements-de-bondo-dus-a-un-rare-enchainement-d-evenements.html
 9177707-les-eboulements-de-bondo-dus-a-un-rare-enchainement-devenements.html
 9180778-le-funiculaire-le-plus-raide-du-monde-inaugure-a-stoos-sz-.html
@@ -2699,6 +2727,7 @@
 9206900-le-conseiller-detat-tessinois-manuele-bertoli-veut-se-representer-en-2019.html
 9208582-la-region-de-bale-victime-d-arnaques-par-usurpation-telephonique.html
 9210756-le-recours-d-un-citoyen-remet-en-cause-la-course-de-formule-e-a-zurich.html
+9210756-le-recours-dun-citoyen-remet-en-cause-la-course-de-formule-e-a-zurich.html
 9218825-un-dangereux-patient-s-evade-d-une-clinique-psychiatrique-en-argovie.html
 9218825-un-dangereux-patient-sevade-dune-clinique-psychiatrique-en-argovie.html
 9222805-la-demolition-prevue-d-une-maison-medievale-fait-polemique-a-schwyz.html
@@ -2751,7 +2780,9 @@
 9373272-une-affaire-d-indemnites-met-le-gouvernement-tessinois-sous-pression-.html
 9374866-le-canton-d-appenzell-rhodes-interieures-peut-il-se-passer-d-hopital-.html
 9374866-le-canton-d-appenzell-rhodes-interieures-peut-il-se-passer-d-hopital.html
+9374866-le-canton-dappenzell-rhodesinterieures-peutil-se-passer-dhopital.html
 9379126-l-ex-patron-de-raiffeisen-pierin-vincenz-a-ete-place-en-detention.html
+9379126-lexpatron-de-raiffeisen-pierin-vincenz-a-ete-place-en-detention.html
 9382388-bernois-et-zurichois-votent-la-confiance-a-leurs-autorites-scolaires.html
 9382657-les-vert-liberaux-font-leur-entree-a-l-executif-zurichois-qui-reste-a-gauche.html
 9382657-les-vertliberaux-font-leur-entree-a-lexecutif-zurichois-qui-reste-a-gauche.html

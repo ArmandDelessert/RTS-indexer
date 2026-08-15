@@ -36,6 +36,7 @@
 8058006-une-petition-demande-le-depart-du-directeur-de-la-mosquee-de-geneve.html
 8058473-les-failles-des-institutions-genevoises-dans-l-affaire-adeline-pointees-du-doigt.html
 8058473-les-failles-des-institutions-genevoises-dans-l-affaire-du-meurtre-d-adeline.html
+8058473-les-failles-des-institutions-genevoises-dans-laffaire-du-meurtre-dadeline.html
 8060159-la-directrice-de-la-paquerette-sera-absente-du-proces-de-fabrice-a-.html
 8064755-un-referendum-contre-la-hausse-des-tarifs-des-tpg-lance-a-geneve.html
 8069630-apres-des-annees-de-lutte-les-policiers-genevois-pourront-porter-la-barbe.html
@@ -157,7 +158,9 @@
 8248246-geneve-espere-fermer-la-totalite-de-ses-abris-pc-d-ici-l-ete-2018.html
 8248246-geneve-espere-fermer-la-totalite-de-ses-abris-pc-dici-lete-2018.html
 8248278-le-grand-conseil-genevois-accepte-a-une-courte-majorite-le-budget-2017.html
+8248619-deux-chauffards-condamnes-pour-homicide-par-negligence-a-geneve.html
 8248619-peines-de-prison-pour-deux-chauffards-apres-un-rodeo-routier.html
+8249865-un-pacte-de-nonagression-entre-partis-genevois-prevu-sur-la-fiscalite.html
 8251632-plus-de-1800-nageurs-dans-les-eaux-genevoises-pour-la-coupe-de-noel.html
 8255939-la-gauche-genevoise-veut-abroger-la-loi-sur-la-mendicite.html
 8255939-la-gauche-veut-abroger-la-loi-genevoise-sur-la-mendicite.html
@@ -178,6 +181,7 @@
 8278122-plusieurs-blesses-suite-a-un-incendie-dans-un-immeuble-a-geneve.html
 8280884-la-contribution-religieuse-volontaire-est-menacee-a-geneve.html
 8281680-la-ville-de-geneve-se-retrouve-vierge-de-ses-affiches-publicitaires.html
+8281778-dessins-graffitis-et-revendications-sur-les-panneaux-genevois.html
 8283035-des-avions-propulses-au-biocarburant-a-l-aeroport-de-geneve-des-2018.html
 8283035-des-avions-propulses-au-biocarburant-a-laeroport-de-geneve-des-2018.html
 8292256-l-aeroport-de-geneve-va-prolonger-son-plan-d-urgence-face-a-l-affluence.html
@@ -254,6 +258,7 @@
 8469540-la-mere-de-fabrice-a-j-aime-mon-fils-mais-je-ne-veux-plus-avoir-a-faire-a-lui.html
 8469540-la-mere-de-fabrice-a-j-aime-mon-fils-mais-je-ne-veux-plus-avoir-affaire-a-lui-.html
 8469540-la-mere-de-fabrice-a-j-aime-mon-fils-mais-je-ne-veux-plus-avoir-affaire-a-lui.html
+8469540-la-mere-de-fabrice-a-jaime-mon-fils-mais-je-ne-veux-plus-avoir-affaire-a-lui.html
 8470846-geneve-va-etudier-la-faisabilite-d-un-projet-de-telecabine-urbaine.html
 8470846-geneve-va-etudier-la-faisabilite-dun-projet-de-telecabine-urbaine.html
 8472276-un-cadre-de-l-etat-de-geneve-condamne-pour-avoir-menti-sur-sa-formation.html
@@ -262,9 +267,11 @@
 8477500-le-recours-contre-un-memorial-du-genocide-armenien-rejete-a-geneve.html
 8482944-les-premieres-zones-reservees-fixees-par-geneve-font-grincer-des-dents.html
 8483172-geneve-tente-de-recuperer-un-document-signe-de-jean-calvin-aux-etats-unis.html
+8484719-les-quatre-variantes-de-la-traversee-du-lac-a-geneve-vue-par-larchitecte-santiago-calatrava.html
 8484721-l-architecte-santiago-calatrava-livre-sa-vision-de-la-traversee-du-lac-a-geneve.html
 8484721-larchitecte-santiago-calatrava-livre-sa-vision-de-la-traversee-du-lac-a-geneve.html
 8490206-le-directeur-d-addax-arrete-a-geneve-dans-une-affaire-de-corruption.html
+8490206-le-directeur-daddax-arrete-a-geneve-dans-une-affaire-de-corruption.html
 8491346-un-projet-de-loi-contre-l-illisibilite-de-la-e-feuille-d-avis-officielle-genevoise.html
 8495989-cent-mesures-pour-une-mobilite-coherente-et-equilibree-a-geneve.html
 8500503-un-incendie-sest-declare-dans-une-menuiserie-a-satigny-ge.html
@@ -275,6 +282,7 @@
 8511981--les-medias-sont-devenus-un-pouvoir-sans-contre-pouvoir-.html
 8517431-la-justice-genevoise-croule-sous-les-oppositions-aux-contraventions.html
 8517678-l-aeroport-de-geneve-a-degage-un-benefice-de-80-8-millions-de-francs.html
+8517678-laeroport-de-geneve-a-degage-un-benefice-de-808-millions-de-francs.html
 8520603--les-jeunes-ont-raison-de-protester-contre-les-coupes-dans-la-formation-.html
 8520603-les-jeunes-ont-raison-de-protester-contre-les-coupes-dans-la-formation.html
 8521535-les-travaux-urgents-au-stade-de-geneve-devraient-etre-finis-d-ici-l-ete.html
@@ -284,6 +292,7 @@
 8529309-bagarre-et-interpellations-avant-le-match-servettexamax-a-geneve.html
 8531735-operation-papyrus-comment-geneve-lutte-contre-la-clandestinite.html
 8535544-fronde-du-personnel-de-l-onu-a-geneve-contre-la-perte-d-un-mois-de-salaire.html
+8535544-fronde-du-personnel-de-lonu-a-geneve-contre-la-perte-dun-mois-de-salaire.html
 8536313-interdit-en-france-hani-ramadan-parle-en-toute-legalite-a-geneve.html
 8539161-liberation-des-deux-dirigeants-d-addax-petroleum-arretes-a-geneve.html
 8539223-chaim-nissim-qui-avait-tire-a-la-roquette-sur-creys-malville-est-decede.html
@@ -304,6 +313,7 @@
 8578548-pour-fluidifier-le-trafic-geneve-veut-supprimer-des-feux-de-circulation.html
 8579163--on-fait-le-pari-d-une-fete-canalisee-et-encadree-mais-une-fete-avant-tout-.html
 8579163-on-fait-le-pari-d-une-fete-canalisee-et-encadree-mais-une-fete-avant-tout.html
+8579163-on-fait-le-pari-dune-fete-canalisee-et-encadree-mais-une-fete-avant-tout.html
 8580423-nouvelle-interpellation-au-sein-du-groupe-petrolier-addax-petroleum.html
 8580987-la-marche-pour-le-climat-reunit-des-centaines-de-manifestants-a-geneve.html
 8584518-grace-a-jack-lang-geneve-devient-la-capitale-des-oeuvres-d-art-menacees-.html
@@ -338,6 +348,7 @@
 8618620-coups-de-feu-lors-du-braquage-dune-bijouterie-a-geneve.html
 8619947-un-pieton-tue-par-un-conducteur-octogenaire-en-ville-de-geneve.html
 8627336-record-pour-des-boucles-d-oreilles-en-diamant-vendues-57-millions.html
+8627336-record-pour-des-boucles-doreilles-en-diamant-vendues-57-millions.html
 8630524-le-plus-gros-diamant-parfait-taille-en-forme-de-coeur-vendu-15-millions.html
 8638629-les-genevois-rejettent-l-augmentation-des-billets-et-abonnements-tpg.html
 8638629-les-genevois-rejettent-laugmentation-des-billets-et-abonnements-tpg.html
@@ -358,6 +369,7 @@
 8650911-quelques-incidents-a-geneve-apres-la-defaite-du-fc-sion-face-a-bale.html
 8653107-bilan-tres-positif-de-la-police-genevoise-apres-la-coupe-de-suisse.html
 8669529-a-geneve-la-future-traversee-du-lac-se-dessine-sous-la-forme-d-un-pont.html
+8669529-a-geneve-la-future-traversee-du-lac-se-dessine-sous-la-forme-dun-pont.html
 8670674-geneve-va-depenser-pres-de-5-6-millions-pour-mieux-equiper-sa-police.html
 8671688-une-galerie-genevoise-sous-enquete-pour-trafic-d-objets-archeologiques.html
 8671688-une-galerie-genevoise-sous-enquete-pour-trafic-dobjets-archeologiques.html
@@ -402,12 +414,15 @@
 8723953-la-loi-sur-les-taxis-entre-en-vigueur-a-geneve-mais-continue-de-diviser.html
 8724877-condamne-pour-avoir-soutire-trois-millions-a-une-nonagenaire-a-geneve.html
 8726429-luc-barthassat-lache-par-le-conseil-d-etat-genevois-au-sujet-des-tpg.html
+8726429-luc-barthassat-lache-par-le-conseil-detat-genevois-au-sujet-des-tpg.html
 8726765-un-rapport-estime-que-geneve-peut-mieux-faire-pour-aider-les-migrants.html
 8727733-le-grand-conseil-genevois-approuve-les-comptes-2016-du-canton.html
 8729212-les-hopitaux-universitaires-de-geneve-envisagent-35-millions-d-economies.html
+8729212-les-hopitaux-universitaires-de-geneve-envisagent-35-millions-deconomies.html
 8730488-le-ministre-genevois-luc-barthassat-a-voulu-faire-sauter-une-amende.html
 8732934-syndicats-et-asloca-allies-a-geneve-pour-assurer-pensions-et-logements.html
 8733678-l-affaire-de-l-amende-revelatrice-de-l-isolement-de-luc-barthassat.html
+8733678-laffaire-de-lamende-revelatrice-de-lisolement-de-luc-barthassat.html
 8737665-les-taxis-genevois-deposent-une-petition-pour-faire-appliquer-la-lex-uber-.html
 8740265-de-petits-monstres-envahissent-geneve-pour-la-fete-des-ecoles.html
 8741366-dysfonctionnements-pointes-a-l-office-du-personnel-de-l-etat-de-geneve.html
@@ -431,11 +446,13 @@
 8761092-liberation-conditionnelle-pour-l-avocat-genevois-dominique-warluzel.html
 8761092-liberation-conditionnelle-pour-lavocat-genevois-dominique-warluzel.html
 8764539-une-cigarette-derriere-la-violente-agression-de-saint-jean-a-geneve.html
+8764539-une-cigarette-derriere-la-violente-agression-de-saintjean-a-geneve.html
 8769849-radio-lac-de-retour-sur-les-ondes-lemaniques-des-septembre.html
 8770246-un-chauffard-condamne-en-appel-pour-meurtre-par-dol-eventuel-a-geneve.html
 8770497-une-initiative-pour-une-caisse-maladie-publique-deposee-a-geneve.html
 8775124-policier-genevois-condamne-pour-exces-de-vitesse-en-intervention.html
 8781231-un-homme-s-est-noye-dans-le-rhone-a-la-jonction-a-geneve.html
+8781231-un-homme-sest-noye-dans-le-rhone-a-la-jonction-a-geneve.html
 8782737-un-homme-de-23-ans-meurt-de-plusieurs-coups-de-couteau-a-geneve.html
 8787622-les-oppositions-menacent-la-mise-en-service-du-ceva-fin-2019-a-geneve.html
 8788288-rififi-autour-du-controle-des-passeports-a-l-aeroport-de-geneve.html
@@ -487,8 +504,10 @@
 8891534-geneve-recherche-des-centaines-de-suspects-disparus-des-radars.html
 8896393-un-pont-plutot-qu-un-tunnel-pour-la-traversee-du-lac-a-geneve.html
 8896393-vers-un-pont-plutot-qu-un-tunnel-pour-la-traversee-du-lac-a-geneve.html
+8896393-vers-un-pont-plutot-quun-tunnel-pour-la-traversee-du-lac-a-geneve.html
 8903735-porte-disparu-depuis-dimanche-un-vaudois-est-retrouve-sans-vie-a-geneve.html
 8903780-la-reconnaissance-faciale-sera-testee-a-l-aeroport-de-geneve.html
+8903780-la-reconnaissance-faciale-sera-testee-a-laeroport-de-geneve.html
 8907266-des-petits-bateaux-a-messages-sur-le-rhone-pour-lutter-contre-le-suicide.html
 8907279-plusieurs-centaines-de-kurdes-irakiens-reunis-a-geneve-devant-l-onu.html
 8910431-eric-stauffer-lance-un-nouveau-parti-baptise-geneve-en-marche.html
@@ -509,6 +528,7 @@
 8939432-l-etat-de-geneve-devra-compenser-les-pertes-financieres-des-tpg.html
 8939845-apres-5-ans-de-detention-preventive-erwin-sperisen-retrouve-la-liberte.html
 8940347-remy-pagani-maire-de-geneve-entre-coups-d-eclat-et-revers-de-fortune.html
+8940347-remy-pagani-maire-de-geneve-entre-coups-declat-et-revers-de-fortune.html
 8941945-un-homme-blesse-par-balles-lors-d-une-fusillade-aux-charmilles-a-geneve.html
 8942018-le-grand-theatre-de-geneve-obtient-une-aide-de-3-millions-du-canton.html
 8943540-moins-de-signatures-seront-requises-pour-les-initiatives-a-geneve.html
@@ -519,6 +539,7 @@
 8949268-le-canton-de-geneve-enregistre-une-baisse-de-consommation-energetique.html
 8951135-remy-pagani-je-m-excuse-pour-ma-maladresse-mais-je-n-ai-jamais-triche-.html
 8951135-remy-pagani-je-m-excuse-pour-ma-maladresse-mais-je-n-ai-jamais-triche.html
+8951135-remy-pagani-je-mexcuse-pour-ma-maladresse-mais-je-nai-jamais-triche.html
 8951225-cent-adresses-genevoises-concentrent-plus-de-6700-sieges-de-societes.html
 8951698-l-udc-geneve-lance-un-ticket-a-trois-candidats-pour-le-conseil-d-etat.html
 8951698-ludc-geneve-lance-un-ticket-a-trois-candidats-pour-le-conseil-detat.html
@@ -543,4 +564,5 @@
 8994044-une-grande-centrale-solaire-verra-le-jour-sur-les-toits-de-geneve-aeroport.html
 8994044-une-grande-centrale-solaire-verra-le-jour-sur-les-toits-de-geneveaeroport.html
 8997607-l-exposition-body-worlds-ne-viole-pas-la-loi-juge-le-conseil-d-etat-genevois.html
+8997607-lexposition-body-worlds-ne-viole-pas-la-loi-juge-le-conseil-detat-genevois.html
 8998948-les-travaux-de-renovation-du-grand-theatre-de-geneve-prennent-du-retard.html

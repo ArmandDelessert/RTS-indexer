@@ -1,6 +1,7 @@
 9000585-pour-ueli-maurer-les-relations-avec-les-etats-unis-sont-meilleures-avec-trump.html
 9000585-pour-ueli-maurer-les-relations-avec-les-etatsunis-sont-meilleures-avec-trump.html
 9000914-neuchatel-devrait-afficher-la-plus-forte-croissance-romande-l-an-prochain.html
+9000914-neuchatel-devrait-afficher-la-plus-forte-croissance-romande-lan-prochain.html
 9000973-le-constructeur-americain-de-voitures-electriques-tesla-biffe-400-emplois.html
 9003800-lufthansa-et-easyjet-manifestent-leur-interet-pour-le-rachat-d-actifs-d-alitalia.html
 9003800-lufthansa-et-easyjet-manifestent-leur-interet-pour-le-rachat-dactifs-dalitalia.html
@@ -10,6 +11,7 @@
 9005440-face-a-boeing-bombardier-s-allie-a-airbus-dans-les-avions-moyen-courrier.html
 9005561-un-investisseur-zurichois-veut-diviser-credit-suisse-en-trois-entites.html
 9009206-seduits-par-la-politique-d-emmanuel-macron-les-exiles-fiscaux-rentrent.html
+9009206-seduits-par-la-politique-demmanuel-macron-les-exiles-fiscaux-rentrent.html
 9009401-le-nouveau-billet-de-10-francs-mis-en-circulation.html
 9009796-l-editeur-de-la-revue-scientifique-nature-prepare-son-entree-en-bourse.html
 9009796-lediteur-de-la-revue-scientifique-nature-prepare-son-entree-en-bourse.html
@@ -19,7 +21,9 @@
 9021582-une-start-up-lausannoise-active-dans-l-oncologie-leve-200-millions.html
 9021993-tesla-devrait-construire-une-usine-de-production-de-ses-voitures-en-chine.html
 9023978-general-electric-pourrait-supprimer-a-nouveau-un-millier-d-emplois-en-suisse.html
+9023978-general-electric-pourrait-supprimer-a-nouveau-un-millier-demplois-en-suisse.html
 9024034-les-caisses-de-pension-pressees-d-investir-de-maniere-plus-durable.html
+9024034-les-caisses-de-pension-pressees-dinvestir-de-maniere-plus-durable.html
 9024224-la-france-confrontee-a-l-urgence-d-une-penurie-de-beurre.html
 9024224-la-france-confrontee-a-lurgence-dune-penurie-de-beurre.html
 9028641-le-chiffre-d-affaires-d-ikea-suisse-en-recul-sur-l-exercice-2016-2017.html
@@ -79,12 +83,14 @@
 9071871-lache-par-les-soustraitants-horlogers-le-salon-baselworld-est-en-crise.html
 9072750-les-etats-unis-commencent-a-indemniser-les-victimes-de-bernard-madoff.html
 9078177-des-dizaines-de-milliards-depenses-en-chine-pour-le-jour-des-celibataires-.html
+9078177-des-dizaines-de-milliards-depenses-en-chine-pour-le-jour-des-celibataires.html
 9078177-des-milliards-d-euros-depenses-en-chine-pour-le-jour-des-celibataires-.html
 9078177-des-milliards-d-euros-depenses-en-chine-pour-le-jour-des-celibataires.html
 9078825-les-paradise-papers-revelent-le-mandat-controverse-de-pwc-zurich-pour-un-ministre-serbe.html
 9079328-le-geant-balois-des-duty-free-dans-le-viseur-des-autorites-de-l-ile-maurice.html
 9079328-le-geant-balois-des-duty-free-dans-le-viseur-des-autorites-de-lile-maurice.html
 9083509-amende-de-135-millions-de-dollars-pour-credit-suisse-aux-etats-unis.html
+9083509-amende-de-135-millions-de-dollars-pour-credit-suisse-aux-etatsunis.html
 9084407-les-suisses-restent-les-plus-riches-du-monde-selon-une-etude.html
 9084617-ruine-le-venezuela-est-declare-en-defaut-de-paiement-partiel.html
 9088968-origine-du-cobalt-et-droits-humains-les-grandes-firmes-priees-de-reagir.html
@@ -94,6 +100,7 @@
 9098936-reprise-massive-chez-swatch-group-selon-son-patron-nick-hayek.html
 9100968-la-banque-hsbc-au-coeur-du-film-les-gangsters-de-la-finance-.html
 9102793-le-non-du-ministere-americain-de-la-justice-a-la-fusion-at-t-time-warner.html
+9102793-le-non-du-ministere-americain-de-la-justice-a-la-fusion-atttime-warner.html
 9104188-facebook-depasse-en-bourse-par-le-groupe-technologique-chinois-tencent-.html
 9104666-deux-boeing-747-vendus-aux-encheres-sur-internet-en-chine.html
 9106122-le-gouvernement-grec-prevoit-une-solide-croissance-l-an-prochain.html
@@ -118,6 +125,7 @@
 9123462-grounding-des-avions-de-la-compagnie-darwin-airline.html
 9126396-le-bitcoin-passe-pour-la-premiere-fois-la-barre-des-10-000-dollars.html
 9126396-le-bitcoin-passe-pour-la-premiere-fois-la-barre-des-11-000-dollars.html
+9126396-le-bitcoin-passe-pour-la-premiere-fois-la-barre-des-11000-dollars.html
 9127579-venture-kick-tire-un-bilan-positif-de-10-ans-de-soutien-aux-start-up-suisses.html
 9127579-venture-kick-tire-un-bilan-positif-de-10-ans-de-soutien-aux-startup-suisses.html
 9127642-les-cigarettiers-americains-contraints-a-faire-de-la-publicite-anti-tabac.html
@@ -130,6 +138,7 @@
 9139720-la-firme-gucci-soupconnee-d-evasion-fiscale-par-la-justice-italienne.html
 9139720-la-firme-gucci-soupconnee-devasion-fiscale-par-la-justice-italienne.html
 9140291-des-banques-suisses-reagissent-a-l-action-anticorruption-saoudienne.html
+9140291-des-banques-suisses-reagissent-a-laction-anticorruption-saoudienne.html
 9146846-nestle-investit-plus-de-2-milliards-dans-des-produits-de-sante-nutritionnelle.html
 9151683-la-privatisation-des-aeroports-un-choix-risque-pour-la-branche-aerienne.html
 9152182-general-electric-confirme-la-suppression-de-1400-emplois-en-suisse.html
@@ -137,8 +146,10 @@
 9152905-procedure-classee-a-geneve-contre-l-informaticien-de-mossack-fonseca.html
 9152905-procedure-classee-a-geneve-contre-linformaticien-de-mossack-fonseca.html
 9153155-le-comite-de-bale-valide-des-reformes-bancaires-post-crise-financiere.html
+9153155-le-comite-de-bale-valide-des-reformes-bancaires-postcrise-financiere.html
 9155070-une-plateforme-de-bitcoins-se-fait-derober-pres-de-80-millions-de-dollars.html
 9157242-apple-pourrait-racheter-l-application-de-reconnaissance-musicale.html
+9157242-apple-pourrait-racheter-lapplication-de-reconnaissance-musicale.html
 9159816-le-bitcoin-en-passe-de-se-banaliser-entre-a-la-bourse-de-chicago.html
 9161216--tous-les-domaines-economiques-sont-concernes-par-l-ilot-de-cherte-.html
 9161403-le-bitcoin-tres-demande-pour-ses-debuts-sur-une-bourse-mondiale.html
@@ -162,6 +173,7 @@
 9182545-la-comco-inflige-environ-226-millions-de-francs-damende-a-la-poste.html
 9182610-le-ministere-francais-de-l-economie-attaque-le-geant-amazon-en-justice.html
 9183204-l-ue-ouvre-une-enquete-contre-ikea-pour-avantages-fiscaux-indus.html
+9183204-lue-ouvre-une-enquete-contre-ikea-pour-avantages-fiscaux-indus.html
 9184599-commander-sur-wish-cest-sexposer-a-des-articles-de-mauvaise-qualite.html
 9187752-une-ong-depose-une-denonciation-penale-contre-le-zougois-glencore.html
 9187865-facebook-accuse-d-abus-de-position-dominante-en-allemagne.html
@@ -175,6 +187,7 @@
 9195765-roche-rachete-l-americaine-ignyta-pour-pres-de-1-7-milliard-de-francs.html
 9196264-la-crypto-monnaie-bitcoin-retombe-de-ses-sommets-a-moins-de-13-000-francs.html
 9196264-la-cryptomonnaie-bitcoin-retombe-de-ses-sommets-a-moins-de-13-000-francs.html
+9196264-la-cryptomonnaie-bitcoin-retombe-de-ses-sommets-a-moins-de-13000-francs.html
 9199811-la-chine-a-fait-decoller-kunlong-le-plus-gros-hydravion-du-monde.html
 9202614-l-inde-va-integrer-le-top-5-des-puissances-economiques-du-monde.html
 9202614-linde-va-integrer-le-top-5-des-puissances-economiques-du-monde.html
@@ -185,6 +198,7 @@
 9204412-hausse-de-la-consommation-attendue-en-suisse-l-an-prochain.html
 9204823-mon-boulot-est-chamboule.html
 9205227-l-euro-a-son-plus-haut-face-au-franc-depuis-l-abandon-du-taux-plancher.html
+9205227-leuro-a-son-plus-haut-face-au-franc-depuis-labandon-du-taux-plancher.html
 9205583-la-finance-londonienne-souffre-moins-qu-annonce-apres-le-oui-au-brexit.html
 9205583-la-finance-londonienne-souffre-moins-quannonce-apres-le-oui-au-brexit.html
 9206526-on-ne-doit-pas-sendormir-sur-les-lauriers-dun-ancien-systeme-fiscal.html
@@ -197,6 +211,7 @@
 9209927-donald-trump-aura-profite-de-la-bonne-sante-de-leconomie-mondiale.html
 9210768-le-benefice-de-la-bns-devrait-depasser-les-30-milliards-en-2017.html
 9213293-ruee-vers-l-herbe-en-californie-ou-son-usage-recreatif-est-desormais-legal.html
+9213293-ruee-vers-lherbe-en-californie-ou-son-usage-recreatif-est-desormais-legal.html
 9214732-l-annee-2017-a-ete-la-plus-sure-pour-le-transport-aerien.html
 9214732-l-annee-2017-annee-la-plus-sure-pour-le-transport-aerien.html
 9215237-un-romand-devient-le-nouveau-directeur-general-de-la-migros.html
@@ -209,7 +224,9 @@
 9222152-spotify-accroit-sa-domination-dans-le-streaming-musical-et-pense-a-la-bourse.html
 9223547--les-entreprises-ont-la-responsabilite-d-embaucher-des-travailleurs-locaux-.html
 9223547-les-entreprises-ont-la-responsabilite-d-embaucher-des-travailleurs-locaux.html
+9223547-les-entreprises-ont-la-responsabilite-dembaucher-des-travailleurs-locaux.html
 9225605-volkswagen-a-vendu-10-7-millions-de-voitures-en-2017.html
+9225605-volkswagen-a-vendu-107-millions-de-voitures-en-2017.html
 9228474-les-prix-ont-augmente-de-0-5-l-an-dernier-en-suisse.html
 9229348-2018-annee-de-l-embellie-en-europe.html
 9229348-2018-annee-de-lembellie-en-europe.html
@@ -234,6 +251,7 @@
 9248371-le-fabricant-de-bouillons-hugli-rachete-par-bell-le-charcutier-de-coop.html
 9248671-une-initiative-cantonale-neuchateloise-exige-une-taxe-sur-les-sucres-ajoutes.html
 9249234-en-expansion-le-salon-international-de-la-haute-horlogerie-s-ouvre-a-geneve.html
+9249234-en-expansion-le-salon-international-de-la-haute-horlogerie-souvre-a-geneve.html
 9249528-le-bls-signe-un-contrat-a-583-millions-avec-stadler-rail.html
 9249913-des-milliers-de-clients-commerciaux-de-swisscom-subissent-une-panne.html
 9250917-reunion-de-crise-apres-la-chute-du-geant-britannique-carillion.html
@@ -310,7 +328,9 @@
 9310692-les-bourses-asiatiques-s-effondrent-dans-la-foulee-de-wall-street.html
 9310692-les-bourses-asiatiques-seffondrent-dans-la-foulee-de-wall-street.html
 9310771-la-suisse-veut-renforcer-ses-relations-commerciales-avec-l-armenie.html
+9310771-la-suisse-veut-renforcer-ses-relations-commerciales-avec-larmenie.html
 9310933-la-bourse-suisse-lache-2-9-a-la-cloture-dans-un-contexte-de-nervosite.html
+9310933-la-bourse-suisse-lache-29-a-la-cloture-dans-un-contexte-de-nervosite.html
 9310933-la-bourse-suisse-prise-a-son-tour-dans-les-turbulences-de-wall-street.html
 9311131-carpostal-devra-rembourser-des-benefices-dans-un-domaine-subventionne.html
 9311131-carpostal-remboursera-des-benefices-indus-dans-un-domaine-subventionne.html
@@ -322,6 +342,7 @@
 9318505-la-direction-etait-au-courant-des-astuces-comptables-de-carpostal.html
 9318596-twitter-degage-son-premier-benefice-net-trimestriel-depuis-2013.html
 9318938-les-centres-commerciaux-americains-victimes-de-l-essor-de-la-vente-en-ligne.html
+9318938-les-centres-commerciaux-americains-victimes-de-lessor-de-la-vente-en-ligne.html
 9319605-le-dow-jones-perd-a-nouveau-plus-de-1-000-points-a-wall-street.html
 9319605-le-dow-jones-perd-a-nouveau-plus-de-1000-points-a-wall-street.html
 9320337-un-nouveau-bachelor-industriel-propose-a-neuchatel-et-a-yverdon.html
@@ -375,6 +396,7 @@
 9368879-vers-une-interdiction-des-vieux-diesel-dans-les-villes-d-allemagne.html
 9368879-vers-une-interdiction-des-vieux-diesel-dans-les-villes-dallemagne.html
 9369396-disney-investit-deux-milliards-d-euros-dans-son-parc-disneyland-paris.html
+9369396-disney-investit-deux-milliards-deuros-dans-son-parc-disneyland-paris.html
 9371878-bobst-s-inquiete-de-la-releve-et-craint-pour-la-place-industrielle-suisse.html
 9375638-cff-cargo-veut-supprimer-800-emplois-d-ici-cinq-ans.html
 9377225-stadler-rail-dement-un-contrat-a-plus-d-un-milliard-avec-l-iran.html
@@ -396,6 +418,7 @@
 9391177-lue-etudie-sa-riposte-face-a-la-hausse-des-droits-de-douanes-americains.html
 9391177-lue-precise-la-liste-des-produits-americains-qui-pourraient-etre-surtaxes.html
 9391535-plus-de-3500-postes-concernes-en-europe-par-la-reorganisation-d-airbus.html
+9391535-plus-de-3500-postes-concernes-en-europe-par-la-reorganisation-dairbus.html
 9391539-la-suisse-depassee-par-la-chine-en-nombre-de-brevets-deposes.html
 9392062-coca-cola-va-lancer-sa-premiere-boisson-alcoolisee-au-japon.html
 9392188-washington-parle-de-derogations-pour-ses-voisins-sur-les-taxes-a-l-importation.html
@@ -408,6 +431,7 @@
 9395482-inquietudes-face-aux-taxes-a-l-importation-imposees-par-donald-trump.html
 9396433-au-moins-dix-personnes-lesees-par-un-exposant-du-comptoir-suisse-2017.html
 9398598-pas-d-accord-entre-l-ue-et-les-etats-unis-sur-les-taxes-a-l-importation.html
+9398598-pas-daccord-entre-lue-et-les-etatsunis-sur-les-taxes-a-limportation.html
 9399677-les-affaires-secretes-de-l-ex-patron-de-raiffeisen-lui-auraient-rapporte-4-7-millions.html
 9399677-les-affaires-secretes-de-lexpatron-de-raiffeisen-lui-auraient-rapporte-47-millions.html
 940126-l-ubs-retrouve-les-benefices-mais-perd-des-clients.html
@@ -458,6 +482,7 @@
 9438841-negociations-commerciales-secretes-entre-la-chine-et-les-etats-unis.html
 9438853-alpiq-vend-ses-activites-industrielles-pour-850-millions-a-bouygues.html
 9439652-le-fmi-pronostique-une-croissance-de-2-25-pour-la-suisse-cette-annee.html
+9439652-le-fmi-pronostique-une-croissance-de-225-pour-la-suisse-cette-annee.html
 9439819-gategroup-renonce-a-faire-son-entree-a-la-bourse-suisse.html
 9440367-la-poste-confirme-son-contrat-avec-le-geant-de-l-e-commerce-amazon.html
 9440367-la-poste-confirme-son-contrat-avec-le-geant-de-lecommerce-amazon.html

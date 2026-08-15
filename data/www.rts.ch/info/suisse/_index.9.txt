@@ -1,5 +1,7 @@
 9000517-un-demi-million-d-automobilistes-roulent-sans-vignette-en-suisse.html
+9000517-un-demimillion-dautomobilistes-roulent-sans-vignette-en-suisse.html
 9000575-les-partis-bourgeois-s-entendent-pour-une-nouvelle-reforme-de-l-avs.html
+9000575-les-partis-bourgeois-sentendent-pour-une-nouvelle-reforme-de-lavs.html
 9000575-les-partis-de-la-droite-et-du-centre-proposent-une-nouvelle-reforme-de-l-avs.html
 9002302-la-nouvelle-alliance-bourgeoise-sur-les-retraites-une-entente-bien-fragile.html
 9002360--trop-de-gens-meurent-en-raison-du-manque-de-donneurs-d-organes-.html
@@ -56,6 +58,7 @@
 9018392-les-conseillers-federaux-revelent-les-associations-dont-ils-sont-membres.html
 9019449-avec-les-jo-2026-le-valais-a-besoin-de-se-mettre-en-evidence-selon-adolf-ogi.html
 9019642-le-nombre-de-demandes-d-asile-en-suisse-au-plus-bas-depuis-sept-ans.html
+9019642-le-nombre-de-demandes-dasile-en-suisse-au-plus-bas-depuis-sept-ans.html
 9019889-craignant-des-surcouts-nombre-d-elus-federaux-rejettent-les-jo-de-sion-2026.html
 9019889-craignant-des-surcouts-nombre-delus-federaux-rejettent-les-jo-de-sion-2026.html
 9019889-les-jo-d-hiver-de-sion-2026-peinent-a-convaincre-les-elus-federaux.html
@@ -68,6 +71,7 @@
 9022200-les-cff-conservent-le-monopole-du-trafic-grandes-lignes.html
 9022217-l-armee-peine-a-recruter-des-cyber-specialistes-plus-seduits-par-google.html
 9022735-l-initiative-no-billag-est-trop-radicale-selon-economiesuisse.html
+9022735-linitiative-no-billag-est-trop-radicale-selon-economiesuisse.html
 9028768-simonetta-sommaruga-s-il-n-y-a-plus-de-discussion-il-n-y-a-plus-de-federalisme-.html
 9028816-le-president-du-psg-interroge-par-la-justice-suisse-pour-corruption-a-la-fifa.html
 9028920-le-conseil-federal-precise-le-projet-de-deuxieme-tunnel-routier-du-gothard.html
@@ -84,14 +88,17 @@
 9031302-l-espion-suisse-presume-en-allemagne-avoue-les-faits-lors-de-son-proces.html
 9031302-lespion-suisse-presume-en-allemagne-avoue-les-faits-lors-de-son-proces.html
 9031508-la-suisse-expulse-le-frere-de-l-auteur-de-l-attentat-de-marseille.html
+9031508-la-suisse-expulse-le-frere-de-lauteur-de-lattentat-de-marseille.html
 9031829-pietons-et-cyclistes-toujours-plus-menaces-sur-les-routes-suisses.html
 9032375-des-centaines-de-thailandais-de-suisse-rendent-hommage-au-roi-bhumibol.html
 9032546-la-ministre-francaise-du-travail-en-visite-pour-vanter-le-modele-suisse.html
 9032560-les-jo-vont-ils-doper-le-tourisme-l-euro-08-avait-fait-fuir-les-vacanciers.html
+9032560-les-jo-vontils-doper-le-tourisme-leuro-08-avait-fait-fuir-les-vacanciers.html
 9032735-la-licra-lance-un-site-web-pour-denoncer-les-derives-sur-internet.html
 9034669-contrairement-a-la-france-la-suisse-ne-mange-pas-les-vaches-tuberculeuses.html
 9035720-la-table-ronde-sur-la-prevoyance-vieillesse-bute-sur-tous-les-points.html
 9037224-l-udc-adopte-un-catalogue-de-revendications-contre-l-islam-radical.html
+9037224-ludc-adopte-un-catalogue-de-revendications-contre-lislam-radical.html
 9037279-les-delegues-du-pbd-recommandent-le-non-a-l-initiative-no-billag-.html
 9037649-les-verts-rejettent-a-l-unanimite-l-initiative-no-billag-.html
 9037678-johann-schneider-ammann-salue-le-courage-des-entrepreneurs-palestiniens.html
@@ -100,9 +107,11 @@
 9038716-romands-et-tessinois-souffrent-plus-de-depression-que-les-alemaniques.html
 9038737-les-forets-suisses-continuent-leur-expansion-surtout-en-altitude.html
 9038805-johann-schneider-ammann-stoique-face-a-la-police-israelienne-a-jerusalem.html
+9038805-johann-schneiderammann-stoique-face-a-la-police-israelienne-a-jerusalem.html
 9039142-la-compagnie-adria-airways-reprend-des-vols-de-skywork-a-berne.html
 9039193-un-manque-de-transparence-dans-les-dons-aux-partis-politiques-denonce.html
 9039256-conduire-apres-la-prise-de-medicaments-n-est-pas-sans-risque.html
+9039256-conduire-apres-la-prise-de-medicaments-nest-pas-sans-risque.html
 9039289-parler-de-negres-au-parlement-est-legal-selon-le-ministere-public-bernois.html
 9040489-le-milliard-destine-aux-jo-defendu-par-johann-schneiderammann.html
 9040545-la-production-de-miel-francais-degringole-le-miel-suisse-reste-stable.html
@@ -135,6 +144,7 @@
 9049748-fumer-pourrait-etre-interdit-dans-les-gares-suisses-des-la-fin-2018.html
 9049856-jean-christophe-schwaab-quitte-le-parlement-pour-des-raisons-familiales.html
 9050582-suivre-les-fraudeurs-a-l-aide-sociale-le-recours-a-des-detectives-controverse.html
+9050582-suivre-les-fraudeurs-a-laide-sociale-le-recours-a-des-detectives-controverse.html
 9051031-une-association-s-engage-contre-no-billag-et-la-disparition-des-radios-et-tv.html
 9051031-une-association-sengage-contre-no-billag-et-la-disparition-des-radios-et-tv.html
 9051233-la-hausse-des-primes-maladie-2018-serait-plus-importante-qu-annonce.html
@@ -165,6 +175,7 @@
 9058952-hausse-sans-precedent-des-braquages-de-bijouteries-en-suisse-en-2017.html
 9059056-de-la-neige-attendue-au-dessus-de-800m-dans-la-nuit-de-dimanche-a-lundi.html
 9060462-avec-de-la-neige-a-700-metres-l-hiver-s-installe-en-suisse-pour-la-semaine.html
+9060462-avec-de-la-neige-a-700-metres-lhiver-sinstalle-en-suisse-pour-la-semaine.html
 9061494-la-drogue-sur-le-darknet-un-marche-et-beaucoup-de-pieges.html
 9063376-toujours-plus-de-hooligans-etrangers-viennent-chercher-la-bagarre-en-suisse.html
 9063589-avoir-des-enfants-accroit-le-risque-de-pauvrete-en-suisse-selon-un-rapport.html
@@ -201,6 +212,7 @@
 9072200-la-suisse-ne-compte-pas-reconnaitre-officiellement-un-troisieme-sexe.html
 9073649--les-epf-sont-les-vaisseaux-amiraux-du-systeme-federal-de-l-innovation-.html
 9073649-les-epf-sont-les-vaisseaux-amiraux-du-systeme-federal-de-l-innovation.html
+9073649-les-epf-sont-les-vaisseaux-amiraux-du-systeme-federal-de-linnovation.html
 9074643-le-phenomene-de-resistance-aux-antibiotiques-inquiete-en-suisse.html
 9075208-un-suisse-sur-cinq-renonce-a-se-soigner-pour-des-raisons-financieres.html
 9076114-christian-levrat-pourrait-briguer-le-siege-de-marie-garnier-a-fribourg.html
@@ -208,7 +220,9 @@
 9076431-le-cofondateur-d-exit-rolf-sigg-est-decede-a-l-age-de-100-ans.html
 9076431-le-cofondateur-dexit-rolf-sigg-est-decede-a-lage-de-100-ans.html
 9077063-trois-suisses-ont-ete-retrouves-morts-dans-l-utah-aux-etats-unis.html
+9077063-trois-suisses-ont-ete-retrouves-morts-dans-lutah-aux-etatsunis.html
 9077529-ouverture-de-la-saison-du-carnaval-en-suisse-ce-11-11-a-11h11.html
+9077529-ouverture-de-la-saison-du-carnaval-en-suisse-ce-1111-a-11h11.html
 9077693-meteosuisse-emet-un-avis-de-tempete-hivernale-pour-ce-dimanche.html
 9078705-le-secteur-du-negoce-dans-le-viseur-de-simonetta-sommaruga.html
 9079310-l-epfz-veut-recruter-100-professeurs-dans-les-sept-prochaines-annees.html
@@ -218,6 +232,7 @@
 9079482-des-vents-tempetueux-ont-balaye-la-suisse-provoquant-des-perturbations-.html
 9079886--guy-parmelin-n-a-pas-la-tache-de-mobiliser-en-suisse-romande-.html
 9079886-guy-parmelin-n-a-pas-la-tache-de-mobiliser-en-suisse-romande.html
+9079886-guy-parmelin-na-pas-la-tache-de-mobiliser-en-suisse-romande.html
 9079893-la-session-des-jeunes-veut-mettre-fin-aux-cadeaux-des-pharmaceutiques.html
 9079893-la-session-des-jeunes-veut-mettre-fin-aux-cadeaux-des-pharmas.html
 9080709-les-caisses-maladie-ont-depense-74-4-millions-en-marketing-en-2016.html
@@ -233,9 +248,12 @@
 9082627-les-cff-testent-un-systeme-econome-en-energie-pour-chauffer-les-voies.html
 9082962-une-femme-en-lien-avec-une-operation-antiterroriste-en-detention-pour-3-mois.html
 9084203-le-conseil-federal-reflechit-a-une-nouvelle-strategie-face-a-l-ue.html
+9084203-le-conseil-federal-reflechit-a-une-nouvelle-strategie-face-a-lue.html
 9084591-en-suisse-10-000-francs-par-habitant-seront-depenses-pour-la-sante-en-2018.html
+9084591-en-suisse-10000-francs-par-habitant-seront-depenses-pour-la-sante-en-2018.html
 9084788-la-grippe-et-la-canicule-ont-cause-un-nombre-exceptionnel-de-deces-en-2015.html
 9084831-vingt-ans-apres-la-suisse-s-en-remet-a-l-egypte-dans-l-enquete-sur-louxor.html
+9084831-vingt-ans-apres-la-suisse-sen-remet-a-legypte-dans-lenquete-sur-louxor.html
 9084874-les-requerants-dasile-mineurs-dispenses-de-payer-des-avances-de-frais.html
 9086726-la-confederation-bloque-une-etude-de-l-universite-de-berne-sur-le-cannabis.html
 9086844-une-plainte-apres-une-agression-sexuelle-une-procedure-douloureuse-.html
@@ -246,6 +264,7 @@
 9089044-l-ofrou-veut-autoriser-les-jeunes-cyclistes-a-rouler-sur-le-trottoir.html
 9089044-lofrou-veut-autoriser-les-jeunes-cyclistes-a-rouler-sur-le-trottoir.html
 9089289-la-protection-suisse-des-animaux-a-recueilli-18-000-animaux-en-2016.html
+9089289-la-protection-suisse-des-animaux-a-recueilli-18000-animaux-en-2016.html
 9089531-le-conseil-federal-entend-reduire-nettement-le-nombre-de-civilistes.html
 9089637-le-conseil-federal-veut-creer-une-identite-numerique-reconnue-par-l-etat.html
 9089637-le-conseil-federal-veut-creer-une-identite-numerique-reconnue-par-letat.html
@@ -297,6 +316,7 @@
 9108751-swisscom-doit-veiller-a-la-numerisation-des-regions-peripheriques.html
 9109378-l-espion-suisse-condamne-en-allemagne-s-exprime-publiquement-.html
 9109378-l-espion-suisse-condamne-en-allemagne-s-exprime-publiquement.html
+9109378-lespion-suisse-condamne-en-allemagne-sexprime-publiquement.html
 9110217--on-ne-peut-pas-faire-de-pause-en-matiere-de-bilaterales-avec-l-ue.html
 9110412-jean-claude-juncker-est-a-berne-pour-une-rencontre-avec-doris-leuthard.html
 9110412-la-suisse-versera-le-milliard-de-cohesion-a-l-ue-le-suivi-en-direct.html
@@ -320,6 +340,7 @@
 9114233-les-enfants-voles-du-sri-lanka-demandent-justice-en-suisse.html
 9114499-de-possibles-eclats-de-verre-dans-des-fondues-toutes-pretes-de-migros.html
 9114556-variantes-contre-la-saturation-de-l-a9-entre-lausanne-et-montreux.html
+9114556-variantes-contre-la-saturation-de-la9-entre-lausanne-et-montreux.html
 9115837-rassemblements-en-suisse-contre-les-violences-envers-les-femmes.html
 9116025-une-landsgemeinde-a-bienne-pour-contrer-les-amalgames-islamophobes.html
 9117347-manifestation-a-geneve-et-dans-le-monde-contre-l-esclavage-en-libye.html
@@ -368,6 +389,7 @@
 9126243-guy-mettan-a-nouveau-accuse-de-servir-de-relais-a-la-propagande-russe.html
 9126411--la-clause-guillotine-fait-partie-integrante-des-bilaterales-suisse-ue-.html
 9126411-la-clause-guillotine-fait-partie-integrante-des-bilaterales-suisse-ue.html
+9126411-la-clause-guillotine-fait-partie-integrante-des-bilaterales-suisseue.html
 9126607-le-conseil-des-etats-tranche-en-faveur-de-l-importation-du-foie-gras.html
 9126607-le-conseil-des-etats-tranche-en-faveur-de-limportation-du-foie-gras.html
 9127920-le-proces-du-milliardaire-zurichois-urs-schwarzenbach-est-suspendu.html
@@ -390,6 +412,7 @@
 9132478-les-pistes-evoquees-pour-lutter-contre-le-harcelement-au-palais-federal-.html
 9133302-le-president-du-parlement-russe-attendu-en-suisse-en-fevrier.html
 9133706-la-neige-tombee-jusqu-en-plaine-a-perturbe-le-trafic-en-suisse.html
+9133706-la-neige-tombee-jusquen-plaine-a-perturbe-le-trafic-en-suisse.html
 9133721-airbnb-propose-une-carte-de-credit-qui-permet-aux-logeurs-de-frauder-le-fisc.html
 9133808-le-nombre-de-jours-de-service-dans-la-protection-civile-sera-reduit.html
 9134132-doris-leuthard-si-ces-reproches-sont-corrects-monsieur-buttet-a-un-probleme-.html
@@ -402,6 +425,7 @@
 9137687-froid-glacial-en-suisse-et-a-la-brevine-ou-il-a-fait-pres-de-23-degres.html
 9138074-l-eveque-de-coire-revendique-un-fonds-zurichois-de-1-2-mio-de-francs.html
 9139374-pour-mathias-reynard-l-affaire-buttet-doit-faire-evoluer-la-societe.html
+9139374-pour-mathias-reynard-laffaire-buttet-doit-faire-evoluer-la-societe.html
 9139939-le-valaisan-yannick-buttet-quitte-temporairement-ses-mandats-electifs.html
 9139939-yannick-buttet-annonce-qu-il-se-retire-temporairement-de-la-vie-politique.html
 9139939-yannick-buttet-annonce-quil-se-retire-temporairement-de-la-vie-politique.html
@@ -410,6 +434,7 @@
 9141567-alain-berset-soutient-l-autorisation-des-etudes-sur-la-legalisation-du-cannabis.html
 9141656-mal-orientes-de-nombreux-apprentis-abandonnent-leur-formation.html
 9142182-la-suisse-va-restituer-au-nigeria-des-fonds-de-l-ex-dictateur-abacha.html
+9142182-la-suisse-va-restituer-au-nigeria-des-fonds-de-lexdictateur-abacha.html
 9142672-mise-en-oeuvre-severe-de-linitiative-de-la-marche-blanche-decidee-au-national.html
 9142784--inadmissible-d-axer-la-politique-agricole-sur-l-ouverture-des-frontieres.html
 9143524-le-souci-numero-un-des-suisses-est-la-prevoyance-vieillesse-dit-un-sondage.html
@@ -453,6 +478,7 @@
 9157989-un-officier-condamne-pour-avoir-enregistre-andre-blattmann-a-son-insu.html
 9158067-des-chaines-humaines-pour-denoncer-la-malnutrition-chez-les-enfants.html
 9159003-plus-de-2-4-millions-de-francs-recoltes-en-deux-jours-lors-du-telethon.html
+9159003-plus-de-24-millions-de-francs-recoltes-en-deux-jours-lors-du-telethon.html
 9159003-telethon-plus-de-2-4-millions-de-francs-recoltes-en-deux-jours.html
 9159119-la-neige-perturbe-l-entree-en-vigueur-du-nouvel-horaire-des-cff.html
 9159119-le-nouvel-horaire-des-cff-entre-en-vigueur-ce-dimanche.html
@@ -483,6 +509,7 @@
 9168493-l-illettrisme-un-handicap-invisible.html
 9168493-lillettrisme-un-handicap-invisible.html
 9168919-pres-de-six-milliards-d-allocations-familiales-ont-ete-versees-en-2016.html
+9168919-pres-de-six-milliards-dallocations-familiales-ont-ete-versees-en-2016.html
 9169442-le-temoignage-de-celine-amaudruz-divise-les-membres-de-l-udc.html
 9169442-le-temoignage-de-celine-amaudruz-divise-les-membres-de-ludc.html
 9169464-la-vente-directe-a-la-ferme-seduit-toujours-davantage-de-paysans.html
@@ -515,6 +542,7 @@
 9182774-la-demission-de-yannick-buttet-du-conseil-national-est-une-sage-decision.html
 9182783-vers-une-numerisation-des-dossiers-des-tribunaux-suisses.html
 9183087-la-suisse-compte-340-000-logements-de-plus-qu-il-y-a-sept-ans.html
+9183087-la-suisse-compte-340000-logements-de-plus-quil-y-a-sept-ans.html
 9184600-noel-ensemble.html
 9186047-geneve-pourrait-etre-depositaire-des-regles-d-internet-selon-doris-leuthard.html
 9186047-geneve-pourrait-etre-depositaire-des-regles-du-net-selon-doris-leuthard.html
@@ -524,6 +552,7 @@
 9187286-jean-luc-melenchon-s-en-prend-vivement-a-la-suisse-a-l-assemblee.html
 9187286-jeanluc-melenchon-sen-prend-vivement-a-la-suisse-a-lassemblee.html
 9187423-pres-de-300-000-personnes-ont-beneficie-de-l-aide-sociale-en-2016.html
+9187423-pres-de-300000-personnes-ont-beneficie-de-laide-sociale-en-2016.html
 9188243-a-paris-ignazio-cassis-denonce-la-position-de-l-ue-sur-la-bourse-suisse.html
 9188243-a-paris-ignazio-cassis-denonce-la-position-de-lue-sur-la-bourse-suisse.html
 9189582-les-cff-peinent-toujours-a-affronter-les-conditions-hivernales.html
@@ -531,12 +560,14 @@
 9189657-un-suisse-gagne-la-somme-record-de-157-millions-a-l-euro-millions.html
 9190465-le-conseil-federal-va-supprimer-toute-une-serie-de-droits-de-douane.html
 9190678-l-avs-et-la-prevoyance-vieillesse-seront-reformees-separement.html
+9190678-lavs-et-la-prevoyance-vieillesse-seront-reformees-separement.html
 9190678-le-conseil-federal-reformera-l-avs-et-la-prevoyance-vieillesse-separement.html
 9190728-une-initiative-s-attaque-aux-publicites-pour-les-cigarettes-en-suisse.html
 9190728-une-initiative-sattaque-aux-publicites-pour-les-cigarettes-en-suisse.html
 9191153-le-conseil-federal-veut-un-contre-projet-a-l-initiative-contre-la-burqa.html
 9191153-le-conseil-federal-veut-un-contreprojet-a-linitiative-contre-la-burqa.html
 9191967-l-ue-fait-le-lien-entre-la-question-de-la-bourse-suisse-et-l-accord-cadre.html
+9191967-lue-fait-le-lien-entre-la-question-de-la-bourse-suisse-et-laccordcadre.html
 9192732-la-suisse-rouvre-un-bureau-humanitaire-a-damas-en-syrie.html
 9192948-les-couts-des-centrales-nucleaires-auraient-ete-sous-estimes-en-suisse.html
 9193321-le-contre-projet-a-l-initiative-sur-la-burqa-va-faire-entendre-d-autres-voix-.html
@@ -548,6 +579,7 @@
 9194453-dans-le-conflit-avec-l-ue-les-partis-regrettent-un-manque-d-anticipation.html
 9194453-dans-le-conflit-avec-lue-les-partis-regrettent-un-manque-danticipation.html
 9195761-le-chef-d-orchestre-suisse-charles-dutoit-accuse-de-harcelement-sexuel.html
+9195761-le-chef-dorchestre-suisse-charles-dutoit-accuse-de-harcelement-sexuel.html
 9197088-la-conference-des-gouvernements-cantonaux-s-oppose-a-no-billag-.html
 9197088-la-conference-des-gouvernements-cantonaux-s-oppose-a-no-billag.html
 9197715-coeur-a-coeur-a-recolte-plus-d-1-2-million-contre-la-precarite-des-jeunes.html
@@ -558,6 +590,7 @@
 9199848-des-munitions-vendues-via-la-suisse-sans-permis-ont-fini-en-main-de-l-ei.html
 9199848-des-munitions-vendues-via-la-suisse-sans-permis-ont-fini-en-main-de-lei.html
 9199884-doris-leuthard-souhaite-un-vote-pour-clarifier-la-relation-avec-l-europe.html
+9199884-doris-leuthard-souhaite-un-vote-pour-clarifier-la-relation-avec-leurope.html
 9201379-le-mcg-roger-golay-veut-rendre-l-armee-plus-attractive-financierement.html
 9201379-le-mcg-roger-golay-veut-rendre-larmee-plus-attractive-financierement.html
 9201399-trois-randonneurs-tues-dans-des-avalanches-en-suisse-ce-week-end.html
@@ -576,6 +609,7 @@
 9207672-le-groupe-mutuel-a-ete-victime-d-une-cyberattaque-en-decembre.html
 9207672-le-groupe-mutuel-a-ete-victime-dune-cyberattaque-en-decembre.html
 9208401-ignazio-cassis-supprime-ses-tweets-d-avant-son-election-au-gouvernement.html
+9208401-ignazio-cassis-supprime-ses-tweets-davant-son-election-au-gouvernement.html
 9208560-les-enseignants-romands-refusent-de-devenir-des-delateurs-de-radicalisation.html
 9208704-brandie-contre-vw-l-action-collective-n-a-pas-d-ancrage-dans-la-loi-en-suisse.html
 9208999-explosion-des-cas-de-rougeole-en-suisse-en-2017.html
@@ -583,6 +617,7 @@
 9209106-deces-brutal-a-60-ans-de-lancien-chef-de-fedpol-jeanluc-vez.html
 9209775-la-suisse-aura-vecu-decembre-sous-un-manteau-de-neige-fraiche.html
 9211100-d-abondantes-chutes-de-neige-perturbent-le-trafic-dans-les-alpes.html
+9211100-dabondantes-chutes-de-neige-perturbent-le-trafic-dans-les-alpes.html
 9211922-la-tendance-a-la-delocalisation-va-s-inverser-selon-le-chef-d-abb.html
 9212122-le-conseil-federal-innove-et-choisit-une-photo-officielle-animee.html
 9212324-les-personnalites-suisses-qui-nous-ont-quittes-en-2017.html
@@ -595,6 +630,7 @@
 9215027-pourriez-vous-devenir-suisse-faites-le-test-des-naturalisations.html
 9215027-pourriezvous-devenir-suisse-faites-le-test-des-naturalisations.html
 9215176-l-ue-la-fiscalite-et-les-retraites-marqueront-la-politique-suisse-en-2018.html
+9215176-lue-la-fiscalite-et-les-retraites-marqueront-la-politique-suisse-en-2018.html
 9215436-vents-tempetueux-et-fortes-precipitations-attendus-en-suisse.html
 9217437-une-initiative-veut-mieux-proteger-les-aines-contre-les-resiliations-de-bail.html
 9217487-un-postulat-veut-assouplir-les-pratiques-pour-exporter-des-armes.html
@@ -604,8 +640,10 @@
 9217894-des-vents-jusqua-201-kmh-et-de-fortes-perturbations-au-passage-de-la-tempete-burglind.html
 9217894-une-rafale-a-plus-de-200-km-h-enregistree-l-aeroport-de-bale-a-rouvert.html
 9217964-les-hotels-hopitaux-et-prisons-devront-payer-les-droits-d-auteur.html
+9217964-les-hotels-hopitaux-et-prisons-devront-payer-les-droits-dauteur.html
 9217964-les-hotels-hopitaux-et-prisons-doivent-payer-les-droits-d-auteur-tranche-le-tf.html
 9218309-la-justice-refuse-de-transmettre-les-noms-d-employes-de-banque-aux-etats-unis.html
+9218309-la-justice-refuse-de-transmettre-les-noms-demployes-de-banque-aux-etatsunis.html
 9218309-le-tf-refuse-la-transmission-de-noms-demployes-de-banque-aux-etatsunis.html
 9219138-apres-le-passage-de-la-tempete-eleanor-la-suisse-et-paleo-sous-l-eau.html
 9219138-apres-les-vents-des-precipitations-abondantes-menacent-la-suisse.html
@@ -613,12 +651,14 @@
 9219878-le-nombre-dadoptions-en-suisse-est-quatre-fois-moins-eleve-quen-1980.html
 9219878-le-nombre-dadoptions-en-suisse-quatre-fois-mois-eleve-quen-1980.html
 9220190-le-couple-americano-suisse-aurait-planifie-son-suicide-dans-l-utah.html
+9220190-le-couple-americanosuisse-aurait-planifie-son-suicide-dans-lutah.html
 9220227-la-tempete-eleanor-a-cause-plus-de-10-millions-de-degats-en-suisse.html
 9220227-la-tempete-eleanor-a-cause-plus-de-30-millions-de-degats-en-suisse.html
 9220227-la-tempete-eleanor-a-cause-plus-de-50-millions-de-francs-de-degats-en-suisse.html
 9220644-la-consultation-medicale-de-base-est-desormais-limitee-a-20-minutes-.html
 9220644-la-consultation-medicale-de-base-est-desormais-limitee-a-20-minutes.html
 9221051-les-dossiers-informatiques-talon-d-achille-des-politiciens-suisses.html
+9221051-les-dossiers-informatiques-talon-dachille-des-politiciens-suisses.html
 9221104-les-petits-partis-du-centre-se-profilent-dans-la-defense-de-la-cause-gay.html
 9221586-une-alerte-de-niveau-4-annoncant-de-fortes-chutes-de-neige-pour-le-valais-.html
 9221586-une-alerte-de-niveau-4-annoncant-de-fortes-chutes-de-neige-pour-le-valais.html
@@ -628,6 +668,7 @@
 922275-la-suisse-veut-aider-a-fermer-guantanamo.html
 9222827-le-pdc-va-lancer-une-initiative-contre-la-hausse-des-primes-maladie.html
 9222935-enquete-helvetique-sur-les-liens-avec-l-islamisme-d-ong-basees-en-suisse.html
+9222935-enquete-helvetique-sur-les-liens-avec-lislamisme-dong-basees-en-suisse.html
 9223346--le-systeme-de-sante-tel-qu-il-est-concu-actuellement-n-est-pas-durable-.html
 9223346-le-systeme-de-sante-tel-quil-est-concu-actuellement-nest-pas-durable.html
 9223583-le-nouveau-texte-anti-immigration-de-l-udc-valide-par-la-chancellerie.html
@@ -638,6 +679,7 @@
 9225787-la-chine-tente-de-recruter-des-informateurs-en-suisse-via-linkedin.html
 9225869-en-2017-la-suisse-a-affrete-64-vols-speciaux-pour-les-renvois-forces.html
 9225933-cinq-mille-artistes-suisses-se-mobilisent-contre-l-initiative-no-billag.html
+9225933-cinq-mille-artistes-suisses-se-mobilisent-contre-linitiative-no-billag.html
 9225946-penurie-d-interpretes-en-langues-des-signes-francaise-et-italienne-en-suisse.html
 9225962-et-si-on-deboursait-3500-francs-pour-acheter-une-cabine-telephonique-.html
 9225962-et-si-on-deboursait-3500-francs-pour-acheter-une-cabine-telephonique.html
@@ -645,10 +687,12 @@
 9226524-linitiative-antiburqa-seduit-trois-quarts-des-suisses.html
 9227950-pour-alain-berset-la-suisse-et-l-ue-se-reparlent-avec-intensite-.html
 9227950-pour-alain-berset-la-suisse-et-l-ue-se-reparlent-avec-intensite.html
+9227950-pour-alain-berset-la-suisse-et-lue-se-reparlent-avec-intensite.html
 9227972-johann-schneider-ammann-appelle-a-des-reformes-economiques-en-suisse.html
 9228585-le-proces-des-tigres-tamouls-demarre-sur-une-bataille-procedurale.html
 9229387-le-prochain-vicepresident-du-pdc-pourrait-bien-etre-un-elu-cantonal.html
 9229632-une-alerte-rouge-au-danger-d-avalanche-pour-une-partie-du-valais.html
+9229632-une-alerte-rouge-au-danger-davalanche-pour-une-partie-du-valais.html
 9229763-le-referendum-contre-la-loi-sur-les-jeux-d-argent-en-passe-d-aboutir.html
 9229763-le-referendum-contre-la-loi-sur-les-jeux-dargent-en-passe-daboutir.html
 9230835-le-haut-valais-touche-par-les-intemperies-zermatt-inaccessible.html
@@ -665,6 +709,7 @@
 9233482-les-suisses-ne-voteront-pas-sur-le-maintien-du-secret-bancaire.html
 9235492-le-sort-du-nouveau-regime-financier-2021-soumis-aux-suisses-le-4-mars.html
 9235492-ueli-maurer-pointe-les-dangers-d-un-refus-du-regime-financier-2021.html
+9235492-ueli-maurer-pointe-les-dangers-dun-refus-du-regime-financier-2021.html
 9236112-le-conseil-federal-se-rejouit-de-la-venue-de-donald-trump-a-davos.html
 9236524--l-amerique-d-abord-pas-l-amerique-seule-le-message-de-trump-a-davos.html
 9236524-lamerique-dabord-pas-lamerique-seule-le-message-de-trump-a-davos.html
@@ -690,6 +735,7 @@
 9243146-ces-milliards-du-rail-qui-echappent-a-la-suisse-romande.html
 9243146-la-suisse-romande-mal-lotie-en-termes-d-investissements-ferroviaires.html
 9244674-en-assemblee-le-plr-suisse-recommande-le-rejet-de-l-initiative-no-billag.html
+9244674-en-assemblee-le-plr-suisse-recommande-le-rejet-de-linitiative-no-billag.html
 9244754-des-centaines-de-manifestants-anti-wef-defilent-a-berne.html
 9244754-des-centaines-de-manifestants-antiwef-defilent-a-berne.html
 9244767-les-verts-suisses-prets-a-s-opposer-a-l-achat-de-nouveaux-avions-de-combat.html
@@ -697,9 +743,11 @@
 9244805-a-america-first-de-donald-trump-je-repondrais-la-suisse-en-2e.html
 9246045-un-anticancereux-perime-a-ete-administre-dans-des-hopitaux-suisses.html
 9246294-un-accident-de-ski-peut-valoir-une-baisse-d-indemnites-rappelle-la-suva.html
+9246294-un-accident-de-ski-peut-valoir-une-baisse-dindemnites-rappelle-la-suva.html
 9246642-un-nombre-record-de-femmes-ont-integre-l-armee-suisse-l-an-passe.html
 9246642-un-nombre-record-de-femmes-ont-integre-larmee-suisse-lan-passe.html
 9247875-le-travail-du-conseil-federal-juge-insatisfaisant-selon-un-sondage-tamedia.html
+9247875-le-travail-du-conseil-federal-juge-insatisfaisant-selon-un-sondage.html
 9248172-des-cantons-negocient-avec-airbnb-pour-recuperer-les-taxes-de-sejour-.html
 9248235-le-conseil-federal-veut-boucler-rapidement-sa-nouvelle-reforme-fiscale.html
 9248622-projet-de-formation-en-continue-pour-reinserer-les-personnes-a-l-aide-sociale.html
@@ -707,6 +755,7 @@
 9248692-chute-de-plus-de-70-des-demandes-d-entraide-en-matiere-fiscale.html
 9248760-le-nombre-d-immigres-arrives-en-suisse-a-recule-l-an-dernier.html
 9249211-quelque-440-personnes-ont-beneficie-d-un-don-d-organes-en-suisse-en-2017.html
+9249211-quelque-440-personnes-ont-beneficie-dun-don-dorganes-en-suisse-en-2017.html
 9249363-et-si-on-arretait-le-ski-des-stations-y-songent.html
 9249363-la-saison-de-ski-jusqu-a-quand-.html
 9249363-le-miracle-autrichien-inspire-les-stations-de-ski-suisses.html
@@ -717,9 +766,11 @@
 9251754-les-jeunesses-de-plusieurs-partis-se-prononcent-contre-no-billag.html
 9252097-franck-giovannini-je-n-envie-pas-les-chefs-cuisiniers-dans-50-ans-.html
 9252097-franck-giovannini-je-n-envie-pas-les-chefs-cuisiniers-dans-50-ans.html
+9252097-franck-giovannini-je-nenvie-pas-les-chefs-cuisiniers-dans-50-ans.html
 9253266-a-cause-du-gel-la-suisse-n-a-plus-assez-de-pommes-et-de-poires-locales.html
 9253266-a-cause-du-gel-la-suisse-na-plus-assez-de-pommes-et-de-poires-locales.html
 9254267-le-rail-et-la-route-perturbes-a-cause-d-une-nouvelle-tempete-hivernale.html
+9254267-le-rail-et-la-route-perturbes-a-cause-dune-nouvelle-tempete-hivernale.html
 9255254-accidents-en-serie-entre-chatel-st-denis-et-matran-dus-a-la-tempete-evi-.html
 9255254-accidents-sur-l-a12-entre-chatel-st-denis-et-matran-dus-a-la-tempete-evi.html
 9255254-la-tempete-evi-force-des-stations-de-ski-a-fermer-dont-celle-de-villars.html
@@ -742,6 +793,7 @@
 9259630-la-police-ferroviaire-voudrait-etre-armee-de-tasers-dans-les-trains.html
 9259646-que-valent-les-chiffres-de-l-udc-pour-son-initiative-sur-l-immigration-.html
 9259646-que-valent-les-chiffres-de-l-udc-pour-son-initiative-sur-l-immigration.html
+9259646-que-valent-les-chiffres-de-ludc-pour-son-initiative-sur-limmigration.html
 9261015-l-initiative-no-billag-serait-rejetee-a-59-selon-un-sondage-tamedia.html
 9261015-l-initiative-no-billag-serait-rejetee-a-59-selon-un-sondage.html
 9261015-linitiative-no-billag-serait-rejetee-a-59-selon-un-sondage-tamedia.html
@@ -756,6 +808,7 @@
 9262546-hausse-des-demandes-daide-aupres-des-associations-antiabus-sexuels.html
 9262669-canton-par-canton-les-projets-de-mobilite-soutenus-par-la-confederation.html
 9263276-ignazio-cassis-defend-l-acces-aux-marches-europeens-face-a-l-udc.html
+9263276-ignazio-cassis-defend-lacces-aux-marches-europeens-face-a-ludc.html
 9264520-un-quart-des-communes-romandes-mandate-des-agents-de-securite-privee.html
 9265746-alain-berset-ne-croit-pas-a-un-epilogue-rapide-avec-l-ue-sur-l-accord-cadre.html
 9265746-alain-berset-ne-croit-pas-a-un-epilogue-rapide-avec-lue-sur-laccordcadre.html
@@ -779,6 +832,7 @@
 9268254-les-demandes-dasile-ont-diminue-dun-tiers-lan-dernier-par-rapport-a-2016.html
 9270695--les-femmes-ont-le-droit-de-mener-leur-vie-comme-elles-l-entendent-.html
 9270695-les-femmes-ont-le-droit-de-mener-leur-vie-comme-elles-l-entendent.html
+9270695-les-femmes-ont-le-droit-de-mener-leur-vie-comme-elles-lentendent.html
 9270915-l-autoroute-du-gothard-devrait-rouvrir-mardi-la-station-de-loeche-a-nouveau-accessible.html
 9270915-la-localite-de-stursanne-ju-inondee-par-une-crue-du-doubs.html
 9270915-les-axes-ferroviaires-et-routiers-coupes-se-retablissent-peu-a-peu.html
@@ -878,6 +932,7 @@
 9299368-parole-a-la-generation-2000.html
 9299542-les-cff-prennent-des-mesures-apres-les-deraillements-survenus-en-2017.html
 9299784-la-discussion-sur-l-ue-a-ete-parfois-tendue-reconnait-ignazio-cassis.html
+9299784-la-discussion-sur-lue-a-ete-parfois-tendue-reconnait-ignazio-cassis.html
 9301076-no-billag-veut-rendre-une-liberte-aux-citoyens-selon-nicolas-jutzet.html
 930154-secret-bancaire-12-accords-signes-d-ici-fin-2009.html
 9301730-le-patron-d-un-site-de-dons-en-ligne-arrete-a-zurich-pour-detournement.html
@@ -891,6 +946,7 @@
 9304685-le-nombre-de-juifs-refoules-par-la-suisse-pendant-la-shoah-fait-debat.html
 9305748-en-suisse-des-singes-cobayes-dans-deux-recherches-scientifiques.html
 9305851-le-patron-des-patrons-suisses-defend-les-mesures-d-accompagnement.html
+9305851-le-patron-des-patrons-suisses-defend-les-mesures-daccompagnement.html
 9306665-les-salaires-de-medecins-a-un-million-de-francs-bien-sur-que-ca-existe-.html
 9306665-les-salaires-de-medecins-a-un-million-de-francs-bien-sur-que-ca-existe.html
 9307637-enseignants-choques-par-une-motion-sur-les-sans-papiers-au-national.html
@@ -905,6 +961,7 @@
 9309151-notre-hypothese-de-base-c-est-que-la-ssr-ne-disparaitra-pas-avec-no-billag.html
 9309151-notre-hypothese-de-base-cest-que-la-ssr-ne-disparaitra-pas-avec-no-billag.html
 9309720-pierre-maudet-nous-avons-perdu-du-temps-apres-le-oui-a-l-initiative-contre-l-immigration-de-masse.html
+9309720-pierre-maudet-nous-avons-perdu-du-temps-apres-le-oui-a-linitiative-contre-limmigration-de-masse.html
 9310479-le-courage-cest-oser-depasser-ses-limites-selon-les-suisses.html
 9310807-les-sirenes-d-alarme-ont-retenti-dans-tout-le-pays-pour-le-test-annuel.html
 9310807-les-sirenes-d-alarme-vont-retentir-dans-tout-le-pays-pour-le-test-annuel.html
@@ -924,6 +981,7 @@
 9315437-le-president-du-national-devant-les-deputes-armeniens-un-fait-rarissime.html
 9315498-deux-jours-avant-les-jeux-la-maison-suisse-ouvre-ses-portes-en-coree.html
 9316062-russi-et-collombin-deux-visages-du-ski-suisse-et-d-une-epoque.html
+9316062-russi-et-collombin-deux-visages-du-ski-suisse-et-dune-epoque.html
 931610-les-prisons-romandes-a-guichets-fermes.html
 931613-des-prisonniers-en-containers-a-champ-dollon.html
 931613-des-prisonniers-en-containers-a-champdollon.html
@@ -934,6 +992,7 @@
 9316254-arretee-en-suisse-pour-terrorisme-une-colombienne-pourrait-etre-expulsee.html
 9316371--cette-manipulation-des-comptes-c-est-ca-qui-m-a-le-plus-choque-.html
 9316371-cette-manipulation-des-comptes-c-est-ca-qui-m-a-le-plus-choque.html
+9316371-cette-manipulation-des-comptes-cest-ca-qui-ma-le-plus-choque.html
 9316371-le-controle-federal-des-finances-va-enqueter-sur-l-affaire-carpostal.html
 9316819-en-suisse-140-medecins-gagnent-un-million-de-francs-payes-par-la-lamal-.html
 9316819-en-suisse-140-medecins-gagnent-un-million-de-francs-payes-par-la-lamal.html
@@ -943,6 +1002,7 @@
 9318256-l-agriculture-participative-un-modele-alternatif-a-la-grande-distribution.html
 9318256-lagriculture-participative-un-modele-alternatif-a-la-grande-distribution.html
 9318945-la-pression-politique-augmente-a-l-encontre-de-la-direction-de-la-poste.html
+9318945-la-pression-politique-augmente-a-lencontre-de-la-direction-de-la-poste.html
 9318959-l-identite-des-clients-de-swisscom-est-elle-menacee-apres-le-vol-de-donnees-.html
 9318959-l-identite-des-clients-de-swisscom-est-elle-menacee-apres-le-vol-de-donnees.html
 9318959-lidentite-des-clients-de-swisscom-estelle-menacee-apres-le-vol-de-donnees.html
@@ -1007,6 +1067,7 @@
 9337402-la-loi-sur-les-retraits-de-permis-sera-modifiee-pour-etre-plus-equitable.html
 9337460-le-conseil-federal-veut-elargir-la-notion-de-viol-dans-le-code-penal.html
 9337648-d-ici-2020-une-voiture-neuve-sur-dix-devrait-etre-electrique-ou-hybride.html
+9337648-dici-2020-une-voiture-neuve-sur-dix-devrait-etre-electrique-ou-hybride.html
 9338192-susanne-ruoff-reste-a-la-tete-de-la-poste-malgre-l-affaire-carpostal.html
 9338575-les-renseignements-suisses-echangent-de-plus-en-plus-de-donnees.html
 9339910-apres-carpostal-la-surveillance-des-ex-regies-federales-en-question.html
@@ -1021,11 +1082,13 @@
 9341291-trois-mois-de-suspension-pour-une-clinique-genevoise.html
 9341488-avec-l-affaire-carpostal-interrogation-sur-la-fermeture-des-offices-postaux.html
 9341488-la-fermeture-des-offices-postaux-en-question-apres-l-affaire-carpostal.html
+9341488-la-fermeture-des-offices-postaux-en-question-apres-laffaire-carpostal.html
 9344685-39-medecins-romands-au-dessus-de-1-5-million-de-chiffre-d-affaires.html
 9344685-39-medecins-romands-audessus-de-15-million-de-chiffre-daffaires.html
 9345041-l-affaire-carpostal-va-agiter-les-debats-de-la-prochaine-session-parlementaire.html
 9346490--la-venue-en-suisse-du-president-de-la-douma-russe-n-a-pas-de-but-economique-.html
 9346490-la-venue-en-suisse-du-president-de-la-douma-russe-n-a-pas-de-but-economique.html
+9346490-la-venue-en-suisse-du-president-de-la-douma-russe-na-pas-de-but-economique.html
 9347439-trois-lignes-de-bus-longue-distance-concurrenceront-les-trains-en-suisse.html
 9347560-les-enjeux-de-la-succession-de-doris-leuthard-annoncee-sur-le-depart.html
 9349802-le-non-a-l-initiative-no-billag-se-renforce-selon-le-2e-sondage-ssr.html
@@ -1058,8 +1121,10 @@
 9360473-vers-lextension-de-la-norme-antiraciste-a-lhomophobie-en-suisse.html
 9360473-vers-lextension-de-la-norme-antiraciste-a-lhomophobie.html
 9362032-doris-leuthard-exige-une-procedure-penale-dans-l-affaire-carpostal.html
+9362032-doris-leuthard-exige-une-procedure-penale-dans-laffaire-carpostal.html
 9362172-christian-levrat-defend-l-idee-de-service-public-face-aux-delegues-du-ps.html
 9362172-le-ps-elabore-un-nouveau-programme-economique-sans-privileges-.html
+9362172-le-ps-elabore-un-nouveau-programme-economique-sans-privileges.html
 9362635--la-majorite-des-medecins-est-victime-de-la-polemique-sur-les-salaires-.html
 9363669-les-subventions-subtilisees-servaient-elles-a-financer-carpostal-france-.html
 9363669-les-subventions-subtilisees-servaient-elles-a-financer-carpostal-france.html
@@ -1090,6 +1155,7 @@
 9366684-un-suisse-assassine-vendredi-dernier-pres-de-porto-seguro-au-bresil.html
 9368080--la-population-suisse-doit-pouvoir-s-exprimer-sur-les-jeux-olympiques-.html
 9368080-la-population-suisse-doit-pouvoir-s-exprimer-sur-les-jeux-olympiques.html
+9368080-la-population-suisse-doit-pouvoir-sexprimer-sur-les-jeux-olympiques.html
 9368255-de-plus-en-plus-de-paysans-suisses-se-convertissent-a-l-agriculture-bio.html
 9368255-de-plus-en-plus-de-paysans-suisses-se-convertissent-a-lagriculture-bio.html
 936836-un-minaret-erige-en-banlieue-lausannoise.html
@@ -1142,9 +1208,11 @@
 9374718-laeroport-de-geneve-ferme-et-des-lignes-cff-perturbees-en-raison-de-la-neige.html
 9374718-une-journee-de-jeudi-difficile-sur-le-front-des-transports-en-suisse.html
 9375365-le-national-demande-au-conseil-federal-d-agir-pour-le-reseau-postal.html
+9375365-le-national-demande-au-conseil-federal-dagir-pour-le-reseau-postal.html
 9375566-des-objectifs-de-durabilite-fixes-pour-la-candidature-de-sion-2026.html
 9376059-les-ecrans-s-inscrivent-dans-le-quotidien-de-la-plupart-des-enfants.html
 9377369-vers-la-retraite-a-65-ans-pour-tous-et-une-forte-hausse-de-la-tva-pour-l-avs.html
+9377369-vers-la-retraite-a-65-ans-pour-tous-et-une-forte-hausse-de-la-tva-pour-lavs.html
 9377390-les-affaires-broulis-et-moret-peuvent-mener-a-des-changements-de-regles-.html
 9377390-les-affaires-broulis-et-moret-peuvent-mener-a-des-changements-de-regles.html
 9377499-les-incertitudes-du-brexit-mettent-les-suisses-du-royaume-uni-sous-pression.html
@@ -1153,16 +1221,20 @@
 9377599-ferme-a-cause-de-la-neige-laeroport-de-genevecointrin-a-pu-rouvrir.html
 9377599-l-aeroport-de-geneve-cointrin-a-nouveau-ferme-a-cause-de-la-neige.html
 9377599-plus-de-130-vols-annules-a-l-aeroport-de-geneve-a-cause-de-la-neige.html
+9377599-plus-de-130-vols-annules-a-laeroport-de-geneve-a-cause-de-la-neige.html
 9378520-retraite-des-femmes-a-65-ans-et-hausse-de-tva-de-1-7-pour-l-avs.html
 9378520-retraite-des-femmes-a-65-ans-et-hausse-de-tva-de-17-pour-lavs.html
 9378534-plus-de-570-km-de-routes-romandes-toujours-pas-assainies-contre-le-bruit.html
 9378672-un-durcissement-de-la-loi-sur-les-armes-a-feu-sera-soumis-au-parlement.html
 937871-vaud-le-grand-retour-des-sacspoubelles-taxes.html
 9378969-accord-trouve-au-conseil-federal-pour-une-strategie-face-a-l-ue.html
+9378969-accord-trouve-au-conseil-federal-pour-une-strategie-face-a-lue.html
 9380495-le-scepticisme-s-amplifie-autour-du-vote-electronique-en-suisse-.html
 9380495-le-scepticisme-s-amplifie-autour-du-vote-electronique-en-suisse.html
+9380495-le-scepticisme-samplifie-autour-du-vote-electronique-en-suisse.html
 9381387-les-suisses-se-prononcent-aujourd-hui-sur-l-initiative-no-billag.html
 9381387-les-suisses-se-prononcent-ce-dimanche-sur-l-initiative-no-billag.html
+9381387-les-suisses-se-prononcent-ce-dimanche-sur-linitiative-no-billag.html
 9382028-no-billag-et-regime-financier-les-resultats-des-votations-par-canton.html
 9382409--le-peuple-suisse-a-vote-aujourd-hui-pour-une-ssr-forte-de-qualite-.html
 9382409-le-peuple-suisse-a-vote-aujourdhui-pour-une-ssr-forte-de-qualite.html
@@ -1171,6 +1243,7 @@
 9383775-la-transparence-du-financement-des-partis-denote-un-effet-de-mode-malsain.html
 9383782--c-est-courageux-de-la-part-de-la-ssr-de-proposer-des-reformes-.html
 9383782-c-est-courageux-de-la-part-de-la-ssr-de-proposer-des-reformes.html
+9383782-cest-courageux-de-la-part-de-la-ssr-de-proposer-des-reformes.html
 9383793-la-presse-juge-que-le-debat-sur-le-service-public-ne-fait-que-commencer.html
 9383793-le-debat-de-la-presse-sur-le-service-public-apres-le-rejet-de-no-billag-.html
 9383907-interpellations-deposees-sur-le-partenariat-entre-la-poste-et-amazon.html
@@ -1179,11 +1252,13 @@
 9386738-la-centrale-beznau-i-peut-redemarrer-apres-trois-ans-de-pause.html
 9386738-la-centrale-de-beznau-i-peut-redemarrer-apres-trois-ans-de-pause.html
 9387753-christoph-blocher-et-oskar-freysinger-quittent-la-direction-de-l-udc.html
+9387753-christoph-blocher-et-oskar-freysinger-quittent-la-direction-de-ludc.html
 9389622--blocher-etait-trump-avant-trump-juge-l-ex-stratege-du-president-americain.html
 9389622-blocher-etait-trump-avant-trump-juge-l-ex-stratege-du-president-americain.html
 9389622-blocher-etait-trump-avant-trump-juge-lexstratege-du-president-americain.html
 9390376--on-ne-peut-parler-d-une-dynastie-blocher-a-l-udc-estime-albert-rosti.html
 9390376-on-ne-peut-parler-d-une-dynastie-blocher-a-l-udc-estime-albert-rosti.html
+9390376-on-ne-peut-parler-dune-dynastie-blocher-a-ludc-estime-albert-rosti.html
 9391077-l-internement-a-vie-de-l-assassin-de-marie-annule-par-le-tribunal-federal.html
 9391077-linternement-a-vie-de-lassassin-de-marie-annule-par-le-tribunal-federal.html
 9391272-arret-automatique-d-urgence-a-la-centrale-nucleaire-de-muhleberg.html
@@ -1193,6 +1268,7 @@
 9392863-pas-de-conge-paternite-dans-la-future-reforme-fiscale-des-entreprises.html
 9393315-les-nouveaux-trains-a-deux-etages-des-cff-peuvent-circuler-temporairement.html
 9393461-un-groupe-d-experts-independants-supervisera-l-enquete-sur-carpostal.html
+9393461-un-groupe-dexperts-independants-supervisera-lenquete-sur-carpostal.html
 9394068-des-centaines-de-femmes-manifestent-a-berne-pour-obtenir-l-egalite-salariale-.html
 9394068-des-centaines-de-femmes-manifestent-a-berne-pour-obtenir-legalite-salariale.html
 9394237-la-liberation-conditionnelle-rare-pour-les-detenus-condamnes-a-l-internement.html
@@ -1208,11 +1284,13 @@
 9396077-le-retour-du-velo-en-ville.html
 9396083-le-conseil-federal-propose-d-alleger-la-charge-des-cantons-riches-.html
 9396083-le-conseil-federal-propose-d-alleger-la-charge-des-cantons-riches.html
+9396083-le-conseil-federal-propose-dalleger-la-charge-des-cantons-riches.html
 9396347-le-peuple-suisse-pourra-voter-sur-les-nouveaux-avions-de-combat.html
 9396347-le-peuple-votera-sur-les-nouveaux-avions-de-combat.html
 9397037-carpostal-et-la-declaration-de-confidentialite-qui-est-mal-tombee-.html
 9397037-carpostal-et-la-declaration-de-confidentialite-qui-est-mal-tombee.html
 9398115-l-espionnage-etranger-en-suisse-inquiete-le-conseil-federal.html
+9398115-lespionnage-etranger-en-suisse-inquiete-le-conseil-federal.html
 9398665--sans-signature-du-traite-sur-les-armes-nucleaires-la-suisse-perdrait-en-credibilite-.html
 9398665-sans-signature-du-traite-sur-les-armes-nucleaires-la-suisse-perdrait-en-credibilite.html
 9399636-l-argovienne-jastina-doreen-succede-a-lauriane-sallin-comme-miss-suisse.html
@@ -1220,6 +1298,7 @@
 9400196-la-confederation-va-privatiser-la-production-des-ferments-lactiques.html
 9401585-un-accord-cadre-soumettrait-la-suisse-aux-diktats-des-juges-etrangers-.html
 9401585-un-accord-cadre-soumettrait-la-suisse-aux-diktats-des-juges-etrangers.html
+9401585-un-accordcadre-soumettrait-la-suisse-aux-diktats-des-juges-etrangers.html
 9401605-les-cantons-inquiets-de-la-baisse-des-effectifs-de-la-protection-civile.html
 9401619-un-tremblement-de-terre-secoue-legerement-le-nord-de-la-suisse.html
 9402240-simonetta-sommaruga-defend-la-loi-sur-les-jeux-d-argent-a-3-mois-des-votations.html
@@ -1232,7 +1311,9 @@
 9405373-deux-juges-designes-pour-diriger-l-enquete-de-fedpol-sur-carpostal.html
 9406630-le-venezuela-s-en-prend-a-des-acteurs-des-matieres-premieres-suisses.html
 9407984-les-cantons-veulent-le-rejet-de-la-prescriptibilite-dans-l-affaire-carpostal.html
+9407984-les-cantons-veulent-le-rejet-de-la-prescriptibilite-dans-laffaire-carpostal.html
 9408010-une-motion-demande-d-exonerer-les-malades-chroniques-de-la-franchise.html
+9408010-une-motion-demande-dexonerer-les-malades-chroniques-de-la-franchise.html
 9408042-president-de-l-union-syndicale-suisse-paul-rechsteiner-annonce-son-depart.html
 9408042-president-de-lunion-syndicale-suisse-paul-rechsteiner-annonce-son-depart.html
 9408603-la-maitrise-des-prestations-complementaires-un-casse-tete-a-5-milliards.html
@@ -1263,6 +1344,7 @@
 9414473-l-attaque-contre-serguei-skripal-fermement-condamnee-par-la-suisse.html
 9414544--la-suisse-prend-les-allegations-d-espionnage-turc-tres-au-serieux-.html
 9414544-la-suisse-prend-les-allegations-d-espionnage-turc-tres-au-serieux.html
+9414544-la-suisse-prend-les-allegations-despionnage-turc-tres-au-serieux.html
 9415140-continuer-a-se-former-meme-apres-la-retraite.html
 9415184-syndicom-denonce-les-conditions-de-travail-de-800-chauffeurs-de-carpostal-.html
 9415184-syndicom-denonce-les-conditions-de-travail-de-800-chauffeurs-de-carpostal.html
@@ -1270,6 +1352,7 @@
 9418561-l-epidemie-de-grippe-a-ete-particulierement-virulente-en-suisse-.html
 9418561-lepidemie-de-grippe-a-ete-particulierement-virulente-en-suisse.html
 9418841-frequentation-en-legere-baisse-pour-le-salon-de-l-automobile-de-geneve.html
+9418841-frequentation-en-legere-baisse-pour-le-salon-de-lautomobile-de-geneve.html
 9418868-la-sante-du-corps-enseignant-suisse-est-preoccupante-selon-le-syndicat-.html
 9418868-la-sante-du-corps-enseignant-suisse-est-preoccupante-selon-le-syndicat.html
 9420199-l-auto-test-de-depistage-du-vih-inquiete-des-parlementaires-medecins.html
@@ -1287,6 +1370,7 @@
 9426826-manipulation-electorale-possible-en-suisse-grace-aux-donnees-facebook.html
 9426827-l-app-sante-d-helsana-accusee-de-favoriser-la-chasse-aux-bons-risques-.html
 9426827-l-app-sante-d-helsana-accusee-de-favoriser-la-chasse-aux-bons-risques.html
+9426827-lapp-sante-dhelsana-accusee-de-favoriser-la-chasse-aux-bons-risques.html
 9426947-un-accord-suisseue-sur-lelectricite-priorite-pour-lapprovisionnement.html
 9427478-une-etude-montre-le-role-educatif-du-salaire-jeunesse-pour-les-adolescents.html
 9428737-couples-maries-et-concubins-devraient-etre-egaux-devant-l-impot.html
@@ -1304,6 +1388,7 @@
 9431638-pourquoi-le-scandale-cambridge-analytica-est-peu-probable-en-suisse.html
 9432294--le-monde-entier-s-arrange-pour-avoir-les-munitions-de-ruag-.html
 9432294-le-monde-entier-s-arrange-pour-avoir-les-munitions-de-ruag.html
+9432294-le-monde-entier-sarrange-pour-avoir-les-munitions-de-ruag.html
 9432990-petra-gossi-presidente-du-plr-voit-bien-son-parti-depasser-le-ps-en-2019.html
 9433360-qui-paie-les-frais-de-recherche-de-personnes-decedees-en-montagne-.html
 9433360-qui-paie-les-frais-de-recherche-de-personnes-decedees-en-montagne.html
@@ -1316,12 +1401,14 @@
 9435717-visant-les-federales-petra-gossi-veut-faire-du-plr-le-mouvement-du-futur-.html
 9435717-visant-les-federales-petra-gossi-veut-faire-du-plr-le-mouvement-du-futur.html
 9435732-l-udc-accuse-berne-de-dissimuler-la-verite-sur-l-accord-cadre-avec-l-ue.html
+9435732-ludc-accuse-berne-de-dissimuler-la-verite-sur-laccordcadre-avec-lue.html
 9436217-dans-les-coulisses-de-la-fabrication-du-prochain-vaccin-contre-la-grippe.html
 9436277-la-suisse-est-passee-a-l-heure-d-ete-dans-la-nuit-de-samedi-a-dimanche.html
 9436277-la-suisse-va-passer-a-l-heure-d-ete-dans-la-nuit-de-samedi-a-dimanche.html
 9437554-la-suisse-a-restitue-32-millions-de-francs-a-l-etat-egyptien.html
 9439575-une-nouvelle-initiative-veut-interdire-les-energies-fossiles-en-suisse.html
 9440204-le-src-a-bafoue-le-droit-dans-l-affaire-de-l-espion-suisse-daniel-m-.html
+9440204-le-src-a-bafoue-le-droit-dans-laffaire-de-lespion-suisse-daniel-m.html
 9440360-les-aliments-a-la-mode-sur-instagram-colonisent-les-importations-suisses.html
 9440360-les-aliments-a-la-mode-sur-instagram-envahissent-les-importations-suisses.html
 9440380-testez-vos-connaissances-sur-la-biodiversite.html
@@ -1815,6 +1902,7 @@
 9640106-l-initiative-de-l-udc-sur-les-juges-etrangers-rejetee-au-national.html
 9640106-l-initiative-sur-les-juges-etrangers-rejetee-au-national.html
 9640106-linitiative-de-ludc-sur-les-juges-etrangers-rejetee-au-national.html
+9640761-inondations-apres-un-orage-a-lausanne.html
 9640798-une-initiative-populaire-exige-la-fin-de-l-elevage-intensif-dans-les-25-ans.html
 9640798-une-initiative-populaire-exige-la-fin-de-lelevage-intensif-dans-les-25-ans.html
 9642140-l-exploitation-de-deux-grandes-lignes-par-la-compagnie-bls-officialisee.html
@@ -2171,6 +2259,7 @@
 9759104-dix-sportifs-d-elite-sous-contrat-avec-l-armee-suisse-en-vue-des-jo-2022.html
 9759104-dix-sportifs-delite-sous-contrat-avec-larmee-suisse-en-vue-des-jo-2022.html
 9759722-la-confederation-vient-en-aide-aux-agriculteurs-touches-par-la-secheresse.html
+9760208-les-photos-des-orages-et-des-vents-de-lundi-soir-en-suisse-romande.html
 9760742-les-villes-demandent-un-fonds-federal-pour-financer-des-bus-electriques.html
 976300-l-euthanasie-passive-tres-repandue-en-suisse.html
 9763124-un-collectif-citoyen-lance-une-initiative-pour-la-protection-du-climat.html
@@ -2584,6 +2673,7 @@
 987041-il-y-a-cinq-ans-le-grounding-de-swissair.html
 9870459--l-initiative-sur-les-juges-etrangers-est-contraire-a-la-tradition-helvetique-.html
 9870459-linitiative-sur-les-juges-etrangers-est-contraire-a-la-tradition-helvetique.html
+9870590-johann-schneiderammann-en-images.html
 9870832-l-aide-aux-radios-et-tv-regionales-augmente-de-13-5-millions-de-francs.html
 9871336-alain-berset-met-en-garde-contre-le-nationalisme-et-l-isolationnisme.html
 9872074-a-berne-le-depart-attendu-de-doris-leuthard-agite-les-speculations.html
