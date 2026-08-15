@@ -57,3 +57,52 @@ def unlink(path: Path) -> None:
 
 def rmdir(path: Path) -> None:
     retry(path.rmdir, desc=f"suppression du dossier {path}")
+
+
+#: Nombre de lots avant d'abandonner définitivement un élément.
+_BATCH_ROUNDS = 5
+#: Base du délai entre deux lots (secondes), doublée à chaque tour.
+_BATCH_DELAY = 1.0
+
+
+def retry_many(items: list[tuple[Callable[[], None], str]]) -> list[str]:
+    """Exécute plusieurs actions indépendantes, en regroupant les nouvelles
+    tentatives par lots plutôt qu'en épuisant les essais un par un.
+
+    Pensé pour l'obstacle qui n'est pas propre à un fichier précis mais à un
+    scan externe (antivirus, indexeur) qui verrouille ce qu'il est en train
+    d'examiner : marteler la même entrée cinq fois en trois secondes ne sert
+    à rien si le scan met plus longtemps que ça. Regrouper par lots laisse
+    le temps de passer, et sur 1'000+ éléments, le coût total de l'attente
+    devient celui de quelques tours (secondes), pas celui de mille boucles
+    de nouvelles tentatives individuelles (potentiellement des heures).
+
+    Ne lève jamais pour un verrou : retourne les descriptions de ce qui
+    échoue encore après tous les tours, à l'appelant de décider quoi en
+    faire. Un dossier vide non supprimé n'est pas fatal, mais ne doit
+    jamais disparaître en silence — voir l'incident réel qui a motivé ceci :
+    ``_remonter_vides`` avalait ces échecs sans le moindre signalement,
+    donnant l'illusion d'une progression pendant 9h50 pour un taux de
+    réussite de 0 % sur les dossiers déjà tentés.
+    """
+    restants = list(items)
+    for tour in range(1, _BATCH_ROUNDS + 1):
+        echecs: list[tuple[Callable[[], None], str]] = []
+        for action, desc in restants:
+            try:
+                action()
+            except PermissionError:
+                echecs.append((action, desc))
+        if not echecs:
+            return []
+        restants = echecs
+        if tour < _BATCH_ROUNDS:
+            log.warning(
+                "%d élément(s) verrouillé(s), nouveau lot dans %.0fs (tour %d/%d)",
+                len(echecs),
+                _BATCH_DELAY * tour,
+                tour,
+                _BATCH_ROUNDS,
+            )
+            time.sleep(_BATCH_DELAY * tour)
+    return [desc for _, desc in restants]

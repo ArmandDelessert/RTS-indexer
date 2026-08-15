@@ -27,6 +27,7 @@ from __future__ import annotations
 
 import json
 import logging
+from collections.abc import Callable
 from dataclasses import dataclass, field
 from datetime import UTC, datetime
 from pathlib import Path
@@ -453,19 +454,17 @@ class Store:
 
         if complet:
             log.info("purge : balayage complet de l'arbre...")
-            supprimes = 0
-            for path in self.data_dir.rglob(pattern):
-                if path not in written:
-                    fsutil.unlink(path)
-                    supprimes += 1
+            a_supprimer = [
+                (self._action_unlink(path), str(path))
+                for path in self.data_dir.rglob(pattern)
+                if path not in written
+            ]
+            supprimes = self._executer_par_lots(a_supprimer, "fichier")
             log.info("%d fichiers d'index obsolètes supprimés", supprimes)
 
             log.info("recherche des dossiers vides...")
-            vides = 0
-            for directory in sorted(self.data_dir.rglob("*"), key=lambda p: -len(p.parts)):
-                if directory.is_dir() and not any(directory.iterdir()):
-                    fsutil.rmdir(directory)
-                    vides += 1
+            candidats = {p for p in self.data_dir.rglob("*") if p.is_dir()}
+            vides = self._purger_dossiers_vides(candidats)
             log.info("%d dossiers vides supprimés", vides)
             return
 
@@ -474,33 +473,80 @@ class Store:
             return
 
         log.info("purge ciblée : %d dossiers suspects", len(cibles))
-        supprimes = vides = 0
+        a_supprimer = []
+        dossiers = set()
         for relpath in sorted(cibles):
             directory = self.data_dir / Path(*relpath.split("/"))
             if not directory.is_dir():
                 continue
+            dossiers.add(directory)
             for path in directory.glob(pattern):
                 if path not in written:
-                    fsutil.unlink(path)
-                    supprimes += 1
-            vides += self._remonter_vides(directory)
+                    a_supprimer.append((self._action_unlink(path), str(path)))
+
+        supprimes = self._executer_par_lots(a_supprimer, "fichier")
+        vides = self._purger_dossiers_vides(dossiers)
         log.info("%d fichiers supprimés, %d dossiers vides supprimés", supprimes, vides)
 
-    def _remonter_vides(self, directory: Path) -> int:
-        """Supprime ``directory`` s'il est vide, puis remonte tant que le parent
-        le devient à son tour. Équivalent local du balayage descendant du mode
-        complet, sans parcourir l'arbre entier."""
-        supprimes = 0
-        while directory != self.data_dir and self.data_dir in directory.parents:
-            try:
-                if not directory.is_dir() or any(directory.iterdir()):
-                    break
-                fsutil.rmdir(directory)
-            except OSError:
+    @staticmethod
+    def _action_unlink(path: Path) -> Callable[[], None]:
+        return lambda: path.unlink(missing_ok=True)
+
+    @staticmethod
+    def _executer_par_lots(actions: list[tuple[Callable[[], None], str]], nature: str) -> int:
+        """Exécute des suppressions indépendantes par lots (voir
+        :func:`fsutil.retry_many`) et journalise clairement ce qui échoue
+        encore après tous les tours, plutôt que de l'avaler en silence.
+
+        Retourne le nombre de réussites.
+        """
+        echecs = fsutil.retry_many(actions)
+        for desc in echecs:
+            log.warning(
+                "%s non supprimé après plusieurs tentatives, laissé en place : %s",
+                nature,
+                desc,
+            )
+        return len(actions) - len(echecs)
+
+    def _purger_dossiers_vides(self, depart: set[Path]) -> int:
+        """Supprime les dossiers devenus vides, en remontant vers la racine
+        par lots plutôt qu'un par un.
+
+        Un dossier qui vient de se vider peut rendre son parent vide à son
+        tour, potentiellement sur plusieurs niveaux : chaque tour de la
+        boucle correspond à un niveau de profondeur, balayé d'un coup pour
+        tous les dossiers candidats plutôt que dossier par dossier — c'est
+        ce qui a permis de passer de plusieurs heures (chaque suppression
+        épuisant ses propres tentatives avant de passer à la suivante) à
+        quelques tours au total, la durée d'attente ne dépendant plus du
+        nombre de dossiers mais de la profondeur de l'arbre.
+        """
+        total = 0
+        a_examiner = {d for d in depart if d != self.data_dir and self.data_dir in d.parents}
+        while a_examiner:
+            candidats = [
+                (self._action_rmdir(d), str(d))
+                for d in a_examiner
+                if d.is_dir() and not any(d.iterdir())
+            ]
+            if not candidats:
                 break
-            supprimes += 1
-            directory = directory.parent
-        return supprimes
+            echecs = set(fsutil.retry_many(candidats))
+            for desc in echecs:
+                log.warning(
+                    "dossier non supprimé après plusieurs tentatives, laissé en place : %s", desc
+                )
+            reussis = {Path(desc) for _, desc in candidats if desc not in echecs}
+            total += len(reussis)
+            a_examiner = {
+                d.parent for d in reussis if d.parent != self.data_dir and self.data_dir in d.parents
+            }
+        return total
+
+    @staticmethod
+    def _action_rmdir(path: Path) -> Callable[[], None]:
+        return path.rmdir
 
     def _write_anomalies(self) -> None:
         path = self.data_dir / config.ANOMALIES_FILE

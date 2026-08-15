@@ -1,8 +1,9 @@
 """Tests du stockage : format, déterminisme, sharding, détection de collision."""
 
 import json
+from pathlib import Path
 
-from rts_indexer import config
+from rts_indexer import config, fsutil
 from rts_indexer.store import Store
 
 RUBRIQUE = "https://www.rts.ch/info/suisse/"
@@ -723,6 +724,54 @@ def test_purge_ciblee_ne_remonte_pas_au_dela_de_data_dir(tmp_path):
     Store(data).load().write()
 
     assert data.is_dir(), "data/ lui-même ne doit jamais être supprimé"
+
+
+def test_purge_echec_definitif_est_signale_pas_avale(tmp_path, monkeypatch, caplog):
+    """Incident réel : un dossier verrouillé en permanence (antivirus) doit
+    être journalisé clairement, pas disparaître en silence derrière un
+    `except OSError: break` — c'est ce qui a rendu un taux d'échec de 100 %
+    indiscernable d'une progression normale pendant près de 10 heures."""
+    store = Store(tmp_path)
+    store.add(ARTICLE)
+    store.add("https://www.rts.ch/a/b/seul.html")
+    store.write()
+
+    illisible = tmp_path / "www.rts.ch/a/b/_index.txt"
+    illisible.write_bytes(b"\xff\xfe invalide")
+
+    original = Path.rmdir
+
+    def rmdir_verrouille(self):
+        if self.name == "b":
+            raise PermissionError("verrouillé")
+        return original(self)
+
+    monkeypatch.setattr(fsutil.time, "sleep", lambda _: None)
+    monkeypatch.setattr(Path, "rmdir", rmdir_verrouille)
+
+    with caplog.at_level("WARNING"):
+        Store(tmp_path).load().write()
+
+    assert any("laissé en place" in m for m in caplog.messages)
+    assert (tmp_path / "www.rts.ch/a/b").exists()  # pas supprimé...
+    assert not (tmp_path / "www.rts.ch/a/b/_index.txt").exists()  # ...mais bien vidé
+
+
+def test_purge_complete_supprime_aussi_les_dossiers_vides(tmp_path):
+    """Le mode complet (build) doit produire le même résultat que le mode
+    ciblé, par un chemin de code différent (rglob plutôt que cibles)."""
+    store = Store(tmp_path)
+    store.add(ARTICLE)
+    store.add("https://www.rts.ch/a/b/c/seul.html")
+    store.write()
+
+    illisible = tmp_path / "www.rts.ch/a/b/c/_index.txt"
+    illisible.write_bytes(b"\xff\xfe invalide")
+
+    Store(tmp_path).load().write(force=True)
+
+    assert not (tmp_path / "www.rts.ch/a").exists()
+    assert index_de(tmp_path) == "la-suisse-29312521.html\n"
 
 
 def test_store_jamais_charge_balaye_tout(tmp_path):

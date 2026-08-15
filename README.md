@@ -263,6 +263,24 @@ Un `Store` sur lequel `load()` n'a jamais été appelé retombe automatiquement 
 complet : sans la connaissance du disque accumulée au chargement, la purge ciblée n'aurait aucune
 base pour distinguer un fichier légitime d'un orphelin.
 
+### Suppressions par lots
+
+Incident réel : sous Windows, un antivirus dont la protection en temps réel est active verrouille
+brièvement chaque fichier qu'il scanne — y compris juste après une suppression, pendant qu'il
+examine l'événement. `fsutil.retry()` (5 tentatives, quelques centaines de millisecondes entre
+chacune) suffit pour un fichier isolé, mais épuiser ce cycle complet *par élément* devient
+ruineux dès qu'il faut purger un grand nombre de petits dossiers d'un coup — un `dedupe` qui en
+libère plus d'un millier a ainsi tourné près de 10 heures pour un taux de réussite de 0 % sur la
+suppression des dossiers, chaque tentative individuelle butant sur le même type de verrou avant de
+passer, silencieusement, au suivant.
+
+`fsutil.retry_many()` regroupe les nouvelles tentatives par lots plutôt que par élément : tout ce
+qui échoue à un tour est retenté ensemble au tour suivant, après une seule pause. Le coût total de
+l'attente devient celui de quelques tours (secondes), pas celui de mille cycles de tentatives
+individuelles (potentiellement des heures) — et surtout, un échec qui persiste après tous les tours
+est **journalisé explicitement**, plutôt qu'avalé par un `except OSError: break` qui rendait un
+taux d'échec total indiscernable d'une progression normale.
+
 ## Automatisation (GitHub Actions)
 
 Trois cadences, parce que les sources n'ont pas du tout le même profil de coût.
