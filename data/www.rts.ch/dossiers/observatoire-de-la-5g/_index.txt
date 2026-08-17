@@ -25,7 +25,6 @@
 10396479-a-geneve-le-gel-de-nouvelles-antennes-5g-est-confirme-par-le-conseil-detat.html
 10423715-les-concessions-provisoires-octroyees-pour-la-5g-sont-desormais-definitives.html
 10437682-les-meteorologues-inquiets-des-consequences-de-la-5g.html
-!10501467-breve-le-rapport-du-groupe-de-travail-sur-la-5g-est-reporte-a-la-fin-2019.html
 10718129-5g-et-sante-quels-sont-les-dangers.html
 10735386-5g-que-font-reellement-les-groupes-de-travail-de-la-confederation.html
 10786973-les-opposants-a-la-technologie-5g-lancent-leur-initiative.html
@@ -33,5 +32,4 @@
 10904564-telephonie-mobile-et-rayonnement-le-rapport-est-la.html
 11098573-la-5g-qui-nen-veut.html
 11270147-telephonie-mobile-et-5g-le-conseil-federal-decide-de-la-suite-de-la-procedure.html
-!11343388-a-laube-de-la-5g-quels-risques-pour-lenvironnement.html
 11622327-cest-quoi-le-probleme-avec-la-5g.html

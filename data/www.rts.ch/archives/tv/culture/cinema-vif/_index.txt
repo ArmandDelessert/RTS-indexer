@@ -16,9 +16,7 @@
 3438784-pier-paolo-pasolini.html
 3440395-la-bande-a-bonnot.html
 3440449-duras-et-la-musica.html
-!3440497-le-groupe-5.html
 3440587-william-klein.html
-!3440612-le-cinema-suisse.html
 3447792-alphaville.html
 3447804-alphaville-2-.html
 3447804-alphaville-2.html
@@ -28,7 +26,6 @@
 4443100-claude-lelouch.html
 7222599-nathalie-l-epouse.html
 7222599-nathalie-lepouse.html
-!7222615-le-samourai.html
 7893387-arlaud-eddie-et-godard.html
 7947728-le-groupe-5.html
 8756497-paris-vu-par-jean-douchet.html

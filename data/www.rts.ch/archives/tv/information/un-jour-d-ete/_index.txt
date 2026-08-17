@@ -16,7 +16,6 @@
 3435405-bouquetins-libres.html
 3435655-le-proces-des-animaux.html
 3436774-le-chimiste-conseille.html
-!3437306-le-bronzage-carotene.html
 3439338-lete-indien.html
 3440100--judoka-.html
 3440100-judoka.html
@@ -29,7 +28,6 @@
 3442288-le-saint-au-long-sexe.html
 3443224-le-musicien-honore.html
 3446133-le-diable-a-la-ferme.html
-!3447076-cherchez-la-petite-bete.html
 3448150-dubied-en-greve.html
 3451167-un-job-pour-l-ete.html
 3451167-un-job-pour-lete.html
@@ -43,8 +41,6 @@
 3471619-mariejosephe-lachat.html
 3471978-petards-maison.html
 3472970-cheres-insultes.html
-!3473787-bronzer-oui-mais-.html
-!3473787-bronzer-oui-mais.html
 4815317-richard-vachoux.html
 4948199-le-tour-sur-les-quais.html
 5074280-stop-a-lecole-sexiste.html
@@ -59,8 +55,6 @@
 7906700-la-sage-femme-de-saviese.html
 7906700-la-sagefemme-de-saviese.html
 7931418-un-invite-de-marque.html
-!7975610-les-petits-pains-de-rolle.html
-!7975610-petits-pains-de-rolle.html
 8039305-en-campagne.html
 8150161-telepherique-accidente.html
 8966695-les-pompiers-ont-la-cote.html

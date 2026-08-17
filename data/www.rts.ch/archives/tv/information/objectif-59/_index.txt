@@ -4,7 +4,6 @@
 10248629-alain-chamfort.html
 10664756-les-fourmis.html
 11220255-les-dinosaures.html
-!12651570-girardet-fait-son-marche.html
 12803693-les-virolins.html
 12805635-du-saut-acrobatique-avec-les-virolins.html
 12957162-girardet-fait-son-marche.html
@@ -12,9 +11,7 @@
 3436533-le-decollage.html
 3442289-le-sanglier-malaime.html
 3449076-le-buste-de-guisan.html
-!3467918-durrenmatt-prime.html
 6823646-la-procession-de-fete-dieu.html
 6823646-la-procession-de-fetedieu.html
-!8575768-girardet-fait-son-marche.html
 8588236-un-passetemps-creatif.html
 9733736-le-renard.html

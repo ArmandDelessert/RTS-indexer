@@ -21,8 +21,6 @@
 14738282-le-virage-de-lelectronique.html
 15170722-le-cern-a-coeur-ouvert.html
 3436616-vol-swissair-352.html
-!3437117-plus-qu-un-barrage.html
-!3437117-plus-quun-barrage.html
 3438834-laccelerateur.html
 3438853-le-directeur.html
 3443760-un-grande-ecole.html
@@ -59,7 +57,6 @@
 3470562-un-train-davance.html
 3471374-la-methode-piaget.html
 3472353-la-ville-de-carouge.html
-!3472428-yverdon-dans-ses-murs.html
 3473211-origines-de-l-univers.html
 3473211-origines-de-lunivers.html
 6189081-l-objet-element-de-collection.html

@@ -8,9 +8,6 @@
 10336264-les-mayas.html
 11532018-lempire-romain.html
 3435698-visite-a-persepolis.html
-!3444561-abou-simbel.html
-!3444562-le-pharaon.html
-!3444563-l-au-dela.html
 3464208-les-etrusques-1-.html
 3464208-les-etrusques-1.html
 3464209-les-etrusques-2-.html
@@ -32,10 +29,6 @@
 3464428-les-azteques.html
 3464429-teotihuacan-2-.html
 3464429-teotihuacan.html
-!3464430-les-mayas-3-.html
 3464480-les-pheniciens.html
-!3464481-petra-et-palmyre.html
-!3464482-l-empire-romain.html
-!3464482-lempire-romain.html
 4820874-le-peuple-maya.html
 6801183-palmyre-la-perle-des-sables.html

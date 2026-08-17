@@ -40,7 +40,6 @@
 14385292-les-vitraux-de-saintgervais.html
 14746067-un-recyclage-au-canada.html
 3933687-egouts-de-geneve.html
-!3937464-les-golaz-de-tahiti.html
 4027123-une-reine-a-kloten.html
 4043775-alfred-cortot.html
 4117612-chanson-de-lausanne.html
@@ -53,9 +52,7 @@
 5144914-a-lassaut.html
 5159303-au-service-du-feu.html
 5172212-grand-prix-du-disque.html
-!5243977-marais-et-cocteau.html
 5410086-le-dressage.html
-!5543966-a-la-tv-genevoise.html
 5890849-geneve-en-fete.html
 6335157-un-telethon-avant-la-lettre.html
 6626718-fabrique-moi-un-crayon-.html
@@ -69,18 +66,13 @@
 7441912-l-affaire-moumie.html
 7441912-laffaire-moumie.html
 7441912laffairemoumie.html
-!7977936-solidarite-pour-les-chomeurs.html
-!7985185-la-rue-solidaire.html
 8018661-peres-pour-la-paix.html
-!8263361-la-fete-des-rois.html
 8502977-la-ve-republique.html
 8598271-assad-et-carter-a-geneve.html
 8737537-adieu-la-prusse.html
 8959029-funerailles-de-cedric-tornay.html
-!9204462-la-poste-du-futur.html
 9302722-l-envers-du-decor.html
 9369402-le-terrible-hiver-54.html
-!9431798-les-blousons-noirs.html
 9841329-professeur-d-escalade.html
 9850251-les-golaz-de-tahiti.html
 9850280-les-golaz-en-suisse.html

@@ -1,17 +1,10 @@
 ./
-!3446438-les-infirmieres.html
-!3447090-le-metier-de-bucheron.html
 3450315-mecanicien-sur-auto.html
 3450317-les-petites-mains.html
-!3460610-etre-horticulteur.html
-!3462798-travail-a-la-banque.html
-!3462872-le-metier-de-forgeron.html
 3463344-le-metier-de-fourreur.html
 3464949-soutter-a-new-york.html
 3465820-beaubourg.html
 3468646-jean-mohr.html
-!4281865-metier-d-avenir.html
-!4281865-metier-davenir.html
 5263520-graphiste.html
 5264057-radio-electricien.html
 5264057-radioelectricien.html

@@ -1,4 +1,3 @@
-!./
 10067678-le-panettone.html
 10730099-lavenir-en-led.html
 10764527-la-fourchette-verte-dans-les-ecoles.html
@@ -21,7 +20,6 @@
 3436178-lavenir-par-telephone.html
 3436760-le-leman-va-mieux.html
 3436783-baignade-interdite.html
-!3437367-maigrir-sans-effort.html
 3438215-l-enfer-du-camping.html
 3438215-lenfer-du-camping.html
 3441189-quelle-chaine-choisir.html
@@ -31,7 +29,6 @@
 3445936-vaincre-la-grippe.html
 3445977-la-grippe-de-singapour.html
 3447053-precieux-teck.html
-!3447466-migros-data.html
 3449643-quel-dva-choisir-.html
 3449643-quel-dva-choisir.html
 3450596-le-test-des-abris.html
@@ -39,11 +36,9 @@
 3451041-un-nuage-a-seveso.html
 3451359-le-natel-c.html
 3451670-francois-silvant.html
-!3453416-la-premiere-d-abe.html
 3460464-caffe-per-favore.html
 3462647-mefiez-vous-mesdames.html
 3462647-mefiezvous-mesdames.html
-!3462704-les-arts-menagers.html
 3463970-brider-les-moteurs.html
 3466323-menace-sur-la-peche.html
 3466802-jean-baudrillard.html

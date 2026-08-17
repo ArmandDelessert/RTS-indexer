@@ -46,9 +46,6 @@
 8952621-avantage-financier-en-echange-dun-nouveau-contrat.html
 8959013-hospitalisations-en-dehors-du-canton.html
 8987428-assura-fait-de-la-resistance-une-de-ses-assurees-aussi.html
-!8989619-decodeur-de-primes-maladie-2021.html
-!8989619-decodeur-de-primes-maladie.html
-!8989619-nouveau-decodeur-de-primes-maladie.html
 9040927-la-validite-des-certificats-medicaux-etrangers-en-question.html
 9048950-ces-assurances-qui-couvrent-le-cyberrisque.html
 9067857-a-lai-et-blogger-incompatible.html
@@ -67,7 +64,6 @@
 9372001-expertise-medicale-et-demande-de-revision.html
 9433730-recherches-de-personnes-disparues.html
 9450303-depart-a-letranger-quid-des-assurances.html
-!9478407-apres-un-incendie-quels-droits.html
 9491963-la-traque-aux-fraudeurs-des-assurances-sociales.html
 9513886-quand-les-assurances-sociales-vous-lachent.html
 9530933-cest-tranche-helsana-est-illegale.html

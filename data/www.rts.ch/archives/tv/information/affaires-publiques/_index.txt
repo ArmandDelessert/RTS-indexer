@@ -35,7 +35,6 @@
 15305668-la-bretelle-de-la-perraudettaz.html
 3436580-au-dela-du-mur-du-son.html
 3436580-audela-du-mur-du-son.html
-!3436873-une-cite-en-mutation.html
 3436905-la-vie-communautaire.html
 3440298-la-crise-a-bienne.html
 3440304-chomage-au-feminin.html
@@ -55,10 +54,7 @@
 3453436-naissance-planifiee.html
 3453522-le-scandale.html
 3460387-la-police-politique.html
-!3461076-oui-a-lalcool.html
-!3461251-les-jo-en-valais-.html
 3463808-vers-la-concentration.html
-!3465127-nucleaire-ou-penurie.html
 3469755-en-faveur-de-l-asile.html
 3472274-publicite-cachee-.html
 3472274-publicite-cachee.html
@@ -69,7 +65,6 @@
 3475747-trains-en-danger.html
 3485373-enfants-d-immigres.html
 3485373-enfants-dimmigres.html
-!3802974-le-travail-en-miettes.html
 3823314-non-a-la-speculation.html
 3919724-baignade-interdite.html
 3928713-sous-perfusion.html
@@ -102,7 +97,6 @@
 6568739-un-site-dexcellence.html
 6624307-le-parti-socialiste-autonome.html
 6630384-politiquement-votre-le-tessin.html
-!7281567-haut-les-mains.html
 7305995-proces-du-flj.html
 7307015-haut-les-mains.html
 7416057-disparites-fiscales.html
@@ -122,7 +116,6 @@
 8947097-contre-le-rawyl.html
 8947131-le-rawyl-en-question.html
 9312128-les-jo-a-sion.html
-!9365896-alerte-avalanche.html
 9624222-le-plastique-polluant.html
 9637362-les-jo-en-valais-.html
 9637362-les-jo-en-valais.html

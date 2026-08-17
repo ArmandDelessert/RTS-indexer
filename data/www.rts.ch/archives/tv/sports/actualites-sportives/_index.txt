@@ -10,8 +10,6 @@
 12346781-le-baseball-a-lhonneur-en-valais.html
 13120217-affronter-le-real-madrid.html
 13718151-speedway-indoor-de-la-moto-sur-neige.html
-!3440842-la-tsr-a-wengen.html
-!3440909-russi-et-collombin.html
 3453208-laurent-fignon.html
 3465956-un-couple-romand.html
 3466073-la-course-de-1988.html
@@ -41,7 +39,6 @@
 9524156-20-km-de-lausanne.html
 9556435-course-d-orientation-au-brassus.html
 9556435-course-dorientation-au-brassus.html
-!9623599-challenge-bol-dor.html
 9623698-multicoques-for-ever.html
 9627518-le-rendezvous-des-gymnastes.html
 9766078-cest-dur.html

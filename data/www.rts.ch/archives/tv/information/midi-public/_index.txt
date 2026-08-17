@@ -7,11 +7,9 @@
 10513660-quelle-barbe.html
 10548452-joan-baez-chante-dylan.html
 10568887-a-toute-vapeur.html
-!11389446-le-papet-aux-poireaux.html
 11647413-le-jambon-de-noces.html
 11694331-still-willing.html
 11738383-maurane.html
-!11817319-le-papet-aux-poireaux.html
 11873683-comment-va-tecol.html
 12065082-deces-de-simone-signoret.html
 12189171-les-coulisses-du-martini-open.html
@@ -36,7 +34,6 @@
 5313096-1ere-vignette.html
 5653598-rock-60-s.html
 5653598-rock-60s.html
-!6239690-comment-va-tecol-.html
 6358142-laurent-voulzy.html
 7141458-capucine.html
 7324708-les-huitres.html

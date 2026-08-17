@@ -48,7 +48,6 @@
 3436025-l-univers-de-boltanski.html
 3436025-lunivers-de-boltanski.html
 3436797-aux-bains-des-paquis.html
-!3437186-le-rababou.html
 3437447-la-repetition.html
 3437883-le-bistrot-delemontain.html
 3439000-a-vendre-cervin.html
@@ -58,8 +57,6 @@
 3440780-les-mythes-alpins.html
 3442466-qui-sont-les-alternos-.html
 3442466-qui-sont-les-alternos.html
-!3442900-le-patois-romand.html
-!3443047-danse-contemporaine.html
 3448179-les-armaillis.html
 3448222-pelerinage.html
 3453106-la-vie-en-squat.html
@@ -89,7 +86,6 @@
 3474338-ne-pas-confondre.html
 3476876-padureni-en-roumanie.html
 3771587-passion-foot.html
-!3937505-en-uruguay.html
 3980254-art-en-gare.html
 4090218-produits-du-terroir.html
 4187356-une-potiche.html
@@ -108,14 +104,9 @@
 5301145-sous-l-autoroute-.html
 5301145-sous-l-autoroute.html
 5301145-sous-lautoroute.html
-!5753672-sens-unik.html
 5973470-un-art-de-vivre.html
 6185841-deuil-national.html
 6199887-visite-alpine.html
-!6246188-j-ai-l-accent-et-alors-.html
-!6246188-le-patois-romand.html
-!6279969-culture-hip-hop.html
-!6279969-culture-hiphop.html
 6440123-les-forcats-de-la-mine.html
 6509855-dessous-chocs.html
 6552593-jamais-sans-ma-voiture-.html
@@ -164,10 +155,7 @@
 8649031-le-free-jodel.html
 8841865-l-utopie-de-parzival.html
 8841865-lutopie-de-parzival.html
-!8848634-glossaire-des-patois-romands.html
-!8927645-lecon-de-patois.html
 9045938-la-comediefrancaise.html
-!9184437-sophie-et-emile-gardaz.html
 9233812-avec-l-unicef.html
 9233812-avec-lunicef.html
 9373014-patchwork-du-sida-ladieu-amoureux.html

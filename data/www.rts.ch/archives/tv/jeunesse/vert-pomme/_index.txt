@@ -1,6 +1,5 @@
 ./
 10145357-una-buona-pizza.html
-!10406053-sensations-fortes.html
 10846958-sans-filet.html
 12811403-tous-a-ski-acrobatique.html
 12995870-le-telemark.html
@@ -10,12 +9,8 @@
 3450192-a-bicyclette-.html
 3450192-a-bicyclette.html
 4629642-skateboard.html
-!4630032-rock-acrobatique.html
-!4630069-boomerang.html
 4707378-le-salon-de-l-hotesse.html
 4707378-le-salon-de-lhotesse.html
-!4729263-le-frisbee.html
-!4729545-le-twirling.html
 6635220-c-est-du-sport-.html
 6635220-cest-du-sport.html
 6754172-une-p-tite-clope-.html
@@ -32,6 +27,5 @@
 8137292-fou-de-food-fast.html
 8137292-fou-de-foodfast.html
 8709217-au-boxing-club-genevois.html
-!9683494-a-echichens-le-bicross-est-roi.html
 9683612-leur-passion-c-est-le-bmx-.html
 9683612-leur-passion-cest-le-bmx.html

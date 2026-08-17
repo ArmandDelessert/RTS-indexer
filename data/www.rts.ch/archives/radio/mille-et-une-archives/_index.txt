@@ -1,4 +1,3 @@
-!./
 10511753-le-drame-de-leiger-24-06-2019.html
 10555805-jean-michel-et-son-equipe.html
 10555805-jeanmichel-et-son-equipe-31-07-2019.html
@@ -33,7 +32,6 @@
 12313831-la-suisse-dans-le-viseur-du-terrorisme-armenien-07-07-2021.html
 12335563-des-espions-en-suisse-au-service-de-lurss-04-08-2021.html
 12438604-guyclaude-burger-lapotre-du-cru-01-09-2021.html
-!12528598-mille-et-une-archives-06-10-2021.html
 12596653-kussnacht-baiser-de-mort-pour-la-reine-astrid-03-11-2021.html
 12665216-la-guerre-du-fluor-en-valais-01-12-2021.html
 12724637-fribourg-connection-un-laboratoire-dheroine-aux-paccots-05-01-2022.html
@@ -47,7 +45,6 @@
 13421174-laffaire-jeanmaire-la-machine-judiciaire-militaire-suisse-en-marche-05-10-2022.html
 13493522-laffaire-favrechapuisat-du-terrain-de-foot-a-la-justice-02-11-2022.html
 13585996-la-creation-de-belleriveplage-et-lessor-de-la-natation-en-suisse-07-12-2022.html
-!13673532-mille-et-une-archives-11-01-2023.html
 13729680-fraternite-sacerdotale-saintpie-x-un-schisme-au-sein-de-leglise-catholique-01-02-2023.html
 13729680-mille-et-une-archives-01-02-2023.html
 13805410-laffaire-de-la-biere-au-cyanure-de-romont-01-03-2023.html

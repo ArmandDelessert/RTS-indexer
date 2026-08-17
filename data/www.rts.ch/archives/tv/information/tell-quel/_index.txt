@@ -71,13 +71,10 @@
 3444185-evasion-de-capitaux.html
 3444267-kurt-furgler.html
 3444335-une-barbarie-moderne.html
-!3444869-zurich-violentee.html
 3446670-un-parrain-a-zurich.html
 3446677-pizza-connection.html
-!3447026-bruno-manser.html
 3447669-des-lieux-reserves.html
 3450299-les-pirates-des-ondes.html
-!3450482-le-chuv-a-l-horizon.html
 3451288-les-copies-de-vhs.html
 3451599-des-ovni-en-suisse-.html
 3451599-des-ovni-en-suisse.html
@@ -86,7 +83,6 @@
 3461396-le-blick.html
 3461474-vu-de-schwyz.html
 3462959-les-typographes.html
-!3464811-vacances-tout-nu.html
 3465099-le-choix-nucleaire.html
 3465101-les-dechets-nucleaires.html
 3465130-quels-risques-.html
@@ -99,9 +95,7 @@
 3465570-high-society-1.html
 3465571-hotels-d-exception-2.html
 3465571-hotels-dexception-2.html
-!3466150-bernard-rappaz.html
 3468884-colonel-bachmann.html
-!3471755-l-affaire-des-fiches.html
 3471794-la-p-26.html
 3471794-la-p26.html
 3472064-mourir-en-taule.html
@@ -130,7 +124,6 @@
 4115164-l-empire-servette-4-.html
 4115164-l-empire-servette-4.html
 4115164-lempire-servette-4.html
-!4170467-recherche-speakerine.html
 4210363-l-an-2000.html
 4210363-lan-2000.html
 4298750-authier-la-fin.html
@@ -154,14 +147,12 @@
 5297746-j-ai-vote-vigilance.html
 5297746-jai-vote-vigilance.html
 5319853-enfer-morgien.html
-!5354584-gens-du-voyage.html
 5384921-humour-crasse.html
 5509649-un-compte-en-suisse.html
 5737666-klaus-au-locle.html
 5848384-exit-la-tuberculose-.html
 5848384-exit-la-tuberculose.html
 5962680-filles-au-pair-dans-les-annees-80.html
-!6021531-une-vie-de-forains.html
 6084905-la-fete-des-jumeaux.html
 6194312-le-prix-nobel-ce-que-ca-change-.html
 6194312-le-prix-nobel-ce-que-ca-change.html
@@ -202,7 +193,6 @@
 7732307-du-golf-partout.html
 7746236-bien-rasee-la-nuque.html
 7916951-en-suisse-et-a-dakar.html
-!8004713-les-fous-du-roller.html
 8029781-carton.html
 8039262-linjustice-de-la-prison.html
 8049234-alain-m-objecteur.html
@@ -217,7 +207,6 @@
 8334014-ado-a-lage-du-sida.html
 8360506-theatre-de-campagne.html
 8387616-avorter-en-suisse-en-1977.html
-!8412538-un-article-constitutionnel.html
 8428008-l-affaire-maza-integrale-.html
 8486579-graffitis-ras-le-bol.html
 8486579-graffitis-raslebol.html

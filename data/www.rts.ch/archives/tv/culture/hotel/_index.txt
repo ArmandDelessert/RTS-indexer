@@ -2,7 +2,6 @@
 10249332-flaubert-vu-par-chessex.html
 10662721-le-vieil-homme.html
 11252377-lamour-sauvage-luis-sepulveda.html
-!12266360-la-soiree-un-roman-de-michel-host.html
 3447575-albert-cossery.html
 3461433-ecrire-dans-le-jura.html
 3461881-l-homme-mandela.html
@@ -18,7 +17,6 @@
 3467153-ines-cagnati.html
 3467351-une-vie-d-ecrivain.html
 3467351-une-vie-decrivain.html
-!3467585-le-vieil-homme.html
 3467847-face-aux-critiques.html
 3468959-la-traduction-litteraire.html
 3469350-herta-muller.html

@@ -4,7 +4,6 @@
 12984455-marcelle-cahn.html
 13965054-les-livres-extraordinaires-dania-staritsky.html
 15253769-louise-nevelson-ma-vie-comme-un-collage.html
-!3442856-jean-dubuffet.html
 3442857-fol-art.html
 3442857-l-art-brut.html
 3452419-les-graffitis.html
@@ -18,7 +17,6 @@
 6077125-la-vie-d-artiste.html
 6077125-la-vie-dartiste.html
 6299774-dans-les-arts.html
-!6812722-marcelle-cahn.html
 7103554-jeanchristophe-ammann.html
 7390017-claire-bretecher.html
 7430046-bretecher-sans-methode.html

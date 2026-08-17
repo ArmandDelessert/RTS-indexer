@@ -9,7 +9,6 @@
 10455647-la-greve-des-femmes.html
 10469859-le-centre-natalie-barney-en-peril.html
 10479218-greves-de-la-faim.html
-!10479284-lepreuve-de-force.html
 10501986-annette-leemann.html
 10528031-une-saison-a-l-alpage.html
 10528031-une-saison-a-lalpage.html
@@ -118,9 +117,7 @@
 4694473-lallemagne-en-suisse.html
 4710538-guantanamo.html
 4713728-bantoustan.html
-!4714336-50-ans-du-club-44.html
 4730240-kaliningrad.html
-!4800452-emancipation-feminine.html
 4812689-sorcieres.html
 4865694-suisse-fetee-a-cannes.html
 4901845-elisabeth-kopp.html
@@ -179,9 +176,7 @@
 6184888-a-morin-heights.html
 6213338-le-tresor-de-saintmaurice.html
 6267860-une-page-d-histoire.html
-!6275561-la-reaction-de-rene-felber.html
 6275628-le-monde-reagit.html
-!6277304-la-nuit-ou-le-mur-est-tombe.html
 6282710-la-hongrie-de-1986-23.html
 6282724-la-hongrie-de-1986-33.html
 6282738-la-hongrie-de-1986-13.html
@@ -225,11 +220,8 @@
 7016270-le-guide-michelin-suisse.html
 7086122-retraite-on-proteste-.html
 7086122-retraite-on-proteste.html
-!7106349-l-echec-de-christiane-brunner.html
-!7106349-lechec-de-christiane-brunner.html
 7106527-le-3-mars-de-christiane-brunner.html
 7122695-la-rue-est-a-vous.html
-!7122715-mais-quel-cirque-.html
 7135913-une-voiture-bien-propre.html
 7154998-musique-d-avenir.html
 7201109-singapour-a-bangkok.html
@@ -255,8 +247,6 @@
 7521794-le-style-castiglioni.html
 7554722-velos-roses.html
 7611541-jean-pierre-coffe.html
-!7622652-fans-de-renaud.html
-!7648124-risques-pour-la-suisse-.html
 7657495-salman-rushdie.html
 7755641-la-fete-est-lancee.html
 7852283-a-pieds-nus.html
@@ -268,7 +258,6 @@
 8039328-enfin.html
 8054250-quine.html
 8056690-nouveau-studio.html
-!8062074-enfants-voles.html
 8067758-quotas-sur-le-vignoble.html
 8096186-enfin-libres.html
 8104884-yvette-chauvire.html
@@ -303,7 +292,6 @@
 9249246-peu-de-solidarite.html
 9368822-enfin-la-swatch.html
 9415266-le-jackpot-de-jacques-cornu.html
-!9448682-snowboard-les-debuts.html
 9450394-la-fin-des-grillades.html
 9473042-un-conflit-sans-fin.html
 9482519-roulez-sympa.html

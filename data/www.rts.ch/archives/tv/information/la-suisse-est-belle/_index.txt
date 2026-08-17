@@ -1,7 +1,6 @@
 ./
 10018237-rebeuvelier-et-vernes-dans-le-jura.html
 10057584-au-coeur-du-jura-en-hiver.html
-!10289803-a-derborence.html
 10553833-st-saphorin.html
 10553833-stsaphorin.html
 10646535-presentation-de-delemont.html
@@ -20,7 +19,6 @@
 14036019-le-plateau-de-diesse.html
 3449663-un-hiver-a-la-brevine.html
 3462925-le-val-de-bagnes.html
-!3463645-a-derborence.html
 3472364-auge-et-neuveville.html
 3474511-valangin.html
 4114972-le-long-de-l-avancon.html

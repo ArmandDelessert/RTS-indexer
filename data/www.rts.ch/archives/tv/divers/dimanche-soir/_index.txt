@@ -1,18 +1,10 @@
 ./
 10400339-culture-nippone.html
-!10435167-l-armailli-brodeur.html
-!10435167-larmailli-brodeur.html
 10770844-la-passion-des-cartes-postales.html
 12286670-dard-dart.html
 12464428-michel-corboz-en-travail-avec-lensemble-vocal-de-lausanne-en-1982.html
-!3446705-l-ete-jurassien-1-.html
-!3446705-lete-jurassien-1.html
 3452044-cartophiles.html
 3460522-giovanna-marini.html
-!3464173-l-ete-jurassien-2-.html
-!3464173-lete-jurassien-2.html
-!3464174-l-ete-jurassien-3-.html
-!3464174-lete-jurassien-3.html
 3464244-les-femmes-gouros.html
 3464348-les-jivaros-1-.html
 3464348-les-jivaros-1.html
@@ -21,8 +13,6 @@
 3478993-les-boissonnas.html
 3825100-univers-insolites.html
 4812575-besson-a-geneve.html
-!5061154-de-l-art-au-menu.html
-!5061154-de-lart-au-menu.html
 8387559-deranger.html
 8387744-portrait-d-artiste.html
 8387744-portrait-dartiste.html

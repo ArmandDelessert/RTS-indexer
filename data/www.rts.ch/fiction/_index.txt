@@ -5,7 +5,6 @@
 10165474-my-little-one-un-film-de-frederic-choffat-et-julie-gilbert.html
 10176652-pearl-un-film-realise-par-elsa-amiel.html
 10177582-le-voyage-de-basho-un-film-de-richard-dindo.html
-!10213258-fantastic-web-contest-iii.html
 10245428-mangrove-un-film-de-frederic-choffat.html
 10245605-ma-nouvelle-heloise-un-film-de-francis-reusser.html
 10302230-quartier-des-banques-saison-2.html
@@ -149,12 +148,9 @@
 7952603-un-juif-pour-lexemple-un-film-de-jacob-berger.html
 8064886-tes-pas-la-seule-une-serie-de-pierreantoine-hiroz.html
 8117144-la-rts-soutient-le-cinema-suisse.html
-!8153630-un-juif-pour-lexemple-un-film-de-jacob-berger.html
-!8167227-appel-a-projets-2016-2017.html
 8173438-equipe-contact.html
 8173884-gothard-durs-egger.html
 8176477-for-this-is-my-body-de-paule-muret.html
-!8183970-gothard-un-telefilm-durs-egger-en-deux-parties.html
 8261148-chocolat-chaud-et-pic-a-glace-de-noel-tortajada-et-nicolas-frey.html
 8303492-la-lumiere-de-lespoir-un-film-de-silvia-quer.html
 8350445-rebecca-une-webserie-sous-forme-de-thriller-addictif.html
@@ -171,15 +167,12 @@
 9091528-10-une-serie-de-jeanlaurent-chautems.html
 9189813-boomerang-un-film-de-nicole-borgeat.html
 9190181-ondes-de-choc-une-collection-de-quatre-films-inspires-par-des-faits-divers-survenus-en-suisse.html
-!9278012-toute-l-actualite-des-journees-de-soleure.html
 9289261-fauves-un-film-de-robin-erard.html
 9298583-prenom-mathieu-un-film-de-la-collection-ondes-de-choc-realise-par-lionel-baier.html
 9301630-sirius-un-film-de-la-collection-ondes-de-choc-realise-par-frederic-mermoud.html
 9301939-journal-de-ma-tete-un-film-de-la-collection-ondes-de-choc-realise-par-ursula-meier.html
 9302088-la-vallee-un-film-de-la-collection-ondes-de-choc-realise-par-jeanstephane-bron.html
 9327375-fortuna-de-germinal-roaux.html
-!9327437-fortuna-un-film-de-germinal-roaux-dans-les-salles-en-avril.html
-!9327613-equipe-et-contact.html
 9330497-wilder.html
 9492580-kokos-curse-un-conte-ecolo-en-realite-augmentee.html
 9544433-seniors-une-webserie-de-thomas-szczepanski-ecrite-par-charles-nouveau-et-alexandre-kominek.html

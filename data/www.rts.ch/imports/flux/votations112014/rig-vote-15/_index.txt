@@ -1,3 +1,0 @@
-!module-map-ecopop.html
-!module-map-forfaits.html
-!module-map.html

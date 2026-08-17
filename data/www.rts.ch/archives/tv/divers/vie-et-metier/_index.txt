@@ -17,7 +17,6 @@
 3436056-doreur-sur-bois.html
 3438409-l-apprenti-brasseur.html
 3438409-lapprenti-brasseur.html
-!3446437-ingenieur-forestier.html
 3452014-le-car-postal.html
 3462613-medecin-du-travail.html
 3462824-le-metier-d-instituteur.html
@@ -42,7 +41,6 @@
 8066234-orientation-professionnelle.html
 8100561-macon-un-metier-d-avenir-.html
 8331775-chez-le-tailleur.html
-!8406087-paysagiste-du-lignon.html
 8469754-l-enfance-de-la-poesie.html
 8469754-lenfance-de-la-poesie.html
 8526457-mon-pere-a-moi.html

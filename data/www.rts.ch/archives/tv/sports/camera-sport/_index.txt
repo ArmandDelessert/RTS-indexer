@@ -3,7 +3,6 @@
 10482900-100-km-de-bienne-c-est-le-pied-.html
 10482900-100-km-de-bienne-cest-le-pied.html
 10512243-les-equilibristes.html
-!10682117-clay-regazzoni-champion.html
 10768095-clay-regazzoni-champion.html
 11000334-la-releve-du-saut.html
 11170376-jean-cusson-lesprit-du-hockey-canadien.html
@@ -31,7 +30,6 @@
 3440871-l-entrainement.html
 3440871-lentrainement.html
 3441617-une-question-de-poids.html
-!3442208-tu-tires-ou-tu-pointes.html
 3442225-l-amitie-sino-suisse.html
 3442662-le-fondateur.html
 3445362-six-mois-sur-un-fil.html
@@ -42,7 +40,6 @@
 3449327-des-coachs-canadiens.html
 3449785-duo-d-arbitres.html
 3449785-duo-darbitres.html
-!3449793-le-hc-ayer-promu.html
 3449816-les-canadiens.html
 3449844-les-pee-wee.html
 3449844-les-peewee.html
@@ -54,7 +51,6 @@
 3462454-le-mental.html
 3462467-le-style-russi.html
 3463015-louis-noverraz.html
-!3463174-le-fan-de-foot.html
 3463962-la-moto-trial.html
 3469881-jackie-stewart.html
 3473941-les-bolides-du-lac.html
@@ -70,8 +66,6 @@
 4599700-arbitre-amateur.html
 4605766-un-rallye-hors-normes.html
 5144853-bernhard-russi.html
-!5151631-le-roi-de-la-lutte.html
-!5208836-francois-cevert.html
 5266818-eric-nussbaum.html
 5275821-charly-buhler.html
 5389383-le-feu-sacre.html
@@ -90,12 +84,9 @@
 7070381-a-lheure-du-saut-a-ski.html
 7070761-le-saut-et-lecons.html
 7192130-los-muchachos.html
-!7255474-course-d-orientation.html
-!7255474-course-dorientation.html
 7255577-jeunesse-et-sport.html
 7255600-le-mini-judo.html
 7720344-antenen-pere-et-fils.html
-!7793502-difficiles-debuts.html
 7858818-oswald-et-wessner-font-la-paire.html
 8739130-albert-courajod.html
 9029614-rallye-du-valais-.html

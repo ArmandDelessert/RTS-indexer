@@ -1,2 +1,0 @@
-!Desktop.html
-!Detect.html

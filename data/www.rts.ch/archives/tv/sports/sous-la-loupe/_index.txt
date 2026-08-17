@@ -8,7 +8,6 @@
 10767931-equipage-suisse-au-rallye-de-montecarlo.html
 10768140-russi-et-collombin.html
 10768296-conny-star.html
-!10774424-silvio-giobellina.html
 10794332-a-bord-de-gauloise.html
 11000041-les-champions-de-demain.html
 11050157-au-rallye-de-suede.html
@@ -40,12 +39,10 @@
 3449300-l-age-d-or-du-hcc.html
 3449300-lage-dor-du-hcc.html
 3449309-le-hcc-ecrase-sierre.html
-!3450400-le-football-des-talus.html
 3462133-camp-d-entrainement.html
 3462133-camp-dentrainement.html
 3462170-charly-hertig.html
 3462756-pierre-fehlmann.html
-!3462765-a-bord-de-gauloise.html
 3474016-championnat-mondial.html
 3474047-les-vrais-de-vrais-.html
 3474162-clay-regazzoni.html
@@ -69,7 +66,6 @@
 4809155-jeandupeux-et-favre.html
 5099434-sierre-zinal.html
 5099434-sierrezinal.html
-!5106133-l-impossible-terrain.html
 5208630-alain-colas.html
 5252708-la-reine-des-courses.html
 5266702-walter-blaser.html
@@ -104,5 +100,4 @@
 9766031-sierre-zinal-l-epreuve-reine.html
 9777317-le-petit-prince-du-ski-nautique.html
 9781715-la-vie-apres-la-competition.html
-!9820051-le-football-des-talus.html
 9931229-albert-zweifel-le-roi-du-cyclo-cross.html

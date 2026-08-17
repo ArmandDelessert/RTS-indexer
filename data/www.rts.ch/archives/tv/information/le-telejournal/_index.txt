@@ -87,12 +87,10 @@
 3967179-la-pastorale.html
 3977118-stanislas-wawrinka.html
 4027311-fans-de-marc-rosset.html
-!4438098-retour-en-lna.html
 4453287-retour-dans-l-elite.html
 4453287-retour-dans-lelite.html
 4507105-le-public-du-lhc.html
 4611768-eaux-de-pfaefers.html
-!4618097-nicole-petignat.html
 4690096-des-femmes-au-salon.html
 4808517-la-mandelamania.html
 4872725-viviane-forrester.html
@@ -165,12 +163,7 @@
 7849612-alvin-toffler.html
 7852070-l-art-en-cabine.html
 7852070-lart-en-cabine.html
-!7864687-fete-federale-de-lutte.html
 7878998-souvenirs-de-la-guerre-d-espagne.html
-!7978065-50-ans-de-bonheur.html
-!7984395-kosovo.html
-!7984409-gondo.html
-!7984420-les-telephonistes.html
 7984488-tsunami.html
 8154110-un-salaire-minimum-.html
 8154110-un-salaire-minimum.html
