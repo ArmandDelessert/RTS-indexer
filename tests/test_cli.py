@@ -81,3 +81,18 @@ def test_dedupe_supprime_et_rapporte(tmp_path, capsys):
     assert code == 0
     assert "1 doublons supprimés" in capsys.readouterr().out
     assert dict(Store(tmp_path).load().urls()) == {canonique: False}
+
+
+def test_purge_supprime_et_rapporte(tmp_path, capsys):
+    vivante = "https://www.rts.ch/info/suisse/2026/article/x-1.html"
+    morte = "https://www.rts.ch/info/suisse/2026/article/x-2.html"
+    store = Store(tmp_path)
+    store.add_many([vivante, morte])
+    store.add(morte, dead=True)
+    store.write()
+
+    code = cli.main(["--data-dir", str(tmp_path), "purge"])
+
+    assert code == 0
+    assert "1 URLs mortes supprimées" in capsys.readouterr().out
+    assert dict(Store(tmp_path).load().urls()) == {vivante: False}

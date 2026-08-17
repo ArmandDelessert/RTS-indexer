@@ -110,6 +110,7 @@ class Verifier:
         max_urls: int = 0,
         recheck_days: int | None = None,
         path_prefix: str | list[str] | None = None,
+        dead_only: bool = False,
         retry_delay: float | None = None,
         cache_dir: Path | None = None,
         transport: httpx.AsyncBaseTransport | None = None,
@@ -125,6 +126,10 @@ class Verifier:
             config.VERIFY_RETRY_DELAY if retry_delay is None else retry_delay
         )
         self.path_prefixes = _prefixes_canoniques(path_prefix)
+        #: Ne recontrôler que les URLs déjà marquées mortes, sans égard pour
+        #: la fraîcheur du cache — un audit délibéré et ponctuel, pas le flux
+        #: incrémental habituel.
+        self.dead_only = dead_only
         self.cache_path = (cache_dir or config.CACHE_DIR) / CACHE_FILE
         self.transport = transport
         #: url -> {"checked_at": iso8601, "status": int}
@@ -191,7 +196,17 @@ class Verifier:
         L'ordre compte : avec un ``--limit``, on veut avancer sur le front
         inconnu plutôt que de re-contrôler indéfiniment les mêmes URLs
         anciennes.
+
+        ``dead_only`` court-circuite tout ça : on sait déjà exactement quelles
+        URLs contrôler (celles portant le sigil), la fraîcheur du cache n'a
+        aucun sens pour un audit explicitement demandé maintenant.
         """
+        if self.dead_only:
+            mortes = [url for url, dead in self.store.urls() if dead]
+            if self.path_prefixes:
+                mortes = [u for u in mortes if u.startswith(self.path_prefixes)]
+            return mortes[: self.max_urls] if self.max_urls > 0 else mortes
+
         jamais_vues, a_rafraichir = [], []
         for url, _ in self.store.urls():
             if self.path_prefixes and not url.startswith(self.path_prefixes):

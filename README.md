@@ -64,6 +64,7 @@ python -m rts_indexer <commande> [options]
 | `commoncrawl` | Collecte l'archive Common Crawl. |
 | `verify` | Contrôle quelles URLs répondent encore, pose/retire le sigil `!`. |
 | `dedupe` | Supprime les URLs journalisées comme doublons par `verify`. |
+| `purge` | Supprime de l'index les URLs actuellement marquées mortes. |
 | `build` | Relit et réécrit `data/` (tri, sharding, purge) sans rien collecter. |
 | `site` | Génère la page web de consultation (`site/index.html`). |
 | `stats` | Affiche les compteurs de l'index. |
@@ -141,13 +142,16 @@ python -m rts_indexer commoncrawl [--max-pages N] [--pages-per-index N] [--max-i
 ### `verify`
 
 ```bash
-python -m rts_indexer verify [--limit N] [--recheck-days N] [--path PREFIXE]
+python -m rts_indexer verify [--limit N] [--recheck-days N] [--path PREFIXE] [--dead-only]
 ```
 
 - `--limit` — nombre maximal d'URLs à contrôler, les jamais-vues d'abord (0 = toutes).
 - `--recheck-days` (défaut 30) — âge au-delà duquel une URL déjà contrôlée l'est de nouveau.
 - `--path` — ne contrôler que les URLs sous ce préfixe (`www.rts.ch/meteo/` ou l'URL complète).
   Pratique pour valider un changement sans lancer un run complet.
+- `--dead-only` — ne recontrôler que les URLs déjà marquées mortes (sigil `!`), sans égard pour
+  `--recheck-days` : un audit ponctuel, pas le flux incrémental habituel. À combiner avec `purge`
+  pour matérialiser les verdicts confirmés en suppressions réelles.
 
 Il n'y a pas de curseur de reprise : `.cache/verify.json` mémorise la date et le code de chaque
 contrôle, et chaque exécution attaque en priorité les URLs jamais vues, puis celles dont le
@@ -193,6 +197,26 @@ un identifiant qui redirige vers une image sur `img.rts.ch` entrerait dans l'ind
 un vrai doublon — rien dans l'index n'en fait double emploi, elle redirige simplement hors
 périmètre — donc `dedupe` ne supprime rien : l'anomalie est **requalifiée** `hors_perimetre` plutôt
 que laissée sous l'étiquette `doublon`, trompeuse pour ce cas.
+
+### `purge`
+
+```bash
+python -m rts_indexer purge
+```
+
+Supprime de l'index les URLs actuellement marquées mortes (sigil `!`). **Ce n'est pas le
+comportement par défaut du projet** : une URL morte reste normalement indexée, pour garder la trace
+qu'un contenu a existé même après sa disparition — l'intérêt d'un index qui couvre aussi
+l'historique, pas seulement ce qui répond aujourd'hui. `purge` existe pour qui préfère
+explicitement un index de contenu vivant ; l'historique reste de toute façon récupérable via
+l'historique Git.
+
+Ne recontrôle rien — se fie au sigil tel qu'il est en mémoire. L'usage prévu est en deux temps :
+
+```bash
+python -m rts_indexer verify --dead-only   # reconfirme (ou ressuscite) chaque URL morte connue
+python -m rts_indexer purge                # supprime celles qui le sont encore
+```
 
 ### `site`
 

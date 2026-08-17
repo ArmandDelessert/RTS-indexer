@@ -196,6 +196,7 @@ def cmd_verify(args: argparse.Namespace) -> int:
             max_urls=args.limit,
             recheck_days=args.recheck_days,
             path_prefix=args.path,
+            dead_only=args.dead_only,
         )
     except KeyboardInterrupt:
         print("\nInterruption : écriture des verdicts déjà obtenus...", file=sys.stderr)
@@ -230,6 +231,20 @@ def cmd_dedupe(args: argparse.Namespace) -> int:
         f"{supprimes} doublons supprimés ({ajoutees} cibles nouvellement indexées), "
         f"{ignores} requalifiés hors périmètre (pas de vrai doublon)"
     )
+    _report(store.write())
+    return 0
+
+
+def cmd_purge(args: argparse.Namespace) -> int:
+    """Supprime de l'index les URLs actuellement marquées mortes.
+
+    Par défaut, une URL morte reste indexée (sigil `!`) — cette commande
+    n'est là que pour qui préfère explicitement un index de contenu vivant.
+    Ne recontrôle rien : lancer `verify --dead-only` avant, pas à la place.
+    """
+    store = _store(args).load()
+    supprimees = store.purge_dead()
+    print(f"{supprimees} URLs mortes supprimées de l'index")
     _report(store.write())
     return 0
 
@@ -387,12 +402,25 @@ def build_parser() -> argparse.ArgumentParser:
             "Répétable pour cibler plusieurs sous-arbres à la fois."
         ),
     )
+    p.add_argument(
+        "--dead-only",
+        action="store_true",
+        help=(
+            "ne recontrôler que les URLs déjà marquées mortes (sigil !), "
+            "sans égard pour la fraîcheur du cache — un audit ponctuel"
+        ),
+    )
     p.set_defaults(func=cmd_verify)
 
     p = sub.add_parser(
         "dedupe", help="supprime les URLs journalisées comme doublons par verify"
     )
     p.set_defaults(func=cmd_dedupe)
+
+    p = sub.add_parser(
+        "purge", help="supprime de l'index les URLs actuellement marquées mortes"
+    )
+    p.set_defaults(func=cmd_purge)
 
     p = sub.add_parser("build", help="relit et réécrit data/ (tri, sharding, purge)")
     p.set_defaults(func=cmd_build)

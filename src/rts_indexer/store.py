@@ -172,9 +172,11 @@ class Store:
         """Retire une URL de l'index. Retourne ``True`` si elle existait.
 
         Contrairement à ``add()``, qui ne fait qu'ajouter : c'est la seule
-        façon de faire disparaître une URL, réservée à l'élimination de
-        doublons confirmés (une URL qui redirige vers une autre, déjà
-        indexée — cf. :meth:`resolve_doublons`). Marque le dossier sale :
+        façon de faire disparaître une URL, utilisée par :meth:`resolve_doublons`
+        (doublon confirmé, une autre URL déjà indexée fait double emploi) et
+        par :meth:`purge_dead` (URL confirmée morte, à la demande explicite —
+        par défaut le sigil ``!`` suffit et rien n'est jamais supprimé).
+        Marque le dossier sale :
         l'invariant de l'écriture sélective (« un dossier inchangé a les
         bons fichiers sur disque ») reste vrai puisque ce dossier n'est
         justement plus inchangé. Si le dossier devient entièrement vide,
@@ -239,6 +241,26 @@ class Store:
             if self.remove(url):
                 supprimes += 1
         return supprimes, ajoutees, ignores
+
+    def purge_dead(self) -> int:
+        """Supprime de l'index toutes les URLs actuellement marquées mortes.
+
+        Matérialise le sigil ``!`` en suppression réelle. Ce n'est pas le
+        comportement par défaut du projet : une URL morte reste indexée
+        (choix délibéré, pour garder la trace qu'un contenu a existé même
+        après sa disparition — l'intérêt d'un index qui couvre aussi
+        l'historique, pas seulement ce qui répond aujourd'hui). Cette méthode
+        n'existe que pour qui préfère explicitement un index de contenu
+        vivant ; l'historique reste de toute façon récupérable via Git.
+
+        Ne recontrôle rien — se fie au sigil tel qu'il est en mémoire au
+        moment de l'appel. À utiliser après un ``verify --dead-only``, pas à
+        la place.
+        """
+        a_supprimer = [url for url, dead in self.urls() if dead]
+        for url in a_supprimer:
+            self.remove(url)
+        return len(a_supprimer)
 
     # -- chargement ----------------------------------------------------------
 

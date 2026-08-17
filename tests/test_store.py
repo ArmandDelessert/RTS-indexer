@@ -514,6 +514,50 @@ def test_resolve_doublons_ignore_les_anomalies_d_autres_types(tmp_path):
     assert len(store.anomalies) == 2  # intactes
 
 
+# -- purge des URLs mortes -------------------------------------------------
+
+
+def test_purge_dead_supprime_les_articles_morts(tmp_path):
+    store = Store(tmp_path)
+    store.add_many([ARTICLE, AUTRE])
+    store.add(ARTICLE, dead=True)
+
+    assert store.purge_dead() == 1
+    assert dict(store.urls()) == {AUTRE: False}
+
+
+def test_purge_dead_supprime_les_rubriques_mortes(tmp_path):
+    store = Store(tmp_path)
+    store.add(RUBRIQUE, dead=True)
+    store.add(ARTICLE)
+
+    assert store.purge_dead() == 1
+    assert dict(store.urls()) == {ARTICLE: False}
+
+
+def test_purge_dead_laisse_les_urls_vivantes(tmp_path):
+    store = Store(tmp_path)
+    store.add_many([ARTICLE, AUTRE])
+
+    assert store.purge_dead() == 0
+    assert dict(store.urls()) == {ARTICLE: False, AUTRE: False}
+
+
+def test_purge_dead_persiste_apres_ecriture_et_rechargement(tmp_path):
+    store = Store(tmp_path)
+    store.add_many([ARTICLE, AUTRE])
+    store.add(ARTICLE, dead=True)
+    store.write()
+
+    relu = Store(tmp_path).load()
+    supprimees = relu.purge_dead()
+    relu.write()
+
+    assert supprimees == 1
+    assert dict(Store(tmp_path).load().urls()) == {AUTRE: False}
+    assert index_de(tmp_path) == "paleo-festival-29313279.html\n"
+
+
 # -- écriture sélective --------------------------------------------------
 #
 # Le risque de cette optimisation n'est pas la lenteur mais la perte : un

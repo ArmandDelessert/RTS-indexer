@@ -557,3 +557,60 @@ def test_pas_de_checkpoint_redondant_apres_une_reprogrammation(tmp_path, monkeyp
     # Un seul checkpoint, une fois le verdict réellement obtenu — pas un par
     # passage de worker.
     assert checkpoints == [1]
+
+
+# -- dead_only -----------------------------------------------------------
+
+
+def test_dead_only_ne_selectionne_que_les_urls_mortes(tmp_path):
+    store = _store(tmp_path)
+    store.add(MORTE, dead=True)
+    verifier = _verifier(tmp_path, store=store, dead_only=True)
+
+    assert verifier.pending() == [MORTE]
+
+
+def test_dead_only_ignore_la_fraicheur_du_cache(tmp_path):
+    """Le point : contrairement au flux incrémental habituel, une URL déjà
+    contrôlée récemment doit quand même ressortir — c'est un audit demandé
+    explicitement, pas une reprise du front inconnu."""
+    store = _store(tmp_path)
+    store.add(MORTE, dead=True)
+    verifier = _verifier(tmp_path, store=store, dead_only=True)
+    verifier.cache[MORTE] = {
+        "checked_at": datetime.now(UTC).isoformat(timespec="seconds"),
+        "status": 404,
+    }
+
+    assert verifier.pending() == [MORTE]
+
+
+def test_dead_only_respecte_path_et_limit(tmp_path):
+    autre_morte = "https://www.rts.ch/meteo/vieille-1.html"
+    store = _store(tmp_path)
+    store.add(MORTE, dead=True)
+    store.add(autre_morte, dead=True)
+
+    verifier = _verifier(tmp_path, store=store, dead_only=True, path_prefix="www.rts.ch/meteo/")
+    assert verifier.pending() == [autre_morte]
+
+
+def test_dead_only_peut_ressusciter_une_url(tmp_path):
+    """Le cas d'usage réel : une URL morte qui répond de nouveau doit perdre
+    son sigil, exactement comme le flux normal — dead_only ne change que la
+    sélection, pas le verdict."""
+    store = _store(tmp_path, urls=[RUBRIQUE])
+    store.add(MORTE, dead=True)
+    codes = {"/info/suisse/2026/article/morte-2.html": 200}
+    verifier = _verifier(tmp_path, store=store, dead_only=True, codes=codes)
+
+    asyncio.run(verifier.run())
+
+    assert verifier.ressuscites == 1
+    assert dict(verifier.store.urls())[MORTE] is False
+
+
+def test_dead_only_vide_ne_fait_rien(tmp_path):
+    verifier = _verifier(tmp_path, dead_only=True)  # aucune URL morte
+    asyncio.run(verifier.run())
+    assert verifier.checked == 0
