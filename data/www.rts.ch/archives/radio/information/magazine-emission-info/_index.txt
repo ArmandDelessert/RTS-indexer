@@ -1,6 +1,11 @@
 ./
+10893095-denis-de-rougement-et-lannee-1975-03-01-1975.html
+10893112-denis-de-rougemont-et-la-revolution-hongroise-de-1956-1-22-10-1976.html
+10895782-denis-de-rougemont-et-la-revolution-hongroise-2-22-10-1976.html
 13293911-le-corps-suisse-daide-en-cas-de-catastrophe-au-sahel-15-11-1974.html
 13696930-sur-la-piste-du-lauberhorn-10-01-1975.html
+14365790-reportage-au-circuit-de-course-automobile-du-castellet-en-france-11-04-1975.html
+14736116-interview-de-jacques-potterat-vigneron-12-10-1969.html
 3293508-l-education-sexuelle-21-03-1973.html
 3293508-leducation-sexuelle-21-03-1973.html
 3294424-frederic-dard-17-06-1968.html
@@ -8,11 +13,13 @@
 3303861-ecoutes-en-suisse.html
 3303928-vivre-en-hongrie-en-1966-03-11-1966.html
 3303944-cancer-la-grande-peur.html
+3303944-la-grande-peur-22-01-1968.html
 3303944-la-grande-peur.html
 3305924-tv-et-agressivite-15-07-1973.html
 3306228-andre-baudry-09-04-1974.html
 3306228-andre-baudry.html
 3306235-en-recrudescence-22-02-1974.html
+3318131-lexorciste-03-04-1978.html
 3366311-en-hommage-15-05-1970.html
 3366311-en-hommage.html
 3366385-l-avenir-du-cern-07-10-1970.html
@@ -53,3 +60,5 @@
 7455389-dada-ca-rime-a-quoi-07-02-1966.html
 8220395-robert-oppenheimer-20-02-1967.html
 8220395-robert-oppenheimer.html
+9319569-tiersmonde-et-cooperation-30-03-1974.html
+9901563-monserrat-caballe-03-04-1978.html

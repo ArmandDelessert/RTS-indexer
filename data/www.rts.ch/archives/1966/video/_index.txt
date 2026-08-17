@@ -10,6 +10,7 @@ a-romainmotier-26183282.html
 alain-gree-26182799.html
 angkor-thom-3-26179515.html
 annie-cordy-26182726.html
+anselme-boix-vives-26182694.html
 aquarelle-zbinden-26183076.html
 armee-du-salut-les-soldats-du-bon-dieu-26182764.html
 ascension-du-cervin-28857214.html
@@ -83,6 +84,7 @@ le-chasseral-pare-26954813.html
 le-costume-d-evolene-26182625.html
 le-courage-de-florence-26183126.html
 le-dernier-rempart-26183050.html
+le-monde-de-leonor-fini-27184682.html
 le-palais-des-congres-de-bienne-26183299.html
 le-parcours-de-morat-fribourg-26183236.html
 le-pere-piqueret-26182717.html
@@ -94,6 +96,7 @@ le-savoir-vivre-26391050.html
 le-service-des-automobiles-26182763.html
 le-teleski-de-poche-26954648.html
 le-test-d-aptitude-26183320.html
+leonor-fini-26183336.html
 les-compagnons-26183133.html
 les-idoles-modernes-26182881.html
 les-jeunes-et-le-yoga-26183214.html
@@ -104,13 +107,18 @@ les-secrets-du-pollen-26955025.html
 les-violences-raciales-26183160.html
 louis-soutter-26182068.html
 lutte-au-rigi-26183048.html
+manitas-de-plata-26954797.html
 maria-callas-26182583.html
 massacralasine-26182715.html
 mireille-mathieu-27460714.html
 mission-de-la-poesie-26182393.html
+nelly-kaplan-26182722.html
 orpailleurs-en-herbe-26954747.html
 ouvrez-plus-grand-26182900.html
 paroles-d-ouvriers-26391081.html
+paul-thorez-26182897.html
+petite-lecon-d-argot-26182924.html
+philippe-noiret-26182857.html
 pier-paolo-pasolini-26389019.html
 premiere-feminine-26954917.html
 prier-ou-skier-26182568.html
@@ -150,3 +158,4 @@ vision-de-l-apartheid-26388956.html
 visite-de-la-centrale-26182999.html
 william-favre-26182589.html
 yuri-l-acrobate-26182797.html
+yves-klein-26183034.html
