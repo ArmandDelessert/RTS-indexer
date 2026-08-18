@@ -163,6 +163,11 @@ emission-speciale-28456091.html
 emission-speciale-28523762.html
 emission-speciale-28523775.html
 emission-speciale-28523798.html
+emission-speciale-28523975.html
+emission-speciale-28524010.html
+emission-speciale-28524028.html
+emission-speciale-28524123.html
+emission-speciale-28524125.html
 emission-speciale-covid-4-ans-apres-28392782.html
 emission-speciale-covid-4-ans-plus-tard-28392782.html
 emission-speciale-d-une-heure-28527337.html
@@ -280,8 +285,11 @@ en-direct-du-festival-de-jazz-onze-plus-lausane-28681954.html
 en-direct-du-livre-sur-les-quais-28616341.html
 en-direct-ensemble-vocal-de-lausanne-les-argonautes-jonas-descotte-purcell-britten-morlay-dowland-pilkington-johnson-byrd-28538306.html
 en-direct-les-radios-publiques-celebrent-les-200-ans-de-la-9eme-symphonie-de-beethoven-orchester-wiener-akademie-martin-haselbock-wdr-rundfunkchor-solistes-28495832.html
+en-direct-ocl-hossein-pishkar-johan-reuter-haydn-mahler-28726164.html
 en-direct-ocl-jean-jacques-kantorow-alexandre-kantorow-clemence-de-forceville-grands-concerts-9-saint-saens-brahms-28490546.html
+en-direct-ocl-nicolas-chalvin-sharon-kam-honegger-copland-mozart-28710872.html
 en-direct-ocl-ollikainen-soltani-orchestre-de-l-hemu-thorvaldsdottir-chostakovitch-stravinsky-28396490.html
+en-direct-osr-j-nott-v-michaud-g-michaud-saxo-bolero-durufle-williams-birtwistle-ravel-28701548.html
 en-direct-osr-myung-whun-chung-coro-dell-accademia-nazionale-di-santa-cecilia-andrea-secchi-verdi-messa-da-requiem-28489361.html
 en-direct-osr-nott-argerich-ravel-beethoven-28664735.html
 en-direct-osr-nott-argerich-sommerhalder-stravinski-chostakovitch-mozart-28403607.html
@@ -599,6 +607,7 @@ enrico-nigiotti-avec-occhi-grandi-28527927.html
 enseigner-a-distance-28481899.html
 ensemble-amalgame-avec-clara-chartre-et-mathieu-amoos-28515823.html
 ensemble-cantatio-john-duxbury-haendel-te-deum-et-jubilate-28503059.html
+ensemble-cantatio-john-duxbury-mendelssohn-bach-28718373.html
 ensemble-de-l-encyclopedie-albrecht-salieri-fiorillo-battista-viotti-bambini-28435357.html
 ensemble-il-pomo-d-oro-max-volbers-hasse-sammartini-brescianello-handel-zamboni-galuppi-vivaldi-28723687.html
 ensemble-la-sestina-avec-adriano-giardina-et-ses-choristes-28569157.html

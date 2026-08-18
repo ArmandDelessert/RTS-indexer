@@ -443,6 +443,7 @@
 10125071-les-jeunes-socialistes-autorises-a-manifester-contre-le-forum-de-davos.html
 10125089-le-cheval-franchesmontagnes-cherche-a-seduire-audela-du-jura.html
 10125162-les-suisses-doivent-decider-s-il-faut-geler-la-surface-de-zones-a-batir.html
+10125162-les-suisses-doivent-decider-sil-faut-geler-la-surface-de-zones-a-batir.html
 10125614-l-eglise-catholique-veut-renforcer-sa-lutte-contre-les-abus-sexuels.html
 10125614-leglise-catholique-veut-renforcer-sa-lutte-contre-les-abus-sexuels.html
 10126915-le-don-d-organes-pediatrique-un-defi-psychologique-pour-les-familles.html
@@ -763,6 +764,7 @@
 10225395-fedpol-a-ouvert-une-enquete-contre-deux-ex-cadres-de-carpostal.html
 10225395-fedpol-a-ouvert-une-enquete-contre-deux-excadres-de-carpostal.html
 10225618--baillonnes-lors-des-campagnes-de-votation-les-cantons-reagissent.html
+10225618-baillonnes-lors-des-campagnes-de-votation-les-cantons-reagissent.html
 10225779-l-association-de-soutien-a-pierre-maudet-n-a-jamais-paye-d-impot.html
 10225818--la-hausse-de-production-de-petrole-ces-prochaines-annees-est-ineluctable-.html
 10225818-la-hausse-de-production-de-petrole-ces-prochaines-annees-est-ineluctable.html
@@ -975,6 +977,7 @@
 10279852-une-commission-publie-son-travail-sur-les-internements-forces-en-suisse.html
 10281730-une-application-pour-decoder-la-composition-des-produits-cosmetiques.html
 10282858--il-faut-mettre-fin-aux-statuts-fiscaux-tout-en-restant-competitifs-.html
+10282858-il-faut-mettre-fin-aux-statuts-fiscaux-tout-en-restant-competitifs.html
 10282929-trois-hopitaux-partageront-les-dossiers-electroniques-de-leurs-patients.html
 10283219-la-vendange-2018-a-un-niveau-jamais-atteint-depuis-2011.html
 10283341-quelles-consequences-pour-les-eleves-participant-a-la-greve-du-climat-.html
@@ -992,6 +995,7 @@
 10286153-la-montagne-a-fait-plus-de-victimes-en-2018-que-durant-lannee-precedente.html
 10286257-le-parlement-veut-forcer-les-sites-de-vente-etrangers-a-payer-la-tva-suisse.html
 10286564--on-abolit-des-privileges-des-multinationales-pour-en-remettre-.html
+10286564-on-abolit-des-privileges-des-multinationales-pour-en-remettre.html
 10286602--il-faut-creer-des-cours-intermediaires-pour-desengorger-le-tribunal-federal-.html
 10286602-il-faut-creer-des-cours-intermediaires-pour-desengorger-le-tribunal-federal.html
 1028693-des-pluies-diluviennes-sabattent-au-tessin.html
@@ -14039,6 +14043,7 @@
 13411207-plusieurs-villes-suisses-interessees-a-organiser-une-conference-de-l-onu-sur-le-climat.html
 13411207-plusieurs-villes-suisses-interessees-a-organiser-une-conference-de-lonu-sur-le-climat.html
 13412461-comment-a-t-on-vote-pres-de-chez-vous-notre-comparatif-par-commune-et-canton.html
+13412461-comment-aton-vote-pres-de-chez-vous-notre-comparatif-par-commune-et-canton.html
 13412890-barometre-des-elections-federales-2023-participez-a-notre-sondage.html
 13413023-oui-du-bout-des-levres-a-la-hausse-de-l-age-de-la-retraite-des-femmes.html
 13413023-oui-du-bout-des-levres-a-la-hausse-de-lage-de-la-retraite-des-femmes.html
@@ -14790,6 +14795,7 @@
 13573359-vingt-ans-apres-le-rapport-bergier-la-suisse-a-appris-quelque-chose.html
 13573547-le-conseil-du-ps-n-a-pas-departage-les-trois-candidates-a-la-succession-de-sommaruga.html
 13573547-le-conseil-du-ps-na-pas-departage-les-trois-candidates-a-la-succession-de-sommaruga.html
+13573547-le-conseil-du-ps-na-pas-departager-les-trois-candidates-a-la-succession-de-sommaruga.html
 13573572-une-15eme-campagne-toujours-aussi-necessaire-contre-les-violences-faites-aux-femmes.html
 13573689-il-y-a-50-de-retards-en-plus-dans-les-gares-romandes-qu-ailleurs-en-suisse.html
 13573689-il-y-a-50-de-retards-en-plus-dans-les-gares-romandes-quailleurs-en-suisse.html
@@ -15603,6 +15609,7 @@
 13761119-berne-veut-aider-les-personnes-precaires-qui-ne-touchent-pas-l-aide-sociale.html
 13761119-berne-veut-aider-les-personnes-precaires-qui-ne-touchent-pas-laide-sociale.html
 13762386-la-suisse-envoie-84-secouristes-sur-les-lieux-du-seisme-en-turquie-et-en-syrie.html
+13762386-la-suisse-envoie-84-secouristes-sur-les-lieux-du-seisme-en-turquie.html
 13762403-podcast-pourquoi-on-aime-tant-leau-froide.html
 13763996-interdiction-de-la-vente-nocturne-dalcool-en-magasin-reclamee-par-addiction-suisse.html
 13764098-l-annee-2022-jugee-bonne-ou-tres-bonne-par-59-des-helvetes.html
@@ -17417,6 +17424,7 @@
 14277200-premier-proces-en-suisse-au-titre-de-la-competence-universelle-pour-disparition-forcee.html
 14277336-adolf-hitler-a-leve-des-fonds-pour-son-parti-a-zurich-il-y-a-100-ans.html
 14277540-les-partis-multiplient-les-propositions-pour-faire-baisser-les-primes-maladie.html
+14278607-philippe-nantermod-la-place-du-plr-sur-le-podium-permet-de-maintenir-un-gouvernement-de-droite-centredroit.html
 14278692-decouvrez-quel-parti-a-le-plus-de-moyens-pour-les-federales-dans-votre-canton.html
 14278692-deja-plus-de-30-millions-de-francs-declares-dans-la-course-aux-elections-federales.html
 14278928-christoph-blocher-a-investi-pres-de-550000-francs-dans-la-campagne-de-ludc.html

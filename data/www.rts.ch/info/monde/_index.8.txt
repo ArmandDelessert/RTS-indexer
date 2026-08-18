@@ -653,6 +653,7 @@
 8078386-aide-humanitaire-distribuee-en-haiti-apres-le-chaos-provoque-par-matthew.html
 8078686-la-pennsylvanie-un-etat-qui-cultive-les-differences.html
 8078693-philadelphie-concentre-de-l-amerique-de-ses-defis-et-contradictions-.html
+8078693-philadelphie-concentre-de-lamerique-de-ses-defis-et-contradictions.html
 8079218-la-france-exhorte-la-grande-bretagne-a-accueillir-des-migrants-de-calais.html
 8079218-la-grande-bretagne-s-engage-a-accueillir-des-migrants-de-calais.html
 8079218-la-grandebretagne-sengage-a-accueillir-des-migrants-de-calais.html
@@ -1199,6 +1200,7 @@
 8147964-les-eveques-de-france-s-excusent-pour-un-silence-coupable-sur-les-abus-sexuels.html
 8147964-les-eveques-de-france-sexcusent-pour-un-silence-coupable-sur-les-abus-sexuels.html
 8147992-retour-sur-une-des-campagnes-les-plus-violentes-de-l-histoire-des-etats-unis.html
+8147992-retour-sur-une-des-campagnes-les-plus-violentes-de-lhistoire-des-etatsunis.html
 8148273-une-tornade-et-des-intemperies-font-deux-morts-au-centre-de-l-italie.html
 8148273-une-tornade-et-des-intemperies-font-deux-morts-au-centre-de-litalie.html
 8148469-donald-trump-prive-de-son-compte-twitter-par-son-equipe-de-campagne.html
@@ -2996,6 +2998,7 @@
 8429691-le-clan-des-soutiens-demmanuel-macron-selargit-chaque-jour.html
 8429764--que-des-gens-meurent-encore-de-faim-c-est-un-echec-de-l-humanite-.html
 8429813-les-principales-propositions-du-programme-d-emmanuel-macron.html
+8429813-les-principales-propositions-du-programme-demmanuel-macron.html
 8429847-l-immunite-de-marine-le-pen-levee-pour-diffusion-d-images-violentes-.html
 8429847-l-immunite-de-marine-le-pen-levee-pour-diffusion-d-images-violentes.html
 8429847-limmunite-de-marine-le-pen-levee-pour-diffusion-dimages-violentes.html
@@ -3019,6 +3022,7 @@
 8432565-le-porte-parole-de-francois-fillon-tourne-a-son-tour-le-dos-au-candidat.html
 8432565-le-porteparole-de-francois-fillon-tourne-a-son-tour-le-dos-au-candidat.html
 8433290-l-allemagne-et-la-tunisie-signent-un-accord-pour-accelerer-les-refoulements.html
+8433386-un-an-apres-a-chateauroux-villetest-de-la-presidentielle-francaise.html
 8433717-francois-fillon-appelle-ses-partisans-a-resister-avec-une-force-calme-.html
 8433717-francois-fillon-appelle-ses-partisans-a-resister-avec-une-force-calme.html
 8434028-turquie-et-allemagne-s-echarpent-apres-l-annulation-de-meetings-pro-erdogan.html
@@ -5038,6 +5042,7 @@
 8733108-les-diatribes-anti-trump-des-artistes-ne-passent-plus-aux-etats-unis.html
 8733108-les-diatribes-antitrump-des-artistes-ne-passent-plus-aux-etatsunis.html
 8733643-l-affaiblissement-de-la-gauche-latino-americaine.html
+8733643-laffaiblissement-de-la-gauche-latinoamericaine.html
 8733676-l-exhumation-de-dali-ordonnee-apres-une-demande-en-paternite-en-espagne.html
 8733676-lexhumation-de-dali-ordonnee-apres-une-demande-en-paternite-en-espagne.html
 8733894-la-cour-supreme-des-etats-unis-remet-en-vigueur-le-decret-anti-immigration.html
@@ -6001,6 +6006,7 @@
 8861876-soupconne-dhomicide-involontaire-un-oligarque-ukrainien-refugie-a-geneve.html
 8862273-un-ministre-turc-s-en-prend-au-chef-de-la-diplomatie-allemande-sur-twitter.html
 8862354-martin-schulz-face-a-angela-merkel-l-affiche-des-legislatives-allemandes.html
+8862354-martin-schulz-face-a-angela-merkel-laffiche-des-legislatives-allemandes.html
 8862524-le-dumping-social-des-travailleurs-detaches-cible-par-emmanuel-macron.html
 8862547-londres-accepte-de-ne-pas-rompre-totalement-avec-la-cour-de-justice-de-l-ue.html
 8862774-dans-son-livre-hillary-clinton-qualifie-donald-trump-de-sale-type-.html
@@ -6172,6 +6178,7 @@
 8890590-une-solution-militaire-en-coree-du-nord-une-solution-suicidaire-.html
 8890918-donald-trump-pourrait-supprimer-un-programme-de-protection-des-migrants.html
 8890951--an-der-grenze-a-la-frontiere-entre-la-suisse-et-l-allemagne.html
+8890951-an-der-grenze-a-la-frontiere-entre-la-suisse-et-lallemagne.html
 8890963-le-cri-etouffe-des-femmes-violees-par-le-regime-syrien-resonne-encore.html
 8891059-le-prince-william-et-sa-femme-kate-attendent-un-troisieme-enfant.html
 8891107-l-onu-exige-une-enquete-sur-des-crimes-contre-l-humanite-au-burundi.html

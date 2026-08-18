@@ -2833,6 +2833,7 @@
 8281668--en-s-alliant-avec-l-udc-nicolas-voide-devient-un-faire-valoir-de-freysinger-.html
 8281668-l-alliance-entre-nicolas-voide-et-l-udc-surprend-le-monde-politique-valaisan.html
 8288507--je-ne-vois-pas-une-necessite-d-exclure-nicolas-voide-du-pdc-en-valais.html
+8288507-je-ne-vois-pas-une-necessite-dexclure-nicolas-voide-du-pdc-en-valais.html
 8288507-je-soutiens-les-trois-candidats-nommes-par-le-pdc-valaisan.html
 8292099-une-manoeuvre-de-parcage-ratee-fait-deux-morts-au-col-de-la-forclaz.html
 8293550-plus-de-8-kg-de-cannabis-retrouves-dans-une-chaise-roulante-en-valais.html
@@ -2846,10 +2847,13 @@
 8312924-les-valaisans-devront-decider-de-l-avenir-du-loup-dans-les-urnes.html
 8312924-les-valaisans-devront-decider-de-lavenir-du-loup-dans-les-urnes.html
 8312946-le-centre-gauche-pcs-se-lance-dans-la-course-au-conseil-d-etat-valaisan.html
+8312946-le-centre-gauchepcs-se-lance-dans-la-course-au-conseil-detat-valaisan.html
 8318323-thierry-largey-sera-le-candidat-des-verts-au-conseil-d-etat-valaisan.html
+8318323-thierry-largey-sera-le-candidat-des-verts-au-conseil-detat-valaisan.html
 8328265-passe-80-ans-et-toujours-sur-les-pistes-les-papys-skieurs-defient-le-temps.html
 8348760-nouveau-recours-depose-contre-la-ligne-a-haute-tension-prevue-en-valais.html
 8348942-treize-candidatures-au-conseil-d-etat-valaisan-ont-ete-deposees.html
+8348942-treize-candidatures-au-conseil-detat-valaisan-ont-ete-deposees.html
 8351043-les-13-candidats-au-conseil-d-etat-valaisan-croisent-le-fer-avant-le-5-mars.html
 8351043-les-candidats-au-conseil-d-etat-valaisan-croisent-le-fer-avant-le-5-mars.html
 8351043-tourisme-finances-et-emploi-en-valais-debat-des-candidats-au-conseil-d-etat.html
@@ -2929,6 +2933,7 @@
 8488008-en-valais-oskar-freysinger-sort-de-son-silence-apres-son-eviction.html
 8489090-l-udc-du-valais-romand-recours-contre-les-resultats-du-scrutin.html
 8489090-l-udc-valais-romand-recourt-contre-les-resultats-des-cantonales.html
+8489090-ludc-valais-romand-recourt-contre-les-resultats-des-cantonales.html
 8491657-christian-constantin-les-suisses-n-ont-pas-a-voter-sur-le-projet-de-jo-.html
 8491657-christian-constantin-les-suisses-n-ont-pas-a-voter-sur-le-projet-de-jo.html
 8491657-christian-constantin-les-suisses-nont-pas-a-voter-sur-le-projet-de-jo.html
@@ -3325,6 +3330,7 @@
 9442750-les-communes-valaisannes-sont-globalement-en-bonne-sante-financiere.html
 9445728-la-ville-de-sion-se-mobilise-pour-lutter-contre-le-rechauffement-climatique.html
 9446229-les-opposants-a-sion-2026-denoncent-un-projet-mal-ficele-.html
+9446229-les-opposants-a-sion-2026-denoncent-un-projet-mal-ficele.html
 9446925-un-centre-pour-les-technologies-d-assistance-pour-handicapes-a-sierre.html
 9447685-le-patron-de-facebook-pourrait-voir-une-plainte-deposee-contre-lui-en-suisse.html
 9453411-le-valais-amende-christian-constantin-pour-la-flamme-allumee-sur-le-cervin.html
@@ -3370,6 +3376,7 @@
 9516682-nouveau-projet-de-subvention-des-remontees-mecaniques-en-valais.html
 9525835-le-corps-du-dernier-disparu-de-l-avalanche-a-riddes-a-ete-retrouve.html
 9526840-un-nouveau-comite-valaisan-s-oppose-a-la-candidature-sion-2026.html
+9526840-un-nouveau-comite-valaisan-soppose-a-la-candidature-sion-2026.html
 9531944-cinq-morts-et-quatre-blesses-graves-retrouves-au-dessus-d-arolla-vs-.html
 9531944-cinq-morts-et-quatre-blesses-graves-retrouves-audessus-darolla-vs.html
 9531944-quatre-morts-et-cinq-blesses-graves-retrouves-au-dessus-d-arolla-vs-.html
@@ -3382,6 +3389,7 @@
 9539810-un-rescape-d-arolla-temoigne-on-s-est-perdu-quatre-ou-cinq-fois-.html
 9539810-un-rescape-darolla-temoigne-on-sest-perdu-quatre-ou-cinq-fois.html
 9541131-cinq-partis-valaisans-affichent-leur-soutien-aux-jo-2026-a-sion-.html
+9541131-cinq-partis-valaisans-affichent-leur-soutien-aux-jo-2026-a-sion.html
 9541422-le-guide-d-arolla-vs-n-a-pas-quitte-son-groupe-durant-la-nuit-du-drame.html
 9541422-le-guide-darolla-vs-na-pas-quitte-son-groupe-durant-la-nuit-du-drame.html
 9544897-la-candidature-de-sion-aux-jo-2026-divise-les-valaisans-selon-un-sondage.html
@@ -3407,6 +3415,7 @@
 9590965--on-surestime-les-retombees-et-on-sous-estime-les-couts-de-sion-2026-.html
 9590965-on-surestime-les-retombees-et-on-sousestime-les-couts-de-sion-2026.html
 9595997-que-deviendrait-sion-2026-en-cas-de-refus-des-citoyens-de-la-ville-le-10-juin-.html
+9595997-que-deviendrait-sion-2026-en-cas-de-refus-des-citoyens-de-la-ville-le-10-juin.html
 9596394-le-valais-aux-urnes-pour-trancher-sur-le-projet-de-jo-sion-2026.html
 9601729--il-y-a-d-autres-combats-a-mener-que-le-projet-elitiste-des-jo-de-sion-2026-.html
 9601729-il-y-a-dautres-combats-a-mener-que-le-projet-elitiste-des-jo-de-sion-2026.html

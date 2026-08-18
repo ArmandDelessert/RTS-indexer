@@ -460,6 +460,7 @@
 8127288-boire-son-urine-une-pratique-qui-seduit-de-nombreux-suisses.html
 8127619-des-repair-cafes-evitent-2-4-tonnes-de-dechets-en-reparant-800-objets.html
 8128258-axpo-demanderait-4-milliards-en-cas-de-oui-au-texte-sortir-du-nucleaire-.html
+8128258-axpo-demanderait-4-milliards-en-cas-de-oui-au-texte-sortir-du-nucleaire.html
 8128309-les-chaines-suisses-monopolisent-60-des-zones-commerciales-des-gares.html
 8128608-la-suisse-a-interdit-l-entree-a-trois-fois-plus-de-monde-en-2016.html
 8128608-la-suisse-a-interdit-lentree-a-trois-fois-plus-de-monde-en-2016.html
@@ -471,6 +472,7 @@
 8130275-vers-un-compromis-autour-de-la-mise-en-oeuvre-de-linitiative-du-9-fevrier.html
 8130802-approximations-et-erreurs-dans-un-album-collector-pour-enfants-de-coop.html
 8130845-qui-se-trouve-derriere-axpo-en-guerre-contre-la-sortie-du-nucleaire-.html
+8130845-qui-se-trouve-derriere-axpo-en-guerre-contre-la-sortie-du-nucleaire.html
 8132423-le-salaire-de-la-directrice-de-la-poste-n-est-pas-pres-de-diminuer.html
 8132423-le-salaire-de-la-directrice-de-la-poste-nest-pas-pres-de-diminuer.html
 8132493-andrew-holland-quitte-precipitamment-la-direction-de-pro-helvetia.html
@@ -2298,6 +2300,7 @@
 8756717-vague-de-chaleur-prevue-sur-la-suisse-romande-jusquau-weekend.html
 8757856-etude-lancee-a-zoug-sur-une-possible-tarification-de-la-mobilite-en-suisse.html
 8758447-le-nouvel-article-constitutionnel-sur-la-securite-alimentaire-juge-necessaire-.html
+8758447-le-nouvel-article-constitutionnel-sur-la-securite-alimentaire-juge-necessaire.html
 8758540-le-oui-a-la-strategie-energetique-2050-etait-un-oui-a-la-sortie-du-nucleaire.html
 8758544-peu-dindemnisations-demandees-par-les-victimes-de-placements-abusifs.html
 8758898--la-poste-a-une-strategie-insuffisante-en-termes-de-service-public-.html
@@ -2390,6 +2393,7 @@
 8791610-l-evangelique-niklaus-samuel-gugger-va-remplacer-maja-ingold-au-national.html
 8791769-la-suisse-participera-a-une-conference-sur-la-crise-migratoire-a-tunis.html
 8791882-chiara-simoneschi-cortesi-les-gens-ne-veulent-pas-des-choses-extremes-.html
+8791882-chiara-simoneschicortesi-les-gens-ne-veulent-pas-des-choses-extremes.html
 8792362-de-violents-orages-ont-traverse-la-suisse-fribourg-et-berne-touches.html
 8792362-risques-d-orages-violents-sur-la-quasi-totalite-de-la-suisse.html
 8792457-la-secheresse-oblige-des-cantons-a-interdire-le-pompage-de-cours-d-eau.html
@@ -2788,12 +2792,14 @@
 8915810-malgre-une-serie-noire-le-nombre-de-crashes-des-forces-aeriennes-en-baisse.html
 8915836-machiste-le-valais-sur-cinq-elus-au-grand-conseil-un-seul-est-une-femme.html
 8916517--la-prevoyance-vieillesse-2020-est-un-projet-a-la-sauce-hollande-.html
+8916517-la-prevoyance-vieillesse-2020-est-un-projet-a-la-sauce-hollande.html
 8917941-si-les-seniors-qui-deposent-leur-permis-se-voyaient-offrir-des-compensations-.html
 8917941-si-les-seniors-qui-deposent-leur-permis-se-voyaient-offrir-des-compensations.html
 8918088-plusieurs-heures-de-discussions-sur-l-initiative-no-billag-au-parlement.html
 8918282-le-corps-du-pilote-du-pc-7-accidente-a-pu-etre-recupere-par-l-armee.html
 8918984-des-vents-tempetueux-perturbent-le-trafic-en-suisse.html
 8919180--la-reforme-prevoyance-2020-est-positive-pour-la-majorite-des-femmes-.html
+8919180-la-reforme-prevoyance-2020-est-positive-pour-la-majorite-des-femmes.html
 8919397-pierre-maudet-sous-le-feu-des-critiques-pour-ses-positions-sur-l-armee.html
 8919397-pierre-maudet-sous-le-feu-des-critiques-pour-ses-positions-sur-larmee.html
 8919657-la-confederation-demande-plus-d-aide-pour-les-refugies-arrivant-en-libye.html

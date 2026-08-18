@@ -1437,6 +1437,7 @@
 9378288-une-personne-arretee-apres-une-alerte-a-la-bombe-a-berne.html
 9393395-la-centrale-de-muhleberg-fonctionne-a-nouveau-normalement.html
 9393594-le-debat-entre-les-candidats-romands-au-conseil-d-etat-bernois.html
+9393594-le-debat-entre-les-candidats-romands-au-conseil-detat-bernois.html
 9395893-les-employees-de-la-ville-de-berne-auront-dorenavant-conge-le-8-mars-.html
 9395893-les-employees-de-la-ville-de-berne-auront-dorenavant-conge-le-8-mars.html
 9418905-un-rapport-renforce-les-soupcons-de-tourisme-electoral-a-moutier.html
@@ -1445,6 +1446,7 @@
 9437435-les-bernois-aux-urnes-pour-choisir-leurs-autorites-cantonales.html
 9437435-les-conseillers-d-etat-bernois-sortants-font-la-course-en-tete.html
 9446900-apres-les-elections-les-conseillers-d-etat-bernois-ont-choisi-leur-dicastere.html
+9446900-apres-les-elections-les-conseillers-detat-bernois-ont-choisi-leur-dicastere.html
 9449168-les-montants-de-l-aide-sociale-dans-le-canton-de-berne-revus-a-la-baisse.html
 9449168-les-montants-de-laide-sociale-dans-le-canton-de-berne-revus-a-la-baisse.html
 9469267-razzia-anti-drogue-pres-du-centre-alternatif-de-la-reitschule-a-berne.html

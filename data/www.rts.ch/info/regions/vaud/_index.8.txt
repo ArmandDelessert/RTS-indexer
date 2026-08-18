@@ -242,11 +242,13 @@
 8495982-les-candidats-au-conseil-d-etat-vaudois-debattent-avant-le-30-avril.html
 8497962-pascal-broulis-accuse-de-mettre-en-danger-le-patrimoine-vaudois.html
 8498567-des-gymnasiens-interrogent-quatre-candidats-au-conseil-d-etat-vaudois.html
+8498567-des-gymnasiens-interrogent-quatre-candidats-au-conseil-detat-vaudois.html
 8505239-les-comptes-du-canton-de-vaud-en-noir-pour-la-12e-annee-consecutive.html
 8505386-apres-un-projet-controverse-le-toit-du-parlement-vaudois-vu-de-l-interieur.html
 8514131-le-licenciement-d-un-pasteur-a-froideville-agite-l-eglise-vaudoise.html
 8514242-interpelle-a-vallorbe-avec-400-grammes-de-cocaine-dans-l-estomac.html
 8515083-les-candidats-au-conseil-d-etat-vaudois-s-echarpent-sur-la-croissance.html
+8515083-les-candidats-au-conseil-detat-vaudois-secharpent-sur-la-croissance.html
 8517557-moudon-pourrait-accueillir-un-centre-federal-pour-requerants-d-asile.html
 8517557-moudon-pourrait-accueillir-un-centre-federal-pour-requerants-dasile.html
 8517604-huit-medecins-sur-dix-denoncent-un-harcelement-administratif-.html
@@ -309,6 +311,7 @@
 8597139-bapteme-de-l-air-reussi-pour-l-avion-solaire-solarstratos-a-payerne.html
 8597139-bapteme-de-lair-reussi-pour-lavion-solaire-solarstratos-a-payerne.html
 8598134-l-alliance-de-la-droite-vaudoise-mise-sur-des-tensions-constructives-.html
+8598134-lalliance-de-la-droite-vaudoise-mise-sur-des-tensions-constructives.html
 8606969-l-initiative-de-l-udc-vaudoise-contre-l-integrisme-religieux-a-echoue.html
 8607616-debat-entre-les-6-candidats-pour-le-2e-tour-au-conseil-d-etat-vaudois.html
 8607616-debat-entre-les-six-candidats-avant-le-second-tour-au-conseil-d-etat-vaudois.html
@@ -332,6 +335,7 @@
 8637279-plus-de-2800-personnes-defilent-contre-l-agrochimie-a-morges-et-a-bale.html
 8637279-plus-de-2800-personnes-defilent-contre-lagrochimie-a-morges-et-a-bale.html
 8641530-faible-mobilisation-de-l-electorat-de-droite-au-2e-tour-au-conseil-d-etat-vaudois.html
+8641530-faible-mobilisation-de-lelectorat-de-droite-au-2e-tour-au-conseil-detat-vaudois.html
 8644327-le-grand-conseil-vaudois-accorde-46-millions-pour-le-tunnel-du-leb.html
 8648217-un-fourgon-braque-sur-l-a1-pres-de-nyon-les-voleurs-arretes-en-france.html
 8648217-un-fourgon-braque-sur-la1-pres-de-nyon-les-voleurs-arretes-en-france.html

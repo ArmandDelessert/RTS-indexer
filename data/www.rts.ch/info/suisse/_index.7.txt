@@ -670,6 +670,7 @@
 7241179-l-argent-nous-rend-inegaux-face-a-la-maladie-estime-dominique-warluzel.html
 7241179-largent-nous-rend-inegaux-face-a-la-maladie-estime-dominique-warluzel.html
 7241215-johann-schneider-ammann-a-envie-de-garder-son-departement-.html
+7241215-johann-schneiderammann-a-envie-de-garder-son-departement-federal.html
 7242053-une-centaine-d-ecoliers-recus-a-berne-par-la-presidente-simonetta-sommaruga.html
 7242053-une-centaine-d-ecoliers-recus-a-berne-par-la-presidente-sommaruga.html
 7244273-des-cantons-demandent-le-plan-d-urgence-face-a-l-afflux-de-requerants.html
@@ -945,6 +946,7 @@
 7324974-romands-femmes-udc-et-paysans-l-election-de-guy-parmelin-en-chiffres.html
 7324974-romands-femmes-udc-et-paysans-lelection-de-guy-parmelin-en-chiffres.html
 7325678-guy-parmelin-heriteratil-du-departement-federal-de-linterieur.html
+7325705-le-conseil-federal-est-loin-detre-fidele-au-poids-demographique-des-cantons.html
 7325785-l-election-de-guy-parmelin-au-conseil-federal-enthousiasme-peu-les-partis.html
 7325802-guy-parmelin-le-plus-dur-commence-il-s-agira-de-ne-pas-decevoir-.html
 7325802-guy-parmelin-le-plus-dur-commence-il-s-agira-de-ne-pas-decevoir.html
@@ -2756,6 +2758,7 @@
 7855982-le-centre-et-la-gauche-desormais-unis-contre-la-retraite-a-67-ans.html
 7856413-brexit-une-chance-de-collaboration-intensifiee-pour-les-universites-suisses-.html
 7856413-le-brexit-une-chance-de-collaboration-intensifiee-pour-les-universites-suisses-.html
+7856413-le-brexit-une-chance-de-collaboration-intensifiee-pour-les-universites-suisses.html
 7856583-des-mesures-locales-preconisees-contre-la-radicalisation-islamiste.html
 7857452-retour-a-la-normale-du-trafic-ferroviaire-entre-berne-et-fribourg-.html
 7857452-trafic-cff-entre-berne-et-fribourg-interrompu-grandes-lignes-touchees-.html
@@ -2842,6 +2845,7 @@
 7874013-le-cap-des-200-000-suisses-vivant-en-france-est-depasse.html
 7874013-le-cap-des-200000-suisses-vivant-en-france-est-depasse.html
 7875017-les-discussions-avec-l-ue-risquent-d-occuper-le-conseil-federal-tout-l-ete.html
+7875017-les-discussions-avec-lue-risquent-doccuper-le-conseil-federal-tout-lete.html
 7876134-en-suisse-les-2-les-plus-riches-possedent-autant-que-tous-les-autres.html
 7876470-les-paysans-suisses-recoivent-entre-34-et-52-centimes-par-franc-depense.html
 7876811-les-romands-passent-en-moyenne-deux-heures-et-demie-devant-leur-televiseur.html

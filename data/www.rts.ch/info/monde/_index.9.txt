@@ -1115,6 +1115,7 @@
 9210897-lineligibilite-dalexei-navalny-confirmee-par-la-cour-supreme-russe.html
 9211071-interpelle-l-auteur-de-l-attentat-de-saint-petersbourg-passe-aux-aveux.html
 9211088-les-grandes-personnalites-mondiales-disparues-durant-l-annee-2017.html
+9211088-les-grandes-personnalites-mondiales-disparues-durant-lannee-2017.html
 9211145-la-france-devient-le-premier-pays-a-programmer-la-fin-des-hydrocarbures.html
 9211448-depuis-bruxelles-puigdemont-exige-la-restauration-du-gouvernement-catalan.html
 9211537-la-colombie-achemine-50-tonnes-de-jambon-au-venezuela.html
@@ -2675,6 +2676,7 @@
 9507171-le-franco-espagnol-manuel-valls-etudie-une-candidature-a-barcelone.html
 9507171-le-francoespagnol-manuel-valls-etudie-une-candidature-a-barcelone.html
 9507278--il-faut-en-finir-avec-l-heritage-impossible-de-mai-68-.html
+9507278-il-faut-en-finir-avec-lheritage-impossible-de-mai-68.html
 9508006-une-bombe-de-la-seconde-guerre-mondiale-desamorcee-en-plein-berlin.html
 9508209-le-parti-democrate-porte-plainte-contre-la-russie-et-l-equipe-trump.html
 9508209-le-parti-democrate-porte-plainte-contre-la-russie-et-lequipe-trump.html
