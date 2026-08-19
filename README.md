@@ -65,10 +65,13 @@ python -m rts_indexer <commande> [options]
 | `verify` | Contrôle quelles URLs répondent encore, pose/retire le sigil `!`. |
 | `dedupe` | Supprime les URLs journalisées comme doublons par `verify`. |
 | `purge` | Supprime de l'index les URLs actuellement marquées mortes. |
+| `import` | Ajoute à l'index des URLs listées dans un fichier texte. |
+| `anomalies` | Inventorie et nettoie le journal d'anomalies. |
 | `build` | Relit et réécrit `data/` (tri, sharding, purge) sans rien collecter. |
 | `site` | Génère la page web de consultation (`site/index.html`). |
 | `stats` | Affiche les compteurs de l'index. |
 | `list` | Reconstruit et affiche les URLs complètes depuis `data/`. |
+| `run` | Enchaîne plusieurs commandes sur un seul chargement/écriture. |
 
 ### `sitemap`
 
@@ -218,6 +221,37 @@ python -m rts_indexer verify --dead-only   # reconfirme (ou ressuscite) chaque U
 python -m rts_indexer purge                # supprime celles qui le sont encore
 ```
 
+### `import`
+
+```bash
+python -m rts_indexer import fichier.txt [--check] [--dry-run] [--limit N]
+```
+
+Ajoute des URLs relevées à la main — typiquement repérées via un moteur de recherche, dont aucune
+source ne ramène le lien faute de page vivante qui y pointe encore. Une URL par ligne dans
+`fichier.txt` ; `#` en début de ligne commente, les lignes vides sont ignorées.
+
+`--check` contrôle chaque URL avant l'ajout (une requête chacune, au même débit poli que
+`verify`) : les mortes sont écartées, et une redirection fait indexer la **cible** plutôt que
+l'URL demandée — sinon on introduirait soi-même un doublon que `dedupe` devrait retirer ensuite.
+Sans `--check`, une liste tapée à la main peut faire entrer des URLs mortes ou obsolètes ; avec,
+le surcoût est d'une requête par URL, raisonnable pour le volume typique d'un import manuel
+(quelques dizaines d'URLs) — pas pour les sources automatiques, qui publient des URLs déjà
+canoniques et vivantes par construction.
+
+### `anomalies`
+
+```bash
+python -m rts_indexer anomalies [--check] [--drop-dead] [--drop-out-of-scope]
+```
+
+Sans option, inventorie `_anomalies.tsv` par type. `--check` contrôle les URLs concernées ;
+`--drop-dead` (qui implique `--check`) retire du journal celles confirmées mortes, et de l'index
+si elles y étaient (cas `hors_perimetre` — `trop_long` n'y a jamais pu entrer).
+`--drop-out-of-scope` retire les `hors_perimetre` sans recontrôle réseau : contrairement à la
+vivacité, « redirige hors périmètre » est un fait structurel (mauvais hôte, mauvais format) qui
+ne change pas — le constat déjà posé par `verify`/`dedupe` fait foi.
+
 ### `site`
 
 ```bash
@@ -250,6 +284,32 @@ autrement — et de rattraper une dérive externe. Il est lancé chaque semaine 
 | `mortes` | URLs pour lesquelles `verify` a obtenu un 404 ou 410 confirmé (sigil `!`). Reste petit tant que `verify` n'a tourné que sur un échantillon — ce n'est pas « peu d'URLs mortes », c'est « peu d'URLs *contrôlées*. » |
 | `dossiers` | Segments de chemin distincts sous `data/` (une entrée par `_index.txt`, hors shards). |
 | `anomalies` | Lignes dans `_anomalies.tsv`, de quatre types : `trop_long` (chemin projeté au-delà de `MAX_REL_PATH_LEN`), `collision` (deux URLs ne différant que par la casse visent le même chemin disque, NTFS étant insensible à la casse), `doublon` (l'URL redirige vers une autre du périmètre, constaté par `verify` — actionnable par `dedupe`), et `hors_perimetre` (l'URL redirige hors périmètre, ex. vers `img.rts.ch` — ce n'est pas un vrai doublon, rien dans l'index n'en fait double emploi, et `dedupe` ne le résoudra jamais). |
+
+### `run`
+
+```bash
+python -m rts_indexer run [--file commandes.txt]     # sinon, lit l'entrée standard
+```
+
+Enchaîne plusieurs commandes sur un seul chargement et une seule écriture de l'index, au lieu d'un
+cycle complet — plusieurs minutes — par commande. Une commande complète par ligne, avec ses
+propres options ; `#` commente, les lignes vides sont ignorées :
+
+```
+sitemap
+crawl --max-pages 1500
+verify --limit 2000
+build
+```
+
+La chaîne s'arrête à la première commande qui échoue (code de retour non nul), et écrit alors ce
+qui a été accumulé jusque-là. Chaque commande garde sa propre résilience réseau : une interruption
+ou une erreur au milieu d'une collecte (`crawl`, `wayback`, `verify`...) écrit immédiatement,
+sans attendre une fin de chaîne qui n'arriverait pas. `build`, de même, écrit toujours sur-le-champ
+— différer son `force=True` à la fin de la chaîne le viderait de son sens.
+
+C'est le format qu'utilise déjà `_collecte.yml` (une commande par ligne) : le workflow pourrait
+n'invoquer qu'un seul `run` plutôt que de boucler côté shell sur chaque ligne.
 
 ## Écriture sélective
 
