@@ -1,6 +1,7 @@
 """Tests du CLI : surtout la résilience de `crawl` face à l'imprévu."""
 
 import argparse
+import io
 
 import pytest
 
@@ -203,3 +204,115 @@ def test_anomalies_inventorie_sans_rien_toucher(tmp_path, capsys):
     assert "trop_long" in sortie
     assert "hors_perimetre" in sortie
     assert dict(Store(tmp_path).load().urls()) == {ARTICLE: False}  # rien touché
+
+
+def test_anomalies_drop_out_of_scope_retire_sans_recontroler(tmp_path, capsys):
+    """Pas de recontrôle réseau : le constat de `verify` fait déjà foi."""
+    autre = "https://www.rts.ch/info/suisse/2026/article/y-2.html"
+    store = Store(tmp_path)
+    store.add_many([ARTICLE, autre])
+    store.anomalies.add(("hors_perimetre", ARTICLE, "https://img.rts.ch/x.image"))
+    store.write()
+
+    code = cli.main(["--data-dir", str(tmp_path), "anomalies", "--drop-out-of-scope"])
+
+    assert code == 0
+    assert "1 URLs hors périmètre supprimées" in capsys.readouterr().out
+    assert dict(Store(tmp_path).load().urls()) == {autre: False}
+    assert Store(tmp_path).load().anomalies == set()
+
+
+def test_anomalies_drop_out_of_scope_ignore_les_doublons(tmp_path, capsys):
+    store = Store(tmp_path)
+    store.add(ARTICLE)
+    store.anomalies.add(("doublon", ARTICLE, "https://www.rts.ch/autre.html"))
+    store.write()
+
+    cli.main(["--data-dir", str(tmp_path), "anomalies", "--drop-out-of-scope"])
+
+    assert dict(Store(tmp_path).load().urls()) == {ARTICLE: False}
+    assert ("doublon", ARTICLE, "https://www.rts.ch/autre.html") in Store(tmp_path).load().anomalies
+
+
+# -- run ---------------------------------------------------------------------
+
+
+def test_run_enchaine_plusieurs_commandes_sur_un_seul_store(tmp_path, monkeypatch, capsys):
+    """Le point de `run` : un seul load()/write() pour toute la chaîne, pas un
+    par commande. On le vérifie en comptant les vrais appels à Store.write."""
+    vivante = "https://www.rts.ch/info/suisse/2026/article/x-1.html"
+    morte = "https://www.rts.ch/info/suisse/2026/article/x-2.html"
+    store = Store(tmp_path)
+    store.add_many([vivante, morte])
+    store.add(morte, dead=True)
+    store.anomalies.add(("doublon", morte, vivante))
+    store.write()
+
+    appels = []
+    original = Store.write
+
+    def write_compte(self, **kwargs):
+        appels.append(1)
+        return original(self, **kwargs)
+
+    monkeypatch.setattr(Store, "write", write_compte)
+    monkeypatch.setattr(cli.sys, "stdin", io.StringIO("purge\ndedupe\n"))
+
+    code = cli.main(["--data-dir", str(tmp_path), "run"])
+
+    assert code == 0
+    assert len(appels) == 1  # une seule écriture pour les deux commandes
+    assert dict(Store(tmp_path).load().urls()) == {vivante: False}  # morte purgée
+
+
+def test_run_lit_depuis_un_fichier(tmp_path):
+    store = Store(tmp_path)
+    store.add("https://www.rts.ch/info/suisse/2026/article/x-1.html")
+    store.write()
+
+    liste = tmp_path / "commandes.txt"
+    liste.write_text("# un commentaire\nstats\n", encoding="utf-8")
+
+    code = cli.main(["--data-dir", str(tmp_path), "run", "--file", str(liste)])
+    assert code == 0
+
+
+def test_run_s_arrete_a_la_premiere_commande_en_echec(tmp_path, monkeypatch, capsys):
+    """`crawl` sur un index sans rubrique renvoie 1 : la chaîne doit s'arrêter
+    là, pas continuer sur les commandes suivantes."""
+    store = Store(tmp_path)
+    store.write()  # index vide, sans rubrique
+
+    monkeypatch.setattr(cli.sys, "stdin", io.StringIO("crawl\nstats\n"))
+    code = cli.main(["--data-dir", str(tmp_path), "run"])
+
+    assert code == 1
+    assert "Aucune rubrique" in capsys.readouterr().err
+
+
+def test_run_ignore_une_ligne_invalide_et_continue(tmp_path, monkeypatch, capsys):
+    store = Store(tmp_path)
+    store.add("https://www.rts.ch/info/suisse/2026/article/x-1.html")
+    store.write()
+
+    monkeypatch.setattr(cli.sys, "stdin", io.StringIO("--option-inconnue\nstats\n"))
+    code = cli.main(["--data-dir", str(tmp_path), "run"])
+
+    assert code == 0
+    assert "commande invalide, ignorée" in capsys.readouterr().err
+
+
+def test_run_sans_commandes_est_une_erreur(tmp_path, monkeypatch):
+    store = Store(tmp_path)
+    store.write()
+    monkeypatch.setattr(cli.sys, "stdin", io.StringIO("\n# rien que des commentaires\n"))
+    assert cli.main(["--data-dir", str(tmp_path), "run"]) == 1
+
+
+def test_run_imbrique_est_refuse(tmp_path, monkeypatch, capsys):
+    store = Store(tmp_path)
+    store.write()
+    monkeypatch.setattr(cli.sys, "stdin", io.StringIO("run\n"))
+    code = cli.main(["--data-dir", str(tmp_path), "run"])
+    assert code == 1
+    assert "imbriqué" in capsys.readouterr().err

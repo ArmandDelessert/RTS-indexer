@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import logging
+import shlex
 import sys
 import time
 from pathlib import Path
@@ -60,21 +61,23 @@ def _report(stats: dict[str, int]) -> None:
         print(f"{'duree':<{width}}  {_duree(time.monotonic() - _DEBUT):>9}")
 
 
-def cmd_sitemap(args: argparse.Namespace) -> int:
+def cmd_sitemap(args: argparse.Namespace, store: Store | None = None) -> int:
     urls = sitemap.collect()
     print(f"{len(urls)} URLs canoniques collectées depuis les sitemaps")
     if args.dry_run:
         for url in urls[: args.limit]:
             print(f"  {url}")
         return 0
-    store = _store(args).load()
+    proprietaire = store is None
+    store = store if store is not None else _store(args).load()
     added = store.add_many(urls)
     print(f"{added} nouvelles")
-    _report(store.write())
+    if proprietaire:
+        _report(store.write())
     return 0
 
 
-def cmd_rss(args: argparse.Namespace) -> int:
+def cmd_rss(args: argparse.Namespace, store: Store | None = None) -> int:
     """Collecte les articles fraîchement publiés depuis les flux RSS."""
     urls = rss.collect()
     print(f"{len(urls)} URLs collectées depuis {len(rss.feed_urls())} flux RSS")
@@ -82,16 +85,19 @@ def cmd_rss(args: argparse.Namespace) -> int:
         for url in urls[: args.limit]:
             print(f"  {url}")
         return 0
-    store = _store(args).load()
+    proprietaire = store is None
+    store = store if store is not None else _store(args).load()
     added = store.add_many(urls)
     print(f"{added} nouvelles")
-    _report(store.write())
+    if proprietaire:
+        _report(store.write())
     return 0
 
 
-def cmd_crawl(args: argparse.Namespace) -> int:
+def cmd_crawl(args: argparse.Namespace, store: Store | None = None) -> int:
     """Parcourt les rubriques déjà connues pour en extraire les articles."""
-    store = _store(args).load()
+    proprietaire = store is None
+    store = store if store is not None else _store(args).load()
     known = [url for url, _ in store.urls() if url.endswith("/")]
     if not known:
         print(
@@ -114,7 +120,10 @@ def cmd_crawl(args: argparse.Namespace) -> int:
         )
     except KeyboardInterrupt:
         # Une interruption volontaire (Ctrl+C) n'est pas une erreur : pas de
-        # trace complète, juste la confirmation que rien n'est perdu.
+        # trace complète, juste la confirmation que rien n'est perdu. Écrit
+        # immédiatement même au sein d'un `run` : au moment où on sait qu'on
+        # s'arrête, mieux vaut sauver ce qui existe que respecter à la lettre
+        # la règle « un seul write en fin de chaîne ».
         print("\nInterruption : écriture des URLs déjà découvertes...", file=sys.stderr)
         _report(store.write())
         raise
@@ -129,13 +138,15 @@ def cmd_crawl(args: argparse.Namespace) -> int:
         f"{crawler.fetched} pages visitées "
         f"({crawler.from_cache} inchangées), {crawler.discovered} URLs nouvelles"
     )
-    _report(store.write())
+    if proprietaire:
+        _report(store.write())
     return 0
 
 
-def cmd_wayback(args: argparse.Namespace) -> int:
+def cmd_wayback(args: argparse.Namespace, store: Store | None = None) -> int:
     """Collecte l'archive historique via l'API CDX d'Internet Archive."""
-    store = _store(args).load()
+    proprietaire = store is None
+    store = store if store is not None else _store(args).load()
     try:
         client = wayback.collect(store, max_pages=args.max_pages, reset=args.reset)
     except KeyboardInterrupt:
@@ -151,13 +162,15 @@ def cmd_wayback(args: argparse.Namespace) -> int:
         f"{client.pages_fetched} pages CDX, {client.rows_seen} lignes brutes, "
         f"{getattr(client, 'added', 0)} URLs nouvelles"
     )
-    _report(store.write())
+    if proprietaire:
+        _report(store.write())
     return 0
 
 
-def cmd_commoncrawl(args: argparse.Namespace) -> int:
+def cmd_commoncrawl(args: argparse.Namespace, store: Store | None = None) -> int:
     """Collecte l'archive de la fondation Common Crawl."""
-    store = _store(args).load()
+    proprietaire = store is None
+    store = store if store is not None else _store(args).load()
     try:
         client = commoncrawl.collect(
             store,
@@ -179,13 +192,15 @@ def cmd_commoncrawl(args: argparse.Namespace) -> int:
         f"{client.pages_fetched} pages CDX, {client.rows_seen} lignes brutes, "
         f"{client.added} URLs nouvelles"
     )
-    _report(store.write())
+    if proprietaire:
+        _report(store.write())
     return 0
 
 
-def cmd_verify(args: argparse.Namespace) -> int:
+def cmd_verify(args: argparse.Namespace, store: Store | None = None) -> int:
     """Contrôle la vivacité des URLs indexées et met à jour le sigil `!`."""
-    store = _store(args).load()
+    proprietaire = store is None
+    store = store if store is not None else _store(args).load()
     if not store.dirs:
         print("Index vide. Lancer d'abord: python -m rts_indexer sitemap", file=sys.stderr)
         return 1
@@ -219,23 +234,26 @@ def cmd_verify(args: argparse.Namespace) -> int:
             f"{len(verifier.redirections)} URLs redirigent ailleurs "
             f"(doublons probables, journalisés dans {config.ANOMALIES_FILE})"
         )
-    _report(store.write())
+    if proprietaire:
+        _report(store.write())
     return 0
 
 
-def cmd_dedupe(args: argparse.Namespace) -> int:
+def cmd_dedupe(args: argparse.Namespace, store: Store | None = None) -> int:
     """Supprime les URLs journalisées comme doublons par `verify`."""
-    store = _store(args).load()
+    proprietaire = store is None
+    store = store if store is not None else _store(args).load()
     supprimes, ajoutees, ignores = store.resolve_doublons()
     print(
         f"{supprimes} doublons supprimés ({ajoutees} cibles nouvellement indexées), "
         f"{ignores} requalifiés hors périmètre (pas de vrai doublon)"
     )
-    _report(store.write())
+    if proprietaire:
+        _report(store.write())
     return 0
 
 
-def cmd_import(args: argparse.Namespace) -> int:
+def cmd_import(args: argparse.Namespace, store: Store | None = None) -> int:
     """Ajoute à l'index des URLs listées dans un fichier texte."""
     retenues, rejetees = fichier.lire(args.fichier)
     print(f"{len(retenues)} URLs retenues, {len(rejetees)} rejetées (hors périmètre ou malformées)")
@@ -264,10 +282,12 @@ def cmd_import(args: argparse.Namespace) -> int:
         print("(--dry-run : rien n'a été écrit)")
         return 0
 
-    store = _store(args).load()
+    proprietaire = store is None
+    store = store if store is not None else _store(args).load()
     ajoutees = store.add_many(a_ajouter)
     print(f"{ajoutees} nouvelles URLs dans l'index ({len(a_ajouter) - ajoutees} déjà connues)")
-    _report(store.write())
+    if proprietaire:
+        _report(store.write())
     return 0
 
 
@@ -313,77 +333,109 @@ def _trier_verdicts(
     return list(vivantes), mortes, redirigees, douteuses
 
 
-def cmd_purge(args: argparse.Namespace) -> int:
+def cmd_purge(args: argparse.Namespace, store: Store | None = None) -> int:
     """Supprime de l'index les URLs actuellement marquées mortes.
 
     Par défaut, une URL morte reste indexée (sigil `!`) — cette commande
     n'est là que pour qui préfère explicitement un index de contenu vivant.
     Ne recontrôle rien : lancer `verify --dead-only` avant, pas à la place.
     """
-    store = _store(args).load()
+    proprietaire = store is None
+    store = store if store is not None else _store(args).load()
     supprimees = store.purge_dead()
     print(f"{supprimees} URLs mortes supprimées de l'index")
-    _report(store.write())
+    if proprietaire:
+        _report(store.write())
     return 0
 
 
-def cmd_anomalies(args: argparse.Namespace) -> int:
+def cmd_anomalies(args: argparse.Namespace, store: Store | None = None) -> int:
     """Inventorie les anomalies, et fait le ménage de celles qui ne mènent nulle part."""
-    store = _store(args).load()
+    proprietaire = store is None
+    store = store if store is not None else _store(args).load()
     par_type: dict[str, int] = {}
     for genre, _, _ in store.anomalies:
         par_type[genre] = par_type.get(genre, 0) + 1
     for genre, n in sorted(par_type.items(), key=lambda kv: -kv[1]):
         print(f"{n:>6}  {genre}")
 
-    if not (args.check or args.drop_dead):
-        print("\n(--check pour contrôler ces URLs, --drop-dead pour retirer celles qui sont mortes)")
-        return 0
+    ecrire = False
 
-    concernees = sorted({url for _, url, _ in store.anomalies})
-    print(f"\ncontrôle de {len(concernees)} URLs...")
-    verdicts = verify_module.check_urls(concernees)
+    if args.drop_out_of_scope:
+        # Pas besoin de recontrôler : « redirige hors périmètre » est un fait
+        # structurel (mauvais hôte, mauvais format), pas un état qui flappe
+        # comme la vivacité. On fait confiance au constat déjà posé par
+        # `verify`/`dedupe` au moment de la détection.
+        hors_perimetre = [t for t in store.anomalies if t[0] == "hors_perimetre"]
+        retirees = 0
+        for genre, url, detail in hors_perimetre:
+            store.anomalies.discard((genre, url, detail))
+            if store.remove(url):
+                retirees += 1
+        print(f"{retirees} URLs hors périmètre supprimées de l'index")
+        ecrire = ecrire or retirees > 0
 
-    mortes = {
-        url
-        for url, (code, _) in verdicts.items()
-        if code in config.VERIFY_DEAD_CODES
-    }
-    print(f"{len(mortes)} mortes, {len(concernees) - len(mortes)} encore vivantes ou non concluantes")
+    if args.check or args.drop_dead:
+        concernees = sorted({url for _, url, _ in store.anomalies})
+        print(f"\ncontrôle de {len(concernees)} URLs...")
+        verdicts = verify_module.check_urls(concernees)
 
-    if not args.drop_dead:
-        print("(--drop-dead pour les retirer de l'index et du journal d'anomalies)")
-        return 0
+        mortes = {
+            url
+            for url, (code, _) in verdicts.items()
+            if code in config.VERIFY_DEAD_CODES
+        }
+        print(f"{len(mortes)} mortes, {len(concernees) - len(mortes)} encore vivantes ou non concluantes")
 
-    retirees_index = 0
-    for genre, url, detail in list(store.anomalies):
-        if url not in mortes:
-            continue
-        store.anomalies.discard((genre, url, detail))
-        # `trop_long` n'a jamais pu entrer dans l'index (c'est précisément son
-        # motif) : il n'y a que la ligne de journal à retirer.
-        if store.remove(url):
-            retirees_index += 1
-    print(f"{len(mortes)} anomalies retirées, dont {retirees_index} URLs ôtées de l'index")
-    _report(store.write())
+        if args.drop_dead:
+            retirees_index = 0
+            for genre, url, detail in list(store.anomalies):
+                if url not in mortes:
+                    continue
+                store.anomalies.discard((genre, url, detail))
+                # `trop_long` n'a jamais pu entrer dans l'index (c'est
+                # précisément son motif) : il n'y a que la ligne de journal à
+                # retirer.
+                if store.remove(url):
+                    retirees_index += 1
+            print(f"{len(mortes)} anomalies retirées, dont {retirees_index} URLs ôtées de l'index")
+            ecrire = True
+        else:
+            print("(--drop-dead pour les retirer de l'index et du journal d'anomalies)")
+    elif not args.drop_out_of_scope:
+        print(
+            "\n(--check pour contrôler ces URLs, --drop-dead pour retirer celles qui sont "
+            "mortes, --drop-out-of-scope pour retirer celles hors périmètre)"
+        )
+
+    if ecrire and proprietaire:
+        _report(store.write())
     return 0
 
 
-def cmd_build(args: argparse.Namespace) -> int:
+def cmd_build(args: argparse.Namespace, store: Store | None = None) -> int:
     """Relit puis réécrit ``/data`` : renormalise le tri et le sharding.
 
     ``force`` : c'est la seule commande qui réécrit même les dossiers
     inchangés. Un changement de seuil de sharding ou de projection des chemins
     ne salit aucun dossier — rien en mémoire n'a bougé — et resterait donc sans
     effet si ``build`` se contentait de l'écriture sélective.
+
+    Écrit toujours immédiatement, même au sein d'un ``run`` : contrairement
+    aux autres commandes, où écrire est un détail d'intendance, c'est ici
+    tout l'intérêt de la commande. La déférer à la fin de la chaîne ferait
+    perdre le ``force=True`` — un ``write()`` ordinaire plus tard ne
+    trouverait de toute façon plus rien à faire, donc rien n'est gâché,
+    mais rien n'est gagné non plus à attendre.
     """
-    _report(_store(args).load().write(force=True))
+    store = store if store is not None else _store(args).load()
+    _report(store.write(force=True))
     return 0
 
 
-def cmd_site(args: argparse.Namespace) -> int:
+def cmd_site(args: argparse.Namespace, store: Store | None = None) -> int:
     """Génère la page web de consultation de l'index."""
-    store = _store(args).load()
+    store = store if store is not None else _store(args).load()
     if not store.dirs:
         print("Index vide. Lancer d'abord: python -m rts_indexer sitemap", file=sys.stderr)
         return 1
@@ -393,17 +445,73 @@ def cmd_site(args: argparse.Namespace) -> int:
     return 0
 
 
-def cmd_stats(args: argparse.Namespace) -> int:
-    _report(_store(args).load().stats())
+def cmd_stats(args: argparse.Namespace, store: Store | None = None) -> int:
+    store = store if store is not None else _store(args).load()
+    _report(store.stats())
     return 0
 
 
-def cmd_list(args: argparse.Namespace) -> int:
+def cmd_list(args: argparse.Namespace, store: Store | None = None) -> int:
     """Reconstruit les URLs complètes depuis ``/data`` (contrôle du mapping)."""
-    for index, (url, dead) in enumerate(_store(args).load().urls()):
+    store = store if store is not None else _store(args).load()
+    for index, (url, dead) in enumerate(store.urls()):
         if args.limit and index >= args.limit:
             break
         print(f"{'!' if dead else ' '} {url}")
+    return 0
+
+
+def cmd_run(args: argparse.Namespace, store: Store | None = None) -> int:
+    """Enchaîne plusieurs commandes sur un seul chargement et une seule écriture.
+
+    Chaque commande est une ligne complète, avec ses propres options — le
+    format qu'utilisent déjà les workflows GitHub Actions
+    (``_collecte.yml``). Sans ça, un enchaînement de N commandes paie N
+    cycles complets de lecture/écriture de l'index (le poste de coût
+    dominant, mesuré à plusieurs minutes chacun) pour un travail qui n'en
+    nécessite qu'un.
+
+    Chaque commande reste responsable de sa propre résilience : une
+    interruption ou une erreur au milieu d'une étape écrit immédiatement ce
+    qui a été accumulé (voir ``cmd_crawl`` et consorts), plutôt que
+    d'attendre une fin de chaîne qui n'arrivera pas.
+
+    ``store`` n'est accepté que pour la cohérence de signature avec les
+    autres commandes (``run`` peut apparaître comme ligne dans un fichier
+    passé à un autre ``run``) ; un ``run`` imbriqué n'est pas pris en charge
+    — relire l'entrée standard depuis l'intérieur d'une chaîne n'a pas de
+    sens.
+    """
+    if store is not None:
+        print("run ne peut pas être imbriqué dans un autre run", file=sys.stderr)
+        return 1
+    texte = Path(args.file).read_text(encoding="utf-8") if args.file else sys.stdin.read()
+    lignes = [
+        ligne.strip()
+        for ligne in texte.splitlines()
+        if ligne.strip() and not ligne.strip().startswith("#")
+    ]
+    if not lignes:
+        print("Aucune commande à exécuter (fichier ou entrée standard vides).", file=sys.stderr)
+        return 1
+
+    store = _store(args).load()
+    parser = build_parser()
+    for ligne in lignes:
+        print(f"--- {ligne} ---")
+        try:
+            sous_args = parser.parse_args(shlex.split(ligne))
+        except SystemExit:
+            print(f"commande invalide, ignorée : {ligne}", file=sys.stderr)
+            continue
+        sous_args.data_dir = args.data_dir  # un seul index pour toute la chaîne
+        code = sous_args.func(sous_args, store=store)
+        if code:
+            print(f"« {ligne} » a échoué (code {code}), arrêt de la chaîne", file=sys.stderr)
+            _report(store.write())
+            return code
+
+    _report(store.write())
     return 0
 
 
@@ -563,6 +671,11 @@ def build_parser() -> argparse.ArgumentParser:
         action="store_true",
         help="retirer les anomalies dont l'URL est morte (implique --check)",
     )
+    p.add_argument(
+        "--drop-out-of-scope",
+        action="store_true",
+        help="retirer de l'index les URLs hors_perimetre (redirigent hors périmètre, pas de recontrôle)",
+    )
     p.set_defaults(func=cmd_anomalies)
 
     p = sub.add_parser("build", help="relit et réécrit data/ (tri, sharding, purge)")
@@ -582,6 +695,17 @@ def build_parser() -> argparse.ArgumentParser:
     p = sub.add_parser("list", help="reconstruit les URLs complètes depuis data/")
     p.add_argument("--limit", type=int, default=0, help="0 = tout")
     p.set_defaults(func=cmd_list)
+
+    p = sub.add_parser(
+        "run",
+        help="enchaîne plusieurs commandes sur un seul chargement/écriture de l'index",
+    )
+    p.add_argument(
+        "--file",
+        default=None,
+        help="fichier listant une commande complète par ligne (défaut : entrée standard)",
+    )
+    p.set_defaults(func=cmd_run)
 
     return parser
 
