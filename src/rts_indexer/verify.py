@@ -420,3 +420,58 @@ def verify(store: Store, **kwargs) -> Verifier:
     verifier = Verifier(store, **kwargs)
     asyncio.run(verifier.run())
     return verifier
+
+
+#: Verdict d'un contrôle ponctuel : code HTTP final (``None`` si la requête n'a
+#: pas abouti) et URL finale après redirections (``None`` de même).
+Verdict = tuple[int | None, str | None]
+
+
+async def _sonder(
+    urls: list[str], transport: httpx.AsyncBaseTransport | None = None
+) -> dict[str, Verdict]:
+    resultats: dict[str, Verdict] = {}
+    limiter = net.RateLimiter(config.VERIFY_MIN_INTERVAL)
+    file: asyncio.Queue[str] = asyncio.Queue()
+    for url in urls:
+        file.put_nowait(url)
+
+    async def worker(http: httpx.AsyncClient) -> None:
+        while True:
+            try:
+                url = file.get_nowait()
+            except asyncio.QueueEmpty:
+                return
+            await limiter.wait()
+            try:
+                reponse = await http.head(url)
+                if reponse.status_code in _HEAD_REFUSED:
+                    reponse = await http.get(url)
+                resultats[url] = (reponse.status_code, str(reponse.url))
+            except httpx.HTTPError as exc:
+                log.warning("%s: %s", url, exc)
+                resultats[url] = (None, None)
+
+    async with net.async_client(transport=transport) as http:
+        await asyncio.gather(*[worker(http) for _ in range(config.MAX_CONCURRENCY)])
+    return resultats
+
+
+def check_urls(
+    urls: list[str], transport: httpx.AsyncBaseTransport | None = None
+) -> dict[str, Verdict]:
+    """Contrôle une liste d'URLs arbitraires : code final et URL finale.
+
+    Volontairement à l'écart de :class:`Verifier` : ni store, ni sigil, ni
+    cache de contrôle, ni second avis. C'est un sondage ponctuel sur des URLs
+    qui ne sont pas (encore) dans l'index — pour décider quoi en faire avant
+    de les y mettre (``import --check``) ou avant de faire le ménage
+    (``anomalies --check``). Y mêler la logique de verdict de ``Verifier``
+    reviendrait à écrire dans le cache des URLs dont on ne sait pas encore si
+    elles ont leur place dans l'index.
+
+    Respecte le même débit poli que le reste (``VERIFY_MIN_INTERVAL``).
+    """
+    if not urls:
+        return {}
+    return asyncio.run(_sonder(urls, transport))

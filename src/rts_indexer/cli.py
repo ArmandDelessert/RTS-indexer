@@ -8,9 +8,9 @@ import sys
 import time
 from pathlib import Path
 
-from . import config, explorer
+from . import config, explorer, urlnorm
 from . import verify as verify_module
-from .sources import commoncrawl, rss, sitemap, wayback
+from .sources import commoncrawl, fichier, rss, sitemap, wayback
 from .sources import crawl as crawl_source
 from .store import Store
 
@@ -235,6 +235,84 @@ def cmd_dedupe(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_import(args: argparse.Namespace) -> int:
+    """Ajoute à l'index des URLs listées dans un fichier texte."""
+    retenues, rejetees = fichier.lire(args.fichier)
+    print(f"{len(retenues)} URLs retenues, {len(rejetees)} rejetées (hors périmètre ou malformées)")
+    for ligne in rejetees[: args.limit]:
+        print(f"  rejetée: {ligne}")
+
+    a_ajouter = retenues
+    if args.check and retenues:
+        print(f"contrôle de {len(retenues)} URLs...")
+        verdicts = verify_module.check_urls(retenues)
+        a_ajouter, mortes, redirigees, douteuses = _trier_verdicts(retenues, verdicts)
+        for url, cible in redirigees:
+            print(f"  redirige: {url}\n         -> {cible}")
+        for url, code in mortes:
+            print(f"  morte (HTTP {code}): {url}")
+        for url, code in douteuses:
+            print(f"  non concluant (HTTP {code}): {url}")
+        print(
+            f"{len(a_ajouter)} vivantes, {len(redirigees)} redirigées (cible retenue à la place), "
+            f"{len(mortes)} mortes écartées, {len(douteuses)} non concluantes écartées"
+        )
+
+    if args.dry_run:
+        for url in a_ajouter[: args.limit]:
+            print(f"  {url}")
+        print("(--dry-run : rien n'a été écrit)")
+        return 0
+
+    store = _store(args).load()
+    ajoutees = store.add_many(a_ajouter)
+    print(f"{ajoutees} nouvelles URLs dans l'index ({len(a_ajouter) - ajoutees} déjà connues)")
+    _report(store.write())
+    return 0
+
+
+def _trier_verdicts(
+    urls: list[str], verdicts: dict[str, verify_module.Verdict]
+) -> tuple[list[str], list[tuple[str, int]], list[tuple[str, str]], list[tuple[str, int | None]]]:
+    """Range chaque URL contrôlée selon son sort : à ajouter, morte, redirigée
+    (c'est la cible qui est retenue), ou non concluante.
+
+    Une redirection fait indexer la **cible** plutôt que l'URL demandée : c'est
+    exactement le cas doublon que `verify` détecte déjà sur l'index existant,
+    autant ne pas l'y introduire en premier lieu. La cible repasse par le
+    filtre de périmètre, comme dans `resolve_doublons`.
+
+    Même prudence qu'ailleurs : seuls 404/410 valent « morte ». Un 403, un
+    5xx ou un échec réseau sont non concluants, donc écartés de l'ajout sans
+    être déclarés morts — on ne sait simplement pas, et une liste tapée à la
+    main mérite d'être resoumise plutôt que tranchée à tort.
+    """
+    vivantes: dict[str, None] = {}
+    mortes: list[tuple[str, int]] = []
+    redirigees: list[tuple[str, str]] = []
+    douteuses: list[tuple[str, int | None]] = []
+
+    for url in urls:
+        code, finale = verdicts.get(url, (None, None))
+        if code in config.VERIFY_DEAD_CODES:
+            mortes.append((url, code))
+        elif code is None or code >= 400:
+            douteuses.append((url, code))
+        elif finale and finale.rstrip("/") != url.rstrip("/"):
+            cible = urlnorm.normalize(finale)
+            if cible is None:
+                # Redirige hors périmètre (image, domaine tiers) : ni l'URL
+                # demandée ni sa cible n'ont leur place dans l'index.
+                douteuses.append((url, code))
+            else:
+                redirigees.append((url, cible))
+                vivantes.setdefault(cible, None)
+        else:
+            vivantes.setdefault(url, None)
+
+    return list(vivantes), mortes, redirigees, douteuses
+
+
 def cmd_purge(args: argparse.Namespace) -> int:
     """Supprime de l'index les URLs actuellement marquées mortes.
 
@@ -245,6 +323,48 @@ def cmd_purge(args: argparse.Namespace) -> int:
     store = _store(args).load()
     supprimees = store.purge_dead()
     print(f"{supprimees} URLs mortes supprimées de l'index")
+    _report(store.write())
+    return 0
+
+
+def cmd_anomalies(args: argparse.Namespace) -> int:
+    """Inventorie les anomalies, et fait le ménage de celles qui ne mènent nulle part."""
+    store = _store(args).load()
+    par_type: dict[str, int] = {}
+    for genre, _, _ in store.anomalies:
+        par_type[genre] = par_type.get(genre, 0) + 1
+    for genre, n in sorted(par_type.items(), key=lambda kv: -kv[1]):
+        print(f"{n:>6}  {genre}")
+
+    if not (args.check or args.drop_dead):
+        print("\n(--check pour contrôler ces URLs, --drop-dead pour retirer celles qui sont mortes)")
+        return 0
+
+    concernees = sorted({url for _, url, _ in store.anomalies})
+    print(f"\ncontrôle de {len(concernees)} URLs...")
+    verdicts = verify_module.check_urls(concernees)
+
+    mortes = {
+        url
+        for url, (code, _) in verdicts.items()
+        if code in config.VERIFY_DEAD_CODES
+    }
+    print(f"{len(mortes)} mortes, {len(concernees) - len(mortes)} encore vivantes ou non concluantes")
+
+    if not args.drop_dead:
+        print("(--drop-dead pour les retirer de l'index et du journal d'anomalies)")
+        return 0
+
+    retirees_index = 0
+    for genre, url, detail in list(store.anomalies):
+        if url not in mortes:
+            continue
+        store.anomalies.discard((genre, url, detail))
+        # `trop_long` n'a jamais pu entrer dans l'index (c'est précisément son
+        # motif) : il n'y a que la ligne de journal à retirer.
+        if store.remove(url):
+            retirees_index += 1
+    print(f"{len(mortes)} anomalies retirées, dont {retirees_index} URLs ôtées de l'index")
     _report(store.write())
     return 0
 
@@ -421,6 +541,29 @@ def build_parser() -> argparse.ArgumentParser:
         "purge", help="supprime de l'index les URLs actuellement marquées mortes"
     )
     p.set_defaults(func=cmd_purge)
+
+    p = sub.add_parser("import", help="ajoute les URLs listées dans un fichier texte")
+    p.add_argument("fichier", help="fichier .txt, une URL par ligne (# = commentaire)")
+    p.add_argument(
+        "--check",
+        action="store_true",
+        help=(
+            "contrôler chaque URL avant l'ajout : écarte les mortes, "
+            "et indexe la cible plutôt que l'URL pour les redirections"
+        ),
+    )
+    p.add_argument("--dry-run", action="store_true", help="n'écrit rien, affiche seulement")
+    p.add_argument("--limit", type=int, default=20, help="nombre de lignes détaillées affichées")
+    p.set_defaults(func=cmd_import)
+
+    p = sub.add_parser("anomalies", help="inventorie et nettoie le journal d'anomalies")
+    p.add_argument("--check", action="store_true", help="contrôler les URLs concernées")
+    p.add_argument(
+        "--drop-dead",
+        action="store_true",
+        help="retirer les anomalies dont l'URL est morte (implique --check)",
+    )
+    p.set_defaults(func=cmd_anomalies)
 
     p = sub.add_parser("build", help="relit et réécrit data/ (tri, sharding, purge)")
     p.set_defaults(func=cmd_build)
