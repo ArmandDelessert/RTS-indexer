@@ -14,8 +14,9 @@ on:
     inputs:
       commandes:
         description: >
-          Une commande `rts_indexer` par ligne, exécutées dans l'ordre.
-          Chacune relit et réécrit l'index : en enchaîner beaucoup coûte cher.
+          Une commande `rts_indexer` par ligne, exécutées dans l'ordre via
+          `run` — un seul chargement et une seule écriture de l'index pour
+          toute la liste, quel que soit le nombre de commandes.
         required: true
         type: string
       resume:
@@ -85,17 +86,14 @@ jobs:
           COMMANDES: ${{ inputs.commandes }}
         run: |
           set -euo pipefail
-          : > resultat.txt
-          while IFS= read -r ligne; do
-            if [ -z "$ligne" ]; then
-              continue
-            fi
-            echo "::group::rts_indexer $ligne"
-            # stdout (les compteurs) est capturé pour le message de commit ;
-            # stderr (le journal détaillé) reste dans les logs du run.
-            python -m rts_indexer $ligne | tee -a resultat.txt
-            echo "::endgroup::"
-          done <<< "$COMMANDES"
+          # Un seul processus, un seul chargement/écriture de l'index pour
+          # toute la liste — c'est justement ce que `run` existe pour éviter
+          # de payer une fois par commande (plusieurs minutes chacune). Le
+          # format d'entrée (une commande par ligne) est celui que ce fichier
+          # utilisait déjà pour sa propre boucle bash.
+          # stdout (les comptes rendus) est capturé pour le message de
+          # commit ; stderr (le journal détaillé) reste dans les logs du run.
+          echo "$COMMANDES" | python -m rts_indexer run | tee resultat.txt
 
       # Explicite plutôt que le post-run automatique d'`actions/cache` : les
       # curseurs doivent être sauvés *même* si la collecte a échoué ou dépassé
