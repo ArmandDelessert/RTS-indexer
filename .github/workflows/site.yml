@@ -1,0 +1,77 @@
+# Publie l'explorateur de l'index sur GitHub Pages.
+#
+# Déployé depuis un artefact de build, pas depuis un dossier versionné : `site/`
+# est dans .gitignore (voir explorer.py) — un bloc JSON de plusieurs dizaines de
+# mégaoctets réécrit intégralement à chaque run n'a pas sa place dans
+# l'historique Git. Source de déploiement Pages à choisir en conséquence
+# (Settings → Pages → Build and deployment → Source → **GitHub Actions**, pas
+# « Deploy from a branch » : sans dossier ni branche à publier, cette option
+# n'aurait rien à proposer).
+#
+# Déclenché à la suite de rss/hebdomadaire/archives plutôt que sur son propre
+# planning : la page doit refléter les données les plus récentes, et ces trois
+# workflows sont les seuls à en produire. `workflow_run` ne se déclenche que
+# pour des workflows du même dépôt sur la branche par défaut, ce qui tombe bien
+# ici.
+
+name: site
+
+on:
+  workflow_run:
+    workflows: [rss, hebdomadaire, archives]
+    types: [completed]
+  workflow_dispatch:
+
+# Contrairement à `index-ecriture` (qui attend qu'une écriture se termine
+# plutôt que de l'annuler), une publication en cours n'a pas besoin d'aller
+# jusqu'au bout si une plus récente est déjà prête à la remplacer.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  site:
+    # `workflow_run` se déclenche même si le workflow déclencheur a échoué ou
+    # a été annulé ; ne publier que s'il a réussi, sauf déclenchement manuel.
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+        # Pas de fetch-depth: 0 ici : ce job ne pousse rien, un clone
+        # superficiel suffit et coûte moins cher que pour _collecte.yml.
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      # Éditable obligatoire : cf. _collecte.yml, config.REPO_ROOT se déduit
+      # de __file__.
+      - name: Installer le paquet et ses dépendances
+        run: pip install -e .
+
+      - name: Générer la page
+        run: python -m rts_indexer site --output site
+
+      - name: Préparer Pages
+        uses: actions/configure-pages@v5
+
+      - name: Empaqueter l'artefact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Publier
+        id: deployment
+        uses: actions/deploy-pages@v4

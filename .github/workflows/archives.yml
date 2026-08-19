@@ -32,6 +32,10 @@ on:
 
 jobs:
   collecte:
+    # Cf. rss.yml : un workflow réutilisable est plafonné par les permissions
+    # du job appelant, pas par _collecte.yml lui-même.
+    permissions:
+      contents: write
     uses: ./.github/workflows/_collecte.yml
     with:
       # Sur déclenchement planifié, `inputs` est vide : on retombe sur le budget

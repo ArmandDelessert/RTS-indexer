@@ -377,15 +377,25 @@ mécanique (`_collecte.yml`, workflow réutilisable) : checkout, curseurs, commi
 | `rss.yml` | 2×/jour | `rss` | La fenêtre des flux est de ~24h ; deux passages laissent une marge aux retards du planificateur. |
 | `hebdomadaire.yml` | lundi | `sitemap`, `crawl`, `verify` | Entretien de la structure et contrôle de vivacité, par tranches budgétées. |
 | `archives.yml` | mensuel + manuel | `wayback` | Requêtes lentes, parcours par tranches sur des semaines. |
+| `site.yml` | à la suite des trois précédents | `site` | Republie la page dès que les données changent, plutôt que sur son propre planning. |
 
-Un groupe de concurrence partagé (`index-ecriture`) les sérialise : ils écrivent tous dans
-`data/` et poussent sur la même branche.
+Les trois premiers partagent la même mécanique (`_collecte.yml`, workflow réutilisable) : checkout,
+curseurs, commit, push. Un groupe de concurrence partagé (`index-ecriture`) les sérialise : ils
+écrivent tous dans `data/` et poussent sur la même branche. `site.yml` est à part — il ne pousse
+rien, seulement une publication Pages, avec son propre groupe de concurrence (`pages`).
 
-**Avant la première exécution**, deux points à régler côté dépôt :
+**Avant la première exécution**, trois points à régler côté dépôt :
 
 1. *Settings → Actions → General → Workflow permissions* doit être sur **Read and write
-   permissions**, sans quoi le `git push` échoue en 403.
-2. Lancer chaque workflow **à la main** (`workflow_dispatch`) une première fois. Les budgets
+   permissions**, sans quoi le `git push` échoue en 403. Ce réglage est le plafond effectif même
+   pour un workflow qui déclare sa propre permission `contents: write` : un workflow réutilisable
+   (`uses: ./.github/workflows/_collecte.yml`) est plafonné par les permissions du job appelant,
+   qui héritent elles-mêmes de ce réglage tant que `rss.yml`/`hebdomadaire.yml`/`archives.yml` ne
+   déclarent rien de plus — d'où leur propre `permissions: contents: write`, désormais explicite.
+2. *Settings → Pages → Build and deployment → Source* doit être sur **GitHub Actions**, pas
+   « Deploy from a branch » — `site/` est un artefact de build, jamais versionné (voir plus bas),
+   il n'y a donc ni dossier ni branche à choisir.
+3. Lancer chaque workflow **à la main** (`workflow_dispatch`) une première fois. Les budgets
    (`--max-pages`, `--limit`) sont volontairement prudents : chaque commande paie un cycle
    complet de relecture/réécriture de l'index, dont le coût sur un runner Linux n'a pas encore
    été mesuré. Les relever une fois les vrais temps connus.

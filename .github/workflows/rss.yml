@@ -21,6 +21,12 @@ on:
 
 jobs:
   collecte:
+    # Un workflow réutilisable (`uses:`) est plafonné par les permissions du
+    # job appelant, pas par ce que _collecte.yml demande lui-même : sans
+    # cette ligne, l'appel échoue même si le dépôt autorise l'écriture par
+    # défaut et même si _collecte.yml déclare `contents: write` de son côté.
+    permissions:
+      contents: write
     uses: ./.github/workflows/_collecte.yml
     with:
       commandes: rss
