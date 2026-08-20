@@ -1,4 +1,4 @@
-./
+!./
 5119389-les-entretiens.html
 5122610-les-films-et-la-critique.html
 5128509-la-retrospective-consacree-a-george-cukor.html

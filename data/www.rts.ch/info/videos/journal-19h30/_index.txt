@@ -1,6 +1,6 @@
-./
+!./
 11399483-risque-de-piratage-pour-lapplication-swisscovid.html
-12205457-19h30.html
-12958041-19h30.html
-2701925-le-journal-du-dimanche.html
-3901938-le-journal.html
+!12205457-19h30.html
+!12958041-19h30.html
+!2701925-le-journal-du-dimanche.html
+!3901938-le-journal.html

@@ -1,2 +1,2 @@
-./
-5681533-le-journal.html
+!./
+!5681533-le-journal.html
