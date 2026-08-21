@@ -8,7 +8,7 @@
 10195679-le-comptoir-suisse-un-lieu-de-pouvoir.html
 10199694-diversite-et-alterite-une-formation-continue-de-lunil.html
 10213856-michel-corboz.html
-10221226-les-confessions-de-san-antonio.html
+10221226-les-confessions-de-sanantonio.html
 10248385-alain-chamfort-dandy-de-la-pop.html
 10255000-jacques-chessex-une-selection-darchives.html
 10262694-danyel-gerard.html
@@ -18,7 +18,7 @@
 10284255-larcheologie-sous-loeil-de-la-camera.html
 10297587-a-travers-le-tunnel-du-grandsaintbernard.html
 10310263-collections-passions.html
-10316016-nom-d-une-pipe-.html
+10316016-nom-dune-pipe.html
 10324891-tout-paques.html
 10336284-les-suisses-en-armes.html
 10353110-valdetravers-dans-les-archives-de-la-rts.html
@@ -28,7 +28,7 @@
 10511936-tout-pour-la-musique.html
 10512577-populaire-alain-morisod.html
 10545189-le-transsiberien.html
-10563317-le-12h45-a-l-heure-des-archives.html
+10563317-le-12h45-a-lheure-des-archives.html
 10747180-regards-sur-la-chine-communiste.html
 10770765-mayor-et-queloz-la-tete-dans-les-planetes.html
 10837521-laffaire-dreyfus.html
@@ -54,7 +54,7 @@
 12014112-marguerite-duras-entre-litterature-et-cinema.html
 12014697-ollon-et-la-cedra-les-archives-radio.html
 12092925-quand-leducation-sexuelle-faisait-debat-en-suisse.html
-12169869-le-climat-sous-la-loupe.html
+12169869-levolution-du-climat-sous-la-loupe.html
 12334552-lamerique-des-grands-espaces.html
 12344506-lecrivaine-alice-rivaz-portrait-dune-pionniere.html
 12345120-le-japon-insolite-de-georges-baumgartner.html
@@ -85,9 +85,7 @@
 14755556-linitiative-schwarzenbach-archives-du-podcast.html
 3170050-le-cheval-y-est-roi.html
 3408282-enigmes-et-aventures-quand-la-radio-fait-son-polar.html
-3420080-lozane-bouge-1980-1982.html
 3420080-lozane-bouge-19801982.html
-3477253-henri-guillemin-presente-les-grands-ecrivains.html
 3477259-le-1er-mai-les-travailleurs-sont-dans-la-rue.html
 3477262-labsinthe-un-si-bon-gout-dinterdit.html
 3477265-la-vie-saine-des-animaux-de-la-ferme.html
@@ -100,14 +98,11 @@
 3477289-lantenne-est-a-vous-un-moment-de-libre-expression.html
 3477292-le-retour-a-lordre.html
 3477295-arlette-on-taime.html
-3477295.html
 3477298-au-temps-lointain-des-defiles-militaires-dans-nos-villes.html
 3477301-asile-de-laccueil-a-la-dissuasion.html
 3477304-carre-a-saturne-en-gemeaux-bien-vu-madame-soleil.html
 3477307-les-rois-de-lathletisme-en-suisse.html
 3477310-la-lutte-sans-fin-contre-les-avalanches.html
-3477314-les-dossiers-de-l-histoire-l-autre-avant-guerre-1871-1914.html
-3477314.html
 3477317-quand-la-suisse-reve-davions-de-combat.html
 3477320-le-planning-familial-une-revolution-pour-le-couple.html
 3477323-georges-hardy-grand-maitre-du-jeu-a-vos-lettres.html
@@ -130,7 +125,6 @@
 3477383-bol-dor-le-sacre-du-leman.html
 3477386-le-boum-des-stations-valaisannes.html
 3477389-que-fait-la-bourse-ce-matin.html
-3477393-nicolas-bouvier-aux-confins-du-recit-de-voyage.html
 3477393-nicolas-bouvier-ecrivain-et-voyageur.html
 3477396-faitesle-vousmeme.html
 3477400-ils-ont-debute-au-cabaret-de-lecluse.html
@@ -180,13 +174,11 @@
 3477551-victor-desarzens-conduire-un-orchestre-sans-jamais-lasservir.html
 3477555-leurope-des-dictatures.html
 3477558-patrick-juvet-absolument-disco.html
-3477558.html
 3477562-grande-dixence-a-la-demesure-de-lhomme.html
 3477566-dodu-dodo-loiseau-si-rigolo.html
 3477569-cest-la-fin-de-la-cavalerie.html
 3477572-une-desillusion-nommee-heroine.html
 3477576-friedrich-durrenmatt-ou-la-critique-des-illusions-humaines.html
-3477576.html
 3477584-la-rentree-scolaire.html
 3477589-les-quatre-mois-les-plus-longs.html
 3477592-leconomie-du-plein-emploi.html
@@ -222,7 +214,6 @@
 3477701-de-la-fumee-plein-ecran.html
 3477704-sommet-du-g8-geneve-en-emoi.html
 3477708-gainsbourg-loriginal.html
-3477708.html
 3477711-lespoir-du-grand-soir.html
 3477714-homosexuels-le-droit-a-la-difference.html
 3477717-gilles-ce-pere-genereux-de-la-chanson-francaise.html
@@ -237,7 +228,6 @@
 3477747-a-la-recherche-du-secret-des-guerisseurs.html
 3477750-un-regard-sur-la-guerre.html
 3477753-lafrique-terre-de-guerre.html
-3477764-les-dossiers-de-l-histoire-la-commune-de-paris.html
 3477768-portrait-sans-contraste-du-general-guisan.html
 3477771-bernard-haller-fabuleux-conteur-des-aventures-du-baron-de-monflacon.html
 3477775-hans-erni-un-artiste-emblematique-de-la-suisse.html
@@ -246,7 +236,6 @@
 3477785-nicolas-hayek-le-conquerant.html
 3477789-une-legende-du-hockey-romand.html
 3477792-le-bel-ideal-des-hippies.html
-3477797-la-serie-de-l-ete-henri-guillemin-raconte-l-affaire-petain.html
 3477797-laffaire-petain.html
 3477801-et-la-neige-fut-venue.html
 3477805-hockey-en-route-vers-la-finale.html
@@ -262,8 +251,7 @@
 3477835-benvenuti-in-italia.html
 3477839-dans-les-allees-des-plus-beaux-jardins.html
 3477842-au-bon-vieux-temps-du-jazz.html
-3477845-l-honneur-perdu-du-colonel-brigadier-jean-louis-jeanmaire.html
-3477849-l-enigme-jeanne-d-arc.html
+3477845-lhonneur-perdu-du-colonel-brigadier-jeanlouis-jeanmaire.html
 3477852-jeux-en-tous-genres.html
 3477855-la-gloire-du-ski-suisse-aux-jo-dhiver.html
 3477858-souvenirs-souvenirs.html
@@ -274,7 +262,6 @@
 3477876-georges-kleinmann-un-homme-de-television.html
 3477879-sous-le-grand-chapiteau-du-cirque-knie.html
 3477883-scandale-a-berne-elisabeth-kopp-est-forcee-de-demissionner.html
-3477883.html
 3477886-buvons-du-lait.html
 3477889-sauver-lavaux-la-lutte-continue.html
 3477892-le-liban-terre-de-guerres.html
@@ -310,7 +297,7 @@
 3477992-vivre-nu-le-nec-plus-ultra.html
 3477996-en-marge-du-millenaire-de-neuchatel.html
 3477999-un-weekend-a-new-york.html
-3478002-un-avant-gout-de-mai-68-avec-une-emission-deroutante-de-la-tsr.html
+3478002-un-avantgout-de-mai-68-avec-une-emission-deroutante-de-la-tsr.html
 3478005-jeanmarie-gustave-le-clezio-prime-par-le-nobel-de-litterature.html
 3478010-joyeux-noel.html
 3478014-un-noel-en-archives-avec-basile-pecora-et-plein-de-surprises.html
@@ -391,7 +378,6 @@
 3478287-terrorisme-les-annees-de-plomb-en-europe.html
 3478291-les-romands-brulent-les-planches.html
 3478295-tiananmen-1989-la-fin-des-illusions-democratiques-en-chine.html
-3478307-leon-tolstoi-vu-par-henri-guillemin.html
 3478312-la-suisse-des-trains.html
 3478315-tramway-vaten-reviens.html
 3478318-le-rayonnement-de-luniversite-de-geneve.html
@@ -410,11 +396,10 @@
 3478362-annees-70-la-suisse-a-peur-de-ses-immigres.html
 3478365-lage-dor-des-yeye.html
 3478368-maurice-zermatten-lecriture-pour-vocation.html
-3478368.html
 3478377-dechainees.html
 3478386-sos-terre.html
 3478389-merette.html
-3478392-le-chirurgien-de-saint-chad.html
+3478392-le-chirurgien-de-saintchad.html
 3478393-autoroutes-la-longue-attente.html
 3478394-freddy-buache.html
 3478398-laeroport-genevecointrin.html
@@ -426,14 +411,13 @@
 3478416-franco-sbarro.html
 3478420-fous-de-petits-trains.html
 3478474-lemission-du-060909.html
-3478619-l-emission-du-18-11-07.html
+3478619-lemission-du-181107.html
 3478714-lemission-du-290407.html
 3478893-ils-ont-fait-lhistoire-de-la-photographie-en-suisse.html
 3518484-radio-television-allerretour.html
 3525787-jean-claude-pascal-linclassable-talent.html
 3561306-figures-du-catholicisme-romand.html
 3563864-concours-de-geneve-lexigence-de-la-musique.html
-3563864.html
 3586261-comme-une-fois-y-avait-oinoin.html
 3598685-les-petits-devant-le-poste.html
 3607988-ski-alpin-des-suissesses-au-palmares.html
@@ -459,6 +443,7 @@
 3927937-matiere-a-lire.html
 3936702-sur-nos-monts-quand-le-soleil.html
 3944337-la-cinquieme-suisse.html
+3977988-survol-de-la-ssr.html
 3978734-gares-et-regards.html
 3986995-la-television-de-jeanjacques-lagrange.html
 3991386-annees-60-des-actrices-si-glamour.html
@@ -479,7 +464,6 @@
 4191702-helvetia-muse-de-la-litterature.html
 4204655-parole-aux-jeunes.html
 4213884-corinna-bille-entre-ciel-et-terre.html
-4213884.html
 4237247-andre-steiger-passeur-lumineux.html
 4255935-formidable-neuchatel-xamax.html
 4282696-larchitecte-de-la-modernite.html
@@ -515,7 +499,6 @@
 4673656-femme-au-volant.html
 4694785-des-enclaves-et-des-hommes.html
 4713802-le-club-44-haut-lieu-de-culture.html
-4713802.html
 4716050-le-prix-de-la-catastrophe.html
 4726931-paques-en-noir-blanc.html
 4738033-si-loin-si-proche-la-suisse-et-le-tibet.html
@@ -578,14 +561,11 @@
 5603130-folie-douce.html
 5605314-le-boguet-un-reve-devasion.html
 5608025-pour-lamour-du-cheval.html
-5639837.html
 5658657-annees-60-cest-rock.html
 5671896-le-rhone-fleuve-indomptable.html
 5687360-de-lurss-a-poutine-la-loi-du-plus-fort.html
 5700372-wawrinka-la-volonte-de-gagner.html
-5700372.html
 5701403-les-coulisses-du-cully-jazz-festival.html
-5701403.html
 5717270-le-cineac-un-cinema-pas-comme-les-autres.html
 5723071-suisse-et-rwanda-passes-croises.html
 5756980-une-journee-a-lexpo-64.html
@@ -607,7 +587,7 @@
 6031805-escapades-helvetiques.html
 6079791-theatre-des-osses-la-passion-de-la-scene.html
 6131113-parlement-mode-demploi.html
-6144030-label-suisse-la-musique-a-l-affiche.html
+6144030-label-suisse-la-musique-a-laffiche.html
 6150811-maitre-chez-soi.html
 6150936-a-lecole-des-bonnes-manieres.html
 6176203-la-tragedie-de-lordre-du-temple-solaire.html
@@ -615,7 +595,6 @@
 6194112-une-vieillesse-de-reve.html
 6202574-le-meg-un-regard-sur-lhomme.html
 6222247-les-rois-de-la-petite-reine.html
-6230510.html
 6236229-des-jeunes-a-la-derive.html
 6240081-le-parler-romand-un-accent-de-verite.html
 6261522-a-votre-bon-coeur.html
@@ -625,7 +604,6 @@
 6355537-labbaye-de-saintmaurice-1500-ans-de-spiritualite.html
 6364083-quand-lart-se-met-a-nu.html
 6372291-soleure-le-creuset-du-cinema-suisse.html
-6372291.html
 6385316-cest-pas-serieux.html
 6439861-un-trait-de-liberte.html
 6442970-les-joies-de-la-neige.html
@@ -661,10 +639,8 @@
 7148871-alambics-et-vieux-pressoirs.html
 7199976-lappel-de-lasie.html
 7213248-une-legende-nommee-delon.html
-7213248.html
 7224081-mais-que-fait-la-police.html
 7248053-un-fleau-nomme-dopage.html
-7257624-a-l-ecole-du-sport.html
 7257624-a-lecole-du-sport.html
 7279975-alors-raconte.html
 7280559-coups-de-coeur.html
@@ -679,16 +655,13 @@
 7499914-design-ou-pas-design.html
 7499928-ca-on-noserait-plus.html
 7518128-lart-du-vitrail.html
-7518128.html
 7542581-allez-les-gars.html
 7543183-dessinemoi-une-maison.html
 7552912-protestants-et-cathodiques.html
 7560548-leon-francioli.html
-7560548.html
 7560855-le-temps-des-gitans.html
 7570291-vivement-dimanche.html
 7622686-renaud-morgane-de-toi.html
-7622686.html
 7625091-le-drame-de-tchernobyl.html
 7650643-oh-la-vache.html
 7659412-un-jardin-a-soi.html
@@ -716,7 +689,7 @@
 9060943-cest-ma-tournee.html
 9085555-lattentat-de-louxor.html
 9105303-le-cirque-debarque.html
-9149952-a-vos-souhaits-.html
+9149952-a-vos-souhaits.html
 9177663-emile-gardaz-lamour-des-mots.html
 9221011-marcello-mastroianni-il-maestro.html
 9239423-a-la-decouverte-de-la-vallee-de-joux.html
@@ -727,7 +700,6 @@
 9513269-ecrire-en-valais.html
 9517494-vingt-ans-apres.html
 9540979-cannes-en-noirblanc.html
-9620992-le-bol-d-or-des-bateaux-et-des-hommes-.html
 9620992-le-bol-dor-des-bateaux-et-des-hommes.html
 9664774-la-suisse-pays-des-randonneurs.html
 9692035-les-aventures-dune-pensee-george-steiner.html

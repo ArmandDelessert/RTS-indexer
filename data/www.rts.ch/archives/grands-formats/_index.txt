@@ -9,7 +9,7 @@
 10367073-la-frc-pour-mieux-consommer.html
 10404868-au-japon-pays-du-soleil-levant.html
 10450190-ces-femmes-qui-ont-fait-la-tsr.html
-10532236-tu-tires-ou-tu-pointes-.html
+10532236-tu-tires-ou-tu-pointes.html
 10534402-notre-histoire-compte.html
 10553975-la-fete-des-vignerons-le-reflet-dun-terroir.html
 10573842-la-tsr-a-la-conquete-de-la-lune.html
@@ -149,7 +149,6 @@
 13186356-de-bons-conseils-pour-un-bel-ete.html
 13206160-a-bord-du-leb-le-train-lausanneechallensbercher.html
 13209071-jeunessesport-une-institution-suisse.html
-13211099--la-chambre-telefilm-d-anticipation-de-la-tsr-au-nifff.html
 13211099-la-chambre-telefilm-danticipation-de-la-tsr-au-nifff.html
 13310850-la-lanterne-magique.html
 13310899-fete-comme-chez-vous.html
@@ -205,7 +204,6 @@
 14512188-quelle-sera-cette-annee1974.html
 14518627-memoires-du-paysdenhaut.html
 14531928-humaniser-la-psychiatrie-entre-intentions-et-realites.html
-14531928-humaniser-la-psychiatrie-entre-inten„ons-et-realites.html
 14777074-memoires-de-nendaz.html
 7261392-alerte-au-climat.html
 7842127-b-comme-bikini.html
@@ -227,13 +225,13 @@
 9051876-eustache-et-le-bourdon-bzzz-premier-dessin-anime-radiophonique.html
 9074137-la-mine-de-grone.html
 9089555-un-fromage-qui-revient-de-loin.html
-9130956-johnny-hallyday-l-idole.html
+9130956-johnny-hallyday-lidole.html
 9166564-chaplin-vaudois-dadoption.html
 9249389-cosey-une-quete-de-purete.html
 9259538-laventure-de-superphenix.html
 9289493-les-coulisses-dinnsbruck.html
 9312325-nicolas-bouvier.html
-9369347-une-cure-de-bien-etre.html
+9369347-une-cure-de-bienetre.html
 9369974-michel-deneriaz-lami-des-romands.html
 9378509-un-homme-fort-pour-la-russie.html
 9405290-jacques-thevoz-un-artiste-engage.html
