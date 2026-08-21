@@ -8,18 +8,18 @@
 # « Deploy from a branch » : sans dossier ni branche à publier, cette option
 # n'aurait rien à proposer).
 #
-# Déclenché à la suite de rss/hebdomadaire/archives plutôt que sur son propre
-# planning : la page doit refléter les données les plus récentes, et ces trois
-# workflows sont les seuls à en produire. `workflow_run` ne se déclenche que
-# pour des workflows du même dépôt sur la branche par défaut, ce qui tombe bien
-# ici.
+# Déclenché sur push plutôt que sur son propre planning : la page doit
+# refléter les données les plus récentes. Un `workflow_run` limité à
+# rss/hebdomadaire/archives ratait les commits poussés autrement (nettoyage
+# manuel, dedupe...) — `push` les couvre tous de la même façon, filtré sur
+# data/ pour ne pas reconstruire sur un changement de code ou de doc.
 
 name: site
 
 on:
-  workflow_run:
-    workflows: [rss, hebdomadaire, archives]
-    types: [completed]
+  push:
+    branches: [main]
+    paths: ["data/**"]
   workflow_dispatch:
 
 # Contrairement à `index-ecriture` (qui attend qu'une écriture se termine
@@ -31,9 +31,6 @@ concurrency:
 
 jobs:
   site:
-    # `workflow_run` se déclenche même si le workflow déclencheur a échoué ou
-    # a été annulé ; ne publier que s'il a réussi, sauf déclenchement manuel.
-    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     timeout-minutes: 30
     permissions:
