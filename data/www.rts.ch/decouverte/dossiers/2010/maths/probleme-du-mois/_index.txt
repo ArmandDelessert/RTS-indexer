@@ -1,4 +1,4 @@
-./
+!./
 2536271-le-probleme-du-mois-doctobre-2010.html
 3429729-le-probleme-du-mois-doctobre-2011.html
 3631030-probleme-du-mois-de-decembre-2011.html

@@ -19,7 +19,7 @@
 1763140-qu-est-ce-qu-une-crise-de-foie.html
 1772086-qui-sont-les-premiers-artistes.html
 1899048-les-poissons-ont-ils-soif.html
-2045231-les-plantes-communiquent-elles.html
+!2045231-les-plantes-communiquent-elles.html
 2469404-pourquoi-les-escargots-naissent-ils-avec-une-coquille.html
 2647172-les-trous-existent-ils.html
 2776875-pourquoi-se-mouche-t-on.html
