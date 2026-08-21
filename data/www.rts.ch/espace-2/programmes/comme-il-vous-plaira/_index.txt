@@ -9,12 +9,10 @@
 5452372-comme-il-vous-plaira-du-05-01-2014.html
 5463679-comme-il-vous-plaira-du-12-01-2014.html
 5503422-comme-il-vous-plaira-du-19-01-2014.html
-5521333-alain-finkielkraut-philosophe-26-01-2014.html
 5521334-comme-il-vous-plaira-du-26-01-2014.html
 5540396-comme-il-vous-plaira-du-02-02-2014.html
 5559127-comme-il-vous-plaira-du-09-02-2014.html
 5864947-michel-egloff-fondateur-du-latenium-musee-cantonal-d-archeologie-d-hauterive-neuchatel.html
-5930164-gerard-de-cortanze-romancier-29-06-2014.html
 6197185-michel-onfray-philosophe-19-10-2014.html
 6466530-alain-borer-ecrivain-poete-01-02-2015.html
 6486499-pour-saluer-aldo-ciccolini-08-02-2015.html
@@ -33,7 +31,6 @@
 7079467-comme-il-vous-plaira-du-27-09-2015.html
 7099640-comme-il-vous-plaira-du-04-10-2015.html
 7119111-comme-il-vous-plaira-du-11-10-2015.html
-7138687-audrey-vigoureux-pianiste-18-10-2015.html
 7138688-comme-il-vous-plaira-du-18-10-2015.html
 7157632-comme-il-vous-plaira-du-25-10-2015.html
 7177424-comme-il-vous-plaira-du-01-11-2015.html
@@ -43,7 +40,6 @@
 7319978-comme-il-vous-plaira-du-10-01-2016.html
 7380183-comme-il-vous-plaira-du-17-01-2016.html
 7399144-comme-il-vous-plaira-du-24-01-2016.html
-7418744-le-site-du-musee-soulages-a-rodez-31-01-2016.html
 7418745-comme-il-vous-plaira-du-31-01-2016.html
 7511787-comme-il-vous-plaira-du-06-03-2016.html
 7672175-francois-schuiten-bedeiste-08-05-2016.html

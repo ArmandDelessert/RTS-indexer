@@ -12,7 +12,7 @@
 7319606-concert-du-mardi-soir-du-05-01-2016.html
 7404459-concert-du-mardi-soir-du-26-01-2016.html
 7516416-concert-du-mardi-soir-du-08-03-2016.html
-7571647-concert-du-quatuor-faure-29-03-2016.html
+!7571647-concert-du-quatuor-faure-29-03-2016.html
 7571648-concert-du-mardi-soir-du-29-03-2016.html
 7640912-concert-du-mardi-soir-du-26-04-2016.html
 7658431-concert-du-mardi-soir-du-03-05-2016.html

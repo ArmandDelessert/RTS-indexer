@@ -191,7 +191,6 @@
 4263364-entre-les-lignes-du-24-09-2012.html
 4267599-entre-les-lignes-du-26-09-2012.html
 4287945-maryline-desbiolles-lampedusa-et-une-femme-drole-04-10-2012.html
-4301084-joel-dicker-la-verite-sur-l-affaire-harry-quebert-10-10-2012.html
 4301995-entre-les-lignes-du-07-10-2012.html
 4305078-entre-les-lignes-du-11-10-2012.html
 4361949-joel-dicker-la-verite-sur-l-affaire-harry-quebert-14-11-2012.html
@@ -204,7 +203,6 @@
 4542956-entre-les-lignes-du-14-01-2013.html
 4544611-philippe-besson-de-la-on-voit-la-mer-15-01-2013.html
 4544612-entre-les-lignes-du-15-01-2013.html
-4546160-vincent-borel-richard-w-16-01-2013.html
 4546161-entre-les-lignes-du-16-01-2013.html
 4553139-entre-les-lignes-du-20-01-2013.html
 4554756-entre-les-lignes-du-21-01-2013.html
@@ -313,7 +311,6 @@
 5463403-entre-les-lignes-du-08-01-2014.html
 5463437-entre-les-lignes-du-09-01-2014.html
 5463654-entre-les-lignes-du-12-01-2014.html
-5492412-marc-decimo-emilie-herminie-hanin-et-quelques-fous-litteraires-13-01-2014.html
 5492413-entre-les-lignes-du-13-01-2014.html
 5494709-entre-les-lignes-du-14-01-2014.html
 5496301-entre-les-lignes-du-15-01-2014.html
@@ -370,12 +367,10 @@
 5746363-entre-les-lignes-du-18-04-2014.html
 5750815-entre-les-lignes-du-20-04-2014.html
 5761153-entre-les-lignes-du-27-04-2014.html
-5761229-samuel-doux-un-week-end-sur-deux-et-la-moitie-des-vacances-scolaires-29-04-2014.html
 5761230-entre-les-lignes-du-29-04-2014.html
 5761319-entre-les-lignes-du-30-04-2014.html
 5761412-entre-les-lignes-du-01-05-2014.html
 5761561-entre-les-lignes-du-04-05-2014.html
-5763633-les-editions-empreintes-celebrent-leurs-trente-ans-28-04-2014.html
 5763634-entre-les-lignes-du-28-04-2014.html
 5787892-entre-les-lignes-du-05-05-2014.html
 5789766-entre-les-lignes-du-06-05-2014.html
@@ -388,7 +383,6 @@
 5814127-entre-les-lignes-du-15-05-2014.html
 5821124-entre-les-lignes-du-18-05-2014.html
 5822933-entre-les-lignes-du-19-05-2014.html
-5825660-jean-paul-didierlaurent-le-liseur-du-6h27-20-05-2014.html
 5825661-entre-les-lignes-du-20-05-2014.html
 5829410-entre-les-lignes-du-21-05-2014.html
 5832391-entre-les-lignes-du-22-05-2014.html
@@ -400,7 +394,6 @@
 5857474-entre-les-lignes-du-01-06-2014.html
 5859660-entre-les-lignes-du-02-06-2014.html
 5862222-entre-les-lignes-du-03-06-2014.html
-5866115-emmanuel-ruben-la-ligne-des-glaces-04-06-2014.html
 5866116-entre-les-lignes-du-04-06-2014.html
 5868696-isabelle-guisan-eva-s-entete-05-06-2014.html
 5868697-entre-les-lignes-du-05-06-2014.html
@@ -480,7 +473,6 @@
 6468351-entre-les-lignes-du-02-02-2015.html
 6471656-jean-michel-guenassia-trompe-la-mort-03-02-2015.html
 6471657-entre-les-lignes-du-03-02-2015.html
-6475158-aude-seigne-les-neiges-de-damas-04-02-2015.html
 6475159-entre-les-lignes-du-04-02-2015.html
 6478495-entre-les-lignes-du-05-02-2015.html
 6486482-entre-les-lignes-du-08-02-2015.html
@@ -496,7 +488,6 @@
 6524356-entre-les-lignes-du-22-02-2015.html
 6525957-frederic-pajak-le-manifeste-incertain-3-23-02-2015.html
 6525958-entre-les-lignes-du-23-02-2015.html
-6529105-olivia-gerig-l-ogre-du-saleve-24-02-2015.html
 6529106-entre-les-lignes-du-24-02-2015.html
 6533597-louis-bernard-robitaille-la-peninsule-25-02-2015.html
 6533598-entre-les-lignes-du-25-02-2015.html
@@ -513,7 +504,7 @@
 6585353-melanie-richoz-le-bain-et-la-douche-froide-17-03-2015.html
 6588928-jerome-ferrari-le-principe-18-03-2015.html
 6588929-entre-les-lignes-du-18-03-2015.html
-6592101-jean-luc-seigle-je-vous-ecris-dans-le-noir-19-03-2015.html
+!6592101-jean-luc-seigle-je-vous-ecris-dans-le-noir-19-03-2015.html
 6612467-entre-les-lignes-du-26-03-2015.html
 6625380-entre-les-lignes-du-31-03-2015.html
 6628553-entre-les-lignes-du-01-04-2015.html
@@ -528,9 +519,7 @@
 6631896-entre-les-lignes-du-12-04-2015.html
 6634578-entre-les-lignes-du-13-04-2015.html
 6634737-entre-les-lignes-du-14-04-2015.html
-6634804-anne-brecart-la-femme-provisoire-15-04-2015.html
 6634805-entre-les-lignes-du-15-04-2015.html
-6634862-francois-henri-deserable-evariste-16-04-2015.html
 6634863-entre-les-lignes-du-16-04-2015.html
 6648450-entre-les-lignes-du-30-03-2015.html
 6677814-entre-les-lignes-du-19-04-2015.html
@@ -591,7 +580,6 @@
 6870198-entre-les-lignes-du-20-08-2015.html
 6870282-entre-les-lignes-du-21-08-2015.html
 6991952-entre-les-lignes-du-24-08-2015.html
-6993930-anne-frederique-rochat-le-chant-du-canari-25-08-2015.html
 6993931-entre-les-lignes-du-25-08-2015.html
 6996087-entre-les-lignes-du-26-08-2015.html
 6998877-entre-les-lignes-du-27-08-2015.html
@@ -600,7 +588,6 @@
 7008801-entre-les-lignes-du-01-09-2015.html
 7012070-entre-les-lignes-du-02-09-2015.html
 7014633-entre-les-lignes-du-03-09-2015.html
-7025967-nicolas-verdan-le-mur-grec-08-09-2015.html
 7025968-entre-les-lignes-du-08-09-2015.html
 7029796-entre-les-lignes-du-09-09-2015.html
 7044958-entre-les-lignes-du-15-09-2015.html
@@ -629,7 +616,6 @@
 7294942-entre-les-lignes-du-14-12-2015.html
 7298113-entre-les-lignes-du-15-12-2015.html
 7301896-entre-les-lignes-du-16-12-2015.html
-7304681-alexandre-lecoultre-moisson-17-12-2015.html
 7304682-entre-les-lignes-du-17-12-2015.html
 7309582-entre-les-lignes-du-07-12-2015.html
 7312360-entre-les-lignes-du-20-12-2015.html
@@ -652,7 +638,6 @@
 7495963-stephane-lambert-avant-godot-29-02-2016.html
 7511793-entre-les-lignes-du-06-03-2016.html
 7519798-harry-koumrouyan-un-si-dangereux-silence-09-03-2016.html
-7532450-printemps-des-poetes-1-prose-poesie-14-03-2016.html
 7532451-entre-les-lignes-du-14-03-2016.html
 7541450-francois-guillaume-lorrain-vends-maison-de-famille-17-03-2016.html
 7571638-guy-chevalley-cellulose-29-03-2016.html

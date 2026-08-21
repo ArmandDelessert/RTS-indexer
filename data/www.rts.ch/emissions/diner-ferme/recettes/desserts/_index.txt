@@ -5,5 +5,5 @@
 5034342-tartelettes-au-vin-cuit.html
 5036937-creme-citronnee-brulee.html
 5037216-parfait-glace-au-genepi-et-son-coulis-de-fraises.html
-928526-anouk.html
-928581-monique.html
+!928526-anouk.html
+!928581-monique.html

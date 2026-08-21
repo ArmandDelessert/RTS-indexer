@@ -8,7 +8,6 @@
 4015425-l-initiative-populaire-pour-une-caisse-maladie-publique-a-abouti.html
 4018209-le-pavillon-suisse-de-l-exposition-universelle-2015-devoile-a-milan.html
 4019622-les-suisses-font-de-plus-en-plus-confiance-a-leurs-autorites.html
-4022619-la-bns-a-reaffirme-la-defense-du-taux-plancher-de-1-20-franc-pour-un-euro.html
 4026421-accords-fiscaux-petit-dictionnaire-pour-mieux-comprendre-le-dossier.html
 4026562-xstrata-et-glencore-le-point-sur-les-accusations-de-pollution.html
 4027214-migros-signalera-les-produits-des-territoires-palestiniens-occupes.html
@@ -447,7 +446,6 @@
 4624569-vers-un-repit-dans-le-dossier-des-primes-maladie-payees-en-trop.html
 4624854-retour-dune-meteo-hivernale-jusquen-plaine-pour-le-weekend.html
 4625878-le-parti-liberalradical-rejette-la-loi-sur-lamenagement-du-territoire.html
-4627280-le-site-nucleaire-de-muhleberg-epingle-par-des-experts-internationaux.html
 4629876-le-gendre-de-ben-ali-deboute-par-le-tribunal-penal-federal.html
 4631930-projet-informatique-abandonne-a-la-confederation-et-6-millions-perdus.html
 4635575-toute-la-suisse-a-lheure-dun-test-des-sirenes-dalarme.html
@@ -656,9 +654,7 @@
 4965404-nouveau-coup-de-frein-a-l-accord-fiscal-avec-les-etats-unis.html
 4969376-les-cheques-emploi-remportent-un-large-succes-en-suisse.html
 4971042-le-peuple-refuse-delire-le-conseil-federal-et-accepte-la-loi-sur-lasile.html
-4971432-la-revision-de-la-loi-sur-l-asile-plebiscitee-a-pres-de-80.html
 4971432-la-revision-de-la-loi-sur-lasile-plebiscitee-a-pres-de-80.html
-4971589-la-suisse-ne-veut-pas-d-une-election-du-conseil-federal-par-le-peuple.html
 4971589-la-suisse-ne-veut-pas-dune-election-du-conseil-federal-par-le-peuple.html
 4973168-le-oui-au-durcissement-de-la-loi-sur-lasile-divise-la-presse-romande.html
 4974586-le-conseil-des-etats-adopte-la-lex-usa-par-24-voix-contre-15.html

@@ -68,7 +68,7 @@
 3186240-premieres-frappes-dhelicopteres-de-lotan-en-libye.html
 3211532-steak-hache-suspect-sept-enfants-intoxiques.html
 3216974-fukushima-acces-ouvert-au-reacteur-2.html
-3222929-la-doyenne-de-l-humanite-la-bresilienne-maria-gomes-valentim-est-decedee-a-114-ans-et-347-jours.html
+!3222929-la-doyenne-de-l-humanite-la-bresilienne-maria-gomes-valentim-est-decedee-a-114-ans-et-347-jours.html
 3229274-le-mariage-gay-est-autorise-a-new-york.html
 3242854-les-fonctionnaires-britanniques-en-colere.html
 3249798-radioactivite-elevee-dans-la-ville-de-fukushima.html
@@ -163,7 +163,6 @@
 3779933-portrait-de-stephan-schmidheiny.html
 3781593-le-president-kazakh-encore-accuse-de-blanchiment.html
 3782431-tour-du-monde-des-traditions-pour-la-saintvalentin.html
-3799867-dominique-strauss-kahn-place-en-garde-a-vue-mardi-matin-a-lille.html
 3801613-les-appels-pour-une-aide-humanitaire-en-syrie-se-font-pressants.html
 3801838-le-conseil-constitutionnel-maintient-la-publicite-des-soutiens-a-le-pen.html
 3827274-le-regime-syrien-continue-a-bombarder-homs-et-bloque-un-convoi-du-cicr.html
@@ -171,7 +170,6 @@
 3829472-vladimir-poutine-sest-impose-comme-un-dirigeant-autoritaire-portrait.html
 3841779-merkel-la-plus-appreciee-des-dirigeants-europeens-et-sarkozy-le-moins-populaire.html
 3844463-l-opposition-russe-manifeste-contre-la-victoire-du-president-poutine.html
-3845816-un-soldat-americain-massacre-seize-civils-en-afghanistan.html
 3849137-l-attentat-dejoue-contre-poutine-n-en-etait-vraisemblablement-pas-un.html
 3861255-le-soldat-qui-a-tue-16-afghans-a-ete-rapatrie-aux-etats-unis.html
 3861522-l-ancien-chef-du-renseignement-libyen-a-ete-arrete.html

@@ -35,11 +35,9 @@
 1274201-skeleton-pedersen-argentee.html
 1274202-skeleton-maya-pedersen-decoit.html
 1274203-lor-pour-la-suisse-en-skeleton.html
-12745506-le-sport-suisse-est-passe-a-lheure-de-noel.html
 1275339-frei-12e-du-12-5-km-poursuite-de-biathlon.html
 1289767-comment-se-doper-sans-se-faire-prendre.html
 12904516-guerre-en-ukraine-les-russes-exclus-des-competitions-de-patinage.html
-12907421-pekin-2022-paralympiques-les-athletes-russes-et-belarusses-de-la-partie.html
 1291576-tdr-04-jan-svorada-remporte-la-1re-etape.html
 12921916-tennis-du-sursis-pour-alexander-zverev-apres-son-coup-de-sang.html
 1292278-super-league-moldovan-et-un-bresilien-au-servette-fc.html
@@ -47,7 +45,6 @@
 1292304-football-christian-karembeu-signe-au-servette.html
 1292368-boncourt-est-champion.html
 12924431-atp-indian-wells-novak-djokovic-pourratil-jouer-aux-etatsunis.html
-12926132-tennis-novak-djokovic-ne-sy-alignera-ni-a-indian-wells-ni-a-miami.html
 1293232-euro-2004-groupe-b-le-mystere-croate.html
 1293563-euro-2004-les-tcheques-battent-les-lettons-a-lusure.html
 1293754-euro-2004-lallemagne-tenue-en-echec-par-la-lettonie.html
@@ -56,7 +53,6 @@
 1299779-coupe-spengler-les-stars-de-nhl-marqueront-ledition-2004.html
 1300681-le-rocambolesque-repreneur-du-servette-na-pas-un-sou.html
 1303382-barthez-suspendu-6-mois-dont-3-avec-sursis.html
-13046242-patrouille-des-glaciers-le-coup-denvoi-de-ledition-2022-est-reporte-de-24-heures.html
 1305352-football-zurich-sadjuge-la-coupe-de-suisse.html
 1307745-la-ligue-1-debute-avec-huit-suisses.html
 1312274-football-george-best-la-mort-dune-icone.html
@@ -107,7 +103,6 @@
 13625256-skicross-fanny-smith-sera-bien-en-bronze-tout-comme-daniela-maier.html
 13705899-divers-les-chaines-de-la-ssr-diffuseront-les-jo-jusqu-en-2032.html
 13705899-divers-les-chaines-de-la-ssr-diffuseront-les-jo-jusquen-2032.html
-14000772-vuelta-feminine-elise-chabbey-grimpe-au-4e-rang-du-general.html
 14048761-football-euro-m17-la-suisse-tient-langleterre-en-echec-et-attend-lallemagne.html
 14055811-football-euro-m17-la-suisse-a-11-contre-10-pendant-75-minutes-echoue-en-quarts-devant-lallemagne.html
 14057216-golf-albane-valenzuela-brille-a-las-vegas.html
@@ -116,8 +111,6 @@
 14069854-tour-de-suisse-remco-evenepoel-sera-au-depart.html
 14080406-golf-les-circuits-nordamericain-europeen-et-saoudien-fusionnent.html
 14086019-tour-de-suisse-lannee-des-helvetes.html
-14092970-tour-de-suisse-stefan-kung-enleve-le-chrono-inaugural-et-endosse-le-maillot-jaune.html
-14095578-tour-de-suisse-girmay-soffre-une-belle-victoire-au-sprint-kung-reste-en-jaune.html
 14512849-fevrier-jasmine-flury-et-marco-odermatt-au-sommet-le-centieme-de-nico-hischier-et-lenvolee-de-noe-roth.html
 14517102-janvier-les-skieurs-mettent-le-feu-bencic-demarre-fort-et-sommer-rejoint-une-institution.html
 14517365-mars-mujinga-kambundji-lara-gutbehrami-et-marco-odermatt-entre-or-et-globes.html
@@ -258,7 +251,6 @@
 8462526-revivez-les-principaux-evenements-de-la-semaine.html
 8469160-tokyo-2020-du-baseball-et-du-sofball-a-fukushima.html
 8479543-revivez-les-principaux-evenements-de-la-semaine.html
-8489936-hockey-marco-maurer-arrete-un-voleur-grace-a-un-bodycheck.html
 8585330-revivez-les-principaux-evenements-de-la-semaine-ecoulee.html
 8658808-revivez-les-principaux-evenements-de-la-semaine-ecoulee.html
 8680120-revivez-les-principaux-evenements-de-la-semaine-ecoulee.html

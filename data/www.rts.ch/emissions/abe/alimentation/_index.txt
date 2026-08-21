@@ -18,10 +18,10 @@
 3631074-le-pain-sommes-nous-tous-dans-le-petrin.html
 3650158-chocolats-show.html
 3663747-hamburger-le-retour.html
-3766429-de-la-poule-heureuse-a-l-oeuf-parfait.html
-3834801-jus-d-orange-et-pesticides-des-agrumes-trop-bien-traites.html
-3851524-fraise-espagnole-la-pas-belle-de-cadix.html
-3902218-mon-ail-tes-aulx-abe-epluche-les-bulbes.html
+!3766429-de-la-poule-heureuse-a-l-oeuf-parfait.html
+!3834801-jus-d-orange-et-pesticides-des-agrumes-trop-bien-traites.html
+!3851524-fraise-espagnole-la-pas-belle-de-cadix.html
+!3902218-mon-ail-tes-aulx-abe-epluche-les-bulbes.html
 3942725-pop-corn-et-numerique-abe-fait-son-cinema.html
 4168878-pas-si-sain-mon-yogourt.html
 4229314-des-herbes-de-provence-qui-viennent-de-l-est.html

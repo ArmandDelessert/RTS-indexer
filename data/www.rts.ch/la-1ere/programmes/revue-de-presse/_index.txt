@@ -1,5 +1,4 @@
 ./
-1423857-la-presse.html
 5598778-par-patrick-chaboudez-et-georges-pop.html
 5829368-par-georges-pop-et-patrick-chaboudez-14-05-2014.html
 5859602-par-georges-pop-et-patrick-chaboudez.html
@@ -26,7 +25,6 @@
 5941973-par-georges-pop-et-patrick-chaboudez.html
 !5946358-la-presse.html
 !5946358-par-georges-pop-et-patrick-chaboudez.html
-6077778-par-georges-pop-et-patrick-chaboudez-27-08-2014.html
 6588804-par-georges-pop-et-patrick-chaboudez-11-03-2015.html
 6615363-par-georges-pop-et-patrick-chaboudez.html
 6649418-par-sandra-viscardi-et-patrick-chaboudez-01-04-2015.html
@@ -53,20 +51,17 @@
 7516333-par-esther-coquoz-et-valerie-droux.html
 7519741-par-esther-coquoz-et-valerie-droux.html
 7522865-par-esther-coquoz-et-dominique-choffat.html
-7525607-par-esther-coquoz-et-dominique-choffat-04-03-2016.html
 7525625-par-esther-coquoz-et-dominique-choffat.html
 7532350-par-esther-coquoz-et-valerie-droux.html
 7535163-par-esther-coquoz-et-valerie-droux.html
 7538166-par-esther-coquoz-et-valerie-droux.html
 7541382-par-esther-coquoz-et-valerie-droux.html
 7544230-par-esther-coquoz-et-valerie-droux.html
-7550843-par-esther-coquoz-et-valerie-droux-14-03-2016.html
 7550861-par-esther-coquoz-et-valerie-droux.html
 7550868-par-esther-coquoz-et-valerie-droux.html
 7553640-la-presse-1.html
 7559748-par-esther-coquoz-et-valerie-droux-17-03-2016.html
 7562638-la-presse-2-18-03-2016.html
-7562644-par-esther-coquoz-et-valerie-droux-18-03-2016.html
 7742434-la-presse-1-27-05-2016.html
 7875515-la-presse-1-20-07-2016.html
 7913374-presente-par-esther-coquoz-et-sandra-zimmerli-09-08-2016.html

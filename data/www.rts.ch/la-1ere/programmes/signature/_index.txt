@@ -1,5 +1,4 @@
 ./
-1784441-signature.html
 2734420-signature.html
 4591100-le-confessionnal-alpin-de-davos.html
 4593920-famille-l-arrete-ne-fera-pas-avancer-le-schmilblick.html
@@ -33,13 +32,11 @@
 4699384-et-si-le-valais-entrait-enfin-dans-la-modernite.html
 4800996-non-a-une-prime-pour-meres-au-foyer-15-04-2013.html
 4840065-les-elections-neuchateloises-ou-les-hasards-du-mikado.html
-4916116-un-conseil-federal-en-manque-de-legitimite-27-05-2013.html
 4918272-la-dangereuse-utopie-du-revenu-de-base-inconditionnel-28-05-2013.html
 5201894-la-reinsertion-ne-rime-pas-avec-le-laxisme-18-09-2013.html
 5274096-la-reine-et-le-roitelet.html
 5409002-pouvoir-fort-modeste.html
 5453308-joel-marchetti-les-nouvelles-frontieres-20-12-2013.html
-5529417-pierre-han-choffat-sante-sans-frontiere-22-01-2014.html
 5773597-pascal-jeannerat-logement-l-espoir-hodgers-22-04-2014.html
 5822907-joel-marchetti-les-vacances-de-monsieur-blocher-12-05-2014.html
 5829362-signature-en-duel-sur-l-initiative-de-la-marche-blanche-14-05-2014.html
@@ -94,7 +91,6 @@
 7516346-pierre-han-choffat-pour-une-imposition-moderne-de-la-famille.html
 7519732-laurent-caspary-dur-dur-d-etre-une-droite-urbaine.html
 7522863-roger-guignard-un-sursaut-citoyen-tout-simplement.html
-7525613-pietro-bugnon-rendez-vous-manque-avec-les-etudiants-iraniens-04-03-2016.html
 7525632-pietro-bugnon-rendez-vous-manque-avec-les-etudiants-iraniens.html
 7532317-vincent-bourquin-danger-de-monopole-a-gauche-07-03-2016.html
 7532335-vincent-bourquin-danger-de-monopole-a-gauche.html
@@ -103,14 +99,11 @@
 7541394-chrystel-domenjoz-un-desistement-symboliquement-desastreux.html
 7544219-roger-guignard-internement-a-vie-un-choix-dechirant-.html
 7544236-roger-guignard-internement-a-vie-un-choix-dechirant.html
-7550848-marie-giovanola-aide-au-suicide-le-libre-choix-individuel-avant-tout-14-03-2016.html
 7550866-marie-giovanola-aide-au-suicide-le-libre-choix-individuel-avant-tout.html
 !7553642-laetitia-guinand-au-pas-les-partis.html
 !7553642-signature.html
 7556966-thibaut-schaller-adoption-pour-les-couples-homosexuels-l-arbre-qui-cache-la-foret.html
-7559746-ludovic-rocchi-une-transparence-de-facade-17-03-2016.html
 7559763-ludovic-rocchi-une-transparence-de-facade.html
-7562639-jacques-allaman-et-si-zurich-donnait-sa-benediction-urbi-et-orbi-18-03-2016.html
 7562657-jacques-allaman-et-si-zurich-donnait-sa-benediction-urbi-et-orbi.html
 7568804-joel-marchetti-la-carte-et-le-territoire.html
 7571533-pierre-han-choffat-servir-et-disparaitre.html

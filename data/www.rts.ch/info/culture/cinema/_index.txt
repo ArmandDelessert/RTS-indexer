@@ -49,7 +49,6 @@
 10124905-brexit-the-uncivil-war-le-telefilm-qui-eclaire-un-gourou-de-lombre.html
 10127619-creed-2-huitieme-round-de-la-saga-rocky-renfile-les-gants-et-decoit.html
 10127817-fenetre-sur-cour-le-regard-de-hitchcock-sur-le-voyeurisme.html
-10128334-les-series-tv-made-in-suisse-romande-seduisent-le-marche-etranger.html
 10130463-les-invisibles-la-comedie-qui-donne-de-la-dignite-aux-femmes-sansabri.html
 10130827-nils-tavernier-lhistoire-du-facteur-cheval-est-une-successstory.html
 10136518-claude-ruey-quitte-la-presidence-du-festival-visions-du-reel.html
@@ -107,7 +106,6 @@
 10254817-quand-les-realisatrices-regnaient-sur-hollywood.html
 10262041-la-comedie-zurichoise-qui-va-peutetre-faire-rire-les-romands.html
 10262437-retrospective-louis-malle-realisateur-provocateur-et-inclassable.html
-10264324-lacteur-luke-perry-star-de-la-serie-beverly-hills-est-mort-a-52-ans.html
 10268422-au-cinema-cette-semaine-trois-femmes-defient-nos-regards.html
 10271032-a-lausanne-les-rencontres-du-7e-art-de-vincent-perez-convient-joel-cohen.html
 10271033--the-widow-une-serie-a-suspense-portee-par-l-actrice-kate-beckinsale.html
@@ -223,10 +221,8 @@
 10485218-mon-tissu-prefere-film-sur-la-guerre-et-la-condition-des-femmes-en-syrie.html
 10486160-xmen-dark-phoenix-une-mise-en-scene-sobre-a-defaut-detre-brillante.html
 10486324-le-tapis-rouge-cet-incontournable-symbole-des-evenements-mondains.html
-10487753-good-omens-la-serie-qui-rend-festive-la-fin-du-monde.html
 10490646-yuli-le-film-qui-montre-la-realite-de-la-vie-cubaine-sous-castro.html
 10501565--men-in-black-international-recherche-son-ame-desesperement.html
-10501756-la-cinquieme-saison-de-black-mirror-perd-de-sa-verve-subversive.html
 10501878-big-little-lies-saison-2-solidarite-feminine-tension-et-fauxsemblants.html
 10504259-roxane-la-comedie-qui-cultive-la-litterature-et-les-oeufs-bio.html
 10504660-perpetual-grace-ltd-un-thriller-tantot-sombre-tantot-absurde.html
@@ -312,7 +308,6 @@
 10703841-le-service-de-streaming-video-apple-tv-debarque-en-novembre.html
 10706252-le-dindon-de-georges-feydau-un-classique-porte-a-lecran.html
 10708612-une-tapisserie-de-bayeux-version-game-of-thrones-exposee-en-france.html
-10709883-la-serie-de-la-rts-helvetica-primee-dans-un-festival-a-la-rochelle.html
 10718111-le-nouveau-film-de-woody-allen-sort-sur-fond-de-scandale-metoo.html
 10718576-le-veteran-john-rambo-ou-la-vision-triomphante-des-etatsunis.html
 10718738-le-film-ad-astra-fait-rimer-sciencefiction-et-introspection.html
@@ -374,7 +369,6 @@
 10859885-les-dix-films-que-vous-recommande-rts-culture.html
 10861370-avec-the-irishman-martin-scorsese-signe-un-filmbilan.html
 10867564-la-reine-des-neiges-icone-feministe-et-poule-aux-oeufs-dor-de-disney.html
-10867861-les-series-cette-culture-populaire-qui-nous-eduque.html
 10873571-xavier-dolan-jai-envie-de-faire-un-film-de-genre-un-film-dhorreur.html
 10873838-le-seigneur-des-anneaux-la-trilogie-mythique-de-peter-jackson.html
 10875617-disparition-de-la-realisatrice-anne-deluz-vaincue-par-le-cancer.html
@@ -455,7 +449,6 @@
 11104388-le-realisateur-samir-brise-les-tabous-dans-baghdad-in-my-shadow.html
 11104749-pourquoi-le-cineaste-nanni-moretti-aimetil-tant-filmer-le-sport.html
 11107067-la-70e-berlinale-ouvre-ses-portes-entre-glamour-et-politique.html
-11112777-la-bande-de-friends-va-faire-son-grand-retour-sur-le-petit-ecran.html
 11118028-les-revoltes-au-coeur-du-prochain-festival-du-film-international-sur-les-droits-humains.html
 11119672-longue-standing-ovation-pour-un-film-romand-au-festival-de-berlin.html
 11119980-les-films-que-vous-recommande-rts-culture.html
@@ -489,7 +482,7 @@
 11195106-midnight-family-la-sortie-cinema-a-decouvrir-dans-votre-salon.html
 11198401-disparition-du-comedien-genevois-francois-florey.html
 11200604-lhaletante-troisieme-saison-de-la-serie-noire-danoise-dos-au-mur.html
-11205547-le-grand-prix-du-festival-du-film-de-fribourg-a-you-will-die-at-20-.html
+11205547-le-grand-prix-du-festival-du-film-de-fribourg-a-you-will-die-at-20.html
 11207953-fondateur-du-groupe-5-le-cineaste-suisse-jeanlouis-roy-est-decede.html
 11216577-trois-excellentes-series-a-voir-ou-revoir-durant-le-confinement-.html
 11225625-louis-de-funes-ce-genie-du-burlesque.html
@@ -649,13 +642,9 @@
 11715592-sans-signe-particulier-un-thriller-petri-dhumanite.html
 11716339-vitus-le-malheur-du-surdoue.html
 11717937-sean-connery-le-plus-celebre-des-agents-007-est-decede-a-lage-de-90-ans.html
-11720906-kidnapping-une-serie-sous-forme-de-thriller-venu-du-froid.html
-11727124-la-serie-emily-in-paris-critiquee-pour-ses-cliches-sur-la-france.html
 11729568-les-partisans-de-trump-moques-dans-la-suite-des-aventures-de-borat.html
 11729769-une-nouvelle-version-de-rebecca-huitante-ans-apres-hitchcock.html
 11729939-giona-a-nazzaro-prend-la-direction-artistique-du-festival-de-locarno.html
-11732363-social-distance-la-serie-netflix-qui-raconte-nos-confinements.html
-11737536-frieden-la-fresque-historique-suisse-instructive-et-captivante.html
 11738426-quand-la-derniere-tentation-du-christ-faisait-scandale.html
 11741929-the-comey-rule-make-democracy-great-again.html
 11746299-les-cesar-abolissent-les-membres-a-vie-et-seloignent-de-roman-polanski.html
@@ -704,7 +693,6 @@
 11888079-lecrivain-emmanuel-carrere-invite-dhonneur-du-festival-visions-du-reel.html
 11890543-claudia-cardinale-star-eblouissante-minee-par-un-lourd-secret.html
 11890971-84-films-a-voir-en-ligne-lors-de-la-22e-edition-du-black-movie.html
-11893259-vingt-ans-apres-retour-de-la-serie-sex-and-the-city-sans-kim-cattrall.html
 11893297-il-y-a-quarante-ans-indiana-jones-est-devenu-un-heros-de-la-pop-culture.html
 11893605-al-pacino-lacteur-de-tous-les-roles-sauf-un-celui-de-star.html
 11906613-lacteur-et-scenariste-jeanpierre-bacri-est-decede-dun-cancer.html
@@ -1240,7 +1228,6 @@
 13602630-lactrice-americaine-kirstie-alley-est-decedee.html
 13609652-le-combat-pour-le-droit-a-lavortement-en-france-au-coeur-de-annie-colere.html
 13609807-les-bonnes-etoiles-roadmovie-subtil-sur-ladoption-realise-par-koreeda.html
-13615268-la-serie-friends-comme-si-vous-y-etiez-grace-a-une-exposition-immersive.html
 13620843-sans-filtre-de-ruben-ostlund-grand-gagnant-des-prix-du-cinema-europeen.html
 13624375-la-guerre-et-les-droits-de-lhomme-au-coeur-des-prochaines-journees-de-soleure.html
 13624788-ernest-et-celestine-sont-de-retour-au-cinema-dans-le-voyage-en-charabie.html
@@ -1504,7 +1491,6 @@
 14538600-lacteur-americain-ryan-oneal-devenu-celebre-avec-love-story-sest-eteint-a-82-ans.html
 14543844-barbie-et-oppenheimer-en-tete-des-nominations-pour-les-golden-globes.html
 14546264-eva-green-incarne-une-femme-libre-et-forte-dans-les-trois-mousquetaires-milady.html
-14549025-netflix-publie-pour-la-premiere-fois-le-detail-de-ses-donnees-de-visionnage.html
 14552466-la-realisatrice-de-barbie-greta-gerwig-presidera-le-jury-du-festival-de-cannes.html
 14552914-dans-wonka-timothee-chalamet-incarne-le-magicienchocolatier-dans-sa-jeunesse.html
 14556553-lacteur-et-chanteur-francais-guy-marchand-est-mort-a-lage-de-86-ans.html
@@ -2154,7 +2140,6 @@
 9744627-apparition-posthume-de-carrie-fisher-dans-le-prochain-star-wars-.html
 9745166-la-piscine-un-film-torride-avec-alain-delon-et-romy-schneider.html
 9745943-leo-mccarey-grand-cineaste-oublie-revit-au-festival-de-locarno.html
-9748100-jack-bauer-et-24h-chrono-tentent-un-retour-mais-sans-kiefer-sutherland.html
 9748410-les-dents-de-la-mer-veritable-phenomene-cinematographique.html
 9749690-une-serie-sur-trayvon-martin-un-ado-noir-tue-parce-quil-etait-suspect.html
 9751154-pres-de-40-films-a-decouvrir-au-festival-du-film-alpin-des-diablerets.html
@@ -2234,7 +2219,6 @@
 9949658-a-neuchatel-les-films-a-thematique-religieuse-reunis-pour-un-27e-festival.html
 9953355--bohemian-rhapsody-le-biopic-dont-freddie-mercury-est-le-heros.html
 9953834-rome-serie-sur-la-splendeur-et-la-misere-de-la-republique.html
-9956406-la-saison-3-de-dix-pour-cent-debarque-sur-les-petits-ecrans.html
 9959780-le-cineaste-francotunisien-abdellatif-kechiche-accuse-dagression-sexuelle.html
 9960249-en-liberte-lirresistible-comedie-policiere-de-pierre-salvadori.html
 9962132--bodyguard-le-thriller-politique-anglais-qui-cartonne.html

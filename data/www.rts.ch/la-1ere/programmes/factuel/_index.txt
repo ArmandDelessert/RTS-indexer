@@ -1,5 +1,4 @@
 ./
-5144292-le-cout-social-du-tabagisme-en-suisse-27-08-2013.html
 5164604-implantation-d-entreprises-le-canton-de-vaud-est-il-toujours-aussi-attractif-04-09-2013.html
 5274080-faut-il-accorder-les-memes-deductions-fiscales-a-toutes-les-familles-15-10-2013.html
 5274098-faut-il-accorder-les-memes-deductions-fiscales-a-toutes-les-familles.html
@@ -32,7 +31,6 @@
 5939169-l-economie-americaine-a-t-elle-pu-redemarrer-grace-au-gaz-de-schiste.html
 5941960-trois-quarts-des-francais-ne-soutiennent-pas-le-mouvement-de-greve-de-la-sncf.html
 5951517-les-verts-le-parti-qui-represente-le-mieux-la-parite-hommes-femmes-30-06-2014.html
-6061698-moins-d-un-quart-des-personnes-admises-provisoirement-travaillent-20-08-2014.html
 6073993-la-correction-des-traductions-des-textes-d-initiatives-sont-de-la-responsabilite-des-initiants-et-non-du-parlement-.html
 6073993-la-correction-des-traductions-des-textes-d-initiatives-sont-de-la-responsabilite-des-initiants-et-non-du-parlement-26-08-2014.html
 6326562-le-prix-de-la-vodka-a-baisse-de-80-en-quelques-annees-01-12-2014.html
@@ -46,5 +44,4 @@
 6755558-cinq-fois-plus-de-chance-mourir-par-balle-avec-une-arme-a-la-maison.html
 6808201-10-des-suisses-vivent-a-l-etranger.html
 6884941-plus-de-95-d-acteurs-prives-dans-le-marche-du-logement-en-suisse.html
-6893789-retrospective-les-statistiques-de-deux-saisons-de-factuel-02-07-2015.html
 6893806-retrospective-les-statistiques-de-deux-saisons-de-factuel.html

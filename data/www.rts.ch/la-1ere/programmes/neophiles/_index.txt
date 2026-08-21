@@ -1,5 +1,4 @@
 ./
-7006401-neophiles.html
 7008688-le-parcours-du-combattant-de-betim-shkodra.html
 7011976-la-conquete-de-la-bio-informatique-de-jurgi-camblong.html
 7014541-la-suisse-une-terre-d-opportunites-pour-miguel-barreto.html
@@ -12,7 +11,6 @@
 7035395-payer-sa-voiture-d-occasion-avec-une-application.html
 7041783-neophiles.html
 7071780-welchilicon-valley-17-09-2015.html
-7143423-et-si-on-imprimait-du-metal-metalup3-13-10-2015.html
 7169711-plantes-et-vallees-pharmalp.html
 7180800-l-entrepreneur-ii-skioo.html
 7183752-juste-15-millions-knip.html
@@ -85,12 +83,10 @@
 7535164-la-vision-fastree3d.html
 7541398-heros-normal-sterilux.html
 7544225-abcde-dermosafe-v.html
-7550854-travailler-demain-skillspotting-14-03-2016.html
 7550870-travailler-demain-skillspotting.html
 7553631-neophiles.html
 7556935-le-but-pristem-16-03-2016.html
 7559755-le-parcours-obseva-17-03-2016.html
-7562637-la-pharma-obseva-ii-18-03-2016.html
 7578233--murmurer-a-l-oreille-des-robots-neuvoo.html
 7620997--le-concours-venture-kick.html
 7632532--startup-ou-pas-.html

@@ -17,7 +17,7 @@
 3192245-la-maison-la-plus-photographiee-du-monde-ile-de-salagnon-vaud.html
 3421620-suisse-le-defi-du-gruyere.html
 4145834-chronometre-jesse-owens-berlin-1936.html
-4265759-cooperation-internationale-un-metier.html
+!4265759-cooperation-internationale-un-metier.html
 4409185-maquette-de-geneve-relief-magnin-geneve-maison-tavel.html
 5102300-saillon-valais.html
 5644491-lavie-qui-change-senegal.html

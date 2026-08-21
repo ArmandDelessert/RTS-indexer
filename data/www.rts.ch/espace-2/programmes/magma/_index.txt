@@ -9,15 +9,10 @@
 4214896-magma-du-27-08-2012.html
 4219504-magma-du-05-09-2012.html
 4224942-magma-du-06-09-2012.html
-4225007-festival-electrosanne-07-09-2012.html
-4225008-anthony-cedric-vuagniaux-a-la-batie-07-09-2012.html
-4225010-jjr-citoyen-de-geneve-07-09-2012.html
-4225011-magma-07-09-2012.html
 4225012-magma-du-07-09-2012.html
 4225446-magma-du-09-09-2012.html
 4231578-magma-du-10-09-2012.html
 4232022-magma-du-11-09-2012.html
-4242441-igor-markevitch-compositeur-et-chef-d-orchestre-12-09-2012.html
 4242446-magma-du-12-09-2012.html
 4244013-magma-du-13-09-2012.html
 4244303-magma-du-14-09-2012.html
@@ -48,7 +43,6 @@
 4542981-magma-du-14-01-2013.html
 4544646-magma-du-15-01-2013.html
 4600839-l-orchestre-quipasseparla-07-02-2013.html
-4657242-argerich-de-stephanie-argerich-27-02-2013.html
 4757298-magma-du-04-04-2013.html
 4804132-magma-du-23-04-2013.html
 4833684-un-nouveau-prix-de-composition-au-concours-de-geneve-03-05-2013.html
@@ -74,7 +68,6 @@
 4972519-magma-du-24-06-2013.html
 4975252-magma-du-25-06-2013.html
 4978638-magma-du-26-06-2013.html
-4981430-une-exposition-sur-le-fou-chantant-27-06-2013.html
 4981433-magma-du-27-06-2013.html
 4984538-magma-du-28-06-2013.html
 4996395-magma-du-01-07-2013.html
@@ -82,7 +75,6 @@
 4998424-magma-du-03-07-2013.html
 5000985-magma-du-04-07-2013.html
 5002862-magma-du-05-07-2013.html
-5006994-portrait-de-beatrice-uria-mozon-05-08-2013.html
 5142308-magma-02-09-2013.html
 5201972-le-requiem-de-mozart-de-la-flash-mob-a-la-cathedrale-de-lausanne-25-09-2013.html
 5333524-magma-du-13-11-2013.html
@@ -94,7 +86,6 @@
 5761215-magma-du-29-04-2014.html
 5761313-magma-du-30-04-2014.html
 5761373-magma-du-01-05-2014.html
-5761449-cedric-pescia-et-son-mantra-02-05-2014.html
 5761450-magma-du-02-05-2014.html
 5787889-magma-du-05-05-2014.html
 5789773-magma-du-06-05-2014.html
@@ -102,10 +93,6 @@
 5796096-magma-du-08-05-2014.html
 5798707-magma-du-09-05-2014.html
 5804571-magma-du-12-05-2014.html
-5806193-magma-13-05-2014.html
-5806195-babel-after-the-war-13-05-2014.html
-5806196-tetrafolie-a-geneve-13-05-2014.html
-5806197-la-chronique-de-jean-pierre-amann-13-05-2014.html
 5806198-magma-du-13-05-2014.html
 5814155-magma-du-15-05-2014.html
 5816922-magma-du-16-05-2014.html
@@ -133,7 +120,6 @@
 6132100-magma-du-24-09-2014.html
 6146678-mag-live.html
 6162607-magma-du-06-10-2014.html
-6169135-jeunehomme-d-alexandre-tharaud-08-10-2014.html
 6180730-chanteurs-d-oiseaux-13-10-2014.html
 6180732-gluff-a-la-cave-12-13-10-2014.html
 6198941-jean-rondeau-claveciniste-et-jazzman-20-10-2014.html
@@ -225,12 +211,9 @@
 7522964-magma-du-10-03-2016.html
 7525732-magma-du-11-03-2016.html
 7532428-plaistow-au-festival-de-jazz-de-l-amr-14-03-2016.html
-7532430-88-printemps-pour-christa-ludwig-14-03-2016.html
-7532431-hommage-a-nana-vasconcelos-14-03-2016.html
 7532433-magma-du-14-03-2016.html
 7535245-magma-du-15-03-2016.html
 7571630-magma-du-29-03-2016.html
-7587708-jean-liermier-directeur-du-theatre-de-carouge-04-04-2016.html
 7590130-reste-la-lumiere-avec-angelique-ionatos-06-04-2016.html
 7640944-magma-du-26-04-2016.html
 7658463-magma-du-03-05-2016.html

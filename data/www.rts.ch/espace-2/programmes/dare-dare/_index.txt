@@ -11,8 +11,8 @@
 2293060-dare-dare-du-06-08-2010.html
 2293333-dare-dare-du-07-08-2010.html
 2316147-dare-dare-du-09-08-2010.html
-2316151-dare-dare-09-08-2010.html
-2316152-la-compagnie-interface-a-nax-09-08-2010.html
+!2316151-dare-dare-09-08-2010.html
+!2316152-la-compagnie-interface-a-nax-09-08-2010.html
 2321034-dare-dare-du-10-08-2010.html
 2321690-dare-dare-du-12-08-2010.html
 2322058-dare-dare-du-13-08-2010.html
@@ -38,7 +38,7 @@
 2802608-dare-dare-du-31-12-2010.html
 2807727-dare-dare-du-03-01-2011.html
 2809087-dare-dare-du-04-01-2011.html
-2820962-portait-de-gaspard-delachaux-et-dode-lambert-05-01-2011.html
+!2820962-portait-de-gaspard-delachaux-et-dode-lambert-05-01-2011.html
 2820965-dare-dare-du-05-01-2011.html
 2826169-dare-dare-du-07-01-2011.html
 2832543-dare-dare-du-11-01-2011.html
@@ -62,10 +62,10 @@
 3100413-dare-dare-du-10-05-2011.html
 3102041-dare-dare-du-11-05-2011.html
 3104758-dare-dare-du-12-05-2011.html
-3107163-monumenta-anish-kapoor-13-05-2011.html
-3107165-dare-dare-13-05-2011.html
-3107166-penthesilee-au-galpon-13-05-2011.html
-3107167-les-fables-de-la-fontaine-aux-classiques-de-mathod-13-05-2011.html
+!3107163-monumenta-anish-kapoor-13-05-2011.html
+!3107165-dare-dare-13-05-2011.html
+!3107166-penthesilee-au-galpon-13-05-2011.html
+!3107167-les-fables-de-la-fontaine-aux-classiques-de-mathod-13-05-2011.html
 3107168-dare-dare-du-13-05-2011.html
 3109483-dare-dare-du-14-05-2011.html
 3113062-dare-dare-du-16-05-2011.html
@@ -95,7 +95,6 @@
 3898244-dare-dare-du-10-05-2012.html
 3898293-dare-dare-du-11-05-2012.html
 3898497-dare-dare-du-14-05-2012.html
-3898627-la-cantatrice-chauve-au-theatre-alchimic-a-geneve-16-05-2012.html
 3898631-dare-dare-du-16-05-2012.html
 3898678-dare-dare-du-15-05-2012.html
 3973850-dare-dare-du-21-05-2012.html
@@ -125,9 +124,6 @@
 4059687-dare-dare-du-26-06-2012.html
 4063281-dare-dare-du-27-06-2012.html
 4065718-dare-dare-du-28-06-2012.html
-4068310-deces-d-eric-gaudibert-29-06-2012.html
-4068312-pour-le-meilleur-et-pour-le-pire-le-cirque-aital-a-vidy-lausanne-29-06-2012.html
-4068314-la-ronde-au-theatre-de-l-orangerie-29-06-2012.html
 4068315-dare-dare-du-29-06-2012.html
 4074273-sequence-3-02-07-2012.html
 4074276-dare-dare-du-02-07-2012.html

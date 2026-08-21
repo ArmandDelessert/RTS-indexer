@@ -6,7 +6,6 @@
 2922965-helene-pierrakos.html
 3636818-matthieu-chenal-chroniqueur-musical.html
 3793632-disques-en-lice-du-03-03-2012.html
-3796578-carrement-a-l-ouest-avec-copland-05-03-2012.html
 3796579-disques-en-lice-du-05-03-2012.html
 3809472-disques-en-lice-du-10-03-2012.html
 3812906-disques-en-lice-du-12-03-2012.html
@@ -21,7 +20,6 @@
 4225344-disques-en-lice-du-08-09-2012.html
 4242559-disques-en-lice-du-15-09-2012.html
 4251224-disques-en-lice-du-17-09-2012.html
-4270345-la-14e-de-chostakovitch-symphonie-ou-requiem-29-09-2012.html
 4270346-disques-en-lice-du-29-09-2012.html
 4284334-disques-en-lice-du-01-10-2012.html
 4287156-disques-en-lice-du-24-09-2012.html
@@ -69,7 +67,6 @@
 7237512-disques-en-lice-du-23-11-2015.html
 7401349-disques-en-lice-du-25-01-2016.html
 7417107-disques-en-lice-du-30-01-2016.html
-7420570-le-quatuor-de-debussy-01-02-2016.html
 7420571-disques-en-lice-du-01-02-2016.html
 7452029-liens-en-relation-a-l-oeuvre.html
 7461879-les-versions-en-lice.html
@@ -78,7 +75,6 @@
 7510086-disques-en-lice-du-05-03-2016.html
 7524692-liens-en-relation-a-l-oeuvre.html
 7528623-disques-en-lice-du-12-03-2016.html
-7532456-l-opera-de-quat-sous-de-weill-et-brecht-14-03-2016.html
 7532457-disques-en-lice-du-14-03-2016.html
 7533505-les-versions-en-lice.html
 7546836-disques-en-lice-du-19-03-2016.html

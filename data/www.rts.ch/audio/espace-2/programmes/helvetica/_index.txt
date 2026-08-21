@@ -1,12 +1,9 @@
 4200596-helvetica.html
-4505753-le-tram-12-a-geneve-une-histoire-qui-roule-03-01-2013.html
 4662473-swissair-atterrissage-force-5-5-01-03-2013.html
-4712779-jerome-meizoz-une-memoire-valaisanne-3-5-20-03-2013.html
 4725221-swiss-made-l-excellence-de-la-fabrication-helvetique-1-5-25-03-2013.html
 4737099-swiss-made-l-excellence-de-la-fabrication-helvetique-4-5-28-03-2013.html
 4757276-les-chemins-de-la-poya-4-5-04-04-2013.html
 4758623-les-chemins-de-la-poya-5-5-05-04-2013.html
-5463325-le-rostigraben-virus-journalistique-ou-realite-culturelle-2-5-07-01-2014.html
 7316590-le-service-public-entre-marketing-et-besoins-sociaux-2-5-02-02-2016.html
 7316811-le-service-public-entre-marketing-et-besoins-sociaux-3-5-03-02-2016.html
 7316886-le-service-public-entre-marketing-et-besoins-sociaux-4-5-04-02-2016.html
@@ -19,7 +16,6 @@
 7408446-les-droles-de-personnages-des-billets-suisses-3-5-27-01-2016.html
 7411073-les-droles-de-personnages-des-billets-suisses-4-5-28-01-2016.html
 7414138-les-droles-de-personnages-des-billets-suisses-5-5-29-01-2016.html
-7420583-le-service-public-entre-marketing-et-besoins-sociaux-1-5-01-02-2016.html
 7421509-naissance-de-dada-a-zurich-en-1916-3-5-20-01-2016.html
 7440713-h-r-giger-l-imaginaire-apocalyptique-d-un-artiste-suisse-08-02-2016.html
 7443599-h-r-giger-l-imaginaire-apocalyptique-d-un-artiste-suisse-09-02-2016.html
@@ -40,10 +36,8 @@
 7498449-c-f-landry-ouvrier-des-lettres-romandes-2-5-01-03-2016.html
 7501613-c-f-landry-ouvrier-des-lettres-romandes-3-5-02-03-2016.html
 7504604-c-f-landry-ouvrier-des-lettres-romandes-4-5-03-03-2016.html
-7507492-c-f-landry-ouvrier-des-lettres-romandes-5-5-04-03-2016.html
 7513580-l-absinthe-liqueur-ou-poison-helvetiques-1-5-07-03-2016.html
 7516383-l-absinthe-liqueur-ou-poison-helvetiques-2-5-08-03-2016.html
 7519816-l-absinthe-liqueur-ou-poison-helvetiques-3-5-09-03-2016.html
 7522955-l-absinthe-liqueur-ou-poison-helvetiques-4-5-10-03-2016.html
 7525722-l-absinthe-liqueur-ou-poison-helvetiques-5-5-11-03-2016.html
-7532421-printemps-de-la-poesie-une-premiere-en-suisse-romande-1-5-14-03-2016.html

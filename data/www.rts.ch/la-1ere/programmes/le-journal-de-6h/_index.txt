@@ -1,5 +1,4 @@
 ./
-1423862-le-journal-de-6h.html
 2363413-le-journal-de-6h.html
 4337567-journal-de-06h00.html
 4757166-journal-de-06h00-28-03-2013.html
@@ -18,7 +17,6 @@
 5902889-presente-par-natacha-etter.html
 5903768-presente-par-foued-boukari.html
 5908528-presente-par-valerie-droux.html
-5914270-presente-par-valerie-droux-16-06-2014.html
 5914288-presente-par-valerie-droux.html
 5916161-journal-de-06h00.html
 5919226-presente-par-valerie-droux.html
@@ -54,12 +52,8 @@
 7487271-presente-par-sandra-viscadi.html
 7489737-presente-par-sandra-viscardi.html
 7513516-presente-par-jerome-jeannin-29-02-2016.html
-7522841-presente-par-sandra-viscardi-03-03-2016.html
-7525604-presente-par-sandra-viscardi-04-03-2016.html
 7535150-presente-par-blandine-levite-08-03-2016.html
-7550845-presente-par-sandra-viscardi-14-03-2016.html
 7559743-presente-par-blandine-levite-17-03-2016.html
-7562632-presente-par-blandine-levite-18-03-2016.html
 7665041-presente-par-sandra-zimmerli-28-04-2016.html
 7848447-journal-de-06h00-07-07-2016.html
 7875516-journal-de-06h00-20-07-2016.html

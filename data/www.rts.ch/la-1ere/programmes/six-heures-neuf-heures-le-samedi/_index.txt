@@ -18,7 +18,6 @@
 7397964-six-heures-neuf-heures-le-samedi-du-23-01-2016.html
 7417406-six-heures-neuf-heures-le-samedi-du-30-01-2016.html
 7437230-les-autres-m-accorderez-vous-cette-danse-monsieur-06-02-2016.html
-7456470-les-medias-l-image-ecornee-de-la-grande-cuisine-13-02-2016.html
 7475276-la-publicite-une-amie-qui-vous-voudra-du-bien-20-02-2016.html
 7475277-six-heures-neuf-heures-le-samedi-du-20-02-2016.html
 7492959-l-intelligence-artificielle-entre-fantasme-et-realite-27-02-2016.html
@@ -31,7 +30,6 @@
 7510352-cash-contre-cartes-05-03-2016.html
 7510353-les-medias-le-maroc-censure-05-03-2016.html
 7510354-les-nouveaux-modeles-paysans-05-03-2016.html
-7510355-six-heures-neuf-heures-le-samedi-05-03-2016.html
 7510356-le-journal-des-sports-05-03-2016.html
 7510357-les-autres-vico-torriani-la-superstar-grisonne-05-03-2016.html
 7510358-la-revue-de-presse-05-03-2016.html
@@ -41,7 +39,6 @@
 7528930-six-heures-neuf-heures-le-samedi-du-12-03-2016.html
 7547122-indices-numeriques-les-policiers-se-forment-19-03-2016.html
 7547134-six-heures-neuf-heures-le-samedi-du-19-03-2016.html
-7565520-le-secteur-des-paiements-atomise-26-03-2016.html
 7584385-les-sportifs-du-dimanche-sous-pression-02-04-2016.html
 7584386-musique-et-cerveau-le-chant-pour-retrouver-la-parole-02-04-2016.html
 7584387-fast-fashion-02-04-2016.html
@@ -52,15 +49,12 @@
 7584392-6h-9h-les-chroniqueurs-02-04-2016.html
 7584393-l-autisme-n-est-pas-detecte-assez-tot-02-04-2016.html
 7584394-le-journal-des-sports-02-04-2016.html
-7584395-la-selection-02-04-2016.html
 7584396-la-revue-des-unes-02-04-2016.html
 7584397-six-heures-neuf-heures-le-samedi-du-02-04-2016.html
 7603084-six-heures-neuf-heures-le-samedi-du-09-04-2016.html
-7618170-l-intelligence-artificielle-vous-soignera-bientot-16-04-2016.html
+!7618170-l-intelligence-artificielle-vous-soignera-bientot-16-04-2016.html
 7618176-six-heures-neuf-heures-le-samedi-16-04-2016.html
-7635386-les-medias-merci-patron-bientot-en-suisse-romande-23-04-2016.html
 7635392-six-heures-neuf-heures-le-samedi-du-23-04-2016.html
-7652946-darknet-plongee-en-eaux-troubles-mais-pas-que-30-04-2016.html
 7652952-six-heures-neuf-heures-le-samedi-du-30-04-2016.html
 7670829-un-nouveau-cadre-juridique-pour-les-robots-07-05-2016.html
 7688362-les-medias-amandine-et-patrick-en-duo-inedit-14-05-2016.html

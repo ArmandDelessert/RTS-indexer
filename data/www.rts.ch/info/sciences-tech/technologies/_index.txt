@@ -105,7 +105,6 @@
 12568589-sources-dincendies-dans-les-centres-de-tri-les-batteries-au-lithium-inquietent.html
 12587653-apple-met-en-place-des-concessions-sur-son-app-store.html
 12589383-une-course-de-voitures-autonomes-menee-a-plus-de-200-kmh-a-indianapolis.html
-12604064-operation-internationale-contre-le-cybercrime-en-suisse-et-en-ukraine.html
 12622984-podcast-a-quel-point-lusage-quotidien-du-plastique-estil-dangereux.html
 12631979-un-algorithme-pour-faire-des-economies-denergie-au-bureau.html
 12663959-les-appareils-electriques-sont-toujours-plus-economes-en-energie.html
@@ -125,7 +124,6 @@
 12872002-un-candidat-a-la-presidentielle-sudcoreenne-utilise-un-avatar-pour-seduire-les-electeurs.html
 12917291-lidee-dun-cloud-souverain-reapparait-en-suisse.html
 12918645-mise-en-garde-sur-limpact-nocif-de-la-compression-des-sons-sur-la-sante.html
-12943846-zep-imagine-notre-humanite-future-avec-un-second-cerveau-numerique.html
 12946641-le-telescope-spatial-james-webb-voit-deja-des-milliers-de-galaxies-lointaines.html
 13036002-meteosuisse-a-developpe-un-nouvel-outil-pour-mieux-traquer-le-pollen.html
 13036894-laccelerateur-de-particules-du-cern-reprend-du-service.html
@@ -226,7 +224,6 @@
 14197473-des-robots-de-lepfz-bien-places-en-vue-de-missions-lunaires.html
 14198194-plus-de-6000-jeunes-faons-ont-ete-sauves-cette-annee-grace-aux-drones.html
 14211409-dans-les-centres-de-tri-les-incendies-lies-aux-batteries-se-multiplient.html
-14233830-un-procureur-special-charge-denqueter-sur-le-fils-du-president-des-etatsunis-hunter-biden.html
 14276902-les-robotstaxis-sans-chauffeur-ne-font-pas-lunanimite-a-san-francisco.html
 14307146-kavea-la-plateforme-de-streaming-qui-veut-diffuser-la-creation-suisse.html
 14312933-les-arbres-connectes-prennent-racines-dans-les-communes-romandes.html

@@ -1,5 +1,4 @@
 ./
-1423864-le-journal-de-7h.html
 4530705-journal-de-07h00-31-12-2012.html
 4572703-journal-de-07h-21-01-2013.html
 5152885-journal-de-07h00-30-08-2013.html
@@ -81,16 +80,13 @@
 7516335-presente-par-coralie-claude.html
 7519733-presente-par-coralie-claude.html
 7522867-presente-par-coralie-claude.html
-7525603-presente-par-coralie-claude-04-03-2016.html
 7525622-presente-par-coralie-claude.html
 7532342-presente-par-coralie-claude.html
 7535161-presente-par-coralie-claude.html
 7538181-presente-par-coralie-claude.html
 7541387-presente-par-coralie-claude.html
 7544238-presente-par-coralie-claude.html
-7550859-presente-par-blandine-levite-14-03-2016.html
 7550874-presente-par-blandine-levite.html
-7553610-presente-par-blandine-levite-15-03-2016.html
 7553628-presente-par-blandine-levite.html
 7556963-presente-par-blandine-levite.html
 7559750-presente-par-coralie-claude-17-03-2016.html

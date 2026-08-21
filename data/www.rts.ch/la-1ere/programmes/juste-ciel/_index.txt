@@ -1,5 +1,4 @@
 ./
-1784429-juste-ciel.html
 2481070-les-caricatures-de-mahomet-a-nouveau-editees.html
 3290478-le-dalai-lama-democrate.html
 4051006-schisme-econe-vatican-aux-integristes-de-franchir-le-fosse.html
@@ -9,7 +8,6 @@
 4820023-la-radicalisation-est-la-recherche-des-racines-des-principes-premiers.html
 4866552-revision-de-la-loi-sur-l-asile-forte-mobilisation-mais-faible-echo-08-05-2013.html
 4906234-premiere-pierre-pour-la-maison-des-religions-a-berne.html
-4916110-le-jury-oecumenique-de-cannes-couronne-asghar-farhadi-27-05-2013.html
 4924327-padre-pio-un-saint-en-vitrine-30-05-2013.html
 5242497-l-eglise-d-ecosse-se-lance-un-programme-d-eglises-non-conventionnelles-03-10-2013.html
 5274097-une-eglise-evangelique-paralyse-la-ville-de-manille.html
@@ -101,17 +99,10 @@
 5941968-des-synagogues-tcheques-renaissent-grace-aux-fonds-de-l-ue.html
 5946359-debut-du-ramadan-footballeurs-musulmans-genes.html
 6000312-l-etat-islamique-met-en-fuite-les-derniers-chretiens-de-mossoul.html
-6007485-guerre-ouverte-contre-le-terrorisme-en-tunisie-24-07-2014.html
-6018807-boko-haram-poursuit-ses-attentats-au-nigeria-29-07-2014.html
-6035280-des-evangeliques-suisses-repliquent-a-love-life-par-une-campagne-chaste-06-08-2014.html
-6045079-un-ancien-ministre-reintegre-comme-pretre-au-nicaragua-12-08-2014.html
-6050949-virus-ebola-et-rites-funeraires-15-08-2014.html
 6061710-mobilisation-des-congregations-religieuses-a-ferguson.html
 6077767-feu-vert-du-pape-francois-a-la-beatification-de-mgr-romero-27-08-2014.html
-6080582-l-eglise-bresilienne-se-mobilise-en-vue-des-elections-28-08-2014.html
 6083193-un-francais-fait-la-tournee-des-eglises-d-orient-en-renault-4l-29-08-2014.html
 6097876-la-decapitation-et-sa-manipulation-a-des-fins-de-terreur-04-09-2014.html
-6100576-priere-nationale-pour-defendre-l-humanite-des-victimes-du-proche-orient-05-09-2014.html
 6106557-dieu-fait-sa-rentree-litteraire-08-09-2014.html
 6142946-le-pape-loue-l-exemple-albanais.html
 6169033-une-fondation-evangelique-attaque-en-justice-une-campagne-contre-le-sida-01-10-2014.html
@@ -155,5 +146,4 @@
 6993874-la-radicalisation-des-jeunes-musulmans-britanniques-fait-debat.html
 6996019-des-rabbins-americains-soutiennent-l-accord-sur-le-nucleaire-iranien.html
 6998792-dignitaires-musulmans-preoccupes-par-les-fatwas.html
-7000964-trois-religieux-centrafricains-recompenses-a-geneve-pour-leurs-efforts-de-paix-21-08-2015.html
 7000982-trois-religieux-centrafricains-recompenses-a-geneve-pour-leurs-efforts-de-paix.html

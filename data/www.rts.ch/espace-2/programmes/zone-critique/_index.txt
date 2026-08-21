@@ -1,5 +1,5 @@
 ./
-3006638-zone-critique-theatre-a-l-arsenic-25-03-2011.html
+!3006638-zone-critique-theatre-a-l-arsenic-25-03-2011.html
 4252796-zone-critique-du-21-09-2012.html
 5535699-zone-critique-litterature-31-01-2014.html
 5540408-zone-critique-du-02-02-2014.html
@@ -52,4 +52,3 @@
 7507512-zone-critique-theatre-04-03-2016.html
 7507513-zone-critique-du-04-03-2016.html
 7511763-zone-critique-du-06-03-2016.html
-7544349-zone-critique-litterature-18-03-2016.html

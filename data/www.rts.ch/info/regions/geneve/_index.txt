@@ -722,7 +722,6 @@
 11964883-le-canton-de-geneve-veut-rendre-son-parc-automobile-plus-ecologique.html
 11965212-les-verts-genevois-veulent-minimiser-lempreinte-carbone-des-constructions.html
 11976100-le-proces-de-pierre-maudet-nest-pas-encore-entre-dans-le-vif-du-sujet.html
-11979619-la-pandemie-fait-plonger-les-comptes-2020-de-geneve-aeroport-dans-le-rouge.html
 11979696-pierre-maudet-a-son-proces-je-vis-un-calvaire-depuis-trois-ans.html
 11982563-au-proces-la-femme-de-pierre-maudet-raconte-comment-sa-vie-a-bascule.html
 11982976-peine-de-prison-de-14-mois-avec-sursis-reclamee-contre-pierre-maudet.html
@@ -1856,7 +1855,7 @@
 14667644-le-canton-de-geneve-met-la-main-au-portemonnaie-pour-renover-ses-batiments.html
 14693943-un-tiers-des-restaurants-genevois-ne-respectent-pas-les-normes-dhygiene.html
 3485188-steve-jobs-laisse-un-groupe-au-faite-de-sa-puissance.html
-3801462-nouvelle-agression-d-une-femme-dans-l-agglomeration-genevoise.html
+3801462-nouvelle-agression-dune-femme-dans-lagglomeration-genevoise.html
 3812293-les-clandestins-maghrebins-gonflent-les-chiffres-de-la-delinquance-a-geneve.html
 3833653-micheline-calmyrey-entartee-a-geneve-cetait-brutal.html
 3840773-manuel-tornare-veut-etre-candidat-au-conseil-detat-genevois.html
@@ -2318,7 +2317,6 @@
 6256031-la-chambre-de-commerce-de-geneve-fait-de-la-pub-sur-youtube.html
 6262366-pour-eviter-les-doublons-geneve-veut-recuperer-des-pouvoirs-communaux.html
 6262417-le-conseil-d-etat-genevois-oppose-a-la-suppression-des-forfaits-fiscaux.html
-6266548-le-plr-genevois-a-designe-ses-candidats-aux-elections-federales-2015.html
 6267010-le-projet-genevois-swisstopia-remporte-le-concours-demain-la-suisse.html
 6270416-le-budget-genevois-serait-menace-par-la-suppression-des-forfaits-fiscaux.html
 6270800-la-federation-mondiale-des-associations-pour-le-droit-de-mourir-demenage-a-geneve.html
@@ -2327,7 +2325,6 @@
 6280136-geneve-vote-sur-la-transformation-de-bureaux-vides-en-logements.html
 6282511-les-hug-pourront-aussi-tester-un-vaccin-canadien-contre-ebola.html
 6282975-la-ville-de-geneve-va-ouvrir-deux-abris-pc-pour-les-personnes-demunies.html
-6284785-robert-cramer-candidat-des-verts-genevois-pour-le-conseil-des-etats.html
 6287632-operation-seduction-des-moniteurs-de-ski-au-centreville-de-geneve.html
 6290155-une-montre-vendue-aux-encheres-a-geneve-pour-plus-de-2-5-millions.html
 6293944-une-societe-genevoise-a-employe-600-stagiaires-non-payes-en-12-ans.html
@@ -2449,7 +2446,6 @@
 6611541-le-hcr-envisage-une-vague-de-delocalisations-vers-copenhague.html
 6614564-commission-d-enquete-parlementaire-sur-le-meurtre-d-adeline.html
 6618435-une-personne-a-perdu-la-vie-dans-un-feu-dappartement-a-bernex-ge.html
-6619680-le-ps-genevois-designe-douze-candidats-en-vue-des-elections-federales.html
 6623176-une-eglise-genevoise-a-ete-victime-de-vandalisme.html
 6624084-un-elu-genevois-sur-deux-abandonne-sa-fonction-en-cours-de-mandat.html
 6626332-un-collectif-de-jeunes-souhaite-des-nuits-plus-animees-a-geneve.html

@@ -1,7 +1,6 @@
 ./
-1423922-a-vue-d-esprit.html
 2581581-a-vue-d-esprit-du-28-10-2010.html
-2589905-georges-haldas-l-adieu-d-un-poete-inspire-01-11-2010.html
+!2589905-georges-haldas-l-adieu-d-un-poete-inspire-01-11-2010.html
 2589906-a-vue-d-esprit-du-01-11-2010.html
 2591263-a-vue-d-esprit-du-02-11-2010.html
 2596154-a-vue-d-esprit-du-03-11-2010.html
@@ -158,7 +157,6 @@
 6545468-regards-sur-l-islam-militant-en-europe-1-5-02-03-2015.html
 6548448-a-vue-d-esprit-du-03-03-2015.html
 6583103-armeniens-l-integration-reussie-1-5-16-03-2015.html
-6592080-armeniens-l-integration-reussie-4-5-19-03-2015.html
 6631433-a-vue-d-esprit-du-06-04-2015.html
 6648464-a-vue-d-esprit-du-30-03-2015.html
 6690259-a-vue-d-esprit-du-24-04-2015.html
@@ -270,7 +268,6 @@
 7524259-l-esprit-chamanique-4-5-.html
 7524264-l-esprit-chamanique-5-5-.html
 7525688-a-vue-d-esprit-du-11-03-2016.html
-7532406-religions-et-repli-identitaire-1-5-14-03-2016.html
 7532407-a-vue-d-esprit-du-14-03-2016.html
 7535196-a-vue-d-esprit-du-15-03-2016.html
 7538204-a-vue-d-esprit-du-16-03-2016.html

@@ -1,5 +1,4 @@
 ./
-3733699-faut-il-sacrifier-le-secret-bancaire-13-02-2012.html
 3733700-faut-il-sacrifier-le-secret-bancaire.html
 3764241-avions-de-combat-pourquoi-en-avons-nous-besoin.html
 3767285-aide-au-suicide-l-etat-doit-il-s-en-meler.html
@@ -43,7 +42,6 @@
 4843388-les-interdictions-de-perimetres-une-solution-efficace.html
 4881268-les-romands-sont-ils-la-risee-du-foot-suisse-.html
 4886564-en-ligne-directe.html
-4909423-le-tabagisme-est-il-une-maladie-24-05-2013.html
 4916132-manifestations-est-on-trop-tolerant.html
 4924317-le-conseil-federal-a-t-il-trahi-les-employes-de-banque-30-05-2013.html
 4946499-zweisprachige-kantone-vor-oder-nachteil-fur-die-bevolkerung-07-06-2013.html
@@ -103,10 +101,8 @@
 5758598-reserves-de-guerre-de-blattmann-paranoia-ou-precaution-16-04-2014.html
 5773531-tous-les-moyens-sont-ils-bons-pour-lutter-contre-le-terrorisme-22-04-2014.html
 5777219-en-ligne-directe-du-23-04-2014.html
-5793448-egalite-salariale-pourquoi-est-ce-qu-on-n-y-arrive-toujours-pas-30-04-2014.html
 5804524-tensions-dans-l-everest-faut-il-proteger-certaines-regions-du-tourisme-de-masse-.html
 5804525-en-ligne-directe-du-05-05-2014.html
-5825606-peut-on-tous-s-improviser-chauffeurs-de-taxi-13-05-2014.html
 5846987-explosion-du-trafic-de-donnees-a-t-on-besoin-d-antennes-relais-plus-puissantes-.html
 5853063-les-medias-sont-ils-victimes-d-un-acharnement-judiciaire-23-05-2014.html
 5859517-appeler-a-la-demission-d-un-dirigeant-est-ce-bien-raisonnable-26-05-2014.html
@@ -125,7 +121,6 @@
 5905543-en-ligne-directe-du-12-06-2014.html
 5908477-en-ligne-directe-du-13-06-2014.html
 5914241-en-ligne-directe-du-16-06-2014.html
-5916107-transition-energetique-etes-vous-prets-a-payer-votre-courant-plus-cher-17-06-2014.html
 5916108-en-ligne-directe-du-17-06-2014.html
 5923013-en-ligne-directe-du-19-06-2014.html
 5925941-speculer-sur-la-dette-d-etats-en-difficulte-scandale-ou-fatalite-20-06-2014.html
@@ -138,7 +133,6 @@
 5951483-les-hymnes-nationaux-servent-ils-encore-a-quelque-chose-30-06-2014.html
 6097842-les-musulmans-devraient-ils-condamner-plus-fermement-les-violences-djihadistes-04-09-2014.html
 6112741-en-ligne-directe-du-10-09-2014.html
-6116038-l-industrie-pharmaceutique-a-t-elle-abandonne-les-victimes-d-ebola-11-09-2014.html
 6131956-la-belgique-autorise-l-euthanasie-pour-les-detenus-un-modele-pour-la-suisse-17-09-2014.html
 6153176-l-information-hyperlocale-quelle-utilite-a-l-heure-du-village-global-25-09-2014.html
 6183426-en-ligne-directe-du-07-10-2014.html
@@ -181,7 +175,6 @@
 6336960-en-ligne-directe-du-04-12-2014.html
 6339297-en-ligne-directe-du-05-12-2014.html
 6348654-amenagement-du-territoire-la-villa-sam-suffit-c-est-fini-09-12-2014.html
-6363312-une-agriculture-sans-antibiotiques-bientot-une-realite-15-12-2014.html
 6416191-islamisation-de-l-europe-delire-ou-realite-05-01-2015.html
 6424152-criminalite-en-col-blanc-pas-de-pitie-pour-les-entreprises-.html
 6439020-un-baril-a-bas-prix-aubaine-ou-catastrophe-15-01-2015.html
@@ -190,7 +183,6 @@
 6471553-surequipement-medical-faut-il-brider-les-cliniques-privees-27-01-2015.html
 6481491-les-cantons-doivent-ils-faire-de-l-islam-une-religion-officielle-en-suisse-30-01-2015.html
 6495685-en-ligne-directe-du-04-02-2015.html
-6507162-faut-il-bannir-les-stands-religieux-de-l-espace-public-09-02-2015.html
 6528973-obtenir-sa-matu-aujourd-hui-trop-facile-17-02-2015.html
 6536127-la-sauvegarde-de-la-prosperite-suisse-passe-t-elle-par-plus-de-liberalisme-19-02-2015.html
 6545338-en-ligne-directe-du-23-02-2015.html
@@ -230,7 +222,6 @@
 6680923-transports-publics-les-pendulaires-doivent-ils-payer-plus-que-les-autres-14-04-2015.html
 6690155-des-quadruples-a-65-ans-la-science-va-t-elle-trop-loin-17-04-2015.html
 6699168-en-ligne-directe-du-21-04-2015.html
-6745857-epidemie-d-obesite-alarmisme-ou-menace-reelle-08-05-2015.html
 6758941-future-terre-de-business-cuba-va-t-elle-perdre-son-ame-13-05-2015.html
 6793052-en-ligne-directe-du-26-05-2015.html
 6796074-en-ligne-directe-du-27-05-2015.html

@@ -582,7 +582,7 @@
 10846585-airbnb-va-passer-au-crible-tous-les-logements-en-location-sur-son-site.html
 10849187-des-traders-veulent-raccourcir-les-seances-pour-favoriser-la-vie-de-famille.html
 10853021-la-faillite-du-voyagiste-thomas-cook-fait-des-vagues-jusqu-en-suisse.html
-1085315-greve-chez-lufthansa-pas-de-perturbations-majeures-pour-geneve-22-fevrier-le-12h30-23-02-2010.html
+!1085315-greve-chez-lufthansa-pas-de-perturbations-majeures-pour-geneve-22-fevrier-le-12h30-23-02-2010.html
 10854688-la-carte-de-paiement-d-apple-accusee-d-etre-sexiste-une-enquete-ouverte.html
 10855090-les-chinois-depensent-un-milliard-en-68-secondes-sur-alibaba.html
 10857070-le-mouvement-extinction-rebellion-s-attire-le-soutien-de-riches-mecenes.html
@@ -3080,7 +3080,6 @@
 14085870-ouverture-dune-enquete-pour-entente-dans-le-commerce-en-ligne.html
 14088829-le-cours-du-petrole-nest-pas-le-seul-facteur-a-influencer-le-prix-de-lessence.html
 14089171-la-confederation-et-ubs-signent-le-contrat-de-garantie-contre-les-pertes.html
-14089176-perte-de-18-millions-de-francs-pour-pro-infirmis-en-2022.html
 14090129-ces-musees-qui-peinent-a-restituer-les-oeuvres-dans-leurs-pays-dorigine.html
 14094637-credit-suisse-est-desormais-entierement-la-propriete-dubs.html
 14095778-les-interets-sur-lepargne-remontent-mais-restent-loin-des-niveaux-dil-y-a-20-ans.html
@@ -3470,7 +3469,6 @@
 14615581-elon-musk-a-licencie-plus-de-1200-employes-charges-de-moderer-les-contenus-sur-x.html
 14615722-un-nombre-record-de-plaintes-depuis-2012-aupres-de-monsieur-prix.html
 14616030-le-regulateur-americain-autorise-un-nouveau-placement-en-bitcoin.html
-14616948-podcast-cest-quoi-la-presomption-dinnocence.html
 14619697-et-si-on-arretait-de-faire-comme-si-on-navait-pas-denfants-au-travail.html
 14624379-avant-le-wef-des-ong-denoncent-laccroissement-spectaculaire-des-inegalites-economiques.html
 14627140-la-suisse-en-tete-des-pays-europeens-qui-se-passent-de-cash.html

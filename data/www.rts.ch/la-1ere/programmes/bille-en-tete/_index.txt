@@ -1,5 +1,4 @@
 ./
-4197814-bille-en-tete.html
 4513615-bille-en-tete-du-31-12-2012.html
 4535866-bille-en-tete-du-10-01-2013.html
 4537989-bille-en-tete-du-11-01-2013.html
@@ -22,7 +21,6 @@
 7498783-bille-en-tete-du-01-03-2016.html
 7501919-bille-en-tete-du-02-03-2016.html
 7504982-bille-en-tete-du-03-03-2016.html
-7507921-raymontpierre-et-les-autres-5-5-04-03-2016.html
 7507922-bille-en-tete-du-04-03-2016.html
 7512013-bille-en-tete-du-06-03-2016.html
 7512046-bille-en-tete-du-06-03-2016.html

@@ -1,8 +1,6 @@
 ./
-2528588-le-journal-de-8h.html
 2948873-le-journal-de-8-heures.html
 4172552-journal-de-08h00-09-08-2012.html
-4916120-journal-de-08h00-27-05-2013.html
 5077666-journal-de-08h00-26-07-2013.html
 5629160-presente-par-coralie-claude-27-02-2014.html
 6174372-presente-oar-yann-amedro.html
@@ -14,8 +12,6 @@
 7307684-presente-par-tania-barril-11-12-2015.html
 7326554-presente-par-sandra-viscardi-17-12-2015.html
 7513506-presente-par-tania-barril-29-02-2016.html
-7525611-presente-par-tania-barril-04-03-2016.html
-7550853-presente-par-tania-barril-14-03-2016.html
 7559756-presente-par-tania-barril-17-03-2016.html
 7562629-le-journal-de-8h-18-03-2016.html
 7742435-le-journal-de-8h-27-05-2016.html

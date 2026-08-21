@@ -83,7 +83,6 @@
 3239542-forfaits-fiscaux-le-conseil-federal-maintient-le-cap.html
 3239558-detenu-en-fuite-deux-nouvelles-photos-diffusees.html
 3242515-geneve-un-loyer-derisoire-pour-mark-muller.html
-3243383-elections-2011-l-ecart-diminue-entre-les-partis.html
 3243729-le-dangereux-fugitif-sest-rendu-aux-rasses-vd.html
 3248295-initiative-contre-le-remboursement-des-ivg.html
 3248775-le-fils-dalain-delon-inculpe-a-geneve.html
@@ -165,7 +164,7 @@
 3429742-referendum-en-vue-contre-managed-care-.html
 3430066-une-eolienne-a-2465-metres-daltitude-en-valais.html
 3430101-proces-bcge-le-conseil-detat-et-zappelli-font-appel.html
-3433893-la-presidente-indienne-pratibha-devisingh-patil-sera-en-suisse-lundi-et-mardi-pour-une-visite-d-etat.html
+!3433893-la-presidente-indienne-pratibha-devisingh-patil-sera-en-suisse-lundi-et-mardi-pour-une-visite-d-etat.html
 3433941-affaire-de-corruption-dans-une-caisse-de-pension.html
 3483170-un-chauffard-roule-a-plus-de-320-kmh-sur-la1.html
 3483244-capsules-ethical-coffee-company-poursuit-coop.html
@@ -225,7 +224,7 @@
 3608074-elu-au-conseil-national-par-tirage-au-sort.html
 3608923-alain-berset-et-pierre-yves-maillard-choisis-par-le-ps.html
 3611170-salaire-minimum-non-a-geneve-oui-a-neuchatel.html
-3611453-l-udc-a-subi-des-revers-aux-2e-tours-des-elections-aux-etats-a-zurich-st-gall-uri-et-en-argovie.html
+!3611453-l-udc-a-subi-des-revers-aux-2e-tours-des-elections-aux-etats-a-zurich-st-gall-uri-et-en-argovie.html
 3613646-geneve-tient-a-payer-davantage-ses-nettoyeurs.html
 3614870-il-fait-bon-vivre-dans-les-villes-suisses-bien-classees.html
 3620752-berne-veut-reduire-la-consommation-delectricite.html
@@ -234,7 +233,6 @@
 3623150-avions-de-combat-la-justice-ouvre-une-enquete.html
 3625148-election-a-fribourg-conseil-detat-designe-dimanche.html
 3626326-fribourg-marie-garnier-et-maurice-ropraz-elus.html
-3630606-la-plus-haute-tour-de-suisse-inauguree-a-zurich.html
 3631001-les-stations-des-prealpes-doivent-se-diversifier-.html
 3639611-le-rer-fribourgeois-a-ete-inaugure.html
 3639811-swissmedic-suspend-un-medicament-anti-cancer.html
@@ -322,13 +320,9 @@
 3794172-antonio-hodgers-a-la-tete-du-groupe-parlementaire-des-verts-andy-tschumperlin-elu-du-cote-du-ps.html
 3798358-deux-votations-populaires-pour-regler-la-question-jurassienne.html
 3798751-une-femme-agressee-pour-le-code-de-sa-carte-bancaire.html
-3800406-les-pro-bernois-craignent-que-des-communes-du-jura-bernois-decident-de-changer-de-canton.html
 3800406-les-probernois-craignent-que-des-communes-du-jura-bernois-decident-de-changer-de-canton.html
 3800477-des-inegalites-subsistent-dans-le-financement-des-campagnes-politiques.html
-3801247-condamne-pour-avoir-telecharge-1-5-million-de-videos-pedophiles.html
 3801247-condamne-pour-avoir-telecharge-15-million-de-videos-pedophiles.html
-3801462-nouvelle-agression-d-une-femme-dans-l-agglomeration-genevoise.html
-3801916-le-canton-de-vaud-va-renforcer-les-effectifs-de-sa-police-d-ici-2017.html
 3805754-a-43-ans-beznau-est-devenue-la-centrale-nucleaire-la-plus-vieille-du-monde.html
 3812268-la-caisse-maladie-egk-augmente-massivement-ses-primes.html
 3812619-les-cantons-protestants-ont-lance-leurs-carnavals-ce-week-end.html
@@ -337,7 +331,6 @@
 3823338-lecrivain-une-plume-qui-reseaute-plus-souvent-quelle-necrit.html
 3831567-le-conseil-national-accepte-l-accord-fiscal-avec-les-etats-unis.html
 3831703-le-national-veut-ancrer-dans-la-constitution-les-symboles-chretiens.html
-3832550-le-regime-des-forfaits-fiscaux-maintenu-par-les-etats.html
 3837832-la-centrale-nucleaire-de-muhleberg-devrait-fermer-avant-la-mi-2013.html
 3842071-les-suisses-disent-oui-a-la-limitation-des-residences-secondaires.html
 3842139-les-genevois-disent-non-aux-six-semaines-de-vacances.html

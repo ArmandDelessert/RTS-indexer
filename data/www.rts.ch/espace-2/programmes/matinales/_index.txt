@@ -55,8 +55,6 @@
 4699481-les-matinales-d-espace-2-du-15-03-2013.html
 4702788-les-matinales-d-espace-2-du-16-03-2013.html
 4709777-les-matinales-d-espace-2-du-19-03-2013.html
-4712780-les-matinales-d-espace-2-20-03-2013.html
-4712781-la-semaine-des-nomines-20-03-2013.html
 4712783-les-matinales-d-espace-2-du-20-03-2013.html
 4716661-les-matinales-d-espace-2-du-21-03-2013.html
 4718763-les-matinales-d-espace-2-du-22-03-2013.html
@@ -89,7 +87,6 @@
 4810733-les-matinales-d-espace-2-du-25-04-2013.html
 4813573-les-matinales-d-espace-2-du-26-04-2013.html
 4816659-les-matinales-d-espace-2-du-27-04-2013.html
-4820127-objets-inanimes-29-04-2013.html
 4820129-les-matinales-d-espace-2-du-29-04-2013.html
 4823321-les-matinales-d-espace-2-du-30-04-2013.html
 4826574-les-matinales-d-espace-2-du-01-05-2013.html
@@ -108,7 +105,6 @@
 5007328-les-roms-dans-l-objectif-4-5-08-08-2013.html
 5008825-exposition-petite-robe-de-fete-16-08-2013.html
 5008857-les-matinales-d-espace-2-du-19-08-2013.html
-5129129-le-modele-netflix-va-t-il-tuer-la-tele-27-08-2013.html
 5179178-philosopher-au-coin-de-la-rue-17-09-2013.html
 5185938-les-etats-generaux-de-la-philosophie-19-09-2013.html
 5185941-les-matinales-d-espace-2-du-19-09-2013.html
@@ -117,9 +113,6 @@
 5452110-les-matinales-d-espace-2-du-31-12-2013.html
 5452230-les-matinales-d-espace-2-du-02-01-2014.html
 5452290-les-matinales-d-espace-2-du-03-01-2014.html
-5463326-les-creatrices-sortent-enfin-de-l-ombre-07-01-2014.html
-5463327-nous-sommes-jeunes-et-fiers-de-solange-bied-charreton-07-01-2014.html
-5463328-l-experience-stromae-07-01-2014.html
 5463329-les-matinales-d-espace-2-du-07-01-2014.html
 5463629-les-matinales-d-espace-2-du-11-01-2014.html
 5494697-la-musique-de-la-physique-14-01-2014.html
@@ -141,7 +134,6 @@
 5570751-vesale-a-la-fondation-verdan-13-02-2014.html
 5588985-ceramiques-en-terres-musulmanes-20-02-2014.html
 5651016-misterioso-119-14-03-2014.html
-5657972-philo-et-humour-17-03-2014.html
 5878012-e-d-i-f-i-c-e-09-06-2014.html
 5916243-les-matinales-d-espace-2-du-24-06-2014.html
 5919312-les-matinales-d-espace-2-du-25-06-2014.html
@@ -259,10 +251,6 @@
 7408448-les-matinales-d-espace-2-du-27-01-2016.html
 7411076-les-matinales-d-espace-2-du-28-01-2016.html
 7414144-les-matinales-d-espace-2-du-29-01-2016.html
-7420582-que-s-est-il-passe-a-cologne-01-02-2016.html
-7420584-thierry-waelli-festival-musique-et-neige-01-02-2016.html
-7420585-les-matinales-d-espace-2-01-02-2016.html
-7420586-denis-maillefer-marla-01-02-2016.html
 7420589-les-matinales-d-espace-2-du-01-02-2016.html
 7481082-les-matinales-d-espace-2-du-23-02-2016.html
 7484227-les-matinales-d-espace-2-du-24-02-2016.html
@@ -277,7 +265,6 @@
 7507495-l-opera-de-quat-sous-04-03-2016.html
 7507498-les-matinales-d-espace-2-du-04-03-2016.html
 7510080-tartare-05-03-2016.html
-7510081-la-chronique-de-jacques-poget-05-03-2016.html
 7510083-les-matinales-d-espace-2-du-05-03-2016.html
 7513582-les-matinales-d-espace-2-du-07-03-2016.html
 7516387-les-matinales-d-espace-2-du-08-03-2016.html
@@ -285,9 +272,6 @@
 7522956-les-matinales-d-espace-2-du-10-03-2016.html
 7525724-les-matinales-d-espace-2-du-11-03-2016.html
 7528637-les-matinales-d-espace-2-du-12-03-2016.html
-7532419-severine-chavrier-a-vidy-lausanne-14-03-2016.html
-7532422-ici-et-maintenant-14-03-2016.html
-7532423-frank-michaux-caligula-critique-theatrale-du-totalitarisme-14-03-2016.html
 7532425-les-matinales-d-espace-2-du-14-03-2016.html
 7535230-nicolas-lieber-chroniques-ceramiques-15-03-2016.html
 7535237-les-matinales-d-espace-2-du-15-03-2016.html
@@ -312,7 +296,6 @@
 7655933-passionnement-ceramique-collection-frank-nievergelt-02-05-2016.html
 7658448-collectionner-est-un-art-03-05-2016.html
 7658455-les-matinales-d-espace-2-du-03-05-2016.html
-7665143-le-pelican-d-august-strindberg-05-05-2016.html
 7670539-la-chronique-de-jacques-poget-07-05-2016.html
 7707561-les-matinales-d-espace-2-du-23-05-2016.html
 7744677-la-collection-d-art-nestle-prend-un-bain-de-foule.html

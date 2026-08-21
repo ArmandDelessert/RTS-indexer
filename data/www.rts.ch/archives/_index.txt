@@ -16,7 +16,6 @@
 10548916-mille-et-une-archives-le-podcast-qui-vous-raconte-le-passe.html
 10562969-la-bande-a-fasel.html
 10563628-passe-recompose.html
-10573842-la-tsr-a-la-conquete-de-la-lune.html
 10580067-les-grandes-voix.html
 10591754-les-10-hits-de-lete.html
 10614122-christian-defaye-avant-special-cinema.html
@@ -24,7 +23,6 @@
 10767973-memoires-de-la-musique-labbe-bovet.html
 10794218-adieu-colette-jean.html
 10820429-frederic-maire-passion-cinema.html
-10875657-voyage-avec-alain-tanner.html
 10905205-la-mobilite-a-geneve.html
 10911158-geneve-en-decembre.html
 10941989-cavaliers-au-sommet.html
@@ -38,9 +36,7 @@
 11136713-edmond-kaiser-de-la-colere-a-laction.html
 11155687-la-television-de-georges-kleinmann.html
 11178393-bestseller-mode-demploi.html
-11191760-mattmark-archives-dune-tragedie.html
 11208198-yvette-zgraggen.html
-11214432-vivre-ensemble-a-meyrin.html
 11281227-les-jardins-familiaux-coin-de-paradis.html
 11281519-zouc-une-artiste-a-part.html
 11312600-l-abbatiale-de-payerne.html
@@ -48,12 +44,9 @@
 11333356-vivre-ensemble-a-evolene.html
 11384960-barbara-la-femme-qui-chante.html
 11387784-barbara-et-colette-jean.html
-11395217-cgn-e-la-nave-va.html
 11484501-claude-sautet.html
 11619325-bourvil-50-ans-deja.html
 12065052-inoubliable-simone-signoret.html
-12106503-les-coulisses-de-la-television.html
-12189209-le-geneva-open-tournoi-de-tennis-atp-romand.html
 12324986-un-film-de-la-rts-au-nifff.html
 12346679-la-suisse-aux-jeux-olympiques-de-tokyo-en-1964.html
 12390814-les-nouveaux-sports-aux-jo.html
@@ -61,10 +54,7 @@
 12574171-lart-urbain-dans-les-archives-de-la-rts.html
 12609676-kussnacht-baiser-de-mort-pour-la-reine-astrid.html
 12631721-jane-savigny-au-theatre-a-la-radio-a-la-television.html
-12737127-quelle-sera-cette-annee1972.html
 12761864-fribourg-connection-un-laboratoire-dheroine-aux-paccots.html
-12779607-le-tour-du-monde-en-80-jours.html
-12797560-cinema-danimation-theatre-romans-les-trois-vies-de-gisele-ansorge.html
 12892755-le-nouveau-theatre-de-poche.html
 13046711-le-cheval-des-franchesmontagnes.html
 13178323-la-grande-explication.html
@@ -78,7 +68,6 @@
 13727328-arie-dzierlatka.html
 13735548-les-brandons-carnaval-en-terre-protestante.html
 13858180-henri-guillemin-et-la-litterature.html
-13897697-levangile-sur-les-ondes-100-ans-de-cultes-radiophoniques-19232023.html
 13897697.html
 13914542-le-pasteur-dardel-raconte.html
 13914542.html
@@ -88,7 +77,6 @@
 14136987-sial-iv-1er-episode.html
 14229504-sept-choix-essentiels-de-la-rentree-scolaire.html
 14281702-le-parler-romand-un-accent-de-verite.html
-14303985-le-scandale-des-enfants-de-la-grandroute.html
 14330320-une-legende-nommee-delon.html
 14432524-saintgingolph-1944-une-tragedie-de-guerre-aux-portes-de-la-suisse.html
 14435511-la-suisse-un-vrai-decor-de-cinema.html
@@ -115,11 +103,9 @@
 6584097-ptit-lou-premier-feuilleton-de-la-tsr.html
 6614366-cuba-la-crise-des-missiles.html
 6763763-les-verts-dans-larene.html
-6797225-eurovision-for-ever.html
 6812742-la-recette-dune-emission.html
 6813108-de-la-clandestinite-a-la-pride.html
 6819782-objectif-cervin.html
-6841722-frederic-dard-et-son-double.html
 6853940-ludc-la-marche-en-avant.html
 6908656-lesprit-paleo.html
 6909783-acteurs-made-in-switzerland.html
@@ -137,7 +123,6 @@
 7277679-pere-noel-superstar.html
 7362991-courant-alternatif.html
 7393698-quand-balavoine-chantait-a-la-tsr.html
-7415906-metro-boulot-impots.html
 7445297-la-marque-schwarzenbach.html
 7455240-la-tete-dans-le-guidon.html
 7628263-le-nez-dans-un-bouquin.html
@@ -152,7 +137,6 @@
 7752424-gardien-de-but-eric-burgener.html
 7753092-defenseur-alain-geiger.html
 7753221-une-ile-en-europe.html
-7753325-autour-de-marilyn.html
 7753417-fanfares-en-tete.html
 7753526-milieu-de-terrain-umberto-barberis.html
 7755101-milieu-de-terrain-kobi-kuhn.html
@@ -176,7 +160,6 @@
 7834981-derib-un-crayon-et-des-bulles.html
 7836547-francois-deguelt-le-ciel-le-soleil-et-la-mer.html
 7839870-derib-un-crayon-et-des-bulles.html
-7842127-b-comme-bikini.html
 7856846-ces-heros-discrets.html
 7861941-emotions-olympiques.html
 7863419-lete-en-tubes.html
@@ -186,7 +169,6 @@
 7902789-feter-le-1er-aout.html
 7902984-et-plouf.html
 7904971-labricot-du-valais.html
-7914192-lart-du-recyclage.html
 7919403-locarno-capitale-du-cinema.html
 7933671-le-golf-sort-de-son-trou.html
 7933700-du-petit-au-grand-ecran.html
@@ -225,7 +207,6 @@
 8201632-la-saint-nicolas.html
 8207701-en-route-vers-noel.html
 8215392-quelle-sera-cette-annee1967.html
-8215714-ah-la-belle-escalade.html
 8236408-le-sahel-a-lagonie.html
 8245466-faits-dhiver.html
 8253810-defi-aux-lois-de-la-gravite.html
@@ -238,7 +219,6 @@
 8314530-la-course-autour-du-monde.html
 8321286-pierre-gisling-genereux-passeur-darts.html
 8322116-le-grand-georges-une-pointure-du-ski.html
-8323524-carnavals-en-fete.html
 8331454-billet-sil-vous-plait.html
 8333945-laffaire-paschoud.html
 8334127-en-campagne-contre-le-sida.html
@@ -278,7 +258,6 @@
 8595406-le-soudan-un-pays-divise.html
 8597483-carter-assad-une-rencontre-en-direct.html
 8598178-coree-du-nord-un-paradis-pour-tous.html
-8625737-la-guerre-des-six-jours.html
 8644238-jodel-mon-doux-plaisir.html
 8652944-bon-comme-le-pain.html
 8658752-litalie-pillee.html
@@ -316,7 +295,6 @@
 8993840-lino-ventura.html
 9002541-lislamisme-en-marche.html
 9003752-usa-le-langage-de-la-force.html
-9024212-gilbert-becaud.html
 9043919-le-dernier-voyage.html
 9044210-jeanluc-bideau.html
 9063673-sport-et-les-femmes.html
@@ -336,14 +314,12 @@
 9236610-harcelement-une-violence-tue.html
 9238943-le-couple.html
 9239798-harcelement-sexuel.html
-9240404-mythique-lauberhorn.html
 9242419-jerusalem-reunifiee.html
 9262294-un-air-de-careme.html
 9308250-jeunes-sexe-et-mst.html
 9309017-le-bob-sport-de-glace-et-dadrenaline.html
 9353956-cardinal-une-brasserie-fait-de-la-resistance.html
 9375661-georges-schwizgebel-un-maitre-du-cinema-d-animation.html
-9378509-un-homme-fort-pour-la-russie.html
 9390935-etre-femme-en-suisse.html
 9395491-claude-francois-une-chanson-populaire.html
 9404939-balade-a-ballenberg.html
@@ -379,14 +355,11 @@
 9763705-dans-les-ateliers-denzo-ferrari.html
 9781612-la-fete-du-ble-et-du-pain-dechallens.html
 9793807-prudence-mefiance-les-suisses-ne-changent-pas.html
-9794040-les-annees-80-en-chante.html
 9794543-les-trains-de-montagne.html
 9805353-paroles-dapprentis.html
-9807392-un-23e-canton-suisse-le-jura.html
 9809217-le-gout-du-bio.html
 9838978-le-m2-un-metro-qui-rassemble.html
 9855717-lessor-des-nouvelles-technologies.html
-9860421-jacques-brel-rencontres-avec-la-tsr.html
 9867939-a-chacun-sa-danse-.html
 9913317-memoires-de-villages-liddes-et-sa-region.html
 9920321-bresil-la-dictature.html

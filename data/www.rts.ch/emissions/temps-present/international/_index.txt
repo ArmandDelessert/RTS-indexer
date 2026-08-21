@@ -12,11 +12,11 @@
 3902093-la-croisiere-ne-s-amuse-plus.html
 4061961-j-ai-epouse-une-thailandaise-disponible-7-jours-depuis-la-suisse.html
 4184458-dechets-toxiques-mortel-heritage.html
-4229168-retour-au-far-west-la-faillite-de-l-etat-americain.html
+!4229168-retour-au-far-west-la-faillite-de-l-etat-americain.html
 4519580-les-tunisiennes-entrent-en-resistance.html
 4560956-syrie-feu-sur-les-medecins.html
 4577652-contre-nestle-jusqu-a-la-mort.html
-4777117-je-vais-te-manger-tout-cru.html
+!4777117-je-vais-te-manger-tout-cru.html
 4956952-dopage-voyage-au-c-ur-du-systeme-armstrong.html
 5045286-sexe-et-revolutions-arabes.html
 5166460-allemagne-par-ici-la-misere.html
@@ -31,7 +31,7 @@
 6531484-chine-republique-populaire-de-la-corruption.html
 6812152-de-l-enfer-nord-coreen-a-l-eldorado-suisse.html
 7128813-mozzarella-l-or-blanc-de-la-mafia.html
-7874492-usa-le-pays-qui-arme-ses-enfants.html
-7881105-soldats-d-allah.html
-7929079-petrole-un-trafic-qui-sent-le-soufre.html
-7960994-usa-les-noirs-dans-le-viseur-de-la-police.html
+!7874492-usa-le-pays-qui-arme-ses-enfants.html
+!7881105-soldats-d-allah.html
+!7929079-petrole-un-trafic-qui-sent-le-soufre.html
+!7960994-usa-les-noirs-dans-le-viseur-de-la-police.html

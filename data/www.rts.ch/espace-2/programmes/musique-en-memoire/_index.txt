@@ -2,7 +2,7 @@
 2124506-musique-en-memoire-du-01-07-2010.html
 3363127-la-famille-alain-5-5.html
 3563381-musique-en-memoire-du-19-11-2011.html
-3777544-musique-en-memoire-du-27-02-2012.html
+!3777544-musique-en-memoire-du-27-02-2012.html
 4084951-musique-en-memoire-du-31-07-2012.html
 4085000-musique-en-memoire-du-30-07-2012.html
 4085202-musique-en-memoire-du-02-08-2012.html
@@ -15,7 +15,6 @@
 4086369-musique-en-memoire-du-21-08-2012.html
 4086441-musique-en-memoire-du-20-08-2012.html
 4086702-musique-en-memoire-du-22-08-2012.html
-4195389-igor-markevitch-compositeur-et-chef-d-orchestre-1-5-27-08-2012.html
 4195390-musique-en-memoire-du-27-08-2012.html
 4203239-musique-en-memoire-du-28-08-2012.html
 4203408-musique-en-memoire-du-30-08-2012.html
@@ -43,7 +42,6 @@
 7349376-sibelius-carnet-de-route.html
 7411045-musique-en-memoire-du-28-01-2016.html
 7451438-ivan-ilic-au-piano-du-studio-15.html
-7507515-christine-de-suede-5-5-04-03-2016.html
 7514040-album-photos-philippe-beaussant.html
 7532436-musique-en-memoire-du-14-03-2016.html
 7557080-musique-en-memoire-du-23-03-2016.html

@@ -1,5 +1,4 @@
 ./
-1423924-babylone.html
 2095501-la-contographie-en-suisse-21-06-2010.html
 2124363-l-ecologie-est-elle-technophobe-01-07-2010.html
 2734684-babylone-du-13-12-2010.html
@@ -70,7 +69,6 @@
 4885159-babylone-du-22-05-2013.html
 4996387-tutelles-et-curatelles-le-casse-tete-.html
 5004535-babylone-du-30-07-2013.html
-5004918-fondue-traditions-et-folklore-a-conserver-au-frigo-svp-01-08-2013.html
 5007875-babylone-du-14-08-2013.html
 5150370-coup-de-sac-05-09-2013.html
 5201948-philosopher-au-coin-de-la-rue-et-au-bureau-25-09-2013.html
@@ -78,7 +76,6 @@
 5220566-babylone-02-10-2013.html
 5292699-babylone-29-10-2013.html
 5353311-ou-stocker-le-co2-20-11-2013.html
-5353317-ou-stocker-le-co2-20-11-2013.html
 5409040-babylone-du-11-12-2013.html
 5430231-babylone-du-19-12-2013.html
 5504976-babylone-du-20-01-2014.html
@@ -135,7 +132,6 @@
 6241868-babylone-du-05-11-2014.html
 6244625-genre-de-quoi-parlent-les-biologistes-et-les-sociologues-06-11-2014.html
 6244626-babylone-du-06-11-2014.html
-6252853-les-secrets-du-soleil-10-11-2014.html
 6289656-babylone-du-24-11-2014.html
 6313740-acces-aux-soins-des-sourds-en-suisse-romande-03-12-2014.html
 6333194-babylone-du-10-12-2014.html
@@ -171,7 +167,6 @@
 6684824-babylone-du-22-04-2015.html
 6699247-babylone-du-28-04-2015.html
 6702619-babylone-du-29-04-2015.html
-6705937-la-replique-de-la-grotte-chauvet-30-04-2015.html
 6717833-babylone-du-05-05-2015.html
 6724602-babylone-du-07-05-2015.html
 6733230-babylone-du-11-05-2015.html
@@ -220,9 +215,7 @@
 7008734-liberez-le-travail-01-09-2015.html
 7008735-babylone-du-01-09-2015.html
 7012020-babylone-du-02-09-2015.html
-7014597-le-bonheur-au-travail-management-horizontal-03-09-2015.html
 7014598-babylone-du-03-09-2015.html
-7022887-l-histoire-de-la-maternite-07-09-2015.html
 7022888-babylone-du-07-09-2015.html
 7025928-crimes-et-chatiments-08-09-2015.html
 7025929-babylone-du-08-09-2015.html
@@ -233,7 +226,6 @@
 7043536-babylone-du-10-09-2015.html
 7048593-babylone-du-16-09-2015.html
 7061640-babylone-du-21-09-2015.html
-7064838-la-reputation-qui-dit-quoi-de-qui-22-09-2015.html
 7064839-babylone-du-22-09-2015.html
 7081526-la-4e-revolution-technologique-28-09-2015.html
 7081527-babylone-du-28-09-2015.html
@@ -248,14 +240,12 @@
 7162537-babylone-du-27-10-2015.html
 7169721-babylone-du-29-10-2015.html
 7209031-babylone-du-12-11-2015.html
-7228432-equivoques-de-la-pudeur-19-11-2015.html
 7228433-babylone-du-19-11-2015.html
 7238221-babylone-du-17-11-2015.html
 7240239-babylone-du-24-11-2015.html
 7243711-la-palestine-dos-au-mur-et-camera-au-poing-25-11-2015.html
 7243712-babylone-du-25-11-2015.html
 7256657-babylone-du-30-11-2015.html
-7259834-des-gestes-citoyens-romands-pour-la-planete-2-4-01-12-2015.html
 7259835-babylone-du-01-12-2015.html
 7262597-babylone-du-02-12-2015.html
 7266724-babylone-du-03-12-2015.html
@@ -295,7 +285,6 @@
 7497591-babylone-du-29-02-2016.html
 7498390-babylone-du-01-03-2016.html
 7501563-babylone-du-02-03-2016.html
-7504555-sport-scandales-corruption-et-dopage-03-03-2016.html
 7504561-sport-scandales-corruption-et-dopage-bab_20160303t090645_babylone.html
 7504562-babylone-du-03-03-2016.html
 7513561-babylone-du-07-03-2016.html
@@ -303,7 +292,6 @@
 7519789-fifdh-sos-mise-a-mort-des-droits-humains-.html
 7519811-babylone-du-09-03-2016.html
 7522918-babylone-du-10-03-2016.html
-7532412-le-patois-n-a-pas-dit-son-dernier-mot-14-03-2016.html
 7532413-babylone-du-14-03-2016.html
 7535205-babylone-du-15-03-2016.html
 7538210-babylone-du-16-03-2016.html
@@ -326,20 +314,13 @@
 7610191-babylone-du-13-04-2016.html
 7613060-babylone-du-14-04-2016.html
 7621064-babylone-du-18-04-2016.html
-7623678-une-histoire-des-services-publics-en-suisse-1-3-19-04-2016.html
 7623679-babylone-du-19-04-2016.html
-7626666-l-audiovisuel-du-service-public-en-danger-2-3-20-04-2016.html
 7626667-babylone-du-20-04-2016.html
 7629779-babylone-du-21-04-2016.html
 7640882-babylone-du-26-04-2016.html
-7640893-oser-la-bienveillance-26-04-2016.html
 7640894-babylone-du-26-04-2016.html
-7644006-histoire-de-l-acoustique-sous-marine-27-04-2016.html
-7647303-surveillance-surveillance-28-04-2016.html
-7658421-du-simple-pequin-au-fanatique-03-05-2016.html
 7658422-babylone-du-03-05-2016.html
 7658440-babylone-du-03-05-2016.html
-7661594-enjeux-de-la-contrefacon-04-05-2016.html
 7673890-big-data-qui-surveille-les-surveillants-09-05-2016.html
 7680068-drogues-dans-tous-leurs-etats-11-05-2016.html
 7697411-babylone-du-18-05-2016.html

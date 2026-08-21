@@ -1,6 +1,5 @@
 ./
 3035148-l-humeur-vagabonde-du-07-04-2011.html
-4084450-jacques-brel-rever-un-impossible-reve-21-07-2012.html
 5127013-l-humeur-vagabonde-du-26-08-2013.html
 5129157-l-humeur-vagabonde-du-27-08-2013.html
 5132099-l-humeur-vagabonde-du-28-08-2013.html
@@ -21,7 +20,6 @@
 5176366-l-humeur-vagabonde-du-16-09-2013.html
 5179152-l-humeur-vagabonde-du-17-09-2013.html
 5181880-l-humeur-vagabonde-du-18-09-2013.html
-5185932-elisee-reclus-geographe-anarchiste-19-09-2013.html
 5185933-l-humeur-vagabonde-du-19-09-2013.html
 5188576-l-humeur-vagabonde-du-20-09-2013.html
 5191308-l-humeur-vagabonde-du-21-09-2013.html
@@ -135,7 +133,6 @@
 5944027-l-humeur-vagabonde-du-02-08-2014.html
 5945533-l-humeur-vagabonde-du-18-07-2014.html
 6529118-l-humeur-vagabonde-du-24-02-2015.html
-6578524-go-west-ou-vers-la-nouvelle-frontiere-version-integrale-14-03-2015.html
 6857821-l-humeur-vagabonde-du-27-06-2015.html
 6866400-l-humeur-vagabonde-du-04-07-2015.html
 6867672-l-humeur-vagabonde-du-21-07-2015.html
@@ -175,7 +172,6 @@
 7559838-l-humeur-vagabonde-du-24-03-2016.html
 7562806-l-humeur-vagabonde-du-25-03-2016.html
 7565246-l-humeur-vagabonde-du-26-03-2016.html
-7571612-balzac-et-son-monde-29-03-2016.html
 7571613-l-humeur-vagabonde-du-29-03-2016.html
 7638293-roger-vailland-le-libertin-au-regard-froid-25-04-2016.html
 7640915-l-humeur-vagabonde-du-26-04-2016.html

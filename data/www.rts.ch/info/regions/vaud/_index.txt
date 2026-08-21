@@ -612,7 +612,6 @@
 11627828-le-canton-de-vaud-se-dit-tres-satisfait-de-loperation-welqome.html
 11629812-lausanne-va-distribuer-des-bons-de-reduction-a-tous-ses-habitants.html
 11631702-le-musee-de-lelysee-fait-ses-adieux-a-ses-locaux-durant-35-ans.html
-11631801-le-festival-images-vevey-tire-un-bilan-positif-malgre-le-covid.html
 11633208-montreux-dit-oui-au-2m2c-morges-non-au-parc-des-sports-et-blonaystlegier-fusionnent.html
 11635417-un-train-du-leb-deraille-en-gare-dechallens-vd-lors-dune-manoeuvre.html
 11638868-le-long-combat-de-deux-couturieres-pour-legalite-salariale.html
@@ -1065,7 +1064,6 @@
 12550370-inedite-la-cosyndicature-dyverdon-tire-le-bilan-de-ses-100-premiers-jours.html
 12550436-ludc-michael-buffat-designe-pour-la-course-au-conseil-detat-vaudois.html
 12554132-manifestation-contre-le-tir-du-loup-dans-le-jura-vaudois.html
-12555149-sur-les-pas-de-nicolas-gisin.html
 12555731-la-commune-de-montreux-a-son-tour-victime-dune-cyberattaque.html
 12555743-consequence-de-la-hausse-du-nombre-deleves-les-gymnases-vaudois-sagrandissent.html
 12557273-la-pollution-aux-dioxines-touche-une-bonne-partie-de-la-ville-de-lausanne.html
@@ -1503,7 +1501,6 @@
 13352459-avant-le-proces-de-lattentat-de-nice-une-vaudoise-temoigne-je-nai-quune-question-pourquoi.html
 13355010-les-familles-en-marche-pour-le-climat-a-lausanne.html
 13355277-une-centaine-de-passagers-transbordes-en-raison-dune-panne-dun-bateau-cgn.html
-13356541-avenches-tattoo-termine-en-beaute-avant-son-demenagement-au-haras.html
 13357863-dans-le-canton-de-vaud-certains-enseignants-ont-attendu-longtemps-leur-materiel-scolaire.html
 13357981-un-conseil-de-la-magistrature-en-votation-le-25-septembre-dans-le-canton-de-vaud.html
 13358500-yverdon-va-augmenter-ses-prix-de-lelectricite-et-reactiver-sa-cellule-de-crise.html
@@ -1581,7 +1578,6 @@
 13521463-nuria-gorrite-et-rebecca-ruiz-pas-candidates-a-la-succession-de-simonetta-sommaruga.html
 13524918-baisses-dimpots-et-transition-energetique-au-menu-de-la-legislature-du-conseil-detat-vaudois.html
 13528177-christelle-luisier-le-climat-et-la-durabilite-sont-des-axes-structurants-de-la-legislature.html
-13528476-le-chanteur-vaudois-michel-buhler-est-decede-a-77-ans.html
 13529145-le-grand-conseil-vaudois-soutient-une-initiative-des-verts-pour-le-climat.html
 13529187-le-canton-de-vaud-va-recourir-aux-abris-pc-pour-heberger-des-migrants.html
 13529317-une-nouvelle-gouvernance-annoncee-pour-le-chantier-de-la-gare-de-lausanne.html
@@ -2055,7 +2051,6 @@
 14512287-linterdiction-des-debats-dans-les-ecoles-vaudoises-portee-devant-le-tribunal-federal.html
 14513137-le-canton-de-vaud-obtient-une-2e-concession-de-casino-le-projet-de-prilly-retenu.html
 14513178-le-grand-conseil-vaudois-favorable-a-lapprentissage-du-suisse-allemand-a-lecole.html
-14520108-un-premier-loup-a-ete-abattu-dans-la-traque-lancee-en-valais.html
 14527082-a-lausanne-la-suppression-des-places-de-parcs-gratuites-agace-la-droite.html
 14529499-dans-le-canton-de-vaud-10000-places-supplementaires-de-garde-denfants-necessaires-dici-2030.html
 14532351-les-biodechets-issus-du-fumier-peuvent-etre-transformes-en-carburant.html
@@ -2129,7 +2124,7 @@
 14667564-la-renovation-de-laire-daccueil-de-rennaz-vd-demarre-et-durera-jusquen-2029.html
 14667593-premier-bilan-positif-pour-le-contrattype-vaudois-des-stages-dans-les-creches.html
 14667722-credit-du-grand-conseil-vaudois-pour-regrouper-une-ecole-de-soins-a-saintloup.html
-3801916-le-canton-de-vaud-va-renforcer-les-effectifs-de-sa-police-d-ici-2017.html
+3801916-le-canton-de-vaud-va-renforcer-les-effectifs-de-sa-police-dici-2017.html
 3846175-quatre-sortants-reelus-des-le-1er-tour-de-lelection-du-conseil-detat-vaudois.html
 3876422-vale-pourrait-etre-contrainte-de-payer-212-millions-d-impots.html
 3887049-un-enfant-de-dix-ans-decede-lors-de-travaux-agricoles-a-grandson.html
@@ -2689,7 +2684,6 @@
 6504578-la-renovation-du-buffet-de-la-gare-de-lausanne-cause-la-perte-de-84-postes.html
 6506531-la-droite-conserve-la-majorite-a-la-municipalite-de-montreux.html
 6506600-bilan-en-demiteinte-pour-le-festival-de-ballons-de-chateau-doex-vd.html
-6508511-la-vert-liberale-zurichoise-verena-diener-ne-se-represente-pas-aux-etats.html
 6508792-la-bibliotheque-universitaire-lausannoise-va-sagrandir-a-dorigny.html
 6509491-gratuite-des-transports-publics-vaudois-reclamee-pour-les-jeunes.html
 6511577-pro-et-anti-densification-se-dechirent-dans-l-ouest-lausannois.html
@@ -2802,7 +2796,6 @@
 6797660-un-site-de-geothermie-de-moyenne-profondeur-prevu-sur-la-cote-vaudoise.html
 6800471-lausanne-autorise-les-yeniches-a-rester-jusqu-a-fin-octobre.html
 6803309-reduction-des-zones-dhabitation-dans-75-des-communes-vaudoises.html
-6804015-le-municipal-popiste-lausannois-marc-vuilleumier-dans-la-course-au-national.html
 6805893-environ-1500-personnes-marchent-contre-monsanto-a-morges.html
 6807676-franc-succes-pour-la-20e-parade-des-navires-belle-epoque-du-leman.html
 6810391-la-grande-foule-pour-feter-les-2000-ans-davenches.html
@@ -3950,7 +3943,6 @@
 9877720-la-ville-de-lausanne-est-prete-a-accueillir-son-local-dinjection.html
 9878265-maltraitance-a-la-cite-du-genevrier-a-saintlegier-linstitution-relativise.html
 9879751-le-meilleur-fromage-suisse-2018-est-un-gruyere-vaudois-de-st-george.html
-9879943-le-chateau-de-prangins-antenne-du-musee-national-brille-pour-ses-20-ans.html
 9887285-claude-d-l-assassin-de-marie-va-a-nouveau-recourir-au-tribunal-federal.html
 9887598-petition-deposee-contre-la-quarantaine-deoliennes-au-creuxduvan.html
 9888349-un-nouveau-batiment-de-bernard-tschumi-a-rolle-d-ici-trois-ans-.html

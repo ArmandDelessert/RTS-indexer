@@ -37,7 +37,7 @@
 3644269-tv-time-warner-veut-racheter-endemol.html
 3652609-nikon-condamne-a-payer-12-5-millions-de-francs.html
 3666515-le-taux-unique-de-tva-est-enterre.html
-3681795-le-spectre-d-une-faillite-plane-sur-le-raffineur-zougois-petroplus-selon-des-analystes.html
+!3681795-le-spectre-d-une-faillite-plane-sur-le-raffineur-zougois-petroplus-selon-des-analystes.html
 3684460-les-salaires-des-fonctionnaires-geles-en-espagne.html
 3692830-le-vaudois-henriferdinand-lavanchy-est-decede.html
 3710602-sp-degrade-la-france-litalie-et-lespagne.html
@@ -48,7 +48,6 @@
 3764694-naissance-dun-geant-des-matieres-premieres.html
 3791609-la-france-vit-le-dernier-jour-des-billets-en-francs-francais.html
 3799530-l-eurogroupe-donne-son-feu-vert-au-second-plan-de-sauvetage-a-la-grece.html
-3799965-une-annee-2011-difficile-pour-l-hotellerie-suisse.html
 3835401-les-librairies-payot-sont-a-vendre.html
 3865917-air-china-veut-ouvrir-une-ligne-geneve-pekin.html
 3868782-leconomie-suisse-sous-la-loupe-du-fmi.html

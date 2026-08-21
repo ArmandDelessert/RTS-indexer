@@ -7,12 +7,10 @@
 3550779-prise-de-terre-du-13-11-2011.html
 3563251-prise-de-terre-du-19-11-2011.html
 3565741-prise-de-terre-du-20-11-2011.html
-3577838-demain-nourrir-9-milliards-de-terriens-26-11-2011.html
 3577839-prise-de-terre-du-26-11-2011.html
 3580001-prise-de-terre-du-27-11-2011.html
 3591547-prise-de-terre-du-03-12-2011.html
 3594371-prise-de-terre-du-04-12-2011.html
-3826868-prise-de-terre-17-03-2012.html
 4606730-prise-de-terre-09-02-2013.html
 4606731-prise-de-terre-du-09-02-2013.html
 4743825-prise-de-terre-du-30-03-2013.html
@@ -23,9 +21,8 @@
 5007265-prise-de-terre-du-06-07-2013.html
 5010679-chronique-pour-une-philosophie-de-la-nature-20-07-2013.html
 5489447-entretien-avec-dominique-bourg-11-01-2014.html
-5539111-gaz-de-schiste-les-illusions-perdues-des-texans-01-02-2014.html
 5558084-prise-de-terre-du-08-02-2014.html
-5576561-l-amiante-un-dechet-pas-comme-les-autres-15-02-2014.html
+!5576561-l-amiante-un-dechet-pas-comme-les-autres-15-02-2014.html
 5594894-prise-de-terre-du-22-02-2014.html
 5856232-carrot-city-les-champs-a-la-ville-31-05-2014.html
 6139972-les-neonicotinoides-ddt-du-21e-siecle-27-09-2014.html
@@ -33,7 +30,6 @@
 6266654-transition-energetique-l-exemple-danois-01-11-2014.html
 6323621-prise-de-terre-06-12-2014.html
 6342267-l-adieu-aux-iles-13-12-2014.html
-6484986-gaz-de-schiste-les-illusions-perdues-des-texans-07-02-2015.html
 6484990-tafta-quels-enjeux-environnementaux-07-02-2015.html
 6578822-christian-fosserat-grandeur-nature-14-03-2015.html
 6598491-prise-de-terre-21-03-2015.html
@@ -49,14 +45,8 @@
 7437265-prise-de-terre-du-06-02-2016.html
 7456494-prise-de-terre-du-13-02-2016.html
 7475299-prise-de-terre-du-20-02-2016.html
-7492981-claire-nouvian-abbesse-des-abysses-27-02-2016.html
-7492982-climatosceptiques-entre-doutes-deraisonnables-et-manipulation-1-2-27-02-2016.html
 7492984-prise-de-terre-du-27-02-2016.html
 7494448-prise-de-terre-du-28-02-2016.html
-7510377-grand-menage-dans-la-reserve-des-grangettes-05-03-2016.html
-7510378-climatosceptiques-entre-doutes-deraisonnables-et-manipulation-2-2-05-03-2016.html
-7510379-allo-la-terre-05-03-2016.html
-7510381-prise-de-terre-05-03-2016.html
 7510382-prise-de-terre-du-05-03-2016.html
 7528954-prise-de-terre-du-12-03-2016.html
 7547156-prise-de-terre-du-19-03-2016.html

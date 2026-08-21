@@ -19,7 +19,6 @@
 5923134-jazzz-du-26-06-2014.html
 5926039-jazzz-du-27-06-2014.html
 5931940-jazzz-du-30-06-2014.html
-5932384-yesterjazzz-hommage-a-jim-hall-jim-hall-trio-festival-amr-1997-prod-jazzz-01-07-2014.html
 5932385-jazzz-du-01-07-2014.html
 5932451-jazzz-du-02-07-2014.html
 5932524-jazzz-du-03-07-2014.html
@@ -80,10 +79,10 @@
 7550981-jazzz-du-21-03-2016.html
 7559887-jazzz-du-24-03-2016.html
 7571607-jazzz-du-29-03-2016.html
-7590198-cully-jazz-festival-2016-08-04-2016.html
-7590288-cully-jazz-festival-2016-09-04-2016.html
-7605425-jazzz-11-04-2016.html
-7607302-cully-jazz-festival-2016-12-04-2016.html
+!7590198-cully-jazz-festival-2016-08-04-2016.html
+!7590288-cully-jazz-festival-2016-09-04-2016.html
+!7605425-jazzz-11-04-2016.html
+!7607302-cully-jazz-festival-2016-12-04-2016.html
 7615487-cully-jazz-festival-2016-jaz_20160415t224245_jazzz.html
 7640888-jazzz-du-26-04-2016.html
 7658443-jazzz-du-03-05-2016.html

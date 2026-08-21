@@ -1,4 +1,3 @@
-2559779-intercites.html
 2674934-la-nouvelle-revolution-des-fablab-24-11-2010.html
 3265691-la-rochelle-teste-une-navette-electrique-sans-conducteur-21-07-2011.html
 3300635-mobilite-en-europe-comment-domestiquer-la-voiture-08-08-2011.html
@@ -6,26 +5,12 @@
 4230062-le-pari-de-zurich-pour-inciter-les-citoyens-a-la-mobilite-douce-05-09-2012.html
 4454081-le-bulletin-d-avalanches-nouveau-est-arrive-30-11-2012.html
 4546140-mobilite-douce-a-neuchatel-09-01-2013.html
-4760709-les-contrats-de-sous-traitance-des-gripen-inquietent-la-suisse-romande-29-03-2013.html
-4916122-le-retour-des-soirees-goa-27-05-2013.html
-5274066-le-gyb-un-gymnase-tres-branche-15-10-2013.html
-5353209-l-amiante-toujours-presente-dans-la-majorite-des-constructions-romandes-13-11-2013.html
-5359126-le-droit-de-vote-a-16-ans-une-fausse-bonne-idee-15-11-2013.html
-5368764-jeunes-et-violence-la-collaboration-prevention-repression-19-11-2013.html
 5386760-fribourg-veut-promouvoir-le-co-voiturage-26-11-2013.html
 5793483-quels-remedes-et-quels-defis-pour-la-mobilite-urbaine-30-04-2014.html
-5925956-etude-d-un-projet-qui-permettrait-de-doubler-la-production-suisse-d-electricite-20-06-2014.html
-6091343-les-jeunes-romands-ne-trouvent-pas-de-place-d-apprentissage-a-bienne-02-09-2014.html
-6100570-geneve-s-engage-aux-cotes-de-la-frc-pour-reparer-plutot-que-jeter-05-09-2014.html
 6112774-la-pauvrete-toujours-tres-stigmatisee-en-suisse-10-09-2014.html
 6495736-de-plus-en-plus-d-heritiers-refusent-leur-succession-04-02-2015.html
-6533512-les-regions-periurbaines-mettent-en-place-des-mesures-d-accueil-pour-les-migrants-18-02-2015.html
-6778106-le-patrimoine-archeologique-suisse-laisse-pour-compte-de-la-croissance-20-05-2015.html
-6821040-combien-faut-il-de-places-de-parc-en-ville-05-06-2015.html
-6828047-qui-va-financer-les-pme-de-demain-08-06-2015.html
 7108620-elections-federales-portraits-de-figures-politiques-alemaniques-2-5-30-09-2015.html
 7314147-la-mobilite-de-demain-1-5-le-bus-genevois-tosa-14-12-2015.html
-7317936-la-mobilite-de-demain-2-5-la-navette-autonome-15-12-2015.html
 7322882-la-mobilite-de-demain-3-5-les-avions-du-futur-16-12-2015.html
 7326544-la-mobilite-de-demain-4-5-la-mobilite-pietonne-en-ville-17-12-2015.html
 7330061-la-mobilite-de-demain-5-5-la-mobilite-dans-la-science-fiction-18-12-2015.html
@@ -34,8 +19,6 @@
 7472304-la-nouvelle-tendance-des-concerts-a-domicile-12-02-2016.html
 7489703-comment-le-4e-age-utilise-t-il-son-droit-de-vote-19-02-2016.html
 7495881-l-homme-peut-il-modifier-l-environnement-a-sa-guise-ou-doit-il-laisser-agir-la-nature-22-02-2016.html
-7504488-mon-voisin-est-schizophrene-25-02-2016.html
-7525609-creer-un-pole-museal-a-lausanne-comment-et-a-quel-prix-04-03-2016.html
 7532334-ces-polars-dont-la-trame-se-deroule-dans-les-villes-romandes-07-03-2016.html
 7535151-le-succes-phenomenal-du-metro-a-lausanne-08-03-2016.html
 7538163-comment-les-cantons-gerent-ils-les-arrerages-d-impots-09-03-2016.html
@@ -43,5 +26,4 @@
 7544213-les-villes-romandes-ne-correspondent-elles-plus-a-la-realite-des-citoyens-11-03-2016.html
 7550850-les-habitudes-du-public-des-theatres-evoluent-14-03-2016.html
 7553617-la-technologie-au-service-de-la-mobilite-pietonne-15-03-2016.html
-7562635-l-avenir-de-la-reitschule-en-question-apres-les-derniers-derapages-18-03-2016.html
 7600946-le-ps-de-la-ville-de-zurich-veut-introduire-un-quota-de-35-d-hommes-dans-les-creches-01-04-2016.html

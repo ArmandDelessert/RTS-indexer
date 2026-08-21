@@ -782,7 +782,6 @@
 6200965-la-traite-de-migrants-genere-7-milliards-de-dollars-par-an.html
 6201354-une-aidesoignante-espagnole-est-le-premier-cas-debola-en-europe.html
 6202145-louest-et-le-sud-de-kobane-en-syrie-pris-pour-cible-par-les-djihadistes.html
-6202148-le-pbd-reste-optimiste-pour-les-elections-federales-2015.html
 6202322-l-armee-mexicaine-prend-le-controle-de-la-ville-ou-les-43-eleves-ont-disparu.html
 6202348-deux-nouveaux-corps-retrouves-sur-le-mont-ontake-au-japon.html
 6202597-le-typhon-phanfone-a-fait-6-morts-au-japon.html
@@ -874,7 +873,6 @@
 6220671-une-manifestation-pour-les-etudiants-disparus-degenere-au-mexique.html
 6220806-nouvelle-operation-de-demantelement-menee-par-la-police-a-hong-kong.html
 6220854-larmee-turque-a-bombarde-des-positions-rebelles-du-pkk-en-turquie.html
-6220954-le-virus-ebola-est-au-centre-d-une-pop-culture-du-drame-sanitaire.html
 6220954-le-virus-ebola-est-au-centre-dune-popculture-du-drame-sanitaire.html
 6220984-un-employe-de-l-onu-soigne-pour-ebola-en-allemagne-est-decede.html
 6221494-huit-pays-europeens-s-engagent-dans-l-operation-triton-en-mediterranee.html
@@ -1008,7 +1006,6 @@
 6250354-quarantaine-obligatoire-a-new-york-pour-les-personnes-ayant-cotoye-ebola.html
 6250439-ennahda-proches-de-ben-ali-ou-abstention-quel-gagnant-en-tunisie.html
 6250677-des-milliers-des-manifestants-envahissent-les-rues-de-rome.html
-6250714-les-chocolats-belges-isis-ont-decide-de-changer-de-nom.html
 6250750-une-ukraine-febrile-se-prepare-a-elire-son-parlement-dimanche.html
 6250806-derniere-ligne-droite-pour-la-presidentielle-bresilienne-de-dimanche.html
 6250840-l-epidemie-d-ebola-depasse-les-10-000-cas-le-mali-craint-une-propagation.html
@@ -1979,7 +1976,6 @@
 6479761-un-quartier-ravage-par-un-gigantesque-incendie-dans-le-new-jersey.html
 6479803-un-jeudi-sanglant-fait-passer-le-bilan-du-conflit-ukrainien-a-plus-de-5000-morts.html
 6480007-la-turquie-renvoie-en-france-un-djihadiste-presume.html
-6480392-la-course-pour-le-vaccin-contre-ebola-risque-d-etre-peu-lucrative.html
 6480392-la-course-pour-le-vaccin-contre-ebola-risque-detre-peu-lucrative.html
 6480762-le-monde-s-approche-encore-de-l-apocalypse-selon-des-scientifiques.html
 6481318-fragilise-par-la-rebellion-chiite-le-yemen-plonge-dans-le-chaos.html
@@ -2131,7 +2127,6 @@
 6515646-alexis-tsipras-a-evoque-a-bruxelles-un-plan-de-reformes-sur-quatre-ans.html
 6515904-le-bombardement-dun-hopital-a-donetsk-fait-quatre-morts.html
 6516303-amende-requise-contre-dieudonne-a-paris-pour-apologie-du-terrorisme.html
-6516775-le-nombre-de-cas-d-ebola-en-hausse-pour-la-premiere-fois-en-2015.html
 6516775-le-nombre-de-cas-debola-en-hausse-pour-la-premiere-fois-en-2015.html
 6516791-le-president-ukrainien-demande-des-armes-a-lotan.html
 6517304-le-createur-de-silk-road-lebay-de-la-drogue-reconnu-coupable-a-new-york.html

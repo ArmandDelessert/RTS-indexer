@@ -2319,7 +2319,6 @@
 3084984-une-finale-ferrer-nadal-a-monte-carlo.html
 3488431-safina-range-sa-raquette-pour-preserver-son-dos.html
 3540626-une-seconde-chance-pour-la-reine-sans-couronne.html
-3548105-azarenka-et-kvitova-dans-le-dernier-carre.html
 3908139-fin-du-bal-pour-stefanie-vogele-a-charleston-l-argovienne-s-incline-5-7-6-3-6-4-en-8es-devant-zvonareva.html
 3935227-wawrinka-soffre-le-droit-daffronter-nadal.html
 3988921-roger-federer-ecrase-tipsarevic-62-63-et-affrontera-dimanche-en-finale-a-madrid-tomas-berdych.html
@@ -3190,14 +3189,12 @@
 7795309-atp-stuttgart-pas-de-finale-pour-roger-federer.html
 7795310-wta-boisleduc-belinda-bencic-privee-de-finale.html
 7795671-tennis-federer-ne-disputera-pas-la-finale-a-stuttgart-le-balois-battu-par-thiem-atp-7-36-76-64.html
-7797008-rio-2016-roger-federer-fera-bande-a-part.html
 7797240-tennis-andy-murray-rappelle-ivan-lendl-a-quinze-jours-de-wimbledon.html
 7799595-wta-majorque-stefanie-vogele-sechement-battue.html
 7802192-wta-birmingham-belinda-bencic-jette-leponge.html
 7802223-atp-queens-stan-wawrinka-sincline-dentree-de-jeu.html
 7805861-atp-halle-entame-victorieuse-pour-roger-federer.html
 7808427-atp-halle-federer-poursuit-tranquillement-sa-route.html
-7808779-rio-2016-la-dream-team-du-tennis-suisse-selectionnee.html
 7811197-atp-halle-victorieux-de-goffin-federer-se-hisse-dans-le-dernier-carre.html
 7813580-atp-halle-federer-quitte-halle-elimine-par-un-espoir-de-19-ans.html
 7818336-fed-cup-les-suissesses-recevront-la-france-au-premier-tour.html
@@ -3210,7 +3207,6 @@
 7871416-wta-gstaad-ca-passe-pour-amra-sadikovic.html
 7875012-wta-gstaad-timea-brave-le-froid-et-assure-lessentiel-au-1er-tour.html
 7878634-atp-newport-pas-de-miracle-pour-chiudinelli.html
-7880542-rio-2016-une-paire-golubic-bacsinszky-a-rio.html
 7887201-coupe-davis-la-suisse-en-barrage-contre-louzbekistan.html
 7891118-WTA-Bastad-pas-de-nouvel-exploit-pour-Viktorija-Golubic.html
 7894788-atp-gstaad-une-demifinale-entre-dustin-brown-et-feliciano-lopez-qui-promet.html
@@ -3604,7 +3600,6 @@
 8700366-atp-stuttgart-federer-en-decoudra-avec-tommy-haas.html
 8700371-tennis-roger-federer-affrontera-tommy-haas-au-2e-tour-du-tournoi-de-stuttgart.html
 8703143-tennis-rafael-nadal-se-menage-en-vue-de-wimbledon.html
-8703367-atp-stuttgart-federer-surpris-par-haas-pour-son-retour.html
 8704116-coupe-davis-la-suisse-defiera-le-belarus-sans-federer-a-bienne.html
 8713888-tennis-murray-soffusque-des-critiques-de-mcenroe.html
 8715559-tennis-timea-bacsinszky-revient-dans-le-top20.html
@@ -3690,9 +3685,7 @@
 8840206-atp-montreal-federer-sincline-devant-zverev-en-finale.html
 8840853-atp-montreal-mon-dos-etait-soudain-un-peu-plus-raide-explique-federer.html
 8842049-atp-cincinnati-roger-federer-trahi-par-son-dos-declare-forfait.html
-8842097-us-open-timea-bacsinszky-contrainte-a-renoncer.html
 8843824-tennis-wawrinka-donne-de-ses-nouvelles-depuis-son-lit-dhopital.html
-8845194-us-open-maria-sharapova-recoit-une-invitation.html
 8846913-tennis-saison-terminee-pour-kei-nishikori.html
 8847440-tennis-belinda-bencic-espere-rejouer-dans-un-mois.html
 8847994-atp-cincinnati-rafael-nadal-deroule-alexander-zverev-craque.html
@@ -3701,16 +3694,10 @@
 8853846-wta-cincinnati-battue-par-muguruza-halep-doit-encore-attendre.html
 8855342-atp-cincinnati-un-premier-masters-1000-pour-dimitrov.html
 8855443-tennis-nadal-retrouve-son-trone-trois-ans-apres.html
-8860448-us-open-federer-est-bien-arrive-a-new-york.html
-8862781-us-open-federer-est-dans-les-temps.html
 8866606-US-Open-le-tirage-n-a-pas-epargne-Roger-Federer.html
 8866606-us-open-le-tirage-na-pas-epargne-roger-federer.html
-8867542-us-open-golubic-affrontera-babos-et-sharapova-defiera-halep.html
-8867701-us-open-federer-nadal-et-la-jeune-garde.html
-8869069-us-open-federer-pour-lheure-jespere-juste-gagner-mon-1er-tour.html
 8869224-us-open-andy-murray-forfait-pour-lus-open.html
 8869224-us-open-andy-murray-forfait.html
-8869840-us-open-nadal-ne-veut-pas-dune-demifinale-de-reve.html
 8882423-coupe-davis-laaksonen-et-chiudinelli-en-chefs-de-file.html
 8886334-carnet-rose-une-petite-fille-pour-serena-williams.html
 8888229-us-open-roger-federer-domine-feliciano-lopez-63-63-75-apres-une-prestation-convaincante-au-3e-tour.html
@@ -4178,8 +4165,6 @@
 9797086-us-open-grande-premiere-pour-jil-teichmann.html
 9797307-us-open-federer-est-vraiment-impatient.html
 9797861-tennis-serena-williams-interdite-de-black-panther.html
-9799545-us-open-timea-bacsinszky-va-tres-bien.html
-9799619-us-open-wawrinka-ne-se-met-pas-plus-de-pression-que-cela.html
 9802903-us-open-2018.html
 9806740-coupe-davis-federer-met-en-garde-contre-une-coupe-pique.html
 9806912-us-open-un-spectateur-assure-le-show-durant-le-match-de-federer.html

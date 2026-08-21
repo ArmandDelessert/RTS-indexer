@@ -20,12 +20,12 @@
 4142669-facebook-pas-tres-net-avec-les-ados.html
 4213325-60-ans-et-deja-papa.html
 4787933-mineurs-sous-haute-protection.html
-4901399-familles-nombreuses-mais-comment-font-elles.html
+!4901399-familles-nombreuses-mais-comment-font-elles.html
 5258987-divorce-cles-en-main.html
 5445765-ma-mort-ma-famille-leurs-emmerdes.html
 5775612-divorce-des-grands-parents-a-la-rescousse.html
 5809163-repas-a-domicile-mon-livreur-cheri.html
 6550283-a-treize-ans-ma-vie-etait-foutue.html
 6593305-ils-se-remarierent-et-vecurent-heureux.html
-7595841-les-enfants-jetables.html
-7714530-maman-en-peril-cherche-refuge.html
+!7595841-les-enfants-jetables.html
+!7714530-maman-en-peril-cherche-refuge.html

@@ -1,8 +1,5 @@
 ./
-1784442-sport-matin.html
 4111238-pari-reussi-pour-roger-federer.html
-4188787-hockey-sur-glace-entrainement-du-geneve-servette-16-08-2012.html
-4916094-tennis-dotation-en-hausse-dans-les-tournois-du-grand-chelem-27-05-2013.html
 5181835-football-l-equipe-de-suisse-victorieuse-a-oslo.html
 5274095-la-chute-est-elle-inexorable-pour-federer.html
 5811202-les-filles-et-les-sports-de-combat.html
@@ -64,9 +61,7 @@
 7513531-l-uefa-en-plein-doute.html
 7516345-gianni-infantino-ne-remet-pas-en-cause-les-coupes-du-monde-en-russie-et-au-qatar.html
 7519743-les-annees-de-grace-du-hockey-romand-sont-elles-revolues.html
-7522857-quand-la-sante-des-sportifs-s-invite-dans-la-competition-03-03-2016.html
 7522874-quand-la-sante-des-sportifs-s-invite-dans-la-competition.html
-7525602-le-developpement-durable-un-atout-marketing-pour-les-equipementiers-sportifs-04-03-2016.html
 7525621-le-developpement-durable-un-atout-marketing-pour-les-equipementiers-sportifs.html
 7532337-l-importance-du-sommeil-dans-les-sports-de-competition.html
 7535157-le-desengagement-politique-des-sportifs-d-aujourd-hui.html
@@ -74,11 +69,9 @@
 7538178-le-sport-handicap-reste-une-galere-malgre-certains-progres.html
 7541397-les-corticoides-dans-le-collimateur-de-l-anti-doping.html
 7544231-la-suisse-presentera-t-elle-une-candidature-pour-les-jo-d-hiver-de-2026.html
-7550844-les-similitudes-entre-le-tennis-et-le-golf-14-03-2016.html
 7550863-les-similitudes-du-tennis-et-du-golf.html
 7553632-sports-matin-le-mag.html
 7559754-les-sportifs-et-l-alcool-17-03-2016.html
-7562645-les-sportives-doivent-soigner-leur-image-18-03-2016.html
 7574747-l-euro-2016-revoit-ses-mesures-de-securite-apres-bruxelles.html
 7626627-la-nouvelle-dietetique-des-sportifs-d-elite.html
 7632542-la-lutte-contre-la-cybercriminalite-aux-jo-et-a-l-euro.html

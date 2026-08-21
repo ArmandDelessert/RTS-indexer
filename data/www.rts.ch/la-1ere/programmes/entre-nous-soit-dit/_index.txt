@@ -1,6 +1,4 @@
 ./
-4197995-jean-studer-le-persuasif-27-08-2012.html
-4217876-teaser-entre-nous-soit-dit-23-08-2012.html
 4269815-gael-metroz-l-aventurier-28-09-2012.html
 4305482-entre-nous-soit-dit-du-11-10-2012.html
 4349884-entre-nous-soit-dit-du-29-10-2012.html
@@ -90,7 +88,6 @@
 4830906-entre-nous-soit-dit-du-02-05-2013.html
 4834102-entre-nous-soit-dit-du-03-05-2013.html
 4836936-entre-nous-soit-dit-du-04-05-2013.html
-4872443-olivia-chaumont-ainsi-soit-elle-17-05-2013.html
 5105603-jean-pierre-coffe-plaisir-des-papilles.html
 5176566-eugene-ecrire-pour-exister-16-09-2013.html
 5226638-maryline-desbiolles-vallotton-en-exil-04-10-2013.html
@@ -155,16 +152,13 @@
 6217549-entre-nous-soit-dit-du-27-10-2014.html
 6220459-martine-rahier-rectrice-d-universite-28-10-2014.html
 6220460-entre-nous-soit-dit-du-28-10-2014.html
-6226870-sandrine-salerno-politique-genevoise-au-feminin-30-10-2014.html
 6226871-entre-nous-soit-dit-du-30-10-2014.html
-6229990-david-foenkinos-delicat-ecrivain-31-10-2014.html
 6229991-entre-nous-soit-dit-du-31-10-2014.html
 6232437-entre-nous-soit-dit-du-01-11-2014.html
 6238233-xavier-milan-les-reines-de-l-egypte-ancienne-04-11-2014.html
 6242331-olivier-d-agay-le-petit-neveu-de-saint-exupery-05-11-2014.html
 6247738-pierre-keller-de-l-art-au-vin-07-11-2014.html
 6253255-paul-nizon-ecrivain-suisse-a-paris-10-11-2014.html
-6311407-thomas-nierle-president-de-msf-suisse-02-12-2014.html
 6336812-mgr-joseph-roduit-saint-maurice-1500-ans-11-12-2014.html
 6360286-entre-nous-soit-dit-du-20-12-2014.html
 6403347-entre-nous-soit-dit-du-05-01-2015.html
@@ -372,7 +366,6 @@
 7532765-entre-nous-soit-dit-du-14-03-2016.html
 7535614-entre-nous-soit-dit-du-15-03-2016.html
 7538594-entre-nous-soit-dit-du-16-03-2016.html
-7541836-marie-nimier-roman-chanson-et-theatre-17-03-2016.html
 7541837-entre-nous-soit-dit-du-17-03-2016.html
 7544740-moncef-genoud-jazz-a-cully-18-03-2016.html
 7544741-entre-nous-soit-dit-du-18-03-2016.html
@@ -380,7 +373,6 @@
 7551308-franck-maubert-giacometti-21-03-2016.html
 7551309-entre-nous-soit-dit-du-21-03-2016.html
 7554096-entre-nous-soit-dit-du-22-03-2016.html
-7557452-claude-alain-voiblet-udc-suisse-23-03-2016.html
 7557453-entre-nous-soit-dit-du-23-03-2016.html
 7560237-entre-nous-soit-dit-du-24-03-2016.html
 7563146-entre-nous-soit-dit-du-25-03-2016.html
@@ -398,15 +390,12 @@
 7591630-entre-nous-soit-dit-du-05-04-2016.html
 7595230-entre-nous-soit-dit-du-06-04-2016.html
 7598293-entre-nous-soit-dit-du-07-04-2016.html
-7601335-rosette-poletti-comment-bien-penser-pour-bien-vivre-08-04-2016.html
 7601336-entre-nous-soit-dit-du-08-04-2016.html
 7605733-entre-nous-soit-dit-du-11-04-2016.html
 7607784-entre-nous-soit-dit-du-12-04-2016.html
 7610545-entre-nous-soit-dit-du-13-04-2016.html
 7613382-entre-nous-soit-dit-du-14-04-2016.html
 7615935-entre-nous-soit-dit-du-15-04-2016.html
-7624088-barbara-hendricks-19-04-2016.html
-7633080-nicole-bacharan-du-sexe-en-amerique-22-04-2016.html
 7647678-entre-nous-soit-dit-du-28-04-2016.html
 7652919-entre-nous-soit-dit-du-30-04-2016.html
 7661969-entre-nous-soit-dit-du-04-05-2016.html

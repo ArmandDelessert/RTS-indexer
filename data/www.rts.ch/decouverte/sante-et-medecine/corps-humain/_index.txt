@@ -603,7 +603,6 @@
 7574046-quand-un-homme-de-groupe-sanguin-o-se-marie-avec-une-femme-de-groupe-sanguin-a-que-seront-les-groupes-sanguins-de-leurs-enfants.html
 7574063-est-ce-que-l-humain-a-un-6eme-sens.html
 7577238-deux-adultes-trisomiques-peuvent-ils-avoir-un-enfant.html
-7611774-les-enfants-ont-perdu-25-de-capacite-cardiaque-en-40-ans-selon-une-etude.html
 7625336-faut-il-appliquer-de-la-creme-solaire-lors-d-expositions-de-45-min-au-soleil-avant-11h-ou-apres-15h.html
 7629038-les-possibilites-de-l-apnee.html
 7651980-la-voix-vecteur-de-notre-personnalite.html
@@ -665,7 +664,6 @@
 8383455-quels-sont-les-ensembles-de-genes-portes-par-tous-les-chromosomes-d-un-individu.html
 8403271-comment-expliquer-que-dans-une-famille-dont-le-pere-est-atteint-d-albinisme-et-la-mere-est-porteuse-non-declaree-du-gene-il-y-ait-3-enfants-dont-2-sont-sains-et-le-3eme-est-atteint-d-albinisme.html
 8427791-pourquoi-chez-certaines-personnes-les-cheveux-s-eclaircissent-ils-apres-une-exposition-au-soleil.html
-8430653-quel-est-le-nombre-de-chromosomes-de-l-algue-unicellulaire-acetabularia-2n.html
 8446932-un-monde-d-emotion.html
 8496225-j-aimerais-savoir-si-on-peut-mesurer-le-niveau-de-sueur-secrete-lors-d-une-emotion-forte-comme-la-colere-la-joie-la-peur-ou-la-tristesse.html
 8542009-est-ce-que-chaque-gene-est-present-en-2-exemplaires-dans-une-cellule-non-sexuelle.html
@@ -673,7 +671,6 @@
 8568994-l-appetit-vient-en-mangeant-est-ce-que-ce-proverbe-se-verifie-vraiment-et-scientifiquement-je-sens-que-la-faim-vient-quand-je-commence-a-manger-avez-vous-des-explications-scientifiques.html
 8578991-puberte.html
 8607658-du-cerveau-au-bras-bionique.html
-8608906-pourquoi-dit-on-que-la-chaleur-produite-dans-notre-organisme-est-une-energie-energie-thermique.html
 8611545-peut-on-vaincre-la-mort-d-une-personne-en-alimentant-son-cerveau-et-ses-poumons-en-oxygene.html
 8614319-la-grandeur-des-oreilles-peut-elle-influencer-l-ouie.html
 8626573-pourquoi-pouvons-nous-respirer-dans-l-air-mais-pas-dans-l-eau.html
@@ -693,7 +690,6 @@
 8733950-comment-connaitre-le-poids-de-notre-squelette.html
 8736338-pourquoi-l-oxydation-du-nadh-fournit-3-molecules-d-atp-alors-que-celle-du-fadh2-en-fournit-seulement-2-dans-la-chaine-respiratoire.html
 8745245-que-peut-il-se-passer-si-on-reste-la-tete-en-bas-trop-longtemps.html
-8745257-combien-d-arteres-coronaires-a-normalement-un-etre-humain-pourquoi-dit-on-avoir-des-coronaires-bouchees.html
 8753786-j-aimerais-comprendre-comment-le-sang-de-la-parturiente-entre-en-contact-avec-celui-du-bebe-j-ai-lu-que-c-est-au-moment-de-l-accouchement-quand-on-coupe-le-cordon-ombilical-mais-cela-reste-un-peu-inc.html
 8761896-la-noyade-typologie-et-premiers-secours.html
 8773716-comment-changer-l-empreinte-digitale-sur-nos-doigts.html
@@ -705,7 +701,6 @@
 8877315-pourquoi-perd-on-des-annees-de-recherches-pour-soi-disant-guerir-d-un-cancer-alors-qu-on-ne-recherche-pas-sa-cause-les-risques-ne-seraient-ils-pas-limites-si-on-interdisait-a-la-vente-la-plupart-des-.html
 8879985-est-il-vrai-que-faire-attention-a-ce-qu-on-mange-le-plus-possible-cru-beaucoup-de-verdures-graines-et-noix-plus-de-viande-plus-de-produits-laitiers-peut-renforcer-notre-corps-face-aux-maladies-par-ex.html
 8934854-faux-souvenirs-et-souvenirs-induits.html
-8947088-a-la-rencontre-des-bacteries-du-fromage.html
 8985366-quelle-est-la-difference-entre-une-cellule-une-bacterie-et-un-virus.html
 9007103-quelle-est-la-difference-entre-un-locus-et-un-allele.html
 9022338-les-textes-de-yoga-expliquent-qu-il-existe-5-formes-de-prana-a-l-uvre-dans-le-corps-humain-qui-effectuent-un-cycle-complet-pour-construire-notre-personnalite-pourquoi-cette-connaissance-n-est-elle-pas-plus-examinee-par-nos-savants-.html

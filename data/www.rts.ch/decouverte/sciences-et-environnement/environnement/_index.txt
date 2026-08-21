@@ -504,10 +504,8 @@
 5591016-qui-sont-les-gagnants-et-les-perdants-de-la-mondialisation.html
 5882858-concentration-de-co2.html
 6008119-les-effets-nefastes-des-micropolluants-sur-la-faune-et-la-flore.html
-6147608-changement-climatique.html
 6230493-une-tourbiere-pour-etudier-les-changements-climatiques.html
 6253629-la-biodiversite-sentinelle-de-notre-sante.html
-6272535-niveau-record-des-gaz-a-effet-de-serre.html
 6385920-mon-beau-sapin-ecologique.html
 6429784-le-role-des-amibes-dans-le-sol.html
 6482648-quel-animal-utilise-le-mieux-son-energie-pour-se-deplacer.html
@@ -546,7 +544,6 @@
 8532798-les-avocats-sont-bons-pour-la-sante-pas-pour-l-environnement.html
 8573009-l-espoir-des-larves-devoreuses-de-plastique-reste-mince.html
 8592195-comment-la-vasodilatation-entraine-t-elle-la-perte-de-chaleur.html
-8608906-pourquoi-dit-on-que-la-chaleur-produite-dans-notre-organisme-est-une-energie-energie-thermique.html
 8641781-sortir-de-l-impasse-des-micropolluants.html
 8732733-concours-video-sur-la-foret-le-paysage-la-biodiversite.html
 8773670-une-percee-sur-l-origine-des-particules-fines-liees-a-l-usure-par-adherence.html

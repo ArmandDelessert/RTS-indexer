@@ -184,7 +184,7 @@
 7981882-lucas-pouille-fra-vs-marco-chiudinelli-sui.html
 8013191-sport-dimanche.html
 8099846-sport-dimanche.html
-8116182-voile-vendee-globe.html
+!8116182-voile-vendee-globe.html
 8151395-sport-dimanche.html
 8170510-retrospective-de-leuro.html
 8240318-saintmoritz-2017-lemission-championnats-du-monde-de-ski-alpin.html
@@ -295,10 +295,10 @@
 9565203-tennis.html
 9565206-tennis.html
 9572119-au-coeur-du-sport-au-coeur-du-sport-12052018.html
-9572142-magazine-de-la-fifa-magazine-de-la-coupe-du-monde-de-la-fifa-2018-n16.html
+!9572142-magazine-de-la-fifa-magazine-de-la-coupe-du-monde-de-la-fifa-2018-n16.html
 9587086-football.html
 9591779-cyclisme-tour-de-suisse-2eme-etape-frauenfeld-frauenfeld.html
-9591821-cyclisme-tour-de-suisse-6eme-etape-fiesch-gommiswald.html
+!9591821-cyclisme-tour-de-suisse-6eme-etape-fiesch-gommiswald.html
 9591959-basketball-lions-de-geneve-fribourg-olympic-match-4.html
 9595095-football.html
 9637477-tennis-tennis-atp-250-mercedes-cup-stuttgart.html

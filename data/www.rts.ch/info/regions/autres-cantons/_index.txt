@@ -574,7 +574,6 @@
 13682313-a-bale-un-projet-pilote-transforme-les-sapins-de-noel-en-charbon-vegetal.html
 13685843-la-ministre-zurichoise-de-la-justice-reconnait-avoir-mal-communique-sur-laffaire-de-la-fuite-de-donnees.html
 13686291-le-president-du-centre-gerhard-pfister-brigue-un-nouveau-mandat-au-national.html
-13690311-une-partie-de-la-ville-de-bienne-privee-de-courant-mardi-soir.html
 13699571-a-urnasch-des-appenzellois-fetent-le-nouvel-an-le-13-janvier.html
 13699576-lobligation-de-depistage-au-covid19-des-soignants-au-tessin-jugee-proportionnee.html
 13699624-etat-durgence-dans-le-domaine-de-lasile-decrete-en-argovie.html
@@ -757,9 +756,7 @@
 14578051-les-personnes-evacuees-a-schwanden-gl-ne-rentreront-sans-doute-pas-chez-elles-en-2023.html
 14582037-un-pilote-de-locomotive-fait-voyager-ses-abonnes-sur-les-lignes-mythiques-des-grisons.html
 14587827-vingt-personnes-evacuees-a-cause-des-eboulements-de-schwanden-peuvent-rentrer.html
-14599080-ouverture-du-proces-militaire-du-crash-mortel-dun-fa18-au-susten.html
 14601446-ludc-andreas-glarner-devra-payer-4000-francs-pour-une-fausse-video-realisee-avec-lia.html
-14610529-la-coree-du-sud-vote-linterdiction-du-commerce-de-viande-de-chien.html
 14610602-les-10-communes-de-la-vallee-de-la-birse-recompensees-par-le-prix-wakker-2024.html
 14613993-face-a-la-crise-du-logement-en-ville-de-zurich-la-droite-veut-ajouter-un-etage-aux-batiments.html
 14618553-a-lenzerheide-les-grisons-testent-un-systeme-de-bus-24-heures-sur-24.html
@@ -1129,7 +1126,7 @@
 6497556-peine-reduite-de-moitie-pour-un-homme-accuse-de-viol-et-homicide-a-zurich.html
 6500529-finalement-les-gays-s-afficheront-dans-les-trams-de-bale-campagne.html
 6501914-des-societes-tessinoises-baissent-les-salaires-pour-contrer-le-franc-fort.html
-6508511-la-vert-liberale-zurichoise-verena-diener-ne-se-represente-pas-aux-etats.html
+6508511-la-vertliberale-zurichoise-verena-diener-ne-se-represente-pas-aux-etats.html
 6508766-une-fillette-de-4-ans-tuee-a-niederlenz-victime-dun-drame-familial.html
 6510103-l-ex-conseiller-national-udc-ulrich-schluer-non-coupable-de-racisme.html
 6518783-le-carnaval-de-bale-recommande-d-eviter-les-caricatures-de-mahomet.html
@@ -1758,7 +1755,6 @@
 8703608-le-parlement-thurgovien-decide-de-maintenir-le-francais-a-lecole-primaire.html
 8711461-exit-songe-a-faciliter-laide-au-suicide-pour-les-seniors-en-sante.html
 8730965-de-fortes-pluies-mettent-fin-a-la-vague-de-chaleur-au-sud-des-alpes.html
-8732745-un-consigliere-federale-a-tout-prix-.html
 8735276-la-ville-de-zurich-autorise-la-distribution-de-corans-dans-la-rue.html
 8735434-deux-chefs-de-la-police-lucernoise-acquittes-dans-laffaire-de-malters.html
 8739580-la-distribution-de-corans-a-zurich-par-l-organisation-lies-abandonnee.html

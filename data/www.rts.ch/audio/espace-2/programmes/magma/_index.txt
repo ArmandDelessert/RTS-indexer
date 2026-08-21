@@ -1,9 +1,4 @@
 4195755-magma.html
-4225007-festival-electrosanne-07-09-2012.html
-4225008-anthony-cedric-vuagniaux-a-la-batie-07-09-2012.html
-4225010-jjr-citoyen-de-geneve-07-09-2012.html
-4225011-magma-07-09-2012.html
-4242441-igor-markevitch-compositeur-et-chef-d-orchestre-12-09-2012.html
 4242443-chronique-1-12-09-2012.html
 4242444-magma-12-09-2012.html
 4242445-invite-2-12-09-2012.html
@@ -11,16 +6,8 @@
 4301953-american-serenade-de-rachel-kolly-d-alba-08-10-2012.html
 4361952-label-suisse-14-11-2012.html
 4547701-magma-17-01-2013.html
-4657242-argerich-de-stephanie-argerich-27-02-2013.html
-4981430-une-exposition-sur-le-fou-chantant-27-06-2013.html
-5006994-portrait-de-beatrice-uria-mozon-05-08-2013.html
 5207613-franz-treichler-joue-dada-27-09-2013.html
 5554639-cliquez-sur-j-aime-pour-narcisse-07-02-2014.html
-5761449-cedric-pescia-et-son-mantra-02-05-2014.html
-5806193-magma-13-05-2014.html
-5806195-babel-after-the-war-13-05-2014.html
-5806196-tetrafolie-a-geneve-13-05-2014.html
-5806197-la-chronique-de-jean-pierre-amann-13-05-2014.html
 7017075-l-imprimante-3d-est-elle-l-avenir-de-la-musique-04-09-2015.html
 7088437-le-mikhailovsky-ballet-a-lausanne-30-09-2015.html
 7088439-st-marc-a-ambronay-30-09-2015.html
@@ -37,8 +24,6 @@
 7525730-magma-11-03-2016.html
 7525731-chronique-2-11-03-2016.html
 7532429-magma-14-03-2016.html
-7532430-88-printemps-pour-christa-ludwig-14-03-2016.html
-7532431-hommage-a-nana-vasconcelos-14-03-2016.html
 7535240-un-recital-et-un-album-consacres-a-beethoven-15-03-2016.html
 7535243-magma-15-03-2016.html
 7535244-climax-du-geneva-camerata-15-03-2016.html
@@ -48,6 +33,5 @@
 7541484-les-musicales-de-compesieres-2016-17-03-2016.html
 7568896-nicola-piovani-la-vie-d-un-grand-musicien-28-03-2016.html
 7571625-portrait-de-marc-texier-29-03-2016.html
-7587708-jean-liermier-directeur-du-theatre-de-carouge-04-04-2016.html
 7590070-portrait-de-dominique-tille-05-04-2016.html
 7665154-portrait-de-la-mezzo-soprano-christa-ludwig-05-05-2016.html

@@ -1,5 +1,4 @@
 ./
-1423929-concert-du-mercredi-soir.html
 4429365-concert-du-mercredi-soir-du-28-11-2012.html
 4546200-concert-du-mercredi-soir-du-16-01-2013.html
 6187476-concert-de-l-osr-15-10-2014.html
@@ -12,9 +11,9 @@
 7484212-concert-du-mercredi-soir-du-24-02-2016.html
 7501593-concert-du-mercredi-soir-du-02-03-2016.html
 7519840-concert-du-mercredi-soir-du-09-03-2016.html
-7538224-l-osr-sous-la-direction-de-kazuki-yamada-16-03-2016.html
+!7538224-l-osr-sous-la-direction-de-kazuki-yamada-16-03-2016.html
 7538225-concert-du-mercredi-soir-du-16-03-2016.html
 7557048-concert-du-mercredi-soir-du-23-03-2016.html
 7574859-concert-du-mercredi-soir-du-30-03-2016.html
-7590101-lionel-cottet-violoncelle-et-l-orchestre-national-russe-06-04-2016.html
+!7590101-lionel-cottet-violoncelle-et-l-orchestre-national-russe-06-04-2016.html
 7590102-concert-du-mercredi-soir-du-06-04-2016.html

@@ -1,5 +1,4 @@
 ./
-3289201-les-temps-modernes.html
 3546907-les-no-kids-sortent-du-placard-04-11-2011.html
 3772533-les-cerfs-volants-eoliennes-du-futur.html
 3831806-menaces-sur-la-memoire-du-monde-a-l-ere-numerique-13-03-2012.html
@@ -22,11 +21,9 @@
 4377967-serie-usa-9-10-le-lobby-des-geants-du-net.html
 4379211-serie-usa-5-10-l-education-en-ligne-next-big-thing.html
 4380868-serie-usa-10-10-les-serial-entrepreneurs-de-la-biotech.html
-4547646-le-e-commerce-alternative-a-l-ouverture-dominicale-des-magasins-10-01-2013.html
 4557614-la-coree-du-nord-version-open-data.html
 4627973-quand-la-pauvrete-est-un-droit-11-02-2013.html
 4668639-sommes-nous-obsedes-par-le-bien-etre-animal.html
-4671337-que-mangera-t-on-dans-50-ans-26-02-2013.html
 4671355-que-mangera-t-on-dans-50-ans.html
 4674370-google-est-il-indetronable.html
 4677515-puce-rfid-la-mobilite-a-la-carte-et-a-la-trace.html
@@ -60,9 +57,7 @@
 4933872-le-macabre-business-des-assurances-vie.html
 4936782-le-viagra-pour-femme.html
 4940446-la-panoplie-du-policier-du-futur.html
-4943506-amazon-l-envers-du-decor-06-06-2013.html
 4943523-amazon-l-envers-du-decor.html
-4952903-le-twaming-tourisme-engage-ou-colonialisme-10-06-2013.html
 4952921-le-twaming-tourisme-engage-ou-colonialisme.html
 4955963-les-naifs-du-numerique.html
 4963099-ou-sont-passes-les-cyber-revolutionnaires-en-iran.html
@@ -70,7 +65,6 @@
 4975166-le-medecin-voyageur-alternative-a-la-penurie-de-medecins.html
 4978579-la-fin-du-prix-fixe.html
 4981325-l-alzheimer-technologique-un-danger.html
-5015219-veiller-sur-les-seniors-une-obligation-01-07-2013.html
 5015236-veiller-sur-les-seniors-une-obligation.html
 5020421-le-paradoxe-de-la-surveillance.html
 5023717-la-banque-low-cost.html

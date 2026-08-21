@@ -4,7 +4,6 @@
 4490428-chez-les-rameurs-venitiens-21-12-2012.html
 4546475-detours-du-16-01-2013.html
 4550083-detours-du-18-01-2013.html
-4601131-au-carnaval-de-soleure-07-02-2013.html
 4660082-anniviers-d-hier-et-de-nature-2-2-28-02-2013.html
 4767142-detours-du-08-04-2013.html
 5104644-detours-du-26-08-2013.html
@@ -19,7 +18,6 @@
 5105543-detours-du-05-09-2013.html
 5105624-detours-du-06-09-2013.html
 5105700-detours-du-07-09-2013.html
-5158129-embarquement-immediat-09-09-2013.html
 5158130-detours-du-09-09-2013.html
 5161244-detours-du-10-09-2013.html
 5164897-detours-du-11-09-2013.html
@@ -111,9 +109,7 @@
 5862544-detours-du-03-06-2014.html
 5866458-detours-du-04-06-2014.html
 5869009-detours-du-05-06-2014.html
-6172005-lavaux-vendange-09-10-2014.html
 6172006-detours-du-09-10-2014.html
-6206053-l-ingenieur-devenu-chamane-24-10-2014.html
 6229931-tu-verras-l-inde-est-un-pays-imprevisible-31-10-2014.html
 6244963-la-chaux-de-fonds-celebre-blaise-cendrars-06-11-2014.html
 6244964-detours-du-06-11-2014.html
@@ -231,7 +227,6 @@
 7490267-detours-du-26-02-2016.html
 7492924-detours-du-27-02-2016.html
 7496271-detours-du-29-02-2016.html
-7498809-chypre-de-part-et-d-autre-de-la-ligne-verte-01-03-2016.html
 7498810-detours-du-01-03-2016.html
 7501913-detours-du-02-03-2016.html
 7504948-cadix-et-son-carnaval-12-det_20160303t150415_detours.html
@@ -264,9 +259,7 @@
 7570919-voyage-en-siberie.html
 7578660-detours-du-31-03-2016.html
 7584343-detours-du-02-04-2016.html
-7641279-ils-rident-en-iran-26-04-2016.html
 7652895-detours-du-30-04-2016.html
-7661952-bakou-fleurier-carnet-de-voyage-2-2-04-05-2016.html
 7697781-l-a-river-entre-canards-tournages-et-graffitis-18-05-2016.html
 7713857-tripoli-un-parfum-d-authenticite-en-peril-25-05-2016.html
 7717161-detours-du-26-05-2016.html

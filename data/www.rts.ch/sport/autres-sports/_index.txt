@@ -257,7 +257,6 @@
 1248005-les-epeistes-suisses-en-argent-aux-europeens.html
 12491833-hornuss-un-joueur-suspendu-6-ans-pour-dopage-et-falsification-de-documents.html
 12509426-football-americain-un-joueur-suspendu-une-annee-pour-dopage.html
-12526260-gymnastique-simone-biles-jaurais-du-abandonner-avant-tokyo.html
 1253330-laviron-suisse-fete-une-medaille-dargent.html
 1254271-bellaguarda-et-laciga-champions-de-suisse.html
 1254272-kuhn-zumkehr-decrochent-le-bronze.html
@@ -385,10 +384,8 @@
 13319209-europeens-multisports-brunnerhuberli-dans-le-dernier-carre.html
 13319632-europeens-multisports-lore-hoffmann-et-le-4x400m-dames-en-finale.html
 13320229-europeens-multisports-brunner-et-huberli-passent-en-finale.html
-13320381-europeens-multisports-femke-bol-reussit-un-double-inedit-400m400m-haies.html
 13320418-europeens-multisports-julien-bonvin-termine-7e-du-400m-haies.html
 13320423-europeens-multisports-mujinga-kambundji-championne-deurope-du-200m.html
-13320478-europeens-multisports-kambundji-jetais-bien-stressee-mais-pas-trop.html
 1339885-anita-weyermann-quitte-la-course.html
 13406014-aviron-cinq-embarcations-suisses-en-finale-aux-mondiaux.html
 13408823-aviron-pas-de-finale-pour-gmelin-struzina-a-leau.html
@@ -528,7 +525,6 @@
 14575229-jiujitsu-bresilien-la-genevoise-anais-vintalas-apres-lor-europeen-en-poche-vise-desormais-lor-mondial.html
 14575299-skicross-sixtine-cousin-signe-sa-1re-victoire-en-coupe-du-monde.html
 14577051-snowboard-pas-de-podium-suisse-a-davos.html
-14639137-snowboard-les-finales-sans-participant-suisse.html
 14641011-skicross-fiva-et-smith-sur-la-troisieme-marche-du-podium.html
 14642313-ski-freestyle-gremaud-triomphe-a-laax.html
 14642769-skicross-jonas-lenherr-gagne-au-canada.html
@@ -628,8 +624,6 @@
 4996039-les-epeistes-suisses-champions-deurope.html
 5063373-un-23e-titre-mondial-pour-simone-niggli.html
 5114654-les-epeistes-suisses-veulent-ecrire-l-histoire.html
-5149494-la-fete-federale-est-un-retour-aux-sources.html
-5174026-a-la-decouverte-du-royaume-des-bosen.html
 5175665-matthias-sempach-sacre-roi-de-la-lutte.html
 5192050-tokyo-decroche-la-timbale.html
 5200797-bach-du-sacre-olympique-au-sommet-de-lolympe.html
@@ -878,7 +872,6 @@
 7900387-rio-2016-la-russie-se-felicite-de-la-decision-du-cio.html
 7900713-rio-2016-sept-nageurs-russes-dont-trois-medailles-a-londres-prives-de-jo.html
 7904951-golf-pga-championship-retour-la-ou-tout-a-commence-pour-jason-day.html
-7908642-fete-federale-de-lutte-du-sable-a-la-sciure-sur-la-route-destavayer-avec-dieylani-pouye.html
 7909428-golf-pga-championship-streb-egale-un-record-avec-une-carte-de-63.html
 7919864-giulia-steingruber-portedrapeau-suisse-timea-bacsinszky-face-a-une-chinoise-et-destins-divers-pour-gc-et-lucerne-en-europa-league.html
 7958954-peter-zeidler-a-la-tete-du-fc-sion-simon-pellaud-grand-animateur-de-la-vuelta-et-wawrinka-depasse-federer.html

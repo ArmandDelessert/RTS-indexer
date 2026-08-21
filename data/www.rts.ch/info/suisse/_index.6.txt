@@ -189,7 +189,7 @@
 6120914-davantage-de-moyens-demandes-pour-combattre-lillettrisme-en-suisse.html
 6121898-une-association-de-promotion-du-coran-avec-soutien-qatari-nait-a-berne.html
 6124178-enquete-ouverte-contre-quatre-djihadistes-suisses-presumes.html
-6124349-les-cantons-veulent-mettre-fin-au-tourisme-de-l-aide-sociale.html
+6124349-les-cantons-veulent-mettre-fin-au-tourisme-de-laide-sociale.html
 6124691-les-archives-de-l-armee-suisse-sont-desormais-bloquees-80-ans.html
 6124815-deux-suisses-blesses-dans-un-accident-d-avion-en-france.html
 6124932-berne-n-extraderait-pas-edward-snowden-s-il-venait-en-suisse.html
@@ -216,7 +216,6 @@
 6132769-un-medecin-devrait-maitriser-au-moins-une-langue-nationale.html
 6132873-neuf-suisses-sur-dix-tiennent-au-choix-du-medecin-selon-le-barometre-h.html
 6133142-la-confederation-va-continuer-a-subventionner-les-nouvelles-creches.html
-6133666-la-votation-du-9-fevrier-pourrait-causer-une-penurie-d-informaticiens.html
 6133797-les-hopitaux-economes-pourront-prevoir-et-utiliser-leurs-benefices.html
 6133810-les-suisses-ont-trie-94-des-emballages-de-boissons-en-2013.html
 6133851-le-pdc-propose-des-mesures-contre-le-djihadisme-en-suisse.html
@@ -242,7 +241,6 @@
 6139484-un-voleur-de-bijoux-recherche-par-interpol-a-ete-arrete-en-suisse.html
 6140057-philipp-muller-denonce-la-nouvelle-enquete-sur-le-groupe-ammann.html
 6140516-les-liberaux-radicaux-lancent-leur-campagne-des-elections-federales-2015.html
-6141030-le-matin-dimanche-fait-peau-neuve-avec-une-nouvelle-formule.html
 6141620-pour-le-president-du-parti-socialiste-ludc-a-des-tendances-fascistoides.html
 6141645-martin-baumle-president-des-vertliberaux-voit-grand-pour-2015.html
 6142161-la-greve-dair-france-perturbera-encore-le-trafic-vers-la-suisse-mardi.html
@@ -398,7 +396,6 @@
 6225038-vers-un-remboursement-des-soins-prodigues-dans-toute-la-suisse.html
 6225081-cinquante-cinq-departs-de-djihadistes-de-suisse-ont-ete-recenses.html
 6227287-les-suisses-s-activent-davantage-qu-il-y-a-dix-ans-selon-une-etude.html
-6227530-fribourg-a-la-population-la-plus-jeune-de-suisse.html
 6228952-la-suisse-s-engage-dans-un-fonds-international-pour-lutter-contre-les-extremismes.html
 6228953-une-commission-des-etats-soutient-la-negociation-sur-la-libre-circulation.html
 6231365-ecopop-ferait-baisser-de-40-les-arrivees-d-etrangers-en-suisse.html
@@ -655,7 +652,7 @@
 6346861-une-commission-d-ethique-admet-que-les-poissons-peuvent-souffrir.html
 6346927-la-suisse-accueille-proportionnellement-le-plus-dimmigres-en-europe.html
 6347145-le-sida-en-suisse-un-phenomene-tres-urbain-et-majoritairement-masculin.html
-6347350-une-commission-du-national-veut-releguer-l-anglais-au-second-plan.html
+6347350-une-commission-du-national-veut-releguer-langlais-au-second-plan.html
 6349578-99-millions-pour-developper-la-surveillance-des-communications.html
 6349718-le-groupe-rasa-lance-une-initiative-pour-abroger-le-vote-du-9-fevrier.html
 6349734-presque-tous-les-suisses-sont-fiers-de-leur-appartenance.html
@@ -816,7 +813,6 @@
 6431204-le-pere-de-l-initiative-du-9-fevrier-favorable-a-l-aide-aux-refugies-syriens.html
 6432817-la-suisse-pourrait-en-faire-plus-pour-les-refugies-syriens.html
 6433357-les-paysans-suisses-assurent-ne-pas-etre-accros-aux-subventions.html
-6433787-le-parti-socialiste-vise-20-aux-elections-federales-cet-automne.html
 6436454-des-machines-pour-controler-les-passeports-dans-les-aeroports-suisses.html
 6436642-le-conseil-federal-ne-veut-pas-de-la-taxe-energetique-des-vert-liberaux.html
 6438256-l-accueil-de-refugies-par-des-particuliers-peine-a-se-concretiser.html
@@ -862,7 +858,6 @@
 6463826-pres-de-40-annonces-d-incidents-dans-les-centrales-nucleaires-en-2014.html
 6464140-la-suisse-demande-d-annuler-la-flagellation-d-un-blogueur-en-arabie-saoudite.html
 6464683-la-presidente-veut-une-position-claire-de-ludc-sur-les-droits-humains.html
-6465804-le-pbd-vise-trois-sieges-de-plus-aux-elections-federales.html
 6466903-suisse-tourisme-et-le-valais-consternes-par-la-decision-de-la-bns.html
 6467106-la-suisse-doit-rester-tres-vigilante-face-au-terrorisme-selon-carla-del-ponte.html
 6467500-les-demandes-d-asile-examinees-par-la-suisse-en-fonction-du-risque-terroriste.html
@@ -961,7 +956,6 @@
 6518298-5-8-millions-de-vehicules-sont-en-circulation-en-suisse.html
 6518707-berne-cesse-de-financer-les-bourses-d-etude-des-officiers-nord-coreens.html
 6518831-quelque-750-lits-dedies-a-lhebergement-durgence-en-suisse-romande.html
-6520521-la-suisse-romande-reste-sous-le-joug-de-la-bise-noire.html
 6521070-a-5-degres-on-peut-betonner-unia-sinsurge-contre-cette-declaration.html
 6521495-les-empoisonnements-volontaires-de-faucons-se-multiplient-en-suisse.html
 6522196-la-compagnie-aerienne-darwin-va-supprimer-une-soixantaine-d-emplois.html
@@ -1257,7 +1251,6 @@
 6656664-les-medecins-favorables-a-la-nouvelle-loi-sur-la-procreation-assistee.html
 6656720-udc-plr-et-pdc-proposent-13-mesures-pour-renforcer-leconomie.html
 6657219-swiss-adopte-la-regle-des-deux-membres-d-equipage-dans-le-cockpit.html
-6657222-les-candidats-aux-federales-payeront-a-leur-parti-de-0-a-30-000-francs.html
 6658906-activite-a-lausanne-pour-arracher-un-accord-sur-le-nucleaire-iranien.html
 6659100-la-suisse-est-trop-lente-a-accueillir-les-refugies-syriens.html
 6659490-la-suisse-sest-mise-a-lheure-dete-dimanche-a-2h00.html
@@ -1269,7 +1262,6 @@
 6662288-apres-mike-la-tempete-niklas-arrive-sur-la-suisse-mardi.html
 6662338-la-crise-economique-fait-fondre-les-salaires-des-grands-patrons-suisses.html
 6662575-le-diagnostic-preimplantatoire-divise-les-defenseurs-des-handicapes.html
-6662714-montee-du-plr-et-recul-des-verts-selon-le-barometre-ssr.html
 6662923-les-hommes-deviennent-peres-de-plus-en-plus-tard-en-suisse.html
 6662953-un-nouvel-hymne-national-les-suisses-appeles-a-voter.html
 6663504-les-operateurs-sommes-d-agir-contre-le-demarchage-telephonique.html
@@ -1432,7 +1424,6 @@
 6744983-trop-de-secretariats-d-etat-negocient-avec-l-ue-reconnait-didier-burkhalter.html
 6746522-quelque-12000-personnes-dans-la-rue-pour-la-fete-du-travail.html
 6746736-les-jeunes-socialistes-relancent-le-debat-sur-le-langage-epicene.html
-6747189-la-ssr-lance-politbox-une-operation-nationale-ludique-en-vue-des-federales.html
 6747231-le-nombre-des-rentes-de-l-assurance-invalidite-diminue-encore.html
 6747250-evacuations-dans-le-chablais-valaisan-a-cause-des-violentes-intemperies.html
 6747854-alain-berset-rencontrera-le-pape-francois-a-rome.html
