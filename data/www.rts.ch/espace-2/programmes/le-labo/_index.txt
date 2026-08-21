@@ -29,11 +29,11 @@
 7399160-le-labo-24-01-2016.html
 7470438-de-la-grenade-sortiront-mille-danseurs.html
 7511796-chinese-whispers-06-03-2016.html
-7511800-hou-hsiao-hsien-une-rencontre-06-03-2016.html
-7511800-hou-hsiaohsien-une-rencontre-labo_20160306t200345_sujet1.html
+!7511800-hou-hsiao-hsien-une-rencontre-06-03-2016.html
+!7511800-hou-hsiaohsien-une-rencontre-labo_20160306t200345_sujet1.html
 7511801-le-labo-du-06-03-2016.html
 7526621-teasing-de-la-rencontre-avec-le-realisateur-hou-hsiao-hsien-06-03-2016.html
-7530248-marins-13-03-2016.html
-7530248-marins-labo_20160313t200345_sujet1.html
+!7530248-marins-13-03-2016.html
+!7530248-marins-labo_20160313t200345_sujet1.html
 7585791-jim-harrison-for-ever-03-04-2016.html
 8529454-histoires-de-la-prise-de-tete-23-04-2017.html

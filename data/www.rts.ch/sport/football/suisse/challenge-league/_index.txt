@@ -1,6 +1,5 @@
 ./
 10273706-challenge-league-le-lausannesport-jouera-sur-synthetique-a-la-tuiliere.html
-1132633-la-nouvelle-maladiere-j-3.html
 1132633-la-nouvelle-maladiere-j3.html
 1132637-premiere-en-fanfare-pour-xamax.html
 1230407-st-gall-conserve-la-tete-de-la-challenge-league.html
@@ -28,7 +27,6 @@
 3142599-vaduz-sechement-battu-par-wohlen.html
 3143389-servette-concede-une-defaite-qui-fait-mal.html
 3145915-lausanne-detrone-lugano-et-reve-de-super-league.html
-3147416-la-fin-d-une-ere-de-11-ans-a-yverdon-sports-.html
 3147416-la-fin-dune-ere-de-11-ans-a-yverdonsports.html
 3156438-la-challenge-league-passe-a-10-clubs.html
 3156937-la-promotion-se-jouera-entre-lausanne-et-servette.html

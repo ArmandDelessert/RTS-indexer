@@ -330,8 +330,8 @@
 7408783-entre-nous-soit-dit-du-27-01-2016.html
 7411384-entre-nous-soit-dit-du-28-01-2016.html
 7414495-entre-nous-soit-dit-du-29-01-2016.html
-7420917-benoit-violier-l-heritier-culinaire-01-02-2016.html
-7420917-benoit-violier-l-heritier-culinaire.html
+!7420917-benoit-violier-l-heritier-culinaire-01-02-2016.html
+!7420917-benoit-violier-l-heritier-culinaire.html
 7424201-entre-nous-soit-dit-du-02-02-2016.html
 7427826-entre-nous-soit-dit-du-03-02-2016.html
 7431243-philippe-cohen-l-improvisateur-04-02-2016.html
@@ -412,12 +412,8 @@
 7661969-entre-nous-soit-dit-du-04-05-2016.html
 7691702-entre-nous-soit-dit-du-16-05-2016.html
 7697778-emmanuelle-boidron-la-fille-de-navarro-18-05-2016.html
-7700566-michel-brunet-decouvreur-de-toumai-19-05-2016.html
-7700566-michel-brunet-decouvreur-de-toumai-ensd_20160519t140415_entrenoussoitdit.html
 7700567-entre-nous-soit-dit-du-19-05-2016.html
 7707922-jerome-meizoz-incarnation-de-la-litterature-23-05-2016.html
-7714236-elizabeth-gouslan-les-femmes-de-truffaut-24-05-2016.html
-7714236-elizabeth-gouslan-les-femmes-de-truffaut-ensd_20160524t140415_entrenoussoitdit.html
 7717163-catherine-bensaid-femme-liberee-26-05-2016.html
 7719815-herve-ghesquiere-grand-reporter-27-05-2016.html
 7727418-pierre-lunel-vivent-les-polissonnes-31-05-2016.html
@@ -425,5 +421,3 @@
 7733632-entre-nous-soit-dit-du-02-06-2016.html
 7736330-antoine-jaccoud-ist-uberall-03-06-2016.html
 7736331-entre-nous-soit-dit-du-03-06-2016.html
-7754741-mahmoud-darwich-a-travers-le-regard-de-farouk-mardam-10-06-2016.html
-7754741-mahmoud-darwich-a-travers-le-regard-de-farouk-mardam-ensd_20160610t140415_entrenoussoitdit.html

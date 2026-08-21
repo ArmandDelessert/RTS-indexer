@@ -61,8 +61,8 @@
 7462922-harold-et-maude-pomoca.html
 7466067-le-club-des-quarantenaires-kireego.html
 7469603-welcome-in-swissamerica-mcchallenge.html
-7472319-neophiles.html
-7472319-virtuelle-realite-artanim.html
+!7472319-neophiles.html
+!7472319-virtuelle-realite-artanim.html
 7478309-bucarest-lausanne-irewind.html
 7481027-la-lecon-cronodeal.html
 7484160-constructeur-ou-architecte-diviac.html
@@ -76,8 +76,6 @@
 7513507-teleportation-texel-29-02-2016.html
 7513526-teleportation-texel.html
 7516337-equateur-cuestionarix.html
-7519715--l-eglise-au-milieu-du-village-asoriba.html
-7519715-l-eglise-au-milieu-du-village-asoriba-02-03-2016.html
 7519735-l-eglise-au-milieu-du-village-asoriba.html
 7522855--les-cousins-mergims.html
 7522872-les-cousins-mergims.html

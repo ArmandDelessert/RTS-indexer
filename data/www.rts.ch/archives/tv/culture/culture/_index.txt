@@ -15,10 +15,6 @@
 4777826-decouvrir-la-gravure.html
 4958773-avec-lino-ventura.html
 5845510-hr-giger.html
-6079648-a-t-on-envie-de-culture-en-suisse-.html
-6079648-aton-envie-de-culture-en-suisse.html
-6079750-dur-dur-d-etre-comedien-en-suisse.html
-6079750-dur-dur-detre-comedien-en-suisse.html
 6222989-francois-truffaut.html
 6461002-des-rencontres.html
 6689022-sang-dencre-avec-alexandre-voisard.html
@@ -29,8 +25,6 @@
 8752747-fete-a-lausanne.html
 9025419-catherine-colomb.html
 9082440-les-paysans-horlogers-neuchatelois.html
-9089265-le-tunnel-du-grand-saint-bernard.html
-9089265-le-tunnel-du-grandsaintbernard.html
 9188276-chaplin-au-cirque.html
 9188403-chaplin-et-charlot.html
 9504099-ecrivains-valaisans.html

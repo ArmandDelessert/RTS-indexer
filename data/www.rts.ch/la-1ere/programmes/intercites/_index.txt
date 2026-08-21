@@ -22,8 +22,6 @@
 5353209-l-amiante-toujours-presente-dans-la-majorite-des-constructions-romandes-13-11-2013.html
 5359126-le-droit-de-vote-a-16-ans-une-fausse-bonne-idee-15-11-2013.html
 5368764-jeunes-et-violence-la-collaboration-prevention-repression-19-11-2013.html
-5432784-des-brigades-de-proprete-s-engagent-contre-le-littering-13-12-2013.html
-5432784-des-brigades-de-proprete-s-engagent-contre-le-littering.html
 5446897-les-enfants-francophones-de-nidau-be-scolarises-en-allemand-18-12-2013.html
 5638971-le-projet-de-parc-technologique-bluefactory-en-marche-a-fribourg-03-03-2014.html
 5667872-apprendre-l-hymne-national-sur-les-bancs-d-ecole-13-03-2014.html
@@ -73,8 +71,6 @@
 6828047-qui-va-financer-les-pme-de-demain-08-06-2015.html
 7008689-les-differentes-facettes-de-l-asile-en-suisse-le-miracle-de-riggisberg.html
 7011975-un-projet-valaisan-permet-aux-refugies-de-travailler-dans-les-exploitations-agricoles.html
-7014525-les-differentes-facettes-de-l-asile-en-suisse-l-hebergement-27-08-2015.html
-7014525-les-differentes-facettes-de-l-asile-en-suisse-l-hebergement.html
 7014543-les-differentes-facettes-de-l-asile-en-suisse-l-hebergement.html
 7016994-la-vie-en-abri-pc.html
 7022870-special-elections-federales-geneve.html
@@ -88,8 +84,6 @@
 7111456-elections-federales-portraits-de-figures-politiques-alemaniques-3-5-.html
 7114434-elections-federales-portraits-de-figures-politiques-alemaniques-4-5-.html
 7121019-elections-federales-portraits-de-figures-politiques-alemaniques-5-5-.html
-7130923-le-succes-des-food-trucks-inquiete-les-restaurateurs-fribourgeois-08-10-2015.html
-7130923-le-succes-des-food-trucks-inquiete-les-restaurateurs-fribourgeois.html
 7162457-une-association-fribourgeoise-s-engage-contre-le-harcelement-de-rue-20-10-2015.html
 7221978-multiplication-des-echanges-linguistiques-entre-eleves-romands-et-alemaniques.html
 7240208-poulaillers-en-ville-la-nouvelle-tendance-17-11-2015.html
@@ -120,8 +114,8 @@
 7550867-les-habitudes-du-public-des-theatres-evoluent.html
 7553617-la-technologie-au-service-de-la-mobilite-pietonne-15-03-2016.html
 7553617-la-technologie-au-service-de-la-mobilite-pietonne.html
-7553635-intercites.html
-7553635-la-technologie-au-service-de-la-mobilite-pietonne.html
+!7553635-intercites.html
+!7553635-la-technologie-au-service-de-la-mobilite-pietonne.html
 7556961-la-ville-de-sion-tente-l-integration-grace-a-la-culture.html
 7559747-le-rire-en-politique-une-arme-perilleuse-17-03-2016.html
 7559764-le-rire-en-politique-une-arme-perilleuse.html

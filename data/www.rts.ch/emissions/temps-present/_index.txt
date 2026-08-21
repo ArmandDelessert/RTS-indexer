@@ -1,5 +1,4 @@
 ./
-10066418-les-elements-cles-de-l-affaire-maudet.html
 10066418-les-elementscles-de-laffaire-maudet.html
 10239155-temps-present-et-claude-goretta.html
 1221080-les-espions-qui-venaient-d-helvetie.html
@@ -79,8 +78,8 @@
 5515072-vous-reprendrez-bien-du-clone.html
 5530815-le-fisc-aux-basques-des-suisses.html
 5534763-bibliographique-selective.html
-5552821-la-fortune-cachee-de-poutine-br-pour-des-raisons-de-droits-cette-video-n-est-pas-disponible-sur-notre-site.html
-5552821-la-fortune-cachee-de-poutine.html
+!5552821-la-fortune-cachee-de-poutine-br-pour-des-raisons-de-droits-cette-video-n-est-pas-disponible-sur-notre-site.html
+!5552821-la-fortune-cachee-de-poutine.html
 5553352-bibliographie-selective.html
 5566453-au-boulot-les-seniors.html
 5614725-un-livre-a-lire-et-un-trait-dhumour.html
@@ -107,7 +106,6 @@
 6969551-des-filles-dans-la-police.html
 6997327-vin-francais-la-gueule-de-bois.html
 7027937-femmes-sur-la-ligne-de-front.html
-7086821-l-arctique-une-bombe-a-retardement.html
 7086821-larctique-une-bombe-a-retardement.html
 7263826-la-suisse-le-pays-le-plus-drole-du-monde.html
 7280728-charlie-hebdo-trois-jours-de-terreur.html
@@ -155,7 +153,6 @@
 8096250-bienvenue-au-pays-de-trump.html
 8115909-temps-present-prime-aux-ondas-awards-2016.html
 9190404-la-correspondance-entre-temps-present-et-le-departement-federal-de-la-defense.html
-9194234-il-etait-une-fois-l-armee-secrete-suisse-epilogue.html
 9194234-il-etait-une-fois-larmee-secrete-suisse-epilogue.html
 9433703-interruption-de-la-diffusion-du-22-mars-2018.html
 9531856-mobilisation-contre-la-precarite-dun-couple-prevotois.html

@@ -1,7 +1,5 @@
 ./
 10375326-a-la-decouverte-du-japon.html
-10512833-yuri-l-acrobate.html
-10512833-yuri-lacrobate.html
 10512863-dompteur-de-fauves.html
 10553258-un-camp-de-voile.html
 10639272-prets-depart.html
@@ -32,17 +30,8 @@
 3445637-mission-educative.html
 3446079-la-mode-du-boguet.html
 3450462-a-la-claire-fontaine.html
-3463774-le-grand-st-bernard.html
-3463774-le-grandsaintbernard.html
-3463774-le-grandstbernard.html
-3464635-l-art-de-la-realisation.html
-3464635-lart-de-la-realisation.html
-5527458-l-aventure-du-ballon.html
-5527458-laventure-du-ballon.html
 5537469-le-skibob.html
 5965775-au-zoo-des-marecottes.html
-6309842-l-organisation-mondiale-de-la-sante.html
-6309842-lorganisation-mondiale-de-la-sante.html
 6503113-la-capitale-du-fond.html
 6644801-le-gai-printemps.html
 7255372-un-poing-cest-tout.html

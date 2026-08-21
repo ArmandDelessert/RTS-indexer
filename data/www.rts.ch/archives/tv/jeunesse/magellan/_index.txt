@@ -1,7 +1,5 @@
 ./
 10349586-pan-pan-tes-mort.html
-10553583-athletissima-le-sport-et-la-television-.html
-10553583-athletissima-le-sport-et-la-television.html
 10678458-entre-montbenon-et-penthaz.html
 11713014-alain-rey-passionne-des-mots.html
 11714020-si-lapresguerre-nous-etait-conte-1-mai-1945-en-suisse.html
@@ -18,8 +16,6 @@
 3469914-premiere-realisation.html
 3474672-savoir-se-distinguer.html
 3787291-la-mano-a-bochuz.html
-5920150-grunge-punk-rock-.html
-5920150-grunge-punk-rock.html
 6281795-la-hongrie-davant-la-chute.html
 8605005-adeptes-du-chat.html
 9052456-avion-passion.html

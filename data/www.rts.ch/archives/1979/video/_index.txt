@@ -5,6 +5,7 @@ a-coeur-ouvert-edmond-kaiser-2-26192678.html
 a-coeur-ouvert-edmond-kaiser-3-26192853.html
 a-coeur-ouvert-edmond-kaiser-4-26191194.html
 a-coeur-ouvert-edmond-kaiser-5-26190497.html
+a-l-affiche-26192443.html
 a-la-fille-dieu-26383946.html
 a-la-gare-de-lausanne-26192864.html
 a-la-recherche-d-un-disparu-26192437.html
@@ -13,6 +14,7 @@ abc-du-chien-d-avalanche-26192121.html
 aime-cesaire-26191824.html
 alain-chamfort-26192210.html
 andre-paul-dessinateur-de-presse-26190790.html
+atd-quart-monde-26957398.html
 au-centre-aere-de-meyrin-26191425.html
 au-lit-sans-souci-26957224.html
 avant-un-match-capital-28456178.html
@@ -48,10 +50,12 @@ duel-a-cache-cache-26192522.html
 echange-scolaire-26192196.html
 ecriture-a-deux-26957399.html
 emission-speciale-26958120.html
+en-avant-26192361.html
 en-famille-29057441.html
 en-quarantaine-26190564.html
 enfants-admis-26191466.html
 enseignement-de-la-musique-pierre-dudan-26957726.html
+escalade-au-hoggar-2-26390668.html
 escalade-au-hoggar-26389481.html
 espoirs-et-craintes-26192103.html
 et-la-tendresse-26957397.html
@@ -60,6 +64,8 @@ face-a-la-critique-26191020.html
 fous-de-david-bowie-26957586.html
 francoise-dolto-26190466.html
 francoise-dolto-27444793.html
+genese-d-un-film-26190687.html
+geneve-s-enlise-26958016.html
 guye-1er-prix-26395193.html
 imbattables-26191254.html
 infirmiere-aux-soins-intensifs-26192197.html
@@ -72,6 +78,7 @@ jacques-higelin-26957584.html
 jacques-schaer-26192626.html
 jessye-norman-26957174.html
 joe-dassin-26192364.html
+johnny-fais-toi-mal-26957722.html
 khomeiny-arrive-26192133.html
 l-accueil-des-refugies-26958020.html
 l-affiche-des-petites-fugues-26192444.html
@@ -79,17 +86,23 @@ l-ancetre-du-jeu-video-26191249.html
 l-annee-1979-26192194.html
 l-argent-de-la-drogue-26190461.html
 l-art-d-etre-grands-parents-26191017.html
+l-attrait-des-grottes-26192539.html
+l-autre-visage-de-l-amerique-26192509.html
 l-aventure-commenca-comme-ca-26191738.html
 l-aventure-de-la-motosacoche-26190726.html
 l-eglise-du-plateau-d-assy-26192126.html
+l-electroluminescence-26192686.html
 l-empire-m-26192873.html
 l-ete-s-ra-chaud-26190732.html
+l-ethiopie-dechiree-26192136.html
 l-hopital-vu-par-26192502.html
 l-idee-de-sa-vie-26192369.html
 l-ile-de-nias-26192521.html
 l-islam-au-senegal-26957700.html
+l-udc-un-parti-suisse-allemand-26952004.html
 l-urss-par-sa-tv-26192755.html
 l-usine-du-pere-noel-26957774.html
+la-chine-s-ouvre-26190653.html
 la-fin-du-franquisme-26957985.html
 la-greco-et-kosma-26957641.html
 la-ligue-marxiste-revolutionnaire-26957602.html
@@ -101,7 +114,9 @@ la-recre-du-mardi-26190789.html
 la-recre-du-mardi-26191728.html
 la-recre-du-mardi-26192635.html
 la-reproduction-26190382.html
+la-sage-femme-de-saviese-26957091.html
 la-sexualite-des-adolescents-28779434.html
+la-taille-de-la-vigne-26192083.html
 last-exit-to-the-moon-26190797.html
 le-centre-femmes-de-geneve-26192282.html
 le-chanteur-29116564.html
@@ -128,6 +143,7 @@ les-dinosaures-26190546.html
 les-droits-de-l-enfant-26191662.html
 les-enfants-aussi-ont-des-droits-26191165.html
 les-enfants-du-malheur-26192602.html
+les-grands-parents-26190629.html
 les-jeunes-et-l-alcool-26192147.html
 les-metiers-de-la-tele-26957735.html
 les-oiseaux-de-nuit-28605651.html
@@ -139,6 +155,7 @@ les-refugies-de-la-mer-26192108.html
 les-soeurs-poliakoff-26958112.html
 lionceaux-au-biberon-26957183.html
 lonza-en-cause-26957755.html
+marcel-pilet-golaz-26957635.html
 marie-laforet-jairo-jacques-chamay-eugene-heer-jean-malaurie-28796432.html
 marie-paule-belle-26190577.html
 max-gallo-26957366.html
@@ -148,6 +165,7 @@ mon-jouet-prefere-26192247.html
 mon-jouet-prefere-26957463.html
 monsieur-oin-oin-26192862.html
 nuit-en-igloo-26191183.html
+oiseau-de-feu-26191236.html
 ostreiculture-26957802.html
 ou-sont-ils-26957976.html
 philippe-chatel-26192256.html
@@ -161,6 +179,7 @@ protection-de-la-maternite-garderies-mannick-26957556.html
 proteger-le-cinema-francais-27490517.html
 que-sont-ils-devenus-26192015.html
 quel-avenir-26191163.html
+quels-risques-26392099.html
 regards-d-enfants-sur-la-suisse-26191164.html
 roland-beguelin-26190481.html
 sawallisch-brahms-26957177.html

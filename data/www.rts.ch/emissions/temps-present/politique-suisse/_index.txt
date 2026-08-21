@@ -1,7 +1,7 @@
 ./
 1282924-udc-la-conquete-du-pays-romand.html
-1283230-censure-a-l-expo-64.html
-1283230-les-secrets-de-gulliver.html
+!1283230-censure-a-l-expo-64.html
+!1283230-les-secrets-de-gulliver.html
 1323859-mon-flic-mon-fisc-et-mon-clocher.html
 2918272-les-barreaux-de-la-honte.html
 3506401-comment-on-a-tue-la-caisse-unique.html

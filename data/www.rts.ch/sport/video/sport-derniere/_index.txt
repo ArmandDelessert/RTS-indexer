@@ -224,8 +224,6 @@
 11769231-tennis-atp-finals-12-finale-d-medvedev-rus-r-nadal-esp-36-76-36.html
 11769233-tennis-atp-finals-12-finale-d-thiem-aut-n-djokovic-srb-75-67-76.html
 11769235-sport-derniere-samedi-21112020.html
-11784312-challenge-league-11e-journee-kriens-stade-lausanne-ouchy-01.html
-11784312-challenge-league-11e-journee-kriens-stade-lausanne-ouchy-02.html
 11784314-challenge-league-11e-journee-schaffhouse-neuchatel-xamax-20.html
 11802956-womens-super-league-12e-journee-servette-chenois-zurich-20.html
 11802964-volleyball-lna-messieurs-chenois-luc-32.html
@@ -716,8 +714,6 @@
 14709310-sport-derniere-samedi-17022024.html
 14741334-sport-derniere-02032024.html
 14746702-national-league-retour-sur-la-derniere-journee-de-la-saison-reguliere.html
-14758073-sport-derniere-9032024.html
-14758073-sport-derniere-samedi.html
 14774207-sport-derniere-samedi-16032024.html
 14807279-sport-derniere-le-programme-du-dimanche-31-mars.html
 14819539-sport-derniere-samedi-06042024.html

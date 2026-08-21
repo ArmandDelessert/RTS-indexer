@@ -37,7 +37,6 @@
 5930627-tour-de-suisse-victoire-australienne-a-sarnen.html
 5933700-tour-de-suisse-peter-sagan-souffle-la-victoire-a-albasini.html
 5936943-tour-de-suisse-un-3e-succes-facile-pour-mark-cavendish.html
-5940964-tour-de-suisse-mark-cavendish-a-terre-sacha-modolo-s-offre-un-beau-cadeau.html
 5940964-tour-de-suisse-mark-cavendish-a-terre-sacha-modolo-soffre-un-beau-cadeau.html
 5943507-tour-de-suisse-les-italiens-ont-le-sourire-a-delemont.html
 5946811-tour-de-suisse-tony-martin-gagne-le-chrono-avant-la-bataille-des-alpes.html
@@ -90,6 +89,5 @@
 9642093-tour-de-suisse-juul-jensen-simpose-apres-une-folle-echappee.html
 9644567-tour-de-suisse-ulissi-gagne-en-valais-kung-cede-son-maillot-jaune.html
 9647555-tour-de-suisse-soren-kragh-andersen-sadjuge-letape-reine.html
-9649035-tour-de-suisse-nairo-quintana-s-impose-en-solitaire.html
 9649035-tour-de-suisse-nairo-quintana-simpose-en-solitaire.html
 9653159-tour-de-suisse-kung-gagne-a-bellinzone-porte-enleve-le-general.html

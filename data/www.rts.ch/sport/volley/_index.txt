@@ -24,7 +24,6 @@
 12017251-volley-doris-stierli-haemmerli-a-lentrainement-je-suis-lentraineure-a-la-maison-je-suis-leur-maman.html
 12024672-volley-le-premier-duel-entre-chenois-et-schonenwerd-reporte.html
 12079106-volley-le-nuc-sincline-en-finale-de-la-coupe-de-suisse.html
-12094140-volley-benjamin-diez-le-joker-de-chenois-pour-la-finale-contre-amriswil.html
 12094140-volleyball-benjamin-diez-le-joker-de-chenois-pour-la-finale-contre-amriswil.html
 12095381-volleyball-chenois-face-a-la-montagne-amriswil-pour-renouer-avec-son-passe.html
 12097011-volleyball-chenois-surprend-dentree-amriswil.html
@@ -35,7 +34,6 @@
 12115323-volleyball-chenois-plonge-amriswil-dans-le-doute-lentraineur-klok-vire.html
 12117961-volleyball-le-nuc-prend-une-option-contre-guin.html
 12123914-volleyball-chenois-est-champion-de-suisse.html
-12123914-volleyball-chenois-est-champion-suisse.html
 12126495-volleyball-les-joueuses-du-nuc-championnes-de-suisse.html
 12195244-volleyball-les-suissesses-battues-par-le-belarus.html
 12199153-volleyball-les-suissesses-qualifiees-pour-leuro.html
@@ -52,7 +50,6 @@
 12858238-volley-lentraineur-de-valdetravers-suspendu-pour-manquement-a-lethique.html
 12943457-volley-le-nuc-en-finale-grace-au-covid.html
 12971680-volleyball-amriswil-et-volero-zurich-enlevent-la-coupe.html
-12971680-volleyball-amriswil-titre-pour-la-7e-fois.html
 12989031-volleyball-amriswil-donne-la-lecon-a-chenois.html
 12990103-volleyball-bon-depart-du-nuc-en-finale.html
 13002990-volleyball-amriswil-double-la-mise-contre-chenois.html
@@ -67,13 +64,10 @@
 13304006-volleyball-la-suisse-remporte-une-victoire-importante.html
 13315558-volleyball-la-suisse-rate-une-premiere-chance.html
 13321337-volleyball-la-suisse-battue-en-grece.html
-13322863-volleyball-qualification-historique-de-l-equipe-de-suisse-masculine.html
-13322863-volleyball-qualification-historique-de-la-suisse.html
 13322863-volleyball-qualification-historique-de-lequipe-de-suisse-masculine.html
 13331691-volleyball-belle-reaction-de-la-suisse-face-a-la-norvege.html
 13337683-volleyball-les-suissesses-sinclinent-face-a-la-bosnie.html
 13355060-volleyball-la-defaite-de-trop-pour-les-suissesses.html
-13355060-volleyball-la-suisse-battue-par-la-bosnie-a-domicile.html
 13364838-volleyball-la-suisse-gagne-en-norvege.html
 13516565-volley-euro-feminin-2023-russie-exclue-suisse-repechee.html
 13942578-volleyball-le-nuc-a-un-succes-du-titre.html
@@ -88,7 +82,6 @@
 14290674-volley-euro-masculin-2023-la-suisse-de-mario-motta-eliminee.html
 14293793-volley-euro-masculin-2023-la-suisse-termine-son-tournoi-par-une-nouvelle-defaite.html
 14535219-volleyball-le-nuc-poursuit-sa-route-en-coupe-deurope.html
-6557029-lna-2014-2015.html
 6557029-lna-20142015.html
 6574771-lna-2014-2015.html
 6659378-coupe-de-suisse-2014-2015.html

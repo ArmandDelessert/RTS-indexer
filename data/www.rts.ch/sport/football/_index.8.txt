@@ -31,7 +31,6 @@
 8088946-premier-league-chelsea-et-nike-ont-signe-un-contrat-de-15-ans-qui-devrait-rapporter-995-mio-deuros-aux-blues.html
 8088984-foot-coupe-du-monde-a-40-ou-48-equipes-la-decision-sera-prise-en-janvier-a-fait-savoir-gianni-infantino.html
 8091445-bundesliga-stocker-marque-puis-disjoncte.html
-8092519-bundesliga-breel-embolo-victime-d-une-fracture-de-la-cheville.html
 8092519-bundesliga-breel-embolo-victime-dune-fracture-de-la-cheville.html
 8111450-super-league-young-boys-inflige-une-correction-a-gc.html
 8111631-super-league-apres-4-matches-nuls-young-boys-a-renoue-avec-la-victoire-en-ecrasant-gc-40-au-stade-de-suisse.html
@@ -48,8 +47,7 @@
 8150286-foot-dames-la-suisse-aura-un-coup-a-jouer-a-leuro.html
 8157280-qualifs-mondial-2018-le-bresil-donne-une-lecon-a-largentine.html
 8159034-foot-la-france-seule-aux-commandes-de-son-groupe.html
-8167078-foot-thomas-muller-manque-de-respect-a-stmarin-la-reponse-vaut-le-detour.html
-8167078-foot-thomas-muller-rabaisse-stmarin-la-reponse-vaut-le-detour.html
+8167078-qualifs-mondial-2018-thomas-muller-rabaisse-stmarin-la-reponse-vaut-le-detour.html
 8169154-foot-lespagne-rejoint-langleterre-sur-le-fil.html
 8170107-qualifs-mondial-2018-largentine-se-remet-dans-le-bon-sens-et-boycotte-la-presse.html
 8176240-premier-league-650-millions-de-dollars-pour-les-droits-tv-en-chine.html
@@ -57,7 +55,6 @@
 8179573-ligue-1-nice-gagne-dans-le-chaudron-et-repasse-seul-en-tete.html
 8179606-foot-zuber-marque-mais-hoffenheim-rate-le-podium.html
 8180072-bundesliga-burki-ne-rejouera-plus-en-2016-derdiyok-blesse.html
-8180072-bundesliga-roman-burki-ne-rejouera-plus-en-2016.html
 8183084-uefa-euro-2016-ronaldo-evoque-lattitude-des-bleus-avant-la-finale.html
 8193578-super-lig-derdiyok-trouve-encore-le-chemin-des-filets.html
 8194913-bundesliga-haris-seferovic-donne-la-victoire-a-francfort.html
@@ -118,7 +115,6 @@
 8425847-challenge-league-les-ennuis-continuent-pour-le-fc-wil.html
 8430638-bundesliga-diego-benaglio-sest-blesse-a-la-hanche-et-sera-eloigne-des-terrains-pour-une-duree-indeterminee.html
 8440063-challenge-league-le-fc-wil-a-paye-les-salaires-de-janvier.html
-8441189-super-lig-derdiyok-reusit-un-double.html
 8441189-super-lig-derdiyok-reussit-un-double.html
 8442315-ligue-1-du-fc-echallens-a-logc-nicesur-les-traces-de-lucien-favre.html
 8446376-foot-chapecoense-applaudi-par-36000-spectateurs-au-venezuela.html
@@ -132,7 +128,6 @@
 8479395-ligue-1-francois-moubandje-jai-beaucoup-evolue-grace-a-monsieur-dupraz.html
 8479553-foot-bastian-schweinsteiger-va-signer-au-chicago-fire.html
 8483505-ligue-1-francois-moubandje-lucien-favre-est-un-super-coach.html
-8484962-foot-podolski-dit-auf-wiedersehen-et-marque-contre-langleterre.html
 8484962-foot-podolski-marque-contre-langleterre-et-dit-auf-wiedersehen.html
 8485741-equipe-de-suisse-vladimir-petkovic-sait-transcender-ses-joueurs-pour-francois-moubandje.html
 8488819-qualifs-mondial-2018-le-bresil-fonce-vers-la-russie.html
@@ -150,7 +145,6 @@
 8498308-foot-lespagne-simpose-au-stade-de-france.html
 8498923-challenge-league-wil-va-pouvoir-terminer-la-saison.html
 8499596-qualifs-mondial-2018-messi-est-suspendu-largentine-perd.html
-8499596-qualifs-mondial-2018-messi-suspendu-quatre-matches-avec-largentine.html
 8501452-qualifs-mondial-2018-largentine-peut-trembler-le-bresil-premier-qualifie.html
 8503145-foot-laeroport-de-madere-rebaptise-en-lhonneur-de-cristiano-ronaldo.html
 8508842-premier-league-mourinho-fait-son-mea-culpa-sur-schweinsteiger.html
@@ -160,7 +154,6 @@
 8517675-foot-les-finales-de-c3-et-c1-se-joueront-la-meme-semaine.html
 8517933-bundesliga-johan-djourou-se-blesse-au-mauvais-moment.html
 8521850-challenge-league-le-fc-wil-a-nouveau-sanctionne.html
-8521850-challenge-league-sanctionne-le-fc-wil-perd-trois-points.html
 8522437-12.html
 8523908-foot-la-suisse-retrouve-le-top10-le-bresil-au-sommet.html
 8528809-bundesliga-yvon-mvogo-va-quitter-yb-pour-rejoindre-le-rb-leipzig.html
@@ -170,10 +163,8 @@
 8533250-foot-dames-la-suisse-battue-en-norvege-en-amical.html
 8535516-ligue-des-champions-un-duel-au-sommet-entre-le-bayern-et-le-real.html
 8535563-ligue-des-champions-la-juve-dompte-le-barca-en-patronne.html
-8535565-ligue-des-champions-explosions-a-dortmund-la-tenue-du-match-menacee.html
 8535565-ligue-des-champions-trois-explosions-pres-du-bus-de-dortmund-match-reporte.html
 8536321-14.html
-8539407-ligue-des-champions-ronaldo-place-le-le-real-en-position-ideale.html
 8539407-ligue-des-champions-ronaldo-place-le-real-en-position-ideale.html
 8539474-ligue-des-champions-service-minimum-pour-latletico-madrid.html
 8541357-foot-dames-nous-avons-plus-dattentes-envers-nousmemes.html
@@ -238,7 +229,6 @@
 8655795-coupe-dallemagne-burki-et-dortmund-soulevent-la-pokal.html
 8655811-coupe-de-france-le-psg-simpose-chichement-en-finale.html
 8655836-coupe-du-roi-barcelone-bat-31-alaves-et-remporte-pour-le-trophee-pour-la-29e-fois-de-son-histoire.html
-8656101-foot-seferovic-quitte-francfort-pour-le-benfica.html
 8656101-primeira-liga-seferovic-quitte-francfort-pour-le-benfica.html
 8657049-35e-journee.html
 8658562-bundesliga-leintracht-fait-les-yeux-doux-a-gelson-fernandes.html
@@ -297,7 +287,6 @@
 8713842-coupe-des-confederations-2017.html
 8715679-coupe-des-confederations-lallemagne-simpose-presque-sans-histoire.html
 8722216-coupe-des-confederations-le-portugal-vient-a-bout-du-pays-hote.html
-8722448-football-leaks-angel-di-maria-paiera-2-millions-d-euros-pour-eviter-la-prison.html
 8722448-football-leaks-angel-di-maria-paiera-2-millions-deuros-pour-eviter-la-prison.html
 8725000-coupe-des-confederations-lallemagne-et-le-chili-se-neutralisent.html
 8727464-foot-dames-caroline-abbe-quitte-le-bayern-pour-zurich.html
@@ -345,10 +334,8 @@
 8814084-ligue-1-francois-moubandje-vers-la-premier-league.html
 8815675-foot-djourou-en-deuxieme-division-anglaise.html
 8815827-ligue-1-le-psg-de-cavani-et-neymar-en-grand-favori.html
-8815899-liga-neymar-annonce-son-depart-de-barcelone.html
 8815899-liga-neymar-annonce-son-depart-du-barca-a-ses-coequipiers.html
 8817812-football-mircea-lucescu-sera-le-prochain-selectionneur-de-la-turquie-le-roumain-succede-a-fatih-terim.html
-8819114-ligue-1-neymar-au-psg-c-est-fait-.html
 8819114-ligue-1-neymar-au-psg-cest-fait.html
 8820131-liga-neymar-est-libre-et-aurait-signe-pour-cinq-ans-au-psg.html
 8820831-ligue-1-en-signant-au-psg-neymar-sort-de-lombre-de-messi.html
@@ -356,11 +343,9 @@
 8821574-ligue-1-neymar-au-psg-je-voulais-un-plus-grand-defi.html
 8823704-supertaca-candido-de-oliveira-seferovic-marque-benfica-triomphe.html
 8826212-ligue-1-wesley-sneijder-rejoint-favre-a-nice.html
-8826576-foot-johan-djourou-rebondit-en-turquie.html
 8826576-super-lig-johan-djourou-rebondit-en-turquie.html
 8827306-foot-hommage-du-camp-nou-a-chapecoense.html
 8827378-mls-philippe-senderos-a-houston.html
-8827378-mls-senderos-a-houston.html
 8828059-premier-league-saison-importante-pour-xhaka-et-shaqiri.html
 8828136-premier-league-une-lutte-a-coups-de-dizaines-de-millions.html
 8828673-supercoupe-deurope-le-real-domine-logiquement-manu.html
@@ -399,7 +384,6 @@
 8882915-qualifs-mondial-2018-la-france-ecrase-les-paysbas-et-reprend-la-tete.html
 8885304-premier-league-lattaquant-anglais-deverton-wayne-rooney-a-ete-arrete-pour-conduite-en-etat-divresse-jeudi.html
 8885658-qualifs-mondial-2018-la-force-tranquille-de-lallemagne.html
-8885875-ligue-1-l-uefa-ouvre-une-enquete-sur-le-psg.html
 8885875-ligue-1-luefa-ouvre-une-enquete-sur-le-psg.html
 8886916-qualifs-mondial-2018-le-mexique-se-qualifie-les-etatsunis-a-la-peine.html
 8887038-qualifs-mondial-2018-lespagne-et-isco-regalent-contre-litalie.html
@@ -407,7 +391,6 @@
 8888815-qualifs-mondial-2018-joachim-low-denonce-une-honte-pour-lallemagne.html
 8891632-foot-la-liga-demande-a-luefa-douvrir-une-enquete-contre-city.html
 8891664-qualifs-mondial-2018-lallemagne-deroule-langleterre-proche-de-la-russie.html
-8891993-bundesliga-madame-bibiana-steinhaus-entre-dans-l-histoire.html
 8891993-bundesliga-madame-bibiana-steinhaus-entre-dans-lhistoire.html
 8895179-qualifs-mondial-2018-lespagne-cartonne-litalie-peine.html
 8896711-qualifs-mondial-2018-un-but-qui-fait-pleurer-de-joie-le-peuple-syrien.html
@@ -434,7 +417,6 @@
 8926531-fc-sion-christian-constantin-fixe-un-ultimatum-a-son-entraineur.html
 8927478-pro-leaguebundesliga-anderlecht-se-separe-de-weiler-schmidt-sur-le-banc-de-wolfsburg.html
 8927954-bundesligapremier-league-des-honneurs-pour-marwin-hitz-et-xherdan-shaqiri.html
-8927954-foot-des-honneurs-pour-marwin-hitz-et-xherdan-shaqiri.html
 8928474-challenge-league-retrait-de-3-points-de-chiasso-qui-avait-manque-a-ses-devoirs-concernant-les-salaires-de-mai.html
 8932161-super-lig-lentraineur-de-johan-djourou-demis-de-ses-fonctions.html
 8933893-challenge-league-xamax-remporte-le-derby-romand-et-prend-la-tete.html
@@ -447,7 +429,6 @@
 8958954-super-league-ricky-van-wolfswinkel-sur-le-flanc.html
 8961344-super-league-gc-et-bale-ne-trouvent-pas-le-chemin-des-filets-au-letzigrund.html
 8962014-ligue-1-neymar-et-cie-font-boire-le-calice-jusqua-la-lie-aux-bordelais.html
-8962310-ligue-1-une-barriere-s-effondre-a-amiens-plusieurs-supporters-blesses.html
 8962310-ligue-1-une-barriere-seffondre-a-amiens-plusieurs-supporters-blesses.html
 8962905-super-league-young-boys-senvole-en-tete-du-classement.html
 8963437-liga-le-barca-gagne-a-huis-clos-et-en-plein-chaos.html
@@ -467,7 +448,6 @@
 8980624-qualifs-mondial-2018-la-france-assure-lessentiel-en-bulgarie.html
 8982153-qualifs-mondial-2018-la-pologne-sera-du-voyage-en-russie.html
 8985360-qualifs-mondial-2018-lislande-se-qualifie-pour-la-premiere-coupe-du-monde-de-son-histoire.html
-8987228-portugal-suisse-xhaka-et-cie-passent-au-travers-et-joueront-un-barrage.html
 8987228-portugalsuisse-xhaka-et-cie-passent-au-travers-et-joueront-un-barrage.html
 8987525-qualifs-mondial-2018-laustralie-brise-le-reve-syrien.html
 8987553-qualifs-mondial-2018-la-france-valide-son-ticket-pour-la-russie.html

@@ -11,22 +11,18 @@
 10510154-formule-e-pas-de-course-en-suisse-lors-de-la-saison-6.html
 10525147-f1-gp-de-france-hamilton-en-pole-devant-bottas.html
 10526273-f1-gp-de-france-6e-succes-de-la-saison-pour-hamilton.html
-10542605-f1-gp-dautriche-leclerc-en-pole-devant-hamilton.html
 10542605-f1-gp-dautriche-leclerc-en-pole-hamilton-penalise.html
 10543618-f1-gp-dautriche-verstappen-domine-enfin-les-mercedes.html
 10570553-f1-gp-de-grandebretagne-bottas-en-pole-devant-hamilton.html
 10571687-f1-gp-de-grandebretagne-hamilton-roi-de-silverstone.html
 10572330-formule-e-buemi-termine-vicechampion-du-monde-le-titre-pour-vergne.html
-10597555-f1-gp-dallemagne-verstappen-triomphe-a-hockenheim-desastre-des-mercedes.html
 10597555-f1-gp-dallemagne-victoire-de-verstappen-desastre-des-mercedes.html
 10609976-f1-gp-de-hongrie-hamilton-a-fait-plier-verstappen.html
-10609976-f1-gp-de-hongrie-nouveau-triomphe-pour-lewis-hamilton.html
 10691714-f1-gp-ditalie-charles-leclerc-confirme-et-signe-la-pole.html
 10726472-f1-gp-de-singapour-leclerc-en-pole-devant-hamilton.html
 10727742-f1-gp-de-singapour-double-ferrari-vettel-renoue-avec-la-victoire.html
 10743639-f1-gp-de-russie-leclerc-signe-un-quatre-a-la-suite.html
 10744780-f1-gp-de-russie-lewis-hamilton-comme-a-la-maison-a-sotchi.html
-10744780-f1-gp-de-russie-lewis-hamilton-est-a-la-maison-a-sotchi.html
 10759158-autres.html
 10776717-f1-gp-du-japon-le-typhon-hagibis-bouleverse-le-programme.html
 10818433-f1-gp-du-mexique-lewis-hamilton-gagne-mais-nest-pas-encore-champion.html
@@ -101,7 +97,6 @@
 11730470-f1-le-premier-gp-darabie-saoudite-de-lhistoire-aura-lieu-en-2021.html
 11734507-f1-le-royaume-de-bahrein-rend-hommage-aux-services-sanitaires.html
 11742209-f1-un-calendrier-2021-record-de-23-grands-prix.html
-11751125-f1-la-surprise-de-lance-stroll-la-deception-de-lewis-hamilton.html
 11751125-f1-la-surprise-de-stroll-la-deception-dhamilton.html
 11752572-f1-victoire-et-7e-titre-de-champion-pour-lewis-hamilton.html
 11785132-f1-la-98e-pole-position-pour-lewis-hamilton.html
@@ -134,7 +129,6 @@
 12149802-formule-e-sebastien-buemi-reste-les-poches-vides.html
 12173582-f1-le-grand-prix-de-monaco-avec-7500-spectateurs-fin-mai.html
 12175708-f1-grosjean-de-retour-le-temps-dun-test-avec-mercedes.html
-12175708-f1-grosjean-de-retour-le-temps-dun-test.html
 12185316-f1-intouchable-lewis-hamilton-soffre-une-98e-victoire.html
 12198642-f1-annulation-du-gp-de-turquie-remplace-par-une-2e-course-en-autriche.html
 12220415-f1-charles-leclerc-doit-renoncer-au-gp-de-monaco.html
@@ -162,7 +156,6 @@
 12448831-f1-verstappen-se-montre-le-plus-rapide-sous-la-pluie.html
 12449740-f1-verstappen-declare-vainqueur-dune-parodie-de-course.html
 12466522-f1-max-verstappen-en-pole-devant-son-public.html
-12470679-f1-bottas-signe-chez-alfa-romeo.html
 12470679-f1-valtteri-bottas-dans-le-baquet-dune-alfa-romeo-en-2022.html
 12474261-f1-george-russell-courra-avec-lewis-hamilton-chez-mercedes-en-2022.html
 12483085-f1-bottas-partira-en-tete-lors-du-sprint-a-monza.html
@@ -206,9 +199,7 @@
 12622110-f1-la-pole-pour-bottas-juste-devant-hamilton.html
 12623504-f1-max-verstappen-simpose-en-patron-au-mexique.html
 1263355-mercedes-prend-la-majorite-dans-lecurie-brawn.html
-12637693-f1-hamilton-domine-les-qualifications-mais-risque-lannulation-de-son-chrono.html
 12637693-f1-hamilton-partira-dernier-du-sprint-qualificatif.html
-12637693-f1-hamilton-partira-en-tete-du-sprint-mais-est-penalise-de-5-places-pour-la-course.html
 12639264-f1-bottas-partira-en-pole.html
 12640592-f1-lewis-hamilton-realise-la-course-parfaite.html
 1264513-kimi-raikkonen-pas-en-f1-la-saison-prochaine.html
@@ -217,7 +208,6 @@
 12646520-f1-guanyu-zhou-recrue-dalfa-romeo-en-2022-1er-chinois-a-piloter-en-gp.html
 1265152-nico-rosberg-courra-pour-mercedes-gp.html
 12656900-f1-hamilton-partira-en-pole-au-qatar-devant-verstappen.html
-12656900-f1-hamilton-partira-en-pole-position-au-qatar-devant-verstappen.html
 12658474-f1-hamilton-gagne-et-reduit-encore-lecart.html
 12676929-f1-deces-de-frank-williams-fondateur-de-la-celebre-ecurie-a-79-ans.html
 1269131-lannee-ou-la-formule-1-a-failli-disparaitre.html
@@ -252,34 +242,26 @@
 13036923-f1-verstappen-decroche-la-pole-du-sprint.html
 13039418-f1-verstappen-remporte-la-course-sprint-devant-leclerc.html
 13040796-f1-verstappen-et-red-bull-en-liesse-sur-les-terres-de-ferrari.html
-13040796-f1-verstappen-simpose-devant-perez.html
-13076070-f1-charles-leclerc-a-nouveau-en-pole.html
 13076070-f1-charles-leclerc-inaugure-le-gp-de-miami-par-une-pole.html
-13077323-f1-max-verstappen-remporte-le-gp-de-miami-devant-charles-leclerc.html
 13077323-f1-verstappen-triomphe-a-miami-pour-une-premiere-devant-leclerc.html
 13112583-f1-leclerc-en-pole-position-du-gp-despagne-devant-verstappen.html
 13114164-f1-max-verstappen-simpose-a-barcelone-et-prend-la-tete-du-general.html
 13129884-f1-leclerc-en-pole-position-a-domicile.html
 13131533-f1-sergio-perez-remporte-le-gp-de-monaco.html
 13166565-f1-double-des-red-bull-debacle-pour-ferrari.html
-13166565-f1-verstappen-simpose-a-bakou-les-ferrari-contraintes-a-labandon.html
 13182750-f1-leclerc-penalise-de-dix-places-au-depart.html
 13184256-f1-verstappen-simpose-juste-devant-sainz-au-canada.html
 13216071-formule-e-coup-double-pour-mortara-a-marrakech.html
 13217009-f1-carlos-sainz-remporte-sa-premiere-victoire-gros-crash-au-depart.html
 13230807-f1-max-verstappen-en-pole-pour-la-course-sprint-en-autriche.html
 13232053-f1-max-verstappen-remporte-la-course-sprint-a-spielberg.html
-13233453-f1-charles-leclerc-vainqueur-a-spielberg.html
 13233453-f1-leclerc-gagne-sur-les-terres-de-red-bull.html
 13236304-f1-bernie-ecclestone-inculpe-de-fraude-fiscale.html
 13264733-f1-max-verstappen-simpose-au-castellet.html
-13273925-f1-sebastian-vettel-annonce-sa-retraite.html
 13273925-f1-sebastian-vettel-met-la-fleche-a-droite-apres-15-ans-de-carriere.html
 13274558-f1-je-nai-pas-beaucoup-de-plaisir-et-de-motivation-explique-le-futur-retraite-vettel.html
-13277499-f1-russell-en-pole-position-devant-les-ferrari.html
 13277499-f1-russell-et-mercedes-debloquent-leur-compteur-pole.html
 13278742-f1-verstappen-prend-le-large-avant-les-vacances-leclerc-dechante.html
-13278742-f1-verstappen-simpose-devant-les-mercedes-a-budapest.html
 13280180-f1-fernando-alonso-va-rejoindre-aston-martin-en-2023.html
 13282808-f1-imbroglio-a-alpine-qui-annonce-piastri-pour-2023-linteresse-dement.html
 13284361-f1-williams-confirme-alex-albon.html
@@ -291,7 +273,6 @@
 13337657-f1-carlos-sainz-partira-en-tete-a-spa.html
 13338315-f1-verstappen-simpose-a-spa-apres-une-remontee-fantastique.html
 1337181-f1-alonso-quitte-mclaren.html
-13374420-f1-verstappen-simpose-a-monza-devant-leclerc-et-frustre-les-tiffosi.html
 13374420-f1-verstappen-simpose-a-monza-devant-leclerc-et-frustre-les-tifosi.html
 13419343-f1-zhou-toujours-au-volant-dalfa-romeo-la-saison-prochaine.html
 13422772-f1-hamilton-pas-la-fin-du-monde-si-2022-se-termine-sans-victoire.html
@@ -325,7 +306,6 @@
 13910624-f1-max-verstappen-en-pole-position-sergio-perez-part-a-la-faute.html
 13912090-f1-max-verstappen-vainqueur-dune-course-perturbee-par-des-interruptions.html
 13980941-f1-charles-leclerc-signe-la-pole-a-bakou.html
-13980941-f1-charles-leclerc-signe-la-pole.html
 13982471-f1-sergio-perez-remporte-le-1er-sprint-de-la-saison.html
 13982506-f1-charles-leclerc-partira-en-tete-du-sprint-a-bakou.html
 13983845-f1-sergio-perez-simpose-devant-max-verstappen-a-bakou.html
@@ -391,7 +371,6 @@
 3609439-19-gp-du-bresil-26-27-novembre-2011.html
 3846945-l-avant-saison.html
 3861260-1-gp-d-australie-17-18-mars.html
-3877137-2-gp-de-malaisie-24-25-mars.html
 3877137-2-gp-de-malaisie-2425-mars.html
 3922626-3-gp-de-chine-14-15-avril.html
 3938583-n-4-bahrein-14-15-avril.html
@@ -401,7 +380,6 @@
 4040083-rallyes.html
 4054979-n-7-canada-9-10-juin.html
 4093974-n-8-valence-23-24-juin.html
-4123791-n-9-silverstone-7-8-juillet.html
 4123791-n9-silverstone-78-juillet.html
 4148744-les-essais-libres-tronques-par-la-pluie.html
 4150085-deuxieme-pole-conquise-par-alonso.html
@@ -422,7 +400,6 @@
 4812561-vettel-webber-ne-meritait-pas-de-gagner.html
 4815672-n-3-gp-de-chine.html
 4821111-n-4-gp-de-bahrein.html
-4821611-n-5-gp-d-espagne.html
 4821611-n5-gp-despagne.html
 4980170-fassler-vise-la-passe-de-3-buemi-en-contradicteur.html
 5131882-le-plan-russe-tient-toujours-selon-sauber.html
@@ -455,7 +432,6 @@
 6632331-f1-alonso-effectue-son-retour-dans-le-simulateur-mclaren.html
 6661038-n-2-gp-de-malaisie.html
 6693855-n-3-gp-de-chine.html
-6712533-n-3-gp-de-barhein.html
 6712533-n3-gp-de-barhein.html
 6768806-n-4-gp-d-espagne.html
 6805818-n-5-gp-de-monaco.html
@@ -467,7 +443,6 @@
 7020319-n-11-gp-de-belgique.html
 7021718-f1-lewis-hamilton-remporte-le-grand-prix-de-belgique.html
 7058750-f1-hamilton-devant-les-ferrari-a-monza.html
-7060634-f1-un-40e-succes-pour-hamilton.html
 7060634-f1-un-40e-succes-pour-lewis-hamilton.html
 7062503-n-8-gp-d-autriche.html
 7062505-n-12-gp-d-italie.html
@@ -477,7 +452,6 @@
 7198501-n-16-gp-des-etats-unis.html
 7218572-n-17-gp-du-mexique.html
 7256393-n-18-gp-du-bresil.html
-7292298-n-19-gp-d-abu-dhabi.html
 7292298-n-19-gp-dabu-dhabi.html
 7307630-f1-renault-officialise-son-retour-pour-2016.html
 7509418-f1-ferrari-devoile-sa-nouvelle-monoplace-un-clin-d-oeil-aux-annees-70.html
@@ -488,7 +462,6 @@
 7583318-f1-hamilton-demarre-sur-les-chapeaux-de-roue.html
 7586135-f1-les-fleches-d-argent-en-plein-coeur-de-la-cible.html
 7586136-n1-gp-daustralie.html
-7586458-f1-alonso-nous-avons-de-la-chance-d-etre-vivants.html
 7586458-f1-alonso-nous-avons-de-la-chance-detre-vivants.html
 7614363-f1-fernando-alonso-prive-du-gp-de-bahrein-par-les-medecins.html
 7618816-n2-gp-de-barhein.html
@@ -500,9 +473,7 @@
 7654659-n3-gp-de-chine.html
 7684206-f1-en-proie-a-des-difficultes-financieres-l-ecurie-sauber-perd-son-ingenieur-en-chef-timothy-malyon.html
 7688852-n4-gp-de-russie.html
-7688880-f1-rosberg-profite-des-deboires-d-hamilton.html
 7688880-f1-rosberg-profite-des-deboires-dhamilton.html
-7690128-f1-sebastian-vettel-sorti-par-kvyat-a-sotchi.html
 7690128-f1-sebastian-vettel-sorti-par-son-copain-kvyat-a-sotchi.html
 7690598-f1-nico-rosberg-sur-un-nuage-quatre-sur-quatre-en-2016.html
 7722931-n5-gp-despagne.html
@@ -518,7 +489,6 @@
 7815520-f1-nico-rosberg-retrouve-de-sa-superbe-a-bakou.html
 7853225-f1-lewis-hamilton-en-pole-pour-la-54e-fois-dans-la-prairie-autrichienne.html
 7854560-f1-hamilton-gagne-par-ko-rosberg-touche-mais-pas-coule.html
-7854560-f1-hamilton-simpose-et-envoie-rosberg-dans-le-decor.html
 7854931-n9-gp-dautriche.html
 7868166-f1-ericsson-demolit-sa-sauber.html
 7868451-f1-une-55e-pole-pour-lewis-hamilton.html
@@ -594,7 +564,6 @@
 8619847-f1-gp-despagne-hamilton-triomphe-devant-son-rival-vettel.html
 8631842-f1-on-ne-laisse-plus-les-sportifs-exprimer-leur-personnalite.html
 8654890-f1-gp-de-monaco-les-ferrari-devant-lewis-hamilton-se-rate.html
-8654890-f1-gp-de-monaco-lewis-hamilton-se-rate-les-ferrari-devant.html
 8655243-n6-gp-de-monaco.html
 8656470-f1-gp-de-monaco-sebastian-vettel-remporte-sa-3e-victoire-cette-saison.html
 8684181-f1-la-jeune-generation-a-les-dents-longues.html
@@ -623,7 +592,6 @@
 8807886-f1-les-ferrari-de-vettel-et-raikkonen-en-premiere-ligne.html
 8807887-n11-gp-de-hongrie.html
 8808903-f1-les-ferrari-fetent-un-double-sur-le-tourniquet-de-budapest.html
-8808903-f1-les-ferrari-fetent-un-double-sur-le-tourniquet-hongrois.html
 8858571-f1-raikkonen-reste-fidele-a-la-scuderia.html
 8860613-f1-buemi-avait-le-talent-on-ne-lui-a-pas-laisse-sa-chance.html
 8868598-f1-vettel-prolonge-son-bail-avec-la-scuderia.html
@@ -647,7 +615,6 @@
 9126894-f1-sauber-rebaptise-alfa-romeo-sauber.html
 9135922-f1-leclerc-et-ericsson-confirmes-pour-2018-chez-alfa-romeo-sauber.html
 9428704-f1-haro-sur-le-halo.html
-9437239-f1-gp-d-australie-sebastian-vettel-remporte-le-premier-gp-de-la-saison.html
 9437239-f1-gp-daustralie-sebastian-vettel-remporte-le-premier-gp-de-la-saison.html
 9485587-saison-2018.html
 9485601-f1-gp-de-chine-premiere-ligne-en-rouge-avec-vettel-et-raikkonen.html
@@ -661,7 +628,6 @@
 9800571-f1-pour-alonso-le-halo-est-une-bonne-chose.html
 9825011-f1-sebastien-buemi-bientot-de-retour.html
 9835459-f1-raikkonen-et-leclerc-echangeront-leur-cockpit-en-2019.html
-9835459-f1-raikkonen-remplace-par-leclerc-chez-ferrari-en-2019.html
 9845422-f1-gp-de-singapour-hamilton-en-pole-position.html
 9846796-f1-gp-de-singapour-hamilton-realise-une-bonne-affaire.html
 9870322-f1-giovinazzi-remplace-ericsson-chez-sauber.html

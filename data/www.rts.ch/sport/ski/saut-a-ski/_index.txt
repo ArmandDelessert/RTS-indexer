@@ -16,8 +16,6 @@
 11840389-saut-a-skis-deschwanden-25e-granerud-encore-vainqueur.html
 11848567-saut-a-skis-ammann-sera-de-la-partie-a-la-tournee-des-quatre-tremplins.html
 11854005-saut-a-skis-halvor-egner-granerud-lhomme-a-battre.html
-11855947-saut-a-skis-kubacki-et-stoch-absents-a-oberstdorf-le-flou-regne.html
-11855947-saut-a-skis-kubacki-et-stoch-absents-a-oberstdorf.html
 11855947-saut-a-skis-les-sauteurs-finalement-polonais-autorises-a-concourir-a-oberstdorf.html
 11857210-saut-a-skis-le-trio-suisse-passe-le-premier-obstacle-a-oberstdorf.html
 11858509-saut-a-skis-les-polonais-bel-et-bien-au-depart-a-oberstdorf.html
@@ -35,7 +33,6 @@
 12677229-saut-a-skis-killian-peier-termine-son-weekend-sur-une-11e-place.html
 12696817-saut-a-skis-killian-peier-dans-le-top10-en-pologne.html
 12698521-saut-a-skis-les-etapes-allemandes-de-la-tournee-des-4-tremplins-a-huis-clos.html
-12729605-saut-a-skis-kilian-peier-au-pied-du-podium-a-engelberg.html
 12729605-saut-a-skis-killian-peier-au-pied-du-podium-a-engelberg.html
 12731030-saut-a-skis-killian-peier-a-nouveau-quatrieme-a-engelberg.html
 12731116-saison-20212022.html
@@ -49,7 +46,6 @@
 12761514-saut-a-skis-peier-troisieme-de-la-qualification.html
 12763667-saut-a-skis-victime-du-vent-le-concours-dinnsbruck-est-annule.html
 12767384-saut-a-skis-et-de-3-pour-kobayashi.html
-12768618-saut-a-skis-kobayashi-remporte-sa-2e-tournee.html
 12768618-saut-a-skis-kobayashi-sacre-mais-sans-grand-chelem.html
 12792313-saut-a-skis-peier-de-retour-dans-le-top10.html
 12824961-saut-a-skis-deschwanden-dans-le-top10-pour-la-2e-fois-cette-saison.html
@@ -60,7 +56,6 @@
 13438038-saut-a-skis-simon-amman-prolonge-sa-carriere.html
 13485835-saut-a-skis-deschwanden-champion-suisse-ammann-loin-du-podium.html
 13496596-simon-ammann-mon-but-est-de-me-qualifier-pour-les-mondiaux-de-planica.html
-13613022-saut-a-skis-killian-peier-manque-son-debut-de-saison.html
 13613022-saut-a-skis-quelques-points-pour-deschwanden-peier-sorti-en-qualifs.html
 13660948-saut-a-skis-deschwanden-seul-suisse-qualifie.html
 13663366-saut-a-skis-granerud-simpose-a-oberstdorf-deschwanden-decoit.html
@@ -96,6 +91,5 @@
 14592810-saut-a-skis-seuls-deschwanden-et-ammann-se-qualifient-a-innsbruck.html
 14596236-tournee-des-4-tremplins-kobayashi-detrone-wellinger-a-innsbruck.html
 14601441-saut-a-skis-les-suisses-en-decoudront-avec-des-adversaires-redoutables.html
-14603419-saut-a-skis-ryoyu-kobayashi-enleve-pour-la-3e-fois-la-tournee-des-4-tremplins.html
 14603419-tournee-des-4-tremplins-ryoyu-kobayashi-sacre-pour-la-3e-fois.html
 5462971-saut-a-ski.html

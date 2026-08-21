@@ -93,8 +93,8 @@
 7708788-a-fribourg.html
 7728236-festi-musiques-de-moudon.html
 7743176-fete-cantonale-de-la-federation-fribourgeoise-des-chorales.html
-7790297-34e-fete-federale-de-musique-1.html
-7790297-34e-fete-federale-de-musique.html
+!7790297-34e-fete-federale-de-musique-1.html
+!7790297-34e-fete-federale-de-musique.html
 7790341-34eme-fete-federal-de-musique-2.html
 7817959-a-porrentruy.html
 8216727-le-concert-de-noel-de-la-ssr-a-l-eglise-reformee-saint-laurent-a-sent-gr.html

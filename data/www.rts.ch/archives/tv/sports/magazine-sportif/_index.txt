@@ -1,6 +1,4 @@
 ./
 4365205-objectif-promotion.html
 7374028-le-brassus.html
-7374060-l-epreuve-du-lauberhorn.html
-7374060-lepreuve-du-lauberhorn.html
 8218875-exercices-hivernaux.html

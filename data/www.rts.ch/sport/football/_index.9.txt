@@ -1,8 +1,6 @@
 9000991-super-league-sion-ne-trouve-toujours-pas-la-solution-a-tourbillon.html
 9018727-super-league-derby-zurichois-pour-gc-bale-se-fait-peur.html
-9019936-super-league-lausanne-etrille-saintgall-sion-accroche-par-lugano.html
 9019936-super-league-un-dimanche-radieux-pour-lausanne-pas-pour-sion.html
-9020279-super-league-paolo-tramezzani-n-est-plus-l-entraineur-du-fc-sion.html
 9020279-super-league-paolo-tramezzani-nest-plus-lentraineur-du-fc-sion.html
 9020551-ligue-1-cavani-sauve-le-psg.html
 9022188-super-league-gabri-au-chevet-du-fc-sion-selon-le-nouvelliste.html
@@ -35,7 +33,6 @@
 9133386-fifa-mondial-2018-les-favoris-epargnes-russiearabie-saoudite-en-ouverture.html
 9136165-premier-league-shaqiri-trouve-a-nouveau-le-chemin-des-filets.html
 9136387-ligue-1-strasbourg-fait-chuter-le-psg-a-la-meinau.html
-9140680-challenge-league-xamax-s-impose-au-finish-a-la-praille.html
 9140680-challenge-league-xamax-simpose-au-finish-a-la-praille.html
 9152139-foot-luefa-va-refuser-la-demande-daccord-de-lac-milan.html
 9152989-euro-2020-luefa-retire-a-bruxelles-ses-quatre-matches.html
@@ -60,7 +57,6 @@
 9201118-premier-league-edimilson-fernandes-opere-a-une-cheville.html
 9201589-foot-vitali-moutko-prend-du-recul-et-va-saisir-le-tas.html
 9202506-super-league-le-fc-bale-confirme-le-pret-de-son-milieu-de-terrain-alexander-fransson-a-lausanne.html
-9202988-premier-league-harry-kane-finit-meilleur-buteur-de-2017-devant-lionel-messi-.html
 9202988-premier-league-harry-kane-finit-meilleur-buteur-de-2017-devant-lionel-messi.html
 9203058-premier-league-harry-kane-tottenham-est-assure-de-terminer-meilleur-buteur-de-lannee-2017-devant-messi.html
 9204961-footle-politicien-russe-vitali-moutko-quitte-la-presidence-du-comite-dorganisation-de-la-coupe-du-monde-2018.html
@@ -74,7 +70,6 @@
 9218604-challenge-league-wohlen-relegue-volontaire-a-lissue-de-la-saison.html
 9221620-foot-legyptien-mohamed-salah-ancien-attaquant-du-fc-bale-a-recu-a-accra-le-ballon-dor-africain-2017.html
 9223138-championnat-croate-mario-gavranovic-au-dinamo-zagreb.html
-9223138-foot-mario-gavranovic-au-dinamo-zagreb.html
 9226820-fa-cup-une-mauvaise-journee-pour-arsene-wenger-et-ses-boys.html
 9227994-foot-usain-bolt-fera-un-essai-en-mars-a-dortmund.html
 9235859-super-league-valentin-stocker-de-retour-au-fc-bale.html
@@ -99,12 +94,10 @@
 9286645-serie-a-behrami-1er-but-depuis-2010.html
 9289140-super-league-un-gardien-francais-en-pret-a-yb.html
 9289633-footmarwin-hitz-augsburg-et-valon-behrami-udinese-sont-dans-le-11-du-weekend-en-bundesliga-et-en-serie-a.html
-9289635-foot-behrami-et-hitz-dans-le-onze-ideal.html
 9289635-serie-a-bundesliga-behrami-et-hitz-dans-le-onze-ideal.html
 9289646-foot-gokhan-inler-inscrit-son-premier-but-sous-le-maillot-de-basaksehir-istanbul-contre-karabukspor-50.html
 9289656-mls-feu-vert-pour-le-miami-de-david-beckham.html
 9289660-foot-david-beckham-a-gagne-son-pari-sa-future-equipe-de-miami-integrera-le-championnat-de-la-mls.html
-9290132-super-league-michael-lang-meilleur-joueur-de-super-league.amp.html
 9290132-super-league-michael-lang-meilleur-joueur-de-super-league.html
 9293340-foot-plus-de-cinq-milliards-deuros-depenses-en-2017.html
 9293471-lausanne-ou-sion-quel-est-le-club-le-moins-cher-a-supporter.html
@@ -131,7 +124,6 @@
 9364462-nhl-kevin-fiala-inscrit-son-vingtieme-but-de-la-saison-lors-du-succes-40-de-nashville-contre-stlouis.html
 9364515-ligue-1-le-paris-sg-remporte-30-le-choc-face-a-lolympique-de-marseille-mais-perd-neymar-sur-blessure.html
 9368304-foot-usain-bolt-joueur-a-old-trafford-le-temps-dun-match.html
-9368304-foot-usain-bolt-joueur-le-temps-dun-match-a-old-trafford.html
 9377934-foot-bernard-challandes-nomme-a-la-tete-du-kosovo.html
 9382046-super-league-tous-les-buts-de-la-24e-journee.html
 9386818-serie-a-la-fiorentina-et-cagliari-ont-decide-de-retirer-le-maillot-numero-13-celui-que-portait-davide-astori.html
@@ -148,7 +140,6 @@
 9430825-foot-usain-bolt-sentrainera-vendredi-avec-dortmund.html
 9434022-foot-usain-bolt-sest-entraine-et-a-marque.html
 9434703-fifa-mondial-2018-le-bresil-domine-la-russie-30-en-amical-la-serbie-decoit.html
-9434703-fifa-mondial-2018-le-bresil-domine-la-russie-30-en-amical.html
 9434943-fifa-mondial-2018-allemagne-et-espagne-se-neutralisent.html
 9436607-foot-bernard-challandes-a-fete-son-premier-match-a-la-tete-du-kosovo-par-un-succes-10-face-a-madagascar.html
 9441335-fifa-mondial-2018-le-portugal-malmene-par-les-paysbas.html
@@ -190,7 +181,6 @@
 9540083-ligue-des-champions-liverpool-vainqueur-52-a-laller-mais-battu-42-a-rome-en-finale-le-2605-face-au-real.html
 9544011-fifa-coupe-du-monde-2018-saoudiens-marocains-et-tunisiens-se-prepareront-en-suisse.html
 9546127-fifa-coupe-du-monde-2018-blesse-le-francais-koscielny-ne-verra-pas-la-russie.html
-9546127-foot-pas-de-coupe-du-monde-pour-koscielny.html
 9546359-premier-league-shaqiri-marque-en-vain-stoke-relegue.html
 9546646-fa-cup-ramona-bachmann-sacree-reine-de-wembley.html
 9547152-serie-a-lichtsteiner-quittera-la-juventus-en-fin-de-saison.html
@@ -215,7 +205,6 @@
 9583200-ligue-1-lucien-favre-quitte-officiellement-logc-nice.html
 9585172-challenge-league-le-public-neuchatelois-a-fait-la-fete-a-son-equipe.html
 9585206-super-league-le-fc-sion-a-engage-pour-4-ans-le-gardien-francais-anthony-maisonnial-20-ans.html
-9587544-bundesliga-lucien-favre-a-dortmund-c-est-officiel.html
 9587544-bundesliga-lucien-favre-a-dortmund-cest-officiel.html
 9590897-fifa-coupe-du-monde-2018-neymar-reprend-lentrainement.html
 9591253-premier-league-unai-emery-officiellement-nomme-a-arsenal.html
@@ -247,7 +236,6 @@
 9630325-fifa-coupe-du-monde-2018-le-costa-rica-battu-par-langleterre-sans-rien-montrer.html
 9633130-fifa-coupe-du-monde-2018-lallemagne-gagne-sans-convaincre-pour-sa-repetition-generale.html
 9634245-fifa-coupe-du-monde-2018-la-serbie-cartonne-en-amical.html
-9634245-fifa-coupe-du-monde-2018-la-serbie-cartonne.html
 9634558-fifa-coupe-du-monde-2018-les-bleus-finissent-sur-un-nul-sauce-americaine.html
 9635907-fifa-coupe-du-monde-2018-le-bresil-termine-sa-preparation-sur-une-bonne-note.html
 9642766-foot-julen-lopetegui-prend-les-renes-du-real-madrid.html
@@ -255,7 +243,6 @@
 9679500-coupes-deurope-lac-milan-exclu-durant-une-annee.html
 9683344-bundesliga-michael-lang-rejoint-la-delegation-suisse-de-gladbach.html
 9693705-serie-a-ronaldo-a-la-juve-les-bianconeri-attendent-cr7-comme-le-messie.html
-9696600-football-luefa-accepte-le-4e-changement-en-prolongation.html
 9696600-football-luefa-accepte-le-4e-changement-en-prolongations.html
 9699404-ligue-1-le-paris-sg-officialise-larrivee-de-buffon.html
 9704698-super-league-silvan-widmer-rejoint-le-fc-bale.html
@@ -270,7 +257,6 @@
 9729737-foot-fache-mesut-ozil-tourne-le-dos-a-la-mannschaft.html
 9739090-super-league-le-fc-bale-se-separe-de-wicky-frei-ad-interim.html
 9744906-ligue-des-champions-un-match-deja-crucial-pour-le-fc-bale.html
-9750000-ligue-des-champions-c-est-deja-fini-pour-le-fc-bale-.html
 9750000-ligue-des-champions-cest-deja-fini-pour-le-fc-bale.html
 9751284-super-league-deux-matches-du-fc-bale-deplaces.html
 9766144-europa-league-bale-realise-une-bonne-operation-aux-paysbas.html
@@ -302,7 +288,6 @@
 9838998-foot-montant-record-pour-les-transferts-cet-ete.html
 9844603-super-lig-eren-derdiyok-encore-buteur.html
 9848679-super-league-murat-yakin-a-la-barre-du-fc-sion.html
-9864013-super-league-les-fans-bernois-manifestent-contre-lesport.html
 9864013-super-league-les-fans-bernois-manifestent-contre-lesports.html
 9901776-equipe-de-suisse-feminine.html
 9913998-ligues-b-c-et-d.html

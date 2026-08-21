@@ -66,8 +66,6 @@
 7789487-la-plus-grande-federation-evangelique-americaine-met-le-drapeau-confedere-a-l-index-16-06-2016.html
 7792051-les-mormons-ont-numerise-une-partie-des-archives-vaudoises-17-06-2016.html
 7797974-fatwas-contre-le-radicalisme-au-bangladesh-et-au-pakistan-20-06-2016.html
-7804471-les-leaders-religieux-britanniques-unis-contre-le-brexit-22-06-2016.html
-7804471-les-leaders-religieux-britanniques-unis-contre-le-brexit.html
 7807555-un-chretien-reveille-les-musulmans-23-06-2016.html
 7810302-en-colombie-l-eglise-a-contribue-a-un-accord-entre-le-gouvernement-et-les-farc-24-06-2016.html
 7810319-en-colombie-l-eglise-a-contribue-a-un-accord-entre-le-gouvernement-et-les-farc.html
@@ -87,8 +85,6 @@
 7913383-mosquees-d-athenes-construction-autorisee-par-le-parlement-grec-09-08-2016.html
 7916475-l-ascendance-divine-de-l-empereur-du-japon.html
 7933381-nigeria-des-chretiens-retrouvent-les-villages-liberes-de-boko-haram-18-08-2016.html
-7935063-a-st-gall-toutes-les-cloches-sonneront-pour-le-dialogue-19-08-2016.html
-7935063-rtsreligion-19-08-2016.html
 7951113-les-chretiens-irakiens-se-preparent-a-l-apres-daech.html
 7962408-des-evangeliques-bresiliens-se-rejouissent-de-la-destitution-de-dilma-rousseff.html
 8037628-de-grandes-figures-allemandes-reclament-la-fin-du-schisme-catholiques-protestants-30-09-2016.html
@@ -105,8 +101,6 @@
 8123599-rtsreligion-deces-en-pleine-seance-de-delivrance-dans-une-eglise-camerounaise-04-11-2016.html
 8129262-rtsreligion-25-000-signatures-pour-la-promotion-des-symboles-chretiens-dans-l-espace-public-07-11-2016.html
 8131963-rtsreligion-le-succes-d-une-fete-evangelique-a-fribourg-etonne-08-11-2016.html
-8138162-rtsreligion-donald-trump-a-gagne-le-vote-religieux-10-11-2016.html
-8138162-rtsreligion-elections-americaines-donald-trump-gagne-le-vote-religieux-jdm_20161110t062700_rtsreligion.html
 8140622-rtsreligion-le-pelerinage-des-exclus-debute-a-rome-11-11-2016.html
 8287578-rtsreligion-les-chretiens-de-plus-en-plus-persecutes-en-asie.html
 8313530-rtsreligion-un-jeune-saint-gallois-recale-de-la-confirmation-faute-de-points-24-01-2017.html
@@ -191,16 +185,12 @@
 8734677-rts-religion-la-majorite-des-protestants-reformes-sont-en-asie.html
 8738374-rtsreligion-la-france-ouvre-les-archives-de-son-premier-proces-pour-crimes-contre-l-humanite.html
 8781949-rtsreligion-proselytisme-et-apostasie-restent-severement-reprimes-en-iran.html
-8796562-rtsreligion-fermeture-de-l-unique-centre-francais-de-deradicalisation-31-07-2017.html
-8796562-rtsreligion-fermeture-de-lunique-centre-francais-de-deradicalisation-31-07-2017.html
 8820429--dieu-a-donne-a-trump-l-autorite-de-contrer-kim-jong-un-.html
 8873968-rtsreligion-amir-dziri-nouveau-co-directeur-du-centre-islam-et-societe-prone-une-lecture-academique-du-coran.html
 8877920-rtsreligion-la-seconde-guerilla-colombienne-enjeu-de-la-visite-du-pape.html
 8880586-rtsreligion-les-chretiens-blancs-sont-devenus-minoritaires-aux-etatsunis-07-09-2017.html
 8899252-rtsreligion-les-ultra-orthodoxes-devront-servir-dans-l-armee-en-israel.html
 9004616-rtsreligion-la-sierra-leone-vend-un-diamant-de-la-paix-a-new-york.html
-9011527-rtsreligion-l-arabie-saoudite-en-marche-vers-un-islam-modere-.html
-9011527-rtsreligion-l-arabie-saoudite-en-marche-vers-un-islam-modere-26-10-2017.html
 9039892-rtsreligion-la-perception-des-differences-entre-protestants-et-catholiques-s-estompe.html
 9069976-rtsreligion-un-tableau-de-leonard-de-vinci-longtemps-cru-perdu-a-ete-vendu-a-445-millions-de-francs.html
 9190040-rtsreligion-les-tensions-sur-jerusalem-ternissent-les-festivites-de-noel.html

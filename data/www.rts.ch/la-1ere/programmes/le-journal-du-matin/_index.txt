@@ -43,8 +43,8 @@
 2905218-la-justice-zurichoise-semble-vouloir-limiter-la-portee-du-proces-elmer-19-01-2011.html
 2905671-les-invites-du-wef-pries-de-se-geolocaliser.html
 2917295-une-voie-pour-debloquer-les-negociations.html
-2920181-interview-de-dick-marty-26-01-2011.html
-2920181-interview-de-dick-marty.html
+!2920181-interview-de-dick-marty-26-01-2011.html
+!2920181-interview-de-dick-marty.html
 2929424-initiative-sur-les-armes-un-registre-unique.html
 2932696-pourquoi-ce-recul-du-oui-interview-du-politologue-claude-longchamp-gfs-.html
 2941728-tunisie-la-transition-sous-tension.html
@@ -101,8 +101,6 @@
 4404333-le-journal-du-matin-du-12-11-2012.html
 4468763-les-mysteres-du-palais-arbitrage-video-sous-la-coupole.html
 4483217-l-immigration-en-suisse-mere-de-tous-les-maux-12-12-2012.html
-4485903-homoparentalite-ou-quand-l-humanite-se-reinvente-et-evolue-13-12-2012.html
-4485903-homoparentalite-ou-quand-l-humanite-se-reinvente-et-evolue.html
 4507874-le-journal-du-matin-du-21-12-2012.html
 4549693-presse-alemanique-11-01-2013.html
 4554668-le-journal-du-matin-du-14-01-2013.html
@@ -160,8 +158,6 @@
 5136985-quel-avenir-en-syrie-23-08-2013.html
 5137001-le-journal-du-matin-du-23-08-2013.html
 5144299-carence-d-organes-pour-transplantation-en-suisse-27-08-2013.html
-5181829-satellite-nettoyeur-de-l-espace-un-projet-100-suisse-11-09-2013.html
-5181829-satellite-nettoyeur-de-l-espace-un-projet-100-suisse.html
 5188472-cinq-ans-apres-lehman-brothers-les-lecons-inachevees-13-09-2013.html
 5194896-fin-de-cavale-du-meurtrier-presume-d-adeline-16-09-2013.html
 5204542-tesla-vise-la-production-d-une-voiture-autonome-d-ici-trois-ans-19-09-2013.html
@@ -236,8 +232,6 @@
 5860139-salaire-minimum-refuse-working-poor-inevitable-selon-johann-schneider-ammann.html
 5860144-le-salaire-minimum-au-niveau-cantonal-quid-dans-le-jura-et-a-neuchatel.html
 5862159-le-journal-du-matin-du-27-05-2014.html
-5862942-apres-le-non-au-gripen-quelle-solution-.html
-5862942-apres-le-non-au-gripen-quelle-solution-20-05-2014.html
 5866047-le-journal-du-matin-du-28-05-2014.html
 5868620-le-journal-du-matin-du-29-05-2014.html
 5871761-le-journal-du-matin-du-30-05-2014.html
@@ -295,8 +289,6 @@
 6002818-les-5-grands-pays-emergents-veulent-creer-leur-propre-banque.html
 6007486-faut-il-faire-de-chaque-individu-un-donneur-d-organe-presume-24-07-2014.html
 6015885-e-cigarette-1-5-demain-tous-accros-a-quelle-cigarette-28-07-2014.html
-6018812-pour-ou-contre-le-port-du-burkini-dans-les-piscines-en-suisse-.html
-6018812-pour-ou-contre-le-port-du-burkini-dans-les-piscines-en-suisse-29-07-2014.html
 6018814-e-cigarette-2-5-qui-va-s-emparer-du-business-du-siecle-29-07-2014.html
 6020616-e-cigarette-3-5-comment-legiferer-sans-se-faire-aveugler-30-07-2014.html
 6020965-nouvelle-attaque-contre-le-depistage-systematique-du-cancer-du-sein-23-07-2014.html
@@ -310,8 +302,6 @@
 6036985-la-campagne-love-life-pour-se-premunir-du-sida-est-elle-trop-provocante-07-08-2014.html
 6037352-le-risque-d-une-propagation-de-l-epidemie-d-ebola-en-europe-est-faible-31-07-2014.html
 6037368-les-sanctions-europeennes-contre-moscou-auront-des-repercussions-sur-la-suisse.html
-6039549-securisation-de-l-acces-des-experts-au-site-ou-s-est-ecrase-l-avion-de-la-malaysia-airlines-01-08-2014.html
-6039549-securisation-de-l-acces-des-experts-au-site-ou-s-est-ecrase-l-avion-de-la-malaysia-airlines.html
 6039562-nouveau-bilan-a-la-hausse-concernant-l-epidemie-de-fievre-hemorragique-liee-au-virus-ebola-01-08-2014.html
 6039602-les-sanctions-de-l-ue-contre-moscou-entrent-en-vigueur-ce-vendredi.html
 6043069-les-ogm-sont-ils-justifies-pour-lutter-contre-la-faim-11-08-2014.html
@@ -511,8 +501,6 @@
 7048527-le-journal-du-matin-du-09-09-2015.html
 7051437-le-journal-du-matin-du-10-09-2015.html
 7052186-les-inegalites-hommes-femmes-ont-aussi-un-cout-economique-concret-03-09-2015.html
-7052731-journal-du-matin-face-aux-partis-avec-laurent-seydoux-vice-president-des-vert-liberaux-suisses.html
-7052731-le-journal-du-matin-face-aux-partis-avec-laurent-seydoux-vice-president-des-vert-liberaux-suisses.html
 7054473-le-journal-du-matin-du-11-09-2015.html
 7062359-un-millier-de-valaisans-vont-tenter-d-arreter-de-fumer-via-facebook-07-09-2015.html
 7065740-face-aux-partis-philipp-muller.html
@@ -543,8 +531,6 @@
 7238062-le-plr-vaudois-enchaine-les-victoires.html
 7267362-resistance-aux-antibiotiques-interview-du-professeur-didier-pittet-19-11-2015.html
 7275977-le-journal-du-matin-du-30-11-2015.html
-7285867-les-fintech-nouvelle-concurrence-pour-les-banques-26-11-2015.html
-7285867-les-fintech-nouvelle-concurrence-pour-les-banques.html
 7294862-la-menace-djihadiste-remet-en-question-la-loi-sur-les-armes-aux-usa-07-12-2015.html
 7322881-mieux-coordonner-l-aide-au-liban-en-recensant-les-camps-de-refugies.html
 7341389-le-journal-du-matin-du-22-12-2015.html
@@ -656,8 +642,6 @@
 7538167-le-journal-du-matin-du-09-03-2016.html
 7538685-vers-un-duel-clinton-trump-lors-des-presidentielles-de-novembre-prochain.html
 7538883-face-a-face-ps-udc-au-2e-tour-de-l-election-complementaire-bernoise.html
-7538917-le-salon-de-l-auto-dope-par-une-croissance-des-ventes-en-europe-02-03-2016.html
-7538917-le-salon-de-l-auto-dope-par-une-croissance-des-ventes-en-europe.html
 7541366-la-perception-de-l-accent-suisse-alemanique-par-les-romands.html
 7541383-le-journal-du-matin-du-10-03-2016.html
 7541979-le-debat-sur-la-duree-de-vie-des-centrales-nucleaires-relance-en-france.html
@@ -791,8 +775,6 @@
 7736575-la-confusion-regne-apres-le-crash-de-l-airbus-a320-d-egyptair.html
 7742380-quel-est-l-avenir-economique-de-l-autriche-.html
 7742438-vers-une-interpretation-plus-stricte-de-la-lat-pour-les-cantons-.html
-7742440-2eme-developpement-27-05-2016.html
-7742440-les-greves-en-france-font-elles-l-unanimite-aupres-du-public-.html
 7742446-le-journal-du-matin-du-27-05-2016.html
 7744583-reportage-a-aberystwyth-la-ville-la-plus-europhile-du-royaume-uni.html
 7744594-quel-avenir-pour-la-ligne-historique-du-gothard-.html
@@ -918,8 +900,6 @@
 7875514-1er-developpement-20-07-2016.html
 7875519-les-series-d-ete-de-l-info-2-20-07-2016.html
 7875525-les-series-d-ete-de-l-info-1-20-07-2016.html
-7875528-2eme-developpement-20-07-2016.html
-7875528-la-resilience-de-la-france-face-aux-attentats-ne-durera-pas-indefiniment.html
 7875530-le-journal-du-matin-du-20-07-2016.html
 7875859-collision-ferroviaire-en-italie-interview-du-maire-de-corato.html
 7875862-la-collision-ferroviaire-en-italie-suscite-une-certaine-indignation.html
@@ -942,8 +922,6 @@
 7894630--exclure-l-ensemble-des-sportifs-russes-toutes-disciplines-confondues-serait-injuste-.html
 7894642--si-le-systeme-implose-cela-ramenera-la-turquie-des-decennies-en-arriere-selon-l-avocat-fikret-ilkiz.html
 7894647--des-reactions-exagerees-selon-le-president-de-la-federation-des-associations-turques-de-suisse-romande.html
-7899497-nouvel-attentat-en-allemagne-dans-un-restaurant-en-baviere-25-07-2016.html
-7899497-nouvel-attentat-en-allemagne-dans-un-restaurant-en-baviere.html
 7899564-la-vignette-electronique-premier-pas-vers-le-mobility-pricing.html
 7901138-a-la-rencontre-des-extremes-parole-d-islamiste-radical-en-tunisie-02-08-2016.html
 7901503-l-onu-reclame-des-treves-humanitaires-regulieres-a-alep.html
@@ -977,8 +955,6 @@
 7933308-les-autorites-italiennes-craignent-un-effet-calais-a-leurs-frontieres.html
 7933312-rapprochement-suisse-russie-interview-de-raphael-comte.html
 7933379-chine-l-empire-ralentit-4-5-shenzhen-la-silicon-valley-de-l-electronique.html
-7935059-chine-l-empire-ralentit-5-5-regard-sur-la-chine-de-marc-laperrouza-economiste.html
-7935059-les-series-d-ete-de-l-info-3-19-08-2016.html
 7935061-les-series-d-ete-de-l-info-1-19-08-2016.html
 7935069-1er-developpement-19-08-2016.html
 7935076-le-journal-du-matin-du-19-08-2016.html

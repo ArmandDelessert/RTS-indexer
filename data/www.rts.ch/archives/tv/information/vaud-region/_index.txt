@@ -6,10 +6,6 @@
 15359340-syndique-de-renens.html
 3437937-une-piste-detachee.html
 3439049-la-parade.html
-3439065-a-vapeur-ou-au-diesel-.html
-3439065-a-vapeur-ou-au-diesel.html
-3441176-le-sel-d-autoroute.html
-3441176-le-sel-dautoroute.html
 3441491-la-demission.html
 3443059-philippe-saire.html
 3451522-gogo-boys.html
@@ -26,5 +22,3 @@
 9184396-gardaz-et-blanc-se-retrouvent.html
 9430970-vite-encore-700-figurants.html
 9431084-la-compagnie-nomade.html
-9765370-oh-boys-.html
-9765370-oh-boys.html

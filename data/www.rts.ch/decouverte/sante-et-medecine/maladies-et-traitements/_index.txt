@@ -1,22 +1,13 @@
 ./
-13317682-le-coronavirus-a-donne-le-covid-19-et-peut-donner-d-autres-coronavirus-lesquels.html
-13317682-le-coronavirus-a-donne-le-covid-19-et-peut-donner-dautres-coronavirus-lesquels.html
 4739515-comment-peut-on-expliquer-la-transmission-des-maladies-de-la-mere-au-foetus-en-gestation.html
 4742681-j-ai-arrete-de-fumer-apres-40-ans-de-sevrage-comment-dois-je-reapprendre-a-faire-du-sport-sans-porter-un-coup-a-mon-coeur-ou-a-ma-sante-merci.html
 4778133-poser-un-diagnostic-de-trouble-schizophrenique-psychotique-des-l-adolescence-peut-certes-etre-utile-pour-la-reconnaissance-et-une-meilleure-validation-des-souffrances-presentes-mais-n-est-ce-pas-auss.html
 4855210-bonsoir-je-cherche-a-comprendre-le-mode-d-action-de-la-penicilline-merci-d-avance.html
-4898505-trouvera-t-on-un-jour-un-traitement-contre-la-maladie-d-alzheimer-.html
-4898505-trouvera-t-on-un-jour-un-traitement-contre-la-maladie-d-alzheimer.html
-4898505-trouveraton-un-jour-un-traitement-contre-la-maladie-dalzheimer.html
 4904341-le-coronavirus-du-moyen-orient-sous-la-loupe-des-infectiologues.html
-4907998-pourquoi-alors-qu-il-existe-un-vaccin-contre-la-grippe-ne-peut-on-pas-faire-des-vaccins-contre-le-rhume-les-refroidissements-tracheites-etc-maux-qui-nous-gachent-la-vie-en-hiver-et-dont-les-medecins-.html
-4907998-pourquoi-alors-quil-existe-un-vaccin-contre-la-grippe-ne-peuton-pas-faire-des-vaccins-contre-le-rhume-les-refroidissements-tracheites-etc-maux-qui-nous-gachent-la-vie-en-hiver-et-dont-les-medecins-nous-disent-quon-ne-peut-pas-les-traiter-car-cest-viral.html
 5187470-quand-on-ne-reconnait-pas-les-visages.html
 5203483-pourquoi-devient-on-malade.html
 5282568-qu-est-ce-qui-declenche-la-maladie-de-l-epilepsie.html
 5321876-l-ofsp-veut-eradiquer-la-rougeole-en-suisse.html
-5512642-fruits-et-legumes-contre-l-asthme.html
-5512642-fruits-et-legumes-contre-lasthme.html
 5711037-diagnostiquer-les-allergies-dans-le-sang.html
 5759521-le-gluten-un-bouc-emissaire-ideal.html
 6063489-pourquoi-y-a-t-il-plus-de-cancer-aujourd-hui-qu-en-1900-chez-l-homme.html
@@ -24,8 +15,6 @@
 6194141-certains-medecins-et-pediatres-preconisent-des-vaccinations-plus-tardives-chez-les-enfants-soit-a-la-fin-de-l-adolescence-plutot-qu-au-debut-de-la-vie-ceci-a-cause-de-l-impact-eventuel-des-vaccins-su.html
 6209472-du-nouveau-sur-les-troubles-alimentaires.html
 6256633-la-resistance-aux-antibiotiques-constitue-une-menace-pour-la-sante-humaine.html
-6303006-suite-a-un-accident-de-voiture-il-arrive-que-l-on-devienne-amnesique-comment-retrouve-t-on-la-memoire.html
-6303006-suite-a-un-accident-de-voiture-il-arrive-que-lon-devienne-amnesique-comment-retrouveton-la-memoire.html
 6308900-gros-plan-sur-la-potomanie.html
 6309185-comment-reagit-notre-corps-face-au-virus-d-ebola.html
 6311871-h5n8-frappe-le-nord-de-l-europe.html
@@ -63,8 +52,6 @@
 8098922-est-ce-qu-un-caryotype-feminin-peut-etre-decouvert-lors-d-une-prise-de-sang-sur-un-sujet-ne-masculin-transgenre.html
 8099085-la-hgh-human-growth-hormone-diminue-avec-l-age-est-il-dangereux-d-en-prendre-a-des-doses-raisonnables-peut-elle-ralentir-le-vieillissement.html
 8099086-pouvons-nous-augmenter-la-longueur-et-la-forme-de-notre-penis-si-oui-quelle-methode-biologique-ou-quel-produit-clinique-pouvons-nous-utiliser.html
-8102781-comment-se-fait-il-que-le-curcuma-anticoagulant-par-voie-interne-soit-utilise-comme-cicatrisant-sur-une-plaie-qui-saigne-.html
-8102781-comment-se-fait-il-que-le-curcuma-anticoagulant-par-voie-interne-soit-utilise-comme-cicatrisant-sur-une-plaie-qui-saigne.html
 8108088-le-rendez-vous-sante-des-reseaux-sociaux-s-interessent-particulierement-a-la-sante.html
 8192993-tout-sur-le-cancer-en-direct-de-planete-sante.html
 8258814-un-controle-de-neurorecepteur-par-la-lumiere-pour-attenuer-les-symptomes-de-la-douleur-chronique.html
@@ -91,5 +78,3 @@
 8903651-bonjour-il-parait-qu-un-fruit-appele-coco-fesse-a-un-ingredient-qui-peut-guerir-le-sida-y-a-t-il-des-recherches-a-ce-sujet-et-qu-une-forme-de-cannabis-peut-stopper-la-maladie-de-parkinson-merci-de-vo.html
 9003572-la-suisse-souffre-d-une-penurie-de-medicaments.html
 9619735-l-interet-de-jeuner-avant-une-operation-chirurgicale.html
-9709808-quels-sont-les-problemes-lies-a-l-utilisation-des-microbes-dans-la-biotechnologie-.html
-9709808-quels-sont-les-problemes-lies-a-lutilisation-des-microbes-dans-la-biotechnologie.html

@@ -1,6 +1,6 @@
 ./
-10369667-notre-dame-a-brule.html
-10369667-notredame-a-brule.html
+!10369667-notre-dame-a-brule.html
+!10369667-notredame-a-brule.html
 6482725-celebrations-cumeniques-en-radio-et-tv-pour-la-semaine-de-l-unite.html
 6554170-par-odin-la-mythologie-nordique-revient-en-force.html
 6816708-orient-occident-histoires-croisees.html

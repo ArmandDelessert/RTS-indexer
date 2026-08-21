@@ -35,7 +35,6 @@
 13214372-hippisme-steve-guerdat-manque-de-peu-la-victoire-a-aixlachapelle.html
 13253382-hippisme-la-selection-suisse-pour-les-mondiaux-est-connue.html
 13279066-hippisme-martin-fuchs-vainqueur-comme-en-2021-en-bretagne.html
-13279066-hippisme-martin-fuchs-vainqueur-comme-en-2021.html
 13296280-hippisme-un-ticket-olympique-comme-objectif-minimal.html
 13299837-hippisme-la-suisse-recule-au-7e-rang.html
 13374504-hippisme-la-suisse-2e-au-prix-des-nations-a-calgary.html
@@ -57,7 +56,6 @@
 14356685-hippisme-une-decevante-6e-place-pour-la-suisse.html
 14442164-hippisme-guerdat-manque-de-peu-la-victoire-a-lyon.html
 14444297-hippisme-guerdat-simpose-a-lyon-avec-caracho.html
-14444297-hippisme-guerdat-simpose-avec-caracho.html
 14528665-hippisme-steve-guerdat-en-vedette-a-geneve.html
 14537937-hippisme-steve-guerdat-simpose-pour-la-troisieme-fois-dans-la-finale-du-top-10.html
 14540631-hippisme-guerdat-au-pied-du-podium.html
@@ -66,7 +64,6 @@
 14623428-hippisme-janika-sprunger-sur-le-podium.html
 14642476-hippisme-guerdat-et-fuchs-sur-le-podium-en-coupe-du-monde.html
 4273228-gp-de-lausanne.html
-4408506-guerdat-saute-au-sommet-de-la-hierarchie.html
 4408506-guerdat-saute-jusquau-sommet-de-la-hierarchie.html
 5034893-janika-sprunger-brille-a-aix-la-chapelle.html
 5455835-chi-de-geneve-2013.html
@@ -74,7 +71,6 @@
 5780580-finales-coupe-du-monde-2014-lyon.html
 5891793-csio-st-gall-2014.html
 6117815-jem-caen-2014.html
-6122939-jeux-mondiaux-de-saut-d-obstacles.html
 6122939-jeux-mondiaux-de-saut-dobstacles.html
 6180002-hippisme-martin-fuchs-triomphe-chez-les-grands.html
 6373503-hippisme-la-creme-de-la-creme-a-palexpo.html
@@ -120,7 +116,6 @@
 9159752-chi-de-geneve-kent-farrington-lemporte-les-suisses-hors-du-coup.html
 9234007-hippisme-willi-melliger-lutte-contre-la-mort.html
 9246687-hippisme-martin-fuchs-au-sommet-de-son-art-avec-clooney.html
-9251725-carnet-noir-le-cavalier-willi-melliger-n-est-plus.html
 9251725-carnet-noir-le-cavalier-willi-melliger-nest-plus.html
 9484982-finale-de-la-coupe-du-monde-fin-du-reve-pour-steve-guerdat.html
 9583615-hippisme-la-suisse-troisieme-a-la-baule-en-coupe-des-nations.html

@@ -32,8 +32,8 @@
 4266263-noel-en-octobre-on-a-les-boules.html
 4282131-arnaque-aux-impots.html
 4409175-la-der-avant-le-new-ttc.html
-4481576-les-vols-de-smartphones-explosent.html
-4481576-new-ttc-br-avec-trois-miss-meteo-bourse.html
+!4481576-les-vols-de-smartphones-explosent.html
+!4481576-new-ttc-br-avec-trois-miss-meteo-bourse.html
 4595861-200-millions-de-chomeurs-et-moi-et-moi-et-moi.html
 4864008-ttc-chez-le-coiffeur-ubs-france-il-faudra-rendre-des-comptes.html
 4882777-argent-sale-et-argent-propre.html
@@ -91,8 +91,8 @@
 6476151-braquage-de-camions.html
 6493981-voiture-low-cost-le-modele-dacia.html
 6512580-cartes-de-credit-tous-a-poil-br-la-saga-du-hamburger-du-mcdo-au-gastro.html
-6531179-les-marques-suisses-sont-elles-suisses-macumba-on-ferme.html
-6531179-les-marques-suisses-sont-ellessuisses-macumba-on-ferme.html
+!6531179-les-marques-suisses-sont-elles-suisses-macumba-on-ferme.html
+!6531179-les-marques-suisses-sont-ellessuisses-macumba-on-ferme.html
 6550870-ttc-a-hong-kong.html
 6587418-les-enfants-cassent-les-parents-casquent.html
 6627430-des-seins-tout-beaux-tout-neufs-br-big-data-big-enjeu.html

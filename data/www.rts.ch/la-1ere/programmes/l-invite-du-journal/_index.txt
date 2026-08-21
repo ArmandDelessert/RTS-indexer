@@ -154,8 +154,6 @@
 6507216-micheline-calmy-rey-ancienne-conseillere-federale.html
 6555020-guillaume-barazzone-conseiller-national-pdc-genevois-26-02-2015.html
 6628490-jean-felix-savary-secretaire-general-du-grea-25-03-2015.html
-6642408-michel-onfray-ecrivain-et-philosophe-francais-30-03-2015.html
-6642408-michel-onfray-ecrivain-et-philosophe-francais.html
 6642426-michel-onfray-ecrivain-et-philosophe-francais.html
 6645719-l-invite-de-la-redaction.html
 6652621-lino-guzzella-president-de-l-epfz.html
@@ -174,8 +172,8 @@
 6699218-etienne-piguet-professeur-de-geographie-a-l-universite-de-neuchatel.html
 6702542-jacques-semelin-historien-francais.html
 6705914-andreas-hofert-chef-economiste-chez-ubs.html
-6708603-l-invite-de-la-redaction.html
-6708603-pierre-micheletti-medecin-humanitaire-francais.html
+!6708603-l-invite-de-la-redaction.html
+!6708603-pierre-micheletti-medecin-humanitaire-francais.html
 6714793-antonio-hodgers-conseiller-d-etat-genevois.html
 6717762-aldo-schorno-historien-economique.html
 6721700-paul-quiles-ancien-ministre-francais-de-la-defense.html
@@ -289,8 +287,6 @@
 7801274-jacques-de-watteville-negociateur-en-chef-de-la-suisse-pour-l-union-europeenne.html
 7825274-gilles-lipovetsky-philosophe-30-06-2016.html
 7825292-gilles-lipovetsky-philosophe.html
-7848449-l-invite-de-la-redaction-07-07-2016.html
-7848449-nathalie-seiler-hayez-directrice-du-beau-rivage-palace-de-lausanne-07-07-2016.html
 7850787-daniel-brelaz-conseiller-national-ecologiste-vaudois.html
 7860875-mallory-schneuwly-purdie-docteur-en-sociologie-et-sciences-des-religions.html
 7870482-gabriel-galice-president-du-gipri.html
@@ -305,13 +301,9 @@
 8000852-monika-ruhl-directrice-d-economiesuisse.html
 8008786-benedict-de-tscharner-ancien-ambassadeur-de-suisse-en-france.html
 8011480-francois-gemenne-specialiste-des-flux-migratoires.html
-8028562-pierre-yves-maillard-ministre-vaudois-de-la-sante-27-09-2016.html
-8028562-pierreyves-maillard-ministre-vaudois-de-la-sante-jdm_20160927t073700_linvitedujournal.html
 8032278-georges-ugeux-president-de-la-banque-galileo-global-advisors.html
 8035084-solange-peters-cheffe-du-service-d-oncologie-medicale-du-chuv.html
 8037643-l-invite-de-la-redaction.html
-8069042-olivier-roy-politologue-specialiste-de-l-islam-13-10-2016.html
-8069042-olivier-roy-politologue-specialiste-de-l-islam.html
 8071692-alain-duhamel-journaliste-et-essayiste.html
 8112329-michel-grandjean-professeur-d-histoire-du-christianisme-a-l-unige.html
 8112346-michel-grandjean-professeur-d-histoire-du-christianisme-a-l-unige.html

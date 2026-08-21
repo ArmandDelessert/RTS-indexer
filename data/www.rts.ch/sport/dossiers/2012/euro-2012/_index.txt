@@ -1,7 +1,6 @@
 ./
 4017061-groupe-a-le-groupe-de-la-vie.html
 4017242-groupe-b-qui-sortira-vivant-du-groupe-de-la-mort.html
-4017866-le-journal-de-l-euro.html
 4017866-le-journal-de-leuro.html
 4020012-groupe-c-espagne-et-italie-favorites-mais-gare-aux-surprises.html
 4020105-groupe-d-bleus-et-anglais-attendus-sur-le-terrain-ukraine-en-dehors.html
@@ -20,7 +19,6 @@
 4106010-allemagne-italie.html
 4107643-andrea-pirlo-genie-de-la-renaissance-italienne.html
 4107728-les-stars-du-tournoi-a-la-loupe.html
-4109037-michel-platini-evoque-un-euro-dans-12-13-villes-d-europe-des-2020.html
 4109037-michel-platini-evoque-un-euro-dans-1213-villes-deurope-des-2020.html
 4109182-une-finale-italie-espagne-pour-la-gloire-et-pour-le-jeu.html
 4109276-laurent-blanc-des-bleus-a-l-ame-prefere-s-en-aller.html

@@ -1,10 +1,4 @@
 ./
-9428689--nos-langues-dans-le-monde.html
-9428689-nos-langues-dans-le-monde.html
 9458865-apprenez-a-dire-bonjour-en-plusieurs-langues.html
 9458986-apprenez-a-dire-comment-ca-va-en-plusieurs-langues.html
-9459059-apprenez-a-dire-comment-t-appelles-tu-en-plusieurs-langues.html
-9459059-apprenez-a-dire-comment-tappellestu-en-plusieurs-langues.html
-9459172-apprenez-a-dire-je-m-appelle-en-plusieurs-langues.html
-9459172-apprenez-a-dire-je-mappelle-en-plusieurs-langues.html
 9462675-apprenez-a-dire-au-revoir-en-plusieurs-langues.html

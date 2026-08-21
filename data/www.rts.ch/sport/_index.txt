@@ -1,13 +1,12 @@
 ./
-10289472-grand-prix-de-formule-1-saison-2019-participez-des-maintenant-et-gagnez-des-prix-exclusifs.html
-10289472-grand-prix-de-formule-1-saison-2020-participez-des-maintenant-et-gagnez-des-prix-exclusifs.html
+!10289472-grand-prix-de-formule-1-saison-2019-participez-des-maintenant-et-gagnez-des-prix-exclusifs.html
+!10289472-grand-prix-de-formule-1-saison-2020-participez-des-maintenant-et-gagnez-des-prix-exclusifs.html
 10479394-catchmoi-si-tu-peux.html
 10488369-diaporama-des-catcheurs-les-plus-connus-de-la-wwe.html
 10488963-les-membres-du-geneva-total-wrestling.html
 10582061-carnet-noir-deces-de-lemblematique-exjournaliste-de-la-rts-roger-felix.html
 10885981-coupe-du-monde-de-ski-alpin-saison-20192020-participez-a-notre-concours-et-gagnez-lun-de-nos-nombreux-prix.html
 11007151-tous-les-mags-de-la-redaction-2020.html
-11077066-adrenaline-2020.html
 11077066-adrenaline-2021.html
 11164935-freeride-world-tour-2020.html
 11254817-tous-les-mags-de-la-redaction.html
@@ -33,9 +32,9 @@
 11565475-boxe-fritz-chervet-est-decede.html
 11759685-coronavirus-la-situation-club-par-club.html
 11786099-boxe-le-retour-de-mike-tyson-se-solde-par-un-match-nul.html
-11786968-concours-coupe-du-monde-de-ski-alpin-saison-20202021-participez-a-notre-concours-et-gagnez-lun-de-nos-nombreux-prix.html
-11786968-concours-coupe-du-monde-de-ski-alpin-saison-20202021-participez-et-gagnez-lun-de-nos-nombreux-prix.html
-11786968-coupe-du-monde-de-ski-alpin-saison-20202021-participez-a-notre-concours-et-gagnez-lun-de-nos-nombreux-prix.html
+!11786968-concours-coupe-du-monde-de-ski-alpin-saison-20202021-participez-a-notre-concours-et-gagnez-lun-de-nos-nombreux-prix.html
+!11786968-concours-coupe-du-monde-de-ski-alpin-saison-20202021-participez-et-gagnez-lun-de-nos-nombreux-prix.html
+!11786968-coupe-du-monde-de-ski-alpin-saison-20202021-participez-a-notre-concours-et-gagnez-lun-de-nos-nombreux-prix.html
 11914867-tous-les-mags-de-2021.html
 11930028-concours-championnats-du-monde-de-ski-alpin-2021-participez-et-gagnez-lun-de-nos-nombreux-prix.html
 12022561-championnats-deurope-en-salle-2021.html
@@ -229,6 +228,5 @@
 9464998-grand-prix-de-formule-1-saison-2018-participez-a-notre-concours-et-gagnez-lun-des-prix-mis-en-jeu.html
 9608535-sport-derniere-rolandgarros.html
 9644546-coupe-du-monde-de-football-fifa-2018-participez-a-notre-concours-et-gagnez-lun-des-prix-mis-en-jeu.html
-9650428-au-coeur-du-mondial.html
 9650428-au-cur-du-mondial.html
 9989828-mbappeet-largent-cest-indecent-mais-le-marche-est-comme-ca.html

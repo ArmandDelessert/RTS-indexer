@@ -6,8 +6,6 @@
 11285733-mieux-comprendre-et-survivre-a-la-pandemie.html
 11286018-vivre-avec-le-virus.html
 11493061-les-maladies-transmises-par-les-animaux.html
-14457006-penurie-de-medecins-les-infirmieres-et-infirmiers-specialises-a-la-rescousse-.html
-14457006-penurie-de-medecins-les-infirmieres-et-infirmiers-specialises-a-la-rescousse.html
 1758984-le-mystere-des-jambes-sans-repos.html
 1786926-maladies-auto-immunes-la-solution-est-elle-dans-l-assiette.html
 1897966-seuls-a-en-mourir-la-medecine-legale-sans-scalpel.html
@@ -35,8 +33,8 @@
 4592576-aux-frontieres-de-la-conscience.html
 4656157-migraine-le-casse-tete.html
 4734541-le-mystere-des-vertiges-et-des-troubles-de-l-equilibre.html
-4752542-dsm-5-sommes-nous-tous-fous-xanax-la-pilule-miracle-qui-mene-en-enfer.html
-4752542-sommes-nous-tous-fous.html
+!4752542-dsm-5-sommes-nous-tous-fous-xanax-la-pilule-miracle-qui-mene-en-enfer.html
+!4752542-sommes-nous-tous-fous.html
 4767731-diagnostic-pre-implantatoire-voter-oui-ou-non.html
 4846107-urgences-pediatriques-histoire-d-un-diagnostic-manque.html
 4945806-violence-conjugale-dans-la-tete-du-cogneur.html
@@ -65,8 +63,8 @@
 6371635-intolerance-au-gluten-et-si-on-s-etait-trompe-de-coupable.html
 6390964-des-pieges-dans-ma-maison.html
 6476011-apnees-du-sommeil-l-asphyxie-d-une-vie.html
-6516095-menopause-les-dessous-de-la-machine-a-vapeur.html
-6516095-menopause-les-dessous-de-la-machine-a-vapeurs.html
+!6516095-menopause-les-dessous-de-la-machine-a-vapeur.html
+!6516095-menopause-les-dessous-de-la-machine-a-vapeurs.html
 6531032-psychotropes-sont-ils-prescrits-trop-facilement.html
 6540641-et-si-les-odeurs-nous-menaient-par-le-bout-du-nez.html
 6587800-les-enfants-malades-du-sport-intensif.html
@@ -74,8 +72,6 @@
 6669499-etes-vous-dopes-au-boulot.html
 6710106-medecine-les-espoirs-fous-de-l-impression-3d.html
 6760312-la-100e-que-sont-ils-devenus.html
-6792343-les-remedes-de-grand-mere.html
-6792343-les-remedes-de-grandmere.html
 6852318-medecine-les-espoirs-fous-de-l-impression-3d-br-rediffusion-du-06-05-2015.html
 6872074-intolerance-au-gluten-et-si-on-s-etait-trompe-de-coupable-br-rediffusion-du-28-01-2015.html
 6878057-des-pieges-dans-ma-maison-br-rediffusion-du-11-02-2015.html

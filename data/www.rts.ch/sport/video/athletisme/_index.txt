@@ -13,13 +13,13 @@
 10589021-athletisme-championnats-suisse.html
 10623515-bydgoszcz-pol-200m-dames-kambundji-sui-gagne-sa-course.html
 10625282-athletisme-championnats-du-monde-1e-journee.html
-10646303-athletisme-championnat-du-monde-jour-5.html
-10646303-athletisme-championnats-du-monde-5e-journee.html
+!10646303-athletisme-championnat-du-monde-jour-5.html
+!10646303-athletisme-championnats-du-monde-5e-journee.html
 10646305-athletisme-championnats-du-monde-5e-journee.html
 10646339-athletisme-championnats-du-monde-4e-journee.html
 10646446-athletisme-championnats-du-monde-2e-journee.html
-10663248-athletisme-championnats-du-monde-jour-1.html
-10663248-athletisme-championnats-du-monde-marathon-dames.html
+!10663248-athletisme-championnats-du-monde-jour-1.html
+!10663248-athletisme-championnats-du-monde-marathon-dames.html
 10663250-athletisme-championnats-du-monde-1e-journee.html
 10665614-athletisme-championnats-du-monde-1e-journee.html
 10666133-athletisme-championnats-du-monde-2e-journee.html

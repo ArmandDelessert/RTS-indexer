@@ -1,6 +1,4 @@
 ./
-10298799-lecon-de-musique.html
-10298799-lecon-insolite.html
 10333091-pipier.html
 10549876-en-enregistrement.html
 10951489-grande-passion-pour-petits-trains.html
@@ -19,8 +17,6 @@
 3438145-des-jouets-a-la-mode.html
 3439527-chantal-goya.html
 3439676-2-garcons-pour-1-fille.html
-3439953-un-peu-de-jodel.html
-3439953-un-peu-de-yodel.html
 3440636-le-radar-infaillible.html
 3442270-clinique-pour-poupees.html
 3443037-le-letkiss.html
@@ -45,8 +41,6 @@
 5666150-les-gentlemen.html
 5772388-grenouilles-de-musee.html
 6147654-en-couple-dans-la-rue.html
-6147697-les-bonnes-manieres-de-grand-mere.html
-6147697-les-bonnes-manieres-de-grandmere.html
 6318471-une-serie-a-succes.html
 6556877-un-homme-et-une-femme.html
 6584181-la-ceramique-tout-un-art.html
@@ -55,16 +49,10 @@
 7818506-orpailleurs-en-herbe.html
 7926595-une-race-a-part.html
 8030149-coup-de-sac.html
-8064483-a-l-entrainement.html
-8064483-a-lentrainement.html
 8237170-reine-du-musichall.html
 8342795-une-bonne-huile-de-noix.html
 8856334-le-mime-quellet.html
 9370154-le-sauna.html
-9482506-l-auto-stop-malin-.html
-9482506-lautostop-malin.html
-9612330-alors-ca-mord-.html
-9612330-alors-ca-mord.html
 9872534-a-lauberge-de-jeunesse.html
 9920609-le-scoutisme.html
 9997114-varappe-au-saleve.html

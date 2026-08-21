@@ -20,8 +20,8 @@
 3964092-j-ai-le-c-ur-d-un-autre.html
 4157872-week-end-aux-urgences.html
 4428150-rene-pretre-l-as-du-c-ur.html
-4481869-le-secret-medical-en-peril.html
-4481869-le-secret-medical-en-phase-terminale.html
+!4481869-le-secret-medical-en-peril.html
+!4481869-le-secret-medical-en-phase-terminale.html
 4596131-mon-chien-cet-ange-gardien.html
 4883038-sos-toxicomanes.html
 5029713-rene-pretre-l-as-du-coeur-rediffusion-du-27-12-2012.html

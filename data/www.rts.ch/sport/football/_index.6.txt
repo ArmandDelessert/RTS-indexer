@@ -17,7 +17,6 @@
 6128061-equipe-de-suisse-la-bande-a-petkovic-manque-sa-rentree.html
 6128153-equipe-de-suisse-m21-la-suisse-termine-bien-les-eliminatoires.html
 6128201-equipe-de-suisse-la-suisse-s-incline-d-entree-contre-l-angleterre.html
-6128237-foot-l-espagne-bat-facilement-la-macedoine.html
 6128237-foot-lespagne-bat-facilement-la-macedoine.html
 6146639-ligue-des-champions-la-presse-espagnole-attend-une-reaction-du-real-madrid-contre-bale.html
 6159595-guillaume-hoarau-partir-en-chine-c-etait-flinguer-ma-carriere-sportive-merci-a-yb.html
@@ -28,7 +27,6 @@
 6209485-foot-francesco-gabriele-nest-plus-lentraineur-de-lausanne.html
 6209494-le-fc-le-mont-a-recrute-l-attaquant-orhan-mustafi-24-ans-pour-2-mois-avec-une-option-de-prolongation.html
 6216532-foot-markus-babbel-au-chevet-de-lucerne.html
-6217868-foot-le-nouvel-entraineur-du-lausanne-sport-est-marco-simone.html
 6217868-foot-le-nouvel-entraineur-du-lausannesport-est-marco-simone.html
 6248811-coupe-de-suisse-la-finale-2015-aura-lieu-a-bale.html
 6270786-super-league-sion-et-aarau-dos-a-dos-a-tourbillon.html
@@ -50,9 +48,7 @@
 6359874-mondial-dames-tirage-au-sort-historique-sur-fond-de-polemique.html
 6360918-mondial-dames-la-suisse-bien-lotie-par-le-tirage.html
 6361414-super-league-alex-frei-quitte-son-poste-de-directeur-technique-a-lucerne.html
-6361414-super-league-bale-fait-respecter-la-logique-a-lucerne.html
-6362484-super-league-battu-a-thoune-zurich-laisse-filer-le-fc-bale.html
-6362484-super-league-sion-termine-l-annee-sur-une-defaite.html
+6362484-super-league-sion-termine-lannee-sur-une-defaite.html
 6363896-mls-le-suisse-goncalves-echoue-en-finale-face-au-galaxy.html
 6364751-fc-sion-jochen-dries-rend-son-tablier.html
 6364897-ligue-des-champions-encore-un-effort-pour-la-vieille-dame.html
@@ -79,7 +75,6 @@
 6664406-euro-2016-challandes-quitte-son-poste-de-selectionneur-de-larmenie.html
 6682706-foot-lara-dickenmann-va-tenter-l-aventure-allemande-a-wolfsburg.html
 6700859-ligue-des-champions-de-la-revanche-dans-l-air-entre-paris-et-barcelone.html
-6758522-1-2.html
 6758522-12.html
 6761437-caroline-abbe-pour-ma-premiere-saison-au-bayern-je-naurais-pas-pu-rever-mieux.html
 6770371-bundesliga-caroline-abbe-sacree-avec-le-bayern-munich.html

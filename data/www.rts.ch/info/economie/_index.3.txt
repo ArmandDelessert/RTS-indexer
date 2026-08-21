@@ -18,7 +18,6 @@
 3294979-lempire-virgin-pose-un-pied-a-geneve.html
 3298827-le-finlandais-nokia-chute-derriere-apple-et-samsung.html
 3340412-journee-moins-noire-que-prevu-pour-les-bourses.html
-3346243-l-ubs-va-supprimer-3500-emplois.html
 3346243-lubs-va-supprimer-3500-emplois.html
 3353784-hausse-significative-du-pib-en-suisse-en-2010.html
 3377823-la-bns-fixe-un-cours-plancher-pour-l-euro.html
@@ -40,15 +39,12 @@
 3666515-le-taux-unique-de-tva-est-enterre.html
 3681795-le-spectre-d-une-faillite-plane-sur-le-raffineur-zougois-petroplus-selon-des-analystes.html
 3684460-les-salaires-des-fonctionnaires-geles-en-espagne.html
-3692830-le-vaudois-henri-ferdinand-lavanchy-est-decede.html
 3692830-le-vaudois-henriferdinand-lavanchy-est-decede.html
 3710602-sp-degrade-la-france-litalie-et-lespagne.html
 3733314-petroplus-se-prepare-a-la-mise-en-faillite.html
-3733379-les-fournisseurs-d-electricite-sont-en-difficulte.html
 3733379-les-fournisseurs-delectricite-sont-en-difficulte.html
 3750676-sursis-concordataire-pour-la-raffinerie-de-cressier.html
 3755150-un-fonds-interesse-par-les-raffineries-de-petroplus.html
-3764694-naissance-d-un-geant-des-matieres-premieres.html
 3764694-naissance-dun-geant-des-matieres-premieres.html
 3791609-la-france-vit-le-dernier-jour-des-billets-en-francs-francais.html
 3799530-l-eurogroupe-donne-son-feu-vert-au-second-plan-de-sauvetage-a-la-grece.html
@@ -76,9 +72,6 @@
 3968775-lentree-en-bourse-de-facebook-pourrait-rapporter-56-milliards.html
 3979939-le-franc-suisse-est-legerement-surevalue-juge-le-fmi.html
 3984707-la-societe-qui-fabrique-la-chaussure-mbt-mise-en-faillite.html
-3988696-une-ex-responsable-de-la-securite-alimentaire-depose-plainte-contre-nestle.html
 3988696-une-exresponsable-de-la-securite-alimentaire-depose-plainte-contre-nestle.html
-3988696-­‐une-­‐ex-­‐responsable-­‐de-­‐la-­‐securite-­‐alimentaire-­‐depose-­‐plainte-­‐contre-­‐nestle.html
-3993979-swatch-devra-livrer-des-mouvements-a-ses-concurrents-jusqu-a-fin-2013.html
 3993979-swatch-devra-livrer-des-mouvements-a-ses-concurrents-jusqua-fin-2013.html
 3995417-facebook-vise-les-100-milliards-de-dollars-pour-son-entree-en-bourse.html

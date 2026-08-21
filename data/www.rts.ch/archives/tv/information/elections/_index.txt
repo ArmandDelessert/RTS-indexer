@@ -4,8 +4,6 @@
 14048866-elections-federales-les-verts.html
 3435093-le-prix-du-beurre.html
 3435623-oui-a-la-greve.html
-3435624-le-parti-de-l-urss.html
-3435624-le-parti-de-lurss.html
 3436751-au-palais-federal.html
 3437663-jai-pas-compris.html
 3441256-joseph-deiss.html
@@ -18,10 +16,6 @@
 3444734-defendre-les-pauvres.html
 3459216-le-debat-politique.html
 3485262-1971-le-debat.html
-6155568-au-palais-federal-.html
-6155568-au-palais-federal.html
-6624339-l-alliance-des-independants.html
-6624339-lalliance-des-independants.html
 6853955-le-pdc-avant-le-pdc.html
 6854676-les-annees-fastes.html
 6854930-exit-ruth-metzler.html

@@ -1,14 +1,7 @@
 ./
-10771102-des-promesses-davenir.html
-10771102-l-observatoire-de-sauverny.html
-10771102-lobservatoire-de-sauverny.html
 3438844-lunivers-de-latome.html
 3449505-les-ordinateurs.html
 3465075-au-debut-latome.html
-4389119-l-energie-noire.html
-4389119-lenergie-noire.html
-6492645-la-tete-en-l-air.html
-6492645-la-tete-en-lair.html
 6497550-les-scientifiques.html
 7957995-le-projet-concorde.html
 8081336-long-courrier.html

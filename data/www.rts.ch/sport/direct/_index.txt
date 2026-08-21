@@ -206,8 +206,8 @@
 8569205-sport-derniere-special-rolandgarros.html
 8569466-football-qualification-coupe-du-monde-2018-iles-feroe-suisse.html
 8569469-sport-derniere-special-rolandgarros.html
-8569498-tennis-internationaux-de-france-12-finales.html
-8569498-tennis-internationaux-de-france.html
+!8569498-tennis-internationaux-de-france-12-finales.html
+!8569498-tennis-internationaux-de-france.html
 8569536-sport-derniere-special-rolandgarros.html
 8585552-automobilisme.html
 8588653-sport-derniere.html

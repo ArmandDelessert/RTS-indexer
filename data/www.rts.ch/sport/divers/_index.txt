@@ -17,7 +17,6 @@
 4171631-natation-david-karasek-a-ete-elimine-en-series-du-200m-4-nages-mais-a-battu-son-record-de-suisse.html
 5096218-manuela-schar-abonnee-a-largent-a-lyon.html
 5124249-la-quarantaine-rugissante.html
-5125338-marc-lauenstein-s-offre-la-course-des-cinq-4000.html
 5125338-marc-lauenstein-soffre-la-course-des-cinq-4000.html
 5128840-encore-rate-pour-lavillenie.html
 5149690-kilian-jornet-nouveau-roi-du-cervin.html
@@ -36,11 +35,9 @@
 5732435-deux-victoires-de-rang-pour-le-cc-geneve.html
 5735935-un-1er-succes-suisse-en-tir-depuis-2009.html
 5744605-route-du-rhum-knoxjohnston-au-depart-a-75-ans.html
-5820114-karate-fanny-clavien-championne-d-europe-.html
-5820114-karate-fanny-clavien-championne-d-europe.html
+5820114-karate-fanny-clavien-championne-deurope.html
 6086497-grand-raid-un-4eme-bouquet-pour-urs-huber.html
 6324125-curling-les-suisses-commencent-bien-leurs-europeens.html
-6328113-curling-deux-defaites-dans-les-clans-helvetiques.html
 6328113-curling-les-clans-helvetiques-en-difficulte.html
 6334685-curling-un-5e-succes-pour-michel-et-cie.html
 6342366-curling-les-suissesses-sur-le-toit-de-l-europe.html
@@ -48,7 +45,6 @@
 6705643-gym-giulia-steingruber-qualifiee-pour-quatre-finales.html
 6707702-gym-bragger-en-pole-position-a-la-barre-fixe.html
 6712313-gym-steingruber-decroche-l-argent-en-saut-bragger-le-bronze-au-sol.html
-6713941-gym-l-argent-et-le-bronze-pour-baumann-et-steingruber.html
 6713941-gym-largent-et-le-bronze-pour-baumann-et-steingruber.html
 6883294-jeux-europeens-lor-pour-les-zougoises-betschart-et-eiholzer-en-beachvolley.html
 6907613-triathlon-nicola-spirig-premiere-athlete-suisse-selectionnee-pour-rio-2016.html

@@ -26,7 +26,6 @@
 3917640-1-2.html
 3924336-malmene-par-winterthour-bale-file-malgre-tout-en-finale-de-la-coupe.html
 3996353-le-fc-lucerne-brule-de-revanche.html
-3999682-bale-transpire-sang-et-eau-mais-reussit-le-double-.html
 3999682-bale-transpire-sang-et-eau-mais-reussit-le-double.html
 4000166-finale.html
 4276219-1-32.html
@@ -44,7 +43,6 @@
 6262731-1-8.html
 6265325-coupe-de-suisse-sion-repart-de-koniz-en-quart.html
 6354318-coupe-de-suisse-zurich-passe-en-quarts-sans-probleme.html
-6354318-coupe-de-suisse.html
 6362498-coupe-de-suisse-un-bon-coup-a-jouer-pour-le-fc-sion.html
 6586992-coupe-de-suisse-sion-devra-concretiser-contre-aarau.html
 6591425-1-4.html
@@ -70,19 +68,15 @@
 7208839-1-8.html
 7210934-coupe-de-suisse-sion-joue-a-se-faire-peur-le-mont-battu.html
 7217967-coupe-de-suisse-un-choc-sion-bale-en-quarts.html
-7239360-coupe-de-suisse-la-finale-2017-se-disputera-a-geneve-.html
 7239360-coupe-de-suisse-la-finale-2017-se-disputera-a-geneve.html
 7333136-coupe-de-suisse-le-fc-zurich-dans-le-dernier-carre.html
 7335546-1-4.html
 7335806-coupe-de-suisse-le-fc-sion-accueillera-le-fc-zurich-en-mars.html
 7536630-coupe-de-suisse-le-fc-sion-dans-la-peau-du-favori.html
-7540427-coupe-de-suisse-lugano-s-impose-a-lucerne-et-atteint-la-finale.html
 7540427-coupe-de-suisse-lugano-simpose-a-lucerne-et-atteint-la-finale.html
-7540727-coupe-de-suisse-la-route-de-sion-s-arrete-en-demi-finale.html
 7540727-coupe-de-suisse-la-route-de-sion-sarrete-en-demifinale.html
 7540874-coupe-de-suisse-le-fc-sion-essuie-un-veritable-camouflet.html
-7540875-coupe-de-suisse-vanczak-nous-n-etions-pas-a-100-ce-soir-.html
-7540875-coupe-de-suisse-vanczak-nous-n-etions-pas-a-100-ce-soir.html
+7540875-coupe-de-suisse-vanczak-nous-netions-pas-a-100-ce-soir.html
 7541072-1-2.html
 7755191-coupe-de-suisse-la-revanche-ou-le-coup-de-grace.html
 7759593-coupe-de-suisse-victorieux-le-fcz-se-console-de-sa-relegation.html
@@ -110,11 +104,7 @@
 8628028-coupe-de-suisse-en-2015-lequipe-na-pas-doute-une-seule-seconde.html
 8646372-coupe-de-suisse-le-fc-sion-remet-sa-legende-en-jeu.html
 8648455-coupe-de-suisse-en-cas-de-defaite-impensable-du-fc-sion-a-quel-stade-le-club-valaisan-entreraitil-en-europa-league.html
-8648455-coupe-de-suisse-et-si-limpensable-arrivait-a-quel-stade-le-fc-sion-entreraitil-en-europa-league.html
 8648464-coupe-de-suisse-sionbale-les-deux-premiers-actes-avant-le-troisieme.html
-8648881-de-l-espoir-a-la-desillusion-une-journee-en-compagnie-des-supporters-du-fc-sion.html
-8648881-de-lespoir-a-la-desillusion-une-journee-en-compagnie-des-supporters-du-fc-sion.html
-8648881-les-supporters-sedunois-croient-en-leur-14e-etoile-suivez-notre-minute-par-minute.html
 8650315-coupe-de-suisse-bale-met-un-terme-a-la-legende-de-sion-en-finale.html
 8650837-coupe-de-suisse-le-dernier-mot-dune-belle-histoire.html
 8650838-coupe-de-suisse-on-savait-que-cette-defaite-devait-arriver-un-jour.html
@@ -123,7 +113,6 @@
 8837902-coupe-de-suisse-montfaucon-en-encaisse-21-contre-xamax.html
 8839545-coupe-de-suisse-le-fc-sion-passe-sans-souci.html
 8839607-coupe-de-suisse-servette-defiera-lucerne.html
-8923613-coupe-de-suisse-sion-elimine-par-stade-lausanne-ouchy-.html
 8923613-coupe-de-suisse-sion-elimine-par-stade-lausanneouchy.html
 8924418-coupe-de-suisse-servette-un-peu-trop-tendre-face-a-lucerne.html
 8925276-coupe-de-suisse-echallens-soffre-neuchatel-xamax-apres-un-match-de-folie.html
@@ -140,7 +129,6 @@
 9373895-coupe-de-suisse-young-boys-simpose-face-au-fc-bale-et-se-qualifie-pour-la-finale.html
 9374446-coupe-de-suisse-vainqueur-du-derby-zurichois-le-fcz-se-hisse-en-finale.html
 9375581-coupe-de-suisse-la-finale-est-de-retour-dans-la-capitale.html
-9600019-coupe-de-suisse-zurich-s-adjuge-un-10e-titre-au-bout-d-une-finale-explosive-face-a-yb.html
 9600019-coupe-de-suisse-zurich-sadjuge-un-10e-titre-au-bout-dune-finale-explosive-face-a-yb.html
 9600235-coupe-de-suisse-zurich-puissance-dix-young-boys-toujours-maudit.html
 9783447-coupe-de-suisse-le-miracle-na-pas-eu-lieu-pour-veyrier.html

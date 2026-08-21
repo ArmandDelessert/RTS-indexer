@@ -5,15 +5,9 @@
 3473325-servette-titre.html
 4130982-champion-en-1994.html
 4378872-roy-hodgson.html
-5276343-jean-charles-meuret.html
-5276343-jeancharles-meuret.html
 5607399-la-chorale-samuse.html
 5842116-le-coup-de-sifflet.html
-5920387-jean-luc-bideau.html
-5920387-jeanluc-bideau.html
 5965190-un-plateau-de-coupe-du-monde.html
-6090424-lausanne-ca-roule-.html
-6090424-lausanne-ca-roule.html
 6648566-dans-les-coulisses-dun-grand-prix.html
 6820116-fc-sion-champion.html
 6829964-hermann-a-servette.html
@@ -26,5 +20,3 @@
 9623712-eric-tabarly.html
 9623732-alinghi-iii.html
 9642099-une-mere-a-decorer.html
-9642112-vous-y-comprenez-quelque-chose-.html
-9642112-vous-y-comprenez-quelque-chose.html

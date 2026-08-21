@@ -93,8 +93,6 @@
 12808284-47e-journee-fribourg-rapperswil-32-ap-heros-du-jour-julien-sprunger-nous-livre-ses-impressions-apres-la-victoire.html
 12808299-47e-journee-fribourg-rapperswil-32-ap-interview-de-christian-dube-apres-la-rencontre.html
 12913270-53e-journee-bienne-lausanne-23-les-vaudois-simposent-et-se-rapprochent-de-la-6e-place.html
-12931955-56e-journee-berne-zurich-21-ap-victoire-de-berne-qui-consolide-sa-10e-place.html
-12931955-56e-journee-berne-zurich-21-ap-victoire-de-berne-qui-consolide-sa-8e-place.html
 12939534-58e-journee-berne-lausanne-14-lausanne-simpose-et-elimine-berne.html
 12939562-58e-journee-berne-lausanne-14-la-reaction-de-scherwey-a-la-fin-du-match.html
 12939573-58e-journee-berne-lausanne-14-linterview-de-kast.html
@@ -108,10 +106,6 @@
 12939672-58e-journee-davos-fribourg-20-le-resume-du-match.html
 12939684-58e-journee-ambripiotta-rapperswil-62-le-resume-du-match.html
 12939694-58e-journee-zoug-zurich-12-ap-le-resume-du-match.html
-12954228-ambrilausanne-12-lausanne-bat-ambri-et-egalise-dans-la-serie.html
-12954228-lausanne-bat-ambri-et-egalise-dans-la-serie.html
-12954267-fin-de-saison-pour-geneve.html
-12954267-luganogeneve-43-ap-fin-de-saison-brutale-pour-geneve.html
 12954365-joel-genazzi-a-linterview.html
 12954393-interview-de-chris-mcsorley.html
 12964495-14-match-1-zurich-bienne-45-succes-biennois-au-terme-dun-match-de-folie.html
@@ -121,8 +115,6 @@
 12973892-14-match-2-lausanne-fribourg-54-christoph-bertschy-lausanne-a-linterview-apres-la-victoire.html
 12973903-14-match-2-lausanne-fribourg-54-la-reaction-de-tim-bozon-lausanne-apres-le-succes.html
 12973914-14-match-2-lugano-zoug-26-tous-les-buts-de-la-victoire-zougoise.html
-12973932-14-match-2-zurich-bienne-10-baltisberger-marque-le-winning-goal-et-offre-la-victoire-a-zurich.html
-12973932-14-match-3-zurich-bienne-10-baltisberger-marque-le-winning-goal-et-offre-la-victoire-a-zurich.html
 12985054-14-davos-rapperswil-20-davos-peut-encore-esperer-voir-les-12.html
 12986483-14-lugano-zoug-35-zoug-elimine-lugano-en-4-matches.html
 12989305-14-match-6-bienne-zurich-13-les-lions-simposent-en-terre-biennoise-et-egalisent-dans-la-serie.html

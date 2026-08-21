@@ -1,6 +1,4 @@
 ./
-11298393-deconfinement-la-suisse-va-t-elle-trop-vite-.html
-11298393-deconfinement-la-suisse-vatelle-trop-vite.html
 2455601-notre-francophonie-quelles-forces-quelles-faiblesses.html
 2824055-cyberguerre-la-menace-du-xxie-siecle.html
 2824404-territoires-pays-etats-quelles-differences.html
@@ -27,8 +25,8 @@
 4734789-riz-mais-et-ble-la-securite-alimentaire-a-quel-prix.html
 4769144-liberte-de-la-presse-qui-menace-l-information.html
 4788273-obesite-un-fleau-devenu-mondial.html
-4864110-chiites-sunnites-une-guerre-fratricide-pour-le-pouvoir-.html
-4864110-chiites-sunnites-une-guerre-fratricide-pour-le-pouvoir.html
+!4864110-chiites-sunnites-une-guerre-fratricide-pour-le-pouvoir-.html
+!4864110-chiites-sunnites-une-guerre-fratricide-pour-le-pouvoir.html
 5133728-reunification-des-corees-possible-souhaitable.html
 5163110-chine-quels-defis-pour-les-20-ans-a-venir.html
 5180552-guerre-en-syrie-qui-tire-les-ficelles.html
@@ -80,13 +78,13 @@
 6719912-musees-du-monde-pourquoi-un-tel-succes.html
 6981976-mongolie-victime-de-ses-richesses.html
 7029073-mouvement-scout-un-essor-sans-frontieres.html
-7047581-la-paix-dans-le-monde-une-guerre-de-concepts-.html
-7047581-la-paix-dans-le-monde-une-guerre-de-concepts.html
+!7047581-la-paix-dans-le-monde-une-guerre-de-concepts-.html
+!7047581-la-paix-dans-le-monde-une-guerre-de-concepts.html
 7068101-moscou-ou-bruxelles-quel-avenir-pour-la-moldavie.html
 7086313-presidentielle-americaine-quelle-influence-hispanique.html
 7095603-operations-commandos-anti-terroristes-le-temps-des-guerres-secretes.html
-7128697-birmanie-une-democratie-de-facade-.html
-7128697-birmanie-une-democratie-de-facade.html
+!7128697-birmanie-une-democratie-de-facade-.html
+!7128697-birmanie-une-democratie-de-facade.html
 7148097-ong-vs-multinationales-david-contre-goliath.html
 7167391-paris-2015-un-accord-sur-le-climat-est-il-possible.html
 7206749-venezuela-faillite-d-une-revolution.html

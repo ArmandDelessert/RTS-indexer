@@ -54,12 +54,10 @@
 7511698-haute-definition-du-28-02-2016.html
 7530209-langage-totalitaire-l-inquietude-de-boris-cyrulnik-06-03-2016.html
 7530209-langage-totalitaire-l-inquietude-de-boris-cyrulnik.html
-7530215-haute-definition.html
-7530215-langage-totalitaire-l-inquietude-de-boris-cyrulnik.html
+!7530215-haute-definition.html
+!7530215-langage-totalitaire-l-inquietude-de-boris-cyrulnik.html
 7548954-orient-je-t-aime-moi-non-plus-13-03-2016.html
 7548958-orient-je-t-aime-moi-non-plus.html
-7566884-haiti-ou-l-echec-de-la-politique-internationale-20-03-2016.html
-7566884-haiti-ou-l-echec-de-la-politique-internationale.html
 7566890-haiti-ou-l-echec-de-la-politique-internationale.html
 7585751-vivre-ensemble-les-bons-sentiments-ne-suffisent-pas-27-03-2016.html
 7636598-nuit-debout-et-apres-un-nouveau-monde-est-il-possible-.html

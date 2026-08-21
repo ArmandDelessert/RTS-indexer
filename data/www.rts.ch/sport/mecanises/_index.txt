@@ -16,13 +16,10 @@
 3694551-supercross.html
 3871126-sebastien-loeb-participera-au-rallye-du-chablais.html
 4739219-n-1-gp-d-australie.html
-4763974-n-2-gp-de-malaisie.html
 4763974-n2-gp-de-malaisie.html
 4821616-n-6-gp-de-monaco.html
-4821620-n-7-gp-du-canada.html
 4821620-n7-gp-du-canada.html
 4821636-n-8-gp-de-grande-bretagne.html
-4821642-n-9-gp-d-allemagne.html
 4821642-n9-gp-dallemagne.html
 4821647-n-11-gp-de-belgique.html
 4821649-n-12-gp-d-italie.html

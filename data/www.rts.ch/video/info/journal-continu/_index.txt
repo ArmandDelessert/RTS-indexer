@@ -1,7 +1,6 @@
 ./
 1677709-la-revue-de-presse.html
 1719846-accord-de-double-imposition-la-suisse-et-l-allemagne-ont-signe-vendredi-un-accord-sur-la-double-imposition-les-details-de-l-accord-doivent-etre-devoiles-ulterieurement.html
-1967124-la-chaine-d-information-en-continu-rtsinfo.html
 1967124-la-chaine-d-information-en-continu-rtsinfotv.html
 1967124-rts-info.html
 2485039-la-biographie-de-monseigneur-bernard-genoud-ancien-eveque-du-diocese-de-lausanne-geneve-et-fribourg-decede-le-21-septembre-2010.html

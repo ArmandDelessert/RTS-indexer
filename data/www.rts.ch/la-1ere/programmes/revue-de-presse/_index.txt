@@ -24,8 +24,8 @@
 5935494-par-georges-pop-et-patrick-chaboudez.html
 5939160-par-georges-pop-et-patrick-chaboudez.html
 5941973-par-georges-pop-et-patrick-chaboudez.html
-5946358-la-presse.html
-5946358-par-georges-pop-et-patrick-chaboudez.html
+!5946358-la-presse.html
+!5946358-par-georges-pop-et-patrick-chaboudez.html
 6077778-par-georges-pop-et-patrick-chaboudez-27-08-2014.html
 6588804-par-georges-pop-et-patrick-chaboudez-11-03-2015.html
 6615363-par-georges-pop-et-patrick-chaboudez.html

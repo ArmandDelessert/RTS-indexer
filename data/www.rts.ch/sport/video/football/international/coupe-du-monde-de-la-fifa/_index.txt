@@ -195,8 +195,8 @@
 9687280-resume-de-croatie-danemark-11-32-tab.html
 9689930-18-bresil-mexique-10-51e-neymar.html
 9690016-18-bresil-mexique-20-88e-firmino.html
-9690148-resume-de-bresil-mexique-20.html
-9690148-resume-de-bresil-mexique.html
+!9690148-resume-de-bresil-mexique-20.html
+!9690148-resume-de-bresil-mexique.html
 9690282-18-belgique-japon-01-48e-haraguchi.html
 9690296-18-belgique-japon-02-52e-inui.html
 9690314-18-belgique-japon-12-69e-vertonghen.html

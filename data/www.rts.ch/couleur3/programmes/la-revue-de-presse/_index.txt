@@ -31,10 +31,10 @@
 8630965-la-revue-de-presse.html
 8633835-la-revue-de-presse.html
 8640510-la-revue-de-presse.html
-8643245-la-revue-de-presse-du-mardi-6-juin-2017.html
-8643245-la-revue-de-presse.html
-8647247-la-revue-de-presse-du-mercredi-7-juin-2017.html
-8647247-la-revue-de-presse.html
+!8643245-la-revue-de-presse-du-mardi-6-juin-2017.html
+!8643245-la-revue-de-presse.html
+!8647247-la-revue-de-presse-du-mercredi-7-juin-2017.html
+!8647247-la-revue-de-presse.html
 8650017-la-revue-de-presse.html
 8652296-la-revue-de-presse.html
 8658120-la-revue-de-presse.html

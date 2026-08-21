@@ -16,7 +16,6 @@
 3944784-un-p-tit-tour-chez-vous-2012.html
 3945235-un-p-tit-tour-chez-vous-2011.html
 3945293-apres-le-tour.html
-3954315-sanchez-s-impose-a-la-photo-finish.html
 3954315-sanchez-simpose-a-la-photofinish.html
 4832602-moments-forts-2013.html
 4832609-un-p-tit-tour-chez-vous-2013.html
@@ -41,14 +40,12 @@
 8568376-tour-de-romandie-la-surprise-felline-sadjuge-le-prologue.html
 8570389-tour-de-romandie-pascal-richard-jaurais-pu-gagner-davantage.html
 8571456-tour-de-romandie-la-premiere-etape-vue-par-daniel-atienza.html
-8572857-tour-de-romandie-a-champery-albasini-remporte-son-septieme-succes-.html
 8572857-tour-de-romandie-a-champery-albasini-remporte-son-septieme-succes.html
 8572956-tour-de-romandie-la-2e-etape-vue-par-daniel-atienza.html
 8573118-tour-de-romandie-steve-morabito-un-petit-pincement-au-coeur-de-ne-pas-courir.html
 8574659-tour-de-romandie-le-depart-de-la-2e-etape-se-fera-depuis-aigle.html
 8574731-tour-de-romandie-le-tour-une-aubaine-pour-les-villesetapes.html
 8574958-tour-de-romandie-gilles-pinard-la-voix-du-tour.html
-8575572-tour-de-romandie-stefan-kung-s-impose-avec-panache-a-bulle.html
 8575572-tour-de-romandie-stefan-kung-simpose-avec-panache-a-bulle.html
 8575625-tour-de-romandie-samuel-wyss-danilo-fera-du-velo-tant-quil-aura-du-plaisir.html
 8576605-tour-de-romandie-la-3e-etape-vue-par-daniel-atienza.html
@@ -58,7 +55,6 @@
 8579722-tour-de-romandie-la-4e-etape-vue-par-daniel-atienza.html
 8580556-tour-de-romandie-la-voiturebalai-au-secours-du-peloton.html
 8580926-tour-de-romandie-place-au-chrono-richie-porte-remporte-le-general.html
-8580926-tour-de-romandie-simon-yates-fait-coup-double-chris-froome-craque.html
 8580989-tour-de-romandie-la-5e-etape-vue-par-daniel-atienza.html
 8582043-tour-de-romandie-sponsoriser-le-tour-une-affaire-rentable.html
 8582333-tour-de-romandie-simon-yates-fait-coup-double-chris-froome-craque.html

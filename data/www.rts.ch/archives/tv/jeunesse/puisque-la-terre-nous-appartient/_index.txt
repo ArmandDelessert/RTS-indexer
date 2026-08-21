@@ -1,8 +1,6 @@
 ./
 3452913-pedagogie-ecolo.html
 8142486-papier-recycle.html
-8142535-le-cycle-de-l-eau.html
-8142535-le-cycle-de-leau.html
 8142552-le-role-des-animaux.html
 8142567-preservons-la-nature.html
 8150177-la-vie-de-la-foret.html

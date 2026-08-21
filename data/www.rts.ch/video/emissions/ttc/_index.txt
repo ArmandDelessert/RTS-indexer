@@ -9,8 +9,8 @@
 3781624-sites-de-rencontres-un-business-juteux.html
 3798840-j-ai-tout-perdu-dans-un-incendie.html
 3927163-t-t-c-toutes-taxes-comprises.html
-3959684-le-monde-selon-johnson-l-enseignement-en-video.html
-3959684-le-monde-selon-johnson-l-enseignement-video.html
+!3959684-le-monde-selon-johnson-l-enseignement-en-video.html
+!3959684-le-monde-selon-johnson-l-enseignement-video.html
 3993062-le-patron-de-swisscom-en-direct-dans-ttc.html
 4041719-l-invite-antoine-spillmann-association-swissrespect.html
 4226177-le-palmares-des-jobs-d-ete.html

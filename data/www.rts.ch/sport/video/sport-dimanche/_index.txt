@@ -60,8 +60,6 @@
 10598043-super-league-retour-sur-les-matchs-du-weekend.html
 10610562-football-portrait-de-roy-hodgson.html
 10610564-football-rencontre-avec-les-supporters-suisses-de-liverpool.html
-10623574-course-de-montagne-sierrezinal-maude-mathys-bat-un-nouveau-record.html
-10623574-course-de-montagne-sierrezinal-maude-matis-bat-un-nouveau-record.html
 10623584-football-coupe-de-suisse-de-foot-feminin.html
 10623592-sport-dimanche.html
 10625294-sport-dimanche.html
@@ -202,8 +200,6 @@
 11131894-le-mag-amelie-wengerreymond-la-reine-des-neiges.html
 11149491-formule-1-la-saison-debutera-le-15-mars-avec-le-gp-daustralie.html
 11149493-le-mag-le-sport-infecte.html
-11149509-julien-vauclair-lesprit-dequipe.html
-11149509-le-mag-julien-vauclair-lesprit-dequipe.html
 11166849-le-mag-voyage-au-centre-de-la-tete.html
 11187440-hockey-le-championnat-du-monde-de-hockey-en-suisse-annule.html
 11187446-covid19-comment-les-athletes-gerent-le-confinement.html
@@ -307,8 +303,6 @@
 11703096-hockey-coupe-de-suisse-18e-lausanne-bienne-52.html
 11703098-hockey-coupe-de-suisse-18-kloten-ajoie-13.html
 11703100-hockey-coupe-de-suisse-18e-resumes-et-resultats-des-huitiemes-de-finale.html
-11703112-le-mag-mathilde-gremaud-premiere-dame.html
-11703112-ski-freestyle-portrait-de-la-championne-mathilde-gremaud.html
 11703126-football-christian-constantin-inquiet-pour-la-suite-de-la-saison-de-super-league.html
 11703132-sport-dimanche-251020.html
 11719530-aviron-augustin-maillefer-revient-sur-les-raisons-de-sa-fin-de-carriere.html
@@ -530,8 +524,6 @@
 12792437-hockey-national-league-classement.html
 12792439-hockey-thibault-frossard.html
 12792441-hockey-jeux-olympiques.html
-12792443-le-mag-au-cur-de-la-production-episode-1.html
-12792443-le-mag-au-cur-de-la-production.html
 12792458-tennis-lepilogue-novak-djokovic-pour-lopen-daustralie.html
 12792460-tennis-open-daustralie.html
 12792462-tennis-preparation-de-belinda-bencic-pour-lopen-daustralie.html
@@ -712,8 +704,6 @@
 13306112-sport-dimanche-14082022.html
 13323361-football-coupe-de-suisse-audax-ne-ne-xamax-15.html
 13323363-basket-3x3-portrait-de-markos-michaelides-un-arbitre-genevois-a-la-renommee-internationale.html
-13323371-championnats-europeens-athletisme-la-suisse-portee-par-mujinga-kambundji-sui.html
-13323371-championnats-europeens-athletisme-la-suisse-portee-par-mujinga-kambundji.html
 13323374-championnats-europeens-une-jeune-generation-suisse-decomplexee.html
 13323380-championnats-europeens-une-nouvelle-generation-suisse-tres-prometteuse.html
 13323384-championnats-europeens-bilan-de-la-deuxieme-edition.html
@@ -789,8 +779,6 @@
 13778501-le-mag-les-surs-kambundji.html
 13778519-football-super-league-kevin-mbabu-sur-le-point-de-signer-a-servette.html
 13778535-sport-dimanche-12022023.html
-13816912-christian-constantin-confirme-son-desengagement-du-fc-sion-en-juin-2024.html
-13816912-lenquete-autour-du-fc-sion-et-de-son-president-christian-constantin-bluff-ou-encore.html
 13855088-le-mag-le-revers-de-la-medaille.html
 13855092-sport-dimanche-12032023.html
 13874979-ski-alpin-marco-odermatt-simpose-lors-du-geant-des-finales-de-coupe-du-monde-de-soldeu-et-bat-le-record-de-points-dhermann-maier.html
@@ -1183,8 +1171,6 @@
 9799472-vtt-coupe-du-monde.html
 9799474-formule-1-gp-de-belgique.html
 9799478-golf-european-masters-cransmontana.html
-9799480-tennis-us-open-roger-federer-a-linterview-avant-dentamer-sa-quinzaine-a-newyork.html
-9799480-tennis-us-open.html
 9799482-basketball-3x3-world-tour-lausanne.html
 9799484-football-conference-de-presse-de-vladimir-petkovic-et-programme-de-lequipe-de-suisse.html
 9799488-football-super-league-grasshopper-sion-21.html

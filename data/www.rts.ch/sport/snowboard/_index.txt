@@ -12,7 +12,6 @@
 11883583-snowboard-julie-zogg-prend-la-3e-place.html
 11891964-snowboard-julie-zogg-au-pied-du-podium.html
 11920026-mondiaux-de-freestyle-les-epreuves-paralleles-en-slovenie.html
-11935784-ski-freestyle-un-3e-sacre-pour-mathilde-gremaud-aux-x-games.html
 11935784-ski-freestyle-un-3e-sacre-pour-mathilde-gremaud-aux-xgames.html
 11938211-ski-freestyle-andri-ragettli-decroche-lor-aux-xgames.html
 11955671-snowboard-julie-zogg-ouvre-son-compteur.html
@@ -49,12 +48,9 @@
 14630483-snowboard-julie-zogg-une-fois-encore-chocolat.html
 14639137-snowboard-les-finales-sans-participant-suisse.html
 14658820-snowboard-chloe-kim-senvole-au-7e-ciel-aux-x-games.html
-14660464-ski-freestyle-sarah-hofflin-en-bronze-aux-x-games.html
 14660464-ski-freestyle-sarah-hofflin-en-bronze-aux-xgames.html
 9287278-ski-freestyle-un-succes-en-big-air-pour-sarah-hofflin.html
-9287829-snowboard-freestyle-fracture-du-nez-pour-iouri-podlatchikov.html
 9287829-snowboard-freestyle-fracture-du-nez-pour-podladtchikov.html
-9287829-snowboard-freestyle-fracture-du-nez-pour-youri-podlatchikov.html
 9352565-pyeongchang-2018-snowboard-un-premier-suisse-en-finale-du-big-air.html
 9361536-pyeongchang-2018-snowboard-ledecka-en-or-en-snow-apres-son-titre-en-superg-alpin.html
 9361694-pyeongchang-2018-snowboard-avec-son-titre-nevin-galmarini-offre-une-15e-medaille-a-la-suisse.html

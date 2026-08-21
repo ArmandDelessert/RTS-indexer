@@ -8,8 +8,6 @@
 5410000-jouets-par-milliers.html
 6812798-le-pave-au-chocolat.html
 6812812-cuisine-roborative.html
-6895230-tout-pour-le-pique-nique.html
-6895230-tout-pour-le-piquenique.html
 6909450-gestes-beaute.html
 7211015-la-laque-un-produit-moderne.html
 7213410-a-la-boucherie.html
@@ -17,13 +15,9 @@
 7461009-on-ne-sait-jamais.html
 7561365-plateau-repas-allege.html
 7561386-votre-couleur-votre-style.html
-7599838-comment-repasser-une-chemise-.html
-7599838-comment-repasser-une-chemise.html
 7599852-les-tissus-synthetiques.html
 7622515-un-si-joli-marche.html
 7631899-dessert-a-la-rhubarbe.html
-7642345-des-parias.html
-7642345-les-vieux-des-parias.html
 7692818-lalu-a-tout-pour-plaire.html
 9259411-rationalisez-mesdames.html
 9262256-des-legumes-de-saison.html

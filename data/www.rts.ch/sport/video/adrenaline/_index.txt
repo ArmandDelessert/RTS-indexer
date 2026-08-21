@@ -126,17 +126,7 @@
 12519199-news-uci-bike-world-cup.html
 12519209-adrenaline-2021-31.html
 12537044-adrenaline-2021-32.html
-12554100-adrenaline-2021-32.html
-12554100-adrenaline-2021-33.html
-12570803-adrenaline-2021-33.html
-12570803-adrenaline-2021-34.html
-12588127-adrenaline-2021-34.html
-12588127-adrenaline-2021-35.html
-12604428-adrenaline-2021-35.html
-12604428-adrenaline-2021-36.html
 12621791-adrenaline-2021-37.html
-12638830-adrenaline-2021-36.html
-12638830-adrenaline-2021-38.html
 12656807-adrenaline-2021-39.html
 12680080-adrenaline-2021-40.html
 12729754-adrenaline-2021-41.html
@@ -210,8 +200,6 @@
 14443182-adrenaline-2023-36.html
 14461750-aventure-gets-spicy-in-chile-ep2.html
 14461752-adrenaline-2023-37.html
-14479758-adrenaline-18112023.html
-14479758-adrenaline-2023-38.html
 14499033-news-uci-pump-track-world.html
 14499041-adrenaline-2023-39.html
 14521525-adrenaline-2023-40.html

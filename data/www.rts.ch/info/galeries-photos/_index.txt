@@ -23,7 +23,6 @@
 3900981-ursula-meier-bio-et-filmographie.html
 3917555-les-dissidents-chinois-condamnes.html
 3922144-les-recentes-plus-grosses-ventes-d-artistes-suisses.html
-3923018-les-photos-d-epoque-du-titanic.html
 3923018-les-photos-depoque-du-titanic.html
 3925926-la-chronologie-en-images-de-la-tuerie-en-norvege-du-22-juillet-2011-et-des-evenements-qui-ont-suivi.html
 3964250-les-tableaux-les-plus-chers-de-lhistoire.html
@@ -45,7 +44,6 @@
 4125348-roger-federer-dans-l-histoire-de-wimbledon.html
 4137040-plongee-en-images-au-coeur-de-la-lake-parade-genevoise.html
 4158663-jo-de-londres-2012-preparatifs-insolites.html
-4160012-les-medailles-helvetiques-les-plus-celebres-depuis-1984-aux-jeux-olympiques-d-ete.html
 4160012-les-medailles-helvetiques-les-plus-celebres-depuis-1984-aux-jeux-olympiques-dete.html
 4172023-les-images-marquantes-du-1er-aout.html
 4180865-curiosity-de-la-conception-a-l-amarssissage.html
@@ -59,10 +57,8 @@
 4262760-la-traque-contre-alqaida-en-images.html
 4333535-les-dix-derniers-cuisiniers-de-lannee-du-gaultmillau-suisse.html
 4345161-retour-sur-la-construction-europeenne.html
-4386862-24-heures-a-youngstown-apercu-et-ambiance-dans-le-centre-ville-de-youngstown.html
 4386862-24-heures-a-youngstown-apercu-et-ambiance-dans-le-centreville-de-youngstown.html
 4386907-24-heures-a-youngstown-une-association-pour-sauver-les-premieres-cites-ouvrieres-de-l-histoire.html
-4387705-24-heures-a-youngstown-durant-l-entrainement-de-football-americain.html
 4387705-24-heures-a-youngstown-durant-lentrainement-de-football-americain.html
 4390641-les-effets-de-louragan-sandy.html
 4408194-l-election-presidentielle-americaine-en-images.html
@@ -76,7 +72,6 @@
 4469598-la-neige-tombe-sur-la-suisse.html
 4481097-les-neuf-udc-devenus-presidents-de-la-confederation.html
 4483907-florilege-de-photos-marquantes-dueli-maurer.html
-4486638-les-principales-creations-de-l-architecte-oscar-niemeyer.html
 4486638-les-principales-creations-de-larchitecte-oscar-niemeyer.html
 4489384-les-grandes-rencontres-francosuisses.html
 4527666-les-anciens-secretaires-d-etat-americains.html
@@ -128,7 +123,6 @@
 5255354-administrations-federales-americaines-qui-reste-ouvert-qui-ferme.html
 5281361-les-nobel-de-litterature-du-xxie-siecle.html
 5284366-les-prix-nobel-de-la-paix-en-images.html
-5297660-les-11-candidats-au-2e-tour-du-conseil-d-etat-genevois.html
 5297660-les-11-candidats-au-2e-tour-du-conseil-detat-genevois.html
 5319768-les-albums-dasterix-et-leur-signification.html
 5351311-les-dix-sites-les-plus-pollues-au-monde.html
@@ -140,8 +134,7 @@
 5379247-les-celebres-assassinats-politiques.html
 5509121-un-froid-intense-frappe-les-etatsunis.html
 5560375-la-victoire-de-stan-wawrinka-en-australie.html
-5583690-les-a-cotes-des-jeux-de-sotchi.html
-5583690-sotchi-les-a-cotes-anecdotiques.html
+5583690-les-acotes-des-jeux-de-sotchi.html
 5635729-les-images-marquantes-de-la-crise-ukrainienne.html
 5636372-les-photos-de-la-residence-du-president-ukrainien.html
 5668936-le-memorial-du-massacre-dutoya-devoile.html
@@ -166,11 +159,9 @@
 5958469-les-meilleurs-detournements-web-de-la-morsure-de-suarez.html
 5960209-manaus-lieu-du-match-suissehonduras-en-images.html
 5963095-graphiques-la-taille-des-joueurs-de-l-equipe-suisse-de-football.html
-5974051-sao-paulo-lieu-du-match-suisse-argentine-en-images.html
 5974051-sao-paulo-lieu-du-match-suisseargentine-en-images.html
 5984923-la-passerelle-de-corbassiere-vs-inauguree.html
 6035815-festival-du-film-de-locarno-les-images-marquantes.html
-6068022-raymond-burki-en-cinq-dessins-a-l-occasion-de-la-fin-de-sa-collaboration-avec-24heures.html
 6068022-raymond-burki-en-cinq-dessins-a-loccasion-de-la-fin-de-sa-collaboration-avec-24heures.html
 6079721-lantenne-radio-de-sottens-a-ete-dynamitee.html
 6092539-les-photos-de-sotchi-six-mois-apres-les-jeux-olympiques-de-russie.html

@@ -29,8 +29,6 @@
 4281008-brissago.html
 4498853-cabane-de-demain.html
 4939195-et-coule-la-riviere.html
-4961206-noel-aux-tisons.html
-4961206-paques-aux-tisons.html
 6999706-biennebiel.html
 7016128-refuge-pour-grands-fauves.html
 7220391-le-suisse-de-palawan.html
@@ -38,13 +36,7 @@
 7651053-le-clippage.html
 8315983-bas-les-masques.html
 8365640-la-luge-artisanale.html
-8661910-l-hotel-schwarenbach.html
-8661910-lhotel-schwarenbach.html
 8662088-bellevue-des-alpes.html
-8665955-l-hotel-weisshorn.html
-8665955-lhotel-weisshorn.html
-8767829-l-ile-jura.html
-8767829-lile-jura.html
 9051016-coup-de-chaud-sur-la-banquise.html
 9063756-menace-sur-le-corail.html
 9063764-alerte-a-la-foret.html

@@ -36,8 +36,6 @@
 3447772-la-mort-de-piaf.html
 3447780-cette-fameuse-riviere.html
 3449122-et-alors.html
-3449131-l-automate.html
-3449131-lautomate.html
 3449161-monsieur-haller.html
 3460040-la-cabine-telephonique.html
 3460047-monsieur-elvis.html
@@ -51,8 +49,6 @@
 3460704-quincy-jones.html
 3465842-le-chic-parisien.html
 3465854-balade-a-paris.html
-3468063-confidences.html
-3468063-leo-ferre.html
 4052525-piano-seven.html
 4976796-caporal-schnyder.html
 5221527-raynaud-et-morisod.html
@@ -60,8 +56,6 @@
 5855106-charles-aznavour.html
 6003157-pierrick-un-garcon-heureux.html
 6349631-une-chanson-controversee.html
-6369624-trop-long-.html
-6369624-trop-long.html
 6786256-chanson-gagnante.html
 7985201-la-nuit-etoilee.html
 8062063-le-blues-du-businessman.html

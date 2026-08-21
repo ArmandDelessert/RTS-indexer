@@ -1,6 +1,4 @@
 ./
-13032785-andre-franquin-l-oeuvre-d-un-genie-de-la-bande-dessinee-disparu-il-y-a-25-ans.html
-13032785-andre-franquin-loeuvre-dun-genie-de-la-bande-dessinee-disparu-il-y-a-25-ans.html
 4217862-teaser-vertigo-23-08-2012.html
 4244184-helene-becquelin-angry-mum-14-09-2012.html
 4273850-un-journaliste-sur-la-scene-de-crime.html
@@ -385,8 +383,6 @@
 7541856-marc-levy-auteur-17-03-2016.html
 7541857-musique-stephanie-blanchoud-une-voie-entre-folk-et-pop-17-03-2016.html
 7541858-vertigo-du-17-03-2016.html
-7543384-l-entrevue-de-la-mort-qui-tue.html
-7543384-les-entrevues-de-la-mort-qui-tue.html
 7544759-balthazar-lovay-directeur-artistique-de-fri-art-18-03-2016.html
 7544767-vertigo-du-18-03-2016.html
 7551355-vertigo-du-21-03-2016.html

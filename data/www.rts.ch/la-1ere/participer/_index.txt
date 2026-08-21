@@ -20,11 +20,11 @@
 8659763-ete-2017-les-dicodeurs-a-lausanne-jeudi-22-juin-a-13h00.html
 8666661-ete-2017-les-dicodeurs-a-lausanne-mardi-27-juin-a-13h00.html
 8666677-complet-ete-2017-les-dicodeurs-a-lausanne-mercredi-28-juin-a-13h00.html
-8667039-complet-ete-2017-les-dicodeurs-a-lausanne-lundi-3-juillet-a-13h00.html
-8667039-complet-ete-2017-les-dicodeurs-a-lausanne-lundi-3-juilleta-13h00.html
-8667040-complet-ete-2017-les-dicodeurs-a-lausanne-mardi-4-juilleta-13h00.html
-8667040-ete-2017-les-dicodeurs-a-lausanne-mardi-4-juillet-a-13h00.html
-8667040-ete-2017-les-dicodeurs-a-lausanne-mardi-4-juilleta-13h00.html
+!8667039-complet-ete-2017-les-dicodeurs-a-lausanne-lundi-3-juillet-a-13h00.html
+!8667039-complet-ete-2017-les-dicodeurs-a-lausanne-lundi-3-juilleta-13h00.html
+!8667040-complet-ete-2017-les-dicodeurs-a-lausanne-mardi-4-juilleta-13h00.html
+!8667040-ete-2017-les-dicodeurs-a-lausanne-mardi-4-juillet-a-13h00.html
+!8667040-ete-2017-les-dicodeurs-a-lausanne-mardi-4-juilleta-13h00.html
 8759123-les-dicodeurs-a-morges.html
 8759146-les-dicodeurs-a-pringy.html
 8759173-complet-les-dicodeurs-a-sion.html

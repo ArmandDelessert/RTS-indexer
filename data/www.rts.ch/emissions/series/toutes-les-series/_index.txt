@@ -8,8 +8,8 @@
 3871902-boardwalk-empire.html
 4087345-l-heure-du-secret.html
 4201720-the-mentalist.html
-4235151-borgen-une-femme-au-pouvoir.html
-4235151-borgen.html
+!4235151-borgen-une-femme-au-pouvoir.html
+!4235151-borgen.html
 4265809-homeland.html
 4283959-ainsi-soient-ils.html
 4365260-the-good-wife.html
@@ -28,9 +28,9 @@
 4647026-heartland.html
 4652540-mad-men.html
 4684159-blue-bloods.html
-4684203-hawaii-five-0.html
-4684203-hawaii-five-o.html
-4684203-special-hawaii-five-0.html
+!4684203-hawaii-five-0.html
+!4684203-hawaii-five-o.html
+!4684203-special-hawaii-five-0.html
 4684205-the-walking-dead.html
 4684447-ncis-enquetes-speciales.html
 4684478-flashpoint.html
@@ -64,8 +64,8 @@
 5818345-resistance.html
 5833144-house-of-lies.html
 5878686-new-girl.html
-5899899-bron-broen-the-bridge.html
-5899899-bron-broen.html
+!5899899-bron-broen-the-bridge.html
+!5899899-bron-broen.html
 5971255-the-blacklist.html
 6025141-raising-hope.html
 6025157-the-knick.html

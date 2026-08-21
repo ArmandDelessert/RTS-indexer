@@ -85,8 +85,6 @@
 4400192-la-nouvelle-serie-de-canal-les-revenants-est-presentee-a-geneve-au-festival-tous-ecrans-entretien-avec-fabrice-gobert-le-realisateur-et-l-un-des-acteurs-frederic-pierrot.html
 4434864-minimag-deux-fribourgeoises-montent-une-exposition-sur-la-litterature.html
 4461385-l-invite-culturel-la-chanteuse-de-jazz-helvetico-albanaise-elina-duni-nous-presente-son-nouvel-album-matane-malit.html
-4473023-l-invite-culturel-jenny-sigot-muller-interprete-et-auteure-nous-parle-de-son-livre-entre-deux-voix.html
-4473023-l-invitee-culturelle-jenny-sigot-muller-interprete-de-conference-et-auteure-nous-parle-de-son-livre-entre-deux-voix.html
 4484649-minimag-des-sportifs-tres-a-droits-une-bd-realisee-par-le-dessinateur-trinco.html
 4524368-au-pakistan-neuf-personnes-participant-a-une-campagne-de-vaccination-contre-la-poliomyelite-ont-ete-assassinees-cette-semaine.html
 4568111-retour-sur-le-parcours-de-claude-nobs.html
@@ -175,8 +173,6 @@
 5597178-les-resultats-partiels-des-votations-cantonales-a-geneve-fribourg-et-dans-les-grisons.html
 5600179-le-resume-de-l-actualite-sportive-les-jo-de-sotchi.html
 561389-interview-de-selim-matar-ecrivain-irakien-au-sujet-de-la-situation-actuelle-en-irak.html
-5613890-initiative-anti-immigration-discussions-sur-les-mesures-a-prendre.html
-5613890-initiative-anti-immigration-les-mesures-futures-sont-discutees.html
 5637909-jo-de-sotchi-defaite-de-dario-cologna-en-ski-de-fond-les-precisions-de-jean-marc-rossier.html
 5637915-jo-de-sotchi-ski-de-fond-dario-cologna-fait-redecouvrir-le-ski-de-fond-a-la-suisse-romande.html
 5637927-jo-de-sotchi-ski-de-fond-dario-cologna-a-encore-echoue-a-l-epreuve-du-50-kilometres.html
@@ -188,8 +184,6 @@
 5723389-minimag-les-ponts-des-alpes-valaisannes-symboles-nationaux.html
 5723391-hockey-les-lausannois-echouent-au-septieme-match.html
 5723395-noel-antonini-lance-son-premier-one-man-show.html
-5723397-tennis-wawrinka-sort-contre-doglopolov.html
-5723397-tennis-wawrinka-sort-contre-dolgopolov.html
 5726336-vd-construction-d-une-piscine-et-d-une-patinoire-a-lausanne-le-point-avec-carole-pantet.html
 5738435-vd-le-sommet-mondial-des-matieres-premieres-a-cree-une-manifestation.html
 5756769-vs-un-centre-de-securite-biometrique-ouvre-ses-portes.html
@@ -255,8 +249,6 @@
 6107912-selon-la-declaration-de-berne-db-il-manque-en-suisse-une-autorite-chargee-de-reguler-le-secteur-des-matieres-premieres.html
 6107914-irak-l-armee-regagne-du-terrain-dans-le-nord-du-pays-grace-au-soutien-americain.html
 611379-france-veronique-courjault-avoue-avoir-perpetre-un-3e-infanticide.html
-6163673-l-invitee-culturelle-camille-morineau-presente-l-exposition-niki-de-saint-phalle-sous-toutes-ses-coutures.html
-6163673-l-invitee-culturelle-camille-morino-presente-l-exposition-niki-de-saint-phalle-sous-toutes-ses-coutures.html
 6172900-les-invites-culturels-genevieve-pasquier-et-nicolas-rossier-co-directeurs-du-theatre-des-osses-a-givisiez-fr.html
 618620-commission-bergier-retour-sur-dix-ans-d-histoire.html
 6196530-assemblee-generale-de-l-asin-les-precisions-de-jean-marc-heuberger-a-winterthour.html

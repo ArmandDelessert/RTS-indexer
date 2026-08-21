@@ -66,8 +66,8 @@
 5935498-pierre-han-choffat-un-faux-pas-politique.html
 5939166-yves-terrani-l-esprit-de-clocher.html
 5941971-signature.html
-5946352-andre-beaud-les-100-ans-de-l-assassinat-de-sarajevo.html
-5946352-signature.html
+!5946352-andre-beaud-les-100-ans-de-l-assassinat-de-sarajevo.html
+!5946352-signature.html
 5964044-pierre-han-choffat-le-rempart-de-l-integration-04-07-2014.html
 6165116-pietro-bugnon-300-millions-pour-des-elastiques-de-jambes.html
 6274834-esther-coquoz-lutter-contre-ebola-une-priorite-aussi-pour-la-securite-nationale.html
@@ -105,8 +105,8 @@
 7544236-roger-guignard-internement-a-vie-un-choix-dechirant.html
 7550848-marie-giovanola-aide-au-suicide-le-libre-choix-individuel-avant-tout-14-03-2016.html
 7550866-marie-giovanola-aide-au-suicide-le-libre-choix-individuel-avant-tout.html
-7553642-laetitia-guinand-au-pas-les-partis.html
-7553642-signature.html
+!7553642-laetitia-guinand-au-pas-les-partis.html
+!7553642-signature.html
 7556966-thibaut-schaller-adoption-pour-les-couples-homosexuels-l-arbre-qui-cache-la-foret.html
 7559746-ludovic-rocchi-une-transparence-de-facade-17-03-2016.html
 7559763-ludovic-rocchi-une-transparence-de-facade.html

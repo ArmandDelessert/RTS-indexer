@@ -218,15 +218,11 @@
 3979140-rapport-annuel-sur-la-securite-la-menace-islamiste-pese-surtout-sur-les-interets-helvetiques-a-l-etranger.html
 3979143-les-suisses-se-deplacent-de-plus-en-plus-et-les-distances-parcourues-en-transports-publics-sont-toujours-plus-grandes.html
 3982061-accord-fiscal-entre-la-suisse-et-l-italie-rome-s-interesse-a-la-formule-de-l-impot-liberatoire-pour-enterrer-la-hache-de-guerre-fiscale-entre-les-deux-pays.html
-3982064-le-conseil-federal-souhaite-que-tous-les-menages-et-entreprises-sauf-certaines-exceptions-paient-la-redevance-radio-tv.html
-3982064-le-conseil-federal-souhaite-que-tous-les-menages-et-entreprises-sauf-certaines-execeptions-paie-la-redevance-radio-tv.html
 3982067-le-conseiller-federal-johann-schneider-ammann-aurait-propose-un-homme-venant-de-sa-propre-entreprise-au-poste-de-secretaire-d-etat-les-explications-de-pierre-gobet-chef-rubrique-politique.html
 3982069-19-30-le-journal.html
 3982072-un-animal-inconnu-a-ete-observe-dans-une-foret-au-nord-est-de-soleure.html
 3982075-la-suisse-est-un-des-pays-les-plus-touches-par-le-melanome-malin.html
 3982078-en-france-le-gouvernement-de-francois-fillon-tenait-son-dernier-conseil-des-ministres.html
-3982081-le-conseil-federal-propose-de-rejeter-l-initiative-contre-les-chauffards-lancee-par-roadcross.html
-3982081-le-conseil-federal-propose-de-rejetter-l-initiative-contre-les-chauffards-lancee-par-roadcross.html
 3982084-les-services-de-renseignements-americains-ont-dejoue-un-attentat-qui-visait-un-avion-commercial-a-destination-des-etats-unis.html
 3982087-des-representants-du-personnel-de-merck-serono-du-site-de-geneve-se-sont-rendus-a-darmstadt-allemagne-ou-se-situe-le-siege-de-l-entreprise.html
 3982090-prevention-du-melanome-malin-entretien-avec-philippe-levy-dermatologue.html
@@ -447,8 +443,6 @@
 5616536-j-o-sotchi-sandro-viletta-et-selina-gasparin-ont-recu-leur-or-et-leur-argent.html
 5616538-j-o-sotchi-le-president-valdimir-poutine-est-venu-saluer-le-conseiller-federal-ueli-maurer.html
 5621162-gel-du-programme-erasmus-les-etudiants-se-posent-des-questions.html
-5647258-de-nombreux-artistes-et-scientifiques-sont-sujets-a-la-synesthesie.html
-5647258-la-synesthesie-lorsque-les-chiffres-deviennent-des-couleurs.html
 5647969-vote-du-9-fevrier-le-programme-erasmus-sera-gele-pour-les-suisses-des-la-rentree-2014.html
 5672673-la-chronique-du-cineaste-revient-sur-la-crise-politique-en-ukraine.html
 5678587-l-editeur-de-la-weltwoche-est-inspire-par-les-votations-du-9-fevrier.html
@@ -480,8 +474,6 @@
 5960774-ge-la-marche-des-salopes-a-depose-des-plaintes-symboliques-de-femmes-victimes-de-harcelement.html
 5960778-ge-le-ministere-public-a-annonce-la-remise-en-liberte-de-dominique-giroud-et-de-ses-3-complices.html
 5960780-le-ministre-francais-des-finances-michel-sapin-a-rencontre-son-homologue-eveline-widmer-schlumpf-a-berne.html
-5963600-coupe-du-monde-le-portugal-s-est-impose-face-au-ghana-2-1-et-l-allemagne-face-aux-etats-unis-1-0.html
-5963600-coupe-du-monde-le-portugal-s-est-oppose-au-ghana-2-1-et-l-allemagne-aux-etats-unis-1-0.html
 5963602-nouvo-les-taxis-uber-se-repandent-en-suisse.html
 5963604-la-succession-d-yvan-perrin-se-precise.html
 5963608-coupe-du-monde-victoire-suisse-les-precisions-de-michel-pont-entraineur-adjoint-equipe-de-suisse.html

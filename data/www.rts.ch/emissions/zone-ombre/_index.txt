@@ -1,8 +1,8 @@
 ./
 1755696-les-massacres-de-l-ots.html
 1755826-l-affaire-luca.html
-2468682-l-affaire-fluckiger.html
-2468682-zone-d-ombre.html
+!2468682-l-affaire-fluckiger.html
+!2468682-zone-d-ombre.html
 3061866-l-affaire-thomas-f.html
 3543115-affaire-magalie.html
 4733087-affaire-luca-et-si-ce-n-etait-pas-le-chien.html

@@ -10,7 +10,7 @@
 4827530-les-combattants-de-la-paix.html
 5159088-le-combat-des-chretiens-du-levant.html
 6186302-au-dela-de-la-cible.html
-6389863-f-w-de-klerk-dans-l-ombre-de-mandela.html
-6389863-fw-de-klerk-dans-lombre-de-mandela.html
+!6389863-f-w-de-klerk-dans-l-ombre-de-mandela.html
+!6389863-fw-de-klerk-dans-lombre-de-mandela.html
 7068040-memento-mori.html
 7485083-crucifixion-le-scandale-sacre.html

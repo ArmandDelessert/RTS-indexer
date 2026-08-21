@@ -5,7 +5,6 @@
 10450161-europa-league-larmenien-mkhitaryan-ne-participera-pas-a-la-finale.html
 10470189-europa-league-chelsea-sacre-face-a-arsenal.html
 10602421-europa-league-lucerne-doit-finir-le-travail.html
-10606131-europa-league-lucerne-continue-sa-route-une-premiere-depuis-1992.html
 10606131-europa-league-lucerne-passe-un-tour-une-premiere-depuis-1992.html
 10636530-europa-league-lucerne-et-thoune-en-facheuse-posture.html
 10639133-europa-league-thoune-et-lucerne-en-ont-deja-fini-avec-leurope.html
@@ -47,7 +46,6 @@
 3425282-zurich-doit-faire-mieux-en-europe-quen-suisse.html
 3428690-zurich-termine-a-10-et-ramene-1-point-de-roumanie.html
 3524293-le-nouveau-dilemme-durs-fischer.html
-3526694-le-fcz-peut-continuer-d-y-croire.html
 3526694-le-fcz-peut-continuer-dy-croire.html
 4285453-martin-rueda-tout-sera-possible.html
 4288779-yb-en-prend-cinq-face-a-un-liverpool-light.html
@@ -60,13 +58,10 @@
 4662082-1-16.html
 4679973-bale-plie-mais-ne-rompt-pas-en-ukraine-ce-sera-le-zenit-en-8es.html
 4717537-le-moral-du-fc-bale-est-au-zenith.html
-4718308-1-8.html
 4718308-18.html
 4736272-face-au-zenit-bale-visera-le-grand-huit.html
 4739827-grace-a-son-gardien-bale-evite-lexecutionsommer.html
-4794219-1-4.html
 4794219-14.html
-4812500-historique-fc-bale-.html
 4812500-historique-fc-bale.html
 4814691-europa-league-bale-herite-du-champion-chelsea-en-demi-finale.html
 4849432-le-fc-bale-pret-pour-reussir-l-exploit.html
@@ -85,7 +80,6 @@
 5650728-jubile-europeen-victorieux-pour-le-fc-bale.html
 5688731-1-8.html
 5745213-le-fc-bale-n-a-pas-eu-peur-du-vide-contre-valence.html
-5745567-1-4.html
 5745567-14.html
 5798335-1-2.html
 5849774-finale.html
@@ -102,7 +96,6 @@
 7036093-europa-league-sion-face-a-liverpool-et-bordeaux-bale-affrontera-la-fiorentina-de-son-excoach.html
 7094504-phase-de-groupes-2015-16.html
 7133200-europa-league-les-valaisans-font-chavirer-anfield.html
-7480042-europa-league-bale-sans-supporters-a-st-etienne.html
 7480042-europa-league-bale-sans-supporters-a-stetienne.html
 7558809-europa-league-le-fc-bale-se-frotte-au-double-tenant-du-titre.html
 7561615-europa-league-bale-ne-parvient-pas-a-faire-plier-seville.html
@@ -113,18 +106,14 @@
 7632080-1-4.html
 7646406-europa-league-un-choc-au-sommet-qui-promet.html
 7649002-europa-league-liverpool-elimine-dortmund-au-terme-d-un-match-fou.html
-7650479-liverpool-on-s-est-battus-comme-des-diables-un-peu-chanceux-egalement.html
 7650479-liverpool-on-sest-battus-comme-des-diables-un-peu-chanceux-egalement.html
 7651070-europa-league-shakhtar-donetsk-sevilla-et-villarreal-liverpool.html
 7679567-1-2.html
 7682524-europa-league-deux-affiches-prometteuses-en-demies.html
-7683755-europa-league-villarreal-decroche-une-victoire-a-l-arrache.html
 7683755-europa-league-villarreal-decroche-une-victoire-a-larrache.html
-7699139-europa-league-les-espagnols-peuvent-rever-d-une-finale-100-iberique.html
 7699139-europa-league-les-espagnols-peuvent-rever-dune-finale-100-iberique.html
 7701592-europa-league-liverpool-coule-le-sous-marin-jaune-villarreal.html
 7729538-europa-league-klopp-peut-entrer-dans-l-histoire.html
-7732295-europa-league-seville-reussit-un-hat-trick-historique.html
 7732295-europa-league-seville-reussit-un-hattrick-historique.html
 7879495-europa-league-une-rentree-europeenne-riche-en-buts-pour-gc.html
 7893416-europa-league-gc-franchit-lecueil-islandais.html
@@ -144,7 +133,6 @@
 8139950-europa-league-zurich-se-contente-dun-nul-face-au-steaua.html
 8187948-europa-league-yb-et-zurich-doivent-absolument-gagner.html
 8225475-europa-league-le-fc-zurich-pour-marquer-lhistoire.html
-8228583-europa-league-l-aventure-europeenne-du-fc-zurich-prend-fin.html
 8228583-europa-league-laventure-europeenne-du-fc-zurich-prend-fin.html
 8228587-europa-league-yb-quitte-l-europe-sur-une-bonne-note.html
 8394261-europa-league-zlatan-ibrahimovic-met-manchester-united-sur-orbite.html
@@ -153,7 +141,6 @@
 8414392-europa-league-le-voeu-de-jose-mourinho-pas-exauce.html
 8591220-europa-league-lajax-mange-du-lyon-et-peut-entrevoir-la-finale.html
 8595064-europa-league-manchester-united-prend-une-option.html
-8614149-europa-league-manchester-united-a-rendez-vous-avec-l-ajax.html
 8614149-europa-league-manchester-united-a-rendezvous-avec-lajax.html
 8647954-europa-league-manchester-united-domine-lajax-et-accede-a-la-cl.html
 8775766-europa-league-lucerne-tres-mal-embarque.html
@@ -170,11 +157,9 @@
 8841728-ligue-des-champions-yb-encore-face-a-un-club-de-lest.html
 8843908-ligue-des-champions-young-boys-se-saborde-a-la-91e-minute.html
 8864676-europa-league-lajax-sorti-par-rosenborg.html
-8866208-europa-league-yb-retrouve-kiev-lugano-herite-du-steaua.html
 8866208-europa-league-yb-retrouvera-kiev-lugano-herite-du-steaua.html
 8916404-europa-league-young-boys-favori-lugano-outsider.html
 8919605-europa-league-entame-ratee-pour-yb-et-lugano.html
-8919605-europa-league-young-boys-contraint-au-nul.html
 8920215-europa-league-arsenalcologne-decale-dune-heure-pour-la-securite-du-public.html
 9048183-europa-league-yb-pour-une-premiere-victoire-lugano-face-a-un-gros-defi.html
 9052391-europa-league-yb-ne-repond-pas-aux-attentes-face-au-dynamo-kiev.html
@@ -184,7 +169,6 @@
 9109091-europa-league-un-match-decisif-pour-young-boys.html
 9112091-europa-league-une-victoire-qui-ne-suffira-pas-pour-lugano.html
 9112162-europa-league-les-espoirs-bernois-aneantis-a-belgrade.html
-9112172-europa-league-logc-nice-de-favre-passera-lhiver-au-chaud.html
 9112172-europa-league-nice-et-milan-qualifies-rodriguez-buteur.html
 9150294-europa-league-des-matches-sans-enjeu-pour-yb-et-lugano.html
 9152331-europa-league-yb-simpose-au-finish.html
@@ -206,7 +190,6 @@
 9542722-europa-league-latletico-madrid-et-marseille-ont-rendezvous-a-lyon.html
 9547857-premier-league-arsene-wenger-salue-par-le-public-des-gunners.html
 9571587-europa-league-un-2e-trophee-majeur-pour-lom.html
-9575475-europa-league-l-atletico-madrid-sacre.html
 9575475-europa-league-latletico-madrid-sacre.html
 9737547-europa-league-marseille-menace-dexclusion-par-luefa.html
 9739585-europa-league-stgall-renverse-une-situation-mal-embarquee.html

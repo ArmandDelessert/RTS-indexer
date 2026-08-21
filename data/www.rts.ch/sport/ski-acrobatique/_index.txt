@@ -1,6 +1,5 @@
 ./
 10835616-ski-freestyle-double-suisse-chez-les-dames-andri-ragettli-3e.html
-10835616-ski-freestyle-double-suisse-chez-les-dames-andri-ragletti-3e.html
 10961820-ski-freestyle-double-suisse-en-big-air-a-atlanta.html
 11004559-ski-freestyle-tanno-2e-et-hofflin-3e-en-slopestyle-a-font-romeu.html
 11095451-ski-freestyle-ragettli-vainqueur-gremaud-2e-a-calgary.html
@@ -11,9 +10,7 @@
 11901166-ski-freestyle-noe-roth-sur-le-podium-en-russie.html
 12002942-ski-freestyle-pas-de-mondiaux-pour-fabian-bosch-blesse-a-la-clavicule.html
 12037401-ski-freestyle-la-suisse-decroche-la-medaille-dargent-en-equipes-mixtes-en-aerials.html
-12037401-ski-freestyle-la-suisse-decroche-la-medaille-dargent-en-equipes-mixtes.html
 12038576-ski-freestyle-sarah-hofflin-victime-dune-chute-lors-des-mondiaux-a-aspen.html
-12038576-ski-freestyle-sarah-hofflin-victime-dune-chute.html
 12041404-ski-freestyle-porteus-champion-du-monde-de-halfpipe-kreienbuhl-bon-6e.html
 12042328-ski-freestyle-double-suisse-a-almaty-en-aerials.html
 12043001-ski-freestyle-ragettli-sur-le-toit-du-monde-gremaud-en-argent.html
