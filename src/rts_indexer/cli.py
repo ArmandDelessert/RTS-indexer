@@ -255,7 +255,11 @@ def cmd_dedupe(args: argparse.Namespace, store: Store | None = None) -> int:
 
 def cmd_import(args: argparse.Namespace, store: Store | None = None) -> int:
     """Ajoute à l'index des URLs listées dans un fichier texte."""
-    retenues, rejetees = fichier.lire(args.fichier)
+    try:
+        retenues, rejetees = fichier.lire(args.fichier)
+    except OSError as exc:
+        print(f"impossible de lire {args.fichier} : {exc}", file=sys.stderr)
+        return 1
     print(f"{len(retenues)} URLs retenues, {len(rejetees)} rejetées (hors périmètre ou malformées)")
     for ligne in rejetees[: args.limit]:
         print(f"  rejetée: {ligne}")
@@ -485,7 +489,14 @@ def cmd_run(args: argparse.Namespace, store: Store | None = None) -> int:
     if store is not None:
         print("run ne peut pas être imbriqué dans un autre run", file=sys.stderr)
         return 1
-    texte = Path(args.file).read_text(encoding="utf-8") if args.file else sys.stdin.read()
+    if args.file:
+        try:
+            texte = Path(args.file).read_text(encoding="utf-8")
+        except OSError as exc:
+            print(f"impossible de lire {args.file} : {exc}", file=sys.stderr)
+            return 1
+    else:
+        texte = sys.stdin.read()
     lignes = [
         ligne.strip()
         for ligne in texte.splitlines()

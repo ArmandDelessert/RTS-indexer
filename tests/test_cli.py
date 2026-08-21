@@ -116,6 +116,13 @@ def test_import_ajoute_les_urls_du_fichier(tmp_path, capsys):
     assert dict(Store(tmp_path).load().urls()) == {GALERIE: False}
 
 
+def test_import_fichier_introuvable_message_propre(tmp_path, capsys):
+    code = cli.main(["--data-dir", str(tmp_path), "import", str(tmp_path / "absent.txt")])
+
+    assert code == 1
+    assert "impossible de lire" in capsys.readouterr().err
+
+
 def test_import_dry_run_n_ecrit_rien(tmp_path, capsys):
     liste = tmp_path / "urls.txt"
     liste.write_text(f"{GALERIE}\n", encoding="utf-8")
@@ -275,6 +282,13 @@ def test_run_lit_depuis_un_fichier(tmp_path):
 
     code = cli.main(["--data-dir", str(tmp_path), "run", "--file", str(liste)])
     assert code == 0
+
+
+def test_run_fichier_introuvable_message_propre(tmp_path, capsys):
+    code = cli.main(["--data-dir", str(tmp_path), "run", "--file", str(tmp_path / "absent.txt")])
+
+    assert code == 1
+    assert "impossible de lire" in capsys.readouterr().err
 
 
 def test_run_s_arrete_a_la_premiere_commande_en_echec(tmp_path, monkeypatch, capsys):
