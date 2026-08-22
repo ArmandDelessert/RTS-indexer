@@ -635,6 +635,7 @@
 13485831-sports-dhiver-la-fis-maintient-la-suspension-des-sportifs-russes-et-bielorusses.html
 13486658-ski-alpin-marco-odermatt-en-tete-apres-la-1re-manche-loic-meillard-4e.html
 13486938-ski-alpin-imperial-marco-odermatt-survole-le-geant-de-solden.html
+13486980-ski-dames-20222023.html
 13486982-ski-messieurs-20222023.html
 13487211-ski-alpin-cest-le-debut-de-saison-parfait-pour-marco-odermatt.html
 13491630-ski-alpin-les-deux-descentes-dames-de-zermattcervinia-egalement-annulees.html
@@ -741,6 +742,7 @@
 13725776-ski-alpin-marco-odermatt-a-schladming-decision-au-dernier-moment.html
 13728234-ski-alpin-meillard-en-course-pour-un-podium-kristoffersen-mene-le-bal.html
 13729000-ski-alpin-ramon-zenhausern-de-retour-sur-le-podium-succes-de-clement-noel.html
+13730277-championnats-deurope-2023.html
 13731620-ski-alpin-marco-odermatt-ne-prendra-pas-le-depart-a-schladming.html
 13732109-ski-alpin-loic-meillard-mene-la-danse-devant-gino-caviezel-a-schladming.html
 13732814-ski-alpin-double-suisse-au-geant-de-schladming-meillard-devant-gino-caviezel.html
@@ -762,6 +764,7 @@
 13760419-ski-alpin-mondiaux-corinne-suter-inscrite-pour-le-superg.html
 13760702-ski-alpin-mondiaux-wendy-holdener-obtient-largent-du-combine.html
 13761173-ski-alpin-mondiaux-deuxieme-pour-commencer-cest-magnifique-se-rejouit-wendy-holdener.html
+13761685-mondiaux-courchevelmeribel-2023.html
 13761705-ski-alpin-mondiaux-loic-meillard-ou-le-debut-des-travaux-dhercule.html
 13764759-ski-alpin-mondiaux-lara-gutbehrami-pour-defendre-son-titre.html
 13764789-ski-alpin-mondiaux-goggia-domine-le-test-initial-de-la-descente.html
@@ -868,8 +871,10 @@
 14426140-ski-alpin-brignone-domine-la-premiere-manche-gutbehrami-4e.html
 14426398-ski-alpin-lara-gutbehrami-lance-parfaitement-sa-saison.html
 14426583-ski-alpin-pour-loic-meillard-on-narrete-jamais-dapprendre.html
+14426814-ski-dames-20232024.html
 14427856-ski-alpin-le-geant-messieurs-annule-en-raison-du-vent.html
 14428173-ski-alpin-pour-marco-odermatt-des-victoires-il-peut-y-en-avoir-chaque-annee-mais-des-records-cest-rare.html
+14428303-ski-messieurs-20232024.html
 14450005-ski-alpin-les-descentes-de-zermatt-et-cervinia-une-premiere-dans-un-contexte-delicat.html
 14454961-ski-alpin-une-piste-facile-a-skier-mais-dure-a-gagner.html
 14456734-ski-alpin-le-deuxieme-entrainement-a-zermatt-annule.html

@@ -883,6 +883,7 @@
 11811746-ligue-des-champions-servette-chenois-mene-deux-fois-mais-sincline.html
 11811766-super-league-sion-defait-par-bale-et-kasami.html
 11811781-super-league-servette-simpose-a-vaduz-et-se-donne-de-lair.html
+11812627-ligue-des-champions.html
 11815227-europa-league-young-boys-se-qualifie-au-bout-du-suspense.html
 11817241-ligue-des-champions-leonie-fleury-on-a-toujours-une-chance.html
 11817928-ligue-des-nations-lukraine-conteste-la-decision-de-luefa-devant-le-tas.html
@@ -3113,6 +3114,7 @@
 13881693-qualifs-euro-2024-la-cinquieme-campagne-de-yann-sommer.html
 13883357-la-serie-the-pressure-game-sinvite-dans-les-coulisses-de-lequipe-suisse-de-foot.html
 13886127-qualifs-euro-2024-succes-historique-de-langleterre-face-a-litalie.html
+13886581-equipe-de-suisse.html
 13887018-qualifs-euro-2024-blesse-breel-embolo-declare-forfait.html
 13888257-bundesliga-le-bayern-limoge-son-entraineur-julian-nagelsmann.html
 13889271-qualifs-euro-2024-la-france-surclasse-les-paysbas.html
@@ -3411,6 +3413,7 @@
 14201352-conference-league-bale-et-lucerne-entrent-en-scene.html
 14203274-fifa-mondial-feminin-2023-laustralie-se-fait-surprendre-par-le-nigeria.html
 14203280-conference-league-lucerne-prend-une-option-a-stockholm-bale-se-saborde-a-domicile.html
+14203922-competitions-europeennes.html
 14205224-fifa-mondial-feminin-2023-langleterre-bat-le-danemark-mais-perd-keira-walsh.html
 14206408-conference-league-la-juventus-exclue-pour-non-respect-du-fairplay-financier.html
 14207338-super-league-mene-20-servette-arrache-le-nul-face-a-zurich.html

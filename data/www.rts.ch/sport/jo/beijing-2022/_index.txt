@@ -1,4 +1,6 @@
 ./
+12370257-au-cur-des-jeux.html
+12370258-jo-express.html
 12761206-le-saviezvous-coup-de-chaud-a-stmoritz.html
 12761418-le-saviezvous-lexploit-doublement-dore-dedward-eagan.html
 12761446-le-saviezvous-le-boycott-des-skieurs-suisses-et-autrichiens.html
@@ -87,6 +89,7 @@
 12849271-pekin-2022-fond-nadine-fahndrich-prend-la-5e-place-du-sprint.html
 12849443-pekin-2022-biathlon-weger-19e-du-20-km-fillon-maillet-sacre.html
 12849782-pekin-2022-ski-freestyle-mathilde-gremaud-jai-fait-un-retour-aux-sources.html
+12850008-les-coulisses-de-pekin.html
 12850186-pekin-2022-luge-natalie-maag-signe-une-magnifique-9e-place.html
 12851384-pekin-2022-ski-gisin-et-holdener-bien-placees-shiffrin-eliminee.html
 12851385-pekin-2022-snowboard-scherrer-et-burgener-en-finale-du-halfpipe.html
