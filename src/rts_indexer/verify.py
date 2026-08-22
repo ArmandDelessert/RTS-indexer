@@ -22,6 +22,7 @@ import asyncio
 import heapq
 import json
 import logging
+import re
 import time
 from datetime import UTC, datetime, timedelta
 from pathlib import Path
@@ -475,3 +476,42 @@ def check_urls(
     if not urls:
         return {}
     return asyncio.run(_sonder(urls, transport))
+
+
+#: Identifiant RTS en tête de slug, avec ou sans tiret de tête parasite
+#: (ex. ``-28540577.html``, artefact déjà rencontré ailleurs dans l'index).
+ID_RE = re.compile(r"^-?(\d{4,})(?:-.*)?\.html$")
+
+
+def extract_id(slug: str) -> str | None:
+    """Identifiant RTS en tête de ``slug``, ou ``None`` s'il n'y en a pas.
+
+    Les URLs RTS suivent presque toutes le format ``<id>-<titre>.html`` ; cet
+    identifiant est ce que ``https://www.rts.ch/a/<id>`` sait résoudre vers
+    l'URL canonique actuelle du contenu (voir :func:`resolve_ids`).
+    """
+    m = ID_RE.match(slug)
+    return m.group(1) if m else None
+
+
+def resolve_ids(ids: list[str], transport: httpx.AsyncBaseTransport | None = None) -> dict[str, Verdict]:
+    """Résout des identifiants RTS vers leur URL canonique actuelle via
+    ``https://www.rts.ch/a/<id>``.
+
+    Complète (sans le remplacer) le mécanisme habituel de détection des
+    doublons : ``Verifier``/``resolve_doublons`` ne repère un doublon que si
+    l'ancienne URL redirige (HTTP 30x) vers la nouvelle. Or RTS sert parfois
+    le même contenu sous deux URLs sans jamais rediriger l'une vers l'autre
+    (cas réel : ``-28540577.html`` et ``28540577.html``, toutes deux 200) —
+    invisible pour le suivi de redirection, mais ``/a/<id>`` connaît la bonne
+    réponse dans les deux cas puisqu'il part de l'identifiant, pas de l'URL.
+
+    Un identifiant inconnu ou retiré répond 404 sur ``/a/<id>`` lui-même (pas
+    de redirection) : verdict ``(404, None)``, à traiter comme n'importe quel
+    404 par l'appelant.
+    """
+    if not ids:
+        return {}
+    urls = [f"https://www.rts.ch/a/{i}" for i in ids]
+    verdicts = check_urls(urls, transport=transport)
+    return {u.rsplit("/", 1)[-1]: v for u, v in verdicts.items()}

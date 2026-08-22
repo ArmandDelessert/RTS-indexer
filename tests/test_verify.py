@@ -15,6 +15,7 @@ import httpx
 import pytest
 
 from rts_indexer import config
+from rts_indexer import verify as verify_module
 from rts_indexer.store import Store
 from rts_indexer.verify import Verifier
 
@@ -614,3 +615,43 @@ def test_dead_only_vide_ne_fait_rien(tmp_path):
     verifier = _verifier(tmp_path, dead_only=True)  # aucune URL morte
     asyncio.run(verifier.run())
     assert verifier.checked == 0
+
+
+# -- resolution par identifiant (/a/<id>) ------------------------------------
+
+
+def test_extract_id_variantes():
+    assert verify_module.extract_id("28538519.html") == "28538519"
+    assert verify_module.extract_id("5131495-lexperience-blocher.html") == "5131495"
+    assert verify_module.extract_id("-28540577.html") == "28540577"  # tiret de tete parasite
+    assert verify_module.extract_id("inhalt.htm") is None  # pas d'identifiant
+    assert verify_module.extract_id("abc-123.html") is None  # ne commence pas par un chiffre
+
+
+def test_resolve_ids_suit_la_redirection_vers_l_url_canonique():
+    cible = "https://www.rts.ch/emissions/infrarouge/2017/article/x-1.html"
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        if request.url.path == "/a/28540577":
+            return httpx.Response(301, headers={"location": cible})
+        if str(request.url) == cible:
+            return httpx.Response(200)
+        return httpx.Response(404)
+
+    verdicts = verify_module.resolve_ids(
+        ["28540577"], transport=httpx.MockTransport(handler)
+    )
+
+    assert verdicts == {"28540577": (200, cible)}
+
+
+def test_resolve_ids_identifiant_inconnu_repond_404_sans_redirection():
+    verdicts = verify_module.resolve_ids(
+        ["99999999999"], transport=httpx.MockTransport(lambda _: httpx.Response(404))
+    )
+
+    assert verdicts == {"99999999999": (404, "https://www.rts.ch/a/99999999999")}
+
+
+def test_resolve_ids_vide_ne_sonde_rien():
+    assert verify_module.resolve_ids([]) == {}
