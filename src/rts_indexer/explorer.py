@@ -143,6 +143,13 @@ _TEMPLATE = """<!doctype html>
   .crumbs a { color: var(--accent); cursor: pointer; text-decoration: none; }
   .crumbs a:hover { text-decoration: underline; }
   .crumbs .sep { color: var(--muted); margin: 0 .3rem; }
+  .resume {
+    display: flex; flex-wrap: wrap; gap: .4rem 1.5rem; margin-bottom: 1rem;
+    padding: .6rem 1rem; background: var(--chip); border: 1px solid var(--line);
+    border-radius: 8px; font-size: .82rem;
+  }
+  .resume .item { color: var(--muted); }
+  .resume .item b { color: var(--fg); font-variant-numeric: tabular-nums; font-weight: 600; }
   ul { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
   li {
     display: flex; gap: .6rem; align-items: baseline; padding: .45rem .6rem;
@@ -180,6 +187,7 @@ _TEMPLATE = """<!doctype html>
 <main>
   <div id="browse">
     <div class="crumbs" id="crumbs"></div>
+    <div class="resume" id="resume"></div>
     <ul id="listing"></ul>
   </div>
   <div id="stats" hidden></div>
@@ -255,9 +263,39 @@ _TEMPLATE = """<!doctype html>
     return li;
   }
 
+  // Tout est dérivé des champs déjà présents (d, f, p, n) : aucune donnée
+  // supplémentaire n'est ajoutée au JSON embarqué pour cet affichage détaillé.
+  function renderResume(node) {
+    var host = document.getElementById("resume");
+    host.textContent = "";
+    if (!node) return;
+
+    var direct = (node[F] || []).length + (node[P] !== undefined ? 1 : 0);
+    var sousDossiers = Object.keys(node[D] || {}).length;
+    var total = node[N] || 0;
+
+    var rubrique = "non";
+    if (node[P] === 0) rubrique = "oui, vivante";
+    else if (node[P] === 1) rubrique = "oui, morte";
+
+    [
+      ["rubrique (./)", rubrique],
+      ["URLs directes", fmt(direct)],
+      ["sous-dossiers", fmt(sousDossiers)],
+      ["URLs dans les sous-dossiers", fmt(total - direct)],
+      ["total", fmt(total)]
+    ].forEach(function (pair) {
+      var item = el("span", "item");
+      item.appendChild(document.createTextNode(pair[0] + " : "));
+      item.appendChild(el("b", null, pair[1]));
+      host.appendChild(item);
+    });
+  }
+
   function renderListing() {
     listing.textContent = "";
     var node = nodeAt(path);
+    renderResume(node);
     if (!node) { listing.appendChild(el("li", "empty", "Dossier introuvable.")); return; }
 
     // La page du dossier lui-même, quand elle existe, en tête de liste.

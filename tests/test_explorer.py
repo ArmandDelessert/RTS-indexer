@@ -115,3 +115,22 @@ def test_statistiques_embarquees(tmp_path):
     assert payload["stats"]["urls"] == 3
     assert payload["stats"]["mortes"] == 1
     assert "generated_at" in payload
+
+
+def test_resume_par_dossier_ne_gonfle_pas_le_json(tmp_path):
+    """Le détail par dossier (rubrique, URLs directes, sous-dossiers, URLs
+    dans les sous-dossiers, total) est entièrement dérivable des champs déjà
+    présents (d, f, p, n) : aucun champ supplémentaire ne doit apparaître dans
+    l'arbre sérialisé pour l'afficher — sans quoi il alourdirait le JSON
+    embarqué à chaque nœud, pour une information reconstructible côté client."""
+    tree = build_tree(_store(tmp_path))
+    suisse = tree[KEY_DIRS]["www.rts.ch"][KEY_DIRS]["info"][KEY_DIRS]["suisse"]
+    assert set(suisse.keys()) <= {KEY_DIRS, KEY_FILES, KEY_PAGE, KEY_TOTAL}
+
+
+def test_template_expose_le_bloc_resume(tmp_path):
+    """Le conteneur et la fonction de rendu doivent être présents dans la
+    page générée, sinon le détail par dossier reste silencieusement absent."""
+    html = explorer.render(_store(tmp_path))
+    assert 'id="resume"' in html
+    assert "function renderResume" in html
