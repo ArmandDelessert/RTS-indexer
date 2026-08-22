@@ -1,4 +1,3 @@
-./
 !2196881-devine-qui-vient-diner-du-01-12-2009.html
 !2196899-devine-qui-vient-diner-du-02-12-2009.html
 !2196917-devine-qui-vient-diner-du-03-12-2009.html
@@ -48,7 +47,6 @@
 !3065353-devine-qui-vient-diner-du-22-04-2011.html
 !3088968-devine-qui-vient-diner-du-04-05-2011.html
 !3224850-la-peau-une-etonnante-geographie-dermique-08-07-2011.html
-3330476-devine-qui-vient-diner-29-08-2011.html
 !3492292-devine-qui-vient-diner-du-25-10-2011.html
 !3509255-devine-qui-vient-diner-du-28-10-2011.html
 !3511184-devine-qui-vient-diner-du-26-10-2011.html
@@ -65,7 +63,6 @@
 !3582646-devine-qui-vient-diner-du-29-11-2011.html
 !3584975-devine-qui-vient-diner-du-30-11-2011.html
 !3587721-devine-qui-vient-diner-du-01-12-2011.html
-3646070-nos-amies-les-plantes.html
 !3777443-devine-qui-vient-diner-du-27-02-2012.html
 !3781938-devine-qui-vient-diner-du-28-02-2012.html
 !3791123-devine-qui-vient-diner-du-02-03-2012.html
@@ -88,7 +85,6 @@
 !3847320-devine-qui-vient-diner-du-26-03-2012.html
 !3849847-devine-qui-vient-diner-du-27-03-2012.html
 !3852822-devine-qui-vient-diner-du-28-03-2012.html
-3856021-devine-qui-sort-ce-soir-29-03-2012.html
 !3856022-devine-qui-vient-diner-du-29-03-2012.html
 !3856589-devine-qui-vient-diner-du-22-03-2012.html
 !3858495-devine-qui-vient-diner-du-30-03-2012.html
@@ -97,7 +93,6 @@
 !3870250-devine-qui-vient-diner-du-04-04-2012.html
 !3872876-devine-qui-vient-diner-du-05-04-2012.html
 !3879491-devine-qui-vient-diner-du-06-04-2012.html
-3879752-une-revue-pour-celles-qui-depassent-les-bornes-09-04-2012.html
 !3925238-devine-qui-vient-diner-du-30-04-2012.html
 !3947399-devine-qui-vient-diner-du-09-05-2012.html
 !4025717-devine-qui-vient-diner-du-12-06-2012.html

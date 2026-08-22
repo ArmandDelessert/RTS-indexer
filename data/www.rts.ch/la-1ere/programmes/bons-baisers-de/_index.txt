@@ -1,9 +1,7 @@
-./
 !5970006-bons-baisers-de-du-14-07-2014.html
 !5972646-bons-baisers-de-du-15-07-2014.html
 !5976136-bons-baisers-de-du-16-07-2014.html
 !5979104-bons-baisers-de-du-17-07-2014.html
-5981499-bons-baisers-de-berlin-5-5-18-07-2014.html
 !5981500-bons-baisers-de-du-18-07-2014.html
 !5985771-bons-baisers-de-du-21-07-2014.html
 !5988444-bons-baisers-de-du-22-07-2014.html
@@ -15,7 +13,6 @@
 !5994693-bons-baisers-de-du-29-07-2014.html
 !5994818-bons-baisers-de-du-31-07-2014.html
 !5994920-bons-baisers-de-du-01-08-2014.html
-5996578-bons-baisers-de-berlin.html
 !6010013-bons-baisers-de-du-05-08-2014.html
 !6011893-bons-baisers-de-du-18-08-2014.html
 !6858598-bons-baisers-de-du-01-07-2015.html
@@ -49,4 +46,3 @@
 !6931038-bons-baisers-de-du-21-08-2015.html
 !6931157-bons-baisers-de-du-22-08-2015.html
 !6931260-bons-baisers-de-du-23-08-2015.html
-7000027-bons-baisers-de-marseille.html

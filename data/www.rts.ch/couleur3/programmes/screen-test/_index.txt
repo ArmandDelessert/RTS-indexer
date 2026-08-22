@@ -1,4 +1,3 @@
-./
 !7641007-screen-test.html
 !7644137-screen-test.html
 !7650161-screen-test.html

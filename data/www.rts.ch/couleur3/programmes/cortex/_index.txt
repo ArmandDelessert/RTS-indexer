@@ -1,8 +1,3 @@
-./
-6459341-femme-fatale-23-01-2015.html
-6501371-du-paradis-aux-enfers-artificiels-13-02-2015.html
-6538968-speciale-hunter-s-thompson-27-02-2015.html
-6575925-iceberg-slim-13-03-2015.html
 !6595207-cortex-du-20-03-2015.html
 !6708752-cortex-du-01-05-2015.html
 !6802357-cortex-du-05-06-2015.html
@@ -17,5 +12,3 @@
 !7615542-cortex-du-15-04-2016.html
 !7632748-cortex-du-22-04-2016.html
 !7650090-cortex-du-29-04-2016.html
-7685258-13e-note-le-grand-sommeil-13-05-2016.html
-7754428-de-la-boxe-ctx_20160610t110000_cortex.html

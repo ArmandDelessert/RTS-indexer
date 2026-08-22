@@ -1,10 +1,3 @@
-./
-4530705-journal-de-07h00-31-12-2012.html
-4572703-journal-de-07h-21-01-2013.html
-5152885-journal-de-07h00-30-08-2013.html
-5292627-journal-de-07h00-22-10-2013.html
-5405186-journal-de-07h-03-12-2013.html
-5822891-presente-par-didier-duployer-12-05-2014.html
 !5859593-presente-par-valerie-droux.html
 !5862165-presente-par-valerie-droux.html
 !5866046-presente-par-valerie-droux.html
@@ -30,19 +23,8 @@
 !5939159-presente-par-didier-duployer.html
 !5941963-presente-par-didier-duployer.html
 !5946355-presente-par-didier-duployer.html
-5954769-presente-par-valerie-droux-01-07-2014.html
-6000298-presente-par-valerie-droux-21-07-2014.html
 !6025885-presente-par-didier-duployer.html
-6333118-presente-par-valerie-droux-03-12-2014.html
-6680935-presente-par-didier-duployer-14-04-2015.html
-6714780-presente-par-valerie-droux-27-04-2015.html
-6828060-presente-par-didier-duployer-08-06-2015.html
-6942879-presente-par-valerie-droux-22-07-2015.html
-7022847-presente-par-valerie-droux-31-08-2015.html
-7032725-presente-par-valerie-droux-03-09-2015.html
 !7035382-presente-par-valerie-droux.html
-7240215-presente-par-coralie-claude-17-11-2015.html
-7326550-presente-par-coralie-claude-17-12-2015.html
 !7411001-le-journal-de-7h.html
 !7420485-presente-par-yann-amedro.html
 !7423844-presente-par-yann-amedro.html
@@ -58,10 +40,8 @@
 !7466069-presente-par-coralie-claude.html
 !7469607-presente-par-coralie-claude.html
 !7472320-presente-par-coralie-claude.html
-7478298-presente-par-blandine-levite-15-02-2016.html
 !7478314-presente-par-blandine-levite.html
 !7481036-presente-par-coralie-claude.html
-7484152-presente-par-coralie-claude-17-02-2016.html
 !7484169-presente-par-coralie-claude.html
 !7487276-presente-par-coralie-claude.html
 !7489735-presente-par-coralie-claude.html
@@ -70,12 +50,10 @@
 !7498368-presente-par-coralie-claude.html
 !7501522-le-journal-de-7h.html
 !7501522-presente-par-coralie-claude.html
-7504497-presente-par-coralie-claude-25-02-2016.html
 !7504515-le-journal-de-7h.html
 !7504515-presente-par-coralie-claude.html
 !7507413-le-journal-de-7h.html
 !7507413-presente-par-coralie-claude.html
-7513514-presente-par-coralie-claude-29-02-2016.html
 !7513532-presente-par-coralie-claude.html
 !7516335-presente-par-coralie-claude.html
 !7519733-presente-par-coralie-claude.html
@@ -89,9 +67,7 @@
 !7550874-presente-par-blandine-levite.html
 !7553628-presente-par-blandine-levite.html
 !7556963-presente-par-blandine-levite.html
-7559750-presente-par-coralie-claude-17-03-2016.html
 !7559767-presente-par-coralie-claude.html
-7562631-le-journal-de-7h-18-03-2016.html
 !7562649-presente-par-coralie-claude.html
 !7568814-presente-par-coralie-claude.html
 !7571537-presente-par-coralie-claude.html
@@ -155,7 +131,6 @@
 !7834001-presente-par-coralie-claude.html
 !7840504-presente-par-coralie-claude.html
 !7845611-presente-par-coralie-claude.html
-7848462-journal-de-07h-07-07-2016.html
 !7848476-presente-par-coralie-claude.html
 !7850792-presente-par-coralie-claude.html
 !7855685-presente-par-coralie-claude.html
@@ -165,7 +140,6 @@
 !7865378-presente-par-coralie-claude.html
 !7870499-presente-par-coralie-claude.html
 !7872577-presente-par-coralie-claude.html
-7875524-journal-de-07h-20-07-2016.html
 !7875539-presente-par-coralie-claude.html
 !7877509-presente-par-coralie-claude.html
 !7879820-presente-par-coralie-claude.html
@@ -177,7 +151,6 @@
 !7899173-presente-par-sandra-viscardi.html
 !7901150-presente-par-coralie-claude.html
 !7907382-presente-par-coralie-claude.html
-7913390-presente-par-blandine-levite-09-08-2016.html
 !7913401-presente-par-blandine-levite.html
 !7914084-presente-par-coralie-claude.html
 !7914109-presente-par-coralie-claude.html
@@ -189,7 +162,6 @@
 !7927667-presente-par-coralie-claude.html
 !7930525-presente-par-coralie-claude.html
 !7933401-presente-par-coralie-claude.html
-7935074-journal-de-07h-19-08-2016.html
 !7935085-presente-par-coralie-claude.html
 !7940861-presente-par-coralie-claude.html
 !7942676-presenre-par-coralie-claude.html

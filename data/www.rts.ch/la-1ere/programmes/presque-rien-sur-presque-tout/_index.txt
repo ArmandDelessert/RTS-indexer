@@ -1,4 +1,3 @@
-./
 !2480110-presque-rien-sur-presque-tout-du-01-10-2010.html
 !2482646-presque-rien-sur-presque-tout-du-08-10-2010.html
 !2484009-presque-rien-sur-presque-tout-du-25-09-2010.html
@@ -31,7 +30,6 @@
 !2804516-presque-rien-sur-presque-tout-du-01-01-2011.html
 !2826020-presque-rien-sur-presque-tout-du-07-01-2011.html
 !2828294-presque-rien-sur-presque-tout-du-08-01-2011.html
-3892795-le-directeur-d-am-stram-gram-n-est-pas-fache-de-partir.html
 !4079065-presque-rien-sur-presque-tout-du-28-07-2012.html
 !4080397-presque-rien-sur-presque-tout-du-13-08-2012.html
 !4080882-presque-rien-sur-presque-tout-du-14-08-2012.html

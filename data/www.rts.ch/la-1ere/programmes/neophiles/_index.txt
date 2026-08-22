@@ -1,4 +1,3 @@
-./
 !7008688-le-parcours-du-combattant-de-betim-shkodra.html
 !7011976-la-conquete-de-la-bio-informatique-de-jurgi-camblong.html
 !7014541-la-suisse-une-terre-d-opportunites-pour-miguel-barreto.html
@@ -7,10 +6,8 @@
 !7025882-un-jeu-video-suisse-melange-design-et-technologie.html
 !7030065-le-prochain-google-sera-suisse.html
 !7032746-de-la-disco-aux-energies-renouvelables.html
-7035377-payer-sa-voiture-d-occasion-avec-une-application-04-09-2015.html
 !7035395-payer-sa-voiture-d-occasion-avec-une-application.html
 !7041783-neophiles.html
-7071780-welchilicon-valley-17-09-2015.html
 !7169711-plantes-et-vallees-pharmalp.html
 !7180800-l-entrepreneur-ii-skioo.html
 !7183752-juste-15-millions-knip.html
@@ -18,7 +15,6 @@
 !7190062-partition-interactive-tombooks.html
 !7192922-le-bioinformaticien.html
 !7199215-la-pouponniere.html
-7202314-convaincre-ou-mourir-ermanos-03-11-2015.html
 !7202332-convaincre-ou-mourir-ermanos.html
 !7205566-le-pretexte-bolay-co.html
 !7208988-savants-fous-d-optique-y-ybar.html
@@ -47,7 +43,6 @@
 !7420480-generation-fongit.html
 !7423849-l-apprenti-lambda-health-system.html
 !7427443-fumier-energy8.html
-7430862--l-examen-sqeedtime.html
 !7430880-l-examen-sqeedtime.html
 !7433818-match-funding-cti.html
 !7440638-pme-elite.html
@@ -71,13 +66,10 @@
 !7501516-l-ambition-akselos.html
 !7504503-les-coulisses-marc-b.html
 !7507422-banque-revolution-swissquote.html
-7513507-teleportation-texel-29-02-2016.html
 !7513526-teleportation-texel.html
 !7516337-equateur-cuestionarix.html
 !7519735-l-eglise-au-milieu-du-village-asoriba.html
-7522855--les-cousins-mergims.html
 !7522872-les-cousins-mergims.html
-7525618-fait-maison-goodmealhunting-04-03-2016.html
 !7525636-fait-maison-goodmealhunting.html
 !7532349-ca-y-est-bestmile.html
 !7535164-la-vision-fastree3d.html
@@ -85,13 +77,6 @@
 !7544225-abcde-dermosafe-v.html
 !7550870-travailler-demain-skillspotting.html
 !7553631-neophiles.html
-7556935-le-but-pristem-16-03-2016.html
-7559755-le-parcours-obseva-17-03-2016.html
-7578233--murmurer-a-l-oreille-des-robots-neuvoo.html
-7620997--le-concours-venture-kick.html
 !7632532--startup-ou-pas-.html
 !7632551-startup-ou-pas.html
-7655857-sports-d-action-alaia-25-04-2016.html
 !7685075-david-brown.html
-7742433-neophiles-27-05-2016.html
-7804454--l-accelerateur-ii-unil.html

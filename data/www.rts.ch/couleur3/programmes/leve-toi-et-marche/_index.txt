@@ -1,7 +1,4 @@
-./
-3813000-leve-toi-et-marche-12-03-2012.html
 !3832118-leve-toi-et-marche-du-20-03-2012.html
-4251596-leve-toi-et-marche-18-09-2012.html
 !4252926-leve-toi-et-marche-du-21-09-2012.html
 !4307973-leve-toi-et-marche-du-12-10-2012.html
 !4471761-leve-toi-et-marche-du-14-12-2012.html
@@ -87,4 +84,3 @@
 !5885194-leve-toi-et-marche-du-11-06-2014.html
 !5888095-leve-toi-et-marche-du-12-06-2014.html
 !5890114-leve-toi-et-marche-du-13-06-2014.html
-5924408-leve-toi-et-marche-en-famille-la-derniere.html

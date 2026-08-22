@@ -1,7 +1,5 @@
-./
 !3093547-les-news-cocu-ou-pas-un-espion-nomme-iphone-et-android.html
 !3880631-point-barre-du-07-04-2012.html
-4244483-sur-le-web-15-09-2012.html
 !4349618-point-barre-reloaded-du-29-10-2012.html
 !4383557-point-barre-du-10-11-2012.html
 !4387147-point-barre-reloaded-du-12-11-2012.html
@@ -17,8 +15,6 @@
 !4569571-point-barre-du-26-01-2013.html
 !4572858-point-barre-reloaded-du-28-01-2013.html
 !4702861-point-barre-du-16-03-2013.html
-5210558-qwertz-le-premier-bar-dedie-a-l-esport-en-suisse-28-09-2013.html
-5342637-gaming-federation-ou-gf-pour-les-intimes-16-11-2013.html
 !5523380-point-barre-reloaded-du-27-01-2014.html
 !5557884-point-barre-du-08-02-2014.html
 !6232205-point-barre-du-01-11-2014.html
@@ -29,9 +25,7 @@
 !6416382-point-barre-reloaded-du-12-01-2015.html
 !6445324-point-barre-du-24-01-2015.html
 !6464921-point-barre-du-31-01-2015.html
-6484720-japan-impact-2e-partie-07-02-2015.html
 !6484736-point-barre-du-07-02-2015.html
-6560711-news-hi-tech-07-03-2015.html
 !7019481-point-barre-du-05-09-2015.html
 !7038352-point-barre-du-12-09-2015.html
 !7401450-point-barre-reloaded-du-25-01-2016.html
@@ -54,7 +48,6 @@
 !7584158-point-barre-du-02-04-2016.html
 !7587752-point-barre-reloaded-du-04-04-2016.html
 !7602826-point-barre-du-09-04-2016.html
-7603599-point-barre-en-direct-de-polymanga-2016.html
 !7605503-point-barre-reloaded-du-11-04-2016.html
 !7634972-pb-2016-04-08.html
 !7688101-point-barre-du-14-05-2016.html
@@ -83,7 +76,6 @@
 !8074673-point-barre-du-22-10-2016.html
 !8077591-point-barre-reloaded-du-24-10-2016.html
 !8091671-point-barre-du-29-10-2016.html
-8092206-sur-le-web.html
 !8094826-point-barre-reloaded-du-31-10-2016.html
 !8108882-point-barre-du-05-11-2016.html
 !8126195-point-barre-du-12-11-2016.html
@@ -112,7 +104,6 @@
 !8475894-point-barre-reloaded-du-03-04-2017.html
 !8490779-point-barre-du-08-04-2017.html
 !8509680-point-barre-du-15-04-2017.html
-8523220-couleur-3-a-polymanga.html
 !8527893-point-barre-du-22-04-2017.html
 !8544616-point-barre-du-29-04-2017.html
 !8560135-point-barre-du-06-05-2017.html

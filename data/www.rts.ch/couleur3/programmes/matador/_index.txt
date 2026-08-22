@@ -1,4 +1,3 @@
-./
 !4505576-matador-du-24-12-2012.html
 !4505579-matador-du-25-12-2012.html
 !4505582-matador-du-27-12-2012.html
@@ -52,7 +51,6 @@
 !6978815-matador-du-17-08-2015.html
 !6980759-matador-du-18-08-2015.html
 !6983546-matador-du-19-08-2015.html
-6984141-alt-1000-07-08-2015.html
 !6985764-matador-du-20-08-2015.html
 !6987640-matador-du-21-08-2015.html
 !7819345-matador-du-05-07-2016.html

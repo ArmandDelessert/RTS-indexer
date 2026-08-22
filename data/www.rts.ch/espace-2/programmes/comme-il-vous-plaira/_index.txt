@@ -1,8 +1,5 @@
-./
 !3266713-noemi-lapzeson-danseuse-et-choregraphe.html
 !3412474-raymond-meyer-imprimeur-d-art.html
-3897466-cabu-caricaturiste-29-04-2012.html
-4245898-laurent-wolf-journaliste-et-peintre-dessinateur-16-09-2012.html
 !4684709-comme-il-vous-plaira-du-10-03-2013.html
 !5008928-comme-il-vous-plaira-du-18-08-2013.html
 !5451884-comme-il-vous-plaira-du-29-12-2013.html
@@ -12,18 +9,11 @@
 !5521334-comme-il-vous-plaira-du-26-01-2014.html
 !5540396-comme-il-vous-plaira-du-02-02-2014.html
 !5559127-comme-il-vous-plaira-du-09-02-2014.html
-5864947-michel-egloff-fondateur-du-latenium-musee-cantonal-d-archeologie-d-hauterive-neuchatel.html
-6197185-michel-onfray-philosophe-19-10-2014.html
-6466530-alain-borer-ecrivain-poete-01-02-2015.html
-6486499-pour-saluer-aldo-ciccolini-08-02-2015.html
-6524369-benoit-peeters-scenariste-ecrivain-tintinophile-22-02-2015.html
-6580258-david-grimal-violoniste-15-03-2015.html
 !6631408-comme-il-vous-plaira-du-05-04-2015.html
 !6769529-comme-il-vous-plaira-du-24-05-2015.html
 !6788401-comme-il-vous-plaira-du-31-05-2015.html
 !6806515-comme-il-vous-plaira-du-07-06-2015.html
 !6857858-comme-il-vous-plaira-du-28-06-2015.html
-6867541-alain-borer-ecrivain-poete-19-07-2015.html
 !6868007-comme-il-vous-plaira-du-26-07-2015.html
 !6868455-comme-il-vous-plaira-du-02-08-2015.html
 !6869892-comme-il-vous-plaira-du-16-08-2015.html
@@ -42,4 +32,3 @@
 !7399144-comme-il-vous-plaira-du-24-01-2016.html
 !7418745-comme-il-vous-plaira-du-31-01-2016.html
 !7511787-comme-il-vous-plaira-du-06-03-2016.html
-7672175-francois-schuiten-bedeiste-08-05-2016.html

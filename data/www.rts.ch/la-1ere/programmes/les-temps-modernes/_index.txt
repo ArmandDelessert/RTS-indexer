@@ -1,16 +1,9 @@
-./
-3546907-les-no-kids-sortent-du-placard-04-11-2011.html
 !3772533-les-cerfs-volants-eoliennes-du-futur.html
-3831806-menaces-sur-la-memoire-du-monde-a-l-ere-numerique-13-03-2012.html
-3907803-la-france-moderne-5-5-le-jeu-video-une-excellence-qui-s-exporte-mal-13-04-2012.html
-3927370-le-dark-web-ou-comment-on-achete-sa-drogue-et-ses-armes-sur-internet.html
 !3949986-le-slow-management-ou-comment-faire-l-eloge-de-la-lenteur-en-entreprise.html
 !4002780-vers-la-fin-de-l-anonymat-sur-le-web.html
 !4063028-divorcer-doit-il-devenir-un-geste-banal.html
-4209225-les-entreprises-sans-patrons-ca-marche-.html
 !4286057-le-lait-en-capsules-pour-bebes-suscite-la-polemique.html
 !4316260-les-aerotropolis-ces-aeroports-de-demain.html
-4319825-la-voiture-connectee-un-tournant-industriel-tout-proche-10-10-2012.html
 !4349497-a-la-conquete-de-l-app-economie.html
 !4352355-serie-usa-2-10-le-poids-des-geants-americains-de-l-informatique.html
 !4355798-serie-usa-3-10-l-ecosysteme-des-reseaux-sociaux.html
@@ -21,8 +14,6 @@
 !4377967-serie-usa-9-10-le-lobby-des-geants-du-net.html
 !4379211-serie-usa-5-10-l-education-en-ligne-next-big-thing.html
 !4380868-serie-usa-10-10-les-serial-entrepreneurs-de-la-biotech.html
-4557614-la-coree-du-nord-version-open-data.html
-4627973-quand-la-pauvrete-est-un-droit-11-02-2013.html
 !4668639-sommes-nous-obsedes-par-le-bien-etre-animal.html
 !4671355-que-mangera-t-on-dans-50-ans.html
 !4674370-google-est-il-indetronable.html
@@ -32,7 +23,6 @@
 !4693463-la-5g-a-quoi-bon.html
 !4696483-hugo-chavez-la-disparition-d-un-serial-twitto.html
 !4706623-l-architecture-participative-un-autre-moyen-de-concevoir-l-amenagement-du-territoire.html
-4709666-discrimination-homme-femme-la-faute-aux-femmes-12-03-2013.html
 !4709667-discrimination-homme-femme-la-faute-aux-femmes.html
 !4712697-peut-on-predire-le-nom-du-nouveau-pape.html
 !4725121-internet-a-besoin-d-un-plan-b.html
@@ -47,12 +37,9 @@
 !4770690-l-e-sport-ou-la-virtualisation-du-sport.html
 !4773490-profession-ecologue-du-numerique.html
 !4776218-s-assurer-contre-la-mauvaise-reputation.html
-4899467-delocaliser-la-vieillesse.html
-4906221-la-technologie-nouvelle-religion-de-l-homme-moderne-23-05-2013.html
 !4916141-le-potentiel-du-marketing-olfactif.html
 !4918294-businessmen-au-foyer-mais-sur-le-tard.html
 !4921792-la-fin-du-leche-vitrine.html
-4924329-comment-repenser-la-banque-30-05-2013.html
 !4924347-comment-repenser-la-banque.html
 !4933872-le-macabre-business-des-assurances-vie.html
 !4936782-le-viagra-pour-femme.html

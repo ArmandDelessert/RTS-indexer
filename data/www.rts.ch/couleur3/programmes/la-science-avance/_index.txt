@@ -1,10 +1,5 @@
-./
 !7825418-la-science-avance-07-07-2016.html
 !7855776-la-science-avance-18-07-2016.html
 !7879891-la-science-avance-29-07-2016.html
 !7901198-la-science-avance-09-08-2016.html
-7907464-tour-eiffel-12-08-2016.html
-7911511-art-laser-15-08-2016.html
 !7913479-ours-polaires-16-08-2016.html
-7916522-banane-17-08-2016.html
-7918664-queue-de-cheval-18-08-2016.html

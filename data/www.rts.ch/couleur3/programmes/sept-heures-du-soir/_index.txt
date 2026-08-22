@@ -1,4 +1,3 @@
-./
 !2479338-sept-heures-du-soir-du-28-09-2010.html
 !2479595-sept-heures-du-soir-du-29-09-2010.html
 !2479977-sept-heures-du-soir-du-30-09-2010.html
@@ -37,7 +36,6 @@
 !2845808-sept-heures-du-soir-du-13-01-2011.html
 !3080600-eleonore-en-interview-13-04-2011.html
 !3089000-sept-heures-du-soir-du-04-05-2011.html
-4352557-l-interview-du-soir-depeche-mode-30-10-2012.html
 !4352558-sept-heures-du-soir-du-30-10-2012.html
 !4471731-sept-heures-du-soir-du-14-12-2012.html
 !4532332-sept-heures-du-soir-du-08-01-2013.html

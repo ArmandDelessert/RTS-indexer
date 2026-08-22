@@ -1,5 +1,3 @@
-./
-4462592-ueli-maurer-les-references-musicales-du-jour.html
 !4916136-remy-pagani-les-references-musicales-du-jour.html
 !4933878-pascal-lamy-les-references-musicales-du-jour.html
 !5274086-didier-van-cauwelaert-les-references-musicales-du-jour.html
@@ -53,7 +51,6 @@
 !7516334-les-references-musicales-du-jour-de-marco-borradori.html
 !7519745-les-references-musicales-du-jour-de-marco-borradori.html
 !7522866-les-references-musicales-du-jour-de-marco-borradori.html
-7525608-les-references-musicales-du-jour-de-marco-borradori-04-03-2016.html
 !7525626-les-references-musicales-du-jour-de-marco-borradori.html
 !7532346-les-references-musicales-du-jour-de-thomas-dutronc.html
 !7535155-les-references-musicales-du-jour-de-thomas-dutronc.html
@@ -63,7 +60,6 @@
 !7550865-les-references-musicales-du-jour-d-anne-emery-torracinta.html
 !7553627-mp3.html
 !7556958-mp3.html
-7559749-les-references-musicales-du-jour-d-anne-emery-torracinta-17-03-2016.html
 !7559766-mp3.html
 !7562658-mp3.html
 !7597928-les-references-musicales-du-jour-de-jean-patrick-capdevielle.html
@@ -71,8 +67,3 @@
 !7626621-les-references-musicales-du-jour-de-luciano-barisone.html
 !7655884-christophe-andre-les-references-musicales-du-jour.html
 !7673826-les-references-musicales-du-jour-de-francois-garcon.html
-7742432-mp3-27-05-2016.html
-7848444-mp3-07-07-2016.html
-7875520-mp3-20-07-2016.html
-7913381-les-references-musicales-du-jour-d-eric-cottier-09-08-2016.html
-7935071-mp3-19-08-2016.html

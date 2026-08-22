@@ -1,4 +1,3 @@
-./
 !7008683-l-alimentation-de-demain.html
 !7011971-champignons-et-climat.html
 !7014538-les-dix-heures-de-la-recre.html
@@ -15,7 +14,6 @@
 !7190066-gouts-et-terroirs-la-longeole.html
 !7192918-gouts-et-terroirs-la-courge.html
 !7199203-l-ayran-de-l-unite-turque.html
-7202319-le-genome-de-la-biere-decode-03-11-2015.html
 !7202336-le-genome-de-la-biere-decode.html
 !7205576-abats-les-prejuges.html
 !7208980-du-gras-double-pas-gras.html
@@ -37,7 +35,6 @@
 !7282550-provisions-de-menage-urgentes.html
 !7285103-la-mondialisation-du-kimchi-coreen.html
 !7288517-le-parfum-du-cafe-arabe.html
-7326548-un-foie-gras-culturel.html
 !7420488-le-gout-des-autres.html
 !7423841-cuisine-sous-pression-a-la-tv.html
 !7433823-food-video-boom-sur-facebook.html
@@ -47,7 +44,6 @@
 !7450205-heidi-tout-un-fromage.html
 !7452973-le-mais-l-aliment-universel.html
 !7459832-le-gout-masque-de-carnaval.html
-7466059-le-pape-bocuse-a-90-ans.html
 !7466077-le-pape-bocuse-a-90-ans.html
 !7469602-la-toque-fait-le-cuisinier.html
 !7472325-l-amour-a-la-cuisine.html
@@ -57,7 +53,6 @@
 !7487278-des-start-ups-de-benitier.html
 !7489734-des-agrumes-volages.html
 !7495905-le-gout-des-autres.html
-7498343-la-percee-du-vin-jaune.html
 !7498361-la-percee-du-vin-jaune.html
 !7501512-humilier-par-la-tambouille.html
 !7504506-yogourt-du-gothard-a-moscou.html
@@ -74,9 +69,6 @@
 !7544237-reserver-son-plat-en-photo.html
 !7550872-des-mets-et-des-mots-tout-un-poeme.html
 !7553634-le-gout-des-autres.html
-7559757-l-ail-d-ours-a-toutes-les-sauces-17-03-2016.html
-7562628-le-gout-des-autres-18-03-2016.html
-7623602-carbonara-gate-12-04-2016.html
 !7819238-mozza-sbrinz-balle-au-centre.html
 !7822795-piment-cuisine-masochiste.html
 !7825289-onanisme-culinaire.html

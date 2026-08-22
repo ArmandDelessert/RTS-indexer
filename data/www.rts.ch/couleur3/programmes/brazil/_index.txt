@@ -1,5 +1,3 @@
-./
-4419751-brazil-24-11-2012.html
 !4474160-brazil-du-15-12-2012.html
 !4510470-brazil-du-29-12-2012.html
 !4528067-brazil-du-05-01-2013.html
@@ -16,7 +14,6 @@
 !4572848-brazil-du-28-01-2013.html
 !4572929-brazil-du-28-01-2013.html
 !5058656-couleur-3-en-direct-du-nifff.html
-6107863-bonus-web-karim-barras-en-interview-31-08-2014.html
 !6160775-brazil-du-05-10-2014.html
 !6197251-brazil-du-19-10-2014.html
 !6215603-brazil-du-26-10-2014.html
@@ -25,7 +22,6 @@
 !6288124-brazil-du-23-11-2014.html
 !6343756-brazil-du-14-12-2014.html
 !6447207-brazil-du-25-01-2015.html
-6466630-au-programme-loin-des-hommes-snow-therapy-et-les-moomins-sur-la-riviera-.html
 !6543399-brazil-du-01-03-2015.html
 !6660188-brazil-du-12-04-2015.html
 !6694765-brazil-du-26-04-2015.html
@@ -40,10 +36,8 @@
 !6977537-brazil-du-16-08-2015.html
 !6990584-brazil-du-23-08-2015.html
 !7004556-brazil-du-30-08-2015.html
-7010094-brazil-screentest-de-la-semaine-du-26-aout-2015.html
 !7040036-brazil-du-13-09-2015.html
 !7119133-brazil-du-11-10-2015.html
-7380257-kino-kabaret-17-01-2016.html
 !7494272-brazil-du-28-02-2016.html
 !7511856-brazil-du-06-03-2016.html
 !7530288-brazil-du-13-03-2016.html
