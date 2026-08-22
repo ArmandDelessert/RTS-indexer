@@ -1,8 +1,8 @@
 ./
-3612155-le-muriqui-future-mascotte-de-jo-de-rio.html
-3812694-la-perturbation-des-saisons-des-pluies-trouble-les-paysans-camerounais.html
+!3612155-le-muriqui-future-mascotte-de-jo-de-rio.html
+!3812694-la-perturbation-des-saisons-des-pluies-trouble-les-paysans-camerounais.html
 4389727-le-cameroun-fete-les-30-ans-de-presidence-de-paul-biya.html
 4535564-le-succes-phenomenal-de-gangnam-style-ne-cesse-d-etonner.html
-4960306-togo-un-pionnier-en-matiere-d-insemination-artificielle-et-de-fecondation-in-vitro.html
-4975113-pathe-ouedraogo-couturier-des-personnalites-africaines.html
-5000847-les-laveurs-du-banco-a-abidjan.html
+!4960306-togo-un-pionnier-en-matiere-d-insemination-artificielle-et-de-fecondation-in-vitro.html
+!4975113-pathe-ouedraogo-couturier-des-personnalites-africaines.html
+!5000847-les-laveurs-du-banco-a-abidjan.html

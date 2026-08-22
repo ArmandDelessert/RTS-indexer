@@ -1,6 +1,6 @@
 ./
 1964648-football-super-league-36e-j-bale-et-young-boys-joueront-pour-le-titre.html
-3956069-prix-du-meilleur-espoir-sportif-romand-de-l-aide-sportive-suisse-portrait-d-augustion-maillefer.html
+!3956069-prix-du-meilleur-espoir-sportif-romand-de-l-aide-sportive-suisse-portrait-d-augustion-maillefer.html
 4147323-orientation-championnat-du-monde-de-lausanne-vd-la-bernoise-simone-niggli-luder-a-remporte-l-epreuve-longue-distance-tandis-que-l-argovien-matthias-merz-a-remporte-sa-deuxieme-medaille-d-argent.html
 4328456-hockey-championnat-de-suisse-lna-9e-j-hc-davos-fribourg-gotteron-4-3-tb-itw-de-christian-dube-fribourg-gotteron.html
 4328464-hockey-reportage-fribourg-gotteron-fete-ses-75-ans.html
@@ -24,8 +24,8 @@
 4684685-ski-nordique-dario-cologna-entre-dans-la-legende-en-devenant-champion-du-monde-de-skiathlon-a-val-di-fiemme-italie.html
 4989372-tour-de-suisse-8eme-etape-l-inevitable-peter-sagan-remporte-sa-deuxieme-etape-de-la-semaine-le-suisse-mathias-frank-conserve-le-maillot-jaune.html
 5065610-reportage-sur-les-championnats-de-suisse-de-ski-nautique.html
-509563-football-le-fc-sion-a-un-nouvel-entraineur-ueli-stielike.html
-517388-football-gerard-castella-est-le-nouvel-entraineur-du-servette-fc.html
+!509563-football-le-fc-sion-a-un-nouvel-entraineur-ueli-stielike.html
+!517388-football-gerard-castella-est-le-nouvel-entraineur-du-servette-fc.html
 5381876-ski-alpin-l-americaine-mikaela-shiffrin-remporte-le-slalom-de-levi-devant-l-allemande-maria-hoefl-riesch.html
 547302-football-pierre-andre-schurmann-est-le-nouvel-entraineur-de-neuchatel-xamax.html
 5482093-petkovic-enfin-confirme-par-l-asf.html

@@ -27,7 +27,7 @@
 5291951-les-yeux-du-paradis.html
 !5672213-objectif-2413-5-metres.html
 !5672213-un-tabouret-a-2413-5-metres.html
-5728756-la-ferme-a-roulettes.html
+!5728756-la-ferme-a-roulettes.html
 7286320-interview-claude-marthaler-et-alexandre-lachavanne.html
 832274-le-cueilleur-d-arbres.html
 862191-haute-route-d-hiver-episode-1.html

@@ -1,4 +1,4 @@
-3009403-14-03-2011.html
+!3009403-14-03-2011.html
 3897703-la-presidentielle-francaise-vue-de-suisse-02-05-2012.html
 4251731-transplantation-et-don-d-organes-19-09-2012.html
 4252038-sommes-nous-tous-voyeurs-et-exhibitionnistes-20-09-2012.html
@@ -45,7 +45,7 @@
 7519810-fifdh-sos-mise-a-mort-des-droits-humains-09-03-2016.html
 7522917-la-guerre-des-graines-10-03-2016.html
 7522938-la-guerre-des-graines-10-03-2016.html
-7523600-monnaies-regionales-interview-de-l-economiste-bernard-lietaer-26-08-2011.html
+!7523600-monnaies-regionales-interview-de-l-economiste-bernard-lietaer-26-08-2011.html
 7532394-le-patois-n-a-pas-dit-son-dernier-mot-14-03-2016.html
 7535204-l-anecdote-petit-recit-qui-fait-mouche-15-03-2016.html
 7538191-la-suisse-et-le-marche-des-matieres-premieres-16-03-2016.html
@@ -56,6 +56,6 @@
 7574806-cour-penale-internationale-joker-des-puissants-30-03-2016.html
 7578275-petrole-son-histoire-geopolitique-31-03-2016.html
 7607290-frontieres-12-04-2016.html
-7621063-utopie-contrainte-et-renaissance-18-04-2016.html
+!7621063-utopie-contrainte-et-renaissance-18-04-2016.html
 7655910-biomimetisme-le-futur-est-dans-la-nature-02-05-2016.html
 7661573-enjeux-de-la-contrefacon-04-05-2016.html

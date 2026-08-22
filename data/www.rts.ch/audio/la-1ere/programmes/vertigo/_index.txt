@@ -18,7 +18,7 @@
 5651391-sous-le-charme-de-dominique-a-14-03-2014.html
 5823300-ursula-meier-realisatrice-et-antoine-jaccoud-scenariste-19-05-2014.html
 5835703-cinema-cannes-le-marketing-des-palaces-23-05-2014.html
-5839827-special-festival-de-cannes-2014-25-05-2014.html
+!5839827-special-festival-de-cannes-2014-25-05-2014.html
 5916525-bonus-web-l-entretien-integral-de-david-larible-par-thierry-sartoretti-24-06-2014.html
 6126040-livres-david-foenkinos-charlotte-gallimard-22-09-2014.html
 6373320-pierric-tenthorey-les-aventures-de-30-12-2014.html
@@ -122,9 +122,9 @@
 7595267-demain-le-phenomene-06-04-2016.html
 7601385-daniel-fazan-et-laurent-gachoud-pour-vacarme-d-automne-08-04-2016.html
 7607644-pierre-lemaitre-trois-jours-et-une-vie-12-04-2016.html
-7610615-christophe-rauck-metteur-en-scene-13-04-2016.html
+!7610615-christophe-rauck-metteur-en-scene-13-04-2016.html
 7610619-vertigo-13-04-2016.html
-7610620-debat-cinema-13-04-2016.html
+!7610620-debat-cinema-13-04-2016.html
 7621466-pierre-maillard-cineaste-18-04-2016.html
 7624125-gilles-chappaz-le-grand-roman-du-solo-19-04-2016.html
 7627052-dominic-gagnon-cineaste-sans-camera-20-04-2016.html

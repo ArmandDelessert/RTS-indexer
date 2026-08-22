@@ -1,8 +1,8 @@
 ./
 10892812-lavenement-du-populisme-en-suisse.html
 8572136-les-grandes-victoires-de-ludc.html
-8578600-trois-generations-quatre-visages.html
-8579155-quelques-principes-du-populisme-suite.html
+!8578600-trois-generations-quatre-visages.html
+!8579155-quelques-principes-du-populisme-suite.html
 8582600-le-populisme-a-travers-les-affiches-politiques.html
 8588027-bibliographie-sur-le-populisme.html
 8588414-quelques-principes-du-populisme.html

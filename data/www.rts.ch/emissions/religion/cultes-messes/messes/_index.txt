@@ -1,7 +1,7 @@
-1764342-messe-de-malleray-jura-bernois.html
-3833012-messe-des-rameaux-a-saviese.html
-3851701-premiere-communion-a-winterthour.html
-3902121-messe-de-l-ascension-a-saviese.html
-4200737-un-pont-entre-le-valais-et-le-proche-orient.html
-5350778-messe-du-3e-dimanche-de-l-avent.html
-5775636-messe-de-l-ascension-a-tournai-b.html
+!1764342-messe-de-malleray-jura-bernois.html
+!3833012-messe-des-rameaux-a-saviese.html
+!3851701-premiere-communion-a-winterthour.html
+!3902121-messe-de-l-ascension-a-saviese.html
+!4200737-un-pont-entre-le-valais-et-le-proche-orient.html
+!5350778-messe-du-3e-dimanche-de-l-avent.html
+!5775636-messe-de-l-ascension-a-tournai-b.html

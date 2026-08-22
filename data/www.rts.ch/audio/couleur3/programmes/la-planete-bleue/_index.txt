@@ -29,7 +29,7 @@
 7379001-la-planete-bleue-no-882-16-01-2016.html
 7380232-la-planete-bleue-no-881-17-01-2016.html
 7397698-la-planete-bleue-no-883-23-01-2016.html
-7399192-la-planete-bleue-no-882-24-01-2016.html
+!7399192-la-planete-bleue-no-882-24-01-2016.html
 7417159-la-planete-bleue-n-884-30-01-2016.html
 7418812-la-planete-bleue-no-883-31-01-2016.html
 7436961-la-planete-bleue-n-885-06-02-2016.html
@@ -52,6 +52,6 @@
 7585819-la-planete-bleue-n-892-03-04-2016.html
 7602807-la-planete-bleue-no-894-09-04-2016.html
 7604137-la-planete-bleue-n-893-10-04-2016.html
-7617903-la-planete-bleue-no-895-16-04-2016.html
-7619462-la-planete-bleue-no-894-17-04-2016.html
+!7617903-la-planete-bleue-no-895-16-04-2016.html
+!7619462-la-planete-bleue-no-894-17-04-2016.html
 7635126-la-planete-bleue-no-896-23-04-2016.html

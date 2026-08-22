@@ -1,4 +1,4 @@
-./
+!./
 5338822-brazil-screentest-de-la-semaine-du-3-novembre-2013.html
 5351987-brazil-screentest-de-la-semaine-du-10-novembre-2013.html
 5378371-brazil-screentest-de-la-semaine-du-17-novembre-2103.html

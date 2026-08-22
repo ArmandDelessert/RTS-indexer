@@ -2,8 +2,8 @@
 4992061-comprendre-le-cerveau-grace-a-la-bombe-atomique.html
 5580323-vous-reprendrez-bien-du-clone.html
 5627227-l-imagerie-du-c-ur-va-t-elle-eclipser-le-stethoscope.html
-5666883-le-patient-au-premier-coeur-artificiel-est-decede.html
-5927704-peut-on-creer-du-sang-artificiel.html
+!5666883-le-patient-au-premier-coeur-artificiel-est-decede.html
+!5927704-peut-on-creer-du-sang-artificiel.html
 5937071-fabriquer-une-retine-a-partir-de-cellules-souches.html
 6059356-neurorecepteur-a-la-serotonine-devoile.html
 6092964-un-challenge-viral-pour-la-maladie-de-charcot.html

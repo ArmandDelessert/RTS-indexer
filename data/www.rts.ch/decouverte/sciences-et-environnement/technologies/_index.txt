@@ -63,7 +63,7 @@
 4643363-comment-le-virus-vih-arrive-t-il-dans-le-corps-humain-dans-quelle-partie-se-localise-t-il-en-premier-et-pourquoi-comment-detruit-il-le-systeme-immunitaire.html
 4643364-quelles-sont-les-etapes-du-test-de-detection-du-vih-dans-un-echantillon-de-sang-quels-sont-les-facteurs-qui-peuvent-fausser-le-test.html
 4643367-comment-se-forment-les-grossesses-multiples.html
-4643369-bonjour-j-aimerais-savoir-qu-est-ce-que-la-transcriptomique-et-savoir-ou-je-peux-trouver-des-informations-a-ce-sujet.html
+!4643369-bonjour-j-aimerais-savoir-qu-est-ce-que-la-transcriptomique-et-savoir-ou-je-peux-trouver-des-informations-a-ce-sujet.html
 4643370-quel-est-le-s-sexe-s-possible-s-des-enfants-quand-il-y-a-4-embryons-vrais-quadruples-et-quand-il-y-a-2-embryons-faux-jumeaux.html
 4643371-je-voudrais-connaitre-le-nombre-d-ovules-et-de-spermatozoides-impliques-dans-la-formation-de-4-embryons-vrais-quadruples.html
 4643372-une-mutation-du-virus-peut-elle-fausser-un-test-hiv.html
@@ -171,13 +171,13 @@
 4643484-quelle-est-la-fonction-que-remplie-la-proteine-dans-la-cellule.html
 4643485-pourquoi-dit-on-que-les-molecules-d-adn-sont-formees-de-deux-polymeres-antiparallele-que-veut-dire-antiparallele.html
 4643486-quelle-est-la-fonction-d-une-cellule-musculaire.html
-4643487-comment-appelle-t-on-les-animaux-constitues-d-une-seule-cellule-et-ceux-constitues-de-plusieurs-cellules.html
+!4643487-comment-appelle-t-on-les-animaux-constitues-d-une-seule-cellule-et-ceux-constitues-de-plusieurs-cellules.html
 4643488-comment-peut-on-expliquer-que-toutes-les-cellules-de-notre-corps-possedent-la-meme-information-genetique-alors-qu-il-existe-plus-d-une-50aine-de-types-cellulaires-differents.html
 4643489-est-ce-que-le-clonage-permet-d-atteindre-la-vie-eternelle.html
 4643490-combien-de-chromosomes-compte-le-vers-ascaris.html
 4643491-combien-y-a-t-il-de-cellules-dans-le-corps-humain-pour-un-adulte.html
 4643493-est-ce-qu-une-spermatide-peut-feconder-l-ovule-pourquoi.html
-4643494-combien-de-paires-de-chaque-types-de-chromosomes-retrouve-t-on-chez-l-etre-humain.html
+!4643494-combien-de-paires-de-chaque-types-de-chromosomes-retrouve-t-on-chez-l-etre-humain.html
 4643495-quel-est-le-nom-de-la-cellule-nerveuse.html
 4643496-comment-s-appellent-les-cellules-reproductrices-fabriquees-par-la-femme-ou-sont-elles-fabriquees.html
 4643497-comment-peut-on-savoir-qui-sont-nos-ancetres.html
@@ -274,9 +274,9 @@
 4643725-quels-roles-l-hydrogene-et-le-carbone-jouent-ils-dans-notre-vie-quotidienne.html
 4643726-s-il-fallait-ne-citer-qu-un-exemple-quel-serait-le-principal-defi-que-devra-traverser-la-biologie-dans-les-annees-a-venir.html
 4643727-existe-t-il-des-preuves-scientifiques-qui-contredisent-le-contenu-de-la-bible.html
-5338839-des-miroirs-comme-soleil.html
+!5338839-des-miroirs-comme-soleil.html
 5432057-en-quelle-annee-et-par-qui-a-ete-invente-le-premier-telephone-portable.html
-5687987-de-nouveaux-moyens-de-faire-passer-la-liaison-internet-par-les-airs-pourraient-voir-le-jour.html
+!5687987-de-nouveaux-moyens-de-faire-passer-la-liaison-internet-par-les-airs-pourraient-voir-le-jour.html
 6150480-la-mort-de-richard-iii-expliquee.html
 6273666-venice-time-machine.html
 6346539-l-implant-retinien-gagne-la-suisse.html

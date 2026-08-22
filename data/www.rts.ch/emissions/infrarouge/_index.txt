@@ -95,10 +95,10 @@
 13153079-la-migros-estelle-soluble-dans-lalcool.html
 13171844-la-suisse-romande-existetelle.html
 13186518-fautil-vraiment-detester-lete.html
-13250932-infrarouge.html
+!13250932-infrarouge.html
 13333870-noel-a-la-bougie.html
 13347541-elevage-intensif-a-mort-la-viande.html
-13358950-avs21-legalite-oui-mais-laquelle.html
+!13358950-avs21-legalite-oui-mais-laquelle.html
 13380729-impot-anticipe-une-reforme-pour-les-riches.html
 13380871-avs21-legalite-oui-mais-laquelle.html
 13397548-qatar-un-mondial-horsjeu.html
@@ -146,7 +146,7 @@
 14526599-hausse-des-loyers-tous-a-la-rue.html
 14544468-asile-la-suisse-sous-haute-tension.html
 14607743-fautil-effacer-gerard-depardieu.html
-5604654-infrarouge.html
+!5604654-infrarouge.html
 7063549-elections-federales-comment-sauver-nos-retraites-.html
 7066580-contact.html
 7106313-comment-gerer-nos-frontieres-.html

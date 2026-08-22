@@ -1,8 +1,8 @@
 ./
-6887799-philo-in-vivo-du-07-07-2015.html
-6903370-philo-in-vivo-du-14-07-2015.html
-6903535-philo-in-vivo-du-15-07-2015.html
-6903705-philo-in-vivo-du-17-07-2015.html
-6904108-philo-in-vivo-du-21-07-2015.html
-6925249-philo-in-vivo-du-22-07-2015.html
-6927876-philo-in-vivo-du-24-07-2015.html
+!6887799-philo-in-vivo-du-07-07-2015.html
+!6903370-philo-in-vivo-du-14-07-2015.html
+!6903535-philo-in-vivo-du-15-07-2015.html
+!6903705-philo-in-vivo-du-17-07-2015.html
+!6904108-philo-in-vivo-du-21-07-2015.html
+!6925249-philo-in-vivo-du-22-07-2015.html
+!6927876-philo-in-vivo-du-24-07-2015.html

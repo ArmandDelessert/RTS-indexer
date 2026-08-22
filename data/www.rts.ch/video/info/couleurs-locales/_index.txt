@@ -1,6 +1,6 @@
 ./
 1942916-depuis-ce-matin-une-espece-de-tortue-appelee-cistude-vit-a-nouveau-en-liberte-en-suisse.html
-2056990-a-vevey-une-fresque-colossale-a-la-gloire-de-charlie-chaplin-sera-realisee-sur-deux-immeubles.html
+!2056990-a-vevey-une-fresque-colossale-a-la-gloire-de-charlie-chaplin-sera-realisee-sur-deux-immeubles.html
 2362052-couleurs-d-ete.html
 2467840-reportage-sur-jean-claude-bering-chauffeur-de-bus-a-la-chaux-de-fonds-ne-et-ancien-champion-de-rallye-automobile.html
 2482986-vd-le-projet-metamorphose-se-devoile-a-lausanne.html
@@ -11,10 +11,10 @@
 3644463-la-chaux-de-fonds-ne-un-atelier-abandonne-etait-rempli-de-produits-toxiques.html
 3798723-carnaval-du-noirmont-ju-portrait-d-une-clique-pas-comme-les-autres-dans-les-franches-montagnes.html
 3826540-reportage-sur-les-salons-de-modeste-a-fribourg-evenement-fabrique-de-toutes-pieces-pour-favoriser-les-rencontres-inattendues-entre-inconnus.html
-3959576-ne-un-commercant-independant-d-absinthe-a-comparu-ce-lundi-devant-le-tribunal-de-police-neuchatelois-pour-avoir-vante-les-plaisirs-de-sa-consommation.html
-3968019-vd-lausanne-a-ete-designee-ville-du-gout-2012.html
+!3959576-ne-un-commercant-independant-d-absinthe-a-comparu-ce-lundi-devant-le-tribunal-de-police-neuchatelois-pour-avoir-vante-les-plaisirs-de-sa-consommation.html
+!3968019-vd-lausanne-a-ete-designee-ville-du-gout-2012.html
 3976099-retour-sur-l-expo-02-un-evenement-qui-avait-attire-pres-de-quatre-millions-de-visiteurs-avec-notamment-le-nuage-d-yverdon-les-bains-vd.html
-3981997-les-celebres-livres-pour-enfants-monsieur-madame-ont-ete-revisites-par-deux-fribourgeois-pour-un-public-d-adultes.html
+!3981997-les-celebres-livres-pour-enfants-monsieur-madame-ont-ete-revisites-par-deux-fribourgeois-pour-un-public-d-adultes.html
 4031241-election-complementaire-au-conseil-d-etat-genevois-portrait-d-anne-emery-torracinta.html
 4059024-ju-reportage-sur-le-franc-montagnard-journal-regional-edite-a-saignelegier-depuis-113-ans.html
 4070360-le-pont-de-la-poya-fr-coutera-90-millions-de-francs-de-plus-que-prevu.html

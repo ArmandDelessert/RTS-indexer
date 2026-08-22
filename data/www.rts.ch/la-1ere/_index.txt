@@ -32,9 +32,9 @@
 12866191-dessins-recits-historiques-et-idees-politiques.html
 13065822-une-histoire-des-fous-volants.html
 13490209-vaccination-des-eclairages-contrastes.html
-2132274-discographie-d-alain-bashung.html
-6743601-appel-a-temoins-ces-evenements-qui-ont-marque-votre-vie.html
-7402155-hommage-a-david-bowie-1947-2016.html
+!2132274-discographie-d-alain-bashung.html
+!6743601-appel-a-temoins-ces-evenements-qui-ont-marque-votre-vie.html
+!7402155-hommage-a-david-bowie-1947-2016.html
 !7843709-l-ete-sur-la-premiere-2016.html
 !7843709-lete-sur-la-premiere-2016.html
 8012993-label-suisse-2016.html

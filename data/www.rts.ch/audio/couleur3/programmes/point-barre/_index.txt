@@ -1,4 +1,4 @@
-2033367-point-barre-reloaded.html
+!2033367-point-barre-reloaded.html
 4401488-call-of-duty-black-ops-2-17-11-2012.html
 4401489-news-un-juge-une-voix-un-jeu-suisse-17-11-2012.html
 4401490-les-ebooks-17-11-2012.html
@@ -21,7 +21,7 @@
 6273387-news-byzance-reflexion-et-teasing-intelligent-08-11-2014.html
 6273395-firefox-fete-ses-10-ans-08-11-2014.html
 6304542-interview-la-realite-virtuelle-1-2-29-11-2014.html
-6445322-sur-le-web-24-01-2015.html
+!6445322-sur-le-web-24-01-2015.html
 7510141-point-barre-05-03-2016.html
 7510142-news-hi-tech-05-03-2016.html
 7510144-sur-le-web-05-03-2016.html

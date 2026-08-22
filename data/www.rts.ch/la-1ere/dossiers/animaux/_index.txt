@@ -1,5 +1,5 @@
-./
-3950794-un-amour-de-grenouille.html
-3950816-le-chant-des-baleines.html
-3950909-etonnant-etourneau.html
-3967237-le-coucou-stratege.html
+!./
+!3950794-un-amour-de-grenouille.html
+!3950816-le-chant-des-baleines.html
+!3950909-etonnant-etourneau.html
+!3967237-le-coucou-stratege.html

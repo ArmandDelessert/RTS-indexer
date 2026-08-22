@@ -3,7 +3,7 @@
 6479691-26-minutes-en-video.html
 6498922-toutes-les-emissions.html
 6616592-dans-les-coulisses-de-tournages-emission-du-14-mars-2015.html
-7039823-les-sequences-de-l-emission.html
+!7039823-les-sequences-de-l-emission.html
 7117199-dans-les-coulisses-de-l-enregistrement-emission-du-26-septembre-2015.html
 7570026-dans-les-coulisses-de-l-emission-12-mars-2016.html
 7628135-dans-les-coulisses-de-l-emission-9-avril-2016.html

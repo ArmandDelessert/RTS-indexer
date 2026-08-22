@@ -3,7 +3,7 @@
 3169128-joseph-gorgoni-va-voir-rabelais-la-nuit-a-la-parfumerie-a-geneve.html
 3756620-christophe-willem-se-rend-a-la-galerie-de-design-cramer-au-quartier-des-bains-geneve.html
 3791010-gaspard-proust-decouvre-le-train-fantome-d-alain-margot-a-la-chaux-de-fonds.html
-3968439-david-foenkinos-visite-l-exposition-un-homme-qui-dort.html
+!3968439-david-foenkinos-visite-l-exposition-un-homme-qui-dort.html
 4254232-l-agenda-culturel-d-elsa-duperrey.html
 4254234-sylvie-bourban-se-promene-sur-le-geoglyphe-de-grand-tete-en-valais.html
 4254236-alain-monney-voit-la-piece-cosmos-de-dorian-rossel-a-la-batie.html

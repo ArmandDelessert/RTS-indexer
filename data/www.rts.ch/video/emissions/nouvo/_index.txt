@@ -1,4 +1,4 @@
 ./
-4592104-la-mort-passe-au-scanner.html
-5326282-un-sous-marin-pour-milliardaires.html
-5572869-avalanches-l-application-qui-pourrait-vous-sauver.html
+!4592104-la-mort-passe-au-scanner.html
+!5326282-un-sous-marin-pour-milliardaires.html
+!5572869-avalanches-l-application-qui-pourrait-vous-sauver.html

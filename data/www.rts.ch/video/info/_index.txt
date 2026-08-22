@@ -1,4 +1,4 @@
-./
+!./
 2513428-sequences-choisies-la-nouvelle-miss-suisse-se-nomme-kerstin-cook-une-lucernoise-de-21-ans-etudiante-en-biologie-et-mannequin-la-premiere-dauphine-est-la-genevoise-sabrina-guilloud-une-soiree-toute-en-paillettes-et-en-emotion.html
 2658290-l-integrale-de-l-interview-de-julian-assange-responsable-de-wikileaks-par-darius-rochebin.html
 2678986-le-portrait-de-jacob-berger.html
@@ -19,4 +19,4 @@
 4705715-thomas-minder-heureux-et-fier-des-suisses.html
 4870785-le-regard-de-christine-lagarde-sur-l-europe.html
 5611568-extrait-de-la-suisse-vue-du-ciel.html
-745337-interview-de-maurice-chappaz.html
+!745337-interview-de-maurice-chappaz.html

@@ -1,4 +1,4 @@
-986247-pierre-assouline.html
-986993-claude-inga-barbey.html
-990118-maurice-mimoun.html
-990473-jacques-chessex.html
+!986247-pierre-assouline.html
+!986993-claude-inga-barbey.html
+!990118-maurice-mimoun.html
+!990473-jacques-chessex.html

@@ -7,9 +7,9 @@
 3050575-anorexie-boulimie-l-enfer-est-dans-l-assiette.html
 3182095-les-abandonnes-de-la-dermatologie.html
 3589314-le-suivi-des-grands-prematures-l-effet-placebo.html
-3905185-fecondation-in-vitro-menaces-dans-l-eprouvette.html
-3965545-distilbene-un-heritage-empoisonne.html
-4233887-les-maux-des-mots.html
+!3905185-fecondation-in-vitro-menaces-dans-l-eprouvette.html
+!3965545-distilbene-un-heritage-empoisonne.html
+!4233887-les-maux-des-mots.html
 4563744-tarifs-dentaires-edentes-ou-endettes.html
 4600579-microbiote-ces-bacteries-qui-nous-gouvernent-aux-frontieres-de-la-conscience.html
 4600581-microbiote-ces-bacteries-qui-nous-gouvernent.html

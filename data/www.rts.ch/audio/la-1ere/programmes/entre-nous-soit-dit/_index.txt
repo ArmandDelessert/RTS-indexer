@@ -1,5 +1,5 @@
 4197830-entre-nous-soit-dit.html
-4251662-stanislas-wawrinka-le-droitier-19-09-2012.html
+!4251662-stanislas-wawrinka-le-droitier-19-09-2012.html
 4301682-ariane-dayer-l-info-au-feminin-10-10-2012.html
 4547954-eric-emmanuel-schmitt-l-insatiable-17-01-2013.html
 4732161-philippe-kenel-l-ami-des-gens-fortunes-27-03-2013.html
@@ -23,10 +23,10 @@
 7603027-arouna-lipschitz-la-voie-de-l-amoureux-09-04-2016.html
 7605732-isabelle-alonso-l-espagne-et-la-france-11-04-2016.html
 7607783-khany-hamdaoui-theatre-montreux-riviera-12-04-2016.html
-7610544-guillaume-musso-maitre-du-roman-13-04-2016.html
-7613381-harry-koumrouyan-les-armeniens-en-suisse-14-04-2016.html
-7615934-jean-francois-haas-comment-acheter-une-ville-15-04-2016.html
-7618208-isabelle-alonso-l-espagne-et-la-france-16-04-2016.html
+!7610544-guillaume-musso-maitre-du-roman-13-04-2016.html
+!7613381-harry-koumrouyan-les-armeniens-en-suisse-14-04-2016.html
+!7615934-jean-francois-haas-comment-acheter-une-ville-15-04-2016.html
+!7618208-isabelle-alonso-l-espagne-et-la-france-16-04-2016.html
 7621432-elisabeth-horem-globe-trotteuse-18-04-2016.html
 7627029-djerem-le-roi-des-fetards-20-04-2016.html
 7630168-cesla-amarelle-droit-et-politique-21-04-2016.html

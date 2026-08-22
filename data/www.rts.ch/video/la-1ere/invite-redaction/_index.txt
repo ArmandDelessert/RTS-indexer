@@ -1,4 +1,4 @@
-./
+!./
 3961016-l-austerite-favorise-le-chomage-philip-jennings-secretaire-general-uni-global-union.html
 3966623-la-place-financiere-doit-se-reinventer-bernard-droux-president-fondation-geneve-place-financiere.html
 4001559-il-y-a-une-difference-entre-le-sens-d-une-oeuvre-et-sa-valeur-marchande-christian-bernard-directeur-du-mamco.html
@@ -49,11 +49,11 @@
 5127378-notre-reseau-arrive-a-la-limite-de-ses-capacites-olivier-barraud-secretaire-general-au-sev.html
 5130279-philippe-perrenoud-ministre-bernois.html
 5135006-serge-gaillard-directeur-de-l-administration-federale-des-finances.html
-5297606-telephonie-un-impot-deguise-richard-hill-consultant-independant.html
+!5297606-telephonie-un-impot-deguise-richard-hill-consultant-independant.html
 5309096-penser-a-la-creation-d-un-gouvernement-transfrontalier-jacques-levy-geographe-au-programme-doctoral-architecture-et-sciences-de-la-ville-a-l-epfl-a-lausanne.html
 5312482-c-est-la-diversite-culturelle-qui-fait-la-richesse-de-notre-pays-isabelle-chassot-future-directrice-de-ofc.html
-5315191-cette-initiative-1-12-ne-vise-pas-a-couper-des-tetes-benoit-gaillard-president-du-ps-lausannois.html
-5319082-cette-initiative-cree-une-inegalite-de-traitement-entre-deux-modeles-de-vie-eveline-widmer-schlumpf-conseillere-federale-departement-des-finances.html
+!5315191-cette-initiative-1-12-ne-vise-pas-a-couper-des-tetes-benoit-gaillard-president-du-ps-lausannois.html
+!5319082-cette-initiative-cree-une-inegalite-de-traitement-entre-deux-modeles-de-vie-eveline-widmer-schlumpf-conseillere-federale-departement-des-finances.html
 5406157-je-suis-surpris-par-la-tournure-des-evenements-philippe-wanner-professeur-de-demographie-a-l-unige.html
 5424438-il-faut-des-notes-charles-beer-conseiller-d-etat-en-charge-de-l-instruction-publique-president-du-gouvernement-genevois.html
 5565707-ca-me-tient-a-coeur-doris-leuthard-conseillere-federale-cheffe-du-departement-des-transports.html
@@ -68,9 +68,9 @@
 5961862-le-foot-c-est-du-theatre-massimo-furlan-comedien-et-metteur-en-scene.html
 5965370-il-s-autodetruira-michel-jaccard-avocat.html
 5970828-retablir-l-equilibre-denis-torche-membre-de-la-commission-federale-des-migrations.html
-6132924-facebook-n-est-pas-le-lieu-francois-longchamp-president-du-conseil-d-etat-genevois.html
-6137839-plusieurs-annees-jean-paul-rouiller-directeur-centre-analyse-du-terrorisme.html
-6144004-l-ecosse-n-est-pas-la-catalogne-dusan-sidjanski-politologue-et-professeur-universitaire.html
-6154087-une-journee-noire-mathieu-fleury-secretaire-general-de-la-frc.html
-6163334-ce-sera-au-moins-3-degres-martin-beniston-climatologue-ancien-membre-du-giec.html
-6165891-la-suisse-n-avait-pas-le-choix-xavier-oberson-avocat-fiscaliste.html
+!6132924-facebook-n-est-pas-le-lieu-francois-longchamp-president-du-conseil-d-etat-genevois.html
+!6137839-plusieurs-annees-jean-paul-rouiller-directeur-centre-analyse-du-terrorisme.html
+!6144004-l-ecosse-n-est-pas-la-catalogne-dusan-sidjanski-politologue-et-professeur-universitaire.html
+!6154087-une-journee-noire-mathieu-fleury-secretaire-general-de-la-frc.html
+!6163334-ce-sera-au-moins-3-degres-martin-beniston-climatologue-ancien-membre-du-giec.html
+!6165891-la-suisse-n-avait-pas-le-choix-xavier-oberson-avocat-fiscaliste.html

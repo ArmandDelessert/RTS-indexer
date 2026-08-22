@@ -4,7 +4,7 @@
 1965433-football-super-league-xamax-zurich-3-3.html
 1965435-football-super-league-sion-st-gall-5-1.html
 1965439-football-super-league-bilan-de-la-saison-2009-2010.html
-2052894-judo-rencontre-avec-la-meilleure-judoka-suisse-du-moment-juliane-robra.html
+!2052894-judo-rencontre-avec-la-meilleure-judoka-suisse-du-moment-juliane-robra.html
 2172534-coupe-du-monde-itw-diego-benaglio-gariden-equipe-de-suisse.html
 3072152-basketball-portrait-de-thabo-sefolosha-joueur-nba-d-oklahoma-city.html
 4095459-objectif-londres-portrait-de-l-escrimeuse-tiffany-geroudet.html
@@ -56,7 +56,7 @@
 5141705-athletisme-championnat-du-monde-moscou-la-derniere-journee-a-ete-riche-en-emotions.html
 5141711-football-coupe-de-suisse-1er-tour-le-servette-fc-se-refait-une-sante-en-s-imposant-face-a-la-chaux-de-fonds-3-0.html
 5141713-football-coupe-de-suisse-1er-tour-thoune-domine-echallens-3-1.html
-516925-football-super-league-rencontre-avec-uli-stielike-entraineur-du-fc-sion.html
+!516925-football-super-league-rencontre-avec-uli-stielike-entraineur-du-fc-sion.html
 5579216-les-explications-du-programme-des-jeux-de-sotchi-par-massimo-lorenzi.html
 5840755-24-heures-du-mans-le-genevois-gary-hirsch-va-decouvrir-la-course-mythique-aux-cotes-d-une-equipe-romande.html
 5840763-football-super-league-34e-j-fc-sion-fc-thoune-3-1.html

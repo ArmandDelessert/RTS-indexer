@@ -1,9 +1,9 @@
 ./
-2016424-diane-stagiaire-a-la-creche-le-bosquet.html
-2758511-la-mecanique-du-silence.html
-2758513-pierre-avezard-dit-petit-pierre.html
-2758515-le-monde-magique-de-petit-pierre.html
-2758517-transfert-du-manege-a-la-fabuloserie-de-dicy.html
+!2016424-diane-stagiaire-a-la-creche-le-bosquet.html
+!2758511-la-mecanique-du-silence.html
+!2758513-pierre-avezard-dit-petit-pierre.html
+!2758515-le-monde-magique-de-petit-pierre.html
+!2758517-transfert-du-manege-a-la-fabuloserie-de-dicy.html
 3078523-les-sourds-croques-par-l-un-des-leurs.html
 389084-signes.html
 4276747-un-supermarche-qui-integre.html

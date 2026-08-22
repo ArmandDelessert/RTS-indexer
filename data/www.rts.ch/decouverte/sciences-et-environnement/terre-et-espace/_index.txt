@@ -56,7 +56,7 @@
 6651219-d-ou-vient-l-amethyste-quelle-est-son-origine.html
 6839265-peut-on-predire-un-seisme-a-une-journee-ou-une-heure-pres.html
 7030549-un-ascenseur-spatial-pour-lancer-les-fusees.html
-7043233-simulation-d-un-voyage-vers-mars.html
+!7043233-simulation-d-un-voyage-vers-mars.html
 7063411-comment-appelle-t-on-du-granite-altere.html
 7063415-dans-quelle-circonstance-et-par-qui-l-amethyste-a-ete-decouverte-ou-est-ce-que-l-on-trouve-les-plus-importants-gisements.html
 7093769-les-droles-de-secrets-d-encelade.html
@@ -74,7 +74,7 @@
 7316537-qu-est-ce-qui-fait-bouger-les-plaques-tectoniques.html
 7396821-qu-elle-est-la-difference-entre-un-mineral-et-la-roche-et-quels-sont-les-10-mineraux-qui-valent-le-plus-cher.html
 7396906-l-espece-humaine-va-t-elle-disparaitre.html
-7436140-il-existerait-une-neuvieme-planete-dans-notre-systeme-solaire.html
+!7436140-il-existerait-une-neuvieme-planete-dans-notre-systeme-solaire.html
 7468203-la-brevine-frissonnera-toujours.html
 7506761-comment-se-forme-l-andesite.html
 7570470-la-mission-exomars-decolle.html

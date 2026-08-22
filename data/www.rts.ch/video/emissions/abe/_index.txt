@@ -63,8 +63,8 @@
 388403-les-berges-des-lacs-romands-sous-la-loupe-le-commerce-equitable-qu-est-ce-que-c-est-interview-de-paola-ghilani-directrice-de-max-havelaar-suisse.html
 388405-les-berges-des-lacs-romands-sous-la-loupe.html
 388407-le-commerce-equitable-qu-est-ce-que-c-est-interview-de-paola-ghilani-directrice-de-max-havelaar-suisse.html
-3885000-le-fait-maison.html
-3962622-le-pied-nature.html
+!3885000-le-fait-maison.html
+!3962622-le-pied-nature.html
 3962630-courir-quel-pied.html
 396748-des-jardins-familiaux-pas-tres-bio.html
 4143123-les-inventeurs-suisses-michael-dupertuis-et-son-ecowizz.html

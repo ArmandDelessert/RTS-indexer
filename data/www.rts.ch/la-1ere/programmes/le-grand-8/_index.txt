@@ -1,4 +1,4 @@
 ./
-1878957-le-grand-8-du-25-05-2010.html
-2071868-le-grand-8-du-03-06-2010.html
-364680-le-grand-8-du-27-03-2009.html
+!1878957-le-grand-8-du-25-05-2010.html
+!2071868-le-grand-8-du-03-06-2010.html
+!364680-le-grand-8-du-27-03-2009.html

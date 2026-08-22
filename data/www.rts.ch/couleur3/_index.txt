@@ -23,7 +23,7 @@
 14490389-couleur-3-casse-les-prix.html
 2340755-l-equipe-de-saperlipopette.html
 2457962-les-animateurs-et-chroniqueurs-de-couleur-3-en-photos.html
-4153275-la-chronique-de-jean-marc-baehler.html
+!4153275-la-chronique-de-jean-marc-baehler.html
 5171312-les-bobines-de-la-3-de-a-a-y.html
 7017364-la-rts-au-for-noise-festival-2015.html
 7471564-best-act-romandie-2016.html
@@ -38,9 +38,9 @@
 8671628-le-blues.html
 8751455-c-est-l-ete-sur-couleur-3.html
 8782957-l-histoire-de-la-pochette-de-disque.html
-8831400-couleur-3-a-besoin-de-toi.html
+!8831400-couleur-3-a-besoin-de-toi.html
 8856100-nouvelle-grille-de-couleur-3.html
-9006295-avec-l-app-couleur-3-ta-radio-a-l-il.html
+!9006295-avec-l-app-couleur-3-ta-radio-a-l-il.html
 9239128-de-l-e-sport-sur-couleur-3-en-veux-tu-en-voila.html
 9239682-blues-et-feminisme-noir-d-angela-davis.html
 9309382-un-jour-pour-parler-ist.html

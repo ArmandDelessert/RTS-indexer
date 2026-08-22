@@ -1,8 +1,8 @@
 ./
-5255587-lard-et-l-art.html
-5288135-tout-un-plat-du-27-10-2013.html
+!5255587-lard-et-l-art.html
+!5288135-tout-un-plat-du-27-10-2013.html
 5712141-le-cafe-boisson-mondiale.html
 5856202-la-cuisine-libanaise-31-05-2014.html
-6103696-bienvenue-a-la-benichon-du-pays-de-fribourg.html
-6323668-le-nez-du-vin-oenoflair.html
+!6103696-bienvenue-a-la-benichon-du-pays-de-fribourg.html
+!6323668-le-nez-du-vin-oenoflair.html
 6504359-murisseur-d-exotiques-14-02-2015.html

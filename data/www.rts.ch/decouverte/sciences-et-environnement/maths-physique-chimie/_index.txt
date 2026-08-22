@@ -124,7 +124,7 @@
 4640987-ne-devrait-on-pas-dire-plustot-le-princide-d-indetermination-de-heisenberg-car-il-n-y-a-point-d-incertitude-sur-le-fait-qu-on-ne-peut-mesurer-et-la-position-et-la-vitesse-d-une-particule.html
 4640988-a-t-on-jamais-pu-ou-songe-a-quantifier-l-elevation-de-chaleur-due-a-l-ensemble-des-ondes-emises-telephoniques-satellites-hertziennes-par-l-ensemble-de-nos-appareils-de-transmission-merci-d-avance.html
 4641006-la-neige-tombe-a-partir-de-0-mais-peut-elle-tombe-a-des-temperatures-inferieures-exemple-8-degres.html
-4641009-comment-appele-t-on-quelque-chose-qui-est-eclaire-et-qui-emet-de-la-lumiere.html
+!4641009-comment-appele-t-on-quelque-chose-qui-est-eclaire-et-qui-emet-de-la-lumiere.html
 4641020-en-quelle-matiere-estfait-un-filament-de-lampe-a-incandescence-actuelles.html
 4641021-pourquoi-une-lampe-a-fluorescente-economise-t-elle-plus-d-electricite-qu-une-lampe-a-incadescence.html
 4641022-comment-peut-on-expliquer-le-mouvement-d-un-raisin-sec-dans-une-boisson-gazeuse-mouvement-vertical.html
@@ -211,7 +211,7 @@
 5120597-fukushima-deux-ans-apres.html
 5291851-comment-distinguer-un-gaz-d-une-fumee.html
 5329093-de-quoi-est-compose-un-cristal-vient-il-de-l-eau.html
-5335842-le-thorium-la-solution-miracle-au-nucleaire.html
+!5335842-le-thorium-la-solution-miracle-au-nucleaire.html
 5341413-pour-un-traitement-avec-du-sel-en-solution-saturee-quel-debit-en-metres-cube-par-heure-doit-on-utiliser-pour-que-160-tonnes-de-sel-soient-deversees-chaque-heure.html
 5341428-dans-le-cas-des-desaturases-enzymes-catalysant-la-creation-d-une-double-liaison-dans-les-acides-gras-peut-on-parler-d-isoenzymes-puisqu-elles-sont-synthetisees-a-partir-de-gene-differents-bien-qu-ell.html
 6327580-qu-est-ce-que-la-relativite-et-la-gravitation.html

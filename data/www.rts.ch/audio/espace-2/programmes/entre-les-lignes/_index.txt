@@ -1,5 +1,5 @@
 1423934-entre-les-lignes.html
-2232761-virgile-elias-gehrig-un-triptyque-20-07-2010.html
+!2232761-virgile-elias-gehrig-un-triptyque-20-07-2010.html
 3570688-recits-sur-assiette-23-11-2011.html
 3885565-leonor-de-recondo-reves-oublies-11-04-2012.html
 3897632-catherine-clement-la-reine-des-cipayes-02-05-2012.html
@@ -29,8 +29,8 @@
 7571638-guy-chevalley-cellulose-29-03-2016.html
 7574849-matthias-zschokke-l-homme-qui-avait-deux-yeux-30-03-2016.html
 7608940-matthieu-ruf-percussions-12-04-2016.html
-7610234-agnes-vannouvong-dans-la-jungle-13-04-2016.html
-7613096-prix-du-public-de-la-rts-14-04-2016.html
+!7610234-agnes-vannouvong-dans-la-jungle-13-04-2016.html
+!7613096-prix-du-public-de-la-rts-14-04-2016.html
 7621107-stephane-lambert-avant-godot-18-04-2016.html
 7629812-sylvie-germain-a-la-table-des-hommes-21-04-2016.html
 7636629-pierre-loye-parmi-les-vivants-24-04-2016.html

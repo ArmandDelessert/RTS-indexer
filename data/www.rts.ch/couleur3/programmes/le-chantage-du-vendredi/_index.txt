@@ -1,6 +1,6 @@
 ./
-7810528-le-chantage-du-vendredi.html
-7951272-voyage-voyage.html
-7968076-pokemon-go-away.html
-7986397-singing-in-the-rain.html
-8003377-cff-ton-monde-merveilleux.html
+!7810528-le-chantage-du-vendredi.html
+!7951272-voyage-voyage.html
+!7968076-pokemon-go-away.html
+!7986397-singing-in-the-rain.html
+!8003377-cff-ton-monde-merveilleux.html
