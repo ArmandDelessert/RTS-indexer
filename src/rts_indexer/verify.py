@@ -482,15 +482,28 @@ def check_urls(
 #: (ex. ``-28540577.html``, artefact déjà rencontré ailleurs dans l'index).
 ID_RE = re.compile(r"^-?(\d{4,})(?:-.*)?\.html$")
 
+#: Identifiant RTS en fin de slug (ex. ``la-selection-2025-28553835.html``) —
+#: certaines sections (rencontré sous un dossier ``.../`` de l'index) placent
+#: l'identifiant après le titre plutôt qu'avant. Un éventuel millésime en
+#: milieu de slug (le ``2025`` ci-dessus) n'est pas ambigu : seul le groupe
+#: juste avant ``.html`` est capturé.
+ID_SUFFIX_RE = re.compile(r"-(\d{4,})\.html$")
+
 
 def extract_id(slug: str) -> str | None:
-    """Identifiant RTS en tête de ``slug``, ou ``None`` s'il n'y en a pas.
+    """Identifiant RTS dans ``slug`` (en tête ou en fin), ou ``None`` sinon.
 
-    Les URLs RTS suivent presque toutes le format ``<id>-<titre>.html`` ; cet
-    identifiant est ce que ``https://www.rts.ch/a/<id>`` sait résoudre vers
-    l'URL canonique actuelle du contenu (voir :func:`resolve_ids`).
+    Les URLs RTS suivent presque toutes le format ``<id>-<titre>.html`` ou,
+    plus rarement, ``<titre>-<id>.html`` ; cet identifiant est ce que
+    ``https://www.rts.ch/a/<id>`` sait résoudre vers l'URL canonique actuelle
+    du contenu (voir :func:`resolve_ids`). Un faux positif (ex. un millésime
+    isolé pris pour un identifiant) est sans conséquence : ``resolve_ids``
+    n'agit que sur un 2xx, un identifiant inventé répond simplement 404.
     """
     m = ID_RE.match(slug)
+    if m:
+        return m.group(1)
+    m = ID_SUFFIX_RE.search(slug)
     return m.group(1) if m else None
 
 

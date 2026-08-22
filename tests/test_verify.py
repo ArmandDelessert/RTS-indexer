@@ -628,6 +628,13 @@ def test_extract_id_variantes():
     assert verify_module.extract_id("abc-123.html") is None  # ne commence pas par un chiffre
 
 
+def test_extract_id_en_fin_de_slug():
+    assert verify_module.extract_id("batir-avec-ce-qui-reste-28531421.html") == "28531421"
+    # un millesime en milieu de slug ne doit pas etre pris pour l'identifiant
+    assert verify_module.extract_id("la-selection-2025-28553835.html") == "28553835"
+    assert verify_module.extract_id("courte-idee-123.html") is None  # sous le seuil (< 4 chiffres)
+
+
 def test_resolve_ids_suit_la_redirection_vers_l_url_canonique():
     cible = "https://www.rts.ch/emissions/infrarouge/2017/article/x-1.html"
 
