@@ -46,8 +46,6 @@
 7056702-le-taux-de-chomage-a-son-plus-bas-niveau-depuis-2008-aux-etats-unis.html
 7060635-credit-suisse-condamne-a-payer-287-5-millions-de-dollars-aux-etats-unis.html
 7062456-jusqua-30-des-entreprises-dans-lindustrie-des-machines-dans-le-rouge.html
-7063496-les-enfants-et-l-argent-comment-en-parler-.html
-7063496-les-enfants-et-l-argent.html
 7063496-les-enfants-et-largent.html
 7065262-la-greve-des-pilotes-de-lufthansa-devrait-toucher-1000-vols-mercredi.html
 7065618-augmentation-du-taux-de-chomage-a-32-en-aout-en-suisse.html
@@ -750,7 +748,6 @@
 7875227-26-3-l-incroyable-croissance-gonflee-artificiellement-de-l-irlande-en-2015.html
 7876224-la-tendance-a-la-baisse-des-taux-hypothecaires-se-poursuit.html
 7877015-ubs-pourrait-etre-melee-a-un-vaste-scandale-de-corruption-en-malaisie.html
-7878302-l-europe-formalise-de-nouvelles-accusations-contre-google.html
 7878302-leurope-formalise-de-nouvelles-accusations-contre-google.html
 7878376-la-banque-d-angleterre-maintient-son-taux-inchange-malgre-le-brexit.html
 7879058-ubs-reste-la-premiere-banque-privee-au-monde-selon-une-etude.html

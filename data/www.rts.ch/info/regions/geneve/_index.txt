@@ -554,7 +554,6 @@
 11510775-le-marchand-dart-yves-bouvier-aurait-dissimule-330-millions-au-fisc.html
 11512913-pierre-maudet-renonce-a-faire-recours-contre-son-exclusion-du-plr.html
 11521848-des-chantiers-et-un-trafic-automobile-plus-importants-a-geneve-cet-ete.html
-11527112-covid19-si-geneve-etait-un-pays-il-serait-considere-comme-a-risque.html
 11530285-les-pompiers-genevois-sont-intervenus-260-fois-apres-le-violent-orage.html
 11533449-accord-signe-entre-airbnb-et-geneve-pour-une-taxe-de-sejour.html
 11533817-un-medecin-des-hug-viole-la-loi-mais-est-acquitte.html
@@ -589,7 +588,6 @@
 11623416-crise-identitaire-au-sein-du-cicr-des-discussions-internes-revelent-le-malaise.html
 11623674-une-application-pour-recenser-tous-les-chantiers-a-geneve.html
 11627557-geneve-aeroport-va-supprimer-56-postes-pour-faire-face-a-la-crise.html
-11628282-un-t-shirt-de-la-honte-cree-la-polemique-dans-un-cycle-genevois.html
 11628282-un-tshirt-de-la-honte-cree-la-polemique-dans-un-cycle-genevois.html
 11628282‑un‑tshirt‑de‑la‑honte‑cree‑la‑polemique‑dans‑un‑cycle‑genevois.html
 11629604-un-nid-de-frelons-asiatiques-a-ete-repere-et-detruit-a-geneve.html
@@ -823,7 +821,6 @@
 12250505-le-grand-conseil-genevois-balaie-le-programme-de-legislature-20182023.html
 12251737-une-expo-a-geneve-consacree-a-ladolescence-et-au-risque-suicidaire.html
 12255628-quinze-ans-apres-avoir-porte-plainte-il-est-enfin-entendu-par-la-justice-penale.html
-12255641-securite-espace-aerien-ou-wifi-le-sommet-biden-poutine-se-prepare-a-geneve.html
 12255641-securite-espace-aerien-ou-wifi-le-sommet-bidenpoutine-se-prepare-a-geneve.html
 12255696-sur-les-pas-de-fabienne-fischer.html
 12255977-enveloppes-de-vote-abandonnees-geneve-fait-exception-en-matiere-de-soustraitance.html
@@ -831,14 +828,11 @@
 12261036-le-parc-la-grange-se-prepare-pour-la-rencontre-bidenpoutine-a-geneve.html
 12262545-gouvernement-genevois-in-corpore-a-berne-pour-defendre-le-grand-geneve.html
 12264252-yvan-perrin-rebondit-comme-secretaire-general-de-ludc-a-geneve.html
-12266362-la-villa-la-grange-accueillera-le-sommet-biden-poutine-a-geneve.html
 12266362-la-villa-la-grange-accueillera-le-sommet-bidenpoutine-a-geneve.html
 12267105-la-geneva-pride-revient-fin-juin-pour-faire-entendre-ses-revendications.html
-12269874-zones-fermees-circulation-perturbee-geneve-se-barricade-en-vue-du-sommet-biden-poutine.html
 12269874-zones-fermees-trafic-perturbe-geneve-se-barricade-en-vue-du-sommet-biden-poutine.html
 12272874-petit-non-a-la-cite-de-la-musique-a-geneve.html
 12272883-une-zone-agricole-a-bernex-ge-declassee-pour-y-construire-des-ecoles.html
-12274951-geneve-sur-le-quivive-a-la-veille-de-la-rencontre-bidenpoutine.html
 12280112-deux-genevois-presumes-djihadistes-juges-devant-la-justice-penale-federale.html
 12281420-les-images-fortes-du-sommet-bidenpoutine.html
 12284818-la-plainte-de-pierre-maudet-visant-deux-reportages-de-la-rts-a-ete-acceptee-a-laiep.html
@@ -858,10 +852,7 @@
 12324936-dieudonne-devant-la-justice-genevoise-pour-des-propos-negationnistes.html
 12334129-dieudonne-condamne-a-geneve-pour-discrimination-raciale.html
 12347735-une-greve-declenchee-sans-preavis-a-perturbe-laeroport-de-geneve.html
-12353393-des-opposant-camerounais-manifestent-a-geneve-malgre-l-interdiction.html
 12353393-des-opposant-camerounais-manifestent-a-geneve-malgre-linterdiction.html
-12353393-les-opposants-camerounais-interdits-de-manif-a-geneve.html
-12353393-les-opposants-camerounais-interdits-de-manifester-a-geneve.html
 12358468-le-grand-conseil-genevois-veut-une-banque-romande-de-lait-maternel.html
 12363016-accord-sur-une-cct-de-crise-chez-swissport-a-laeroport-de-geneve.html
 12364233-a-geneve-les-importants-chantiers-de-genilac-se-deploient-vers-laeroport.html
@@ -874,7 +865,6 @@
 12397855-les-jeunes-plr-genevois-en-crise-totale-avant-une-assemblee-avortee.html
 12397858-yves-mirabaud-se-retrouve-prevenu-dans-laffaire-impliquant-lancien-roi-despagne.html
 12400234-retour-au-calme-au-sein-des-jeunes-liberauxradicaux-genevois.html
-12413210-l-ancien-conseiller-national-genevois-benoit-genecand-est-decede.html
 12413210-lancien-conseiller-national-genevois-benoit-genecand-est-decede.html
 12423490-des-cyclistes-de-la-critical-mass-genevoise-denoncent-des-condamnations-politiques.html
 12425732-rentree-marquee-par-le-covid-et-la-hausse-du-nombre-deleves-a-geneve.html
@@ -1023,8 +1013,6 @@
 12796956-pourquoi-le-contournement-de-geneve-estil-actuellement-limite-a-80kmh.html
 12797678-a-geneve-les-travaux-ecologiques-consideres-comme-des-frais-dentretien.html
 12801156-le-conseil-detat-genevois-souhaite-une-loi-contre-le-surendettement.html
-12801255-le-cicr-a-ete-victime-d-une-vaste-cyberattaque-menacant-les-donnees-de-plus-de-500-000-personnes.html
-12801255-le-cicr-a-ete-victime-dune-vaste-cyberattaque-menacant-les-donnees-de-plus-de-500000-personnes.html
 12802861-pour-lutter-contre-le-bruit-routier-geneve-veut-reduire-la-vitesse.html
 12803360-a-geneve-la-caravane-sans-frontieres-manque-de-lits-pour-les-sansabris.html
 12807632-le-musee-dart-et-dhistoire-de-geneve-essaie-le-libre-tarif-dacces.html
@@ -1467,7 +1455,6 @@
 13784721-la-lake-parade-fera-son-grand-retour-en-rade-de-geneve-au-mois-de-juillet.html
 13788243-a-geneve-la-cite-des-avanchets-devient-un-site-protege.html
 13788714-linitiative-pour-des-transports-publics-gratuits-a-geneve-a-ete-invalidee.html
-13790686-une-vaste-etude-dresse-un-bilan-plutot-positif-de-l-operation-genevoise-papyrus.html
 13790686-une-vaste-etude-dresse-un-bilan-plutot-positif-de-loperation-genevoise-papyrus.html
 13791028-la-bd-asterix-chez-les-helvetes-representetelle-fidelement-la-geneve-romaine.html
 13796578-environ-300-personnes-dans-la-rue-contre-levacuation-dun-squat-a-geneve.html
@@ -1572,9 +1559,7 @@
 14036181-une-motion-demande-la-mise-en-place-dune-caisse-alimentaire-solidaire-a-geneve.html
 14039474-pour-sa-premiere-edition-la-manifestation-le-feu-o-lac-a-ravi-les-foules.html
 14039995-apres-zoug-geneve-baisse-aussi-une-taxe-pour-garder-ses-multinationales.html
-14044221-le-trafic-aerien-suspendu-a-cointrin-par-une-manifestation-des-activistes-du-climat.html
 14044221-une-manifestation-dactivistes-du-climat-a-perturbe-le-trafic-aerien-a-cointrin.html
-14044221-une-manifestation-des-activistes-du-climat-a-perturbe-le-trafic-aerien-a-cointrin.html
 14044620-la-geneva-pride-2023-revient-en-juin-avec-50-revendications-politiques.html
 14045227-des-jeunes-en-decrochage-scolaire-montent-sur-la-scene-du-theatre-de-carouge.html
 14046652-juge-pour-viol-lislamologue-tariq-ramadan-a-ete-acquitte-a-geneve.html
@@ -1727,12 +1712,6 @@
 14391001-la-cause-palestinienne-fait-descendre-6000-personnes-dans-la-rue-a-geneve.html
 14392699-le-personnel-des-pharmacies-genevoises-forme-pour-identifier-les-victimes-de-violences-domestiques.html
 14394534-fausse-alerte-au-tireur-dans-une-ecole-professionnelle-genevoise.html
-14398767-vaud-le-socialiste-pierreyves-maillard-elu-aux-etats-des-le-premier-tour-le-plr-pascal-broulis-en-2e-position.html
-14398767-vaud-le-socialiste-pierreyves-maillard-est-elu-au-conseil-des-etats-au-premier-tour.html
-14398767-vaud-pierreyves-maillard-et-pascal-broulis-arrivent-en-tete-aux-etats-selon-des-premiers-resultats-partiels.html
-14398767-vaud-pierreyves-maillard-et-pascal-broulis-arrivent-en-tete-aux-etats-selon-des-resultats-partiels.html
-14398767-vaud-pierreyves-maillard-ps-elu-aux-etats-des-le-premier-tour-le-ps-ludc-et-le-centre-gagnent-un-siege-au-national.html
-14398767-vaud-une-alliance-a-droite-aux-etats-pour-reiterer-le-succes-des-cantonales.html
 14398830-la-ville-de-geneve-verse-six-mois-de-salaire-a-un-haut-cadre-pour-sa-demission.html
 14400452-le-manque-de-sommeil-un-impact-economique-neglige.html
 14400925-pres-de-15000-signatures-pour-le-referendum-mene-par-exit-a-geneve.html
@@ -3078,8 +3057,6 @@
 8040057-les-prix-des-tpg-vont-augmenter-tout-comme-les-prestations.html
 8041228-le-palais-de-justice-de-geneve-a-exceptionnellement-devoile-ses-secrets.html
 8042172-geneve-devient-le-plus-restrictif-pour-les-deductions-fiscales-des-pendulaires.html
-8045703-le-trafic-ferroviaire-a-ete-perturbe-sur-la-ligne-entre-geneve-et-lausanne.html
-8045703-le-trafic-ferroviaire-interrompu-sur-la-ligne-entre-geneve-et-lausanne.html
 8052001-linterdiction-de-mendier-a-geneve-na-pas-suffi-a-eradiquer-le-phenomene.html
 8054537-le-proces-de-fabrice-a-ajourne-pour-plusieurs-mois.html
 8056001-les-policiers-genevois-a-nouveau-en-conflit-avec-leur-hierarchie-.html
@@ -3567,7 +3544,6 @@
 9321884-le-chantier-dun-centre-modulable-pour-migrants-lance-a-geneve.html
 9334906-geneve-tourisme-renonce-aux-habituelles-fetes-de-geneve-cet-ete.html
 9341117-les-marcheurs-kurdes-arrives-a-geneve-appellent-l-onu-a-intervenir-a-afrine.html
-9341291-trois-mois-de-suspension-pour-une-clinique-genevoise.html
 9341511-initiative-du-mcg-pour-limiter-le-nombre-de-frontaliers-a-geneve.html
 9343029-un-referendum-contre-le-pavillon-de-la-danse-en-ville-de-geneve.html
 9344711-lexdeputee-independantiste-catalane-anna-gabriel-sest-refugiee-a-geneve.html

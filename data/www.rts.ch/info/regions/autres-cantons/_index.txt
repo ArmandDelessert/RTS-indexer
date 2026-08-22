@@ -353,7 +353,6 @@
 12387207-des-milliers-de-personnes-manifestent-a-lucerne-contre-les-mesures-covid.html
 12390023-des-activistes-du-climat-ont-bloque-des-locaux-dubs-et-credit-suisse-a-zurich.html
 12396284-baleville-ambitionne-de-devenir-la-capitale-verte-de-leurope-en-2025.html
-12403618-la-peine-reduite-dun-violeur-a-bale-ravive-le-debat-sur-la-definition-du-viol.html
 12411345-lucerne-veut-une-meilleure-representation-des-femmes-dans-les-organes-dirigeants.html
 12411830-le-maire-de-lugano-marco-borradori-est-decede-subitement.html
 12424270-la-ville-de-lugano-rend-hommage-a-son-defunt-maire-marco-borradori.html
@@ -383,8 +382,6 @@
 12523144-les-tessinois-ayant-agi-en-etat-de-legitime-defense-ne-paieront-plus-de-frais-de-justice.html
 12527914-deficit-de-158-millions-au-budget-2022-de-la-ville-de-zurich.html
 12540415-des-activistes-dextinction-rebellion-bloquent-une-rue-du-centreville-de-zurich.html
-12547333-le-kunsthaus-de-zurich-est-devenu-le-plus-grand-musee-d-art-de-suisse.html
-12547333-le-kunsthaus-de-zurich-est-devenu-le-plus-grand-musee-dart-de-suisse.html
 12552346-la-plus-grande-centrale-solaire-des-alpes-est-operationnelle-a-glaris.html
 12565734-plusieurs-cantons-alemaniques-mettent-le-cap-sur-les-energies-renouvelables.html
 12588156-strictes-mesures-sanitaires-pour-la-550e-foire-dautomne-de-bale.html
@@ -421,7 +418,6 @@
 12775039-les-primates-doiventils-avoir-des-droits-fondamentaux.html
 12776219-la-delinquance-chez-les-jeunes-est-en-augmentation-a-zurich.html
 12788676-dans-une-ecole-zurichoise-les-eleves-font-passer-les-entretiens-dembauche.html
-12791903-sur-les-pas-de-nicolas-fraissinet.html
 12795193-lucerne-fait-payer-les-places-de-parc-pour-les-motos-une-premiere-en-suisse.html
 12798533-les-cantons-alemaniques-engagent-des-vaterberater-des-conseillers-pour-les-peres.html
 12801220-un-nouvel-amphitheatre-romain-a-ete-decouvert-a-kaiseraugst-ag.html
@@ -533,8 +529,6 @@
 13414835-le-refus-lucernois-ne-compromet-pas-la-caserne-de-la-garde-pontificale-au-vatican.html
 13415299-une-erreur-de-comptage-propulse-soleure-dans-le-camp-du-non-a-avs-21.html
 13432266-lexecutif-du-canton-de-zoug-reste-entierement-bourgeois.html
-13438070-le-tessin-lance-sa-campagne-de-vaccination-saisonniere-contre-le-covid-19.html
-13438070-le-tessin-lance-sa-campagne-de-vaccination-saisonniere-contre-le-covid19.html
 13448860-des-militants-et-militantes-bloquent-un-pont-a-zurich.html
 13453670-leveque-de-lugano-mgr-valerio-lazzeri-demissionne.html
 13456403-le-personnel-au-sol-de-laeroport-de-zurich-obtient-une-augmentation-de-salaire.html
@@ -548,7 +542,6 @@
 13505056-trois-loups-seront-abattus-dans-les-grisons-a-des-fins-de-regulation.html
 13509849-appenzell-rhodesexterieures-paradis-de-la-medecine-alternative-et-des-petites-primes.html
 13519411-deux-mille-objets-archeologiques-decouverts-dans-un-grenier-a-sarnen-ow.html
-13524838-une-famille-des-balkans-est-accusee-de-traite-d-etres-humains-a-moutier.html
 13534009-la-plaque-dimmatriculation-zh-100-vendue-pour-226000-francs.html
 13537360-les-ouvriers-du-batiment-alemaniques-manifestent-a-leur-tour.html
 13559632-fautil-restituer-la-momie-de-labbatiale-de-stgall-a-legypte.html
@@ -601,7 +594,6 @@
 13823159-au-tessin-on-taquine-la-truite-a-travers-la-glace-d-un-lac-de-montagne.html
 13828457-le-canton-dargovie-presente-ses-excuses-aux-locataires-expulses-de-windisch.html
 13830439-a-zurich-une-dechetterie-construite-a-partir-de-materiaux-recycles-va-voir-le-jour.html
-13830960-l-udc-zurichois-roger-koppel-ne-se-representera-pas-au-conseil-national.html
 13830960-ludc-zurichois-roger-koppel-ne-se-representera-pas-au-conseil-national.html
 13837500-la-ville-de-lucerne-va-voter-sur-une-reglementation-de-la-plateforme-airbnb.html
 13843071-election-complementaire-hors-normes-tres-scrutee-dimanche-a-saintgall.html
@@ -612,7 +604,6 @@
 13857219-deux-communes-tessinoises-limitent-deja-la-consommation-deau.html
 13859047-face-a-la-proliferation-des-sangliers-le-tessin-avance-louverture-de-la-chasse.html
 13860815-le-palmier-chanvre-du-tessin-une-beaute-qui-pose-probleme-aux-forets.html
-13861462-le-kunsthaus-de-zurich-veut-traquer-plus-vigoureusement-lart-spolie.html
 13863602-a-st-gall-duel-udc-ps-en-vue-pour-succeder-a-paul-rechsteiner-aux-etats.html
 13865031-le-parlement-de-la-ville-de-zurich-veut-tester-la-semaine-de-35-heures.html
 13881003-les-principaux-enjeux-des-elections-federales-outresarine-et-au-tessin.html
@@ -655,7 +646,6 @@
 14039189-quelque-20-sansabri-reloges-a-bale-grace-a-un-programme-novateur.html
 14039506-pres-de-14-500-visiteurs-ont-participe-aux-journees-litteraires-de-soleure.html
 14041576-les-cas-de-legionellose-sont-en-forte-augmentation-au-tessin.html
-14041854-l-universite-de-bale-propose-son-propre-vaccin-contre-le-covid.html
 14041854-luniversite-de-bale-propose-son-propre-vaccin-contre-le-covid.html
 14049105-la-courte-visite-des-habitants-de-brienz-chez-eux-reportee-de-plusieurs-jours.html
 14050527-le-tessin-veut-etendre-les-nlfa-jusqua-la-frontiere-italienne.html
@@ -734,10 +724,6 @@
 14466080-les-glaciers-tessinois-pourraient-presque-totalement-disparaitre-dici-dix-ans.html
 14476903-la-fete-populaire-triennale-zuri-fascht-naura-plus-lieu-sous-sa-forme-actuelle.html
 14476947-au-tessin-marco-chiesa-devrait-assurer-sa-reelection-aux-etats-plr-et-centre-se-battent-pour-le-2e-siege.html
-14477646-le-president-de-ludc-marco-chiesa-fait-la-course-en-tete-au-tessin.html
-14477646-le-president-de-ludc-marco-chiesa-reelu-sans-surprise-fabio-regazzi-centre-remporte-le-deuxieme-siege.html
-14477883-a-zurich-la-vertliberale-tiana-angelina-moser-est-en-tete-du-deuxieme-tour-de-lelection-du-conseil-des-etats.html
-14477883-la-vertliberale-zurichoise-tiana-angelina-moser-siegera-aux-etats-thomas-minder-perd-a-schaffhouse.html
 14495952-le-tunnel-routier-du-gothard-ferme-durant-quatre-heures-suite-a-un-incendie.html
 14498987-le-tessin-entend-siffler-le-train-de-la-ligne-des-centovalli-depuis-100-ans.html
 14500943-les-citoyens-du-canton-de-zoug-ont-massivement-vote-pour-une-baisse-des-impots.html
@@ -819,7 +805,6 @@
 4963870-accord-pour-le-centre-national-daccueil-de-requerants-dasile-en-argovie.html
 4967306-deux-filles-renvoyees-de-lecole-primaire-pour-port-du-voile.html
 4971360-les-zurichois-acceptent-de-renforcer-les-mesures-antihooligans.html
-4971455-resultats-des-votations-et-elections-cantonales-en-suisse-alemanique-.html
 4971455-resultats-des-votations-et-elections-cantonales-en-suisse-alemanique.html
 4974050-les-deux-jeunes-somaliennes-peuvent-retourner-en-classe-avec-le-voile.html
 4983126-faux-euros-saisis-et-escrocs-arretes-a-winterthour.html
@@ -1045,7 +1030,6 @@
 6179457-les-schwytzois-votent-une-hausse-dimpots-pour-les-revenus-aises.html
 6179614-le-tessin-refuse-de-participer-a-lexposition-universelle-de-2015-a-milan.html
 6182517-la-thurgovie-n-encourage-pas-l-interdiction-du-voile-islamique-a-l-ecole.html
-6189010-traque-preventive-sur-internet-limitee-par-le-tribunal-federal.html
 6198301-pas-de-changement-au-conseil-d-etat-zougois-qui-reste-bourgeois.html
 6205338-deux-grues-seffondrent-sur-un-chantier-pres-de-zurich-faisant-quatre-blesses.html
 6211685-de-riches-italiens-cachent-desormais-des-lingots-d-or-au-tessin.html
@@ -1637,7 +1621,6 @@
 8219452-une-vingtaine-de-chauffards-ont-ete-arretes-en-suisse-alemanique.html
 8238411-des-wc-unisexe-dans-un-restaurant-a-lucerne-malgre-le-reglement-cantonal.html
 8239229-la-police-de-zurich-va-tester-des-cameras-corporelles-sur-ses-agents.html
-8245850-le-gouvernement-grison-depose-la-candidature-du-canton-pour-2026.html
 8246743-les-grisons-discriminent-leurs-italophones-dit-le-conseil-de-leurope.html
 8247848-un-mort-et-trois-blesses-graves-dans-un-drame-familial-a-zurich.html
 8254127-le-comportement-en-classe-sera-retenu-pour-integrer-le-gymnase-a-zurich.html
@@ -1951,7 +1934,6 @@
 9446464-le-pont-historique-d-olten-vieux-de-150-ans-est-en-proie-aux-flammes.html
 9451981-une-denonciation-du-fbi-seme-l-emoi-dans-un-gymnase-appenzellois.html
 9452194-les-tarifs-explosent-aux-chutes-du-rhin-pour-limiter-les-touristes.html
-9452709-un-probleme-de-moteur-force-un-avion-swiss-a-rebrousser-chemin.html
 9456389-un-frigo-romain-remis-en-marche-a-kaiseraugst-en-argovie.html
 9458456-le-premier-ghetto-pour-riches-de-suisse-va-voir-le-jour-en-thurgovie.html
 9461626-un-site-alemanique-permet-dameliorer-les-conditions-de-travail-des-migrantes.html

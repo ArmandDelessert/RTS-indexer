@@ -773,7 +773,6 @@
 12039497-le-trafic-ferroviaire-coupe-entre-lausanne-et-fribourg.html
 12040087-le-journal-de-morges-sengage-pour-leconomie-regionale.html
 12042278-la-ligne-cff-lausannefribourg-reste-interrompue-jusqua-lundi.html
-12042845-a-l-ecole-hoteliere-de-lausanne-les-frais-d-ecolage-suscitent-la-colere.html
 12042845-a-lecole-hoteliere-de-lausanne-les-frais-decolage-suscitent-la-colere.html
 12049855-la-gare-de-lausanne-privee-de-ses-voyageurs-ce-weekend.html
 12053613-le-nouveau-plan-directeur-communal-lausannois-inclut-les-enjeux-du-climat.html
@@ -939,8 +938,6 @@
 12364044-le-canton-de-vaud-envisage-aussi-de-limiter-les-mandats-communaux.html
 12364540-le-chef-du-pont-de-brent-stephane-decotterd-sinstalle-a-lecole-hoteliere-de-glion-vd.html
 12370234-les-parents-vaudois-de-nouveaunes-desempares-face-aux-retards-de-letat-civil.html
-12370234-les-parents-vaudois-de-nouveaux-nes-desempares-face-aux-retards-de-l-etat-civil.html
-12370234-les-parents-vaudois-de-nouveauxnes-desempares-face-aux-retards-de-letat-civil.html
 12377357-ludc-michael-buffat-se-lance-dans-la-course-au-conseil-detat-vaudois.html
 12391962-vaud-sollicite-un-tir-de-deux-jeunes-loups-aupres-de-la-confederation.html
 12394061-a-yverdonlesbains-les-rives-recuperent-peu-a-peu-des-intemperies.html
@@ -973,7 +970,6 @@
 12439103-le-chantier-du-tram-entre-lausanne-et-renens-est-officiellement-lance.html
 12439385-linitiative-vaudoise-pour-la-gratuite-des-transports-publics-est-lancee.html
 12441625-le-plr-laurent-wehrli-renonce-a-briguer-un-siege-au-conseil-detat-vaudois.html
-12442317-la-gravite-de-la-cyberattaque-de-la-commune-de-rolle-sous-estimee-par-les-autorites.html
 12442317-la-gravite-de-la-cyberattaque-de-la-commune-de-rolle-sousestimee-par-les-autorites.html
 12444393-le-chantier-du-centre-de-formation-des-mecaniciens-debute-a-yverdon.html
 12444785-a-la-cathedrale-de-lausanne-il-a-sonne-lheure-dengager-la-premiere-guette.html
@@ -1029,8 +1025,6 @@
 12510034-pas-de-limitation-de-mandats-pour-les-elus-cantonaux-vaudois.html
 12513090-le-plr-vaud-designe-un-ticket-a-trois-pour-lancer-la-course-au-conseil-detat.html
 12514931-vaud-lance-deux-applications-pour-sentrainer-au-test-de-naturalisation.html
-12517030-premier-proces-d-une-longue-serie-pour-les-activistes-d-extinction-rebellion-.html
-12517030-premier-proces-d-une-longue-serie-pour-les-activistes-d-extinction-rebellion.html
 12517030-premier-proces-dune-longue-serie-pour-les-activistes-dextinction-rebellion.html
 12517069-cest-mon-lait-maternel-jen-fais-ce-que-je-veux.html
 12517263-une-deuxieme-meute-de-loups-reperee-dans-le-canton-de-vaud.html
@@ -1051,7 +1045,6 @@
 12537054-a-payerne-base-aerienne-et-voisinage-fetent-100-ans-de-relation-tumultueuse.html
 12538492-casser-une-pub-est-moins-violent-que-les-entreprises-qui-detruisent-lenvironnement.html
 12538568-sur-les-pas-de-blaise-bersinger.html
-12542249-a-peine-inaugure-le-gymnase-de-burier-inquiete-par-sa-taille-mammouth-.html
 12542249-a-peine-inaugure-le-gymnase-de-burier-inquiete-par-sa-taille-mammouth.html
 12544477-un-grand-cimetiere-de-lage-du-bronze-decouvert-a-denges-vd.html
 12544539-le-canton-de-vaud-renforce-son-soutien-aux-jeunes-en-souffrance.html
@@ -1270,7 +1263,6 @@
 12870198-doctorat-honoris-causa-a-mussolini-luniversite-de-lausanne-a-failli.html
 12871749-les-deputes-vaudois-exigent-le-remboursement-de-tous-les-frais-de-grossesse.html
 12875213-le-canton-de-vaud-nomme-une-deleguee-aux-questions-lgbtiq.html
-12875396-elections-cantonales-bernoises-loutil-smartvote-est-en-ligne.html
 12875882-les-autorites-lausannoises-et-vaudoises-simmiscent-dans-la-crise-du-lausannesport.html
 12875915-lermitage-restaurant-prime-de-la-famille-ravet-fermera-ses-portes-cet-ete.html
 12877177-de-nombreux-alpages-du-jura-vaudois-sont-tres-vulnerables-face-au-loup.html
@@ -1458,10 +1450,8 @@
 13232103-lecoquartier-des-plainesduloup-a-lausanne-accueille-ses-premiers-habitants.html
 13241628-glacier-3000-creuse-un-tunnel-dans-la-montagne-pour-faire-renaitre-une-piste-de-ski.html
 13243618-le-trafic-en-gare-de-lausanne-reprend-gentiment-apres-avoir-ete-interrompu.html
-13243785-un-projet-d-extraction-de-gaz-naturel-sous-le-leman-suscite-a-nouveau-de-l-interet.html
 13243785-un-projet-dextraction-de-gaz-naturel-sous-le-leman-suscite-a-nouveau-de-linteret.html
 13250691-le-plein-de-signatures-pour-linitiative-vaudoise-en-faveur-du-sport.html
-13254405-pendant-deux-semaines-des-etudiants-de-lepfl-se-glissent-dans-la-peau-dastronautes.html
 13258138-des-camps-non-mixtes-a-lepfl-pour-initier-les-filles-aux-metiers-scientifiques.html
 13259447-les-bebes-pantheres-des-neige-du-zoo-de-servion-font-leurs-premiers-pas.html
 13263746-une-cinquantaine-de-vieux-voiliers-reunis-pour-une-regate-sur-le-leman.html
@@ -1626,7 +1616,6 @@
 13610435-indesirables-une-exposition-sur-les-rats-les-cafards-et-plus-encore.html
 13610695-vaud-tire-un-quatrieme-loup-mais-il-ne-sagissait-pas-du-bon.html
 13611178-le-plr-vaudois-choisit-pascal-broulis-comme-candidat-au-conseil-des-etats.html
-13620515-ouverture-du-premier-proces-pour-un-meurtre-djihadiste-en-suisse.html
 13620956-projet-pilote-sur-le-consensus-parental-lance-dans-le-canton-de-vaud.html
 13624227-feu-vert-de-berne-pour-la-premiere-etape-du-m3-a-lausanne.html
 13625147-accuse-dhomophobie-lideologue-alain-soral-risque-3-mois-de-prison-a-lausanne.html
@@ -1687,7 +1676,6 @@
 13743847-vaud-avait-alerte-le-parquet-federal-sur-les-ecarts-du-djihadiste-de-morges.html
 13746639-pres-de-5000-fonctionnaires-vaudois-manifestent-a-lausanne-pour-la-pleine-indexation.html
 13747470-petition-contre-le-30-kmh-le-conseil-detat-vaudois-devra-se-pencher-sur-la-question.html
-13749455-plateforme-10-a-accueilli-plus-de-270000-visiteurs-pour-son-annee-inaugurale.html
 13749551-lausanne-se-donne-12-ans-pour-avoir-un-chauffage-a-distance-100-renouvelable.html
 13751839-yverdon-veut-redonner-des-couleurs-a-ses-batiments.html
 13752425-les-apprentis-de-letat-de-vaud-seront-finalement-augmentes.html
@@ -1704,7 +1692,6 @@
 13770210-quatrieme-journee-de-mobilisation-dans-la-fonction-publique-vaudoise-pour-la-pleine-indexation.html
 13770762-vaud-veut-encadrer-les-futurs-essais-pilote-de-vente-de-cannabis.html
 13783309-ludc-vaudois-michael-buffat-veut-se-presenter-pour-le-conseil-des-etats.html
-13785303-un-professeur-quitte-l-unil-alors-que-celle-ci-empoigne-la-problematique-du-harcelement.html
 13785303-un-professeur-quitte-lunil-alors-que-celleci-empoigne-la-problematique-du-harcelement.html
 13786423-romanel-sur-lausanne-teste-son-point-de-rencontre-d-urgence-une-premiere-cantonale.html
 13788190-contre-les-secheresses-recentes-les-suisses-sequipent-de-citernes-a-eau-de-pluie.html
@@ -1736,7 +1723,6 @@
 13848403-un-derangement-technique-perturbe-le-trafic-cff-autour-de-lausanne.html
 13849778-aux-diablerets-limpossible-deuil-de-la-station-disenau.html
 13850193-un-cinquieme-corps-retrouve-apres-lincendie-dune-villa-dyverdonlesbains.html
-13850387-les-enseignants-vaudois-deplorent-le-manque-de-moyens-pour-l-ecole-inclusive.html
 13850387-les-enseignants-vaudois-deplorent-le-manque-de-moyens-pour-lecole-inclusive.html
 13850662-une-nouvelle-structure-provisoire-daccueil-des-migrants-ouvre-a-vevey.html
 13851288-valerie-dittli-a-transgresse-les-regles-de-son-parti.html
@@ -2058,7 +2044,6 @@
 14534177-la-municipalite-de-prilly-visee-par-une-enquete-administrative.html
 14534439-la-centrale-de-la-police-rejoint-les-autres-centrales-durgence-vaudoises.html
 14535247-ouverture-dun-point-de-vente-proposant-du-cannabis-legal-a-lausanne.html
-14535247.html
 14535261-la-bijouterie-du-montreux-palace-braquee-les-voleurs-sont-en-fuite.html
 14536584-christelle-luisier-jamais-les-gens-qui-mont-connue-tres-jeune-ne-mauraient-imagine-une-carriere-politique.html
 14536771-la-police-vaudoise-alerte-sur-des-agressions-homophobes-via-des-sites-de-rencontres.html
@@ -2349,7 +2334,6 @@
 5401661-un-restaurant-a-pris-feu-en-plein-centre-de-lausanne.html
 5403413-des-joursamende-avec-sursis-requis-dans-le-proces-skander-vogt.html
 5404083-le-canton-de-vaud-ameliore-les-zones-carcerales-de-la-police.html
-5404370-le-projet-de-centre-pour-requerants-a-la-caserne-de-moudon-se-confirme.html
 5404441-la-firme-shire-basee-pres-de-nyon-confirme-son-transfert-a-zoug.html
 5408051-acquittement-des-gardiens-plaide-dans-laffaire-skander-vogt.html
 5412375-un-appel-d-offres-de-l-armee-suscite-l-ire-des-professionnels-vaudois-du-bois.html
@@ -3214,7 +3198,6 @@
 7857499-le-personnel-de-sun-store-et-amavita-proteste-a-saintsulpice.html
 7858827-le-referendum-contre-la-nouvelle-loi-vaudoise-sur-le-logement-va-aboutir.html
 7861257-la-gauche-vaudoise-sinquiete-de-la-reforme-rie-iii-federale.html
-7861512--l-immigration-doit-etre-compatible-avec-la-qualite-de-vie-des-gens-.html
 7865976-lausanne-reflechit-a-assouplir-sa-politique-sonore-des-concerts.html
 7866192-le-pasteur-lausannois-met-un-terme-a-sa-greve-de-la-faim.html
 7866595-lausanne-explore-son-sous-sol-a-la-recherche-d-energie-geothermique.html
@@ -3295,7 +3278,6 @@
 8061874-deficit-de-39-millions-prevu-dans-le-budget-2017-de-la-ville-de-lausanne.html
 8069539-nouvelle-candidature-socialiste-dans-la-course-au-conseil-d-etat-vaudois.html
 8069925-le-buffet-de-la-gare-de-lausanne-devient-vegetarien.html
-8070461-une-premiere-pierre-symbolique-pour-le-musee-des-beaux-arts-a-lausanne.html
 8070461-une-premiere-pierre-symbolique-pour-le-musee-des-beauxarts-a-lausanne.html
 8072258-ludc-presentera-un-candidat-pour-lelection-au-conseil-detat-vaudois.html
 8074951-la-vert-liberale-isabelle-chevalley-candidate-au-conseil-d-etat-vaudois.html
@@ -3675,8 +3657,6 @@
 9153277-jacqueline-de-quattro-balaie-les-accusations-dans-laffaire-orllatinicod.html
 9154716-lhotel-des-patients-du-chuv-ouvert-il-y-a-une-annee-est-en-surcapacite.html
 9155714-le-chantier-du-futur-hopital-des-enfants-du-chuv-sera-retarde.html
-9159840-des-passagers-cff-bloques-a-bex-pour-la-nuit.html
-9159840-fermeture-de-l-autoroute-entre-aigle-et-saint-maurice-en-direction-du-valais.html
 9161477-des-passagers-cff-bloques-a-bex-pendant-la-nuit-a-cause-des-intemperies.html
 9161498-nouveau-centre-de-formation-pour-les-apprentis-garagistes-a-yverdon.html
 9165870-lhopital-rivierachablais-gardera-les-deux-maternites-daigle-et-de-vevey.html
@@ -3894,8 +3874,6 @@
 9758121-larmee-debute-le-ravitaillement-en-eau-des-vaches-vaudoises.html
 9758509-un-nouveau-centre-pour-les-tortues-ouvre-a-chavornay-vd.html
 9764045-le-clip-dune-star-de-bollywood-dope-le-tourisme-indien-en-terres-vaudoises.html
-9766198-avec-la-pluie-l-alerte-canicule-a-ete-levee-dans-plusieurs-cantons-romands.html
-9766198-avec-la-pluie-lalerte-canicule-a-ete-levee-dans-plusieurs-cantons-romands.html
 9770787-lorage-du-11-juin-a-lausanne-a-cause-pour-27-millions-de-francs-de-degats.html
 9775008-un-homeopathe-exercant-en-romandie-propose-de-soigner-lhomosexualite.html
 9776517-120-demandes-de-ravitaillement-en-eau-dans-le-canton-de-vaud.html
@@ -3993,7 +3971,6 @@
 9977340-le-nouveau-local-dinjection-de-drogues-lausannois-demarre-lentement.html
 9977862-un-an-apres-son-ouverture-aquatis-s-en-sort-plutot-bien.html
 9980196-des-elus-vaudois-reclament-a-nouveau-une-enquete-sur-les-voyages-en-russie.html
-9980728-plus-de-24000-ecoliers-vaudois-ont-participe-a-la-journee-oser-les-metiers.html
 9982820-les-habitants-de-corseaux-vd-se-plaignent-de-lodeur-du-cannabis.html
 9983242-frederik-paulsen-et-sa-societe-gros-donateurs-de-la-politique-britannique.html
 9987872-les-premieres-assises-vaudoises-sur-le-climat-se-tiennent-a-lepfl.html

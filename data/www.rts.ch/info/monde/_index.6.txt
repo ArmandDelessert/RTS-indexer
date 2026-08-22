@@ -274,7 +274,6 @@
 6080034-le-fbi-juge-authentique-la-video-du-meurtre-de-james-foley.html
 6080216-liberation-de-cinq-collaborateurs-du-cicr-enleves-en-afghanistan.html
 6080410-deux-corps-retrouves-au-lendemain-du-crash-de-deux-chasseurs-italiens.html
-6080433-plus-de-415-000-ukrainiens-ont-fui-leur-foyer-a-cause-des-combats.html
 6080433-plus-de-415000-ukrainiens-ont-fui-leur-foyer-a-cause-des-combats.html
 6080947-marina-silva-candidate-du-ps-au-bresil-apres-la-mort-d-eduardo-campos.html
 6081189-le-chef-de-la-junte-militaire-designe-premier-ministre-en-thailande.html
@@ -295,7 +294,6 @@
 6085303-une-attaque-contre-une-mosquee-sunnite-en-irak-fait-pres-de-70-morts.html
 6085608-toutes-les-regions-du-liberia-desormais-touchees-par-le-virus-ebola.html
 6086036-au-venezuela-il-faudra-laisser-ses-empreintes-pour-faire-ses-courses.html
-6086088-tous-les-camions-du-convoi-humanitaire-russe-ont-quitte-l-ukraine.html
 6086088-tous-les-camions-du-convoi-humanitaire-russe-ont-quitte-lukraine.html
 6086137-quelque-170-migrants-africains-disparus-en-mer-au-large-de-la-libye.html
 6086618-lislande-interdit-localement-le-trafic-aerien-a-cause-de-leruption-dun-volcan.html
@@ -406,7 +404,6 @@
 6108121-novartis-admet-tardivement-des-cas-deffets-secondaires-graves-au-japon.html
 6108126-des-centaines-d-opposants-envahissent-la-television-d-etat-au-pakistan.html
 6108158-l-armee-ukrainienne-se-retire-de-l-aeroport-de-lougansk.html
-6108253-le-conseil-des-droits-de-l-homme-condamne-les-crimes-de-l-etat-islamique.html
 6108287-detention-en-espagne-prolongee-pour-les-parents-de-lenfant-retire-de-lhopital.html
 6108545-didier-burkhalter-on-peut-imaginer-des-scenarios-tres-noirs-en-ukraine.html
 6108776-accord-de-sortie-de-crise-au-lesotho-apres-le-coup-de-force-de-l-armee.html
@@ -767,12 +764,7 @@
 6197815-le-pape-francois-ouvre-un-synode-sur-le-mariage-et-la-famille.html
 6198065-les-pro-russes-de-donetsk-fetent-les-6-mois-de-la-republique-autoproclamee.html
 6198180-la-manif-pour-tous-defile-a-paris-contre-les-meres-porteuses.html
-6198240-le-drapeau-des-djihadistes-de-l-ei-flotte-sur-kobane-en-syrie.html
-6198240-les-djihadistes-de-l-ei-se-rapprochent-de-la-ville-syrienne-kurde-de-kobane.html
-6198240-nombreux-civils-evacues-de-kobane-en-syrie-face-a-l-avancee-de-l-ei.html
 6198240-nombreux-civils-evacues-de-kobane-en-syrie-face-a-lavancee-de-lei.html
-6198240-quelque-2000-civils-evacues-de-kobane-en-syrie-face-a-l-avancee-de-l-ei.html
-6198240-quelque-2000-civils-evacues-face-a-l-ei-a-kobane-en-syrie.html
 6199404-retour-au-calme-a-hong-kong-apres-une-semaine-de-tensions.html
 6199480-pres-de-30-cadavres-decouverts-dans-une-fosse-clandestine-au-mexique.html
 6199607-le-point-sur-tous-les-prix-nobel-2014.html
@@ -812,7 +804,6 @@
 6209285-la-turquie-refuse-dintervenir-face-aux-djihadistes-de-lei-a-kobane.html
 6209295-dizaines-de-milliers-de-manifestants-pour-les-etudiants-disparus-au-mexique.html
 6209322-le-yemen-secoue-par-un-attentat-apres-la-demission-du-premier-ministre.html
-6209480-l-epidemie-d-ebola-en-chiffres.html
 6209480-lepidemie-debola-en-chiffres.html
 6209612-des-combats-a-donetsk-en-ukraine-font-cinq-nouveaux-morts.html
 6210074-manifestations-aux-usa-suite-a-la-mort-dun-jeune-homme-tue-par-un-policier.html
@@ -860,7 +851,6 @@
 6217726-analyses-rassurantes-concernant-un-cas-suspect-debola-aux-etatsunis.html
 6217796-les-nationalistes-remportent-la-presidence-collegiale-en-bosnie.html
 6218303-contre-offensive-des-kurdes-face-aux-djihadistes-a-kobane-en-syrie.html
-6218852-le-groupe-etat-islamique-revendique-le-recours-a-l-esclavage-de-femmes.html
 6219118-debordes-par-ebola-les-soignants-liberiens-se-mettent-en-greve.html
 6219391-greve-inedite-du-service-public-de-sante-en-grande-bretagne.html
 6219791-un-cyclone-force-400-000-personnes-a-evacuer-leur-maison-en-inde.html
@@ -939,7 +929,6 @@
 6234246-plus-de-30-djihadistes-ont-peri-ces-dernieres-heures-en-syrie.html
 6234291-un-des-rescapes-de-la-tempete-inhabituelle-dans-lhimalaya-publie-une-video.html
 6234860-laidesoignante-espagnole-atteinte-debola-aurait-gueri-de-la-maladie.html
-6235328-deux-demissions-affaiblissent-encore-un-peu-le-gouvernement-japonais.html
 6235328-deux-demissions-affaiblissent-le-premier-ministre-japonais.html
 6235336-larmee-americaine-a-largue-des-armes-aux-kurdes-pres-de-kobane.html
 6235697-un-japonais-emprisonne-pour-avoir-imprime-des-pistolets-en-3d.html
@@ -1052,8 +1041,6 @@
 6258463-l-union-europeenne-accepte-les-budgets-2015-de-la-france-et-de-l-italie.html
 6258914-environ-100000-personnes-ont-defile-contre-la-taxe-sur-internet-en-hongrie.html
 6258934-l-union-europeenne-maintient-ses-sanctions-contre-la-russie.html
-6259362-une-fusee-americaine-a-destination-de-l-iss-explose-au-decollage.html
-6259362-une-fusee-americaine-a-explose-quelques-secondes-apres-son-decollage.html
 6259465-arrivee-en-turquie-des-premiers-renforts-kurdes-pour-defendre-kobane.html
 6259802-une-attaque-par-des-djihadistes-de-l-ei-fait-30-morts-a-homs-en-syrie.html
 6260854-scrutin-test-pour-barack-obama-avec-les-elections-de-mimandat.html
@@ -1583,7 +1570,6 @@
 6392270-l-australie-promet-la-transparence-sur-le-preneur-d-otages-de-sydney.html
 6392324-aucune-suite-donnee-a-une-plainte-pour-agression-sexuelle-contre-bill-cosby.html
 6392600-le-pakistan-reintroduit-la-peine-de-mort-apres-le-massacre-de-peshawar.html
-!6392708-le-hamas-retire-de-la-liste-des-organisations-terroristes-de-l-ue.html
 6392708-le-hamas-retire-de-la-liste-des-organisations-terroristes-de-lue.html
 6392806-l-eglise-d-angleterre-nomme-pour-la-premiere-fois-une-femme-eveque.html
 6393218-le-parlement-europeen-soutient-la-reconnaissance-de-letat-palestinien.html
@@ -2419,7 +2405,6 @@
 6586937-l-eruption-d-un-volcan-chilien-provoque-l-evacuation-de-3000-personnes.html
 6587082-afflux-massif-de-refugies-au-cameroun-sous-la-menace-de-boko-haram.html
 6587226-les-pays-africains-demandent-un-plan-marshall-pour-vaincre-ebola.html
-6587226-les-pays-africains-font-front-pour-vaincre-le-virus-ebola.html
 6587929-le-comite-nobel-de-la-paix-demet-son-president-conteste.html
 6588043-le-monde-irait-mieux-sans-accord-sur-le-nucleaire-iranien-selon-netanyahu.html
 6589213-l-enquete-federale-pointe-le-racisme-ordinaire-de-la-police-de-ferguson.html
@@ -2696,7 +2681,6 @@
 6658845-la-suisse-participe-a-la-fondation-de-la-grande-banque-asiatique-aiib.html
 6658893-au-moins-15-tues-en-marge-des-elections-presidentielles-au-nigeria.html
 6659050-confinement-en-sierra-leone-pour-lutter-contre-la-propagation-du-virus-ebola.html
-6659050-le-sierra-leone-confine-pour-lutter-contre-la-propagation-du-virus-ebola.html
 6659071-reunion-de-la-ligue-arabe-pour-mettre-sur-pied-une-force-armee-commune.html
 6659381-bachar-al-assad-perd-la-ville-d-idleb-au-profit-de-rebelles-islamistes.html
 6659539-zarif-optimiste-sur-la-conclusion-dun-accord-sur-le-nucleaire-iranien.html

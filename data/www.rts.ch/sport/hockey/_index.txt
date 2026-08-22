@@ -787,8 +787,6 @@
 12792213-national-league-lausanne-demeure-invaincu-en-2022.html
 12792215-national-league-un-bienne-renversant-a-lugano.html
 12796386-nhl-timo-meier-entre-dans-lhistoire-avec-un-fantastique-quintuple.html
-12797490-pekin-2022-hockey-la-selection-de-patrick-fischer-est-connue.html
-12797490-pekin-2022-hockey-une-selection-suisse-experimentee.html
 12797677-national-league-geneve-remporte-son-premier-derby-lemanique-de-la-saison.html
 12797935-national-league-fribourg-reussit-son-retour-au-jeu-bienne-perd-a-zoug.html
 12800096-national-league-julien-vauclair-nomme-directeur-sportif-du-hc-ajoie.html
@@ -1923,12 +1921,10 @@
 14666037-national-league-geneve-et-lausanne-sinclinent-en-terres-alemaniques.html
 14669475-national-league-lentraineur-de-fribourggotteron-christian-dube-sous-enquete.html
 1724451-teemu-selanne-leclair-finlandais.html
-1801945-le-canadien-paul-eday-47-ans-est-le-nouvel-entraineur-du-hc-ajoie-il-succede-a-real-paiement.html
 1921148-en-hockey-john-fust-a-ete-nomme-assistant-de-l-entraineur-national-sean-simpson.html
 2336591-benjamin-pluess-31-ans-a-prolonge-son-contrat-avec-fribourg-gotteron-de-3-saisons-supplementaires.html
 2530832-le-grison-guido-laczko-qui-a-joue-414-matches-de-ligue-nationale-de-hockey-s-est-eteint-a-44-ans.html
 3393141-leonardo-genoni-hc-davos-designe-meilleur-joueur-mvp-et-meilleur-gardien-du-championnat-2010-11.html
-3556666-le-hc-lugano-a-engage-le-defenseur-canadien-de-27-ans-jordan-hendry-qui-compte-144-matches-en-nhl.html
 3699968-aldo-zenhausern-n-est-plus.html
 4329752-deuxieme-revers-d-affilee-aux-tirs-aux-buts-pour-fr-gotteron-qui-perd-face-a-zoug-ca-sent-le-roussi-a-ambri.html
 4445653-22e.html
@@ -1962,8 +1958,6 @@
 4817504-langnau-en-voulait-davantage-que-le-lhc.html
 4825475-le-lausanne-hc-retrouve-lelite-du-hockey-suisse.html
 4832413-artisan-de-la-promotion-du-lausanne-hc-en-lna-alexei-dostoinov-s-est-engage-pour-2-saisons-avec-le-cp-berne.html
-4855206-l-attaquant-du-lhc-oliver-setzinger-ne-defendra-pas-les-couleurs-de-l-autriche-a-l-occasion-des-mondiaux.html
-4855206-lattaquant-du-lhc-oliver-setzinger-ne-defendra-pas-les-couleurs-de-lautriche-a-loccasion-des-mondiaux.html
 4865478-cest-fini-pour-le-hc-sierre.html
 4873100-claude-giroux-on-veut-faire-honneur-au-canada.html
 4876963-apres-la-suede-la-suisse-soffre-le-canada.html
@@ -2000,8 +1994,6 @@
 5325075-ambri-se-paie-la-peau-du-dragon.html
 5347816-lattaquant-du-hc-lugano-thomas-rufenacht-28-ans-jouera-a-berne-des-la-saison-prochaine-et-jusquen-2017.html
 5386252-weber-indesirable-a-vancouver.html
-5428924-inti-pestoni-et-le-defenseur-finlandais-markus-nordlund-ambri-renforceront-ge-servette-a-la-coupe-spengler.html
-5428924-inti-pestoni-et-le-defenseur-finlandais-markus-nordlund-ambri-renforceront-geservette-a-la-coupe-spengler.html
 5438526-les-aigles-tombent-en-prolongation-au-tessin.html
 5461347-44e-journee.html
 5475177-arosa-2013.html
@@ -2875,7 +2867,6 @@
 9562763-mondial-au-danemark-le-bernois-josi-et-le-stgallois-fiala-elimines-avec-nashvillenhl-rejoignent-la-suisse.html
 9563175-hockey-cinq-sur-cinq-pour-la-suede-qui-file-en-quarts.html
 9575114-hockey-ligue-des-champions-lugano-et-berne-affronteront-les-finalistes-2018.html
-9582091-hockey-la-suisse-s-offre-le-canada-et-defiera-la-suede-en-finale.html
 9582091-hockey-la-suisse-soffre-le-canada-et-defiera-la-suede-en-finale.html
 9583900-hockey-la-suede-met-fin-au-reve-helvetique-au-terme-dun-match-fou.html
 9592300-hockey-des-audiences-impressionnantes-pour-la-finale-contre-la-suede.html

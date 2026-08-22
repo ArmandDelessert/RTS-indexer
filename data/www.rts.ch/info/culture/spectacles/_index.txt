@@ -351,9 +351,6 @@
 12924815-the-glass-room-du-theatre-au-cur-de-la-crise-iranusa.html
 12927961-anne-roumanoff-seule-en-scene-dans-une-nouvelle-version-de-tout-va-bien.html
 12930706-la-cerisaie-isabelle-huppert-au-bal-des-fins-de-regne.html
-12930949--alcina-amour-magie-et-vocalises-a-l-opera-de-lausanne.html
-12930949-alcina-amour-magie-et-vocalises-a-l-opera-de-lausanne.html
-12930949-alcina-amour-magie-et-vocalises-a-lopera-de-lausanne.html
 12931035-giselle-pour-celebrer-la-danse-avec-un-grand-sourire.html
 12944379-miranda-reine-de-quoi-du-theatre-et-du-cirque-pardi.html
 12945245-le-festipass-pour-une-soiree-dans-quatre-festivals-romands.html
@@ -413,8 +410,6 @@
 13275567-la-plage-des-six-pompes-retrouve-ses-marques-a-la-chauxdefonds.html
 13293204-musiciens-et-danseurs-envahissent-les-rues-de-neuchatel-pour-le-buskers-festival.html
 13300755-giancarlo-sergi-assure-pouvoir-cumuler-ses-mandats-a-swiss-basket-et-au-bejart-ballet.html
-13306272-rock-oz-arenes-a-accueilli-35-000-spectateurs-pour-ses-adieux-aux-arenes.html
-13306272-rock-ozarenes-a-accueilli-35000-spectateurs-pour-ses-adieux-aux-arenes.html
 13307685-les-rencontres-de-folklore-de-fribourg-mettent-le-cap-sur-la-mediterranee.html
 13314791-a-geneve-un-spectacle-immersif-nous-emmene-au-coeur-de-la-foret.html
 13319778-le-spectacle-comme-des-betes-propose-une-ode-a-la-difference.html
@@ -448,7 +443,6 @@
 13542731-vers-loiseau-vert-tendre-hommage-au-theatre-de-benno-besson.html
 13543575-velvet-la-metaphore-de-la-vie-en-mieux-signee-philippe-saire.html
 13549199-moliere-a-loreille-huit-spectacles-pour-un-anniversaire.html
-13563534-l-ere-post-covid-reussit-a-certains-theatres-mais-pas-a-tous.html
 13563534-lere-postcovid-reussit-a-certains-theatres-mais-pas-a-tous.html
 13565508-les-truculentes-et-theatrales-chroniques-des-pistes-de-ski-en-ete.html
 13568351-depart-surprise-du-danseur-etoile-francois-alu-de-lopera-de-paris.html

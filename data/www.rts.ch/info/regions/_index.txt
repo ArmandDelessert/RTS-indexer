@@ -183,13 +183,11 @@
 11713591-la-peche-a-encore-diminue-de-pres-dun-quart-dans-le-leman-en-2019.html
 11719353-nuit-dhalloween-mouvementee-dans-plusieurs-villes-romandes.html
 11720918-le-harcelement-en-milieu-scolaire-un-fleau-source-de-stress-et-de-souffrance.html
-11725281-les-cadres-accuses-de-harcelement-a-la-rts-ont-ete-suspendus.html
 11725339-vaud-et-fribourg-ferment-a-leur-tour-bars-et-restaurants.html
 11744579-une-formation-contre-le-harcelement-scolaire-pour-les-enseignants-romands.html
 11788513-un-service-de-covoiturage-inedit-dans-le-chablais-pour-les-employes-de-commune.html
 11798124-lausanne-et-geneve-renforcent-leur-dispositif-daccueil-pour-les-sansabri.html
 11798299-les-udc-vaud-et-fribourg-se-defendent-de-toute-proximite-avec-des-neonazis.html
-11800622-le-groupe-de-presse-biennois-gassmann-rachete-par-le-hautvalaisan-mengis.html
 11806474-loperation-coeur-a-coeur-va-faire-le-tour-de-la-suisse-romande.html
 11814701-les-restaurants-romands-ont-rouvert-mais-lincertitude-reste-vive.html
 11842656-un-virus-dans-la-ville.html
@@ -216,7 +214,6 @@
 12097277-les-circuits-courts-dans-lalimentation-peinent-a-repondre-a-la-demande.html
 12100326-les-petites-stations-de-ski-ont-moins-souffert-que-les-grandes-cet-hiver.html
 12112121.html
-12126332-accusations-de-harcelement-a-la-rts-rapports-d-enquetes-livres.html
 12126332-accusations-de-harcelement-a-la-rts-rapports-denquetes-livres.html
 12130627-des-fetes-de-jeunesse-maintenues-dans-le-canton-de-vaud-annulees-a-fribourg.html
 12140568-peine-de-prison-ferme-requise-contre-lencaveur-valaisan-dominique-giroud.html
@@ -299,7 +296,6 @@
 13171881-couleurs-locales-1000-emissions-au-coeur-de-la-suisse-romande.html
 13178901-les-cantons-de-vaud-et-geneve-declenchent-lalerte-canicule.html
 13190041-luc-barthassat-lance-un-nouveau-parti-et-vise-2023.html
-13196411-plusieurs-communes-romandes-ont-emis-des-avis-de-restriction-d-eau.html
 13196411-plusieurs-communes-romandes-ont-emis-des-avis-de-restriction-deau.html
 13219242-gros-dispositif-de-securite-pour-accueillir-le-tour-de-france-en-suisse.html
 13221155-le-leman-express-sera-perturbe-mercredi-par-la-greve-a-la-sncf.html
@@ -313,7 +309,6 @@
 13253275-leau-des-fontaines-estelle-gachee-en-temps-de-canicule.html
 13254238-un-pic-de-chaleur-mais-pas-de-record-mardi-le-danger-dincendie-en-hausse.html
 13261502-la-chaleur-influe-aussi-sur-la-qualite-de-leau-des-piscines-et-des-lacs.html
-13262118-les-maraichers-s-inquietent-de-la-secheresse-qui-touche-le-seeland.html
 13262118-les-maraichers-sinquietent-de-la-secheresse-qui-touche-le-seeland.html
 13268265-des-derogations-pour-soulager-les-agriculteurs-victimes-de-la-secheresse.html
 13273517-mireille-ducret-exploitante-toute-lagriculture-souffre-de-la-secheresse.html
@@ -335,8 +330,6 @@
 13410857-aucune-attaque-de-loups-contre-les-troupeaux-surveilles-par-les-benevoles.html
 13432180-la-fete-des-100-ans-de-la-radio-a-attire-plus-de-2000-personnes.html
 13438070-les-cantons-ouvrent-les-inscriptions-pour-la-campagne-automnale-de-vaccination-anticovid.html
-13438070-vaud-et-geneve-ouvrent-les-inscriptions-pour-la-campagne-automnale-de-vaccination-anticovid.html
-13438070-vaud-et-geneve-ouvrent-les-inscriptions-pour-leur-campagne-automnale-de-vaccination-anticovid.html
 13455749-le-recours-demandant-lannulation-du-vote-sur-moutier-juge-irrecevable.html
 13487521-la-suisse-romande-manque-de-places-daccueil-pour-les-jeunes.html
 13500463-les-revues-de-fin-dannee-lart-subtil-de-faire-rire-avec-lactualite.html
@@ -457,7 +450,6 @@
 14620287-le-bateau-du-futur-zero-emission-teste-sur-le-leman-interesse-les-japonais.html
 14622997-la-meteo-glaciale-actuelle-favorise-le-brassage-des-eaux-du-lac-leman.html
 14633408-les-programmes-de-rts-1-et-rts-2-sont-a-nouveau-accessibles.html
-14638988-le-trafic-ferroviaire-sur-la-ligne-lausanneberne-est-interrompu-en-raison-dune-panne.html
 14638988-le-trafic-ferroviaire-sur-la-ligne-lausanneberne-retabli-apres-une-panne.html
 14651112-embouteillage-annonce-sur-les-pistes-de-nombreux-cantons-seront-en-vacances-du-10-au-18-fevrier.html
 14654459-du-simple-au-triple-selon-les-cantons-combien-gagnent-nos-deputes-cantonaux.html
@@ -481,7 +473,6 @@
 4494360-les-principales-innovations-de-l-horaire-2013-des-cff.html
 4547106-le-roi-du-doubs-a-ete-elu-poisson-de-lannee-2013.html
 4611878-le-jura-bernois-a-le-droit-de-decider-de-son-independance.html
-4658991-la-securite-privee-gagne-des-parts-du-marche-des-prisonniers-.html
 4658991-la-securite-privee-gagne-des-parts-du-marche-des-prisonniers.html
 4664429-journee-noire-pour-l-emploi-en-suisse-romande.html
 4670368-la-hausse-de-la-cadence-des-cars-postaux-a-fait-doubler-leur-frequentation.html
@@ -505,7 +496,7 @@
 5349805-la-question-jurassienne-interesse-toujours-tonne-le-maire-de-moutier-maxime-zuber.html
 5379455-la-bise-noire-s-est-abattue-sur-tout-le-bassin-lemanique.html
 5401540-le-jura-bernois-dit-non-a-72-a-un-nouveau-canton-mais-moutier-accepte.html
-5404370-les-infrastructures-romandes-de-l-armee-suisse-redimensionnees.html
+5404370-les-infrastructures-romandes-de-larmee-suisse-redimensionnees.html
 5405955-les-reactions-pleuvent-apres-lannonce-de-la-restructuration-de-larmee.html
 5418337-nouvel-eveque-auxiliaire-pour-lausanne-geneve-et-fribourg.html
 5419645-une-valaisanne-et-un-vaudois-elus-miss-et-mister-suisse-romande.html
@@ -866,7 +857,6 @@
 9756498-les-images-de-la-carcasse-de-lavion-ju52-hbhot.html
 9759983-de-violents-orages-frappent-la-suisse-romande-des-inondations-en-valais.html
 9764234-les-cantons-romands-sont-partages-sur-la-place-des-portables-a-lecole.html
-9766198-avec-la-pluie-l-alerte-canicule-a-ete-levee-dans-plusieurs-cantons-romands.html
 9766198-avec-la-pluie-lalerte-canicule-a-ete-levee-dans-plusieurs-cantons-romands.html
 9767742-en-raison-de-la-canicule-les-vignes-romandes-ont-2-a-3-semaines-davance.html
 9767923-le-tf-confirme-la-condamnation-de-dominique-giroud-en-matiere-fiscale.html

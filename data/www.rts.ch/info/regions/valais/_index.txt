@@ -431,12 +431,10 @@
 12177744-lonza-investit-encore-a-viege-vs-et-va-creer-300-emplois.html
 12179157-lelection-a-huis-clos-du-procureur-general-valaisan-par-le-parlement-interroge.html
 12179354-le-valais-cree-un-bureau-pour-les-droits-des-personnes-handicapees.html
-12180971-l-association-de-soutien-a-la-patrouille-des-glaciers-suspend-sa-collaboration-avec-l-armee.html
 12180971-lassociation-de-soutien-a-la-patrouille-des-glaciers-suspend-sa-collaboration-avec-larmee.html
 12181690-aide-urgente-pour-larboriculture-valaisanne-victime-du-gel.html
 12187031-une-course-aux-nouvelles-varietes-dabricots-pour-sadapter-au-climat.html
 12191952-devant-la-justice-pour-un-jaime-ou-un-partage-sur-les-reseaux-sociaux.html
-12198190-le-valais-accelere-le-rythme-et-ouvre-la-vaccination-aux-jeunes-des-16-ans.html
 12198686-en-valais-un-recours-depose-contre-lelection-a-huis-clos-du-procureur-general.html
 12205354-le-bois-de-finges-vs-fouille-en-prevision-des-travaux-de-lautoroute.html
 12207861-le-valais-encourage-les-producteurs-a-stopper-lutilisation-dherbicides.html
@@ -586,8 +584,6 @@
 12803927-rencontre-avec-un-loup-ni-lapprocher-ni-le-photographier-conseille-le-valais.html
 12806011-le-bitcoin-ne-decolle-toujours-pas-dans-la-commune-de-zermatt-vs.html
 12817817-bilan-positif-pour-le-bureau-des-hommes-valaisan.html
-12818562-les-ecoliers-valaisans-jusqu-a-12-ans-n-auront-plus-a-porter-le-masque-des-lundi.html
-12818562-les-ecoliers-valaisans-jusqua-12-ans-nauront-plus-a-porter-le-masque-des-lundi.html
 12820867-saxon-accepte-de-vendre-un-terrain-pour-la-construction-dun-casino.html
 12821057-plus-de-3000-sacs-a-dos-collectes-en-suisse-romande-pour-aider-les-migrants.html
 12823388-attiree-par-le-jackpot-sion-veut-accueillir-un-casino-sur-un-terrain-dinteret-general.html
@@ -840,7 +836,6 @@
 13817971-le-valais-passe-au-numerique-pour-son-bulletin-officiel-des-le-1er-mars.html
 13826101-le-valais-a-du-verser-94000-francs-a-des-detenus-incarceres-au-mauvais-endroit.html
 13828232-un-vin-valaisan-obtient-la-note-maximale-de-100-au-parker-une-premiere-en-suisse.html
-13828329-la-justice-valaisanne-s-empare-de-l-affaire-des-abos-de-ski-au-rabais-des-elus.html
 13828329-la-justice-valaisanne-sempare-de-laffaire-des-abos-de-ski-au-rabais-des-elus.html
 13842169-le-valais-lance-une-campagne-contre-le-harcelement-dans-lespace-public.html
 13844762-les-glaciers-valaisans-sont-une-mine-dor-pour-les-archeologues.html
@@ -1163,7 +1158,6 @@
 4437406-pierre-chiffelle-a-depose-30-requetes-litigieuses-pour-helvetia-nostra.html
 4453476-les-ossements-rendus-par-le-glacier-daletsch-proviennent-de-trois-freres.html
 4455436-delais-acceleres-pour-la-troisieme-correction-du-rhone.html
-4489454-les-chutes-de-neige-en-suisse-provoquent-des-perturbations.html
 4490686-les-principaux-quotidiens-vaudois-et-leurs-archives-seront-disponibles-en-ligne.html
 4494910-deux-skieurs-ont-ete-emportes-par-une-avalanche-pres-de-verbier.html
 4495863-le-valais-veut-freiner-l-urbanisation-de-la-plaine-du-rhone.html
@@ -1174,7 +1168,6 @@
 4550867-le-forcene-de-daillon-affirme-avoir-voulu-regler-un-probleme-familial.html
 4552359-une-marche-silencieuse-a-daillon-pour-rendre-hommage-aux-victimes.html
 4553427-apres-daillon-le-role-des-tuteurs-professionnels-est-remis-en-question.html
-4558359-luca-n-aurait-pas-ete-agresse-par-son-chien-selon-des-experts-italiens.html
 4558359-luca-naurait-pas-ete-agresse-par-son-chien-selon-des-experts-italiens.html
 4598605-emissions-speciales-pour-les-elections-cantonales-valaisannes.html
 4613966-tolle-en-valais-apres-la-diffusion-de-la-video-de-l-accident-de-sierre.html
@@ -1553,7 +1546,6 @@
 6616322-le-grand-conseil-valaisan-refuse-une-commission-d-enquete-sur-le-mercure.html
 6617025-pas-d-enquete-parlementaire-dans-le-volet-fiscal-de-l-affaire-giroud-en-valais.html
 6617548-un-memorial-inaugure-trois-ans-apres-le-drame-de-sierre.html
-6619780-l-ex-conseiller-national-valaisan-thomas-burgener-fait-son-retour-en-politique.html
 6621435-une-explosion-sur-un-site-chimique-valaisan-fait-un-mort.html
 6626436-bonne-gestion-financiere-pour-les-135-communes-valaisannes.html
 6626866-un-valaisan-condamne-pour-une-fausse-alerte-a-la-bombe-dans-un-train.html
@@ -1607,7 +1599,6 @@
 6797795-pas-d-homologation-pour-le-parc-eolien-valaisan-du-grand-chavalard.html
 6801287-un-plan-social-a-ete-signe-entre-la-direction-et-les-employes-de-tamoil.html
 6803340-le-chanoine-jean-scarcella-nomme-a-la-tete-de-l-abbaye-de-saint-maurice.html
-6815172-les-verts-valaisans-convoitent-un-siege-au-conseil-national.html
 6816664-les-employes-de-syngenta-mobilises-en-valais-pour-eviter-des-licenciements.html
 6820143-l-hospice-du-grand-saint-bernard-lance-un-nouvel-appel-aux-dons.html
 6829137-le-valais-veut-mieux-maitriser-les-couts-de-l-aide-sociale.html
@@ -1736,7 +1727,6 @@
 7409602-leau-est-a-nouveau-consommable-a-saintgingolph-vs.html
 7413355-letat-du-valais-ne-compte-pas-trop-demployes-a-calcule-une-etude.html
 7418174-deux-morts-et-deux-rescapes-dans-une-avalanche-a-la-tzoumaz-vs.html
-7418487-l-ex-patron-de-la-poste-jean-noel-rey-tue-dans-l-attaque-de-ouagadougou.html
 7418487-lexpatron-de-la-poste-jeannoel-rey-tue-dans-lattaque-de-ouagadougou.html
 7419310-tristesse-et-injustice-apres-la-mort-de-jeannoel-rey-et-georgie-lamon.html
 7429074-veto-du-tf-a-l-appellation-chateau-pour-des-vins-de-dominique-giroud.html

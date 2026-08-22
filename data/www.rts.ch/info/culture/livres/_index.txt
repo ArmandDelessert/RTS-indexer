@@ -54,7 +54,6 @@
 10218567-lire-ecrire-et-publier-des-livres-sous-loccupation.html
 10227285-avraham-yehoshua-le-romancier-israelien-qui-croit-a-la-paix.html
 10235474-medee-cherie-de-yasmine-chami-une-revelation.html
-10239009-le-destin-exceptionnel-dastrid-lindgren-auteure-de-fifi-brindacier.html
 10248558-la-magie-dharry-potter-entre-croyances-et-realite.html
 10249057-jacques-chessex-logre-des-lettres-romandes.html
 10261925-un-jardin-en-australie-le-roman-sensible-et-farfelu-de-sylvie-tanette.html
@@ -88,7 +87,6 @@
 10427136-le-dessinateur-fiami-sort-une-bande-dessinee-sur-la-vie-de-newton.html
 10437750-martine-larochejoubert-je-ne-suis-pas-une-tete-brulee.html
 10437772-philippe-djian-lecriture-est-le-lieu-ou-jentends-bien.html
-10442237-mathias-howald-obtient-le-prix-du-public-rts-avec-heriter-du-silence-.html
 10442237-mathias-howald-obtient-le-prix-du-public-rts-avec-heriter-du-silence.html
 10451367-lomanaise-jokha-alharthi-recoit-le-prix-litteraire-man-booker-international.html
 10452053-dans-deployer-douna-loup-fait-exploser-le-livre-et-son-personnage.html
@@ -138,7 +136,6 @@
 10689669-eric-neuhoff-peutetre-quun-jour-sur-un-malentendu-ozon-fera-un-bon-film.html
 10689752-dear-caroline-les-reseaux-sociaux-mont-sauvee.html
 10694997-le-marche-de-la-bd-une-bulle-qui-nest-pas-pres-declater.html
-10695024--apres-ma-mort-personne-d-autre-que-moi-ne-dessinera-titeuf-confie-zep.html
 10695024-apres-ma-mort-personne-dautre-que-moi-ne-dessinera-titeuf-confie-zep.html
 10695082--le-livre-sur-les-quais-un-succes-qui-doit-faire-face-a-la-concurrence.html
 10695188-les-suisses-peuple-de-plumes.html
@@ -655,9 +652,7 @@
 12275704-les-tribulations-du-peintre-leopold-robert-a-venise-vues-par-jeanbernard-vuilleme.html
 12282249-benedicte-belpois-la-sagefemme-devenue-ecrivaine.html
 12285176-livresuisse-un-magazine-au-service-des-metiers-du-livre-romands.html
-12289655-leonie-bischoff-et-simone-f-baumann-primees-par-delemont-bd.html
 12289655-leonie-bischoff-et-simone-f-baumann-primees-par-delemontbd.html
-12291090-philippe-chappuis-ce-que-j-aime-avec-titeuf-c-est-qu-il-permet-d-etre-curieux-de-tout-.html
 12291090-philippe-chappuis-ce-que-jaime-avec-titeuf-cest-quil-permet-detre-curieux-de-tout.html
 12293241-ces-celebrites-qui-ont-sejourne-en-valais-par-necessite-ou-par-plaisir.html
 12298512-frederic-dard-delit-dimagination.html
@@ -738,7 +733,6 @@
 12592706-le-prix-femina-attribue-a-clara-dupontmonod-pour-sadapter.html
 12595397-christine-angot-recoit-le-prix-medicis-pour-le-voyage-dans-lest.html
 12601867-francoishenri-deserable-remporte-le-grand-prix-du-roman-de-lacademie.html
-12602068-cosey-met-un-point-final-aux-aventures-de-jonathan-cette-fois-ca-sera-le-dernier-album-.html
 12602068-cosey-met-un-point-final-aux-aventures-de-jonathan-cette-fois-ca-sera-le-dernier-album.html
 12602797-la-suisse-romande-decor-de-toujours-plus-de-meurtres-romances.html
 12609699-jonas-hassen-khemiri-explore-la-parentalite-dans-la-clause-paternelle.html
@@ -755,7 +749,7 @@
 12630877-gore-des-alpes-quand-terreur-et-terroir-font-bon-menage.html
 12631852-loeil-sur-le-seuil-plus-de-cinquante-ans-darchives-en-realite-augmentee.html
 12636985-le-recent-succes-de-la-litterature-africaine-peutil-durer.html
-12639796-l-ecrivain-sud-africain-wilbur-smith-est-decede-a-l-age-de-88-ans.html
+12639796-lecrivain-sudafricain-wilbur-smith-est-decede-a-lage-de-88-ans.html
 12649106-mariette-navarro-il-y-a-les-vivants-les-morts-et-les-marins.html
 12649466-deux-petites-maitresses-zen-le-jeu-du-monde-selon-lecrivain-blaise-hofmann.html
 12649860-lecrivain-et-journaliste-mathieu-palain-decroche-le-prix-interallie.html
@@ -775,8 +769,6 @@
 12690206-reconnaissance-pour-la-bd-suisse-qui-sera-soutenue-durablement-par-pro-helvetia.html
 12690473-du-pate-delephant-chez-calvin-la-tragique-histoire-de-miss-djeck.html
 12692369-franz-kafka-les-metamorphoses-dun-dessinateur-meconnu.html
-12696923-sylvain-tesson-observer-les-animaux-c-est-echapper-a-la-logique-du-tout-tout-de-suite-.html
-12696923-sylvain-tesson-observer-les-animaux-c-est-echapper-a-la-logique-du-tout-tout-de-suite.html
 12696923-sylvain-tesson-observer-les-animaux-cest-echapper-a-la-logique-du-tout-tout-de-suite.html
 12700935-le-mot-et-le-reste-un-editeur-qui-connait-la-musique.html
 12701104-noir-burlesque-une-bd-en-forme-dhommage-aux-polars-des-annees-1950.html
@@ -844,7 +836,6 @@
 12882596-la-fusion-hachetteeditis-pourrait-toucher-le-marche-du-livre-suisse.html
 12892405-le-gout-des-garcons-un-roman-aux-saveurs-des-jeunes-filles-en-fleur.html
 12892698-punchlines-le-coup-des-mots-sous-la-loupe-de-daniel-adjerad.html
-12902823-le-chef-dorchestre-russe-valery-gergiev-ecarte-par-le-verbier-festival.html
 12904677-pierre-lepori-propose-de-redecouvrir-le-poete-italien-sandro-penna.html
 12904834-joel-dicker-conclut-sa-trilogie-policiere-avec-laffaire-alaska-sanders.html
 12907118-a-la-maison-du-recit-katia-delay-prend-soin-des-histoires.html
@@ -870,7 +861,6 @@
 12961082-le-printemps-de-la-poesie-fait-fleurir-les-mots-dans-toute-la-suisse-romande.html
 12963667-netonon-noel-ndjekery-entre-atrocites-et-lumineuse-candeur.html
 12966400-marc-agron-ukaj-un-passionne-a-la-tete-de-la-bouquinerie-univers-a-lausanne.html
-12975632-a-cordes-et-a-cur-de-thibault-cauvin-six-cordes-six-curs.html
 12975748-le-feu-aux-joues-jil-caplan-deroule-la-playlist-de-sa-jeunesse.html
 12978400-daft-plongee-aux-origines-du-phenomene-electro-francais-daft-punk.html
 12978441-des-sirenes-de-colombe-boncenne-une-odyssee-intime.html
@@ -1043,7 +1033,6 @@
 13487311-salman-rushdie-a-perdu-un-oeil-et-lusage-dune-main-apres-son-agression.html
 13492477-dimages-et-deau-fraiche-la-cartographie-iconographique-de-mona-chollet.html
 13495417-avec-le-bord-du-monde-est-vertical-simon-parcot-invite-a-lire-audela-des-mots.html
-13499511-l-italo-suisse-giuliano-da-empoli-recoit-le-grand-prix-de-l-academie-francaise.html
 13499511-litalosuisse-giuliano-da-empoli-recoit-le-grand-prix-de-lacademie-francaise.html
 13511609-herve-laroche-part-a-la-chasse-aux-cliches-litteraires.html
 13516052-le-prix-goncourt-2022-est-attribue-a-brigitte-giraud-pour-vivre-vite.html

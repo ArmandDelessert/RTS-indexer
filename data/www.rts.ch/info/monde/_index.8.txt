@@ -196,7 +196,6 @@
 8038656-huit-pompiers-perissent-en-portant-secours-a-des-ouvriers-a-moscou.html
 8038740-un-homme-chevre-ou-la-sexualite-des-rats-primes-jeudi-aux-ig-nobel-prizes.html
 8038744-homemade-drones-text-messages-and-blog-against-deforestation-in-borneo.html
-8038744.html
 8038888-hillary-clinton-tente-de-seduire-les-jeunes-lors-d-un-talk-show-potache.html
 8038917-apres-le-seisme-en-italie-matteo-renzi-promet-une-reconstruction-identique.html
 8039112-lextrader-kerviel-devra-rembourser-un-million-deuros-et-non-49-milliards.html
@@ -736,7 +735,6 @@
 8141577-les-couloirs-devacuation-dalep-restes-deserts-durant-la-treve-humanitaire.html
 8141815-une-forte-resistance-de-lei-dans-mossoul-oblige-a-un-repli-partiel.html
 8142668-entree-en-vigueur-acceleree-de-laccord-de-paris-sur-le-climat.html
-8142925-une-infection-fongique-qualifiee-de-menace-detectee-aux-etats-unis.html
 8143266-le-regime-de-khadafi-aurait-inocule-le-sida-a-des-enfants-hospitalises.html
 8143307-les-etats-unis-confirment-la-mort-du-responsable-d-al-qaida-en-afghanistan.html
 8143322-chelsea-manning-a-tente-de-mettre-fin-a-ses-jours-pour-la-deuxieme-fois.html
@@ -1990,7 +1988,6 @@
 8426570-face-au-congres-trump-evoque-une-immigration-au-merite-et-lobamacare.html
 8426742-les-suspectes-de-l-assassinat-de-kim-jong-nam-inculpees-en-malaisie.html
 8426782-un-rapport-de-msf-alerte-sur-le-calvaire-des-migrants-erythreens.html
-8426992-les-cables-sous-marins-d-internet-maillon-faible-de-la-cyberguerre.html
 8426992-les-cables-sousmarins-dinternet-maillon-faible-de-la-cyberguerre.html
 8427091-letna-plus-haut-volcan-deurope-est-entre-en-eruption-en-sicile.html
 8427125-convoque-par-la-justice-francois-fillon-maintient-sa-candidature.html
@@ -3709,7 +3706,6 @@
 8819109-le-parlement-francais-adopte-une-loi-sur-la-moralisation-de-la-vie-publique.html
 8819739-plainte-a-l-onu-contre-la-chine-pour-la-disparition-de-la-veuve-de-liu-xiaobo.html
 8819911-peter-maurer-je-vois-difficilement-un-consensus-possible-au-yemen-.html
-8819949-trois-ans-apres-le-genocide-le-cauchemar-des-yezidis-d-irak-continue.html
 8819949-trois-ans-apres-le-genocide-le-cauchemar-des-yezidis-dirak-continue.html
 8820086-le-congres-responsable-des-mauvaises-relations-avec-la-russie-selon-trump.html
 8820339-plus-de-10000-personnes-paradent-contre-lhomophobie-a-jerusalem.html
@@ -3726,8 +3722,6 @@
 8821939-seance-inaugurale-de-la-contestee-assemblee-constituante-venezuelienne.html
 8821985-neuf-disparus-apres-linondation-dune-mine-de-diamants-en-siberie.html
 8822004-la-pression-judiciaire-augmente-sur-le-premier-ministre-israelien-netanyahu.html
-8822030-le-scandale-des-oeufs-contamines-s-etend-en-europe-la-suisse-touchee.html
-8822030-le-scandale-des-oeufs-contamines-setend-en-europe-la-suisse-touchee.html
 8822516-paul-kagame-est-reelu-president-du-rwanda-avec-plus-de-98-des-voix.html
 8822537-lenquete-menee-sur-donald-trump-franchit-un-palier-supplementaire.html
 8822669-en-vacances-en-siberie-vladimir-poutine-soigne-sa-communication.html

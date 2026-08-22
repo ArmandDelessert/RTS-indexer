@@ -317,8 +317,6 @@
 12790379-skicross-smith-victime-dune-chute-a-nakiska.html
 12794240-jo-de-pekin-2022-la-vente-de-tickets-pour-le-grand-public-annulee.html
 12800430-skicross-fanny-smith-sur-la-touche.html
-12800955-ski-alpin-une-nouvelle-medaille-de-bronze-pour-theo-gmur.html
-12800955-ski-une-nouvelle-medaille-de-bronze-pour-theo-gmur.html
 12806131-skicross-fanny-smith-soigne-sa-contusion-osseuse.html
 12807446-ski-freestyle-giulia-tanno-doit-se-contenter-du-5e-rang.html
 12807766-skicross-un-nouveau-succes-pour-ryan-regez.html
@@ -326,10 +324,6 @@
 12809123-ski-freestyle-ragettli-se-classe-7e-au-big-air.html
 12809474-skicross-ryan-regez-simpose-encore.html
 12809870-ski-freestyle-ragettli-simpose-en-slopestyle-aux-xgames.html
-12822354-pekin-2022-ski-freestyle-pas-de-jeux-olympiques-pour-giulia-tanno.html
-12822354-ski-freestyle-pas-de-jeux-olympiques-pour-giulia-tanno.html
-12823670-pekin-2022-marco-odermatt-sest-envole-pour-la-chine.html
-12823670-pekin-2022-swiss-olympic-marco-odermatt-sest-envole-pour-la-chine.html
 12825091-football-americain-suspense-autour-de-la-retraite-de-tom-brady.html
 12827617-nfl-super-bowl-les-rams-defieront-les-surprenants-bengals-pour-le-titre.html
 12832372-football-americain-tom-brady-confirme-son-depart-a-la-retraite.html
@@ -337,7 +331,6 @@
 12889271-skicross-fanny-smith-renonce-a-sunny-valley.html
 12894438-ski-la-federation-internationale-de-ski-annule-toutes-ses-competitions-en-russie.html
 12901749-guerre-en-ukraine-le-cio-recommande-de-bannir-les-russes-et-belarusses.html
-12904516-guerre-en-ukraine-les-russes-exclus-de-toutes-les-competitions-de-patinage.html
 12914393-ski-freestyle-triple-suisse-en-georgie.html
 12916606-sport-handicap-marcel-hug-gagne-pour-la-2e-fois-le-marathon-de-tokyo.html
 12920836-aviron-delarze-et-roosli-avec-lequipage-doxford.html
@@ -380,12 +373,9 @@
 13317885-europeens-multisports-seifert-5e-du-concours-general-en-gymnastique-la-suisse-en-finale.html
 13317964-europeens-multisports-la-session-dathletisme-a-ete-retardee-en-raison-de-grosses-pluies.html
 13318085-europeens-multisports-deux-duos-feminins-suisses-en-quarts.html
-13318185-europeens-multisports-annik-kalin-medaillee-de-bronze-de-l-heptathlon.html
 13319209-europeens-multisports-brunnerhuberli-dans-le-dernier-carre.html
 13319632-europeens-multisports-lore-hoffmann-et-le-4x400m-dames-en-finale.html
 13320229-europeens-multisports-brunner-et-huberli-passent-en-finale.html
-13320418-europeens-multisports-julien-bonvin-termine-7e-du-400m-haies.html
-13320423-europeens-multisports-mujinga-kambundji-championne-deurope-du-200m.html
 1339885-anita-weyermann-quitte-la-course.html
 13406014-aviron-cinq-embarcations-suisses-en-finale-aux-mondiaux.html
 13408823-aviron-pas-de-finale-pour-gmelin-struzina-a-leau.html
@@ -477,7 +467,6 @@
 14125649-jeux-europeens-vtt-frei-neff-et-forster-candidats-aux-medailles-en-vtt.html
 14126705-jeux-europeens-karate-largovienne-quirici-se-pare-dargent.html
 14127840-jeux-europeens-tir-de-lor-pour-les-suissesses-a-la-carabine.html
-14128763-jeux-europeens-vtt-sina-frei-remporte-le-bronze-en-cross-country.html
 14136663-jeux-europeens-heimberg-titree-en-plongeon-christenlochbihler-en-tir.html
 14140349-jeux-europeens-saut-a-ski-dete-le-bronze-au-petit-tremplin-pour-gregor-deschwanden.html
 14172950-orientation-simona-aebersold-en-or-matthias-kyburz-en-argent.html
@@ -772,9 +761,6 @@
 7699390-le-real-retrouve-latletico-en-finale-wawrinka-deja-sorti-a-madrid-zbaren-privee-de-jo.html
 7702039-lausanne-retrouve-la-super-league-liverpool-et-seville-prennent-rendez-vous-a-bale-gaetan-boucher-n-est-plus.html
 7709518-sefolosha-et-les-hawks-elimines-platini-quitte-ses-fonctions-deux-suissesses-dans-le-top-10-de-la-wta.html
-7710762-aviron-lucas-tramer-on-vise-l-or-a-rio.html
-7710762-aviron-on-vise-l-or-a-rio-annonce-lucas-tramer.html
-7710762-aviron-on-vise-lor-a-rio-annonce-lucas-tramer.html
 7719119-sotchi-2014-lexpatron-du-laboratoire-de-moscou-reconnait-un-dopage-organise.html
 7719195-pas-de-miracle-pour-federer-zurich-se-separe-de-hyypia-la-russie-cartonne.html
 7721120-bacsinszky-tombe-en-quarts-a-rome-forte-au-chevet-du-fcz-ibrahimovic-dit-au-revoir-au-psg.html
@@ -806,7 +792,6 @@
 7775491-pas-de-finale-pour-stan-wawrinka-un-petit-succes-pour-lequipe-de-suisse-la-mort-tragique-de-luis-salom.html
 7775554-pekin-2008-le-jamaicain-nesta-carter-controle-positif.html
 7776920-boxe-mohamed-ali-sest-eteint-a-lage-de-74-ans.html
-7776948-mohamedi-ali-emprisonne-dechu-de-ses-titres-et-interdit-de-boxer-pendant-3-ans-et-demi.html
 7776975-mohamed-ali-ce-boxeur-pur-qui-a-combattu-contre-lordre-etabli.html
 7777140-george-foreman-une-partie-de-moi-sen-est-allee-la-plus-grande-partie.html
 7777607-le-deces-de-mohamed-ali-le-sacre-de-garbine-muguruza-la-qualification-historique-des-suissesses.html
@@ -819,20 +804,16 @@
 7782960-rio-2016-curry-renonce-au-tournoi-olympique-de-basket-pour-menager-son-genou.html
 7784958-bencic-simpose-difficilement-pour-son-retour-fin-de-partie-pour-le-fc-bienne-sagan-aligne-a-rio-en-vtt.html
 7785783-rio-2016-peter-sagan-aligne-en-vtt-plutot-que-sur-route.html
-7788957-dopage-le-dopage-detat-dans-le-sport-russe-se-poursuit.html
 7788990-federer-stoppe-par-la-pluie-sharapova-suspendue-deux-ans-keshi-sen-est-alle.html
 7802219-un-point-historique-pour-lislande-stan-wawrinka-boute-hors-du-queens-ricardo-rodriguez-sur-le-depart-a-wolfsburg.html
 7805932-golf-us-open-day-spieth-et-mcilroy-vont-sexpliquer.html
 7806545-bencic-declare-forfait-a-birmingham-la-suisse-et-la-roumanie-se-neutralisent-federer-victorieux-a-halle.html
 7809561-mathias-frank-quitte-le-tour-de-suisse-roger-federer-en-quarts-a-halle-langleterre-remporte-le-derby-contre-le-pays-de-galles.html
-7811205-dopage-les-athletes-russes-ecartes-des-jeux-olympiques-de-rio.html
-7811205-dopage-liaaf-maintient-la-suspension-de-la-russie-mais.html
 7812323-federer-dans-le-dernier-carre-la-federation-dathletisme-russe-toujours-suspendue-litalie-file-en-huitiemes.html
 7813921-cancellara-manque-de-peu-la-victoire-federer-echoue-en-demifinale-les-diables-rouges-se-ressaisissent.html
 7815525-rosberg-renoue-avec-la-victoire-jani-triomphe-aux-24-heures-du-mans-la-suisse-finit-2e-de-son-groupe.html
 7816864-golf-us-open-lamericain-dustin-johnson-y-arrive-enfin.html
 7817858-cleveland-et-lebron-james-sacres-un-nouveau-suissefrance-une-qualification-historique-pour-le-pays-de-galles.html
-7820148-dopage-le-cio-soutient-les-decisions-de-liaaf.html
 7822330-belinda-bencic-sortie-a-eastbourne-la-suisse-face-a-la-pologne-en-18-de-leuro-max-heinzer-en-argent-aux-europeens-de-torun.html
 7822459-escrime-une-dixieme-medaille-europeenne-pour-max-heinzer.html
 7823573-la-hurdleuse-valaisanne-clelia-reuse-se-rapproche-de-rio-fabian-cancellara-pile-a-lheure-a-martigny-tiffany-geroudet-echoue-en-pologne.html
@@ -861,13 +842,10 @@
 7884510-golf-british-open-henrik-stenson-remporte-son-premier-grand-chelem.html
 7885146-sagan-imperial-a-berne-dopage-detat-en-russie-bellier-battu-a-gstaad.html
 7885391-rio-2016-la-russie-a-bel-et-bien-protege-ses-athletes.html
-7888420-sotchi-2014-le-cio-cree-une-commission-pour-trancher.html
 7888605-laaksonen-passe-le-1er-tour-le-cio-botte-en-touche-lichtsteiner-est-distingue.html
 7889659-rio-2016-lor-olympique-est-un-reve-confie-giulia-steingruber.html
 7892516-rio-2016-le-laboratoire-de-rio-reautorise-un-souci-en-moins.html
 7897901-gymastique-steingruber-gagne-en-allemagne-mais-ne-tente-pas-son-saut.html
-7898000-rio-2016-le-cio-se-defile-en-ne-suspendant-pas-la-russie.html
-7898447-rio-2016-le-cio-interdit-la-lanceuse-dalerte-yuliya-stepanova-des-jeux.html
 7898608-rio-2016-le-cio-a-refuse-de-jouer-un-role-leader-regrette-lusada.html
 7900387-rio-2016-la-russie-se-felicite-de-la-decision-du-cio.html
 7900713-rio-2016-sept-nageurs-russes-dont-trois-medailles-a-londres-prives-de-jo.html
@@ -887,7 +865,6 @@
 8010918-gotteron-en-slovaquie-un-titre-pour-laaksonen-et-sadikovic-quitte-deja-quebec.html
 8014228-bale-tenu-en-echec-le-lhc-deroule-et-seger-un-peu-plus-dans-la-legende.html
 8017327-un-slovene-a-la-tete-de-luefa-beckenbauer-un-benevole-grassement-paye-le-ballon-dor-de-zurich-a-londres.html
-8018124-agence-mondiale-antidopage-les-hackers-fancy-bears-publient-25-nouveaux-noms.html
 8018721-lama-piratee-froome-justifie-sa-derogation-par-des-problemes-dasthme.html
 8019960-lor-pour-marcel-hug-lama-hackee-par-les-fancy-bears-et-yb-rate-son-entree.html
 8021877-le-petit-koniz-elimine-le-ls-le-lhc-essuie-sa-1re-defaite-de-la-saison-laaksonen-egalise-pour-la-suisse.html
@@ -1163,8 +1140,6 @@
 9136126-biathlon-mario-dolder-decroche-son-billet-pour-les-jeux-olympiques.html
 9140564-pyeongchang-2018-le-sort-de-la-russie-entre-les-mains-du-cio.html
 9141115-zap-rtssport-les-insolites-de-la-semaine-passee.html
-9144427-pyeongchang-2018-la-russie-exclue-mais-pas-ses-athletes-propres-.html
-9144427-pyeongchang-2018-la-russie-exclue-mais-pas-ses-athletes-propres.html
 9150053-jo-2026-sous-pression-rochat-passe-le-temoin-a-stahl.html
 9152426-swiss-sports-awards-qui-pour-battre-roger-federer.html
 9152807-skicross-lenherr-au-pied-du-podium-smith-eliminee-au-1er-tour.html
@@ -1173,7 +1148,6 @@
 9158046-bobsleigh-clemens-bracher-cree-la-surprise.html
 9158541-chi-geneve.html
 9159163-swiss-sports-awards-federer-evidemment-holdener-succede-a-gut.html
-9159549-biathlon-le-relais-suisse-masculin-obtient-son-ticket-olympique.html
 9166713-skicross-epreuve-arretee-a-cause-de-la-neige.html
 9174301-snowboard-galmarini-et-caviezel-sur-le-podium-a-carezza.html
 9174811-biathlon-selina-gasparin-en-evidence-au-grandbornand.html
@@ -1193,7 +1167,6 @@
 9245176-ski-freestyle-andri-ragettli-soffre-un-3e-succes-en-coupe-du-monde.html
 9246044-snowboard-shaun-white-le-score-parfait.html
 9246551-skicross-alex-fiva-et-fanny-smith-a-la-fete.html
-9248981-biathlon-la-legende-bjoerndalen-nira-pas-aux-jo.html
 9258612-snowboard-burgener-et-podladtchikov-en-forme.html
 9259444-biathlon-elisa-gasparin-dans-le-top-10-pour-la-premiere-fois.html
 9264471-snowboard-victoire-de-podladtchikov-a-laax-terrible-chute-de-hablutzel.html

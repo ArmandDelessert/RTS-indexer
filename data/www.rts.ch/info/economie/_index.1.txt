@@ -269,7 +269,6 @@
 10411355-fronde-des-commercants-contre-le-conseil-detat-genevois.html
 10411774-les-menaces-de-trump-mettent-en-peril-les-discussions-avec-pekin.html
 10416536-votre-train-estil-souvent-en-retard-verifiezle-avec-notre-calculateur.html
-10416536.html
 10419438-le-dynamisme-de-larc-lemanique-montre-en-exemple-par-avenir-suisse.html
 10420961-nestle-se-restructure-a-bale-et-devrait-y-supprimer-une-centaine-demplois.html
 10423071-les-etatsunis-augmentent-leurs-taxes-la-chine-annonce-une-riposte.html
@@ -585,7 +584,6 @@
 !1085315-greve-chez-lufthansa-pas-de-perturbations-majeures-pour-geneve-22-fevrier-le-12h30-23-02-2010.html
 10854688-la-carte-de-paiement-d-apple-accusee-d-etre-sexiste-une-enquete-ouverte.html
 10855090-les-chinois-depensent-un-milliard-en-68-secondes-sur-alibaba.html
-10857070-le-mouvement-extinction-rebellion-s-attire-le-soutien-de-riches-mecenes.html
 10857070-le-mouvement-extinction-rebellion-sattire-le-soutien-de-riches-mecenes.html
 10857367-boeing-repousse-a-janvier-un-eventuel-retour-dans-le-ciel-du-737-max.html
 10858588-lonza-enregistre-le-depart-surprise-de-son-directeur-general-apres-huit-mois.html
@@ -1299,7 +1297,6 @@
 11783635-banques-en-ligne-ou-neobanques-la-finance-se-democratise-en-suisse.html
 11783798-les-banques-distribuent-des-dividendes-grace-a-de-tres-bons-resultats.html
 11785000-le-wef-delocalise-hors-de-suisse-en-raison-de-la-pandemie-de-covid19.html
-11793091-le-plan-de-vaccination-contre-le-covid19-un-veritable-defi-logistique.html
 11794593-des-nouveaux-outils-numeriques-pour-assurer-la-formation-continue.html
 11794853-podcast-peuton-vraiment-partir-a-la-retraite-a-40-ans.html
 11794887-la-suisse-consacre-12-de-son-pib-aux-depenses-de-la-sante.html
@@ -1347,7 +1344,6 @@
 11858180-la-pandemie-a-fait-exploser-les-dettes-assumees-par-les-banques-centrales.html
 11858610-swiss-mise-sur-la-reprise-du-trafic-longcourrier-dici-lete-2021.html
 11860158-le-cambdoge-produit-du-petrole-et-promet-une-benediction-pour-la-population.html
-11860464-pilatus-a-le-vent-en-poupe-au-sein-d-une-industrie-aeronautique-en-berne.html
 11860464-pilatus-a-le-vent-en-poupe-au-sein-dune-industrie-aeronautique-en-berne.html
 11863815-plombe-par-la-pandemiele-petrole-termine-2020-sur-une-chute-de-plus-de-20.html
 11865348-le-bitcoin-depasse-les-30000-dollars-pour-la-premiere-fois-de-son-histoire.html
@@ -1361,7 +1357,6 @@
 11879711-elon-musk-le-patron-de-tesla-devient-lhomme-le-plus-riche-du-monde.html
 11880713-le-plus-grand-salon-de-linnovation-ouvre-ses-portes-virtuelles.html
 11881220-credit-suisse-augmente-ses-provisions-pour-le-litige-aux-etatsunis.html
-11881229-chomage-en-hausse-marquee-en-2020-a-cause-de-la-crise-sanitaire.html
 11881229-hausse-marquee-du-chomage-en-2020-a-cause-de-la-crise-sanitaire.html
 11881695-la-bns-prevoit-un-benefice-de-21-milliards-de-francs-en-2020.html
 11884940-la-suisse-parmi-les-pays-les-plus-radins-avec-les-pme-revele-le-fmi.html
@@ -1397,7 +1392,6 @@
 11926210-la-pandemie-bride-la-performance-et-les-perspectives-de-novartis.html
 11927268-le-fmi-table-sur-une-croissance-mondiale-plus-forte-que-prevu-en-2021.html
 11929421-pour-accelerer-la-production-fautil-lever-le-monopole-de-fabrication-des-vaccins.html
-11929572-une-application-pour-identifier-les-foyers-de-covid19-pres-de-chez-soi.html
 11929634-chiffre-daffaires-en-hausse-pour-lonza-desormais-tournee-vers-le-vaccin.html
 1193014-co2-compagnies-aeriennes-taxees-des-2012.html
 11930284-des-fortunes-senvolent-a-cause-de-bitcoins-perdus-ou-voles.html
@@ -1453,7 +1447,6 @@
 11974391-les-arrieres-de-paiements-sont-en-nette-hausse-avec-la-pandemie.html
 11976273-le-parcours-dobstacles-de-philipp-hildebrand-a-locde.html
 11976363-les-mythiques-jaguar-vont-devenir-100-electriques-a-partir-de-2025.html
-11976899-ngozi-okonjo-iweala-est-la-premiere-femme-et-la-premiere-africaine-a-diriger-l-omc.html
 11976899-ngozi-okonjoiweala-est-la-premiere-femme-et-la-premiere-africaine-a-diriger-lomc.html
 11979499-benefice-en-legere-hausse-pour-coop-apres-une-annee-mouvementee.html
 11979605-les-raisons-qui-ont-pousse-le-conseil-federal-a-alleger-un-peu-les-mesures-anticovid.html
@@ -1481,7 +1474,6 @@
 12014239-les-voitures-electriques-consomment-nettement-moins-de-matieres-premieres.html
 12014365-toujours-tres-peu-de-femmes-dans-les-directions-des-entreprises-suisses.html
 12016787-limmobilier-logistique-est-en-passe-de-devenir-un-nouvel-eldorado.html
-12017498-explosion-inedite-du-nombre-de-demandeurs-d-emploi-dans-tous-les-secteurs.html
 12017498-explosion-inedite-du-nombre-de-demandeurs-demploi-dans-tous-les-secteurs.html
 12019386-mis-a-larret-par-le-covid19-swiss-senfonce-dans-les-chiffres-rouges.html
 12021534-la-pandemie-a-dope-les-importations-de-contrefacons-en-suisse.html
@@ -1518,7 +1510,6 @@
 12060524-les-tests-rapides-pour-le-covid19-representent-un-marche-colossal.html
 12064532-la-bns-a-agi-massivement-en-2020-pour-freiner-la-hausse-du-franc.html
 12065133-sans-accordcadre-les-medtech-risquent-bien-plus-que-leurs-marges.html
-12065180-plongeon-spectaculaire-de-la-livre-turque-apres-le-limogeage-d-un-gouverneur.html
 12065180-plongeon-spectaculaire-de-la-livre-turque-apres-le-limogeage-dun-gouverneur.html
 12065260-le-patron-de-la-finma-mark-branson-debauche-par-lallemagne.html
 12066887-migros-lance-un-nouvel-indicateur-de-durabilite-sur-ses-emballages.html
@@ -1608,8 +1599,6 @@
 12186030-easyjet-devrait-pouvoir-eviter-tout-licenciement-en-suisse-annonce-son-directeur.html
 12187995-cocacola-attaque-un-vin-spiritueux-corse-pour-lutilisation-du-mot-coca.html
 12190661-migros-et-coop-toujours-parmi-les-plus-grands-distributeurs-mondiaux.html
-12191015-le-dioxyde-de-titane-e171-sera-interdit-dans-l-alimentation-en-suisse.html
-12191015-le-dioxyde-de-titane-e171-sera-interdit-dans-lalimentation-en-suisse.html
 12192511-les-defis-de-la-nouvelle-ruee-sur-les-matieres-premiere.html
 12194257-fondations-et-acteurs-prives-ont-aide-des-milliers-de-romands-a-payer-leur-loyer.html
 12194304-amazon-gagne-en-justice-sur-ses-rabais-fiscaux-au-luxembourg.html
@@ -1624,7 +1613,6 @@
 12206430-pourquoi-lusam-nage-a-contrecourant-face-a-laccordcadre-avec-lue.html
 12208024-heidinews-rejoint-officiellement-le-giron-du-journal-le-temps.html
 12209090-la-compagnie-eurostar-echappe-a-la-faillite-par-un-accord-de-financement.html
-12210549-le-bitcoin-seffondre-face-aux-critiques-venues-de-chine.html
 12210549-le-bitcoin-tempere-son-plongeon-amorce-apres-les-critiques-venues-de-chine.html
 12211823-les-prix-affiches-sur-les-pubs-bientot-moins-contraignants-pour-les-annonceurs.html
 12213078-en-suisse-on-reste-massivement-locataires-meme-si-la-propriete-progresse.html
@@ -1661,7 +1649,6 @@
 12264901-accord-trouve-a-lomc-pour-une-potentielle-levee-des-brevets-sur-les-vaccins-covid.html
 12267513-de-plus-en-plus-de-produits-et-aliments-etiquetes-uniquement-en-allemand.html
 12269757-lactivite-des-casinos-en-ligne-multipliee-par-huit-en-suisse-en-2020.html
-12272009-un-ticket-pour-l-espace-avec-jeff-bezos-pour-28-millions-de-dollars.html
 12272009-un-ticket-pour-lespace-avec-jeff-bezos-pour-28-millions-de-dollars.html
 12278506-lobligation-dannoncer-les-emplois-vacants-aux-orp-sans-effet-sur-le-chomage.html
 12278765-la-compagnie-swiss-va-proceder-a-550-licenciements.html
@@ -1735,7 +1722,6 @@
 12381660-le-benefice-de-credit-suisse-a-fondu-au-2e-trimestre-suite-aux-affaires.html
 12382170-les-deux-producteurs-de-vaccins-arn-realisent-des-ventes-record.html
 12383921-la-consommation-toujours-plus-grande-de-cafe-profite-a-nestle.html
-12385241-amazon-ecope-d-une-amende-de-plus-de-800-millions-de-francs-en-europe.html
 12385241-amazon-ecope-dune-amende-de-plus-de-800-millions-de-francs-en-europe.html
 12389103-la-suisse-coopere-avec-lislande-pour-capter-du-co2-et-lenterrer.html
 12389579-dopee-par-linvestissement-public-la-croissance-economique-est-de-retour.html
@@ -1772,7 +1758,6 @@
 12445087-les-food-trucks-de-lepfl-mis-a-lecart-par-un-appel-doffres.html
 12446850-les-magasins-coop-bricoloisirs-se-fondent-dans-la-marque-jumbo.html
 12448501-economiesuisse-veut-supprimer-la-vignette-et-labonnement-general.html
-12452007-le-secteur-de-la-construction-suisse-souffre-d-une-penurie-d-apprentis.html
 12452007-le-secteur-de-la-construction-suisse-souffre-dune-penurie-dapprentis.html
 12452010-les-geneva-watch-days-debutent-sur-fond-de-reprise-du-secteur-horloger.html
 12454494-une-commission-du-national-accepte-de-debloquer-un-milliard-de-cohesion-avec-lue.html
@@ -1806,7 +1791,6 @@
 12507369-le-groupe-mutuel-veut-rembourser-400-millions-en-4-ans-a-sa-clientele.html
 12509263-la-forme-des-capsules-nespresso-ne-peut-pas-etre-protegee-juge-le-tribunal-federal.html
 12509657-les-banques-cantonales-ont-le-sourire-apres-un-premier-semestre-2021-solide.html
-12509693-le-covid19-a-suscite-un-boom-des-vocations-en-epidemiologie-et-en-sante-publique.html
 12511217-au-bord-du-gouffre-evergrande-compte-rembourser-une-partie-de-sa-dette.html
 12513170-les-procedures-pour-assainir-son-logement-sont-encore-trop-lourdes.html
 12514503-une-ong-denonce-le-financement-des-projets-petrogaziers-en-arctique.html
@@ -2002,7 +1986,6 @@
 12770689-le-benefice-de-la-banque-nationale-suisse-attendu-en-forte-hausse-pour-2021.html
 12770755-le-taux-de-chomage-a-legerement-rebondi-en-fin-dannee-derniere.html
 12771236-linflation-atteint-un-niveau-record-dans-la-zone-euro.html
-12776026-les-entreprises-s-organisent-pour-faire-face-a-l-absence-de-nombreux-travailleurs.html
 12776026-les-entreprises-sorganisent-pour-faire-face-a-labsence-de-nombreux-travailleurs.html
 12776476-records-de-production-et-de-vente-pour-la-tete-de-moine-aop.html
 12777071-apres-pfister-interio-et-conforama-le-geant-autrichien-du-meuble-xxxlutz-avale-lipo.html
@@ -2023,9 +2006,7 @@
 12796775-pour-axel-lehmann-credit-suisse-doit-rester-une-banque-independante.html
 12797089-migros-affiche-une-legere-hausse-de-son-chiffre-daffaires-en-2021.html
 12797139-un-record-de-202-millions-de-colis-achemines-en-2021-par-la-poste.html
-12797579-microsoft-va-racheter-activision-blizzard-pour-69-milliards-de-dollars-un-record.html
 12797579-microsoft-va-racheter-activisionblizzard-pour-69-milliards-de-dollars-un-record.html
-12797579-microsoft-veut-racheter-activisionblizzard-pour-69-milliards-de-dollars-un-record.html
 12800885-le-prix-des-granules-de-bois-se-sont-envoles-de-20-sur-un-an.html
 12801200-le-chiffre-daffaires-de-richemont-bondit-au-3e-trimestre-grace-aux-achats-de-noel.html
 12802822-locde-se-montre-optimiste-dans-ses-previsions-de-croissance-pour-la-suisse.html
@@ -2090,7 +2071,6 @@
 12891442-chute-des-bourses-flambee-du-petrole-et-du-gaz-un-jeudi-noir-sur-les-marches-mondiaux.html
 12892085-les-casseroles-de-credit-suisse-qui-en-font-une-proie-facile.html
 12894639-les-fournisseurs-de-gaz-naturel-se-veulent-rassurants-face-a-la-hausse-des-cours.html
-12898347-l-occident-degaine-l-arme-swift-rouage-capital-de-la-finance-mondiale.html
 12898347-loccident-degaine-larme-swift-rouage-capital-de-la-finance-mondiale.html
 12900709-chute-du-rouble-filiales-de-banques-russes-en-faillite-les-consequences-des-sanctions-occidentales.html
 12902756-sanctions-contre-la-russie-nord-stream-2-licencie-plus-de-140-personnes-a-zoug.html
@@ -2122,9 +2102,6 @@
 12961934-tesla-inaugure-une-megausine-en-allemagne-pour-sa-production-europeenne.html
 12963835-les-patrons-des-grandes-societes-suisses-cotees-ont-gagne-plus-en-2021.html
 12964162-linvasion-russe-entrainera-la-fin-de-la-mondialisation-lowcost-estime-stephane-garelli.html
-12968113-l-ue-trouve-un-accord-pour-encadrer-les-geants-du-numerique.html
-12968113-l-union-europeenne-trouve-un-accord-pour-encadrer-les-geants-du-numerique.html
-12968113-lue-trouve-un-accord-pour-encadrer-les-geants-du-numerique.html
 12968113-lunion-europeenne-trouve-un-accord-pour-encadrer-les-geants-du-numerique.html
 12968881-les-exportations-suisses-de-materiel-de-guerre-ont-recule-de-18-en-2021.html
 12969437-les-suisses-ont-mange-23-kilos-de-fromage-par-tete-en-2021-un-record.html
@@ -2170,10 +2147,7 @@
 13036017-les-commandes-de-nouvelles-voitures-prennent-toujours-plus-de-retard.html
 13037792-un-transport-maritime-a-voile-pour-moins-de-co2.html
 13041255-swiss-supprime-des-vols-cet-ete-en-raison-dun-manque-de-personnel.html
-13043403-elon-musk-s-offre-le-reseau-social-twitter-pour-44-milliards-de-dollars.html
 13043403-elon-musk-soffre-le-reseau-social-twitter-pour-44-milliards-de-dollars.html
-13043403-twitter-serait-sur-le-point-d-accepter-l-offre-de-rachat-d-elon-musk.html
-13043403-twitter-serait-sur-le-point-daccepter-loffre-de-rachat-delon-musk.html
 13043414-nouveau-record-pour-les-depenses-militaires-mondiales-en-2021.html
 13046578-ubs-signe-un-bon-premier-trimestre-malgre-la-situation-geopolitique.html
 13046923-la-startup-genevoise-sonarsource-leve-412-millions-et-devient-quadruple-licorne.html
@@ -2195,14 +2169,12 @@
 13065865-pourquoi-il-est-necessaire-de-chiffrer-la-valeur-dune-vie-humaine.html
 13066057-lindicateur-de-lemploi-du-kof-est-au-plus-haut-depuis-sa-creation-en-1992.html
 13066843-les-crocs-le-retour-de-la-chaussure-moche.html
-13069166-l-europe-veut-stopper-ses-importations-de-petrole-russe-la-suisse-peu-concernee.html
 13069166-leurope-veut-stopper-ses-importations-de-petrole-russe-la-suisse-peu-concernee.html
 13069482-la-fed-procede-a-la-plus-forte-hausse-de-taux-depuis-2000-pour-contrer-linflation.html
 13071048-les-compagnies-surfent-sur-la-reprise-des-voyages-et-effacent-leurs-pertes.html
 13073689-les-aeroports-europeens-debordes-face-a-la-reprise-du-secteur-aerien.html
 13073886-le-taux-de-chomage-a-poursuivi-son-recul-en-suisse-au-mois-davril.html
 13074791-benefices-record-pour-les-societes-petrolieres-au-premier-trimestre.html
-13077662-les-pays-du-g7-s-engagent-a-arreter-d-importer-progressivement-du-petrole-russe.html
 13077662-les-pays-du-g7-sengagent-a-arreter-dimporter-progressivement-du-petrole-russe.html
 13079763-le-live-shopping-nouvelle-tendance-du-commerce-en-ligne.html
 13081820-le-centenaire-du-vreneli-de-10-francs-fete-avec-une-piece-inedite.html
@@ -2227,7 +2199,6 @@
 13103399-la-privatisation-de-postfinance-nest-pas-pour-tout-de-suite.html
 13104503-malgre-les-incertitudes-les-prix-de-limmobilier-ont-tendance-a-baisser.html
 13104841-la-pandemie-puis-la-guerre-ont-mis-en-lumiere-la-fragilite-du-fret-mondial.html
-13107037-pont-aerien-pour-resoudre-la-penurie-de-lait-en-poudre-aux-etats-unis.html
 13107037-pont-aerien-pour-resoudre-la-penurie-de-lait-en-poudre-aux-etatsunis.html
 13107371-le-marche-de-la-femtech-secteur-prometteur-en-suisse.html
 13107612-trois-mois-apres-le-debut-de-la-guerre-la-russie-sur-le-chemin-de-la-deglobalisation.html
@@ -2472,7 +2443,6 @@
 13383822-comment-lexplosion-des-prix-du-fret-maritime-incite-a-acheter-local.html
 13386524-perte-de-142-millions-de-francs-au-premier-semestre-pour-les-cff.html
 13387400-la-suisse-au-bord-de-la-recession-previennent-les-economistes-de-linstitut-bak.html
-13393970-face-a-la-penurie-dans-les-metiers-de-l-informatique-entreprises-et-ecoles-se-mobilisent.html
 13393970-face-a-la-penurie-dans-les-metiers-de-linformatique-entreprises-et-ecoles-se-mobilisent.html
 13395435-une-travailleuse-sur-cinq-ne-prend-pas-sa-retraite-a-64-ans.html
 13397573-les-cantons-envisagent-dinstaller-des-toits-solaires-sur-chaque-maison.html
@@ -2480,7 +2450,6 @@
 13399417-le-seco-revoit-a-la-baisse-ses-previsions-de-croissance-pour-2022-et-2023.html
 13401132-la-poste-et-cff-cargo-testent-un-trainnavette-pour-transporter-les-colis.html
 13403171-des-nouvelles-filieres-pour-former-les-acteurs-de-la-transition-ecologique.html
-13404142-la-fed-releve-ses-taux-et-s-attend-a-une-croissance-quasi-nulle.html
 13404142-la-fed-releve-ses-taux-et-sattend-a-une-croissance-quasi-nulle.html
 13404189-stadler-rail-va-livrer-des-trains-a-hydrogene-aux-etatsunis.html
 13405240-la-banque-nationale-suisse-met-fin-au-taux-negatif.html
@@ -2531,7 +2500,6 @@
 13469324-penurie-de-gaz-carbonique-a-cause-de-la-crise-energetique.html
 13470647-credit-suisse-signe-un-accord-pour-regler-le-dernier-litige-sur-les-subprimes.html
 13470779-les-reservations-sont-bonnes-pour-ce-debut-dhiver-malgre-la-crise.html
-13471204-le-royaume-uni-revient-sur-la-quasi-totalite-de-ses-reformes-fiscales.html
 13471204-le-royaumeuni-revient-sur-la-quasitotalite-de-ses-reformes-fiscales.html
 13472251-timon-zimmermann-graine-de-genie-dans-le-monde-de-lintelligence-artificielle.html
 13473289-la-plateforme-farmych-a-la-conquete-de-la-suisse-romande.html
@@ -2659,7 +2627,6 @@
 13615851-les-compagnies-aeriennes-paieront-pour-les-emissions-de-co2-de-leurs-vols-intraeuropeens.html
 13622434-la-capitale-asiatique-du-lithium-a-fait-trembler-toute-une-industrie-davenir.html
 13623305-lancien-patron-de-la-plateforme-de-cryptomonnaies-ftx-arrete-aux-bahamas.html
-13623305-lancien-patron-de-la-platforme-de-cryptomonnaies-ftx-arrete-aux-bahamas.html
 13624734-podcast-pourquoi-les-medicaments-coutent-si-cher-en-suisse.html
 13624914-la-croissance-economique-est-attendue-en-nette-baisse-en-2023.html
 13629051-podcast-pourquoi-est-ce-qu-on-protege-le-loup.html
@@ -2703,15 +2670,6 @@
 13696878-les-personnes-au-chomage-particulierement-sous-pression-en-periode-de-plein-emploi.html
 13697469-les-prix-mondiaux-du-ble-ont-fortement-chute-apres-des-recoltes-prolifiques.html
 13697513-aldi-fait-limpasse-sur-les-livraisons-de-fruits-et-legumes-par-avion.html
-13699030-en-marge-du-wef-albert-rosti-loue-les-technologies-propres-des-entreprises-suisses.html
-13699030-entre-guerre-en-ukraine-et-menace-de-recession-un-wef-2023-en-pleine-incertitude.html
-13699030-greta-thunberg-il-est-absurde-decouter-les-gens-qui-alimentent-le-plus-la-destruction-de-la-planete.html
-13699030-greta-thunberg-revient-a-davos-pour-lutter-contre-les-energies-fossiles.html
-13699030-les-democraties-sont-a-un-tournant-avertit-alain-berset-en-ouverture-du-forum-de-davos.html
-13699030-un-wef-de-davos-sans-tete-daffiche-mais-avec-de-la-substance-se-termine.html
-13699030-une-reunion-du-wef-2023-a-davos-dans-un-monde-fragmente.html
-13699030-volodymyr-zelensky-reclame-de-la-vitesse-dans-les-decisions-pour-aider-l-ukraine.html
-13699030-volodymyr-zelensky-reclame-de-la-vitesse-dans-les-decisions-pour-aider-lukraine.html
 13699694-en-2023-les-plateformes-de-streaming-misent-sur-la-diversite-pour-survivre.html
 13699927-les-pilotes-de-swiss-approuvent-la-nouvelle-convention-collective-de-travail.html
 13700655-bella-un-robot-pour-aider-au-service-dans-une-brasserie-lausannoise.html
@@ -3032,7 +2990,6 @@
 14043637-karin-kellersutter-ne-nous-privons-pas-de-recettes-supplementaires.html
 14043903-pourquoi-le-plafond-de-la-dette-americaine-menacetil-la-stabilite-financiere-mondiale.html
 14044427-les-recettes-du-secteur-publicitaire-ont-progresse-en-2022.html
-14044552-le-conseil-d-administration-de-credit-suisse-est-responsable-estime-karin-keller-sutter.html
 14044552-le-conseil-dadministration-de-credit-suisse-est-responsable-estime-karin-kellersutter.html
 14045265-les-suisses-paient-le-prix-fort-pour-le-shopping-en-ligne.html
 14045395-credit-suisse-renonce-finalement-a-recourir-contre-la-finma.html

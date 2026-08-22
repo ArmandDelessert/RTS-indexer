@@ -6,7 +6,6 @@
 10066829-laurent-voulzy-le-coeur-grenadine.html
 10067296-le-festin-de-noel.html
 10118002-francoise-hardy-icone-melancolique.html
-10174511-completement-zofingue-.html
 10194328-lepopee-dinterneige.html
 10200732-maxime-le-forestier.html
 10235940-hommage-a-claude-goretta.html
@@ -39,8 +38,6 @@
 11208198-yvette-zgraggen.html
 11281227-les-jardins-familiaux-coin-de-paradis.html
 11281519-zouc-une-artiste-a-part.html
-11312600-l-abbatiale-de-payerne.html
-11312600-labbatiale-de-payerne.html
 11333356-vivre-ensemble-a-evolene.html
 11384960-barbara-la-femme-qui-chante.html
 11387784-barbara-et-colette-jean.html
@@ -58,7 +55,6 @@
 12892755-le-nouveau-theatre-de-poche.html
 13046711-le-cheval-des-franchesmontagnes.html
 13178323-la-grande-explication.html
-13211099-la-chambre-telefilm-danticipation-de-la-tsr-au-nifff.html
 13238773-patrick-dewaere.html
 13250232-hanns-in-der-gand.html
 13424927-la-radio-a-100-ans.html
@@ -68,11 +64,8 @@
 13727328-arie-dzierlatka.html
 13735548-les-brandons-carnaval-en-terre-protestante.html
 13858180-henri-guillemin-et-la-litterature.html
-13897697.html
 13914542-le-pasteur-dardel-raconte.html
-13914542.html
 13965481-texte-de-la-petition-soutenons-rts-religion.html
-13965481.html
 14095562-le-camping-un-art-de-vivre.html
 14136987-sial-iv-1er-episode.html
 14229504-sept-choix-essentiels-de-la-rentree-scolaire.html
@@ -81,7 +74,6 @@
 14432524-saintgingolph-1944-une-tragedie-de-guerre-aux-portes-de-la-suisse.html
 14435511-la-suisse-un-vrai-decor-de-cinema.html
 14504321-le-noel-des-enfants.html
-14531928-humaniser-la-psychiatrie-entre-intentions-et-realites.html
 14594453-les-dragons-du-hc-fribourggotteron.html
 14675398-speleologie-en-suisse-romande.html
 14771443-40moi-une-histoire-la-quarantaine-rugissante.html
@@ -119,7 +111,6 @@
 7129597-coups-de-sac-au-conseil-federal.html
 7148222-nos-glaciers-comme-neige-au-soleil.html
 7169319-coup-de-projecteur-sur-le-dav.html
-7257624-a-l-ecole-du-sport.html
 7277679-pere-noel-superstar.html
 7362991-courant-alternatif.html
 7393698-quand-balavoine-chantait-a-la-tsr.html
@@ -229,7 +220,6 @@
 8375545-les-dessous-de-marianne.html
 8402881-la-montagne-au-bout-des-ciseaux.html
 8406037-lame-de-fribourg.html
-8406972-le-lignon.html
 8408642-yvette-theraulaz.html
 8414791-le-monde-fascinant-dinternet.html
 8420546-le-risque-des-archives.html
@@ -253,8 +243,6 @@
 8574854-un-tour-au-marche.html
 8574985-les-mouettes-genevoises.html
 8575662-charles-aznavour-adieu-lartiste.html
-8592421-charlesferdinand-ramuz.html
-8592421-ramuz.html
 8595406-le-soudan-un-pays-divise.html
 8597483-carter-assad-une-rencontre-en-direct.html
 8598178-coree-du-nord-un-paradis-pour-tous.html
@@ -276,20 +264,16 @@
 8804144-un-suisse-dans-lespace.html
 8841002-georges-haldas.html
 8848646-patois-langues-vivantes.html
-8858720-a-pleines-dents-.html
-8858720-a-pleines-dents.html
 8873233-le-tessin-un-canton-a-part.html
 8875669-darpanet-au-web-20.html
 8879910-marions-les-.html
 8909094-allemagne-le-miracle-economique.html
 8916444-divorce-a-la-suisse.html
-8919411-bien-helvetique-.html
 8938978-de-fil-en-aiguille.html
 8946587-le-tunnel-du-rawyl.html
 8946974-laffaire-graziella-ortiz.html
 8952894-louis-aragon.html
 8957110-aung-san-suu-kyi-face-aux-minorites.html
-8965485-julien-clerc.html
 8968804-france-gall.html
 8976351-iserables-village-haut-perche.html
 8993840-lino-ventura.html
@@ -342,7 +326,6 @@
 9588247-en-examens.html
 9593483-hauts-lieux-du-christianisme.html
 9606628-alpage-terre-promise.html
-9620992-le-bol-d-or-des-bateaux-et-des-hommes-.html
 9647335-les-grandes-vacances.html
 9664799-line-renaud-une-grande-dame.html
 9710364-festina-a-linsu-de-leur-plein-gre.html

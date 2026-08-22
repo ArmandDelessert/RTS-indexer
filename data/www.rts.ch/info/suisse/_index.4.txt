@@ -217,7 +217,6 @@
 4304296-le-conseil-national-veut-prolonger-le-moratoire-sur-les-ogm.html
 4305597-malgre-la-hausse-moderee-des-primes-il-y-a-encore-beaucoup-de-choses-a-faire.html
 4306435-tour-dhorizon-des-affaires-informatiques-de-larmee-suisse.html
-4306925-l-autorisation-aux-banques-de-transmettre-des-noms-rendue-publique.html
 4306925-lautorisation-aux-banques-de-transmettre-des-noms-rendue-publique.html
 4308675-la-burqa-ne-sera-pas-interdite-en-suisse.html
 4309052-rumeurs-autour-du-depart-de-suisse-de-johnny-hallyday.html
@@ -347,7 +346,6 @@
 4493774-onze-personnes-ensevelies-sous-une-avalanche-a-engelberg.html
 4493969-la-suisse-paierait-100-millions-de-francs-par-avion-de-combat-gripen.html
 4495631-le-premier-tunnel-entierement-eclaire-aux-lampes-led-en-suisse.html
-4496041-les-energies-renouvelables-ont-la-cote-aupres-des-suisses.html
 4498154-le-chomage-est-en-tete-des-preoccupations-des-suisses.html
 4498568-le-conseil-national-defend-le-service-militaire-obligatoire.html
 4498906-la-suisse-rallonge-sa-liste-de-produits-stupefiants-interdits.html
@@ -393,7 +391,6 @@
 4554285-les-employes-du-discounter-aldi-surveilles-par-un-detective-prive.html
 4556477-le-conseil-federal-defend-la-revision-de-la-loi-sur-l-amenagement-du-territoire.html
 4558276-les-zones-dombre-de-laffaire-luca-qui-dechirent-les-experts-suisses-et-italiens.html
-4558359-luca-aurait-ete-victime-d-une-agression-humaine-selon-des-experts-italiens.html
 4558815-un-referendum-contre-l-ouverture-des-shops-24-heures-sur-24.html
 4560448-les-cff-vont-adapter-leurs-nouveaux-intercity-pour-les-fauteuils-roulants.html
 4562040-les-femmes-plus-dangereuses-que-les-hommes-au-volant-selon-la-suva.html
@@ -459,7 +456,6 @@
 4656908-sanctions-contre-le-laboratoire-antidopage-de-lausanne-exclues.html
 4658053-la-detention-preventive-ne-sera-pas-systematique-pour-les-chauffards.html
 4658981-de-la-viande-de-cheval-retrouvee-dans-certaines-lasagnes-de-la-coop.html
-4658991-la-securite-privee-romande-gagne-des-parts-du-marche-des-prisonniers.html
 4660849-laccord-fiscal-entre-la-suisse-et-les-etatsunis-a-ete-signe.html
 4663935-les-soldats-peu-motives-par-leur-service-militaire-selon-une-etude.html
 4664469-malgre-les-efforts-de-berne-le-besoin-de-places-en-creches-reste-pressant.html
@@ -482,22 +478,15 @@
 4685202-le-fichage-de-nombreux-suisses-par-la-confederation-pose-probleme.html
 4690280-une-nouvelle-initiative-contre-lavortement-a-ete-lancee.html
 4695131-larrete-sur-la-politique-familiale-est-rejete-par-la-majorite-des-cantons.html
-4695168-la-revision-de-la-loi-sur-l-amenagement-du-territoire-est-largement-acceptee.html
 4695168-la-revision-de-la-loi-sur-lamenagement-du-territoire-est-largement-acceptee.html
-4695190-l-initiative-contre-les-remunerations-abusives-en-voie-d-etre-acceptee.html
-4695190-l-initiative-contre-les-remunerations-abusives-plebiscitee-par-les-suisses.html
 4695190-linitiative-contre-les-remunerations-abusives-plebiscitee-par-les-suisses.html
 4697033-une-otage-suisse-liberee-apres-un-an-de-captivite-au-yemen.html
 4698441-une-majorite-des-suisses-sont-favorables-a-un-service-civil-obligatoire.html
 4703279-initiative-minder-et-revision-de-la-lat-passent-la-politique-familiale-echoue.html
-4703279-vers-un-oui-a-l-initiative-minder-et-a-la-revision-de-la-lat.html
 4705816-les-votations-marquent-la-victoire-dun-franctireur-et-lechec-du-gouvernement.html
-4705990-la-presse-etrangere-intriguee-par-le-succes-de-l-initiative-minder.html
 4705990-la-presse-etrangere-intriguee-par-le-succes-de-linitiative-minder.html
-4707098-le-triomphe-de-minder-est-un-avertissement-a-l-elite-economique.html
 4707098-le-triomphe-de-minder-est-un-avertissement-a-lelite-economique.html
 4707744-hausse-du-nombre-de-frontaliers-de-pres-de-5-en-suisse.html
-4708379-le-vote-suisse-sur-les-remunerations-abusives-inspire-l-elysee.html
 4708379-le-vote-suisse-sur-les-remunerations-abusives-inspire-lelysee.html
 4708652-les-actionnaires-ont-eu-tendance-a-valider-les-remunerations-des-managers-ces-dernieres-annees.html
 4708664-le-national-veut-mieux-responsabiliser-les-entreprises-pollueuses.html
@@ -638,7 +627,6 @@
 4937853-le-nouvel-horaire-cff-devrait-stabiliser-l-axe-ferroviaire-nord-sud.html
 4939707-les-etudiants-etrangers-doivent-payer-plus-estime-une-commission.html
 4941440-le-oui-a-la-revision-de-la-loi-sur-l-asile-se-renforce-selon-le-sondage-ssr.html
-4941487--on-deviendrait-le-pays-des-sondages-et-des-cotes-de-popularite-.html
 4941487-on-deviendrait-le-pays-des-sondages-et-des-cotes-de-popularite.html
 4941707-la-suisse-annonce-un-accord-bancaire-avec-les-etats-unis.html
 4944263-la-presse-suisse-fustige-laccord-fiscal-avec-les-etatsunis.html

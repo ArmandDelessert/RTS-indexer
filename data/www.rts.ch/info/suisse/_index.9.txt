@@ -416,8 +416,6 @@
 9217487-un-postulat-veut-assouplir-les-pratiques-pour-exporter-des-armes.html
 9217964-les-hotels-hopitaux-et-prisons-devront-payer-les-droits-dauteur.html
 9218309-la-justice-refuse-de-transmettre-les-noms-demployes-de-banque-aux-etatsunis.html
-9219138-apres-le-passage-de-la-tempete-eleanor-la-suisse-et-paleo-sous-l-eau.html
-9219138-apres-les-vents-des-precipitations-abondantes-menacent-la-suisse.html
 9219878-le-nombre-dadoptions-en-suisse-est-quatre-fois-moins-eleve-quen-1980.html
 9220190-le-couple-americanosuisse-aurait-planifie-son-suicide-dans-lutah.html
 9220227-la-tempete-eleanor-a-cause-plus-de-50-millions-de-francs-de-degats-en-suisse.html
@@ -674,7 +672,6 @@
 9340607-la-classe-moyenne-s-etend-legerement-ces-dernieres-annees-en-suisse.html
 9340618-demivictoire-pour-inclusion-handicap-contre-les-nouvelles-rames-cff.html
 9341222-le-seco-sollicite-dans-les-negociations-a-lagence-telegraphique-suisse.html
-9341291-trois-mois-de-suspension-pour-une-clinique-gene-voise.html
 9341291-trois-mois-de-suspension-pour-une-clinique-genevoise.html
 9341488-la-fermeture-des-offices-postaux-en-question-apres-laffaire-carpostal.html
 9344685-39-medecins-romands-audessus-de-15-million-de-chiffre-daffaires.html
@@ -1323,8 +1320,6 @@
 9699423-petition-signee-par-6000-enseignants-suisses-qui-demandent-plus-de-soutien.html
 9700036-le-pdc-veut-depolitiser-les-presidences-des-firmes-proches-de-letat.html
 9700511-une-penurie-de-gaz-carbonique-en-europe-menace-aussi-les-bulles-suisses.html
-9701022-l-evacuation-des-enfants-coinces-dans-une-grotte-commence-en-thailande.html
-9701022-l-evacuation-des-enfants-coinces-dans-une-grotte-commence.html
 9701058-peu-de-naturalisations-facilitees-pour-les-jeunes-de-troisieme-generation.html
 9701604-cinq-personnes-vivant-en-suisse-tuees-dans-un-accident-au-kosovo.html
 9702926-un-comite-se-mobilise-contre-le-projet-de-loi-sur-le-service-civil.html
@@ -1530,7 +1525,6 @@
 9807619-la-part-reservee-aux-heritiers-legaux-devrait-diminuer-en-suisse.html
 9807777-rassemblements-a-geneve-et-lausanne-contre-la-politique-dasile.html
 9808004-un-audit-preconise-de-simplifier-le-systeme-de-lassurance-chomage.html
-9808586-la-compagnie-skywork-airlines-cesse-ses-activites-11000-passagers-touches.html
 9808750-ma-femme-ma-dit-viens-vite-il-y-a-un-avion-de-swissair-qui-a-disparu.html
 9808799-laele-offre-un-modele-pour-la-participation-a-la-construction-europeenne.html
 9809204-apprendre-a-connaitre-lautre-pour-resoudre-le-conflit-israelopalestinien.html
@@ -1883,7 +1877,7 @@
 9977489-on-a-une-perte-de-confiance-massive-avec-les-affaires-auxquelles-on-assiste.html
 9978142-les-femmes-sontelles-en-voie-de-disparition-au-conseil-des-etats.html
 9979706-ministre-et-mere-oui-mais-dans-un-gouvernement-cantonal.html
-9980728-succes-pour-la-journee-futur-en-tous-genres-.html
+9980728-succes-pour-la-journee-futur-en-tous-genres.html
 9980836-les-milieux-de-la-prevention-contre-les-addictions-decus-par-le-conseil-federal.html
 9981056-les-synagogues-de-suisse-eclairees-pour-commemorer-la-nuit-de-cristal.html
 9982051-la-greve-de-1918-cest-la-naissance-de-la-suisse-sociale.html

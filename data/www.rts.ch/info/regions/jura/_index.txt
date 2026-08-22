@@ -208,9 +208,7 @@
 12441933-laccueil-de-moutier-au-centre-du-programme-de-legislature-du-jura.html
 12446657-le-jura-renforce-les-liens-avec-ses-fonctionnaires-federaux.html
 12452288-la-culture-clairsemee-une-technique-innovante-testee-dans-le-jura.html
-12462535-un-groupe-de-parole-pour-permettre-aux-afghans-et-afghanes-du-jura-d-exprimer-leur-souffrance.html
 12462535-un-groupe-de-parole-pour-permettre-aux-afghans-et-afghanes-du-jura-dexprimer-leur-souffrance.html
-12466519-une-election-plus-simple-pour-le-conseil-du-jura-bernois-cjb.html
 12470558-laventure-jura-parc-est-menace-par-le-bostryche-et-la-secheresse.html
 12488028-un-projet-de-nouvel-hopital-de-soins-aigus-au-coeur-de-delemont.html
 12519372-au-marche-du-terroir-de-courtemelon-ju-on-veut-croire-a-un-changement-des-habitudes.html
@@ -318,7 +316,6 @@
 13400145-des-camions-passes-au-crible-sur-une-aire-de-repos-a-porrentruy.html
 13405711-le-recours-au-tf-du-fils-de-la-victime-du-feminicide-de-courfaivre-irrecevable.html
 13408277-poerreintru-accueille-les-aimis-di-patois-le-temps-dun-weekend.html
-13414874-le-calendrier-du-transfert-de-moutier-dans-le-jura-s-affine-peu-a-peu.html
 13414874-le-calendrier-du-transfert-de-moutier-dans-le-jura-saffine-peu-a-peu.html
 13423326-le-canton-du-jura-veut-mieux-reguler-la-medecine-alternative.html
 13436177-la-justice-jurassienne-donne-raison-aux-gens-du-voyage-contre-saignelegier.html
@@ -711,8 +708,6 @@
 7129485-le-parlement-jurassien-oppose-au-projet-de-retraite-des-ministres.html
 7132927-le-budget-2016-du-canton-du-jura-dans-les-chiffres-rouges.html
 7154218-un-fossile-d-une-tortue-inconnue-decouvert-dans-le-jura.html
-7173677-jura-forte-poussee-de-l-udc-au-parlement-cantonal-statu-quo-aux-federales.html
-7173677-jura-forte-poussee-de-ludc-au-parlement-cantonal-statu-quo-aux-federales.html
 7188122-2-pdc-2-ps-1-plr-et-1-pcsi-pour-5-places-au-gouvernement-jurassien.html
 7189524-une-marque-jurassienne-lance-un-nouveau-modele-de-couteau-suisse.html
 7194292-une-centaine-de-places-de-plus-pour-les-requerants-dans-le-canton-du-jura.html

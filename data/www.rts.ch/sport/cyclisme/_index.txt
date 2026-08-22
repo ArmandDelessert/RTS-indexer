@@ -149,7 +149,6 @@
 11517588-cyclisme-jakobsen-est-sorti-du-coma.html
 11519112-cyclisme-wout-van-aert-remporte-la-primavera.html
 11525898-cyclisme-jakobsen-sur-la-bonne-voie.html
-11527792-cyclisme-les-mondiaux-d-aigle-martigny-annules.html
 11527792-cyclisme-les-mondiaux-daiglemartigny-annules.html
 11532003-tour-de-lombardie-deja-un-monument-pour-remco-evenepoel.html
 11532127-vtt-le-cafe-la-nouvelle-passion-de-christoph-sauser.html
@@ -633,9 +632,6 @@
 13319215-europeens-multisports-le-bronze-pour-le-tessinois-colombo-en-crosscountry.html
 13319216-vuelta-la-jumbovisma-de-primoz-roglic-domine-le-chrono-initial.html
 13319246-vtt-fluckiger-entre-choc-et-incredulite.html
-13321359-europeens-multisports-les-suissessses-loin-du-compte-en-vtt-crosscountry.html
-13321583-vtt-grand-raid-la-passe-de-trois-pour-andreas-seewald.html
-13321583-vtt-la-passe-de-trois-pour-andreas-seewald.html
 13321589-vuelta-benett-rafle-letape-dutrecht-et-teunissen-passe-en-rouge.html
 13322073-vuelta-bennett-remet-ca-belle-5e-place-du-zurichois-fabian-lienhard.html
 1332278-tdf-07-rabobank-savait-pour-rasmussen.html
@@ -850,7 +846,6 @@
 3097265-champery-dans-le-viseur-des-veteteistes-suisses.html
 3098609-nino-schurter-montre-les-dents-en-afrique-du-sud.html
 3230907-sauser-enleve-le-titre-mondial-de-marathon-de-vtt.html
-3309821-le-cycliste-italien-attilio-pavesi-double-champion-olympique-a-los-angeles-en-1932-est-decede.html
 3342354-largovien-urs-huber-vainqueur-du-grand-raid.html
 3397539-nino-schurter-premier-selectionne-suisse-pour-les-jo.html
 3397619-pas-de-mondiaux-pour-jeannie-longo.html
@@ -1163,8 +1158,6 @@
 8975161-cyclisme-pas-de-pitie-pour-le-champion-olympique-de-pekin.html
 8980642-cyclisme-vincenzo-nibali-sadjuge-le-111e-tour-de-lombardie.html
 9005540-tour-de-france-2018-letapereine-longue-de-65-km-dans-les-pyrenees.html
-9015562-cyclisme-mathieu-riebel-20-ans-est-decede-dans-un-accident-avec-une-ambulance-au-tour-de-nouvellecaledonie.html
-9015562-cyclisme-silvan-dillier-conserve-la-2e-place-du-classement-general-du-tour-de-guangxi-apres-la-deuxieme-etape.html
 9052360-cyclisme-michael-albasini-va-poursuivre-sa-carriere.html
 9057766-cyclocross-le-duo-forme-de-nicola-rohrbach-et-lars-forster-remporte-le-velodux-destavayerlelac-en-elite.html
 9072718-cancellara-luci-va-enqueter-sur-les-soupcons-de-dopage-mecanique.html

@@ -115,14 +115,12 @@
 6205774-l-agence-antidrogue-americaine-usurpe-l-identite-d-une-femme-sur-facebook.html
 6210251-les-employes-d-amazon-veulent-etre-payes-pour-la-fouille-de-fin-de-journee.html
 6218787-un-site-recense-les-revenus-annexes-des-eurodeputes.html
-6218852-le-groupe-de-l-etat-islamique-revendique-le-recours-a-l-esclavage.html
 6219251-google-se-lance-dans-les-consultations-medicales-en-ligne.html
 6221078-une-faille-de-windows-utilisee-pour-pirater-des-ordinateurs-de-l-otan.html
 6222211-l-homme-qui-demande-150-000-dollars-pour-le-site-internet-ebola-com.html
 6224415-les-employees-dapple-et-facebook-payees-pour-congeler-leurs-ovules.html
 6227083-une-tuerie-de-masse-se-produit-tous-les-deux-mois-aux-etats-unis.html
 6231411-combien-de-fois-votre-coeur-a-t-il-battu-depuis-votre-naissance.html
-6234253-les-theories-du-complot-autour-d-ebola-foisonnent-sur-internet.html
 6234253-les-theories-du-complot-autour-debola-foisonnent-sur-internet.html
 6236024-des-images-satellite-montrent-limpact-des-combats-a-kobane.html
 6236772-les-djihadistes-de-l-ei-recoivent-un-guide-pratique-pour-les-reseaux-sociaux.html
@@ -502,8 +500,6 @@
 8808982-des-machines-electroniques-de-vote-manipulables-en-quelques-minutes.html
 8828032-un-departement-americain-censure-l-expression-changement-climatique-.html
 8843387-un-hotel-dans-les-grisons-accuse-de-derapage-antisemite.html
-8858041--j-ai-mal-aux-yeux-une-requete-google-en-hausse-apres-l-eclipse-.html
-8858041-j-ai-mal-aux-yeux-une-requete-google-en-hausse-apres-l-eclipse.html
 8858041-jai-mal-aux-yeux-une-requete-google-en-hausse-apres-leclipse.html
 8866563-mille-ans-avant-la-naissance-de-pythagore-son-theoreme-etait-connu.html
 8900296-la-presentatrice-tv-en-rose-larme-de-propagande-du-regime-nordcoreen.html

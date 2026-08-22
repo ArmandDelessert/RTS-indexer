@@ -105,10 +105,8 @@
 5128231-une-etude-releve-la-gravite-des-accidents-de-velos-electriques.html
 5129670-la-pauvrete-touche-580000-personnes-en-suisse.html
 5129683-comparis-ch-tres-remonte-contre-le-departement-federal-de-l-interieur.html
-5129748-oprah-winfrey-s-excuse-de-la-polemique-sur-ses-deboires-a-zurich.html
 5129748-oprah-winfrey-sexcuse-de-la-polemique-sur-ses-deboires-a-zurich.html
 5129824-alain-berset-defend-la-loi-sur-les-epidemies-en-votation-le-22-septembre.html
-5131483-la-suisse-souhaite-faire-elire-le-sociologue-jean-ziegler-a-l-onu.html
 5131483-la-suisse-souhaite-faire-elire-le-sociologue-jean-ziegler-a-lonu.html
 5132662-lacceleration-des-procedures-dasile-a-ete-largument-determinant-le-9-juin.html
 5132898-la-suisse-s-apprete-a-envoyer-huit-militaires-au-mali.html
@@ -127,7 +125,6 @@
 5141067-les-primes-dassurance-maladie-vont-augmenter-en-2014.html
 5141379-les-cff-installeront-des-kiosques-directement-sur-les-quais.html
 5141396-un-avocat-suisse-plaide-coupable-d-aide-a-la-fraude-fiscale-aux-etats-unis.html
-5141892-des-cantons-reclament-des-tests-adn-pour-les-demandeurs-d-asile.html
 5141892-des-cantons-reclament-des-tests-adn-pour-les-demandeurs-dasile.html
 5142963-les-verts-veulent-empecher-la-production-de-gaz-de-schiste-en-suisse.html
 5143100-ouverture-du-proces-sur-laffaire-despionnage-contre-emschemie.html
@@ -352,7 +349,6 @@
 5369845-la-cigarette-electronique-bannie-des-transports-publics.html
 5370475-davantage-de-personnes-a-l-aide-sociale-malgre-la-reprise-economique.html
 5371101-pres-de-20-millions-d-allocations-familiales-versees-en-trop-depuis-2011.html
-5373143-l-initiative-udc-pour-les-familles-et-l-initiative-1-12-perdent-du-terrain.html
 5373143-linitiative-udc-pour-les-familles-et-linitiative-112-perdent-du-terrain.html
 5376448-un-etudiant-suisse-sur-sept-a-deja-recouru-au-dopage-cerebral.html
 5376856-les-cff-presentent-leur-premier-wagon-starbucks.html
@@ -363,7 +359,6 @@
 5380656-la-suisse-debloque-6-millions-de-francs-pour-les-philippines.html
 5382059-washington-nen-a-pas-fini-avec-les-banques-suisses.html
 5383876-la-chaine-du-bonheur-a-recolte-pres-de-8-millions-de-francs-pour-les-philippines.html
-5384247-le-wifi-permet-aux-cff-et-a-carpostal-d-obtenir-les-donnees-des-utilisateurs.html
 5384247-le-wifi-permet-aux-cff-et-a-carpostal-dobtenir-les-donnees-des-utilisateurs.html
 5384459-la-hausse-des-primes-maladie-a-reduit-le-revenu-disponible-de-4-fr-par-mois.html
 5385750-la-hausse-des-contaminations-par-le-sida-ne-se-confirme-pas-en-suisse.html
@@ -385,10 +380,6 @@
 5399139-lancement-de-la-campagne-pour-linitiative-udc-sur-limmigration.html
 5399362-la-premiere-journee-de-la-chirurgie-a-attire-plus-de-25000-curieux.html
 5399394-revision-de-lordonnance-dapplication-de-linitiative-minder-exigee.html
-5400776-triple-non-a-la-vignette-aux-familles-et-a-l-initiative-1-12.html
-5400776-triple-non-a-la-vignette-aux-familles-et-a-linitiative-112.html
-5400776-vers-un-triple-non-a-la-vignette-aux-familles-et-a-l-initiative-1-12.html
-5400776-vignette-familles-et-salaires-sont-soumis-au-vote-des-suisses.html
 5401440-la-hausse-du-prix-de-la-vignette-nettement-refusee.html
 5401513-les-suisses-n-ont-pas-voulu-de-l-augmentation-de-la-vignette-autoroutiere-a-100-fr-ils-ont-dit-non-a-60-5.html
 5401539-linitiative-de-ludc-pour-les-familles-rejetee-a-585.html
@@ -399,8 +390,7 @@
 5404392-le-financier-francoisraelien-arcadi-gaydamak-sous-les-verrous-en-suisse.html
 5404580-les-facultes-de-medecine-pourront-maintenir-le-numerus-clausus.html
 5405676-le-ps-veut-lancer-sa-propre-initiative-sur-les-familles.html
-5406158-le-national-refuse-d-assouplir-l-acces-au-passeport-suisse.html
-5406158.html
+5406158-le-national-refuse-dassouplir-lacces-au-passeport-suisse.html
 5406308-le-dopage-cerebral-concerne-davantage-les-etudiants-que-les-salaries-suisses.html
 5406395-la-lutte-contre-la-pauvrete-doit-debuter-des-l-age-prescolaire-selon-caritas.html
 5406751-un-cinquieme-des-retraites-suisses-consideres-comme-pauvres-par-l-ocde.html
@@ -548,7 +538,6 @@
 5512563-l-idee-d-un-registre-national-des-resquilleurs-fait-son-chemin-a-berne.html
 5512818-le-nouveau-financement-hospitalier-surchargerait-les-medecins.html
 5513417-dick-marty-a-la-tete-dune-commission-denquete-sur-le-passe-de-luci.html
-5513550-un-comite-attaque-l-initiative-financer-l-avortement-est-une-affaire-privee.html
 5513550-un-comite-attaque-linitiative-financer-lavortement-est-une-affaire-privee.html
 5513960-la-transmission-de-donnees-de-clients-de-julius-baer-au-fisc-americain-stoppee.html
 5515135-une-large-alliance-plaide-pour-le-projet-de-financement-du-rail.html
@@ -620,8 +609,6 @@
 5565261-un-tiers-de-dechets-alimentaires-dans-les-poubelles-des-suisses.html
 5566567-le-prepose-federal-a-la-protection-des-donnees-veut-durcir-les-sanctions.html
 5567868-record-de-froid-cette-nuit-en-suisse-alemanique.html
-5568071-l-initiative-contre-l-immigration-de-masse-gagne-du-terrain.html
-5568071-l-initiative-contre-l-immigration-de-masse-gagnerait-du-terrain.html
 5568071-linitiative-contre-limmigration-de-masse-gagne-du-terrain.html
 5568387-le-projet-de-tests-adn-pour-requerants-d-asile-est-compromis.html
 5568927-lhopital-de-lile-a-berne-continuera-a-soigner-les-anorexiques-graves.html
@@ -658,25 +645,13 @@
 5594454-johann-schneiderammann-repond-aux-accusations-de-fraude-fiscale.html
 5594940-la-confederation-a-recu-des-offres-pour-le-tiers-de-ses-tiger-f5.html
 5595545-immigration-avortement-et-financement-du-rail-au-menu-des-votations-de-dimanche.html
-5596919-immigration-financement-du-rail-et-avortement-les-resultats-en-direct.html
-5596919-l-initiative-de-l-udc-anti-immigration-passe-la-rampe-avec-50-34-des-voix.html
-5596919-le-deroulement-de-la-journee-de-votations-du-9-fevrier.html
-5596919-suspense-dans-les-urnes-sur-l-initiative-de-l-udc-contre-l-immigration.html
-5596919-un-oui-a-l-initiative-de-l-udc-contre-l-immigration-de-masse-se-dessine.html
-5596919-un-oui-a-l-initiative-de-l-udc-contre-l-immigration-de-masse-semble-se-dessiner.html
-5597512-les-suisses-acceptent-l-initiative-de-l-udc-contre-l-immigration-de-masse.html
-5597512-les-suisses-acceptent-l-initiative-de-l-udccontre-l-immigration-de-masse.html
 5597512-les-suisses-acceptent-linitiative-de-ludc-contre-limmigration-de-masse.html
-5597519-vote-sans-appel-contre-l-initiative-sur-le-remboursement-de-l-avortement.html
 5597519-vote-sans-appel-contre-linitiative-sur-le-remboursement-de-lavortement.html
 5597538-les-suisses-plebiscitent-le-fonds-pour-le-developpement-du-rail.html
 5597762-desavoue-dans-les-urnes-le-conseil-federal-veut-agir-vite-sur-limmigration.html
 5597766-record-de-participation-depuis-le-vote-sur-les-accords-de-schengen-en-2005.html
 5597998-le-vote-sur-linitiative-udc-interesse-la-presse-europeenne.html
-5599220-apres-la-votation-la-presse-romande-pointe-le-clivage-entre-deux-suisses.html
-5599220-apres-les-votations-la-presse-romande-pointe-le-clivage-entre-deux-suisses.html
 5599220-la-presse-romande-pointe-le-clivage-entre-deux-suisses.html
-5599651-la-presse-etrangere-s-interroge-sur-l-impact-du-vote-anti-immigration.html
 5599651-la-presse-etrangere-sinterroge-sur-limpact-du-vote-antiimmigration.html
 5599912-moins-de-stations-service-en-suisse-mais-plus-d-espace-pour-les-shops.html
 5600553-johann-schneiderammann-refuse-de-parler-de-catastrophe.html
@@ -758,9 +733,7 @@
 5646916-le-conseil-federal-veut-prolonger-les-mesures-urgentes-sur-l-asile.html
 5647087-une-tranche-de-1-68-milliard-pour-les-routes-suisses-avant-forta.html
 5647180-echanges-houleux-au-parlement-europeen-au-sujet-du-vote-suisse.html
-5647245-etudiants-suisses-exclus-du-programme-erasmus-des-l-automne.html
 5647245-etudiants-suisses-exclus-du-programme-erasmus-des-lautomne.html
-5647245-les-etudiants-suisses-sont-exclus-du-programme-erasmus-des-la-rentree-2014.html
 5648169-recherche-autour-de-fonds-ukrainiens-places-en-suisse.html
 5648884-avalanche-de-reactions-apres-lexclusion-de-la-suisse-derasmus.html
 5651507-l-ue-accepte-un-accord-sur-l-asile-malgre-le-vote-sur-l-immigration.html
@@ -786,7 +759,6 @@
 5665779-des-dizaines-de-pesticides-polluent-les-cours-deau-suisses-selon-une-etude.html
 5666074-les-assures-toucheront-800-millions-de-francs-des-primes-maladie-excessives.html
 5666154-des-centaines-detudiants-genevois-manifestent-en-faveur-derasmus.html
-5666640-christoph-blocher-je-n-ai-recu-que-deux-demandes-concretes-d-etudiants.html
 5666640-christoph-blocher-je-nai-recu-que-deux-demandes-concretes-detudiants.html
 5667076-pierre-moscovici-le-president-francois-hollande-a-ete-touche-par-le-vote-suisse.html
 5667666-l-europe-reclamait-davantage-d-argent-a-la-suisse-pour-erasmus.html
@@ -810,7 +782,6 @@
 5677151-la-suisse-compte-14-million-delecteurs-europeens.html
 5677344-linitiative-routiere-dite-vache-a-lait-a-ete-deposee-a-berne.html
 5677470-pour-la-justice-les-operateurs-font-trop-payer-les-ecoutes-telephoniques.html
-5677474-faut-il-financer-l-achat-de-22-avions-gripen-reponse-le-18-mai.html
 5677474-fautil-financer-lachat-de-22-avions-gripen-reponse-le-18-mai.html
 5677531-le-conseil-federal-plutot-satisfait-de-son-action-en-2013.html
 5677923-un-mort-et-des-blesses-dans-l-accident-d-un-car-suisse-en-espagne.html
@@ -1028,7 +999,6 @@
 5827220-christoph-blocher-conteste-l-idee-lancee-par-didier-burkhalter-de-faire-revoter-le-peuple-sur-l-europe.html
 5828456-les-vieux-deuxroues-pourront-continuer-a-faire-du-bruit.html
 5828599-ueli-maurer-pourrait-utiliser-la-crise-en-ukraine-pour-vendre-le-gripen.html
-5830099-l-ecart-se-resserre-entre-partisans-et-detracteurs-des-gripen.html
 5830099-lecart-se-resserre-entre-partisans-et-detracteurs-des-gripen.html
 5830466-le-national-offre-de-nouveaux-avantages-a-l-industrie-pharmaceutique.html
 5830800-la-suisse-mal-notee-en-matiere-denergies-renouvelables.html
@@ -1073,8 +1043,6 @@
 5854076-alain-berset-appelle-les-cantons-alemaniques-a-maintenir-le-francais.html
 5854122-la-protection-des-paysages-remise-en-cause-par-les-producteurs-d-energie.html
 5856133-un-detective-suisse-accuse-despionnage-dans-laffaire-areva.html
-5856543--il-faut-legaliser-le-cannabis-dans-l-espace-prive-selon-olivier-gueniat.html
-5856543-il-faut-legaliser-le-cannabis-dans-l-espace-prive-selon-olivier-gueniat.html
 5856543-il-faut-legaliser-le-cannabis-dans-lespace-prive-selon-olivier-gueniat.html
 5856772-gripen-salaire-minimum-pedophilie-et-medecine-de-famille-en-votations.html
 5857854-les-resultats-des-votations-federales-en-direct.html

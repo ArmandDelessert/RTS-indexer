@@ -141,7 +141,7 @@
 10488095-les-secrets-de-la-pochette-de-l-album-chromatic-de-sens-unik.html
 10488595-plus-de-250-concerts-gratuits-pour-la-53e-edition-du-montreux-jazz-festival.html
 10490121-deces-de-dr-john-pianiste-legendaire-de-la-nouvelleorleans.html
-10500893-pirate-le-groupe-radiohead-diffuse-18-heures-d-enregistrements-inedits.html
+10500893-pirate-le-groupe-radiohead-diffuse-18-heures-denregistrements-inedits.html
 10504064-la-bandeson-des-matchs-de-foot-quand-les-supporters-entonnent-verdi.html
 10504132-il-y-a-200-ans-naissait-jacques-offenbach-inventeur-du-starsystem.html
 10504401-dylan-et-scorsese-sortent-un-objet-filme-non-identifiable-mais-magnifique-.html
@@ -437,7 +437,6 @@
 11440782-balance-ton-tube-ti-se-meriton-du-chanteur-kosovar-labinot-rehxa.html
 11442472-les-stars-de-la-musique-appellent-a-sauver-la-scene-britannique.html
 11445041-le-duo-rai-marseillais-benzine-redynamise-la-poesie-bedouine.html
-11451984-le-musicien-italien-ennio-morricone-est-decede-a-l-age-de-91-ans.html
 11451984-le-musicien-italien-ennio-morricone-est-decede-a-lage-de-91-ans.html
 11455254-une-remontee-du-cours-du-rhin-en-musiques.html
 11455281-les-jeux-videos-accueillent-de-plus-en-plus-de-concerts-virtuels.html
@@ -479,7 +478,6 @@
 11559076-charlie-parker-les-cent-ans-de-loiseau-de-feu-du-jazz.html
 11559703-label-suisse-defie-le-coronavirus-avec-soixante-concerts-a-lausanne.html
 11562206-martha-argerich-80-ans-et-une-indomptable-sagesse.html
-11562206-martha-argerich-lindomptable-sagesse.html
 11564245-quelques-brasses-a-geneveplage-au-son-de-strauss-et-verdi-grace-a-losr.html
 11570978-nicola-sirkis-40-ans-pour-un-groupe-cest-totalement-irrationnel.html
 11571279-labbatiale-de-bellelay-accueille-une-serie-de-concerts-audacieux.html
@@ -812,7 +810,7 @@
 12444149-les-vers-doreilles-ces-chansons-qui-refusent-de-quitter-nos-tetes.html
 12446970-beak-paracheve-en-majeste-rock-la-11e-edition-du-festival-nox-orae.html
 12449726-pari-gagne-pour-le-festival-du-chant-du-ptit-au-noirmont-ju.html
-12450127-objectifs-atteints-pour-l-edition-estivale-du-cully-jazz-festival.html
+12450127-objectifs-atteints-pour-ledition-estivale-du-cully-jazz-festival.html
 12450348-lee-scratch-perry-pionnier-du-reggae-roots-et-du-dub-est-decede.html
 12456026-donda-le-dixieme-album-aussi-reussi-que-controverse-de-kanye-west.html
 12459408-du-beethoven-cree-par-algorithmes-a-lausanne-et-geneve.html
@@ -946,9 +944,7 @@
 12804770-la-chanteuse-bresilienne-elza-soares-meurt-a-lage-de-91-ans.html
 12805355-le-chanteur-americain-meat-loaf-est-decede-a-lage-de-74-ans.html
 12811459-avec-tiranatirona-allstars-les-musiques-albanaises-reprennent-leur-envol.html
-12814470-hommage-a-serge-wintsch-le-plus-americain-des-jazzmen-suisses.html
 12814470-hommage-a-serge-wintsch-trompettiste-et-passeur-passionne.html
-12814470-hommage-a-serge-wintsch-trompettiste-naturel-et-passeur-passionne.html
 12814948-bob-dylan-vend-a-sony-music-tout-son-catalogue-de-musique-enregistree.html
 12815371-le-montreux-jazz-festival-sassocie-a-tiktok-pour-promouvoir-les-jeunes-talents.html
 12817205-florent-pagny-souffre-dun-cancer-au-poumon-et-annule-sa-tournee.html
@@ -980,7 +976,6 @@
 12886371-le-marche-suisse-de-la-musique-a-connu-une-forte-croissance-en-2021.html
 12891546-le-chanteur-de-rock-americain-mark-lanegan-est-decede-a-l-age-de-57-ans.html
 12900895-emilie-zoe-dessine-son-avenir-en-huit-chansons-a-la-beaute-trouble.html
-12902823-le-chef-d-orchestre-russe-valery-gergiev-ecarte-par-le-verbier-festival.html
 12902823-le-chef-dorchestre-russe-valery-gergiev-ecarte-par-le-verbier-festival.html
 12904650-sur-son-nouvel-album-small-world-metronomy-prend-un-virage-pop-enjoue.html
 12909443-tears-for-fears-retrouve-son-alchimie-pop-passee-sur-the-tipping-point.html
@@ -996,7 +991,6 @@
 12925385-festineuch-devoile-laffiche-complete-de-sa-21e-edition.html
 12927931-benabar-je-nai-jamais-eu-le-probleme-de-la-feuille-blanche.html
 12928441-victoria-une-reine-melomane-et-musicienne.html
-12930949--alcina-amour-magie-et-vocalises-a-l-opera-de-lausanne.html
 12930949-alcina-amour-magie-et-vocalises-a-lopera-de-lausanne.html
 12936973-de-la-tunisie-aux-etatsunis-le-voyage-demel-mathlouthi-fait-escale-a-martigny.html
 12937328-la-tournee-sixty-des-rolling-stones-passera-par-berne.html
@@ -1016,7 +1010,6 @@
 12968706-le-pianiste-jazz-gauthier-toux-de-retour-en-trio-sur-the-biggest-steps.html
 12970944-le-batteur-des-foo-fighters-taylor-hawkins-avait-consomme-des-opiaces.html
 12975099-lopera-sleepless-de-peter-eotvos-en-creation-suisse-a-geneve.html
-12975632-a-cordes-et-a-c-ur-de-thibault-cauvin-six-cordes-six-c-urs.html
 12975632-a-cordes-et-a-cur-de-thibault-cauvin-six-cordes-six-curs.html
 12976901-dans-autrement-henri-des-chante-pour-une-fois-pour-les-adultes.html
 12978174-hommage-a-didier-severin-figure-bruyante-de-la-scene-musicale-suisse.html
@@ -1105,7 +1098,6 @@
 13163103-kate-bush-retrouve-une-nouvelle-jeunesse-grace-a-la-serie-stranger-things.html
 13163261-a-festineuch-le-sabordage-rocknroll-de-fontaines-dc.html
 13163503-les-deflagrations-percussives-de-lucie-antunes-aux-atheneennes.html
-13166843-festi-neuch-signe-une-edition-record-avec-54-000-spectateurs.html
 13166843-festineuch-signe-une-edition-record-avec-54000-spectateurs.html
 13171828-le-concert-des-rolling-stones-a-berne-est-definitivement-annule.html
 13171988-fortissima-une-histoire-de-la-musique-pardela-les-barrieres-de-genre.html
@@ -1156,9 +1148,7 @@
 13269795-lunivers-solaire-et-intimiste-de-la-musicienne-genevoise-segen.html
 13271717-avec-mauve-jacaranda-le-rappeur-gael-faye-continue-dinsuffler-de-lespoir.html
 13272030-les-rencontres-musicales-de-champery-partent-sur-les-traces-de-bach.html
-13274130-l-interruption-d-un-concert-de-reggae-a-berne-continue-de-faire-des-vagues.html
 13274130-linterruption-dun-concert-de-reggae-a-berne-continue-de-faire-des-vagues.html
-13274130-linterruption-dun-concert-de-reggae-a-berne-continue-de-fait-des-vagues.html
 13275856-plus-de-huit-ans-de-prison-requis-contre-shakira-pour-fraude-fiscale.html
 13276077-james-bks-jai-un-profond-respect-pour-le-travail-de-mon-pere-manu-dibango.html
 13278887-plus-de-30000-personnes-a-la-30e-estivale-open-air-destavayerlelac.html
@@ -1168,11 +1158,9 @@
 13285745-bienne-la-ville-de-tous-les-possibles-pour-la-scene-musicale.html
 13285779-jacques-bricoleur-de-sons-et-virtuose-de-la-pop-francaise.html
 13285930-les-plus-belles-demeures-de-compositeurs.html
-13290408-le-chanteur-daniel-levi-est-decede-a-l-age-de-60-ans-.html
 13290408-le-chanteur-daniel-levi-est-decede-a-lage-de-60-ans.html
 13295988-rock-ozarenes-fete-ses-30-ans-et-se-separe-de-son-arene.html
 13296559-lauteurcompositeur-lamont-dozier-geant-de-la-soul-est-mort-a-81-ans.html
-13306272-rock-oz-arenes-a-accueilli-35-000-spectateurs-pour-ses-adieux-aux-arenes.html
 13306272-rock-ozarenes-a-accueilli-35000-spectateurs-pour-ses-adieux-aux-arenes.html
 13307215-a-tannay-vd-les-13e-variations-musicales-retrouvent-leur-public.html
 13307252-iggy-pop-lance-la-26e-edition-du-venoge-festival.html
@@ -1200,7 +1188,6 @@
 13347245-angele-on-ne-peut-pas-etre-aimee-sans-etre-detestee.html
 13350376-le-festival-avenches-tattoo-fait-ses-adieux-aux-arenes.html
 13353088-un-concert-de-jeunes-talents-suisses-a-la-schubertiade.html
-13355086-la-schubertiade-d-espace-2-a-attire-la-foule-dans-les-rues-de-fribourg.html
 13355086-la-schubertiade-despace-2-a-attire-la-foule-dans-les-rues-de-fribourg.html
 13355217-les-francomanias-de-bulle-sous-le-signe-de-laffluence.html
 13356541-avenches-tattoo-termine-en-beaute-avant-son-demenagement-au-haras.html
@@ -1255,12 +1242,9 @@
 13499662-le-reggae-digital-du-genevois-komet-city-brouille-les-pistes.html
 13500707-jerry-lee-lewis-grande-legende-du-rocknroll-est-mort-a-87-ans.html
 13503467-jane-birkin-jaurais-aime-etre-plus-mysterieuse-comme-lest-ma-fille-charlotte.html
-13505542-les-jeunes-virtuoses-du-piano-reunis-a-geneve-a-loccasion-du-concours-de-geneve.html
 13505542-les-jeunes-virtuoses-du-piano-reunis-a-loccasion-du-concours-de-geneve.html
-13505542-les-jeunes-virtuoses-du-piano-se-reunissent-a-geneve.html
 13506896-la-35e-edition-du-jazzonze-festival-lausanne-ouvre-ses-portes.html
 13509676-le-rappeur-americain-takeoff-membre-du-groupe-migos-tue-a-28-ans.html
-13513604-pourquoi-taylor-swift-bat-elle-tous-les-records-.html
 13513604-pourquoi-taylor-swift-batelle-tous-les-records.html
 13515661-bono-chanteur-du-groupe-legendaire-u2-sort-ses-memoires.html
 13515681-le-duo-pop-folk-aliose-sort-un-nouvel-album-intitule-regarde-ailleurs.html
@@ -1473,7 +1457,6 @@
 14007164-la-priest-plonge-dans-les-meandres-des-caraibes-avec-fase-luna.html
 14009537-grace-a-remo-forrer-la-suisse-sest-qualifiee-pour-la-finale-de-leurovision.html
 14012931-le-grand-prix-suisse-de-musique-2023-revient-au-trompettiste-erik-truffaz.html
-14021939-la-finale-de-l-eurovision-se-joue-ce-soir-pour-le-saint-gallois-remo-forrer.html
 14021939-la-finale-de-leurovision-se-joue-ce-soir-pour-le-saintgallois-remo-forrer.html
 14022544-la-suede-remporte-le-concours-de-leurovision-remo-forrer-termine-a-la-20e-place.html
 14023620-henri-des-celebre-chanteur-pour-enfants-se-tourne-a-nouveau-vers-un-public-plus-age.html
@@ -1792,8 +1775,6 @@
 7883430-45-ans-apres-lincendie-du-casino-zappa-retourne-a-montreux.html
 7883772-michel-polnareff-la-mort-ce-nest-pasdifficile-cest-la-vie-qui-lest.html
 7885727-le-paleo-met-laccent-sur-la-securite-a-la-veille-de-son-ouverture.html
-7886762-de-retour-a-paleo-muse-assure-un-show-fastueux-et-un-poil-kitsch.html
-7886762-soleil-et-muse-en-superstars-une-chaude-premiere-soiree-a-paleo.html
 7887004-sarkozy-au-coeur-dun-livre-sur-les-chansons-sarcastiques-quil-a-inspirees.html
 7887522-iron-maiden-a-paleo.html
 7887628-les-concerts-sauvages-de-couleur-3-a-paleo.html
@@ -2318,7 +2299,6 @@
 9439411-louis-chedid-de-a-comme-artiste-a-z-comme-zapette.html
 9448842-les-emouvantes-variations-autour-du-depart-de-la-chanteuse-elina-duni.html
 9449026-le-stress-un-probleme-difficile-a-gerer-pour-de-nombreux-jeunes-musiciens.html
-9451797-mali-l-art-des-griots-mandingues-traditions-et-transmission.html
 9451797-mali-lart-des-griots-mandingues-traditions-et-transmission.html
 9464397-entre-romantisme-et-revolte-la-bande-sonore-de-mai-68.html
 9467062-le-chanteur-francais-jacques-higelin-est-decede-a-l-age-de-77-ans.html
@@ -2352,7 +2332,6 @@
 9541049-le-oud-au-coeur-des-enjeux-contemporains-des-musiques-arabes.html
 9541611-qu-a-t-elle-de-neuf-la-pathetique-de-beethoven-.html
 9541646-tim-pope-pape-britannique-du-video-clip-et-realisateur-attitre-de-the-cure.html
-9551998-la-chanteuse-belge-maurane-est-decedee-lundi-soir-a-l-age-de-57-ans.html
 9551998-la-chanteuse-belge-maurane-est-decedee-lundi-soir-a-lage-de-57-ans.html
 9552759-le-grand-prix-suisse-de-musique-2018-pour-la-pianiste-jazz-irene-schweizer.html
 9556170-la-suisse-eliminee-en-demi-finale-du-concours-de-l-eurovision.html

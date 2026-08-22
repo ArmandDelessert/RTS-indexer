@@ -553,7 +553,6 @@
 10252259-le-tribunal-federal-refuse-de-bloquer-la-diffusion-illegale-de-films-sur-le-web.html
 10253548-les-cff-veulent-des-trains-toutes-les-demiheures-partout-en-suisse.html
 10253879-a-quoi-servent-vos-impots-faites-le-calcul-selon-votre-commune.html
-10253879.html
 1025399-laffaire-tinner-refait-surface.html
 10254052-le-conseil-federal-soutient-la-fin-du-broyage-des-poussins-vivants.html
 10254188-les-procedures-dasile-seront-plus-rapides-des-vendredi-en-suisse.html
@@ -1613,7 +1612,6 @@
 10703912-la-presence-de-moustiques-tigres-a-ete-relevee-a-schaffhouse.html
 10703962-quelque-170000-suisses-consomment-de-leau-contaminee-par-des-pesticides.html
 10704214-etape-par-etape-la-domination-masculine-sur-la-politique-suisse.html
-10704214.html
 10705914-a-schwyz-les-professionnels-du-bois-preconisent-de-couper-les-arbres.html
 10706337-cinq-experts-du-corps-suisse-daide-humanitaire-aux-bahamas-apres-dorian.html
 10706377-le-conseil-federal-devoile-son-contreprojet-sur-le-don-dorganes.html
@@ -1733,7 +1731,6 @@
 10764046-le-clitoris-cest-une-fierte-feminine-qui-saffiche.html
 10764265-deux-plr-romands-parmi-les-elus-les-plus-frondeurs-de-la-legislature.html
 10764361-assurance-maladie-notre-outil-pour-comparer-les-primes-et-les-prestations.html
-10764361.html
 10764363-referendum-du-ps-contre-la-reforme-de-deduction-pour-les-frais-de-garde.html
 10764538-plus-de-1000-elus-remuneres-par-leurs-employeurs-pour-faire-de-la-politique.html
 10764606-le-vih-recule-a-un-niveau-exceptionnellement-bas-en-suisse.html
@@ -1793,7 +1790,6 @@
 10791326-swiss-reprend-les-airs-sans-evoquer-une-indemnisation-pour-les-passagers.html
 10791329-trop-de-nouveaux-logements-sont-construits-en-suisse.html
 10791518-pas-de-suicide-assiste-sans-maladie-confirme-la-justice-genevoise.html
-10791637--la-suisse-sous-couverture-la-web-serie-qui-decrypte-les-activites-d-espionnage-sur-sol-helvetique.html
 10791637-la-suisse-sous-couverture-la-webserie-qui-decrypte-les-activites-despionnage-sur-sol-helvetique.html
 10791878-lassainissement-energetique-des-batiments-est-a-la-traine.html
 10791880-inquietude-des-milieux-agricoles-avant-les-elections-federales.html
@@ -3529,7 +3525,6 @@
 1150025-lex-koller-quotas-augmentes-au-maximum.html
 11500542-lasin-va-relancer-la-campagne-pour-linitiative-de-limitation.html
 11500660-levee-de-limmunite-de-michael-lauber-demandee-dans-le-cadre-de-laffaire-fifa.html
-11501066--on-ne-peut-pas-obliger-un-employe-qui-est-parti-en-vacances-a-rentrer-.html
 11501066-on-ne-peut-pas-obliger-un-employe-qui-est-parti-en-vacances-a-rentrer.html
 11501352-les-contacts-physiques-ont-beaucoup-manque-aux-suisses-pendant-la-crise.html
 11501364-le-tessinois-marco-chiesa-propose-comme-nouveau-president-de-ludc.html
@@ -3556,8 +3551,6 @@
 11509238-la-fifa-derriere-gianni-infantino-malgre-la-procedure-penale-qui-le-vise.html
 11509300-le-comite-directeur-de-ludc-propose-la-candidature-unique-de-marco-chiesa.html
 11510348-les-chiffres-du-covid-doivent-etre-mieux-contextualises-estime-marcel-tanner.html
-11510403-l-ouragan-isaias-s-abat-sur-la-caroline-du-nord.html
-11510403-louragan-isaias-sabat-sur-la-caroline-du-nord.html
 11510771-sur-nos-lacs.html
 11511189-pekin-repond-aux-critiques-dignazio-cassis-sur-les-droits-de-lhomme.html
 11511469-alain-berset-defend-lofsp-mis-sous-pression-apres-son-recent-couac.html
@@ -3605,7 +3598,6 @@
 11525789-loffre-cff-restera-reduite-aux-heures-de-pointe-faute-de-conducteurs.html
 11525892-une-commission-des-etats-veut-lever-l-immunite-de-michael-lauber.html
 11526126-suppression-momentanee-des-eurocity-reliant-la-suisse-a-milan.html
-11527112-covid-19-si-geneve-etait-un-pays-il-serait-considere-comme-a-risque-.html
 11527112-covid19-si-geneve-etait-un-pays-il-serait-considere-comme-a-risque.html
 11527327-casque-et-feux-bientot-obligatoires-pour-tous-les-velos-electriques.html
 11527407-multiplication-dechanges-a-contenu-pornographique-dur-chez-les-ados.html
@@ -3934,9 +3926,6 @@
 11663481-lourde-condamnation-mais-pas-dinternement-pour-un-djihadiste.html
 11663735-un-projet-dexposition-nationale-veut-mettre-les-alpes-a-lhonneur-en-2027.html
 11664123-le-referendum-de-l-udc-contre-la-rente-pont-pour-travailleurs-ages-a-echoue.html
-11664490-lotage-francaise-au-mali-et-trois-autres-otages-ont-ete-liberes.html
-11664490-lotage-francaise-liberee-au-mali-est-arrivee-en-france.html
-11664490-lotage-francosuisse-au-mali-et-une-personnalite-malienne-sont-liberees.html
 11665135-votations-federales-du-29-novembre-2020-participez-a-notre-sondage.html
 11665154-la-pression-augmente-pour-lutilisation-des-tests-rapides-en-suisse.html
 11665540-un-second-referendum-issu-de-leconomie-attaque-la-loi-sur-le-co2.html
@@ -4097,7 +4086,6 @@
 11722951-les-suisses-craignent-une-societe-moins-solidaire-avec-la-pandemie.html
 11722988-bien-aerer-permet-de-lutter-contre-le-coronavirus-et-la-pollution-de-lair.html
 11724745-trois-sites-possibles-pour-le-depot-profond-de-dechets-radioactifs.html
-11725281-les-cadres-accuses-de-harcelement-a-la-rts-ont-ete-suspendus.html
 11725281-les-deux-cadres-accuses-de-harcelement-a-la-rts-ont-ete-suspendus.html
 1172601-le-chocolat-toblerone-fete-ses-100-ans.html
 1172611-grave-erreur-medicale-revelee-a-geneve.html
@@ -4266,10 +4254,6 @@
 11785371-les-stations-suisses-saccrochent-a-leurs-fetes-de-fin-dannee.html
 11786588-linitiative-entreprises-responsables-refusee-par-la-majorite-des-cantons.html
 11786627-peuple-et-cantons-rejettent-linitiative-contre-le-commerce-de-guerre.html
-11786812-la-suisse-enregistre-plus-de-8500-nouveaux-cas-en-trois-jours.html
-11786812-la-suisse-enregistre-plus-de-8700-nouveaux-cas-en-trois-jours.html
-11786812-le-nombre-de-skieurs-seratil-limite-sur-les-domaines-helvetiques.html
-11786812-loms-appelle-a-la-prudence-avec-louverture-des-stations-de-ski.html
 11787814-la-responsabilite-des-entreprises-restera-dactualite-selon-la-presse-suisse.html
 11788095-economie-et-innovation-la-nouvelle-strategie-de-la-suisse-au-procheorient.html
 11788369-caritas-demande-de-laide-face-a-laggravation-de-la-pauvrete-en-suisse.html
@@ -4282,7 +4266,6 @@
 11792417-loi-covid-le-national-elargit-laide-pour-les-cas-de-rigueur.html
 1179281-surveillance-electronique-a-l-essai-jusqu-en-2015.html
 11793038-des-etudiants-de-lepfl-denoncent-des-cas-de-harcelement-et-de-sexisme.html
-11793091-le-plan-de-vaccination-contre-le-covid-19-un-veritable-defi-logistique.html
 11793091-le-plan-de-vaccination-contre-le-covid19-un-veritable-defi-logistique.html
 11793584-au-moins-trois-mois-dattente-pour-obtenir-un-velo-neuf.html
 1179494-des-cliches-pornographiques-secouent-la-rsr.html
@@ -4397,7 +4380,6 @@
 1183773-eveline-widmerschlumpf-ne-plie-pas.html
 11838353-les-premieres-vaccinations-contre-le-covid-dans-les-prochains-jours-en-suisse.html
 11838999-le-vaccin-devrait-au-moins-offrir-une-protection-efficace-pendant-un-an.html
-11839679-plusieurs-pays-dont-la-suisse-suspendent-leurs-liaisons-aeriennes-avec-le-royaume-uni.html
 11839679-plusieurs-pays-dont-la-suisse-suspendent-leurs-liaisons-aeriennes-avec-le-royaumeuni.html
 11839760-les-sept-conseillers-federaux-entendent-se-faire-vacciner.html
 11840115-les-cantons-sont-obliges-de-revoir-leurs-plans-de-vaccination.html
@@ -4448,7 +4430,6 @@
 11858756-la-fin-des-heures-de-bureau-pour-la-police-du-ciel-helvetique.html
 11858850-annee-record-pour-la-station-ornithologique-suisse.html
 1185919-les-suisses-aiment-l-effort-physique.html
-11860464-pilatus-a-le-vent-en-poupe-au-sein-dune-industrie-aeronautique-en-berne.html
 11860590-victoire-du-revendeur-de-billets-viagogo-devant-le-tribunal-federal.html
 1186091-geneve-election-tres-politisee-du-procureur.html
 11860926-lannee-2021-souvre-avec-plusieurs-changements-au-niveau-de-la-loi.html
@@ -4501,7 +4482,6 @@
 11881016-la-greve-du-climat-devoile-un-plan-daction-pour-changer-le-monde.html
 11881076-la-suisse-et-le-covid19-participez-a-notre-6e-enquete-dopinion.html
 11881125-que-risqueton-si-on-detourne-un-message-de-sante-publique.html
-11881229-chomage-en-hausse-marquee-en-2020-a-cause-de-la-crise-sanitaire.html
 11883056-le-ps-estime-quil-faut-indemniser-les-branches-contraintes-de-fermer.html
 11883072-la-nuit-la-plus-froide-de-lhiver-avec-un-minimum-de-307-degres.html
 11883286-un-epidemiologiste-quitte-la-task-force-scientifique-de-la-confederation.html
@@ -4686,7 +4666,6 @@
 11951582-lasloca-demande-un-moratoire-sur-les-expulsions-de-logement.html
 11951702-une-decision-du-tribunal-federal-permet-de-proteger-les-travailleuses-du-sexe.html
 11951720-premier-cas-de-grippe-aviaire-de-lannee-en-suisse.html
-11951773-podcast-cinq-recits-de-luttes-pas-si-ordinaires-pour-les-droits-des-femmes-.html
 11951773-podcast-cinq-recits-de-luttes-pas-si-ordinaires-pour-les-droits-des-femmes.html
 11953922-le-vaudois-condamne-en-france-pour-djihadisme-pourrait-perdre-son-passeport-suisse.html
 11954272-le-ciel-suisse-voit-la-vie-en-jaune-grace-au-sable-du-sahara.html
@@ -4841,7 +4820,6 @@
 1201619-zones-a-batir-premiere-statistique-publiee.html
 12016622-stephane-jaillet-les-gens-sont-dans-les-startingblocks-pour-voyager.html
 12016934-le-sejour-dun-exministre-venezuelien-pouvait-menacer-la-securite-en-suisse.html
-12017498-explosion-inedite-du-nombre-de-demandeurs-demploi-dans-tous-les-secteurs.html
 12017538-le-referendum-ayant-abouti-la-suisse-votera-le-13-juin-sur-la-loi-covid19.html
 12017558-des-phtalates-extremement-preoccupants-ont-ete-deceles-dans-divers-articles-en-suisse.html
 12017862-lannee-2020-marquee-par-une-baisse-historique-des-emissions-de-co2.html
@@ -4899,8 +4877,6 @@
 12040699-reouverture-des-terrasses-reunions-privees-elargies-a-dix-personnes-les-nouvelles-mesures-envisagees-par-le-conseil-federal.html
 1204123-droit-de-recours-la-droite-fait-bloc.html
 12042681-la-depression-orageuse-luis-balaie-la-suisse-avec-des-vents-a-110-kmh.html
-12042845-a-l-ecole-hoteliere-de-lausanne-les-frais-d-ecolage-suscitent-la-colere.html
-12042845-a-lecole-hoteliere-de-lausanne-les-frais-decolage-suscitent-la-colere.html
 12044176-des-zurichois-vont-a-schwyz-pour-se-faire-vacciner-contre-le-coronavirus.html
 12044360-les-jeunes-toujours-plus-en-surpoids-en-raison-de-la-pandemie.html
 12044750-des-milliers-de-litres-de-boissons-invendues-sur-le-dos-des-distributeurs.html
@@ -5113,7 +5089,6 @@
 12125829-les-opposants-a-la-loi-covid19-denoncent-un-texte-liberticide.html
 12125832-la-loi-sur-le-terrorisme-permet-des-detentions-arbitraires-selon-les-opposants.html
 12125979-la-surmortalite-liee-au-covid19-ne-serait-pas-aussi-grande-quannonce.html
-12126332-accusations-de-harcelement-a-la-rts-rapports-denquetes-livres.html
 12126334-la-poste-invite-les-hackers-a-rechercher-ses-failles-de-securite.html
 12126661-lheure-de-verite-approche-pour-laccordcadre-mais-bruxelles-doute.html
 12127918-virginie-masserey-le-vaccin-est-la-cle-mais-ne-resout-pas-tout.html
@@ -5183,7 +5158,6 @@
 12153848-lonza-recrute-du-personnel-chez-nestle-pour-produire-le-vaccin-de-moderna.html
 12155017-magali-jenny-les-guerisseurs-tiennent-beaucoup-a-preciser-quils-ne-guerissent-pas-du-covid19.html
 12155059-affaire-pillermigros-la-justice-annule-le-vote-de-novembre-2019.html
-12155258-repondre-a-un-captcha-cest-travailler-gratuitement-pour-google.html
 12155266-le-nombre-de-personnes-detenues-en-suisse-est-au-plus-bas-depuis-2011.html
 12155302-la-sante-suisse-a-coute-82-milliards-de-francs-en-2019.html
 12155380-la-loi-sur-le-co2-obtient-le-soutien-de-160-parlementaires-et-associations.html
@@ -5220,7 +5194,6 @@
 12169117-une-plateforme-dechange-demployes-mise-en-place-face-aux-penuries.html
 12169428-viola-amherd-veut-la-transparence-dans-lachat-des-avions-de-combat.html
 12169678-les-listes-dattente-pour-obtenir-une-transplantation-dorgane-sallongent.html
-12169855-climat-holcim-et-lon-za-les-plus-gros-pollueurs-en-suisse.html
 12169855-climat-holcim-et-lonza-les-plus-gros-pollueurs-en-suisse.html
 12169905-les-partisans-de-la-loi-covid19-defendent-une-necessite-economique.html
 12169922-la-pandemie-a-eu-des-effets-divers-sur-la-consommation-dalcool.html
@@ -5259,8 +5232,6 @@
 12179249-des-milliers-de-sites-pollues-devront-etre-assainis-en-suisse.html
 12179275-guy-parmelin-recu-par-le-pape-francois-au-vatican.html
 12179489-jusqua-5-millions-de-francs-de-degats-dus-au-gel-davril-sur-les-cultures-suisses.html
-12180971-l-association-de-soutien-a-la-patrouille-des-glaciers-suspend-sa-collaboration-avec-l-armee.html
-12180971-lassociation-de-soutien-a-la-patrouille-des-glaciers-suspend-sa-collaboration-avec-larmee.html
 12181025-une-carte-pour-mieux-informer-la-population-du-risque-de-grele.html
 12181531-le-certificat-covid-sera-realise-par-ladministration-federale-dici-fin-juin.html
 12183381-berne-met-vingtcinq-specialistes-a-disposition-de-lonza-pour-le-vaccin.html
@@ -5512,10 +5483,6 @@
 12288224-vigilance-dans-les-alpes-le-danger-davalanche-est-toujours-important.html
 12289522-les-derniers-aines-qui-resistent-au-vaccin-nentendent-pas-baisser-pavillon.html
 12290451-le-variant-delta-ninquiete-pas-la-commission-pour-les-vaccinations.html
-12290613-de-violents-orages-de-grele-se-sont-abattus-sur-le-canton-de-fribourg.html
-12290613-forts-orages-sur-la-gruyere-accompagnes-de-grele.html
-12290613-forts-orages-sur-le-canton-de-fribourg-accompagnes-de-grele.html
-12290613-une-derniere-nuit-tropicale-avant-larrivee-de-violents-orages.html
 12290707-sur-les-pas-darma-jackson.html
 12290720-ignazio-cassis-ouvert-a-mener-un-dialogue-politique-avec-lunion-europeenne.html
 12290802-les-entreprises-rechignent-a-octroyer-des-temps-partiels-aux-hommes.html
@@ -5730,7 +5697,6 @@
 12369371-le-stgallois-marcel-dobler-veut-copresider-le-plr-avec-un-ou-une-romande.html
 12369654-des-orages-violents-sabattent-sur-la-suisse-centrale-le-niveau-des-lacs-sous-controle.html
 12370178-a-la-tete-du-musee-national-denise-tonella-veut-promouvoir-lheritage-immateriel-suisse.html
-12370234-les-parents-vaudois-de-nouveauxnes-desempares-face-aux-retards-de-letat-civil.html
 12371328-le-tourisme-suisse-toujours-a-la-peine-avec-une-saison-pire-que-2020.html
 12371507-les-couples-sont-de-moins-en-moins-nombreux-a-opter-pour-le-mariage.html
 12371656-appel-pour-que-les-doses-excedentaires-de-vaccins-soient-livrees-aux-pays-pauvres.html
@@ -5789,15 +5755,12 @@
 12396668-la-course-a-la-presidence-du-plr-voit-se-profiler-des-candidatures-romandes.html
 12398577-onze-questions-sur-le-vaccin-contre-le-covid-pousser-la-porte-des-lieux-de-pouvoir-lengouement-pour-les-mangas-japonais.html
 12398591-voyager-est-devenu-toujours-plus-sur-ces-40-dernieres-annees-en-suisse.html
-12398677-l-un-des-principaux-chefs-de-la-ndrangheta-arretee-a-madrid.html
-12398677-lun-des-principaux-chefs-de-la-ndrangheta-arrete-a-madrid.html
 12400242-le-covid19-a-un-impact-sur-le-choix-de-metier-par-les-jeunes-suisses.html
 12400789-les-mesures-de-protection-ont-limite-les-degats-des-crues-de-juillet-se-felicite-la-confederation.html
 12400837-les-proclimat-manifestent-a-berne-contre-les-investissements-de-la-bns.html
 12402815-le-nouvel-ambassadeur-americain-est-un-philanthrope-et-militant-lgbtq.html
 12402893-des-pommes-a-foison-malgre-une-annee-marquee-par-le-gel.html
 12403477-le-retour-des-touristes-du-golfe-pourrait-sauver-un-bilan-estival-grisatre-en-suisse.html
-12403618-la-peine-reduite-d-un-violeur-a-bale-ravive-le-debat-sur-la-definition-du-viol.html
 12403618-la-peine-reduite-dun-violeur-a-bale-ravive-le-debat-sur-la-definition-du-viol.html
 12404198-des-assouplissements-possibles-dans-quelques-semaines-selon-alain-berset.html
 12404542-le-vaccin-de-moderna-autorise-en-suisse-pour-les-12-a-17-ans.html
@@ -5824,7 +5787,6 @@
 12412098-lincertitude-des-universites-suisses-face-au-programme-horizon-europe.html
 12412999-le-tribunal-federal-soppose-a-la-renovation-des-granges-hors-zone-a-batir.html
 12413095-la-geothermie-fait-partie-des-solutions-pour-atteindre-la-neutralite-carbone.html
-12413210-lancien-conseiller-national-benoit-genecand-est-decede.html
 12413237-lhuile-dolive-cartonne-comme-jamais-en-suisse.html
 12413678-sepp-blatter-est-soulage-apres-la-fin-de-sa-derniere-audition.html
 12413858-le-debut-dete-pluvieux-a-mis-a-mal-les-remontees-mecaniques-suisses.html
@@ -5896,8 +5858,6 @@
 12441919-le-certificat-covid-pourrait-devenir-necessaire-pour-aller-au-restaurant-au-theatre-ou-au-musee.html
 12441921-ralenti-a-cause-de-la-pandemie-le-programme-vih-est-prolonge-jusquen-2023.html
 12442162-des-feux-de-foret-extremes-sevissent-dans-le-centre-de-la-russie.html
-12442317-la-gravite-de-la-cyberattaque-de-la-commune-de-rolle-sous-estimee-par-les-autorites.html
-12442317-la-gravite-de-la-cyberattaque-de-la-commune-de-rolle-sousestimee-par-les-autorites.html
 12443912-olga-baranova-on-ne-doit-plus-traiter-differemment-deux-personnes-du-meme-sexe-qui-saiment.html
 12443933-le-tarif-des-lettres-du-courrier-a-et-b-va-augmenter-en-janvier.html
 12444087-larret-de-la-radio-fm-ninterviendra-pas-avant-fin-2024-en-suisse.html
@@ -5918,7 +5878,6 @@
 12450172-briser-le-silence-qui-entoure-le-deuil-perinatal.html
 12450667-la-viande-sinvite-de-moins-en-moins-aux-menus-des-cafeterias-universitaires.html
 12451669-linitiative-99-des-jeunes-socialistes-est-trompeuse-pour-christian-luscher.html
-12452007-le-secteur-de-la-construction-suisse-souffre-dune-penurie-dapprentis.html
 12452166-podcast-a-quoi-ca-sert-encore-d-apprendre.html
 12452281-le-covid19-a-pese-sur-le-tour-de-taille-des-suisses-ils-ont-pris-33-kg.html
 12452296-le-f35-est-un-choix-base-sur-des-faits-assure-viola-amherd.html
@@ -5956,7 +5915,6 @@
 12466597-un-couple-de-balbuzards-sest-forme-en-suisse-une-premiere-depuis-un-siecle.html
 12466668-la-suisse-prevoit-de-rapatrier-de-letranger-quelque-80-malades-du-covid.html
 12468269-sur-les-pas-de-didier-queloz.html
-12468368-la-suisse-se-dirige-vers-une-prolongation-du-moratoire-sur-les-ogm-jusqu-en-2025.html
 12468368-la-suisse-se-dirige-vers-une-prolongation-du-moratoire-sur-les-ogm-jusquen-2025.html
 12468773-les-entreprises-esperent-voir-leur-charge-administrative-salleger-bientot.html
 12468827-les-pilotes-dhelicopteres-veulent-pouvoir-transporter-des-passagers-jusqua-65-ans.html
@@ -6036,8 +5994,6 @@
 12499762-prison-ferme-pour-un-ancien-collaborateur-du-seco-accuse-de-corruption.html
 12499942-le-conseil-federal-propose-une-nouvelle-loi-climat-sans-taxes-supplementaires.html
 12499943-le-conseil-federal-veut-garantir-le-soutien-a-la-recherche-en-suisse.html
-12500064-les-talibans-remplacent-le-ministere-des-femmes-par-celui-de-la-prevention-du-vice.html
-12500064-quinze-personnes-en-lien-avec-la-suisse-ont-pu-quitter-lafghanistan.html
 12500282-condamnations-au-plus-haut-niveau-apres-les-incidents-de-berne.html
 12500750-un-test-negatif-pour-entrer-en-suisse-plus-de-liste-des-pays-a-risque-les-nouvelles-mesures-anticovid-en-detail.html
 12500824-un-procureur-extraordinaire-va-enqueter-sur-la-tentative-de-chantage-contre-alain-berset.html
@@ -6058,7 +6014,6 @@
 12509343-une-nouvelle-initiative-lancee-pour-un-revenu-de-base-inconditionnel.html
 12509366-un-long-parcours-pour-sensibiliser-a-la-violence-subie-par-les-femmes.html
 12509429-podcast-les-musees-sontils-machistes.html
-12509693-le-covid-19-a-suscite-un-boom-des-vocations-en-epidemiologie-et-en-sante-publique.html
 12509693-le-covid19-a-suscite-un-boom-des-vocations-en-epidemiologie-et-en-sante-publique.html
 12510094-manifestation-a-zurich-pour-denoncer-le-caractere-raciste-du-drame-de-morges.html
 12511298-serein-christian-levrat-sapprete-a-tourner-le-dos-a-la-politique.html
@@ -6075,8 +6030,6 @@
 12515245-appel-de-treize-organisations-pour-accueillir-des-refugies-afghans-en-suisse.html
 12515356-il-sera-peutetre-possible-de-sopposer-a-ladaptation-dantennes-a-la-5g.html
 12516987-lanalyse-du-vote-de-votre-commune-compare-a-votre-canton-et-a-la-suisse.html
-12517030-premier-proces-d-une-longue-serie-pour-les-activistes-d-extinction-rebellion-.html
-12517030-premier-proces-dune-longue-serie-pour-les-activistes-dextinction-rebellion.html
 12517080-le-militant-dextinction-rebellion-nest-pas-venu-seul-a-son-proces.html
 12517613-crise-du-covid-les-nouvelles-annonces-du-conseil-federal-dans-le-detail.html
 12517661-en-suisse-la-transparence-manque-autour-de-loxyde-dethylene-un-pesticide-pourtant-interdit.html
@@ -6240,7 +6193,6 @@
 12589879-de-nombreux-chateaux-attendent-des-acquereurs-en-suisse-romande.html
 12591265-pour-relancer-le-ps-roger-nordmann-plaide-pour-une-diversification-des-thematiques.html
 12591302-suisse-good-le-plein-de-bonnes-nouvelles-dici.html
-12591302.html
 12591357-la-pandemie-a-fait-baisser-lesperance-de-vie-globale-en-suisse.html
 12591494-la-desinformation-sest-accrue-avec-la-pandemie-les-reseaux-sociaux-montres-du-doigt.html
 12591551-le-parlement-veut-des-eclaircissements-dans-laffaire-alain-berset.html
@@ -6445,7 +6397,6 @@
 12672766-villa-cohabitation-location-comment-des-biens-immobiliers-des-eglises-se-transforment.html
 12672871-associations-et-experts-inquiets-de-voir-la-lutte-contre-les-mst-eclipsee-par-le-covid19.html
 12673197-le-voyage-dignazio-cassis-en-chine-annule-apres-un-atterrissage-force.html
-12673419-mesures-prises-au-niveau-suisse-apres-un-premier-cas-de-grippe-aviaire.html
 12673444-lofsp-recommande-la-dose-de-rappel-anticovid-pour-lensemble-de-la-population.html
 12673533-vers-une-participation-elevee-pour-les-votations-federales-de-dimanche.html
 12676292-guy-parmelin-appelle-a-accelerer-la-vaccination-de-rappel.html
@@ -6454,8 +6405,6 @@
 12677092-la-suisse-dit-largement-non-au-tirage-au-sort-des-juges-federaux.html
 12678148-la-presse-suisse-salue-la-victoire-de-la-majorite-silencieuse-sur-la-loi-covid.html
 12678170-laurent-kaiser-on-est-partis-pour-encore-une-ou-deux-annees-avec-le-covid.html
-12678175-les-domaines-skiables-en-manque-de-personnel-a-cause-du-brexit.html
-12678175-les-domaines-skiables-en-manque-de-personnel-anglophone-a-cause-du-brexit.html
 12678832-il-y-a-50-ans-les-femmes-entraient-au-parlement.html
 12679459-irene-kalin-accede-au-perchoir-du-conseil-national-a-34-ans.html
 12679542-le-plr-conservateur-thomas-hefti-presidera-le-conseil-des-etats-en-2022.html
@@ -6663,7 +6612,6 @@
 12774118-des-rafales-de-vent-de-plus-de-130-kmh-ont-balaye-la-suisse.html
 12774971-le-droit-de-timbre-un-defi-pour-la-droite.html
 12775086-deces-de-francois-carrard-ancien-directeur-general-du-cio.html
-12776026-les-entreprises-sorganisent-pour-faire-face-a-labsence-de-nombreux-travailleurs.html
 12776387-damien-cottier-rejoint-olivier-feller-comme-candidat-a-la-presidence-du-groupe-plr.html
 12776394-linitiative-contre-lexperimentation-animale-un-danger-pour-la-sante.html
 12779150-les-enfants-sontils-le-nouveau-champ-de-bataille-de-la-crise-du-covid.html
@@ -6894,8 +6842,6 @@
 12877809-le-neuchatelois-damien-cottier-elu-a-la-tete-du-groupe-parlementaire-plr.html
 12879467-une-nouvelle-eurovignette-qui-sabote-le-transport-ecologique-denoncee-par-linitiative-des-alpes.html
 12879693-la-suisse-manque-cruellement-de-specialistes-en-cybersecurite.html
-12880024-la-suisse-demande-a-ses-concitoyens-de-quitter-lest-de-lukraine.html
-12880024-la-suisse-recommande-a-ses-concitoyens-de-quitter-lest-de-lukraine.html
 12880024-le-dfae-recommande-aux-suisses-de-quitter-lest-de-lukraine.html
 12880924-cantons-et-politiques-pour-une-surveillance-systematique-de-limmunite-contre-le-covid.html
 12881018-face-a-la-vague-feminine-dans-les-partis-de-gauche-les-hommes-ont-du-mal-a-simposer.html
@@ -6927,12 +6873,6 @@
 12889590-les-plastiques-oxodegradables-seront-interdits-en-suisse-des-le-1er-avril.html
 12890043-amende-maximale-requise-contre-credit-suisse-pour-blanchiment.html
 12891300-la-suisse-adopte-une-ligne-plus-dure-envers-la-russie.html
-12891300-la-suisse-condamne-dans-les-termes-les-plus-forts-l-invasion-russe-de-l-ukraine.html
-12891300-la-suisse-condamne-dans-les-termes-les-plus-forts-linvasion-russe-de-lukraine.html
-12891300-la-suisse-ne-s-aligne-pas-sur-les-sanctions-occidentales-et-prend-une-voie-mediane.html
-12891300-la-suisse-ne-saligne-pas-sur-les-sanctions-occidentales-et-prend-une-voie-mediane.html
-12891300-la-suisse-ne-va-pas-prendre-ses-propres-sanctions-contre-la-russie-declare-ignazio-cassis.html
-12891300-le-conseil-federal-condamne-dans-les-termes-les-plus-forts-linvasion-russe-de-lukraine.html
 12892134-le-conseil-des-etats-de-la-chambre-de-compromis-a-celle-de-blocage.html
 12892415-limmigration-est-restee-pratiquement-stable-lan-dernier-en-suisse.html
 12892659-comment-parler-de-lattaque-russe-en-ukraine-aux-enfants.html
@@ -6962,8 +6902,6 @@
 12905432-viola-amherd-appelle-les-opposants-a-lavion-de-combat-f35-a-retirer-leur-initiative.html
 12905927-y-auraitil-assez-de-places-dans-les-abris-pc-en-cas-de-guerre.html
 12905932-les-condamnations-en-cas-dinsultes-ou-de-menaces-visant-les-elus-restent-rares.html
-12906898-comment-des-oligarques-russes-echappent-aux-sanctions-en-suisse.html
-12906898-comment-dves-oligarques-russes-echappent-aux-sanctions-en-suisse.html
 12906898-des-oligarques-russes-echappent-encore-aux-sanctions-en-suisse.html
 12907573-le-nombre-de-nouveaux-cas-quotidiens-de-covid-repasse-sur-la-barre-des-20000.html
 12907806-le-conseil-federal-entre-en-campagne-pour-maintenir-la-suisse-dans-frontex.html
@@ -7051,7 +6989,6 @@
 12943591-simonetta-sommaruga-la-population-attend-de-nous-quon-ait-moins-de-dependance-au-petrole-et-au-gaz-etranger.html
 12944246-la-suisse-compte-36000-nouveaux-cas-de-covid-en-24-heures.html
 12944868-il-y-a-beaucoup-dimprovisation-en-ukraine-mais-ce-nest-pas-le-chaos.html
-12946520-deux-nouveaux-vaccins-entrent-en-phase-dessais-cliniques.html
 12946594-thomas-hefti-sur-le-nucleaire-il-faut-peutetre-avoir-lesprit-plus-ouvert.html
 12946929-lobligation-disolement-liee-au-covid19-pourrait-etre-levee-prochainement.html
 12947630-votations-federales-du-15-mai-participez-a-notre-premier-sondage.html
@@ -7470,8 +7407,6 @@
 13107592-le-conseil-federal-veut-renforcer-la-lutte-contre-lextremisme-violent.html
 13107897-pres-de-57-millions-supplementaires-pour-proteger-les-troupeaux-du-loup.html
 13108219-le-conseil-federal-refuse-de-faciliter-la-procedure-de-naturalisation-en-suisse.html
-13109937-peu-d-espoir-pour-l-initiative-sur-les-transports-publics-gratuits-a-fribourg.html
-13109937-peu-despoir-pour-linitiative-sur-les-transports-publics-gratuits-a-fribourg.html
 13110031-phileas-authier-remporte-la-bourse-payot-des-medias-francophones-publics.html
 13110092-durcissement-des-conditions-pour-le-suicide-assiste-en-suisse.html
 13110302-achetee-plus-chere-lelectricite-sera-aussi-facturee-plus-chere.html
@@ -7706,8 +7641,6 @@
 13202013-les-piscines-romandes-encore-divisees-face-au-burkini-et-autres-maillots-couvrants.html
 13202129-podcast-a-partir-de-combien-eston-riche.html
 13202191-les-depenses-de-la-confederation-pour-la-recherche-ont-recule-de-16-en-2021.html
-13202193-le-retour-des-festivals-d-ete-n-est-pas-tout-rose-pour-les-organisateurs.html
-13202193-le-retour-des-festivals-dete-nest-pas-tout-rose-pour-les-organisateurs.html
 13202555-alain-berset-defend-la-retraite-des-femmes-a-65-ans-pour-la-reforme-avs-21.html
 13202605-le-tessin-un-canton-en-mutation.html
 13204270-forte-hausse-des-cas-dintoxication-aux-opioides-en-suisse.html
@@ -7729,7 +7662,6 @@
 13209960-le-chat-ce-nouveau-chien.html
 13210924-les-femmes-votent-comme-les-hommes-a-neuchatel.html
 13210929-la-vente-de-climatiseurs-mobiles-explose-a-geneve-surtout-ou-la-loi-est-plus-stricte.html
-13211171-face-a-la-penurie-qui-s-annonce-voici-comment-economiser-l-energie-au-quotidien.html
 13211171-face-a-la-penurie-qui-sannonce-voici-comment-economiser-lenergie-au-quotidien.html
 13211190-la-suisse-a-signe-laccord-sur-le-milliard-pour-la-cohesion.html
 13211477-podcast-pourquoi-naton-pas-davantage-de-vacances-en-suisse.html
@@ -7818,7 +7750,6 @@
 13243122-nuit-tropicale-dans-une-partie-de-la-suisse-avant-une-journee-caniculaire.html
 13243669-la-confederation-refuse-que-le-valais-tire-plus-de-loups-durant-six-mois.html
 13243688-un-rapport-plutot-critique-sur-les-droits-sexuels-en-suisse-soumis-a-lonu.html
-13243785-un-projet-dextraction-de-gaz-naturel-sous-le-leman-suscite-a-nouveau-de-linteret.html
 13244262-qui-est-peter-marti-le-procureur-extraordinaire-charge-denqueter-sur-laffaire-crypto.html
 13245038-risques-accrus-lies-au-climat-a-prendre-en-compte-pour-les-centrales-nucleaires.html
 13245365-les-images-incroyables-du-jeune-univers-la-tour-eiffel-qui-rouille-des-sejours-sans-notifications.html
@@ -7848,7 +7779,6 @@
 13254111-rencontre-entre-experts-suisses-et-europeens-pour-discuter-de-la-libre-circulation.html
 13254259-hausse-alarmante-des-importations-douteuses-de-chiots-en-suisse.html
 13254395-pres-de-50000-nouveaux-cas-de-covid19-en-sept-jours-en-suisse.html
-13254405-pendant-deux-semaines-des-etudiants-de-l-epfl-se-glissent-dans-la-peau-d-astronautes.html
 13254405-pendant-deux-semaines-des-etudiants-de-lepfl-se-glissent-dans-la-peau-dastronautes.html
 13254551-comment-la-suisse-gere-le-risque-accru-de-feux-de-foret.html
 13254552-la-commission-de-la-concurrence-est-critiquee-pour-ses-methodes.html
@@ -7871,7 +7801,6 @@
 13261253-des-amendes-douloureuses-a-letranger-la-suisse-face-aux-feux-de-foret-un-gigantesque-camp-scout.html
 13261998-proteger-les-troupeaux-permet-aussi-de-proteger-le-loup.html
 13262065-vaud-fribourg-et-neuchatel-bannissent-les-feux-dartifice-pour-le-1er-aout.html
-13262118-les-maraichers-sinquietent-de-la-secheresse-qui-touche-le-seeland-le-potager-de-la-suisse.html
 13262221-bonjour-je-mappelle-aussi-alain-berset.html
 13262412-ignazio-cassis-prone-une-cooperation-militaire-renforcee-avec-lotan-dans-le-respect-de-la-neutralite.html
 13262488-gulnara-karimova-obtient-gain-de-cause-devant-le-tribunal-penal-federal-a-bellinzone.html
@@ -7883,7 +7812,6 @@
 13264697-une-erreur-des-autorites-francaises-serait-a-lorigine-de-latterrissage-force-dalain-berset.html
 13264992-lisotherme-du-zero-degre-est-attendu-aux-alentours-des-5000-metres.html
 13265108-le-president-du-plr-thierry-burkart-dans-lembarras-a-cause-de-liens-avec-ruag.html
-13265129-pour-laurent-kaiser-le-vaccin-n-eviterait-pas-forcement-la-transmission-de-la-variole-du-singe.html
 13265129-pour-laurent-kaiser-le-vaccin-neviterait-pas-forcement-la-transmission-de-la-variole-du-singe.html
 13266316-comment-leducation-sexuelle-estelle-enseignee-dans-les-ecoles-suisses.html
 13266586-record-battu-pour-la-limite-du-zero-degre-en-suisse-a-5184-m-daltitude.html
@@ -7967,7 +7895,6 @@
 13292974-la-suisse-fete-le-175e-anniversaire-de-son-exploitation-du-rail.html
 13293215-les-enseignants-demandent-plus-de-moyens-pour-la-rentree-scolaire.html
 13293300-lespace-alpin-sera-trop-etroit-pour-le-loup-dans-cinq-ans-selon-des-estimations.html
-13293390-playstation-game-boy-et-fortnite-conserves-comme-patrimoine-culturel-a-part-entiere.html
 13293397-travailsuisse-demande-des-hausses-salariales-pour-contrer-laugmentation-du-cout-de-la-vie.html
 13296279-podcast-la-meteo-influencetelle-notre-alimentation.html
 13296359-pres-de-22000-nouveaux-cas-de-covid19-en-sept-jours-en-suisse.html
@@ -7976,7 +7903,6 @@
 13296587-laurianne-altwegg-il-ny-aura-pas-forcement-des-coupures-de-courant-cet-hiver-mais-cest-a-craindre.html
 13297561-sophie-ley-le-metier-dinfirmiere-souffre-detre-une-profession-a-majorite-feminine.html
 13297745-la-poste-entend-simposer-comme-une-actrice-centrale-du-dossier-electronique-du-patient.html
-13298091-la-suisse-representera-l-ukraine-en-russie-a-condition-que-moscou-donne-son-aval.html
 13298091-la-suisse-representera-lukraine-en-russie-a-condition-que-moscou-donne-son-aval.html
 13298303-une-motion-federale-veut-interdire-la-publicite-dans-les-boites-aux-lettres.html
 13298470-un-medicament-contre-les-formes-graves-de-la-variole-du-singe-teste-aux-hug.html
@@ -8248,7 +8174,6 @@
 13393298-creation-dune-nouvelle-structure-destinee-a-juguler-laugmentation-des-couts-de-la-sante.html
 13393467-la-confederation-dans-lincapacite-de-mesurer-les-effets-des-economies-denergie.html
 13393771-guy-parmelin-le-conseil-federal-travaille-a-la-creation-dun-etatmajor-de-crise-sur-lenergie.html
-13393970-face-a-la-penurie-dans-les-metiers-de-linformatique-entreprises-et-ecoles-se-mobilisent.html
 13395010-a-cause-de-la-hausse-des-prix-certains-baux-commerciaux-prennent-lascenseur.html
 13395416-un-jeu-sur-le-climat-la-communication-en-emojis-des-vignes-et-des-arbres.html
 13395439-la-progression-de-lambulatoire-a-coute-des-milliards-de-francs-aux-assures.html
@@ -8316,7 +8241,6 @@
 13419318-laugmentation-moyenne-des-primes-maladie-atteindra-66-lan-prochain.html
 13419344-les-pediatres-mettent-en-garde-contre-une-penurie-de-soins.html
 13419546-il-reste-un-jour-pour-changer-dassurance-maladie-notre-comparateur.html
-13419546.html
 13419618-les-contrats-avec-cinq-geants-du-numerique-pour-le-cloud-de-la-confederation-ont-ete-signes.html
 13419721-de-plus-en-plus-deleves-vaudois-issus-de-lenseignement-specialise-sont-en-classe-ordinaire.html
 13419822-la-temperature-des-magasins-coop-et-migros-limitee-a-19-degres-des-cet-automne.html
@@ -8355,7 +8279,6 @@
 13427799-la-suisse-ne-pourra-pas-prendre-des-sanctions-de-maniere-autonome.html
 13428138-ueli-maurer-annonce-sa-demission-du-conseil-federal.html
 13428694-des-soldats-recrutes-au-supermarche-une-jeunesse-iranienne-en-colere-la-grande-bataille-du-2e-pilier.html
-13428741-la-confederation-met-en-place-un-etat-major-de-crise-en-cas-de-penurie-d-energie.html
 13428741-la-confederation-met-en-place-un-etatmajor-de-crise-en-cas-de-penurie-denergie.html
 13428804-une-femme-un-homme-ou-un-ticket-les-premieres-pistes-sur-la-succession-dueli-maurer.html
 13430226-la-presse-depeint-un-ueli-maurer-entre-normalite-et-provocation.html
@@ -8532,7 +8455,6 @@
 13492707-un-comite-lance-des-initiatives-sur-la-medecine-naturelle-et-lobligation-depargne.html
 13492722-en-suisse-alemanique-la-question-de-leducation-sexuelle-divise.html
 13492784-vers-un-retour-des-grosses-entreprises-sur-le-marche-regule-de-lelectricite.html
-13492939-l-iran-n-est-pas-vivable-pour-les-femmes-deplore-une-requerante-d-asile-deboutee.html
 13492939-liran-nest-pas-vivable-pour-les-femmes-deplore-une-requerante-dasile-deboutee.html
 13494586-la-vague-automnale-du-covid-sous-controle-estime-le-president-des-medecins-cantonaux.html
 13494746-les-conclusions-de-lunion-europeenne-sur-la-suisse-sont-repoussees.html
@@ -8662,14 +8584,12 @@
 13541053-vaccin-nasal-contre-la-grippe-bloque-en-suisse-en-raison-dun-desaccord.html
 13541130-la-candidature-baumeschneider-divise-les-parlementaires-alemaniques.html
 13541412-migrants-et-don-dorganes-parmi-les-priorites-de-la-session-des-jeunes.html
-13541417-necessite-pour-francois-gemenne-d-optimisme-raisonne-concernant-le-climat.html
 13541532-les-amis-de-la-constitution-pousses-vers-une-probable-dissolution.html
 13542054-largovienne-yvonne-feri-renonce-a-une-candidature-pour-le-conseil-federal.html
 13542733-des-specialistes-de-la-sante-veulent-sauver-les-donnees-du-registre-de-swisstransplant.html
 13543854-face-a-la-hausse-des-prix-coop-augmentera-les-salaires-en-2023.html
 13544089-deux-candidats-devraient-figurer-sur-le-ticket-udc-pour-la-succession-dueli-maurer.html
 13544379-les-cantons-souhaitent-larret-des-transferts-anticipes-de-requerants-dasile.html
-13544656-fin-du-litige-opposant-la-municipalite-vaudoise-de-nyon-et-lelue-elise-buckle.html
 13545267-une-piece-de-monnaie-suisse-de-1741-trouve-un-acquereur-a-854000-francs.html
 13545734-faciliter-lacces-aux-hep-pour-eviter-des-penuries-de-profs-lidee-fait-son-chemin.html
 13545865-echec-des-nouvelles-negociations-entre-partenaires-sociaux-de-la-construction.html
@@ -8715,8 +8635,6 @@
 13559115-la-suisse-a-du-retard-dans-sa-politique-des-droits-de-lenfant.html
 13559195-le-qatar-a-bien-failli-acheter-des-appareils-despionnage-a-une-entreprise-suisse.html
 13559284-alain-berset-a-beneficie-dun-dispositif-de-protection-inedit-durant-la-pandemie.html
-13559737-le-cineaste-francais-jean-marie-straub-est-mort-dimanche-en-suisse.html
-13559737-le-cineaste-francais-jeanmarie-straub-est-mort-dimanche-en-suisse.html
 13560003-des-temperatures-particulierement-elevees-impactent-les-competitions-de-ski.html
 13560095-baleville-doit-se-prononcer-sur-la-neutralite-carbone-pour-2030.html
 13560825-former-les-personnels-de-sante-releve-un-peu-de-la-quadrature-du-cercle.html
@@ -8832,9 +8750,6 @@
 13597583-le-president-des-vertliberaux-veut-relancer-lidee-dune-adhesion-a-leee.html
 13597808-nette-augmentation-des-incapacites-de-travail-psychiques-en-suisse.html
 13597849-en-manque-de-produits-chimiques-les-step-rejettent-trop-de-phosphore.html
-13598288-stephan-eicher-je-n-ai-pas-cherche-le-role-de-passeur-mais-j-en-suis-fier.html
-13598288-stephan-eicher-je-nai-pas-cherche-le-role-de-passeur-mais-jen-suis-fier.html
-13598288-stephan-eicher-sort-son-dixseptieme-album.html
 13599097-vu-pour-vous-la-44e-edition-de-la-course-de-lescalade.html
 13599469-les-remontees-mecaniques-defendent-leur-place-face-a-la-crise-energetique.html
 13599730-albert-rosti-un-homme-de-compromis-mais-fidele-a-la-ligne-de-ludc.html
@@ -8893,8 +8808,6 @@
 13618133-echec-des-negociations-sur-la-reduction-du-sel-dans-lalimentation.html
 13618797-plusieurs-medias-romands-sont-en-difficulte-et-reduisent-la-voilure.html
 13618864-ouverture-lundi-du-premier-proces-en-suisse-pour-homicide-a-caractere-djihadiste.html
-13618878-l-heritiere-controversee-de-maurice-ravel-se-livre-pour-la-premiere-fois.html
-13618878-lheritiere-controversee-de-maurice-ravel-se-livre-pour-la-premiere-fois.html
 13618986-des-penuries-inquietantes-de-personnel-dans-les-stations-de-montagne.html
 13619171-le-secteur-de-lorthopedie-fait-des-pieds-et-des-mains-pour-sortir-la-tete-de-leau.html
 13619175-la-clientele-suisse-soucieuse-de-lenvironnement-a-lachat-du-sapin-de-noel.html
@@ -9279,8 +9192,6 @@
 13758931-la-neutralite-ne-signifie-pas-quon-doit-fermer-les-yeux-face-aux-crimes.html
 13760063-une-initiative-veut-accelerer-legalite-reelle-au-quotidien-pour-les-personnes-handicapees.html
 13760637-une-nouvelle-carte-didentite-pour-les-suisses-et-suissesses-des-le-3-mars.html
-13760734-jelmoli-fermera-d-ici-fin-2024-850-employes-sont-touches.html
-13760734-jelmoli-fermera-dici-fin-2024-850-employes-sont-touches.html
 13760740-la-delegation-suisse-a-taiwan-plaide-pour-un-soutien-mutuel-des-democraties.html
 13761119-berne-veut-aider-les-personnes-precaires-qui-ne-touchent-pas-laide-sociale.html
 13762386-la-suisse-envoie-84-secouristes-sur-les-lieux-du-seisme-en-turquie.html
@@ -9343,7 +9254,6 @@
 13788720-un-champignon-qui-castre-les-epiceas-decouvert-par-un-chercheur-suisse.html
 13789035-le-niveau-au-plus-bas-des-nappes-phreatiques-devient-preoccupant.html
 13789416-les-cff-veulent-equiper-leurs-gares-de-cameras-a-reconnaissance-faciale.html
-13790686-une-vaste-etude-dresse-un-bilan-plutot-positif-de-loperation-genevoise-papyrus.html
 13790715-des-bacteries-detectees-dans-5-des-salades-de-fruits-du-commerce.html
 13791573-la-majorite-des-arguments-de-sante-en-faveur-du-lait-maternise-sont-infondes.html
 13791639-ces-jeunes-qui-ne-boivent-pas-on-peut-etre-grand-sans-boire-un-verre-de-blanc.html
@@ -9433,7 +9343,6 @@
 13823220-isabelle-falconnier-nommee-directrice-du-club-suisse-de-la-presse.html
 13823231-ladmission-des-medecins-etrangers-sera-assouplie-en-cas-de-penurie.html
 13823355-le-virage-du-confort-a-petit-prix-dope-le-succes-des-auberges-de-jeunesse.html
-13823652-neige-record-aux-baleares-et-froid-glacial-dans-le-centre-de-lespagne.html
 13824669-swiss-life-affiche-de-beaux-resultats-en-2022-et-en-fait-profiter-ses-actionnaires.html
 13824917-la-diplomatie-parallele-sactive-a-geneve-pour-trouver-une-issue-a-la-guerre-en-ukraine.html
 13825065-la-societe-suisse-des-chirurgiens-souhaite-faire-passer-des-examens-a-ses-seniors.html
@@ -9454,8 +9363,6 @@
 13830602-lallemagne-veut-acheter-des-chars-leopard-suisses-hors-service.html
 13830794-la-suisse-propre-en-ordre-dans-la-vie-des-nettoyeurs-et-nettoyeuses.html
 13830808-mafia-et-omerta-fievre-sur-le-prix-du-dafalgan-et-des-chars-europeens-qui-tardent.html
-13830960-l-udc-roger-koppel-ne-se-representera-pas-au-conseil-national.html
-13830960-ludc-roger-koppel-ne-se-representera-pas-au-conseil-national.html
 13831142-ruth-dreifuss-je-ne-suis-pas-pour-une-exclusion-des-hommes-dans-la-lutte-feministe.html
 13831231-la-greve-du-climat-denonce-les-centrales-electriques-de-reserve.html
 13831769-trois-cantons-alemaniques-pourront-tester-le-vote-electronique-le-18-juin.html
@@ -9509,7 +9416,6 @@
 13853147-manifestation-a-lappel-de-massvoll-a-berne-en-faveur-de-la-paix-en-ukraine.html
 13854096-une-udc-en-tete-dans-le-canton-de-stgall-les-resultats-des-votations-dans-les-autres-cantons-alemaniques.html
 13854166-alain-berset-je-ressens-une-frenesie-guerriere-dans-certains-milieux.html
-13854296-le-qatar-a-espionne-l-ex-procureur-general-michael-lauber-en-posant-des-micros-jusqu-en-suisse.html
 13854296-le-qatar-a-espionne-lexprocureur-general-michael-lauber-en-posant-des-micros-jusquen-suisse.html
 13854758-christine-schraner-burgener-il-faut-integrer-les-ukrainiens-au-plus-vite.html
 13854769-trois-ans-apres-le-confinement-les-eleves-vantent-lecole-en-vrai.html
@@ -9718,7 +9624,6 @@
 13942547-la-suisse-vivra-a-credit-sur-le-plan-energetique-des-mardi.html
 13942574-le-teletravail-influence-les-criteres-de-choix-des-logements-selon-une-etude.html
 13942861-laction-de-la-suisse-dans-le-rachat-de-credit-suisse-saluee-par-le-fmi-et-le-g20.html
-13944255-alain-berset-nous-ne-sommes-pas-indifferents-a-ce-quil-se-passe-dans-le-monde.html
 13944511-une-startup-de-lepfl-cree-des-bagues-connectees-qui-aident-a-analyser-sa-sante.html
 13945234-les-romands-et-les-tessinois-plus-touches-par-le-cancer-du-poumon-que-les-alemaniques.html
 13945359-larmee-veut-plus-daumoniers-pour-repondre-a-une-demande-en-hausse.html
@@ -9726,7 +9631,6 @@
 13946976-malgre-des-efforts-la-suisse-encore-tres-loin-de-lobjectif-zero-plastique.html
 13947162-un-rapport-de-la-confederation-admet-pour-la-premiere-fois-un-racisme-structurel-en-suisse.html
 13947456-le-conflit-entre-paramilitaires-et-armee-a-coute-la-vie-a-100-civils-au-soudan.html
-13947456-le-conflit-entre-paramilitaires-et-armee-soudanaise-a-deja-tue-une-centaine-de-civils.html
 13947486-des-fromagers-venus-dafrique-une-foret-suisse-en-chine-et-du-lsd-a-la-tele.html
 13947545-un-suisse-recidiviste-presume-accuse-daide-a-letat-islamique.html
 13947783-les-applications-concretes-de-lintelligence-artificielle-en-suisse.html
@@ -9818,7 +9722,6 @@
 13981383-maurine-mercier-rts-elue-journaliste-suisse-de-lannee-pour-son-reportage-a-boutcha.html
 13982353-barack-obama-a-zurich-quand-survient-un-probleme-on-regarde-comment-washington-reagit.html
 13982483-les-femmes-du-centre-mettent-la-prevoyance-vieillesse-au-centre-de-leur-campagne.html
-13982676-le-mpc-classe-la-procedure-contre-le-suspect-qui-avait-tente-d-entrer-au-palais-federal.html
 13982676-le-mpc-classe-la-procedure-contre-le-suspect-qui-avait-tente-dentrer-au-palais-federal.html
 13983083-les-frasques-du-conseiller-national-udc-roger-koppel-en-russie-interrogent.html
 13983641-une-forte-hausse-des-primes-dassurance-maladie-nest-pas-exclue-selon-alain-berset.html
@@ -9890,8 +9793,6 @@
 14006710-les-touristes-chinois-se-font-encore-attendre-en-suisse.html
 14006972-les-cantons-ont-enregistre-des-benefices-exceptionnels-en-2022.html
 14007359-le-flou-regne-dans-les-listes-dattente-des-creches-suisses.html
-14007672-le-covid-long-oblige-la-medecine-a-changer-d-approche.html
-14007672-le-covid-long-oblige-la-medecine-a-changer-dapproche.html
 14009222-le-plr-souhaite-instaurer-une-assurance-maladie-obligatoire-low-cost.html
 14009360-lassociation-stop2drop-veut-ramasser-un-million-de-megots-en-deux-semaines.html
 14009665-le-desastre-environnemental-des-eaux-de-luxe-en-bouteille.html
@@ -9994,7 +9895,6 @@
 14041815-tous-les-partis-sauf-ludc-militent-pour-le-oui-a-la-loi-covid19.html
 14042101-amnesty-suisse-fait-campagne-pour-le-droit-de-manifester.html
 14042356-la-suisse-a-fourni-a-lukraine-pour-295-millions-de-francs-de-biens-de-premiere-necessite.html
-14042381-les-grands-partis-interesses-par-lidee-dune-charte-de-bonne-conduite-sur-lemploi-de-lintelligence-artificielle.html
 14042381-une-charte-de-bonne-conduite-sur-lintelligence-artificielle-lidee-fait-son-chemin-dans-les-partis.html
 14042626-la-suisse-na-pas-assez-investi-dans-ses-infrastructures-agricoles.html
 14042634-canal-alpha-demande-deux-concessions-de-television-regionale-pour-2025.html
@@ -10003,11 +9903,8 @@
 14043576-johan-djourou-les-joueurs-du-real-madrid-auraient-du-sortir-du-terrain.html
 14044135-le-canton-de-vaud-simplifie-louverture-du-dossier-electronique-du-patient-sur-smartphone.html
 14044142-les-hopitaux-universitaires-veulent-une-augmentation-des-tarifs.html
-14044221-le-trafic-aerien-suspendu-a-cointrin-en-raison-dune-manifestation-sur-le-tarmac.html
-14044221-le-trafic-aerien-suspendu-a-cointrin-par-une-manifestation-des-activistes-du-climat.html
 14044417-les-drones-de-reconnaissance-de-larmee-de-retour-dans-le-ciel-suisse.html
 14044468-des-defauts-techniques-detectes-dans-15-du-materiel-electrique.html
-14044552-le-conseil-dadministration-de-credit-suisse-est-responsable-estime-karin-kellersutter.html
 14044947-une-institution-des-droits-humains-pour-la-suisse-officiellement-fondee.html
 14045826-vu-pour-vous-regulation-et-utilisation-des-intelligences-artificielles-en-suisse.html
 14046280-les-partis-doivent-faire-preuve-de-transparence-avec-leurs-comptes-de-campagne.html
@@ -10058,9 +9955,7 @@
 14061588-la-suisse-face-aux-feminicides.html
 14061729-le-trafic-revient-a-son-niveau-davant-le-covid-avec-un-record-de-bouchons.html
 14061817-public-flique-ou-familles-protegees-les-arguments-des-ultras-sur-le-billet-nominatif.html
-14061842-fermeture-de-la-voie-cff-entre-delemont-et-laufon.html
 14061920-malgre-les-apparences-les-precipitations-du-mois-de-mai-sinscrivent-dans-la-norme.html
-14062195-des-elus-suisses-exigent-des-peines-plus-severes-pour-les-activistes-du-climat.html
 14062195-des-elus-suisses-veulent-que-les-autorites-previennent-les-actes-illicites-des-activistes-du-climat.html
 14062309-le-national-soutient-le-developpement-du-reseau-routier-et-inclut-un-axe-lemanique.html
 14063756-une-initiative-demande-le-remboursement-de-tous-les-frais-de-grossesse.html
@@ -10221,7 +10116,6 @@
 14121365-quatre-questions-pour-comprendre-les-enjeux-du-depart-dalain-berset.html
 14121884-vu-pour-vous-florilege-de-reactions-a-lannonce-du-depart-dalain-berset.html
 14122230-yves-daccord-on-vit-aujourdhui-une-periode-ou-les-urgences-durent.html
-14122276-les-dirigeants-du-cicr-beneficient-de-salaires-pouvant-depasser-300-000-francs.html
 14122276-les-dirigeants-du-cicr-beneficient-de-salaires-pouvant-depasser-300000-francs.html
 14122404-grele-et-fortes-rafales-de-vent-de-violents-orages-sont-attendus-dans-la-journee.html
 14122512-la-suisse-a-consomme-39-denergie-en-moins-en-2022.html
@@ -10408,7 +10302,6 @@
 14185803-a-fribourg-la-police-fait-de-la-prevention-pour-eviter-les-accidents-de-paddle.html
 14186087-la-confederation-reclame-des-garanties-de-securite-a-ses-fournisseurs-it.html
 14186433-le-taux-de-natalite-suisse-est-retombe-a-son-plus-bas-niveau-depuis-20-ans.html
-14187349-un-sixieme-patient-gueri-du-sida-en-suisse-grace-a-une-greffe-de-moelle-osseuse.html
 14188260-figure-romande-du-journalisme-arnaud-bedat-est-decede.html
 14189652-femmes-et-enfants-prives-de-medecins-foyers-dincendie-caches-dans-le-sol-reserve-deau-oubliee.html
 14189655-viola-amherd-favorable-a-des-jeux-olympiques-dhiver-durables-en-suisse.html
@@ -11008,8 +10901,6 @@
 14444220-les-cumuls-de-neige-atteignent-13-metre-par-endroits-en-montagne.html
 14444505-les-actes-antisemites-en-hausse-en-suisse-romande-des-cas-signales-dans-des-ecoles.html
 14444542-christian-levrat-je-ne-peux-pas-dire-si-dautres-emplois-seront-supprimes-a-la-poste.html
-14447642-qui-sommes-nous-l-identite-suisse-vue-par-les-suisses-eux-memes.html
-14447642-qui-sommesnous-lidentite-suisse-vue-par-les-suisses-euxmemes.html
 14447643-les-syndicats-inquiets-apres-des-premieres-discussions-entre-la-suisse-et-lue.html
 14447679-les-mesures-de-securite-seront-renforcees-au-centre-dasile-federal-de-chiasso.html
 14448503-lonu-salue-des-avancees-partielles-de-la-suisse-en-matiere-daccueil-des-requerants-dasile.html
@@ -11475,8 +11366,6 @@
 14637431-trois-scenarios-envisages-pour-une-production-electrique-100-renouvelable-dici-2035.html
 14638026-pression-sur-le-conseil-federal-pour-decider-des-contours-de-la-prochaine-expo-nationale.html
 14638908-la-commission-de-la-securite-sociale-du-national-veut-supprimer-les-rentes-pour-enfants-dans-lavs.html
-14638988-le-trafic-ferroviaire-sur-la-ligne-lausanneberne-est-interrompu-en-raison-dune-panne.html
-14638988-le-trafic-ferroviaire-sur-la-ligne-lausanneberne-interrompu-en-raison-dune-panne.html
 14639202-qui-est-marcel-dettling-grand-favori-pour-reprendre-la-presidence-de-ludc.html
 14639365-cinq-ans-plus-tard-que-sont-devenus-les-militants-de-la-greve-pour-le-climat.html
 14640136-la-suisse-a-enregistre-cette-nuit-les-temperatures-les-plus-basses-de-lhiver.html

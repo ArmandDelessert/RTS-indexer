@@ -318,7 +318,6 @@
 9085003-des-echanges-secrets-entre-trump-jr-et-wikileaks-durant-la-campagne.html
 9085005-succes-et-echecs-de-la-gratuite-des-transports-publics-au-sein-des-villes.html
 9088247-quatre-morts-dans-une-fusillade-dans-une-maison-et-une-ecole-de-californie.html
-9088247-un-tireur-termine-sa-course-meurtriere-dans-une-ecole-californienne.html
 9088485-le-president-mugabe-detenu-apres-un-coup-de-force-au-zimbabwe.html
 9088516-les-australiens-adoptent-le-mariage-gay-via-un-vote-populaire.html
 9088574-un-record-de-33-millions-pour-le-plus-gros-diamant-vendu-aux-encheres.html
@@ -386,7 +385,6 @@
 9106184-le-premier-ministre-francais-ne-veut-pas-de-l-ecriture-inclusive.html
 9106667-donald-trump-a-la-rescousse-de-roy-moore-accuse-de-harcelement.html
 9106687-le-premier-ministre-demissionnaire-saad-hariri-est-de-retour-au-liban.html
-9106752-les-donnees-de-57-millions-d-utilisateurs-d-uber-ont-ete-piratees.html
 9106752-les-donnees-de-57-millions-dutilisateurs-duber-ont-ete-piratees.html
 9107226-images-spectaculaires-dun-militaire-nordcoreen-fuyant-son-pays.html
 9107411-des-intouchables-en-inde-revendiquent-le-droit-de-porter-la-moustache.html
@@ -1451,7 +1449,6 @@
 9403946-un-suspect-cle-arrete-pour-la-disparition-de-43-etudiants-au-mexique.html
 9403966-facebook-a-alimente-la-haine-contre-les-rohingyas-accuse-lonu.html
 9404326-aucune-preuve-de-collusion-avec-la-russie-selon-une-commission-americaine.html
-9404330-accusations-d-abus-sexuels-confirmes-contre-le-musicien-james-levine.html
 9404554-comment-les-partis-jouent-du-redecoupage-electoral-aux-etats-unis.html
 9404950-l-armee-turque-annonce-avoir-encercle-la-ville-d-afrine-en-syrie.html
 9405249-une-explosion-vise-le-convoi-du-premier-ministre-palestinien-a-gaza.html
@@ -2496,7 +2493,6 @@
 9700699-un-coureur-encorne-au-premier-lacher-de-taureaux-de-la-san-fermin.html
 9700716-un-million-de-participants-a-la-marche-des-fiertes-lgbt-a-londres.html
 9700773-un-policier-britannique-examine-na-pas-ete-expose-au-novitchok.html
-9701022-l-evacuation-des-enfants-coinces-dans-une-grotte-commence-en-thailande.html
 9701022-quatre-enfants-ont-quitte-la-grotte-en-thailande-les-autres-doivent-attendre.html
 9701040-plus-de-18-000-fonctionnaires-turcs-licencies-par-un-nouveau-decret.html
 9701339-la-justice-francaise-ordonne-la-saisie-de-deux-millions-deuros-de-lexfn.html
@@ -2774,7 +2770,6 @@
 9758474-plus-de-1150-pompiers-mobilises-au-portugal-face-aux-feux-de-forets.html
 9758487-un-mort-et-68-blesses-dans-lexplosion-dun-camion-a-bologne.html
 9760590--personne-ne-menacera-le-mexique-avec-un-mur-previent-le-president-elu.html
-9760598-airbnb-contraint-a-donner-la-liste-de-ses-hotes-a-new-york.html
 9760757-trump-menace-les-pays-commercant-avec-liran-apres-le-retour-des-sanctions.html
 9760789-la-californie-lutte-contre-le-plus-grand-incendie-de-son-histoire.html
 9761000-des-milliers-de-touristes-quittent-l-indonesie-apres-le-seisme-meurtrier.html
@@ -2901,12 +2896,7 @@
 9789349-la-capitale-afghane-a-subi-une-attaque-de-plusieurs-heures.html
 9789987-des-milliers-dargentins-se-retirent-des-registres-de-bapteme.html
 9790374-l-ue-et-le-royaume-uni-negocieront-en-continu-sur-le-brexit.html
-9790463-l-ex-avocat-de-donald-trump-accepte-d-admettre-sa-culpabilite.html
-9790463-l-ex-avocat-de-donald-trump-plaide-coupable-et-met-le-president-en-cause.html
-9790463-lexavocat-de-donald-trump-accepte-dadmettre-sa-culpabilite.html
 9790463-lexavocat-de-donald-trump-plaide-coupable-et-met-le-president-en-cause.html
-9790463-paul-manafort-ex-chef-de-la-campagne-trump-2016-condamne-pour-fraude.html
-9790463-paul-manafort-exchef-de-la-campagne-trump-2016-condamne-pour-fraude.html
 9791002-un-fort-seisme-a-touche-le-venezuela-sans-faire-de-victime-ni-de-degat.html
 9791007-la-syrie-mise-en-garde-par-trois-pays-contre-lutilisation-darmes-chimiques.html
 9791257-une-expedition-scientifique-de-navires-japonais-a-chasse-177-baleines.html
@@ -3058,9 +3048,6 @@
 9831346-le-president-de-cbs-quitte-la-chaine-apres-des-accusations-dabus-sexuels.html
 9831462-un-million-de-turcophones-seraient-detenus-dans-des-camps-en-chine.html
 9832078-les-etatsunis-veulent-fermer-la-mission-palestinienne-a-washington.html
-9832197-bloques-cinq-jours-a-bord-de-l-aquarius.html
-9832197-bloques-cinq-jours-a-bord-de-laquarius.html
-9832197-embarques-a-bord-de-l-aquarius.html
 9832197-embarques-a-bord-de-laquarius.html
 9832327-au-yemen-les-houthis-et-liran-contre-le-reste-du-monde.html
 9832475-premier-discours-de-michelle-bachelet-au-conseil-des-droits-de-lhomme.html
@@ -3152,8 +3139,6 @@
 9862559--pourquoi-je-n-ai-pas-porte-plainte-reponses-en-rafales-a-donald-trump.html
 9862666-en-lituanie-le-pape-francois-critique-ceux-qui-expulsent-les-autres-.html
 9862874-le-bilan-du-naufrage-du-ferry-en-tanzanie-depasse-les-200-morts.html
-9863023-l-equipage-d-un-bateau-suisse-enleve-par-des-pirates-au-large-du-nigeria.html
-9863023-lequipage-dun-bateau-suisse-enleve-par-des-pirates-au-large-du-nigeria.html
 9863038-laccusatrice-du-candidat-de-trump-a-la-cour-supreme-accepte-de-temoigner.html
 9863654-un-premier-sommet-de-ministres-exclusivement-feminin-au-canada.html
 9863730-les-maldives-votent-a-une-election-presidentielle-controversee.html

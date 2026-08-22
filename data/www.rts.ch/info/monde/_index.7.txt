@@ -302,7 +302,6 @@
 7072565-beyrouth-propose-un-plan-pour-mettre-fin-a-la-crise-des-dechets.html
 7073267-la-france-lance-la-mobilisation-pour-la-conference-cop21-sur-le-climat.html
 7073655-exils.html
-7073655.html
 7073838-deux-aeroports-syriens-vises-par-les-combattants-de-l-ei-et-d-al-qaida.html
 7073859-grece-et-migrants-les-allemands-nont-pas-change-en-trois-semaines.html
 7074026-les-emprunts-croates-frappes-par-le-franc-fort-pourront-etre-convertis.html
@@ -372,9 +371,6 @@
 7090958-un-coup-d-etat-annonce-a-la-television-nationale-au-burkina-faso.html
 7091229-la-france-annonce-des-creations-de-postes-dans-la-police-aux-frontieres.html
 7091256-kiev-interdit-de-territoire-des-centaines-de-personnalites.html
-7091791-alerte-au-tsunami-au-chili-apres-un-seisme-qui-a-fait-au-moins-cinq-morts.html
-7091791-un-seisme-de-magnitude-8-3-fait-huit-morts-au-chili.html
-7091791-un-seisme-de-magnitude-8-3-fait-onze-morts-au-chili.html
 7091791-un-seisme-de-magnitude-83-fait-onze-morts-au-chili.html
 7091839-donald-trump-cible-de-ses-rivaux-a-linvestiture-republicaine.html
 7092020-la-crise-migratoire-constitue-un-crashtest-pour-lunion-europeenne.html
@@ -2335,7 +2331,6 @@
 7542334--les-migrants-ne-seront-plus-a-calais-en-cas-de-brexit-menace-macron.html
 7542504-pas-de-majorite-pour-la-coalition-au-pouvoir-en-irlande.html
 7542585-ne-venez-pas-en-europe-dit-donald-tusk-aux-migrants-economiques.html
-7542989-une-panne-generale-d-electricite-touche-la-syrie.html
 7542989-une-panne-generale-delectricite-touche-la-syrie.html
 7543269-davantage-de-femmes-au-parlement-au-rwanda-et-a-cuba-quen-suisse.html
 7543431-un-brexit-aurait-des-consequences-sur-les-migrants-met-en-garde-hollande.html
@@ -2842,7 +2837,6 @@
 7652021-la-delegation-syrienne-est-arrivee-a-geneve-pour-les-negociations.html
 7652181-au-japon-un-nouveau-seisme-fait-18-morts-et-des-degats-considerables.html
 7653021-le-candidat-democrate-bernie-sanders-publie-son-ennuyeuse-feuille-dimpots.html
-7653069-le-pape-a-lesbos-appelle-a-repondre-de-maniere-humaine-a-la-crise-migratoire.html
 7653069-le-pape-francois-repart-de-lesbos-avec-trois-familles-de-refugies-syriens.html
 7653502-ministres-francais-et-allemand-en-libye-pour-soutenir-le-gouvernement.html
 7653525-le-bilan-des-seismes-au-japon-s-alourdit-a-plus-de-40-morts.html
@@ -3022,7 +3016,6 @@
 7691206-greenpeace-leve-le-voile-sur-certains-secrets-du-traite-transatlantique.html
 7691665-le-principal-baron-peruvien-de-la-drogue-arrete-en-colombie-et-expulse.html
 7691925-une-eglise-orthodoxe-de-manhattan-ravagee-par-un-violent-incendie.html
-7691982-la-ville-de-berlin-va-severement-controler-les-locations-airbnb-.html
 7691982-la-ville-de-berlin-va-severement-controler-les-locations-airbnb.html
 7692034-il-y-a-cinq-ans-ben-laden-etait-tue-dans-un-raid-des-forces-americaines.html
 7692204-premier-mai-en-forme-de-manifestation-anti-trump-a-los-angeles.html
@@ -3995,7 +3988,6 @@
 7877868-le-president-venezuelien-prolonge-l-etat-d-urgence-economique-.html
 7877899-des-milliers-de-policiers-reunis-a-dallas-pour-les-obseques-de-deux-agents.html
 7878047-un-chef-de-gare-fait-son-mea-culpa-apres-l-accident-de-train-en-italie.html
-7878302-bruxelles-formalise-de-nouvelles-accusations-contre-google.html
 7878375-le-defile-du-14-juillet-a-paris-sous-haute-surveillance-.html
 7878846-donald-trump-et-hillary-clinton-au-coude-a-coude-dans-les-sondages.html
 7879131-une-cooperation-militaire-entre-washington-et-moscou-en-vue-en-syrie.html
@@ -4435,7 +4427,6 @@
 7947990-un-cousin-des-freres-kamikazes-de-bruxelles-activement-recherche.html
 7948015-des-dizaines-de-blesses-dans-un-accident-de-train-pres-de-montpellier.html
 7948432-un-incendie-se-declare-sur-un-ferry-a-porto-rico-500-passagers-evacues.html
-7948857-le-pere-de-love-story-arthur-hiller-est-decede-mercredi-a-los-angeles-.html
 7949173-le-numero-2-de-l-ambassade-de-coree-du-nord-a-londres-refugie-a-seoul.html
 7949272-plusieurs-gardes-a-vue-apres-les-heurts-intercommunautaires-en-corse.html
 7949758-la-louisiane-decouvre-les-degats-des-inondations-et-commence-a-nettoyer.html
@@ -4648,7 +4639,6 @@
 7992699-sarkozy-menace-de-proces-pour-le-financement-de-sa-campagne-en-2012.html
 7992805-maquette-de-londres-brulee-pour-rappeler-le-grand-incendie-de-1666.html
 7993058-drones-sms-et-blog-pour-proteger-la-foret-de-borneo.html
-7993058.html
 7993492-le-g20-appelle-les-etats-a-intensifier-laide-aux-refugies.html
 7993697-theresa-may-veut-changer-le-systeme-de-controle-de-l-immigration.html
 7993924-le-president-philippin-injurie-barack-obama-qu-il-devrait-rencontrer-mardi-.html

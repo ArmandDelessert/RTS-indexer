@@ -267,14 +267,12 @@
 12886683-une-guepe-pour-combattre-la-cochenille-sattaquant-aux-fruits.html
 12892059-lempreinte-carbone-des-menages-suisses-a-recule-de-4-en-vingt-ans.html
 12896570-ladaptation-au-changement-climatique-coute-cher-aux-pays-africains.html
-12900989-pour-le-giec-la-capacite-d-adaptation-humaine-est-de-plus-en-plus-depassee.html
 12900989-pour-le-giec-la-capacite-dadaptation-humaine-est-de-plus-en-plus-depassee.html
 12907238-des-pasteques-ou-du-riz-suisses-consequence-surprenante-du-rechauffement-climatique.html
 12918656-creation-dun-parc-naturel-protegeant-les-glaciers-pres-de-santiago-au-chili.html
 12923124-record-historique-des-emissions-de-co2-en-2021-en-raison-de-la-reprise-economique.html
 12925072-une-cinquantaine-dorganisations-souhaitent-creer-un-systeme-de-collecte-des-emballages-plastiques.html
 12943610-le-plomb-a-lorigine-dune-diminution-de-la-population-des-rapaces.html
-12952454-l-antarctique-a-plus-de-30-c-au-dessus-de-la-normale-cette-semaine.html
 12952454-lantarctique-a-plus-de-30c-audessus-de-la-normale-cette-semaine.html
 12956005-les-champignons-pourraient-etre-lavenir-de-lhumanite.html
 12957487-podcast-a-quoi-servent-les-rapports-du-giec.html
@@ -394,7 +392,6 @@
 13776240-respirer-un-air-pollue-accroit-le-risque-de-depression.html
 13794289-podcast-puisje-voir-le-changement-climatique-depuis-ma-fenetre.html
 13796693-les-baleines-a-bosse-chantent-de-moins-en-moins-et-cest-bon-signe.html
-13835285-les-etats-membres-de-l-onu-s-accordent-sur-un-traite-de-protection-de-la-haute-mer.html
 13835285-les-etats-membres-de-lonu-saccordent-sur-un-traite-de-protection-de-la-haute-mer.html
 13836586-des-recherches-pour-mesurer-limpact-des-explosions-des-gazoducs-nord-stream-sur-la-biodiversite.html
 13837964-daniel-yule-la-fis-pretend-etre-climatiquement-positive-mais-jai-de-la-peine-a-le-croire.html
@@ -418,9 +415,7 @@
 13934237-une-secheresse-au-parfum-dinquietude-dans-les-champs-de-jasmin-de-cote-dazur.html
 13936244-le-declin-des-manchots-pourrait-aggraver-le-changement-climatique.html
 13937520-leolien-et-le-solaire-ont-produit-12-de-lelectricite-mondiale-en-2022.html
-13945181-le-g7-s-engage-a-accelerer-sa-sortie-des-energies-fossiles.html
 13945181-le-g7-sengage-a-accelerer-sa-sortie-des-energies-fossiles-et-a-developper-le-renouvelable.html
-13945181-le-g7-sengage-a-accelerer-sa-sortie-des-energies-fossiles.html
 13945275-la-finlande-inaugure-un-reacteur-nucleaire-epr-destine-a-produire-un-tiers-de-son-electricite.html
 13946131-la-temperature-moyenne-des-mers-du-globe-depasse-le-seuil-eleve-des-21-degres.html
 13952804-miser-davantage-sur-le-bois-suisse-faciliterait-la-transition-energetique.html
@@ -699,7 +694,6 @@
 8783492-davantage-de-lynx-vivent-entre-l-oberland-bernois-et-la-suisse-centrale.html
 8788226-la-confederation-salarme-de-la-disparition-de-la-biodiversite-en-suisse.html
 8810517-la-chine-ne-veut-plus-etre-la-poubelle-du-monde.html
-8814883-l-humanite-vit-a-credit-a-partir-de-mercredi-selon-une-ong.html
 8814883-lhumanite-vit-a-credit-a-partir-de-mercredi-selon-une-ong.html
 8815747-les-concentrations-de-co2-affectent-la-valeur-nutritive-des-recoltes.html
 8845547-le-changement-climatique-reduira-les-rendements-agricoles-selon-une-etude.html
@@ -735,7 +729,6 @@
 9289481-les-plantes-changent-daltitude-et-les-especes-du-haut-sont-defavorisees.html
 9311565-la-couche-d-ozone-peine-a-se-retablir-selon-des-experts-suisses.html
 9352685-des-vestiges-mayas-decouverts-au-mexique-dans-une-immense-grotte-inondee.html
-9359235-l-etendue-de-la-peche-industrielle-mise-en-lumiere-depuis-l-espace.html
 9359235-letendue-de-la-peche-industrielle-mise-en-lumiere-depuis-lespace.html
 9367159--l-arche-de-noe-vegetale-du-svalbard-franchit-le-million-de-varietes.html
 9389460-on-na-pas-la-notion-de-lempreinte-numerique-que-nous-laissons.html

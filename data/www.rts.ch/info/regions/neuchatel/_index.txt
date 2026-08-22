@@ -293,8 +293,6 @@
 11983340-neuchatel-va-unifier-son-administration-pour-plus-defficience.html
 11985425-le-canton-de-neuchatel-presente-50-nouvelles-mesures-pour-le-climat.html
 11985677-une-formation-pour-doper-les-chances-des-candidates-neuchateloises.html
-11985808-inscriptions-antisemites-sur-la-porte-de-la-synagogue-a-bienne-.html
-11985808-inscriptions-antisemites-sur-la-porte-de-la-synagogue-a-bienne.html
 11987946-des-cours-obligatoires-pour-proprietaires-de-chiens.html
 11988682-la-chauxdefonds-etudie-une-carte-didentite-pour-les-sanspapiers.html
 11993806-un-total-de-21-candidates-et-candidats-briguent-un-siege-au-conseil-detat-neuchatelois.html
@@ -317,11 +315,6 @@
 12087239-neuchatel-va-limiter-les-pesticides-mais-ne-peut-pas-les-interdire.html
 12090729-le-contournement-de-la-chauxdefonds-recoit-un-credit-de-186-millions.html
 12121728-a-neuchatel-la-hantise-du-couac-informatique-avant-le-vote-de-dimanche.html
-12126263-la-population-neuchateloise-elit-ses-autorites-ce-dimanche.html
-12126263-le-plr-arrive-devant-tant-au-conseil-d-etat-qu-au-grand-conseil-a-neuchatel.html
-12126263-les-candidats-plr-bien-places-lors-de-lelection-au-conseil-detat-neuchatelois-le-vert-roby-tschopp-7e.html
-12126263-les-sortants-en-tete-de-lelection-au-conseil-detat-neuchatelois-le-suivi-en-direct.html
-12126263-victoire-du-plr-lors-des-elections-neuchateloises-une-majorite-de-femmes-au-grand-conseil.html
 12128623-des-immeubles-qui-saffaissent-vont-etre-evacues-a-la-chauxdefonds.html
 12135936-frederic-mairy-se-retire-de-la-course-au-conseil-detat-neuchatelois.html
 12137271-trois-a-gauche-et-trois-a-droite-pour-les-cinq-places-au-conseil-detat-neuchatelois.html
@@ -489,7 +482,6 @@
 12952009-bistrots-et-restaurants-pourront-garder-leurs-terrasses-agrandies-a-neuchatel.html
 12979152-a-defaut-de-les-interdire-neuchatel-lance-un-plan-daction-pour-bannir-les-pesticides.html
 12981283-des-milliers-de-donnees-medicales-neuchateloises-publiees-sur-le-darkweb.html
-12984835-apres-neuchatel-d-autres-medecins-romands-pourraient-etre-concernes-par-des-fuites-de-donnees.html
 12984835-apres-neuchatel-dautres-medecins-romands-pourraient-etre-concernes-par-des-fuites-de-donnees.html
 12986798-le-reseau-pedagogique-neuchatelois-touche-a-son-tour-par-une-cyberattaque.html
 12987028-des-etats-generaux-neuchatelois-pour-concretiser-linclusion-des-handicapes.html
@@ -527,7 +519,6 @@
 13155203-neuchatel-revoit-son-dispositif-pour-gerer-les-conflits-en-zone-urbaine.html
 13164247-un-cadre-de-la-bcn-accuse-davoir-detourne-des-millions-de-francs.html
 13165371-un-incendie-au-centre-de-neuchatel-mobilise-une-quarantaine-de-pompiers.html
-13166843-festineuch-signe-une-edition-record-avec-54000-spectateurs.html
 13169019-le-proces-pour-corruption-des-exemployes-du-swatch-group-a-nouveau-renvoye.html
 13169077-des-enfants-de-moins-de-10-ans-a-lorigine-du-gros-incendie-a-neuchatel.html
 13177826-lorgue-de-la-collegiale-de-neuchatel-endommage-un-homme-arrete.html
@@ -671,8 +662,6 @@
 13754671-quel-nom-pour-lentite-boudrycortaillodmilvignes-si-les-communes-fusionnent.html
 13770464-a-80-ans-et-pas-fatigue-un-chirurgien-neuchatelois-contraint-de-changer-de-canton-pour-exercer.html
 13773812-le-reseau-hospitalier-neuchatelois-prevoit-un-deficit-de-126-millions-en-2023.html
-13785460-la-grogne-des-riverains-monte-contre-le-centre-d-asile-de-boudry.html
-13785460-la-grogne-des-riverains-monte-contre-le-centre-dasile-de-boudry.html
 13791132-neuchatel-offre-un-subside-lamal-special-face-a-linflation-et-la-hausse-des-primes.html
 13798291-le-ps-neuchatelois-officialise-le-choix-de-ses-candidats-pour-les-federales.html
 13798383-lextension-dune-carriere-a-la-sagne-aura-son-epilogue-dans-les-urnes.html

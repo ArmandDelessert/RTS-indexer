@@ -101,8 +101,6 @@
 1356327-retrospective-jo-de-1912-a-1928.html
 13604690-jo-2030-le-cio-veut-se-donner-du-temps-avant-de-decider.html
 13625256-skicross-fanny-smith-sera-bien-en-bronze-tout-comme-daniela-maier.html
-13705899-divers-les-chaines-de-la-ssr-diffuseront-les-jo-jusqu-en-2032.html
-13705899-divers-les-chaines-de-la-ssr-diffuseront-les-jo-jusquen-2032.html
 14048761-football-euro-m17-la-suisse-tient-langleterre-en-echec-et-attend-lallemagne.html
 14055811-football-euro-m17-la-suisse-a-11-contre-10-pendant-75-minutes-echoue-en-quarts-devant-lallemagne.html
 14057216-golf-albane-valenzuela-brille-a-las-vegas.html
@@ -123,12 +121,8 @@
 14540790-octobre-une-ambition-olympique-lara-gutbehrami-qui-annonce-la-couleur-et-des-bancs-qui-changent.html
 14540791-novembre-une-qualification-sans-eclat-un-servette-fc-brillant-et-des-curleuses-insatiables.html
 14555907-decembre-ponti-fait-des-vagues-gremaud-passe-la-10e-et-odermatt-joue-les-patrons.html
-14657024-luge-largent-pour-natalie-maag-en-sprint.html
 1963804-bale-et-young-boys-sont-prets-pour-la-finalissima.html
 2079434-victoire-avec-panache-de-nicola-spirig-a-madrid.html
-2809699-rts-sport-sur-iphone-et-android.html
-2809699-rtssport-sur-iphone-et-android.html
-2809699-rtssport-sur-iphone-ipad-et-android.html
 2849261-wavre-et-paret-reprennent-le-large.html
 3054681-quinze-equipes-officiellement-inscrites-pour-2013.html
 3083497-une-equipe-rts-retenue-13-jours-au-qatar.html
@@ -143,9 +137,6 @@
 4087305-giulia-steingruber-et-six-tireurs-a-londres.html
 4102532-steve-guerdat-tient-son-ticket-olympique.html
 4111925-michael-phelps-renonce-au-200m-libre-et-au-grand-huit-a-londres.html
-4131524-fle-choix-de-la-redaction.html
-4131524-le-choix-de-la-redaction.html
-4131524-videos-et-audios.html
 4153422-steingruber-pour-une-grande-premiere.html
 4229851-apres-les-jo-londres-se-met-aux-paralympiques.html
 4239558-roger-rinderknecht-decroche-lor-aux-mondiaux.html
@@ -187,7 +178,6 @@
 6130310-f1-michael-schumacher-regagne-son-domicile.html
 6138245-oscar-pistorius-reconnu-coupable-d-homicide-involontaire.html
 6223018-ski-bode-miller-songe-a-une-reconversion-equestre.html
-6305673-euro-2016-une-100e-rugissante-pour-rooney.html
 6347353-ironman-un-sur-un-pour-nicola-spirig.html
 6383023-roger-federer-et-dominique-gisin-elus-sportifs-suisses-de-lannee.html
 6395486-rts-marco-brugger-nous-a-quittes.html

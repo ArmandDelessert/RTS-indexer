@@ -69,7 +69,6 @@
 9104188-facebook-depasse-en-bourse-par-le-groupe-technologique-chinois-tencent-.html
 9104666-deux-boeing-747-vendus-aux-encheres-sur-internet-en-chine.html
 9106122-le-gouvernement-grec-prevoit-une-solide-croissance-l-an-prochain.html
-9106752-les-donnees-de-57-millions-d-utilisateurs-d-uber-ont-ete-piratees.html
 9107216-les-quotas-de-peche-du-thon-rouge-fortement-revus-a-la-hausse.html
 9108826-apple-reconnait-du-travail-illegal-chez-son-soustraitant-en-chine.html
 9112356-la-suisse-a-perdu-en-attractivite-pour-les-milliardaires.html
@@ -555,7 +554,6 @@
 9755055-la-loterie-romande-externalise-une-partie-de-son-service-informatique-en-pologne.html
 9757994-les-nuitees-hotelieres-en-suisse-ont-progresse-au-premier-semestre.html
 9760598-airbnb-contraint-de-communiquer-la-liste-de-ses-hotes-a-new-york.html
-9760598-new-york-contraint-airbnb-a-lui-communiquer-la-liste-de-ses-hotes.html
 9762477-elon-musk-seme-le-trouble-en-affirmant-quil-souhaite-retirer-tesla-de-la-bourse.html
 9762493-les-etats-unis-vont-taxer-16-milliards-de-dollars-de-biens-chinois-a-25-.html
 9765158-le-taux-de-chomage-en-suisse-est-reste-stable-a-2-4-en-juillet.html
@@ -591,7 +589,6 @@
 9805192-un-ex-employe-de-gunvor-condamne-a-18-mois-de-prison-pour-corruption.html
 9805773-le-canada-determine-a-defendre-ses-interets-dans-laccord-nordamericain.html
 9807920-americains-et-canadiens-pensent-pouvoir-trouver-un-accord-commercial.html
-9808586-le-grounding-de-skywork-airlines-laisse-11-000-passagers-sur-le-tarmac.html
 9808586-le-grounding-de-skywork-airlines-laisse-11000-passagers-sur-le-tarmac.html
 9809348-nestle-revoit-a-la-baisse-le-nombre-dinformaticiens-delocalises.html
 9809725-la-restructuration-du-genevois-unilabs-condamne-plus-de-30-emplois.html

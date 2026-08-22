@@ -83,17 +83,14 @@
 12215675-didier-queloz-prix-nobel-de-physique-quitte-geneve-pour-zurich.html
 12279408-les-jeux-video-suisses-tirent-la-langue-avec-la-pandemie.html
 12282365-la-sortie-de-thomas-pesquet-dans-lespace-est-une-reussite-partielle.html
-12282365-lastronaute-francais-thomas-pesquet-sest-elance-dans-le-vide-spatial.html
 12316447-le-programme-a-lorigine-du-web-vendu-54-millions-de-dollars.html
 12360240-a-bord-de-sa-fusee-blue-origin-jeff-bezos-realise-son-reve-despace.html
 12367138-une-piste-dessai-de-transport-sous-vide-hyperloop-se-construit-a-lepfl.html
 12373186-chloe-carriere-on-pourrait-imaginer-quun-jour-tout-le-monde-puisse-aller-dans-lespace.html
 12379398-facebook-veut-fusionner-le-reel-et-le-virtuel-avec-son-projet-de-metavers.html
 12410753-vol-record-de-cryptomonnaies-le-pirate-rend-une-partie-du-butin.html
-12468368-la-suisse-se-dirige-vers-une-prolongation-du-moratoire-sur-les-ogm-jusquen-2025.html
 12484200-apple-nest-pas-un-monopole-mais-doit-faciliter-la-concurrence-selon-la-justice.html
 12484251-twitch-poursuit-deux-utilisateurs-pour-harcelement-raciste-et-homophobe.html
-12495118-la-viande-cultivee-en-laboratoire-seduit-l-industrie-alimentaire.html
 12495118-la-viande-cultivee-en-laboratoire-seduit-lindustrie-alimentaire.html
 12497068-facebook-a-minimise-les-effets-nefastes-de-ses-plateformes-revele-le-wall-street-journal.html
 12526193-la-technologie-crispr-utilisee-au-japon-pour-booster-des-tomates.html
@@ -153,7 +150,6 @@
 13345919-pourquoi-il-est-urgent-de-reconnaitre-limpact-energetique-du-streaming.html
 13368641-lepfl-inaugure-en-grande-pompe-sa-nouvelle-centrale-thermique-novatrice.html
 13371331-stocker-ses-donnees-indefiniment-mission-impossible.html
-13427752-mais-que-s-est-il-veritablement-passe-avec-cambridge-analytica-.html
 13427752-mais-que-sestil-veritablement-passe-avec-cambridge-analytica.html
 13462348-des-neurones-doues-de-sensations-ont-appris-a-jouer-au-jeu-video-pong.html
 13481354-un-capteur-pour-detecter-la-quantite-de-virus-lie-au-covid19-dans-lair-ambiant.html
@@ -189,7 +185,6 @@
 13886345-la-premiere-fusee-imprimee-en-3d-echoue-a-atteindre-son-orbite-apres-son-decollage.html
 13890225-les-transports-publics-serontils-bientot-tous-autonomes.html
 13890641-quel-avenir-pour-les-lunettes-connectees.html
-13902627-elon-musk-et-des-centaines-d-experts-reclament-une-pause-dans-l-ia.html
 13902627-elon-musk-et-des-centaines-dexperts-reclament-une-pause-dans-lia.html
 13905155-levez-les-yeux-de-votre-telephone-portable-implore-son-inventeur.html
 13916204-les-montres-connectees-un-outil-pour-determiner-des-profils-psychologiques.html

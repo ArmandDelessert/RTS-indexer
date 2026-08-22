@@ -124,7 +124,6 @@
 4163659-pause-dans-les-combats-entre-forces-syriennes-et-rebelles-a-alep.html
 4163972-la-conference-sur-le-sida-se-clot-dans-un-climat-doptimisme-mesure.html
 4164876-echec-du-referendum-sur-la-destitution-du-president-roumain-traian-basescu.html
-4165390-chaine-humaine-anti-nucleaire-autour-du-parlement-japonais.html
 4165390-chaine-humaine-antinucleaire-autour-du-parlement-japonais.html
 4165472-mitt-romney-a-jerusalem-pour-asseoir-sa-stature-internationale.html
 4166451-entree-en-vigueur-de-la-loi-controversee-qui-controle-l-internet-russe.html
@@ -580,7 +579,6 @@
 4670346-marc-dutroux-ne-sera-pas-remis-en-liberte-sous-surveillance-electronique.html
 4671798-nestle-retire-des-plats-contenant-du-cheval-dans-quatre-pays-europeens.html
 4672372-avec-sa-campagne-populiste-20-le-comique-beppe-grillo-seduit-les-italiens.html
-4674826-le-scandale-de-la-viande-de-cheval-s-etend-jusqu-en-slovenie.html
 4675807-le-meurtre-de-trois-jeunes-soeurs-violees-bouleverse-a-nouveau-linde.html
 4678075-les-drones-americains-auraient-tue-4700-personnes-dans-le-monde.html
 4678569-le-passe-terni-de-quelques-favoris-a-la-succession-du-pape.html

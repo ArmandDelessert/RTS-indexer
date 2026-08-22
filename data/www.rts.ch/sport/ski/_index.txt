@@ -119,7 +119,6 @@
 10979446-ski-hannes-reichelt-veut-saccrocher.html
 10986452-ski-holdener-quatrieme-vlhova-tient-son-succes.html
 11004414-ski-loic-meillard-en-course-pour-une-1re-victoire-en-coupe-du-monde.html
-11004509-ski-carton-suisse-a-altenmarktzauchensee-corinne-suter-simpose-michelle-gisin-3e.html
 11004509-ski-corinne-suter-met-fin-a-2-ans-de-disette-michelle-gisin-3e.html
 11006118-ski-carton-suisse-apres-la-premiere-manche-du-slalom-dadelboden.html
 11006382-ski-wendy-holdener-2e-du-combine-derriere-federica-brignone.html
@@ -1154,8 +1153,6 @@
 6544625-ski-la-surprise-grange-murisier-sauve-lhonneur.html
 6554223-ski-svindal-met-un-terme-a-sa-saison.html
 6559390-le-norvegien-martin-johnsrud-sundby-renonce-au-skiathlon-de-samedi-aux-mondiaux-de-falun.html
-6566743-victime-d-un-refroidissement-le-fondeur-norvegien-martin-sundby-renonce-au-15-km-libre-des-mondiaux-de-falun.html
-6566743-victime-dun-refroidissement-le-fondeur-norvegien-martin-sundby-renonce-au-15-km-libre-des-mondiaux-de-falun.html
 6568616-nathalie-von-siebenthal-a-fini-6e-et-seraina-boner-9e-du-10km-libre-dames-des-mondiaux-de-fond-a-falun.html
 6572560-saut-simon-ammann-se-fait-une-belle-frayeur.html
 6580667-fond-northug-en-or-cologna-6e-du-50km.html
@@ -1259,7 +1256,6 @@
 7576168-ski-la-descente-messieurs-minute-par-minute.html
 7576321-ski-feuz-simpose-a-stmoritz-fill-sadjuge-le-globe.html
 7576559-ski-encore-une-deuxieme-place-de-fabienne-suter.html
-7577256-beat-feuz-je-vis-une-fin-de-saison-grandiose.html
 7579064-ski-le-super-g-dames-minute-par-minute.html
 7579164-ski-lara-gut-remporte-son-2e-globe-en-super-g.html
 7579183-ski-feuz-recidive-le-globe-du-superg-a-kilde.html

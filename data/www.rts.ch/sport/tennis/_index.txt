@@ -162,7 +162,6 @@
 10588732-atp-gstaad-la-marche-etait-trop-haute-pour-sandro-ehrat.html
 10590104-atp-gstaad-laaksonen-ninscrit-que-3-jeux-et-sort-au-1er-tour.html
 10595815-atp-gstaad-une-matinee-avec-un-pro-la-difference-entre-lui-et-moi-cest-la-fosse-des-mariannes.html
-10613428-tennis-a-toronto-une-promenade-de-sante-pour-belinda-bencic.html
 10613428-wta-toronto-une-promenade-de-sante-pour-belinda-bencic.html
 10626541-atp-cincinnati-battu-pour-son-retour-murray-renonce-a-lus-open.html
 10627438-atp-cincinnati-au-finish-wawrinka-fait-encore-tomber-dimitrov.html
@@ -1105,10 +1104,7 @@
 12789807-tennis-chris-evert-revele-etre-atteinte-dun-cancer.html
 12789975-open-daustralie-lagacement-des-joueurs-face-a-laffaire-djokovic.html
 12791533-open-daustralie-novak-djokovic-dans-lattente-dune-decision-de-la-cour-federale.html
-12791548-open-d-australie-novak-djokovic-a-du-quitter-l-australie.html
-12791548-open-d-australie-novak-djokovic-doit-quitter-l-australie.html
 12791548-open-daustralie-novak-djokovic-a-du-quitter-laustralie.html
-12791548-open-daustralie-novak-djokovic-doit-quitter-laustralie.html
 12791575-open-daustralie-bencic-et-teichmann-en-lice-des-la-1re-journee.html
 12791602-open-daustralie-novak-djokovic-risque-gros-pour-son-avenir.html
 12793233-open-daustralie-bencic-commence-de-maniere-souveraine.html
@@ -1167,7 +1163,6 @@
 12842055-tennis-del-potro-laisse-planer-le-doute-quant-a-sa-retraite-sportive.html
 12842692-tennis-stricker-de-nouveau-en-finale.html
 12843746-tennis-un-2e-titre-challenger-pour-dominic-stricker.html
-12844434-tennis-peng-shuai-a-rencontre-le-president-du-cio-thomas-bach.html
 12847498-wta-stpetersbourg-bencic-passe-en-8es-teichmann-eliminee.html
 12851445-tennis-del-potro-reste-flou-sur-sa-retraite.html
 12853401-wta-stpetersbourg-belinda-bencic-en-quarts-de-finale.html
@@ -2316,7 +2311,6 @@
 3013210-andy-murray-passe-a-la-trappe-dentree.html
 3031216-federer-dans-la-meme-moitie-que-nadal.html
 3040152-wawrinka-imite-bacsinszky-et-se-fait-eliminer.html
-3084984-une-finale-ferrer-nadal-a-monte-carlo.html
 3488431-safina-range-sa-raquette-pour-preserver-son-dos.html
 3540626-une-seconde-chance-pour-la-reine-sans-couronne.html
 3908139-fin-du-bal-pour-stefanie-vogele-a-charleston-l-argovienne-s-incline-5-7-6-3-6-4-en-8es-devant-zvonareva.html
@@ -2907,7 +2901,6 @@
 7189068-wta-luxembourg-bacsinszky-abandonnee-par-son-genou-sa-saison-terminee.html
 7192200-swiss-indoors-nishikori-remplace-par-baghdatis-a-bale.html
 7195005-tennis-fin-de-saison-confirmee-pour-timea-bacsinszky.html
-7196890-swiss-indoors-federer-et-wawrinka-connaissent-leurs-adversaires.html
 7201556-tennis-entame-de-masters-reussie-pour-la-paire-hingismirza.html
 7201693-atp-bale-nadal-se-tire-dun-mauvais-pas-contre-rosol.html
 7204714-tennis-les-demies-se-rapprochent-pour-sharapova.html
@@ -3694,10 +3687,6 @@
 8853846-wta-cincinnati-battue-par-muguruza-halep-doit-encore-attendre.html
 8855342-atp-cincinnati-un-premier-masters-1000-pour-dimitrov.html
 8855443-tennis-nadal-retrouve-son-trone-trois-ans-apres.html
-8866606-US-Open-le-tirage-n-a-pas-epargne-Roger-Federer.html
-8866606-us-open-le-tirage-na-pas-epargne-roger-federer.html
-8869224-us-open-andy-murray-forfait-pour-lus-open.html
-8869224-us-open-andy-murray-forfait.html
 8882423-coupe-davis-laaksonen-et-chiudinelli-en-chefs-de-file.html
 8886334-carnet-rose-une-petite-fille-pour-serena-williams.html
 8888229-us-open-roger-federer-domine-feliciano-lopez-63-63-75-apres-une-prestation-convaincante-au-3e-tour.html
@@ -3882,8 +3871,6 @@
 9271802-coupe-davis-la-suisse-avec-laaksonen-en-fer-de-lance.html
 9276951-tennis-becker-a-la-recherche-de-ses-trophees.html
 9279578-wta-stpetersbourg-timea-bacsinszky-fera-son-retour-en-russie.html
-9279740-tennis-roger-federer-disputera-pour-la-5e-fois-un-match-for-africa-le-5-mars-a-san-diego-contre-jack-sock.html
-9279740-tennis-roger-federer-disputera-pour-la-5e-un-match-for-africa-le-5-mars-a-san-diego-contre-jack-sock.html
 9279842-match-for-africa-une-5e-edition-pour-federer-en-mars.html
 9288327-classement-atp-stan-wawrinka-quitte-le-top10.html
 9291537-wta-stpetersbourg-bacsinszky-battue-dentree.html

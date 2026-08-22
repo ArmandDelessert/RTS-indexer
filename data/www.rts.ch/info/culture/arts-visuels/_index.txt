@@ -1,5 +1,4 @@
 ./
-10003872-la-pretendue-decouverte-en-roumanie-d-un-picasso-vole-etait-un-canular.html
 10003872-la-pretendue-decouverte-en-roumanie-dun-picasso-vole-etait-un-canular.html
 10005819-la-fondation-gianadda-fete-ses-40-ans-a-martigny.html
 10009804-la-collection-dart-de-lhorloger-eric-loth-exposee-a-la-chauxdefonds.html
@@ -78,13 +77,12 @@
 10403318-les-500-ans-de-la-mort-de-leonard-de-vinci.html
 10416800-la-veritable-histoire-du-tsunami-lemanique-sexpose-a-nyon.html
 10423476-le-debordement-fil-conducteur-des-journees-photographiques-de-bienne.html
-10425718-la-58eme-biennale-d-art-de-venise-a-ouvert-ses-portes.html
 10425718-la-58eme-biennale-dart-de-venise-a-ouvert-ses-portes.html
 10428545-la-barca-nostra-de-christoph-buchel-fait-polemique-a-la-biennale-de-venise.html
 10429109-le-pavillon-du-corbusier-a-zurich-transforme-en-musee.html
 10432045-la-museumweek-met-en-avant-l-art-et-la-culture-sur-les-reseaux-sociaux.html
 10432634-journees-photographiques-de-bienne-des-artistes-dans-lair-du-temps.html
-10433345-trois-inedits-de-rimbaud-photographe-devoiles-a-charleville-mezieres.html
+10433345-trois-inedits-de-rimbaud-photographe-devoiles-a-charlevillemezieres.html
 10434591-un-tableau-de-monet-depasse-la-barre-des-100-millions-de-dollars-a-new-york.html
 10437592-le-plasticien-jeff-koons-devient-lartiste-vivant-le-plus-cher-du-monde.html
 10437800-olivier-maire-celebre-les-photographes-de-presse-en-valais.html
@@ -187,7 +185,6 @@
 10973989-premier-bilan-positif-pour-le-nouveau-musee-des-beauxarts-a-lausanne.html
 10990054-john-baldessari-artiste-conceptuel-farceur-disparait-a-lage-de-88-ans.html
 10993615-heroines-lexposition-qui-porte-haut-la-voix-des-femmes-opprimees.html
-11003530-le-genevois-christian-lutz-nomme-photographe-suisse-de-l-annee.html
 11003530-le-genevois-christian-lutz-nomme-photographe-suisse-de-lannee.html
 11008596-lart-cest-bon-pour-la-sante.html
 11018823-une-exposition-montre-comment-supporter-la-prison-grace-a-lart.html
@@ -395,7 +392,7 @@
 12356689-projet-de-nouveau-musee-des-beauxarts-a-berne-pour-80-millions-de-francs.html
 12356694-lirezumi-ou-la-tradition-du-secret-du-tatouage-japonais.html
 12358160-parenthese-artistique-au-coeur-de-geneve-sur-lile-rousseau.html
-12360182-pourquoi-et-comment-devient-on-collectionneur-.html
+12360182-pourquoi-et-comment-devienton-collectionneur.html
 12361890.html
 12382510-la-plus-grande-collection-consacree-au-cocacola-est-vaudoise.html
 12398768-arnaud-dousse-un-dessinateur-fribourgeois-en-route-vers-le-succes.html
@@ -430,7 +427,6 @@
 12546717-lart-pour-porter-loin-la-voix-des-peuples-autochtones.html
 12547025-le-vrak-un-nouveau-musee-suedois-hightech-au-service-des-epaves.html
 12547130-animalites-met-en-lumiere-nos-liens-ambigus-avec-les-betes.html
-12547333-le-kunsthaus-de-zurich-est-devenu-le-plus-grand-musee-d-art-de-suisse.html
 12547333-le-kunsthaus-de-zurich-est-devenu-le-plus-grand-musee-dart-de-suisse.html
 12551864-le-fri-art-fete-ses-quarante-ans-avec-deux-expositions-a-fribourg.html
 12561012-la-banque-cantonale-vaudoise-expose-sa-collection-dart.html
@@ -449,7 +445,6 @@
 12640625-le-directeur-de-la-fondation-buhrle-lukas-gloor-demissionne.html
 12647022-le-musee-romain-de-lausannevidy-eclaire-les-religions-judeochretiennes.html
 12647523-une-partie-de-la-collection-macklowe-vendue-630-millions-de-francs-a-new-york.html
-12647760-depart-de-la-directrice-du-musee-de-l-elysee-six-mois-avant-l-inauguration-du-nouveau-batiment.html
 12647760-depart-de-la-directrice-du-musee-de-lelysee-six-mois-avant-linauguration-du-nouveau-batiment.html
 12649086-le-nez-quasi-invisible-des-femmes-dans-la-bande-dessinee.html
 12649110-le-dessin-contemporain-format-xxl-est-a-lhonneur-au-musee-jenisch.html
@@ -466,21 +461,18 @@
 12701772-2020-lannee-peu-ordinaire-du-photographe-suisse-didier-ruef.html
 12706431-la-factory-dandy-warhol-une-veritable-usine-a-produire-de-lart.html
 12709622-le-kunstmuseum-de-berne-renonce-a-38-oeuvres-de-la-collection-gurlitt-volees-par-les-nazis-ou-suspectes.html
-12709622-le-kunstmusueum-de-berne-renonce-a-38-oeuvres-de-la-collection-gurlitt-volees-par-les-nazis-ou-suspectes.html
 12710014-retrospective-de-lannee-2021-en-dessins-de-presse-a-voir-a-morges.html
 12710126-charlelie-couture-chanteurdessinateur-entre-paris-et-new-york.html
 12715344-gilbert-schule-le-peintre-a-la-tronconneuse.html
 12718829-sculptures-du-neolithique-a-zurich-le-message-muet-de-nos-ancetres.html
 12721871-des-experts-independants-verifieront-la-provenance-de-la-collection-buhrle-constituee-pendant-le-nazisme.html
 12724749-la-fondation-gianadda-consacre-une-retrospective-a-jean-dubuffet.html
-12725406-le-jurassien-d-adoption-saype-roi-de-l-art-ephemere-sur-l-herbe-ou-le-sable.html
 12725406-le-jurassien-dadoption-saype-roi-de-lart-ephemere-sur-lherbe-ou-le-sable.html
 12732378-deces-de-larchitecte-richard-rogers-cocreateur-du-centre-pompidou.html
 12732834-juri-steiner-est-le-nouveau-directeur-du-musee-cantonal-des-beauxarts.html
 12740013-collection-buhrle-indignee-miriam-cahn-veut-retirer-ses-uvres-du-kunsthaus-de-zurich.html
 12743362-retrospective-les-expositions-quil-fallait-voir-en-2021.html
 12752617-la-photographe-francosuisse-sabine-weiss-est-decedee-a-97-ans.html
-12788429-architecte-aux-1000-projets-ricardo-bofill-est-mort-a-l-age-de-82-ans.html
 12788429-architecte-aux-1000-projets-ricardo-bofill-est-mort-a-lage-de-82-ans.html
 12793718-le-peintre-grec-alekos-fassianos-est-decede-a-lage-de-86-ans.html
 12797135-picasso-letranger-derriere-lartiste-un-migrant.html
@@ -525,7 +517,6 @@
 13018493-lartiste-yves-lappert-est-lemploye-du-moi-au-musee-de-labsurde.html
 13022107-lego-star-wars-la-saga-skywalker-jeu-video-ultime-sur-lunivers-de-george-lucas.html
 13030089-lintelligence-artificielle-au-coeur-dune-exposition-au-musee-de-la-main.html
-13032685-renens-sauve-l-uvre-monumentale-d-art-brut-de-l-artiste-danielle-jacqui.html
 13032685-renens-sauve-luvre-monumentale-dart-brut-de-lartiste-danielle-jacqui.html
 13032782-pas-besoin-dun-dessin-lexposition-qui-decloisonne-lhistoire-de-lart.html
 13035136-le-pavillon-suisse-de-la-59e-biennale-de-venise-inaugure-par-alain-berset.html
@@ -586,10 +577,8 @@
 13240552-litalienne-beatrice-leanza-nommee-a-la-tete-du-mudac-a-lausanne.html
 13241153-le-peintre-stephane-zaech-expose-au-musee-des-beauxarts-de-la-chauxdefonds.html
 13243577-un-autoportrait-de-van-gogh-decouvert-en-ecosse-au-dos-dun-tableau.html
-13250076-les-musees-et-les-oeuvres-d-art-souffrent-aussi-de-la-canicule-.html
 13250076-les-musees-et-les-oeuvres-dart-souffrent-aussi-de-la-canicule.html
 13250233-limpossible-sauvage-lexposition-qui-questionne-notre-rapport-a-la-nature.html
-13252959-le-sculpteur-pop-art-americain-claes-oldenburg-est-mort-a-93-ans.html
 13252959-le-sculpteur-popart-americain-claes-oldenburg-est-mort-a-93-ans.html
 13257471-lart-de-lallemagne-des-annees-1920-expose-au-centre-pompidou-a-paris.html
 13267765-angela-rosengart-picasso-a-fait-mon-portrait.html
@@ -675,7 +664,6 @@
 13728034-deux-tableaux-ont-mysterieusement-disparu-au-kunsthaus-de-zurich.html
 13730340-pour-sa-11e-edition-artgeneve-fait-la-part-belle-au-son.html
 13734693-lartiste-razab-sexpose-a-geneve-avec-in-nocens.html
-13749455-plateforme-10-a-accueilli-plus-de-270-000-visiteurs-pour-son-annee-inaugurale.html
 13749455-plateforme-10-a-accueilli-plus-de-270000-visiteurs-pour-son-annee-inaugurale.html
 13749691-leon-spilliaert-et-sa-mer-du-nord-sinvitent-a-lhermitage.html
 13751702-lartiste-ugo-rondinone-investit-le-musee-dart-et-dhistoire-de-geneve.html
@@ -698,7 +686,6 @@
 13835803-quel-regard-auront-les-archeologues-de-lan-4023-sur-notre-epoque.html
 13844419-bd-voix-de-femmes-douze-creatrices-sinvitent-au-chateau-de-prangins.html
 13850465-miriam-cahn-au-palais-de-tokyo-une-exposition-coup-de-poing.html
-13861462-le-kunsthaus-de-zurich-veut-traquer-plus-vigoureusement-l-art-spolie.html
 13861462-le-kunsthaus-de-zurich-veut-traquer-plus-vigoureusement-lart-spolie.html
 13876651-le-monde-vu-a-travers-le-regard-de-femmes-artistes-a-decouvrir-a-evian.html
 13887314-deces-de-lartiste-vaudois-jean-lecoultre-a-lage-de-92-ans.html
@@ -897,7 +884,6 @@
 8056957-deces-du-dessinateur-de-bande-dessinee-ted-benoit-heritier-d-herge.html
 8062173-l-artiste-roman-signer-expose-d-etranges-photographies-a-geneve.html
 8063961-herge-et-tintin-un-art-total-a-decouvrir-dans-une-exposition-a-paris.html
-8070461-une-premiere-pierre-symbolique-pour-le-musee-des-beauxarts-a-lausanne.html
 8090435-pierre-terrasson-un-oeil-sensible-du-rock-des-annees-80-expose-a-vevey.html
 8098020-des-photos-a-toucher-exposees-pour-les-malvoyants-au-musee-de-lelysee.html
 8098809-philippe-lardy-presente-ses-peintures-a-la-galerie-espace-muraille-a-geneve-.html
@@ -1141,7 +1127,6 @@
 9236251-sabine-weiss-distinguee-par-la-swiss-photo-academy.html
 9259353-un-dessin-inconnu-attribue-a-van-gogh-par-une-equipe-de-chercheurs.html
 9262077-une-exposition-retrace-50-ans-de-montreux-jazz.html
-9272016-l-aventure-architecturale-genevoise.html
 9272016-laventure-architecturale-genevoise.html
 9272882-une-exposition-examine-limpact-de-la-technologie-sur-notre-sexualite.html
 9282612-les-musees-lausannois-ont-attire-un-million-de-visiteurs-en-2017.html
@@ -1173,8 +1158,6 @@
 9409660-le-musee-de-pully-consacre-le-leman-peint-par-ferdinand-hodler.html
 9412595-a-zurich-le-musee-helmhaus-questionne-le-monde.html
 9414281-elle-etait-tellement-desarmante-avec-son-visage-dange.html
-9418983--l-art-c-est-poser-des-questions-pas-donner-des-reponses-tout-est-permis-.html
-9418983-l-art-c-est-poser-des-questions-pas-donner-des-reponses-tout-est-permis.html
 9418983-lart-cest-poser-des-questions-pas-donner-des-reponses-tout-est-permis.html
 9424336-un-institut-giacometti-dedie-au-sculpteur-suisse-va-ouvrir-a-paris.html
 9425475-des-filles-vigousse.html

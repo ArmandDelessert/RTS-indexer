@@ -164,7 +164,6 @@
 11788474-la-droite-echoue-a-deloger-lalliance-roseverte-en-ville-de-berne.html
 11793576-avec-son-nouveau-systeme-de-bons-dachat-bienne-entend-entrer-dans-la-modernite.html
 11795164-l-hopital-de-moutier-se-reinvente-14-millions-seront-investis.html
-11800622-le-groupe-de-presse-biennois-gassmann-rachete-par-le-haut-valaisan-mengis.html
 11800622-le-groupe-de-presse-biennois-gassmann-rachete-par-le-hautvalaisan-mengis.html
 11805643-les-restes-de-munitions-a-mitholz-be-seront-evacues-tout-comme-les-habitants.html
 11820203-les-restaurateurs-bernois-manifestent-leur-agacement-face-aux-mesures.html
@@ -176,7 +175,6 @@
 11911268-apres-de-dangereuses-munitions-des-boues-contaminees-a-mitholz.html
 11967524-des-tonnes-de-materiaux-deposes-illegalement-dans-la-carriere-de-mitholz.html
 11976231-une-peine-de-15-mois-de-prison-avec-sursis-pour-linfanticide-de-reconvilier.html
-11985808-inscriptions-antisemites-sur-la-porte-de-la-synagogue-a-bienne-.html
 11985808-inscriptions-antisemites-sur-la-porte-de-la-synagogue-a-bienne.html
 11988267-le-canton-de-berne-ordonne-le-tir-dune-louve-trop-vorace.html
 12012400-louve-abattue-dans-le-canton-de-berne-apres-une-autorisation-de-tir.html
@@ -262,7 +260,6 @@
 12693372-du-fromage-sans-lait-est-fabrique-au-royaume-de-lemmental.html
 12699053-tensions-liees-a-la-situation-financiere-au-sein-de-lhopital-de-lile-a-berne.html
 12699661-des-experts-vont-conseiller-la-ville-de-bienne-sur-les-questions-climatiques.html
-12709622-le-kunstmusueum-de-berne-renonce-a-38-oeuvres-de-la-collection-gurlitt-volees-par-les-nazis-ou-suspectes.html
 12715312-pas-dextension-dans-limmediat-du-parc-aux-ours-a-berne-en-raison-des-couts.html
 12747055-une-forte-odeur-de-chanvre-indispose-les-habitants-de-moutier-be.html
 12747125-ou-iront-les-institutions-basees-a-moutier-apres-son-depart-du-jura-bernois.html
@@ -280,7 +277,6 @@
 12862557-les-citoyens-de-moutier-ont-choisi-13-elus-parmi-4372-candidats.html
 12862952-rejet-dune-imposition-plus-ecologique-des-vehicules-a-berne.html
 12867039-elu-a-son-insu-a-moutier-lanimateur-de-la-rts-duja-renonce-a-son-election.html
-12875396-elections-cantonales-bernoises-l-outil-smartvote-est-en-ligne-.html
 12875396-elections-cantonales-bernoises-loutil-smartvote-est-en-ligne.html
 12897112-de-10000-a-20000-personnes-rassemblees-a-berne-pour-la-paix-en-ukraine.html
 12900519-le-conseil-detat-du-canton-de-berne-vatil-rester-a-droite-ou-pencher-a-gauche.html
@@ -339,8 +335,6 @@
 13386809-le-vote-a-16-ans-soumis-au-scrutin-populaire-dans-le-canton-de-berne.html
 13403249-seduite-la-police-bernoise-generalise-lusage-des-bodycams.html
 13412381-le-droit-de-vote-a-16-ans-ne-passe-pas-la-rampe-a-berne.html
-13414874-le-calendrier-du-transfert-de-moutier-dans-le-jura-s-affine-peu-a-peu.html
-13414874-le-calendrier-du-transfert-de-moutier-dans-le-jura-saffine-peu-a-peu.html
 13430456-initiative-contre-les-grands-predateurs-lancee-dans-le-canton-de-berne.html
 13478625-bienne-revoit-son-budget-2023-qui-scandalisait-les-milieux-de-la-culture.html
 13484468-le-spectacle-rendezvous-bundesplatz-illumine-la-place-federale-a-berne.html
@@ -348,7 +342,6 @@
 13490211-nombreuses-critiques-sur-lagrandissement-prevu-de-la1-au-grauholz-be.html
 13499908-lhopital-de-moutier-sera-integre-a-un-reseau-de-soins-dun-genre-nouveau.html
 13508648-le-nouveau-campus-bfh-de-bienne-nest-pas-attendu-avant-2029.html
-13524838-une-famille-des-balkans-est-accusee-de-traite-detres-humains-a-moutier.html
 13524838-une-famille-des-balkans-est-accusee-de-traite-detres-humains-dans-le-jura-bernois.html
 13546922-dans-le-jura-bernois-le-fabuleux-destin-de-la-tigresse-sangha.html
 13549739-lelimination-des-munitions-de-mitholz-devrait-couter-plus-de-25-milliards.html
@@ -370,8 +363,6 @@
 13722214-les-verts-bernois-veulent-limiter-les-penuries-deau-avec-des-glaciers-artificiels.html
 13729275-le-milieu-de-la-psychiatrie-en-crise-dans-le-canton-de-berne.html
 13751556-une-formation-allegee-a-la-hep-bernoise-pour-remedier-a-la-penurie-denseignants.html
-13754806-elisabeth-baume-schneider-pourra-jouer-le-role-de-mediatrice-dans-le-transfert-de-moutier.html
-13754806-elisabeth-baumeschneider-pourra-jouer-le-role-de-mediatrice-dans-le-transfert-de-moutier.html
 13768038-les-groupes-gassmann-et-bnj-sunissent-au-profit-de-la-qualite-et-de-leur-perennite.html
 13769931-jurg-grossen-et-bernhard-pulver-candidats-au-conseil-des-etats-dans-le-canton-de-berne.html
 13770081-ludc-et-le-ps-ambitieux-pour-les-federales-dans-le-jura-bernois.html
@@ -642,8 +633,6 @@
 6236155-important-trafic-de-methamphetamine-demantele-dans-le-canton-de-berne.html
 6256913-des-centaines-d-armes-saisies-dans-une-maison-dans-le-canton-de-berne.html
 6265025-quelque-2400-armes-saisies-au-domicile-d-un-bernois.html
-6272319-trois-personnes-retrouvees-mortes-dans-un-parking-a-wilderswil-be.html
-6272319-une-fusillade-a-wilderswil-be-a-fait-trois-morts.html
 6274201-une-femme-retrouvee-morte-a-la-prison-de-moutier-be.html
 6285253-la-socialiste-bernoise-margret-kiener-nellen-au-centre-dune-polemique-fiscale.html
 6285576-la-culture-dans-le-jura-bernois-patit-du-non-du-24-novembre.html
@@ -986,7 +975,6 @@
 8861559-polemique-sur-laide-sociale-accordee-a-un-imam-biennois-prechant-la-haine.html
 8864144-limam-prechant-la-haine-a-bienne-nest-pas-pres-detre-expulse.html
 8866505-budget-beneficiaire-du-canton-de-berne-grace-a-son-plan-dausterite.html
-8866651-bienne-cree-un-centre-de-prevention-de-l-extremisme-et-de-la-violence.html
 8866651-bienne-cree-un-centre-de-prevention-de-lextremisme-et-de-la-violence.html
 8870318-la-fete-folklorique-dunspunnen-bat-son-plein-a-interlaken.html
 8898386-deux-biennoises-ont-rejoint-les-rangs-du-groupe-etat-islamique-en-syrie.html

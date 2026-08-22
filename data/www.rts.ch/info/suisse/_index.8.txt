@@ -451,7 +451,6 @@
 8204450-pres-d-un-quart-des-personnes-handicapees-en-suisse-menacees-de-pauvrete.html
 8204495-premieres-passes-darmes-au-conseil-des-etats-sur-limmigration-de-masse.html
 8204733-lannee-2016-en-revue.html
-8204733.html
 8205069-volee-de-critiques-contre-la-revision-de-la-loi-sur-le-co2.html
 8205149-washington-aurait-fait-pression-sur-la-confederation-dans-laffaire-snowden.html
 8205539-je-suis-en-pleine-forme-je-suis-motive-je-veux-continuer-mon-travail.html
@@ -1450,7 +1449,6 @@
 8718116-la-grogne-demployes-du-secretariat-detat-aux-migrations-contre-perreux.html
 8718121-une-vague-de-chaleur-dune-semaine-sempare-de-la-suisse.html
 8719147-avezvous-le-meme-niveau-scolaire-qua-vos-15-ans-faites-le-test.html
-8719147.html
 8720032-la-suisse-recompensee-pour-ses-efforts-en-matiere-de-securite-routiere.html
 8720166-la-tessinoise-laura-sadis-interessee-par-le-poste-de-didier-burkhalter.html
 8721237-la-revision-du-systeme-tarmed-ne-cesse-de-diviser-les-acteurs-de-la-sante.html
@@ -1655,7 +1653,6 @@
 8821684-la-pratique-du-football-fait-45000-blesses-par-annee-en-suisse.html
 8821894-le-nombre-de-chomeurs-en-fin-de-droit-ne-cesse-daugmenter-en-suisse.html
 8821965-lauteur-de-lattaque-au-couteau-a-stgall-serait-mentalement-derange.html
-8822030-la-suisse-reste-sur-le-qui-vive-apres-le-scandale-des-oeufs-contamines.html
 8822030-la-suisse-reste-sur-le-quivive-apres-le-scandale-des-oeufs-contamines.html
 8822495-axpo-eteint-le-deuxieme-reacteur-de-la-centrale-nucleaire-de-beznau.html
 8822661-la-suisse-classe-une-enquete-contre-une-ancienne-ministre-russe.html
@@ -1720,7 +1717,6 @@
 8855309-des-quotas-masculins-alemaniques-proposes-pour-le-conseil-federal.html
 8855641-mia-et-noah-restent-les-prenoms-les-plus-populaires-en-suisse.html
 8855753-conduire-une-voiture-manuelle-avec-un-permis-automatique-bientot-possible.html
-8855864-vaud-premier-de-classe-de-l-ecole-a-la-maison-en-suisse.html
 8856030-le-departement-de-linterieur-a-la-chasse-aux-traitements-inefficaces.html
 8856516-pas-de-recommandation-du-comite-du-plr-pour-succeder-a-didier-burkhalter.html
 8856888-didier-burkhalter-esquisse-les-defis-qui-attendent-son-successeur-au-dfae.html
