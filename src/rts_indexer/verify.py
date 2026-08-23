@@ -268,6 +268,16 @@ class Verifier:
                 return
             self.checked += 1
             self.non_concluants += 1
+            # Toujours non concluant après le second avis : ni transitoire
+            # (sinon le second essai aurait tranché), ni 404/410 (sinon on ne
+            # serait pas dans cette branche). Cas réel : RTS sert son propre
+            # gabarit « Page introuvable » avec un code 406 sur certaines
+            # URLs — un vrai contenu mort, mais un code qui ne dit pas son
+            # nom. Journalisé pour revue humaine plutôt que sigil : trancher
+            # sur le code HTTP seul serait fiable, sur le contenu de la page
+            # ne le serait pas (fragile, dépendant de la langue).
+            detail = f"HTTP {status}" if status is not None else "erreur réseau"
+            self.store.anomalies.add(("code_atypique", url, detail))
             return
 
         # Un 404 peut être un incident passager ; un 410 est une suppression

@@ -113,6 +113,10 @@ def test_codes_non_concluants_ne_marquent_rien(tmp_path, code):
     assert verifier.non_concluants == 1
     # Rien en cache : l'URL sera recontrôlée au prochain run.
     assert VIVANTE not in verifier.cache
+    # Toujours non concluant après le second avis : journalisé pour revue
+    # humaine (ex. RTS sert parfois son propre "Page introuvable" avec un
+    # code qui n'est ni 404 ni 410 — un vrai contenu mort mal signalé).
+    assert ("code_atypique", VIVANTE, f"HTTP {code}") in store.anomalies
 
 
 def test_erreur_reseau_non_concluante(tmp_path):
@@ -126,6 +130,7 @@ def test_erreur_reseau_non_concluante(tmp_path):
     assert verifier.non_concluants == 1
     assert dict(verifier.store.urls())[VIVANTE] is False
     assert verifier.cache == {}
+    assert ("code_atypique", VIVANTE, "erreur réseau") in store.anomalies
 
 
 def test_head_puis_get_si_la_methode_est_refusee(tmp_path):
@@ -312,6 +317,7 @@ def test_non_concluant_persistant_reste_non_concluant(tmp_path):
     assert verifier.non_concluants == 1
     assert verifier.cache == {}  # rien mis en cache : à recontrôler
     assert dict(verifier.store.urls())[VIVANTE] is False  # sigil intact
+    assert ("code_atypique", VIVANTE, "HTTP 503") in verifier.store.anomalies
 
 
 def test_le_sursis_pose_une_echeance_dans_le_futur(tmp_path):

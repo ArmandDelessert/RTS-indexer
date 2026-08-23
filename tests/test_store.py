@@ -295,6 +295,23 @@ def test_anomalie_de_collision_toujours_valable_survit(tmp_path, monkeypatch):
     assert ("collision", "https://www.rts.ch/seconde/", "https://www.rts.ch/premiere vs https://www.rts.ch/seconde") in relu.anomalies
 
 
+def test_anomalie_code_atypique_survit_tant_que_l_url_reste_indexee(tmp_path):
+    url = "https://www.rts.ch/technik/elektro.htm"
+    store = Store(tmp_path)
+    store.add(url)
+    store.anomalies.add(("code_atypique", url, "HTTP 406"))
+    store.write()
+
+    relu = Store(tmp_path).load()
+    assert ("code_atypique", url, "HTTP 406") in relu.anomalies
+
+    relu.remove(url)
+    relu.write()
+
+    reencore = Store(tmp_path).load()
+    assert reencore.anomalies == set()
+
+
 def test_fichier_index_corrompu_n_empeche_pas_le_chargement(tmp_path):
     """Un fichier abîmé (écriture interrompue, encodage invalide) ne doit pas
     rendre tout le dépôt inexploitable."""

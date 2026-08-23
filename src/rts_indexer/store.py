@@ -351,14 +351,15 @@ class Store:
                 self.anomalies.add((kind, url, detail))
 
     def _anomaly_still_applies(self, kind: str, url: str) -> bool:
-        if kind in ("doublon", "hors_perimetre"):
+        if kind in ("doublon", "hors_perimetre", "code_atypique"):
             # Vaut tant que l'URL reste indexée. Contrairement aux deux
             # suivants, ce verdict vient du réseau (une redirection constatée
             # par `verify`) et ne peut pas être rejoué hors ligne : le
             # conserver est le seul moyen de ne pas perdre l'information entre
-            # deux runs. `hors_perimetre` ne sera jamais résolu par `dedupe`
-            # (voir :meth:`resolve_doublons`), mais reste sujet à disparaître
-            # si l'URL source elle-même finit par être retirée de l'index.
+            # deux runs. `hors_perimetre` et `code_atypique` ne seront jamais
+            # résolus par `dedupe` (voir :meth:`resolve_doublons`), mais
+            # restent sujets à disparaître si l'URL source elle-même finit
+            # par être retirée de l'index.
             return self.status(url) is not None
         if kind not in ("collision", "trop_long"):
             return False  # type retiré du code (ex. l'ancienne "majuscule")
