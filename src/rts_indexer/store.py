@@ -27,6 +27,8 @@ from __future__ import annotations
 
 import json
 import logging
+import os
+import stat
 from collections.abc import Callable
 from dataclasses import dataclass, field
 from datetime import UTC, datetime
@@ -573,7 +575,21 @@ class Store:
 
     @staticmethod
     def _action_rmdir(path: Path) -> Callable[[], None]:
-        return path.rmdir
+        def action() -> None:
+            # Incident réel : ces dossiers se retrouvent en lecture seule
+            # (constaté sous Windows, cause exacte non identifiée — pas un
+            # verrou d'un autre processus, `rmdir` échoue immédiatement avec
+            # « accès refusé »). `Path.rmdir()` ne lève pas cet attribut lui-
+            # même, contrairement à un gestionnaire de fichiers qui le ferait
+            # sous le capot ; sans ce chmod préalable, la purge échouait pour
+            # de bon après épuisement des tentatives de `retry_many`.
+            try:
+                os.chmod(path, stat.S_IWRITE)
+            except OSError:
+                pass  # le rmdir qui suit produira l'erreur pertinente si besoin
+            path.rmdir()
+
+        return action
 
     def _write_anomalies(self) -> None:
         path = self.data_dir / config.ANOMALIES_FILE

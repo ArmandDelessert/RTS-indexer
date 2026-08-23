@@ -433,6 +433,28 @@ def test_remove_qui_vide_le_dossier_le_fait_purger(tmp_path):
     assert not (tmp_path / DOSSIER).exists()
 
 
+def test_remove_purge_un_dossier_devenu_vide_meme_en_lecture_seule(tmp_path):
+    """Incident réel (Windows) : un dossier vidé de son contenu peut se
+    retrouver marqué lecture seule, faisant échouer un simple `rmdir()` avec
+    « accès refusé » — pas un verrou tenu par un autre processus, juste cet
+    attribut. `_action_rmdir()` doit le lever avant de supprimer."""
+    import os
+    import stat
+
+    store = Store(tmp_path)
+    store.add(ARTICLE)
+    store.write()
+    dossier = tmp_path / DOSSIER
+    assert dossier.is_dir()
+    os.chmod(dossier, stat.S_IREAD)
+
+    relu = Store(tmp_path).load()
+    relu.remove(ARTICLE)
+    relu.write()
+
+    assert not dossier.exists()
+
+
 def test_resolve_doublons_supprime_si_la_cible_existe(tmp_path):
     store = Store(tmp_path)
     store.add_many([ARTICLE, AUTRE])  # AUTRE joue le rôle de la cible canonique
