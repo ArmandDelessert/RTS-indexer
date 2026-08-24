@@ -21,6 +21,7 @@
 21e-journee-sion-lucerne-ali-kabacalman-sion-a-l-interview-29128966.html
 21e-journee-sion-lucerne-le-resume-de-la-rencontre-29128979.html
 2e-tour-qualificatif-de-ligue-des-champions-thoune-doit-se-contenter-d-un-match-nul-contre-zagreb-29309459.html
+4e-journee-lucerne-lausanne-1-0-le-resume-de-la-rencontre-29335576.html
 7e-journee-atalanta-a-bilbao-2-3-le-resume-de-la-rencontre-29126012.html
 7e-journee-bayern-union-sg-2-0-le-resume-de-la-rencontre-29126007.html
 7e-journee-chelsea-pafos-1-0-le-resume-de-la-rencontre-29126005.html
@@ -60,6 +61,8 @@ adrenaline-2026-20-29296198.html
 adrenaline-2026-21-29302646.html
 adrenaline-2026-22-29308451.html
 adrenaline-2026-23-29329294.html
+adrenaline-2026-24-29335329.html
+aix-la-chapelle-ger-finale-individuelle-2e-manche-steve-guerdat-champion-du-monde-avec-dynamix-de-belheme-29335888.html
 aller-porto-nottingham-1-1-le-resume-de-la-rencontre-29208103.html
 are-swe-slalom-dames-1ere-manche-la-passage-d-eliane-christen-sui-29183248.html
 are-swe-slalom-dames-2e-manche-camille-rast-sui-ne-parvient-pas-a-trouver-sa-forme-aujourd-hui-29183340.html
@@ -71,6 +74,7 @@ athletisme-championnat-de-suisse-mujinga-kambundji-de-retour-a-la-competition-ap
 athletisme-l-arme-secrete-de-leonie-hugli-sui-29307360.html
 athletisme-ligue-de-diamant-l-ecossais-josh-kerr-bat-le-record-du-monde-du-mile-29307358.html
 athletisme-meeting-de-lucerne-la-bernoise-leonie-hugli-ameliore-son-record-de-suisse-au-javelot-29307359.html
+athletissima-relais-4x100m-dames-les-4-vainqueures-au-micro-de-la-rts-29335154.html
 automobilisme-criterium-jurassien-moutier-accueille-le-quartier-general-de-la-47e-edition-29197702.html
 aux-usa-et-en-suisse-les-fans-etaient-heureux-apres-la-qualif-en-quarts-29297823.html
 basketball-thibaut-petit-est-le-nouveau-selectionneur-de-l-equipe-de-suisse-29313914.html
@@ -204,6 +208,7 @@ kitzbuhel-aut-descente-messieurs-marco-odermatt-sui-a-sept-centiemes-seulement-d
 kitzbuhel-aut-slalom-messieurs-2e-manche-loic-meillard-sui-termine-2e-29129434.html
 kitzbuhel-aut-slalom-messieurs-2e-manche-manuel-feller-aut-victorieux-29129436.html
 kitzbuhel-aut-slalom-messieurs-2e-manche-tanguy-nef-sui-termine-7e-29129440.html
+kloten-suisse-finlande-4-3-ap-les-suissesses-s-imposent-en-prolongations-29335151.html
 kranjska-gora-slo-geant-dames-2e-manche-camille-rast-sui-decroche-sa-premiere-victoire-dans-la-discipline-en-coupe-du-monde-29106680.html
 kranjska-gora-slo-slalom-dames-1re-manche-camille-rast-sui-sort-une-manche-de-gala-29107139.html
 kranjska-gora-slo-slalom-dames-1re-manche-eliane-christen-sui-aux-portes-du-top-15-provisoire-29107164.html
@@ -242,6 +247,7 @@ lake-placid-usa-sprint-messieurs-federico-pellegrino-ita-termine-sa-carriere-ave
 le-1er-but-de-lamine-yamal-en-coupe-du-monde-29282233.html
 le-but-de-merino-envoie-l-espagne-en-quart-de-finale-29296376.html
 le-carton-rouge-a-breel-embolo-29301255.html
+le-champion-du-monde-steve-guerdat-a-l-interview-29336079.html
 le-gardien-du-cap-vert-mvp-a-40-ans-29276535.html
 le-mag-entraineures-en-devenir-29115006.html
 le-mag-l-antidopage-dans-le-sang-29237967.html
@@ -279,6 +285,9 @@ les-5-buts-du-match-fou-entre-l-argentine-et-le-cap-vert-29294643.html
 les-deux-buts-argentins-en-prolongations-qui-eliminent-la-nati-29301265.html
 les-fans-argentins-font-du-bruit-a-dallas-29283619.html
 les-fans-de-la-nati-mettent-l-ambiance-a-santa-clara-avant-le-1er-match-de-la-suisse-29273153.html
+les-gets-fra-cross-country-dames-la-championne-d-europe-sina-frei-sui-s-impose-avant-les-mondiaux-29335827.html
+les-gets-fra-cross-country-messieurs-boichis-fra-s-impose-a-domicile-van-der-poel-2e-pour-son-retour-dans-la-discipline-29335875.html
+les-gets-fra-short-track-dames-la-zurichoise-sina-frei-s-impose-en-haute-savoie-29334940.html
 les-larmes-de-cristiano-ronaldo-pour-son-dernier-match-29296378.html
 les-larmes-du-selectionneur-japonais-pendant-l-hymne-national-29274295.html
 les-plus-beaux-buts-des-16es-de-finale-29294648.html
@@ -341,6 +350,8 @@ sabre-dans-le-bide-au-mondial-2006-l-anecdote-de-michel-pont-29291320.html
 schladming-aut-geant-messieurs-2e-manche-alban-elezi-cannaferina-fra-complete-le-podium-29131889.html
 schladming-aut-geant-messieurs-2e-manche-la-magnifique-course-de-loic-meillard-sui-victorieux-29131891.html
 schladming-aut-geant-messieurs-2e-manche-la-performance-de-marco-odermatt-sui-29131862.html
+silesie-pol-100m-dames-jefferson-wooden-usa-la-plus-rapide-en-9-78-29335975.html
+silesie-pol-100m-messieurs-oblique-seville-jam-s-impose-en-9-83-29335954.html
 ski-alpin-a-la-rencontre-de-camille-rast-sui-qui-revient-sur-le-week-end-de-kranjska-gora-29114999.html
 ski-alpin-hommage-a-la-legende-du-ski-suisse-roland-collombin-qui-s-en-est-alle-29301456.html
 ski-alpin-kranjska-gora-slo-un-double-geant-slalom-pour-camille-rast-sui-29107472.html
@@ -358,6 +369,7 @@ spindleruv-mlyn-cze-slalom-dames-2e-manche-mikaela-shiffrin-usa-decroche-son-9e-
 spindleruv-mlyn-cze-slalom-dames-2e-manche-une-belle-2e-place-pour-camille-rast-sui-29129363.html
 spindleruv-mlyn-cze-slalom-dames-2e-manche-wendy-holdener-sui-termine-5e-29129367.html
 sport-dimanche-16-08-2026-29326153.html
+sport-dimanche-23-08-2026-29331977.html
 sport-dimanche-26-07-2026-29309554.html
 sport-dimanche-en-direct-avec-rattrapage-29124838.html
 stan-wawrinka-se-confie-avant-son-dernier-open-d-australie-29120260.html
@@ -367,6 +379,7 @@ suisse-argentine-vu-par-nos-commentateurs-29301847.html
 suisse-canada-la-reaction-de-nos-commentateurs-29286430.html
 suisse-malte-6-1-l-equipe-de-suisse-met-malte-en-echec-29265155.html
 suisse-malte-6-1-la-reaction-d-aurelie-csillag-buteuse-29265163.html
+suisse-tchequie-1-2-le-resume-du-match-29335450.html
 tarvisio-ita-descente-dames-le-passage-de-corinne-suter-sui-29121217.html
 tarvisio-ita-descente-dames-nicol-delago-ita-tient-sa-premiere-victoire-en-coupe-du-monde-29121235.html
 tarvisio-ita-super-g-dames-emma-aicher-ger-decoree-d-or-29121797.html

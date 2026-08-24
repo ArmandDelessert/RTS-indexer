@@ -1,4 +1,5 @@
 5-a-6-des-jeunes-25001821.html
+a-bon-entendeur-25000527.html
 a-livre-ouvert-25005999.html
 a-temoin-25004419.html
 a-vos-lettres-25007787.html
@@ -115,6 +116,7 @@ dimanche-en-liberte-25005875.html
 dimanche-soir-25001198.html
 dimanche-sport-25004192.html
 dimensions-25000392.html
+diner-a-la-ferme-25007875.html
 divers-25002246.html
 dodu-dodo-25006981.html
 dolce-vita-25006224.html
@@ -210,10 +212,12 @@ journal-des-sports-25007697.html
 journal-du-soir-25002222.html
 journal-romand-25001061.html
 kiosque-a-musique-25002405.html
+l-actu-en-video-25000110.html
 l-antenne-est-a-vous-25002855.html
 l-heritage-de-l-homme-25000997.html
 l-homme-a-la-recherche-de-son-passe-25000997.html
 l-homme-a-la-recherche-de-son-passe-25003996.html
+la-boite-a-musiques-25006715.html
 la-boite-a-surprise-25007372.html
 la-grande-roue-25005036.html
 la-librairie-francophone-25000821.html
@@ -234,6 +238,7 @@ le-grand-chambardement-25005737.html
 le-journal-25001153.html
 le-journal-de-la-coupe-du-monde-25007545.html
 le-journal-de-la-coupe-du-monde-de-football-25007545.html
+le-journal-du-dimanche-25003260.html
 le-magazine-25002130.html
 le-reve-de-vos-20-ans-25005846.html
 le-telejournal-25001058.html
@@ -400,6 +405,7 @@ tartine-25005464.html
 taxibulle-25005330.html
 tchizz-25003486.html
 telactualite-25004730.html
+telefilm-25000112.html
 telescope-25002370.html
 tell-quel-25000875.html
 temoignages-25005688.html
