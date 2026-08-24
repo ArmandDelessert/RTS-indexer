@@ -157,6 +157,7 @@ _TEMPLATE = """<!doctype html>
   }
   li:hover { background: var(--hover); }
   li.dead { background: var(--dead-bg); }
+  li.selected { outline: 2px solid var(--accent); outline-offset: -2px; background: var(--hover); }
   .ico { color: var(--muted); flex: none; width: 1.1rem; text-align: center; }
   .name { flex: 1; }
   .name a { color: var(--accent); text-decoration: none; cursor: pointer; }
@@ -188,7 +189,7 @@ _TEMPLATE = """<!doctype html>
   <div id="browse">
     <div class="crumbs" id="crumbs"></div>
     <div class="resume" id="resume"></div>
-    <ul id="listing"></ul>
+    <ul id="listing" role="listbox"></ul>
   </div>
   <div id="stats" hidden></div>
 </main>
@@ -205,6 +206,14 @@ _TEMPLATE = """<!doctype html>
 
   var listing = document.getElementById("listing");
   var crumbs = document.getElementById("crumbs");
+
+  // -- navigation au clavier ------------------------------------------------
+  // rows : les lignes du dossier courant, dans l'ordre d'affichage, pour que
+  // les flèches et la recherche incrémentale puissent s'y déplacer.
+  var rows = [];
+  var selectedIndex = -1;
+  var pendingReselect = null;
+  var typeahead = { buffer: "", timer: null };
 
   function nodeAt(segments) {
     var node = tree;
@@ -294,38 +303,90 @@ _TEMPLATE = """<!doctype html>
 
   function renderListing() {
     listing.textContent = "";
+    rows = [];
+    selectedIndex = -1;
     var node = nodeAt(path);
     renderResume(node);
     if (!node) { listing.appendChild(el("li", "empty", "Dossier introuvable.")); return; }
 
+    function addRow(li, label) {
+      li.setAttribute("role", "option");
+      listing.appendChild(li);
+      rows.push({ li: li, label: label });
+    }
+
     // La page du dossier lui-même, quand elle existe, en tête de liste.
     if (node[P] !== undefined) {
-      listing.appendChild(row("@", "(cette rubrique)", {
+      addRow(row("@", "(cette rubrique)", {
         href: urlFor(path), dead: node[P] === 1
-      }));
+      }), "(cette rubrique)");
     }
 
     var dirs = node[D] || {};
     Object.keys(dirs).sort().forEach(function (name) {
-      listing.appendChild(row("/", name + "/", {
+      addRow(row("/", name + "/", {
         onclick: (function (n) { return function () { go(path.concat([n])); }; })(name),
         count: dirs[name][N]
-      }));
+      }), name);
     });
 
     (node[F] || []).forEach(function (entry) {
-      listing.appendChild(row("\\u00b7", entry[0], {
+      addRow(row("\\u00b7", entry[0], {
         href: urlFor(path, entry[0]), dead: entry[1] === 1
-      }));
+      }), entry[0]);
     });
 
-    if (!listing.children.length) {
+    if (!rows.length) {
       listing.appendChild(el("li", "empty", "Dossier vide."));
+    } else {
+      var start = 0;
+      if (pendingReselect !== null) {
+        var found = indexOfLabel(pendingReselect);
+        if (found >= 0) start = found;
+      }
+      select(start);
     }
+    pendingReselect = null;
   }
 
-  function go(segments) {
+  function indexOfLabel(label) {
+    for (var i = 0; i < rows.length; i++) {
+      if (rows[i].label === label) return i;
+    }
+    return -1;
+  }
+
+  function select(index) {
+    if (!rows.length) { selectedIndex = -1; return; }
+    index = Math.max(0, Math.min(index, rows.length - 1));
+    if (selectedIndex >= 0 && rows[selectedIndex]) {
+      rows[selectedIndex].li.classList.remove("selected");
+      rows[selectedIndex].li.removeAttribute("aria-selected");
+    }
+    selectedIndex = index;
+    var entry = rows[selectedIndex];
+    entry.li.classList.add("selected");
+    entry.li.setAttribute("aria-selected", "true");
+    entry.li.scrollIntoView({ block: "nearest" });
+  }
+
+  // Ouvre la ligne sélectionnée en rejouant le clic de son lien : évite de
+  // dupliquer la logique (dossier -> go(), fichier -> nouvel onglet) déjà
+  // portée par row().
+  function activateSelected() {
+    if (selectedIndex < 0) return;
+    var link = rows[selectedIndex].li.querySelector("a");
+    if (link) link.click();
+  }
+
+  function goBack() {
+    if (!path.length) return;
+    go(path.slice(0, -1), path[path.length - 1]);
+  }
+
+  function go(segments, reselect) {
     path = segments;
+    pendingReselect = reselect !== undefined ? reselect : null;
     location.hash = segments.length ? "#/" + segments.join("/") : "";
     renderCrumbs();
     renderListing();
@@ -406,6 +467,42 @@ _TEMPLATE = """<!doctype html>
   tabBrowse.onclick = function () { show("browse"); };
   tabStats.onclick = function () { show("stats"); };
   window.onhashchange = function () { go(fromHash()); };
+
+  // Flèches pour se déplacer, Entrée pour ouvrir, Retour arrière pour
+  // remonter, et une recherche incrémentale façon Explorateur Windows : taper
+  // une lettre saute au prochain élément qui commence par elle ; répéter la
+  // même lettre fait défiler ces éléments-là plutôt que de chercher "ii",
+  // "iii"... — enchaîner des lettres différentes allonge le préfixe recherché.
+  document.addEventListener("keydown", function (e) {
+    if (e.ctrlKey || e.metaKey || e.altKey) return;
+    var tag = (e.target && e.target.tagName) || "";
+    if (tag === "INPUT" || tag === "TEXTAREA" || (e.target && e.target.isContentEditable)) return;
+    if (document.getElementById("stats").hidden === false) return;  // onglet stats actif
+
+    if (e.key === "ArrowDown") { e.preventDefault(); select(selectedIndex + 1); return; }
+    if (e.key === "ArrowUp") { e.preventDefault(); select(selectedIndex - 1); return; }
+    if (e.key === "Enter") { e.preventDefault(); activateSelected(); return; }
+    if (e.key === "Backspace") { e.preventDefault(); goBack(); return; }
+
+    if (e.key.length === 1 && /[\\p{L}\\p{N}]/u.test(e.key)) {
+      var ch = e.key.toLowerCase();
+      clearTimeout(typeahead.timer);
+      var repeteLaMemeLettre = typeahead.buffer.length > 0 &&
+        typeahead.buffer.split("").every(function (c) { return c === ch; });
+      if (!repeteLaMemeLettre) typeahead.buffer += ch;
+      typeahead.timer = setTimeout(function () { typeahead.buffer = ""; }, 900);
+
+      var needle = typeahead.buffer;
+      var start = selectedIndex >= 0 ? selectedIndex + 1 : 0;
+      for (var i = 0; i < rows.length; i++) {
+        var idx = (start + i) % rows.length;
+        if (rows[idx].label.toLowerCase().indexOf(needle) === 0) {
+          select(idx);
+          break;
+        }
+      }
+    }
+  });
 
   document.getElementById("footer").textContent =
     fmt(payload.stats.urls) + " URLs \\u00b7 g\\u00e9n\\u00e9r\\u00e9 le " + payload.generated_at;
