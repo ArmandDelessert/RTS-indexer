@@ -468,11 +468,26 @@ _TEMPLATE = """<!doctype html>
   tabStats.onclick = function () { show("stats"); };
   window.onhashchange = function () { go(fromHash()); };
 
-  // Flèches pour se déplacer, Entrée pour ouvrir, Retour arrière pour
-  // remonter, et une recherche incrémentale façon Explorateur Windows : taper
-  // une lettre saute au prochain élément qui commence par elle ; répéter la
-  // même lettre fait défiler ces éléments-là plutôt que de chercher "ii",
-  // "iii"... — enchaîner des lettres différentes allonge le préfixe recherché.
+  // Cherche, à partir de `start` et en bouclant sur la liste, le premier
+  // élément dont le nom commence par `needle`. -1 si aucun.
+  function chercherPrefixe(needle, start) {
+    for (var i = 0; i < rows.length; i++) {
+      var idx = (start + i) % rows.length;
+      if (rows[idx].label.toLowerCase().indexOf(needle) === 0) return idx;
+    }
+    return -1;
+  }
+
+  // Flèches pour se déplacer, Origine/Fin pour les extrémités, Entrée pour
+  // ouvrir, Retour arrière pour remonter, et une recherche incrémentale
+  // façon Explorateur Windows : taper des lettres allonge le texte recherché
+  // et saute au prochain élément qui commence par ce texte complet. Si rien
+  // n'y correspond *et* que toutes les lettres tapées jusqu'ici sont
+  // identiques (ex. répéter "1" pour atteindre "110" sans qu'aucun élément
+  // ne commence par "11"), on bascule sur un simple défilement des éléments
+  // commençant par cette seule lettre — sans quoi répéter une lettre pour
+  // "faire défiler" resterait bloqué dès que deux répétitions ne
+  // correspondent à rien.
   document.addEventListener("keydown", function (e) {
     if (e.ctrlKey || e.metaKey || e.altKey) return;
     var tag = (e.target && e.target.tagName) || "";
@@ -481,26 +496,25 @@ _TEMPLATE = """<!doctype html>
 
     if (e.key === "ArrowDown") { e.preventDefault(); select(selectedIndex + 1); return; }
     if (e.key === "ArrowUp") { e.preventDefault(); select(selectedIndex - 1); return; }
+    if (e.key === "Home") { e.preventDefault(); select(0); return; }
+    if (e.key === "End") { e.preventDefault(); select(rows.length - 1); return; }
     if (e.key === "Enter") { e.preventDefault(); activateSelected(); return; }
     if (e.key === "Backspace") { e.preventDefault(); goBack(); return; }
 
     if (e.key.length === 1 && /[\\p{L}\\p{N}]/u.test(e.key)) {
       var ch = e.key.toLowerCase();
       clearTimeout(typeahead.timer);
-      var repeteLaMemeLettre = typeahead.buffer.length > 0 &&
-        typeahead.buffer.split("").every(function (c) { return c === ch; });
-      if (!repeteLaMemeLettre) typeahead.buffer += ch;
+      typeahead.buffer += ch;
       typeahead.timer = setTimeout(function () { typeahead.buffer = ""; }, 900);
 
-      var needle = typeahead.buffer;
       var start = selectedIndex >= 0 ? selectedIndex + 1 : 0;
-      for (var i = 0; i < rows.length; i++) {
-        var idx = (start + i) % rows.length;
-        if (rows[idx].label.toLowerCase().indexOf(needle) === 0) {
-          select(idx);
-          break;
-        }
+      var trouve = chercherPrefixe(typeahead.buffer, start);
+
+      var repeteLaMemeLettre = typeahead.buffer.split("").every(function (c) { return c === ch; });
+      if (trouve < 0 && repeteLaMemeLettre) {
+        trouve = chercherPrefixe(ch, start);
       }
+      if (trouve >= 0) select(trouve);
     }
   });
 
