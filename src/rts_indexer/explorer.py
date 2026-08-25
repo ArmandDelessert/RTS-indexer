@@ -481,13 +481,19 @@ _TEMPLATE = """<!doctype html>
   // Flèches pour se déplacer, Origine/Fin pour les extrémités, Entrée pour
   // ouvrir, Retour arrière pour remonter, et une recherche incrémentale
   // façon Explorateur Windows : taper des lettres allonge le texte recherché
-  // et saute au prochain élément qui commence par ce texte complet. Si rien
-  // n'y correspond *et* que toutes les lettres tapées jusqu'ici sont
-  // identiques (ex. répéter "1" pour atteindre "110" sans qu'aucun élément
-  // ne commence par "11"), on bascule sur un simple défilement des éléments
-  // commençant par cette seule lettre — sans quoi répéter une lettre pour
-  // "faire défiler" resterait bloqué dès que deux répétitions ne
-  // correspondent à rien.
+  // et saute au prochain élément qui commence par ce texte complet.
+  //
+  // Deux cas bien distincts, comme dans l'Explorateur :
+  // - Lettres différentes qui prolongent une correspondance déjà valide
+  //   (ex. "c", "o", "u"... pour "couleur3") : on reste sur l'élément
+  //   courant tant qu'il correspond encore au texte allongé, on ne saute au
+  //   suivant que s'il cesse de correspondre.
+  // - Une même lettre répétée (y compris sa toute première frappe) : on
+  //   avance toujours au prochain élément, jamais on ne reste sur l'actuel —
+  //   c'est ce qui permet de faire défiler "couleur1", "couleur2"... en
+  //   martelant "c". Si le texte complet répété ("11") ne correspond à rien
+  //   (ex. aucun élément ne commence par "11"), on bascule sur un défilement
+  //   simple limité à cette seule lettre, pour ne pas rester bloqué.
   document.addEventListener("keydown", function (e) {
     if (e.ctrlKey || e.metaKey || e.altKey) return;
     var tag = (e.target && e.target.tagName) || "";
@@ -507,12 +513,15 @@ _TEMPLATE = """<!doctype html>
       typeahead.buffer += ch;
       typeahead.timer = setTimeout(function () { typeahead.buffer = ""; }, 900);
 
-      var start = selectedIndex >= 0 ? selectedIndex + 1 : 0;
-      var trouve = chercherPrefixe(typeahead.buffer, start);
-
+      var courant = selectedIndex >= 0 ? selectedIndex : 0;
       var repeteLaMemeLettre = typeahead.buffer.split("").every(function (c) { return c === ch; });
+      // Lettre répétée : on exclut l'élément courant pour forcer l'avance.
+      // Lettres distinctes : on l'inclut, pour y rester tant qu'il correspond.
+      var depart = repeteLaMemeLettre ? courant + 1 : courant;
+      var trouve = chercherPrefixe(typeahead.buffer, depart);
+
       if (trouve < 0 && repeteLaMemeLettre) {
-        trouve = chercherPrefixe(ch, start);
+        trouve = chercherPrefixe(ch, courant + 1);
       }
       if (trouve >= 0) select(trouve);
     }
