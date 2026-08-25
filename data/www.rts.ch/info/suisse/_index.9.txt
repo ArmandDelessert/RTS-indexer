@@ -1451,7 +1451,7 @@
 9772839-les-communes-suisses-devraient-avoir-davantage-de-pouvoir.html
 9774007-la-suisse-fait-face-a-une-penurie-de-certains-medicaments.html
 9774484-lopposition-entre-en-campagne-contre-les-deux-initiatives-agricoles.html
-9775036--la-suisse-parle-causer-politique-avec-un-voisin-qui-ne-pense-pas-comme-vous.html
+!9775036--la-suisse-parle-causer-politique-avec-un-voisin-qui-ne-pense-pas-comme-vous.html
 9776331-la-tva-sur-les-achats-par-correspondance-de-letranger-des-2019.html
 9776368-albert-rosti-ne-parvient-pas-a-rallier-les-autres-partis-sur-laccordcadre.html
 9776514-le-siege-de-la-poste-perquisitionne-en-lien-avec-laffaire-carpostal.html
@@ -1508,7 +1508,7 @@
 9798151-les-verts-rejettent-a-lunanimite-linitiative-udc-sur-les-juges-etrangers.html
 9798165-les-vert-liberaux-divises-sur-l-initiative-pour-des-aliments-equitables.html
 9798263-le-pbd-rejette-nettement-l-initiative-pour-l-autodetermination.html
-979844-.html
+!979844-.html
 9799307-ne-pas-trop-travailler-et-etre-fidele-priorites-des-jeunes-selon-une-etude.html
 9800398-les-pirates-de-ruag-sont-toujours-inconnus-la-procedure-penale-s-arrete.html
 9800871-la-confederation-edicte-un-code-de-conduite-contre-les-cyberattaques.html

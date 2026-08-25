@@ -367,7 +367,7 @@
 11914200-le-tribunal-federal-juge-irrecevables-les-recours-contre-la-ligne-tht-chamosonchippis.html
 11914643-a-cransmontana-le-secteur-du-tourisme-se-dechire-a-nouveau.html
 11918474-la-gouvernance-du-departement-de-jacques-melly-pointee-du-doigt-par-un-rapport.html
-11918475.html
+!11918475.html
 11919773-un-code-de-bonne-conduite-pour-les-campagnes-politiques-lance-en-valais.html
 11923085-il-y-a-75-ans-un-seisme-meurtrier-marquait-durablement-le-valais.html
 11923175-en-valais-les-elections-attisent-la-convoitise.html
@@ -393,8 +393,8 @@
 12005924-nouvelles-mesures-pour-preserver-la-vache-dherens-en-valais.html
 12008946-le-valais-pionnier-dans-le-soutien-des-personnes-atteintes-de-maladies-rares.html
 12014479-le-valais-ouvrira-une-filiere-ecole-superieure-en-soins-infirmiers-a-monthey.html
-12026184.html
-12026310.html
+!12026184.html
+!12026310.html
 12028423-ballottage-general-dans-la-course-au-conseil-detat-valaisan.html
 12030776-possibles-fraudes-electorales-a-brigue-lors-des-elections-valaisannes.html
 12031145-les-ecologistes-se-retirent-de-la-course-au-conseil-detat-valaisan-christophe-darbellay-reelu.html
@@ -519,7 +519,7 @@
 12592705-plus-de-8-tonnes-de-raisin-ont-ete-volees-en-valais-selon-la-police.html
 12593473-le-valais-reagit-a-son-tour-au-recul-des-adhesions-dans-les-clubs-sportifs.html
 12596214-linitiative-sur-les-grands-predateurs-inutile-et-absurde-pour-ses-opposants.html
-12597380.html
+!12597380.html
 12597418-un-atelier-pour-lutter-contre-le-harcelement-de-rue-a-sion.html
 12597747-premiere-etape-vers-une-nouvelle-patinoire-de-7000-places-a-sierre.html
 12602684-ludc-du-valais-romand-maintient-sa-confiance-en-son-president-complotiste.html
@@ -2263,7 +2263,7 @@
 9376287-des-zones-dombre-autour-du-budget-des-infrastructures-pour-sion-2026.html
 9377861-premier-bilan-porteur-d-espoir-pour-un-projet-pilote-de-reinsertion-valaisan.html
 9378874-le-corps-dun-deuxieme-randonneur-retrouve-apres-lavalanche-a-la-fouly.html
-9379775-un-suspect-arrete-apres-la-mort-d-une-femme-de-39-ans-a-brigue.html
+!9379775-un-suspect-arrete-apres-la-mort-d-une-femme-de-39-ans-a-brigue.html
 9382045-la-constitution-valaisanne-sera-revisee-par-une-constituante.html
 9384324-le-parlement-valaisan-soutient-la-candidature-de-sion-2026.html
 9384632-coup-darret-federal-a-un-projet-immobilier-aux-bains-de-saillon.html

@@ -1,5 +1,5 @@
 7000325-le-proces-suisse-dherve-falciani-agende-mioctobre-a-bellinzone.html
-7000326-la-moitie-des-clandestins-recenses-en-suisse-en-2015-sont-au-tessin.html
+!7000326-la-moitie-des-clandestins-recenses-en-suisse-en-2015-sont-au-tessin.html
 7000581-de-forts-orages-sement-la-pagaille-en-suisse-romande.html
 7001423-quelles-solutions-pour-lavenir-des-producteurs-de-lait-en-suisse.html
 7001466-didier-burkhalter-le-premier-conseiller-federal-a-cuba.html
@@ -251,7 +251,7 @@
 7120110-succes-pour-la-15e-semaine-du-gout.html
 7120303-les-18-slowup-ont-attire-455-000-cyclistes-patineurs-ou-marcheurs.html
 7122739-une-alliance-contre-l-etat-fouineur-combat-la-loi-sur-le-renseignement.html
-7122743-le-dossier-sur-la-loi-sur-le-renseignement.html
+!7122743-le-dossier-sur-la-loi-sur-le-renseignement.html
 7122786-une-vingtaine-darrestations-lors-de-lexercice-conex-15-a-la-frontiere.html
 7122835-plus-de-128000-vehicules-suisses-touches-par-le-scandale-volkswagen.html
 7123178-plus-de-400000-certificats-de-salaire-transmis-automatiquement-au-fisc.html
@@ -398,7 +398,7 @@
 7203547-les-exportations-de-materiel-de-guerre-ont-diminue-depuis-janvier.html
 7203558-des-associations-demandent-que-la-suisse-suspende-les-renvois-dublin.html
 7203599-doris-leuthard-lance-la-campagne-pour-le-2e-tube-routier-du-gothard.html
-7204059-les-partis-reagissent-au-depart-develine-widmerschlumpf.html
+!7204059-les-partis-reagissent-au-depart-develine-widmerschlumpf.html
 7204933-jacqueline-fehr-va-quitter-la-vice-presidence-du-parti-socialiste.html
 7206150-partira-partira-pas-widmerschlumpf-devrait-se-prononcer-cette-semaine.html
 7207156-taux-d-interet-minimal-abaisse-a-1-25-pour-le-deuxieme-pilier-en-2016.html
@@ -561,7 +561,7 @@
 7294623-je-porterai-la-position-du-conseil-federal-affirme-guy-parmelin.html
 7295428--l-accueil-des-refugies-en-suisse-commence-a-atteindre-ses-limites-.html
 7296061-le-salaire-median-a-atteint-6189-francs-lannee-derniere-en-suisse.html
-7296117-apres-leur-rentree-les-parlementaires-des-deux-chambres-empoignent-leurs-dossiers.html
+!7296117-apres-leur-rentree-les-parlementaires-des-deux-chambres-empoignent-leurs-dossiers.html
 7296804-la-liaison-directe-entre-bale-et-larc-lemanique-sera-retablie-en-2021.html
 7296830-un-centre-federal-pour-requerants-d-asile-a-la-place-d-armes-de-thoune.html
 7297065-gaz-a-effet-de-serre-et-rechauffement-ou-en-est-la-suisse.html
@@ -570,7 +570,7 @@
 7298863-jeanfrancois-rime-je-soutiendrai-la-candidature-de-guy-parmelin.html
 7299198-le-conseil-national-enterre-linitiative-pour-une-economie-verte.html
 7299242-les-auteurs-de-disparitions-forcees-devraient-etre-punis-en-suisse.html
-7299244-le-parlement-veut-forcer-la-confederation-a-economiser-15-milliard-par-an.html
+!7299244-le-parlement-veut-forcer-la-confederation-a-economiser-15-milliard-par-an.html
 7299283-le-budget-federal-2016-obtient-facilement-laval-du-conseil-des-etats.html
 7299681-des-2020-la-suisse-pourra-assurer-sa-police-du-ciel-24-heures-sur-24.html
 7300252-le-metier-d-enseignant-est-devenu-une-profession-feminine-selon-le-tf.html
@@ -593,7 +593,7 @@
 7306815-pres-de-6000-demandes-d-asile-deposees-en-suisse-en-novembre.html
 7306878-les-eveques-suisses-creent-un-fonds-pour-les-victimes-dabus-sexuels.html
 7307369-de-nouveaux-allegements-douaniers-decides-entre-lue-et-la-suisse.html
-7307621-guy-parmelin-elu-au-conseil-federal-toute-lelection-dans-le-detail.html
+!7307621-guy-parmelin-elu-au-conseil-federal-toute-lelection-dans-le-detail.html
 7308793-quand-les-regies-facturent-les-demandes-de-baisse-de-loyer.html
 7308950-le-programme-deconomies-de-la-confederation-inquiete-les-epf.html
 7308971-un-irakien-proche-de-lei-precherait-dans-des-mosquees-alemaniques.html
@@ -695,7 +695,7 @@
 7358090-une-clause-de-sauvegarde-que-la-suisse-peut-activer-seule-est-exclue.html
 7358434-le-pont-maritime-russe-vers-la-syrie-finance-depuis-la-suisse.html
 7358562-des-usagers-du-rail-exasperes-par-les-correspondances-ratees.html
-7358606-simonetta-sommaruga-a-bruxelles.html
+!7358606-simonetta-sommaruga-a-bruxelles.html
 7359942-la-laicite-cest-un-espace-ou-toutes-les-differences-peuvent-sexprimer.html
 7360238-le-gouvernement-contre-ludc-sur-le-renvoi-effectif-des-criminels-etrangers.html
 7360254-pour-le-tribunal-federal-lautorite-parentale-conjointe-doit-rester-la-regle.html
@@ -795,7 +795,7 @@
 7405120-la-fondation-pro-helvetia-va-finalement-ouvrir-un-bureau-a-moscou.html
 7405645-berne-en-campagne-contre-l-initiative-sur-la-speculation-alimentaire.html
 7405729-les-opposants-a-un-second-tube-au-gothard-denoncent-une-escroquerie.html
-7407484-le-pont-maritime-russe-vers-la-syrie-finance-depuis-la-suisse.html
+!7407484-le-pont-maritime-russe-vers-la-syrie-finance-depuis-la-suisse.html
 7407550-toujours-pas-daccord-en-suisse-entre-les-proprietaires-de-vw-et-amag.html
 7410300-un-manifeste-des-profs-de-droit-contre-linitiative-de-mise-en-oeuvre-de-ludc.html
 7410332-premiere-seance-du-conseil-federal-pour-guy-parmelin.html
@@ -844,7 +844,7 @@
 7431482-une-presentatrice-vedette-de-fox-news-salue-la-mediation-suisse-en-iran.html
 7431575-tu-viens-chez-nous-tu-te-comportes-bien-sinon-tu-pars-cest-simple.html
 7431852-linitiative-pdc-contre-la-penalisation-du-mariage-seduit-les-suisses.html
-7432177-le-suivi-du-forum-economique-mondial-de-davos.html
+!7432177-le-suivi-du-forum-economique-mondial-de-davos.html
 7432238-les-risques-sanitaires-avances-par-des-opposants-au-2e-tube-au-gothard.html
 7432243-le-tube-ouest-du-tunnel-de-base-du-ceneri-est-perce.html
 7433006-simonetta-sommaruga-veut-faciliter-l-embauche-des-refugies-en-suisse.html
@@ -868,7 +868,7 @@
 7437656-pour-toni-brunner-un-non-le-28-fevrier-encouragerait-les-criminels.html
 7438001-francois-hollande-va-defendre-les-bilaterales-avec-la-suisse-a-bruxelles.html
 7438021-manifestation-a-baden-contre-les-restructurations-chez-general-electric.html
-7438323-le-chantier-est-a-l-arret.html
+!7438323-le-chantier-est-a-l-arret.html
 7439187-lepfl-prevoit-de-doubler-ses-frais-detudes-des-lannee-prochaine.html
 7439915-berne-a-debloque-12-millions-de-francs-d-avoirs-iraniens-geles.html
 7441423-plus-de-200-personnalites-suisses-contre-l-initiative-de-l-udc-sur-les-renvois.html
@@ -1130,7 +1130,7 @@
 7564163-tupi-rom-a-lausanne-je-deteste-faire-la-manche.html
 7564242-pacs-adoption-impots-ces-reformes-qui-moderniseraient-la-famille-suisse.html
 7564274-le-conseil-federal-rit-regulierement-et-beaucoup-selon-son-porteparole.html
-7564366-tupi-rom-a-lausanne-je-deteste-faire-la-manche.html
+!7564366-tupi-rom-a-lausanne-je-deteste-faire-la-manche.html
 7564552-ils-ont-defendu-un-tueur-ils-racontent.html
 7564805-la-suisse-prete-a-repartir-dans-laventure-des-jo-en-2026.html
 7565835-une-panne-empeche-les-clients-de-postfinance-de-payer-leurs-courses.html
@@ -1579,10 +1579,10 @@
 7764429-sur-les-acces-au-gothard-litalie-fait-assez-bien-lallemagne-est-en-retard.html
 7764469-le-conseil-des-etats-veut-aider-les-grandes-centrales-hydrauliques.html
 7764472-la-suisse-bientot-une-ile-en-europe-sans-paquet-de-cigarettes-neutre.html
-7764667-la-suisse-et-leurope-se-retrouvent-au-gothard-retour-sur-une-journee-historique.html
+!7764667-la-suisse-et-leurope-se-retrouvent-au-gothard-retour-sur-une-journee-historique.html
 7764690-laide-publique-au-developpement-de-la-suisse-passee-au-peigne-fin.html
 7764806-les-defenseurs-des-animaux-veulent-interdire-l-importation-de-foie-gras.html
-7765207-le-premier-tunnel-du-gothard.html
+!7765207-le-premier-tunnel-du-gothard.html
 7765227-lesclavage-moderne-realite-pour-plus-dun-millier-de-personnes-en-suisse.html
 7766515-un-suisse-a-ete-arrete-au-kenya-pour-pedopornographie.html
 7767157-la-suisse-inaugure-le-plus-long-tunnel-ferroviaire-au-monde.html
@@ -1594,7 +1594,7 @@
 7769701-les-mineurs-decus-de-ne-pas-avoir-ete-invites-a-la-fete-pour-le-gothard.html
 7770800-le-gothard-un-exploit-mais-aussi-un-lien-avec-leurope-pour-la-presse.html
 7771457-les-auteurs-des-crimes-graves-nauront-pas-le-droit-a-loubli.html
-7771761-le-suivi-au-jour-le-jour-de-la-session-dete-du-parlement-federal.html
+!7771761-le-suivi-au-jour-le-jour-de-la-session-dete-du-parlement-federal.html
 7771804-feu-vert-conditionnel-des-etats-a-la-libre-circulation-avec-la-croatie.html
 7772553-recep-tayyip-erdogan-veut-creer-une-dictature-constitutionnelle-en-turquie.html
 7772678-des-ong-suisses-presentent-un-plan-d-action-en-faveur-du-climat.html
@@ -1613,7 +1613,7 @@
 7776955-la-nouvelle-presidente-du-plr-prone-une-politique-migratoire-plus-ferme.html
 7777036-la-fete-populaire-dinauguration-du-gothard-a-attire-30000-visiteurs.html
 7778658-pas-d-offres-de-rachats-satisfaisantes-pour-les-barrages-d-alpiq.html
-7778789-les-trois-initiatives-rejetees-oui-aux-deux-autres-objets.html
+!7778789-les-trois-initiatives-rejetees-oui-aux-deux-autres-objets.html
 7779483-le-travail-en-suisse-un-sanctuaire-qui-resiste-a-tous-les-assauts.html
 7779800-les-suisses-refusent-nettement-le-revenu-de-base-inconditionnel.html
 7779802-lacceleration-des-procedures-dasile-largement-soutenue-par-le-peuple.html
@@ -1672,10 +1672,10 @@
 7799907-le-credit-de-13-milliards-pour-l-entretien-du-reseau-est-necessaire.html
 7799924-chiasso-et-brigue-principales-portes-d-entree-des-refugies-en-suisse.html
 7800285-le-parti-socialiste-veut-une-nouvelle-approche-en-matiere-dasile.html
-7800409-la-naturalisation-des-immigres-de-la-3e-generation-sera-plus-facile.html
+!7800409-la-naturalisation-des-immigres-de-la-3e-generation-sera-plus-facile.html
 7800818-veillee-funebre-a-zurich-en-hommage-aux-victimes-de-la-tuerie-dorlando.html
 7802161-le-peuple-devrait-voter-sur-la-reforme-de-limposition-des-entreprises.html
-7802326-le-conseil-des-etats-ne-souhaite-pas-restreindre-la-publicite-pour-le-tabac.html
+!7802326-le-conseil-des-etats-ne-souhaite-pas-restreindre-la-publicite-pour-le-tabac.html
 7802411-lutter-contre-le-mitage-du-territoire-passe-par-la-coordination-regionale.html
 7802781-la-decheance-automatique-de-la-nationalite-passe-a-la-trappe.html
 7803003-les-ecoles-ne-font-pas-assez-de-prevention-en-matiere-de-racisme.html
@@ -1691,7 +1691,7 @@
 7810646-alqaida-diffuse-une-video-dune-otage-suisse-enlevee-au-mali.html
 7811011-les-fortes-pluies-ont-cause-moins-de-degats-que-prevu-en-suisse-orientale.html
 7811064-apres-les-etats-le-national-refuse-dinterdire-formellement-la-gifle.html
-7811169-dixsept-objets-acceptes-par-les-chambres-en-votations-finales.html
+!7811169-dixsept-objets-acceptes-par-les-chambres-en-votations-finales.html
 7811317-tour-de-vis-pour-les-candidats-a-la-naturalisation-des-2018.html
 7811358-deux-personnes-ont-quitte-la-suisse-pour-des-motifs-djihadistes-en-un-mois.html
 7811400-le-conseil-federal-renonce-a-augmenter-le-prix-des-cigarettes.html
@@ -1825,7 +1825,7 @@
 7866145-les-conseillers-federaux-en-course-decole-dans-loberland-bernois.html
 7866600-santesuisse-prevoit-une-hausse-de-4-a-5-des-primes-maladie-pour-2017.html
 7866604-integrer-les-requerants-d-asile-par-le-travail-un-modele-suisse.html
-7866617-integrer-les-requerants-dasile-par-le-travail-un-modele-suisse.html
+!7866617-integrer-les-requerants-dasile-par-le-travail-un-modele-suisse.html
 7866689-le-peuple-suisse-votera-sur-la-sortie-du-nucleaire-le-27-novembre.html
 7866813-les-consultations-pour-morsures-de-tiques-sont-en-augmentation.html
 7866961-une-association-denonce-la-disneylandisation-des-alpes-suisses.html
@@ -2023,7 +2023,7 @@
 7952498-le-nombre-des-demandes-dasile-en-suisse-revu-a-la-baisse-pour-2016.html
 7952501-une-commission-prone-une-hausse-de-lage-de-la-retraite-a-67-ans.html
 7952824-ces-villages-qui-refusent-les-demandeurs-dasile.html
-7952851-ces-villages-qui-refusent-les-demandeurs-dasile.html
+!7952851-ces-villages-qui-refusent-les-demandeurs-dasile.html
 7953280-yves-rossier-quitte-les-affaires-etrangeres-pour-devenir-ambassadeur.html
 7954338-le-pdc-gerhard-pfister-souhaite-que-l-ue-redevienne-democrate-chretienne.html
 7954428-naviguer-en-suisse-avec-des-gilets-de-sauvetage-obsoletes-peut-couter-cher.html

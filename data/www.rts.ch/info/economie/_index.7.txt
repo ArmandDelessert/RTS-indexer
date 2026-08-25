@@ -333,7 +333,7 @@
 7422366-les-mesures-de-securite-a-davos.html
 7422396-renault-promet-de-reduire-les-emissions-polluantes-de-ses-vehicules.html
 7422430-les-entreprises-suisses-bien-placees-pour-faire-des-affaires-avec-liran.html
-7424821-six-conseillers-federaux-sur-sept-attendus-au-forum-de-davos.html
+!7424821-six-conseillers-federaux-sur-sept-attendus-au-forum-de-davos.html
 7424901-nestle-s-associe-a-alibaba-pour-sa-distribution-en-chine.html
 7429192-sgs-affiche-un-chiffre-d-affaires-en-baisse-de-2-9-en-2015.html
 7430106-forte-chute-des-bourses-europeennes-zurich-perd-plus-de-3-.html
@@ -512,7 +512,7 @@
 7622825--panama-doit-changer-sous-peine-de-s-exclure-de-la-globalisation-.html
 7623112-athenes-et-ses-creanciers-reprennent-leurs-negociations.html
 7624191-credit-suisse-et-hsbc-tentent-de-se-distancier-des-panama-papers-.html
-7624555-les-panama-papers-mettent-en-cause-le-president-de-la-fifa-gianni-infantino.html
+!7624555-les-panama-papers-mettent-en-cause-le-president-de-la-fifa-gianni-infantino.html
 7625117-les-salaires-des-grands-patrons-en-suisse-n-ont-pas-baisse-en-2015.html
 7628738-les-tv-et-radios-francophones-se-regroupent-dans-une-grande-alliance.html
 7629051-cointrin-veut-entrer-dans-le-capital-de-l-aeroport-de-lyon.html
@@ -684,7 +684,7 @@
 7815472-le-patron-de-postfinance-pour-une-privatisation-et-une-entree-en-bourse.html
 7817238-l-ecart-salarial-a-nouveau-en-hausse-en-2015-denonce-travail-suisse.html
 7817502-leman-ou-farinet-a-quoi-servent-les-monnaies-locales.html
-7818391-leman-ou-farinet-a-quoi-servent-les-monnaies-locales.html
+!7818391-leman-ou-farinet-a-quoi-servent-les-monnaies-locales.html
 7820184-deux-tiers-des-fonds-de-compensation-avsaiapg-sont-places-a-letranger.html
 7823829-le-patron-de-vw-presente-ses-excuses-pour-le-scandale-des-moteurs-truques.html
 7824322-les-campings-suisses-investissent-pour-attirer-les-bobos-cool.html

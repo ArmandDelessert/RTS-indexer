@@ -7,7 +7,7 @@
 10015211-clara-luciani-icone-feminine-et-feministe-au-festival-les-creatives.html
 10015594-100-ans-de-losr-les-cinq-chefs-qui-ont-marque-lhistoire-de-lorchestre.html
 10017184-scott-joplin-roi-du-ragtime-et-pionnier-de-lopera-est-ne-il-y-a-150-ans.html
-10024160-voir-ou-revoir-le-premier-concert-des-100-ans-de-l-osr.html
+!10024160-voir-ou-revoir-le-premier-concert-des-100-ans-de-l-osr.html
 10026501-la-mezzosoprano-suisse-marieclaude-chappuis-fete-ses-20-ans-de-scene.html
 10026982-hommage-au-maestro-claudio-scimone.html
 10031619-le-reggae-inscrit-sur-la-liste-du-patrimoine-culturel-de-lhumanite.html
@@ -45,7 +45,7 @@
 10177788-idole-queer-des-jeunes-bilal-hassani-part-a-la-conquete-de-leurovision.html
 10180140-figure-du-r-b-des-annees-80-james-ingram-est-decede.html
 10182328-antigel-une-9e-edition-pour-secouer-geneve-en-musique-et-danse.html
-10186352-les-secrets-des-plus-beaux-morceaux-de-musique-classique.html
+!10186352-les-secrets-des-plus-beaux-morceaux-de-musique-classique.html
 10186790-le-son-electro-de-sophie-hunger-a-ouvert-les-feux-a-antigel.html
 10200054-fontaines-dc-et-viagra-boys-un-tandem-rock-de-choc-a-antigel.html
 10202832-renaud-capucon-la-musique-doit-se-partager-et-se-vivre-en-communaute.html
@@ -331,7 +331,7 @@
 11090111-les-instruments-de-musique-souvent-casses-dans-les-voyages-aeriens.html
 11090405-l-inventive-et-energique-sono-mondiale-des-genevois-amami.html
 11092468-une-choregraphie-chilienne-scandee-devient-un-veritable-hymne-feministe.html
-11093043-les-secrets-des-plus-beaux-morceaux-de-musique-classique.html
+!11093043-les-secrets-des-plus-beaux-morceaux-de-musique-classique.html
 11093992-clara-luciani-et-philippe-katerine-sacres-aux-victoires-de-la-musique.html
 11097024-le-chanteur-graeme-allwright-ne-boira-plus-a-l-amitie-l-amour-la-joie.html
 11105219-le-rappeur-koba-lad-deprogramme-du-caribana-pour-des-propos-homophobes.html
@@ -560,7 +560,7 @@
 11833410-retrospective-les-cinq-disques-classiques-qui-ont-marque-2020.html
 11833655-les-concerts-cette-fragile-necessite.html
 11833734-retrospective-le-meilleur-du-jazz-et-des-musiques-du-monde-en-2020.html
-11833896-les-secrets-des-plus-beaux-morceaux-de-musique-classique.html
+!11833896-les-secrets-des-plus-beaux-morceaux-de-musique-classique.html
 11834037-les-chants-damour-de-dino-brandao-faber-et-sophie-hunger.html
 11836511-sur-mccartney-iii-sir-paul-rejoue-noblement-a-lhommeorchestre.html
 11840506-henri-des-cest-le-bouche-a-oreille-qui-ma-fait.html
@@ -617,7 +617,7 @@
 11985076-creams-la-voix-hantee-de-la-jeunesse-georgienne.html
 11985363-le-paleo-festival-pose-ses-dates-sur-un-mois-et-reduit-la-voilure.html
 11985649-le-norient-film-festival-ausculte-le-monde-a-travers-le-son.html
-11987649-les-secrets-des-plus-beaux-morceaux-de-musique-classique.html
+!11987649-les-secrets-des-plus-beaux-morceaux-de-musique-classique.html
 11988385-le-realisme-electronique-militant-de-la-chanteuse-francaise-suzane.html
 11988504-auteur-du-conte-musical-emilie-jolie-philippe-chatel-est-decede.html
 11994164-hemlock-smith-et-les-poissons-autistes-devoilent-un-nouvel-album.html
@@ -761,7 +761,7 @@
 12334986-deces-en-france-de-la-chanteuse-grecque-angelique-ionatos.html
 12336274-barone-la-revelation-electropop-fribourgeoise-a-apprecier-sur-scene.html
 12336675-brandao-faber-et-hunger-douces-romances-au-montreux-jazz.html
-12341033.html
+!12341033.html
 12343798-mike-brant-une-fulgurante-carriere-scrutee-dans-un-documentaire.html
 12344320-le-cully-jazz-festival-va-proposer-douze-concerts-pour-son-volet-payant.html
 12344507-amy-winehouse-disparue-il-y-a-10-ans-nest-pas-quune-figure-tragique.html
@@ -1064,7 +1064,7 @@
 13091835-deces-de-la-chanteuse-lyrique-espagnole-teresa-berganza-a-89-ans.html
 13092455-benjamin-bernheim-sur-le-boulevard-des-italiens-pour-son-nouvel-album.html
 13094489-favorite-des-pronostics-lukraine-remporte-leurovision-2022-a-turin.html
-13094511.html
+!13094511.html
 13101216-le-rappeur-kendrick-lamar-mele-introspection-et-critique-sociale.html
 13101252-loris-premier-suisse-en-finale-de-the-voice-je-ne-mattendais-pas-a-un-tel-engouement.html
 13101279-lassociation-genevoise-lied-et-melodie-fete-ses-dix-ans-en-grande-pompe.html
@@ -1248,7 +1248,7 @@
 13513604-pourquoi-taylor-swift-batelle-tous-les-records.html
 13515661-bono-chanteur-du-groupe-legendaire-u2-sort-ses-memoires.html
 13515681-le-duo-pop-folk-aliose-sort-un-nouvel-album-intitule-regarde-ailleurs.html
-13515732.html
+!13515732.html
 13519734-les-morts-les-plus-insolites-parmi-les-musiciens-classiques.html
 13525731-le-compositeur-philippe-sarde-compile-50-ans-de-carriere-au-cinema.html
 13528476-le-chanteur-vaudois-michel-buhler-est-decede-a-77-ans.html
@@ -1820,7 +1820,7 @@
 8004157-sophie-hunger-miss-pop-suisse.html
 8004923-la-bandeson-du-11septembre.html
 8007004-le-festival-du-chant-du-gros-au-noirmont-a-reuni-plus-de-50000-spectateurs.html
-8019451-sophie-hunger-gagnante-du-grand-prix-suisse-de-musique-2016.html
+!8019451-sophie-hunger-gagnante-du-grand-prix-suisse-de-musique-2016.html
 8025266-quelque-60000-personnes-ont-brave-la-pluie-pour-label-suisse-a-lausanne.html
 8027932-hommage-a-armin-jordanlhumanite-faite-chef-dorchestre.html
 8038618-yello-a-mis-du-swing-dans-l-electro.html
@@ -1901,7 +1901,7 @@
 8302752-samson-francois-pianiste-mythique.html
 8302868-paleo-recoit-le-prix-de-meilleur-festival-europeen-aux-paysbas.html
 8305810-a-geneve-la-cite-de-la-musique-devoile-plus-precisement-ses-contours.html
-8305948-ces-chanteuses-et-chanteurs-devenus-des-icones-de-la-communaute-gay.html
+!8305948-ces-chanteuses-et-chanteurs-devenus-des-icones-de-la-communaute-gay.html
 8306086-ces-chanteuses-et-chanteurs-mues-en-icones-gay.html
 8319321-la-scene-hiphop-neonazie-se-developpe-en-europe.html
 8319437-les-swiss-music-awards-devoilent-leurs-nomines-pour-la-10e-edition.html
@@ -2049,8 +2049,8 @@
 8749825-les-50-ans-de-carriere-de-bernard-lavilliers.html
 8750307-au-revoir-montreux-jazz-festival-et-merci.html
 8751926-flamboyante-soiree-pop-a-montreux-avec-beth-ditto-et-les-pet-shop-boys.html
-8752394-bernard-lavilliers-se-livre-dans-un-documentaire-radiophonique.html
-8755783-les-meilleures-moments-de-montreux-racontes-par-les-stars.html
+!8752394-bernard-lavilliers-se-livre-dans-un-documentaire-radiophonique.html
+!8755783-les-meilleures-moments-de-montreux-racontes-par-les-stars.html
 8756331-the-roots-le-meilleur-groupe-hiphop-porte-bien-son-nom.html
 8758446-l-ecoute-de-musique-en-ligne-continue-a-fortement-progresser-aux-etats-unis.html
 8758567-deces-de-pierre-henry-maitre-de-la-musique-electroacoustique.html
@@ -2077,7 +2077,7 @@
 8778438-la-51e-edition-du-montreux-jazz-festival-a-attire-230-000-personnes.html
 8782216--l-arrivee-sur-le-marche-des-concerts-de-live-nation-peut-nous-preoccuper-.html
 8783197-the-inspector-cluzo-fermiers-et-rockers-a-voir-au-paleo-mardi.html
-8783215-toute-lactualite-du-42e-paleo-festival.html
+!8783215-toute-lactualite-du-42e-paleo-festival.html
 8785372-les-traites-de-paix-jazzrock-des-belges-taxiwars-attendus-a-paleo.html
 8786130-radiohead-maintient-un-concert-en-israel-malgre-des-appels-au-boycott.html
 8787611-le-titre-despacito-de-luis-fonsi-bat-tous-les-records-d-ecoute-en-streaming.html
@@ -2396,13 +2396,13 @@
 9713204-vues-en-noir-et-blanc-du-52e-montreux-jazz-festival.html
 9717778-depeche-mode-lenny-kravitz-des-coraux-et-des-tapas-pour-le-43e-paleo.html
 9719669-depeche-mode-miange-midemon-pop-au-paleo-festival-de-nyon.html
-9720687-redecouvrir-depeche-mode-en-six-albums-phares-avant-leur-concert-a-paleo.html
+!9720687-redecouvrir-depeche-mode-en-six-albums-phares-avant-leur-concert-a-paleo.html
 9720809-les-obsessions-eighties-du-chanteur-zurichois-crimer-rejaillissent-sur-paleo.html
 9721329-le-collectif-de-rock-h-e-x-sort-de-sa-cave-pour-une-premiere-a-paleo.html
 9722495-angela-gheorghiu-je-ne-suis-pas-devenue-chanteuse-je-lai-toujours-ete.html
 9723927-rencontre-avec-magic-naked-heritiers-melancoliques-des-beach-boys.html
 9724358-idles-black-rebel-motorcycle-club-et-lysistrata-triple-rock-gagnant-a-paleo.html
-9724667-les-secrets-des-plus-beaux-morceaux-de-musique-classique.html
+!9724667-les-secrets-des-plus-beaux-morceaux-de-musique-classique.html
 9724699-le-chef-russe-valery-gergiev-en-vedette-au-verbier-festival.html
 9726277-la-superproduction-pop-et-animee-de-gorillaz-rassasie-le-paleo-festival.html
 9726318-un-concert-de-cor-des-alpes-a-2200-metres-sur-les-hauts-de-nendaz.html

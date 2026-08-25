@@ -116,8 +116,8 @@
 1045951-ne-le-centre-durrenmatt-ressuscite-pasolini.html
 1045986-pour-ses-500-ans-calvin-monte-sur-les-planches.html
 1046100-la-derniere-note-de-mstislav-rostropovitch.html
-1046601-.html
-1046602-.html
+!1046601-.html
+!1046602-.html
 1046603-nouveau-musee-de-lacropole-dathenes-inaugure.html
 1047297-dresde-retiree-de-la-liste-des-sites-de-lunesco.html
 10474003-plus-la-chauxdefonds-se-vide-plus-loffre-artistique-est-foisonnante.html
@@ -207,7 +207,7 @@
 10914747-nils-la-formidable-saga-suedoise-dun-garnement-devenu-sage.html
 10916700-en-suisse-romande-vague-verte-choisie-comme-expression-de-lannee.html
 10921555-orestes-in-mossoul-la-tragedie-qui-denonce-la-guerre-debarque-a-vidy.html
-1093111-.html
+!1093111-.html
 1093114-lecrivain-alain-robbegrillet-nest-plus.html
 10932522-les-positions-proserbes-du-laureat-du-nobel-de-litterature-2019-fachent.html
 10934469-longtemps-cachee-la-vulve-fait-son-retour-dans-lespace-public.html
@@ -262,9 +262,9 @@
 11233254-de-nouveaux-jeux-video-pour-le-bonheur-des-confines-et-des-developpeurs-.html
 11239463-sur-les-pas-a-valdecharmey.html
 1124378-le-cinema-suisse-victime-de-son-succes.html
-1125588-maurice-chappaz-un-homme-de-memoire-20-decembre-2006-swissinfo-21-11-2008.html
-1125591-une-journee-avec-maurice-chappaz-14-decembre-2006-swissinfo-21-11-2008.html
-1125592-.html
+!1125588-maurice-chappaz-un-homme-de-memoire-20-decembre-2006-swissinfo-21-11-2008.html
+!1125591-une-journee-avec-maurice-chappaz-14-decembre-2006-swissinfo-21-11-2008.html
+!1125592-.html
 11261606-rtsculture-recherche-des-talents-pour-son-nouveau-rendezvous-televisuel.html
 11267768-des-histoires-pour-enfants-illustrees-par-une-palette-d-artistes-romands.html
 11283073-concerts-annules-le-cassetete-des-remboursements-de-billets.html
@@ -315,7 +315,7 @@
 11435874-un-programme-culturel-estival-alternatif-presente-par-la-ville-de-lausanne.html
 11436083-loreal-retire-de-ses-produits-les-mots-blanc-clair-et-lumineux.html
 1143617-nouveau-record-pour-un-hodler.html
-1143725-.html
+!1143725-.html
 1143731-les-tintinophiles-fetent-les-100-ans-dherge.html
 1144517-le-savant-suisse-agassiz-fete-aux-usa.html
 11445506-en-pleine-pandemie-la-culture-peutelle-encore-compter-sur-ses-sponsors.html
@@ -445,7 +445,7 @@
 11826906-scientifique-et-pianiste-gitanjali-rao-15-ans-est-elue-enfant-de-lannee.html
 11827874-podcast-comment-garder-son-sens-de-lhumour-dans-un-monde-pareil.html
 11830260-homme-de-radio-et-ecrivain-jacques-donzel-est-decede.html
-11830859.html
+!11830859.html
 1183311-l-architecte-suisse-peter-zumthor-a-recu-le-pritzker.html
 11835417-parseme-de-bugs-le-jeu-cyberpunk-2077-retire-des-plateformes-de-sony.html
 11841851-matias-echanove-le-genevois-qui-prone-lurbanisme-participatif.html
@@ -455,7 +455,7 @@
 1185712-le-poete-aime-cesaire-est-decede.html
 11858565-friedrich-durrenmatt-a-la-recherche-de-la-grande-explosion.html
 11861255-initialement-reporte-le-montreux-comedy-festival-finalement-annule.html
-1186190-.html
+!1186190-.html
 1186195-le-montreux-palace-au-rythme-du-jazz.html
 11869627-deux-chaines-youtube-pour-traquer-les-infox-sur-legypte-ancienne.html
 11869759-les-fetes-clandestines-quand-le-divertissement-entre-en-resistance.html
@@ -840,7 +840,7 @@
 1734613-sorties-cd-les-scorpions-piquent-une-derniere-fois.html
 1773818-l-age-d-homme-tourne-la-page-du-salon-du-livre.html
 1897020-accueils-et-refoulements-chronique-de-la-frontiere-jurassienne-durant-la-deuxieme-guerre-mondiale.html
-1902919-le-dernier-festival-de-claude-nobs-29-avril-journal-du-matin-29-04-2010.html
+!1902919-le-dernier-festival-de-claude-nobs-29-avril-journal-du-matin-29-04-2010.html
 1923562-record-dencheres-pour-un-tableau-de-picasso.html
 1989379-lausanne-beaux-arts-elysee-et-mudac-a-la-gare-.html
 1991225-cinq-tableaux-derobes-dans-un-musee-de-paris.html
@@ -1690,7 +1690,7 @@
 6590995-lexposition-a-succes-sur-david-bowie-fait-escale-a-paris.html
 6591207-la-reine-de-la-pop-madonna-ouvre-son-rebel-heart.html
 6591263-vingt-ans-daudaces-sonores-pour-lemission-la-planete-bleue.html
-6593764-der-kreis-est-le-grand-gagnant-du-prix-du-cinema-suisse.html
+!6593764-der-kreis-est-le-grand-gagnant-du-prix-du-cinema-suisse.html
 6594041-citizenfour-le-film-sur-lespionnage-de-la-nsa-presente-a-geneve-avec-snowden.html
 6595489-harrison-ford-blesse-dans-un-accident-d-avion-en-californie.html
 6595836-des-musees-au-service-des-personnes-atteintes-de-demence-due-a-lage.html
@@ -1847,7 +1847,7 @@
 6942950-b-b-king-n-est-pas-mort-assassine-comme-le-laissaient-entendre-ses-filles.html
 6943394-un-programme-eclectique-pour-le-68e-festival-du-film-de-locarno.html
 6948378-l-avenir-d-avenches-opera-en-peril-apres-de-nouvelles-pertes-financieres.html
-6951063-programme-transports-et-canicule-tout-savoir-sur-le-40e-paleo.html
+!6951063-programme-transports-et-canicule-tout-savoir-sur-le-40e-paleo.html
 6951248-la-2e-edition-du-festival-les-georges-a-rassemble-au-dela-de-toute-attente.html
 6951883-le-batteur-du-groupe-acdc-a-nouveau-devant-la-justice.html
 6956473-van-hamme-va-faire-ses-adieux-a-son-heros-seducteur-largo-winch.html
@@ -1912,7 +1912,7 @@
 7138022-dormir-dans-un-chateau-de-sable-c-est-possible-aux-pays-bas.html
 7141561-le-roi-du-polar-suedois-henning-mankell-est-decede-a-67-ans.html
 7147328-la-romanciere-christine-arnothy-s-est-eteinte-a-84-ans.html
-7148225-seul-sur-mars-un-film-realiste-ou-une-fiction-remplie-dincoherences.html
+!7148225-seul-sur-mars-un-film-realiste-ou-une-fiction-remplie-dincoherences.html
 7148987-la-serie-culte-x-files-reviendra-a-l-ecran-apres-13-ans-d-absence.html
 7155153-le-chanteur-francais-leny-escudero-s-est-eteint-a-82-ans.html
 7161434-cinq-coproductions-de-la-rts-en-primeur-au-festival-tous-ecrans.html
@@ -2018,7 +2018,7 @@
 7427264-adele-artiste-la-plus-rapide-a-atteindre-le-milliard-de-vues-sur-youtube.html
 7433340-ouverture-des-journees-de-soleure-grandmesse-du-cinema-suisse.html
 7434990-robert-redford-les-oscars-ne-m-interessent-pas-.html
-7435785-xfiles-et-ses-mysterieux-dossiers-non-classes-reviennent-14-ans-apres.html
+!7435785-xfiles-et-ses-mysterieux-dossiers-non-classes-reviennent-14-ans-apres.html
 7435935-charlotte-rampling-la-reaction-de-spike-lee-est-raciste-pour-les-blancs-.html
 7437360-l-academie-des-oscars-annonce-des-reformes-pour-davantage-de-diversite.html
 7439209-le-film-suisse-heimatland-recompense-en-allemagne.html
@@ -2220,7 +2220,7 @@
 7890591-le-paleo-festival-mercredi-20-juillet-2016.html
 7892861-ceremonie-douverture-du-verbier-festival-des-19h.html
 7893645-le-paleo-festival-jeudi-21-juillet-2016.html
-7894754-la-pluie-na-pas-fait-le-poids-face-a-un-cabrel-enchainant-les-succes.html
+!7894754-la-pluie-na-pas-fait-le-poids-face-a-un-cabrel-enchainant-les-succes.html
 7895484-le-paleo-festival-vendredi-22-juillet-2016.html
 7895521-un-album-inedit-de-david-bowie-aux-influences-soul-et-funk-annonce.html
 7897001-le-paleo-festival-samedi-23-juillet-2016.html
@@ -2254,7 +2254,7 @@
 8033197-sophie-calle-interview-sur-pierre-tombale.html
 8044581-christian-coigny-honore-par-la-fondation-vaudoise-pour-la-culture.html
 8045286-francois-vallotton-historien.html
-8045288-michele-mercier-auteure-de-la-suisse-genereuse.html
+!8045288-michele-mercier-auteure-de-la-suisse-genereuse.html
 8045367-le-journal-tintin-exfleuron-des-magazines-bd-fete-ses-70-ans.html
 8051826-soixante-dinosaures-prennent-vie-pendant-trois-mois-a-geneve.html
 8068265-sociologue-et-specialiste-de-lafrique-georges-balandier-est-decede.html
@@ -2279,7 +2279,7 @@
 8138989-hillary-et-donald-a-la-maison-blanche.html
 8151904-le-prix-interallie-remis-a-serge-joncour-pour-reposetoi-sur-moi.html
 8153329-deces-de-raoul-coutard-figure-mythique-du-cinema-francais.html
-8159674-la-story-une-webserie-sur-des-suisses-qui-vivent-a-los-angeles.html
+!8159674-la-story-une-webserie-sur-des-suisses-qui-vivent-a-los-angeles.html
 8164476-tatort-la-serie-policiere-aux-mille-episodes-qui-a-su-vivre-avec-son-temps.html
 8165559-polemique-autour-dune-toile-attribuee-au-caravage-exposee-a-milan.html
 8166740-les-filles-sur-le-pont-de-munch-vendu-545-millions-de-dollars.html
@@ -2662,7 +2662,7 @@
 9601865-londres-propose-des-paiements-sans-contact-pour-les-artistes-de-rue.html
 9605131-les-nouveaux-geoglyphes-au-perou-decouverts-grace-aux-drones.html
 9607159-fin-de-la-serie-americaine-roseanne-apres-un-tweet-raciste-de-la-star.html
-9609268-a-lausanne-le-festival-de-la-cite-entend-reinventer-la-ville.html
+!9609268-a-lausanne-le-festival-de-la-cite-entend-reinventer-la-ville.html
 9617010-deux-planches-des-bd-de-tintin-vendues-pour-plus-de-400000-francs.html
 9620029-blaise-cendrars-comme-un-roman-la-vie-dartiste-dun-ecrivain-suisse.html
 9624429-transforme-un-nouveau-festival-culturel-pour-valoriser-l-apprentissage.html
@@ -2732,7 +2732,7 @@
 9913606-sur-les-pas-de-metin-arditi.html
 9926106-melania-trump-a-etudie-dormesson-pour-comprendre-lesprit-francais.html
 9932875-amour-des-fans-heritage-a-qui-profite-lalbum-posthume-de-johnny.html
-993384-eurovision-paolo-meneguzzi-n-ira-pas-en-finale-23-mai-journal-du-matin-22-05-2008.html
+!993384-eurovision-paolo-meneguzzi-n-ira-pas-en-finale-23-mai-journal-du-matin-22-05-2008.html
 993393-la-suisse-reve-de-la-finale-de-l-eurovision.html
 993394-eurovision-la-suisse-n-ira-pas-en-finale.html
 9944751-promenonsnous-dans-les-bois.html

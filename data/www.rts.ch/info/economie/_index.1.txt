@@ -412,8 +412,8 @@
 10619861-une-ministre-allemande-veut-une-loi-qui-empeche-de-detruire-les-invendus.html
 10620232-le-pib-britannique-en-recul-au-2e-trimestre-a-quelques-mois-du-brexit.html
 1062087-estavayer-les-producteurs-de-lait-manifestent.html
-1062616-liste-grise-des-paradis-fiscaux-l-interview-d-angel-gurria-secretaire-general-de-l-ocde-25-septembre-2009-journal-du-matin.html
-1062619--tout-le-monde-sait-qu-il-y-a-de-l-argent-cache-en-suisse-24-septembre-le-journal-du-matin.html
+!1062616-liste-grise-des-paradis-fiscaux-l-interview-d-angel-gurria-secretaire-general-de-l-ocde-25-septembre-2009-journal-du-matin.html
+!1062619--tout-le-monde-sait-qu-il-y-a-de-l-argent-cache-en-suisse-24-septembre-le-journal-du-matin.html
 1062624-ocde-la-suisse-est-rayee-de-la-liste-grise.html
 10627207-les-entreprises-europeennes-ne-seduisent-plus-les-investisseurs-chinois.html
 10634711-chaque-ete-en-suisse-la-consommation-d-oeufs-chute-de-20-.html
@@ -665,7 +665,7 @@
 10982567-la-grece-chypre-et-israel-construisent-un-gazoduc-pour-tenir-tete-a-la-turquie.html
 10985327-swiss-va-engager-plus-dun-millier-de-personnes-en-2020.html
 10990029-la-vente-des-voitures-propres-a-franchi-la-barre-des-10-en-2019-en-suisse.html
-1099140-.html
+!1099140-.html
 10992318-la-suisse-devoile-ses-atours-a-la-foire-aux-gadgets-de-las-vegas.html
 10993033-accord-d-indemnisation-entre-american-airlines-et-boeing.html
 10993839-les-loyers-ont-baisse-en-suisse-mais-les-disparites-regionales-sont-grandes.html
@@ -714,7 +714,7 @@
 11038328-la-suisse-et-les-etats-unis-parlent-toujours-d-un-accord-de-libre-echange.html
 11039576-la-suisse-sera-en-manque-de-700000-travailleurs-dans-dix-ans.html
 1104089-vente-de-serono-une-bonne-affaire-.html
-1104239-.html
+!1104239-.html
 11042656-pietro-supino-la-presse-doit-acquerir-un-savoirfaire-dans-la-vente-en-ligne.html
 11042745-apres-moult-reports-vol-dessai-reussi-pour-le-gigantesque-boeing-777x.html
 1104291-versements-suspects-chez-des-filiales-d-abb.html
@@ -724,8 +724,8 @@
 11049871-la-chimie-et-la-pharma-pesent-de-plus-en-plus-lourd-dans-l-economie-suisse.html
 11049978-combattre-l-initiative-de-limitation-une-priorite-pour-economiesuisse.html
 11050775-la-suisse-pourrait-perdre-jusqua-50-de-touristes-chinois-a-cause-du-virus.html
-1105098-.html
-1105099-.html
+!1105098-.html
+!1105099-.html
 1105103-ciba-sc-supprime-2500-postes.html
 11051877-un-nouveau-patron-luca-de-meo-dirigera-renault-a-partir-de-juillet.html
 11052185-le-chiffre-d-affaires-de-novartis-a-grimpe-de-pres-de-6-en-2019.html
@@ -933,7 +933,7 @@
 11282916-le-groupe-novartis-genere-une-croissance-de-11-au-premier-trimestre.html
 11283123-malgre-le-covid19-le-benefice-net-trimestriel-dubs-augmente-de-40.html
 11284030-des-livreurs-de-colis-surcharges-et-en-manque-de-protection-contre-le-covid19.html
-1128498-.html
+!1128498-.html
 1128502-la-vie-ingrate-des-poules-pondeuses-suisses.html
 11286220-le-coronavirus-force-plusieurs-entreprises-a-renoncer-au-dividende.html
 11288410-bnp-paribas-suisse-denoncee-pour-des-vacances-quelle-aurait-imposees.html
@@ -999,7 +999,7 @@
 11348292-le-journal-des-bistrots-romands-micro-nouvelle-victime-du-coronavirus.html
 1134964-les-helvetes-changent-souvent-demploi.html
 11350821-letat-allemand-vole-au-secours-de-lufthansa-avec-un-plan-a-9-milliards.html
-1135186-.html
+!1135186-.html
 1135189-cailler-a-essuye-24-millions-de-pertes.html
 11352920-les-commercants-ont-recu-le-plus-de-prets-garantis-par-la-confederation.html
 11353869-lemployeur-doit-rembourser-les-frais-lies-au-travail-a-domicile.html
@@ -1067,9 +1067,9 @@
 11444893-les-producteurs-de-cafe-peinent-a-ecouler-leurs-stocks.html
 11445716-les-independants-sont-de-plus-en-plus-nombreux-a-recourir-a-laide-sociale.html
 11446617-la-plateforme-qoqa-fait-appel-contre-linterdiction-du-travail-de-nuit.html
-1144783-rsr-le-commentaire-d-esther-coquoz-22-aout-journal-du-matin.html
-1144786-rsr-coop-rachete-fust-a-jelmoli-29-mai-2007-journal-du-matin.html
-1144789-rsr-un-bouleversement-considerable-se-prepare-dans-la-grande-distribution-helvetique-12-janvier-2007-journal-du-matin.html
+!1144783-rsr-le-commentaire-d-esther-coquoz-22-aout-journal-du-matin.html
+!1144786-rsr-coop-rachete-fust-a-jelmoli-29-mai-2007-journal-du-matin.html
+!1144789-rsr-un-bouleversement-considerable-se-prepare-dans-la-grande-distribution-helvetique-12-janvier-2007-journal-du-matin.html
 11448380-le-groupe-air-france-veut-supprimer-7500-postes-pour-faire-face-a-la-crise.html
 11451960-microsoft-veut-former-25-millions-de-chomeurs-au-numerique-apres-la-crise.html
 11452190-le-portage-salarial-une-nouvelle-forme-de-travail-qui-se-developpe-en-suisse.html
@@ -1284,9 +1284,9 @@
 1177186-fraude-fiscale-vaduz-contreattaque.html
 11773226-les-touristes-etrangers-vont-cruellement-manquer-cet-hiver-en-suisse.html
 11773329-les-livraisons-de-repas-dans-le-collimateur-du-gendarme-de-la-poste.html
-1177367-.html
+!1177367-.html
 11775501-podcast-a-qui-profite-le-black-friday.html
-1177570-.html
+!1177570-.html
 1177595-chiffres-rejouissants-pour-nespresso-en-2007.html
 1177607-nestle-ouvre-un-centre-du-chocolat-en-gruyere.html
 11777737-le-geant-zurichois-abb-obtient-un-contrat-avec-la-nasa.html
@@ -1487,7 +1487,7 @@
 12032410-le-petrole-retrouve-son-niveau-davant-la-pandemie.html
 12032814-les-ventes-de-velos-electriques-se-sont-envolees-de-pres-de-30-lan-passe.html
 12033331-le-groupe-ruag-international-va-se-concentrer-sur-ses-activites-spatiales.html
-12035060-mercuria-commande-7000-tonnes-de-cuivre-mais-recoit-des-cailloux-peints.html
+!12035060-mercuria-commande-7000-tonnes-de-cuivre-mais-recoit-des-cailloux-peints.html
 12035389-lego-a-enregistre-en-2020-le-plus-haut-benefice-de-son-histoire.html
 12035946-le-colossal-plan-de-relance-americain-definitivement-adopte-au-congres.html
 12037219-la-poste-affiche-un-resultat-en-baisse-pour-2020-urs-schwaller-se-retire.html
@@ -2062,7 +2062,7 @@
 12872547-lengouement-pour-le-gruyere-aop-a-provoque-des-penuries.html
 12872785-deficit-de-122-milliards-en-2021-pour-la-confederation-du-fait-de-la-pandemie.html
 12874103-airbus-a-engrange-en-2021-le-plus-gros-benefice-de-son-histoire.html
-12874597-les-ventes-de-nestle-ont-progresse-a-un-rythme-soutenu-en-2021.html
+!12874597-les-ventes-de-nestle-ont-progresse-a-un-rythme-soutenu-en-2021.html
 12880945-ikea-va-ouvrir-deux-nouveaux-sites-en-valais-et-dans-les-grisons.html
 12881432-les-entreprises-sont-tentees-daugmenter-leurs-prix-mais-toutes-nont-pas-cette-marge-de-manoeuvre.html
 12883383-les-revelations-sur-credit-suisse-ont-peu-dimpact-sur-une-bourse-suisse-accoutumee-aux-scandales.html
@@ -2970,7 +2970,7 @@
 14017155-migros-planche-sur-une-nouvelle-organisation-via-une-societe-autonome.html
 14017315-comment-poser-sesvacancespour-en-profiter-au-maximum.html
 14017996-elon-musk-dit-avoir-engage-une-femme-pour-diriger-twitter.html
-14018946-dix-ans-apres-la-fin-du-secret-bancaire-la-suisse-face-a-de-nouveaux-defis.html
+!14018946-dix-ans-apres-la-fin-du-secret-bancaire-la-suisse-face-a-de-nouveaux-defis.html
 14019498-sergio-ermotti-veut-une-enquete-a-360-degres-sur-la-chute-de-credit-suisse.html
 14019992-le-groupe-de-luxe-richemont-realise-des-ventes-record-depuis-mars-2022.html
 14024559-la-baisse-de-la-consommation-en-occident-fait-mal-a-la-croissance-du-vietnam.html
@@ -3179,7 +3179,7 @@
 14260267-linde-au-coeur-du-marche-emergent-du-diamant-synthetique.html
 14262120-suisse-tourisme-exprime-ses-inquietudes-en-dressant-un-premier-bilan-estival.html
 14264295-lemploi-en-suisse-toujours-au-beau-fixe-au-2e-trimestre.html
-14264678-rolex-rachete-le-detaillant-horloger-et-bijoutier-bucherer.html
+!14264678-rolex-rachete-le-detaillant-horloger-et-bijoutier-bucherer.html
 14270134-retour-en-bourse-catastrophique-pour-le-promoteur-chinois-evergrande.html
 14270327-presque-autant-de-femmes-que-dhommes-nommees-en-2022-dans-les-conseils-dadministration.html
 14270388-de-nombreux-particuliers-sont-surendettes-aupres-de-letat.html
@@ -3465,7 +3465,7 @@
 14667526-le-groupe-de-presse-esh-medias-prevoit-de-biffer-jusqua-40-postes.html
 14667861-andre-hoffmann-ma-condition-financiere-nempeche-pas-mon-militantisme.html
 1693860-le-discounter-lidl-veut-continuer-son-expansion.html
-1736919-la-coop-gagne-du-terrain-30-mars-le-12h30.html
+!1736919-la-coop-gagne-du-terrain-30-mars-le-12h30.html
 1736924-benefice-net-record-l-an-dernier-pour-migros.html
 1761759-swisscom-fastweb-evite-la-mise-sous-surveillance.html
 1771001-la-zone-euro-precise-son-plan-daide-a-la-grece.html
@@ -3480,8 +3480,8 @@
 1942361-toyota-retrouve-deja-les-chiffres-verts.html
 1954485-plusieurs-banques-visees-par-la-justice-americaine.html
 1967597-usa-novartis-reconnu-coupable-de-discrimination.html
-1967911-une-premiere-qui-pourrait-faire-jurisprudence-18-mai-journal-du-matin.html
+!1967911-une-premiere-qui-pourrait-faire-jurisprudence-18-mai-journal-du-matin.html
 1968557-economiesuisse-encense-la-voie-bilaterale-avec-l-ue.html
 1968600-l-ete-s-annonce-mitige-pour-le-tourisme-suisse.html
 1988367-benefice-record-pour-la-loterie-romande-en-2009.html
-1989483-michel-barde-ancien-patron-des-patrons-et-yves-fluckiger-professeur-d-economie-politique-18-mai-forum.html
+!1989483-michel-barde-ancien-patron-des-patrons-et-yves-fluckiger-professeur-d-economie-politique-18-mai-forum.html

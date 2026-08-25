@@ -376,8 +376,8 @@
 10187602-la-poste-doit-faire-preuve-de-sensibilite-estime-urs-schwaller.html
 10187924-plusieurs-dizaines-de-milliers-de-personnes-dans-la-rue-pour-le-climat.html
 1018875-la-suisse-une-terre-de-migrants.html
-1018882-.html
-1018883-.html
+!1018882-.html
+!1018883-.html
 1018884-immigrer-en-suisse-quand-on-est-africain.html
 10188989-la-fmh-pour-la-gratuite-des-primes-maladie-pour-les-enfants.html
 1018929-geneve-soffre-une-nouvelle-prison.html
@@ -465,7 +465,7 @@
 1021971-affaire-kadhafi-police-genevoise-en-cause.html
 10221359-verts-et-vertliberaux-ont-le-vent-en-poupe-selon-le-barometre-ssr.html
 10221386-linitiative-des-alpes-a-25-ans-mais-son-objectif-reste-a-atteindre.html
-1022153-l-interview-de-thierry-pierre-graindorge-journaliste-specialise-17-juillet-journal-du-matin.html
+!1022153-l-interview-de-thierry-pierre-graindorge-journaliste-specialise-17-juillet-journal-du-matin.html
 1022158-le-nouveau-cisalpino-se-devoile.html
 10221610-les-beneficiaires-de-laide-sociale-ont-ete-plus-nombreux-lan-dernier.html
 10221656-un-compromis-propose-a-berne-en-vue-de-supprimer-la-valeur-locative.html
@@ -535,7 +535,7 @@
 10246992-quaranteneuf-suisses-concernes-par-le-scandale-des-retraites-nazies.html
 10248025-doris-leuthard-proposee-comme-administratrice-chez-bell-et-coop.html
 10248242-la-suisse-a-exporte-pour-510-millions-de-francs-darmement-en-2018.html
-10248368-les-divorces-augmentent-et-les-mariages-diminuent-en-suisse.html
+!10248368-les-divorces-augmentent-et-les-mariages-diminuent-en-suisse.html
 10248396-penser-quun-collaborateur-jeune-pere-est-aux-affaires-est-un-leurre.html
 10248510-le-parti-socialiste-lance-son-initiative-pour-alleger-les-primes-maladie.html
 10248511-une-majorite-de-citoyens-restent-mecontents-de-la-politique-suisse.html
@@ -926,9 +926,9 @@
 1041504-medecines-complementaires-plebiscitees.html
 1041523-geneve-il-n-y-aura-plus-de-jury-populaire.html
 1041525-profonde-reforme-judiciaire-a-neuchatel.html
-1041539-syndic-socialiste-pour-yverdon-18-mai-journal-du-matin.html
-1041542-satisfaction-du-conseiller-d-etat-ph-leuba-18-mai-journal-du-matin.html
-1041545-l-interview-du-syndic-socialiste-daniel-von-siebenthal-17-mai-emission-speciale.html
+!1041539-syndic-socialiste-pour-yverdon-18-mai-journal-du-matin.html
+!1041542-satisfaction-du-conseiller-d-etat-ph-leuba-18-mai-journal-du-matin.html
+!1041545-l-interview-du-syndic-socialiste-daniel-von-siebenthal-17-mai-emission-speciale.html
 1041546-daniel-von-siebenthal-elu-syndic-d-yverdon.html
 10415729-le-flou-autour-de-la-surveillance-des-telecommunications-pointe-par-un-audit.html
 10416100-les-vignobles-et-maraichers-romands-ont-ete-touches-par-le-gel-de-la-nuit.html
@@ -1068,11 +1068,11 @@
 10471738-on-ne-garantit-pas-encore-assez-les-droits-denfants-nes-par-gpa.html
 10472308-la-journee-sans-tabac-met-en-garde-contre-toutes-les-formes-de-consommation.html
 1047354-nouvelles-mesures-d-economies-a-la-ssr.html
-1047359-l-interview-de-frederic-graber-president-de-l-association-professionnelle-des-gendarmes-vaudois-28-septembre-le-journal-du-matin.html
-1047362-vingt-ans-de-discussions-sur-la-police-prennent-fin-aujourd-hui-27-septembre-forum.html
-1047365-debat-sur-le-rejet-de-la-police-unique-27-septembre-emission-speciale-rsr.html
-1047368-le-syndic-de-gland-reagit-au-refus-de-d-artagnan-27-septembre-emission-speciale-rsr.html
-1047371-la-journee-continue-a-l-ecole-est-acceptee-27-septembre-emission-speciale-rsr.html
+!1047359-l-interview-de-frederic-graber-president-de-l-association-professionnelle-des-gendarmes-vaudois-28-septembre-le-journal-du-matin.html
+!1047362-vingt-ans-de-discussions-sur-la-police-prennent-fin-aujourd-hui-27-septembre-forum.html
+!1047365-debat-sur-le-rejet-de-la-police-unique-27-septembre-emission-speciale-rsr.html
+!1047368-le-syndic-de-gland-reagit-au-refus-de-d-artagnan-27-septembre-emission-speciale-rsr.html
+!1047371-la-journee-continue-a-l-ecole-est-acceptee-27-septembre-emission-speciale-rsr.html
 1047374-vaud-les-villes-font-capoter-la-police-unique.html
 10473904-le-procureur-de-la-confederation-temoin-dans-une-affaire-davantages-russes.html
 10473978-une-etude-pointe-lechec-du-romanche-grison-et-sa-possible-disparition.html
@@ -1201,7 +1201,7 @@
 10527972-les-agressions-verbales-de-plus-en-plus-frequentes-dans-les-hopitaux.html
 10528212-les-inegalites-scolaires-se-creusent-durant-les-longues-vacances-dete.html
 10528480-linitiative-contre-les-exportations-darmes-a-ete-deposee.html
-1052859-le-temoignage-du-responsable-marketing-d-ikea-24-juillet-2009-journal-du-matin.html
+!1052859-le-temoignage-du-responsable-marketing-d-ikea-24-juillet-2009-journal-du-matin.html
 10528693-un-proche-de-karimova-condamne-dans-l-affaire-de-blanchiment-ouzbek-.html
 1052923-pascal-broulis-est-candidat-au-conseil-federal.html
 10529948-lalerte-canicule-relevee-de-3-a-4-dans-plusieurs-regions-suisses.html
@@ -1235,7 +1235,7 @@
 10539783-lunion-europeenne-naccorde-pas-lequivalence-boursiere-a-la-suisse.html
 1053991-les-fetes-de-geneve-se-sont-terminees-en-beaute.html
 1054034-une-parade-lacustre-reussie-pour-alinghi.html
-1054060-alinghi-et-la-societe-nautique-de-geneve-ont-surpris-tout-le-monde-6-aout-2009-le-journal-du-matin-07-08-2009.html
+!1054060-alinghi-et-la-societe-nautique-de-geneve-ont-surpris-tout-le-monde-6-aout-2009-le-journal-du-matin-07-08-2009.html
 1054062-alinghi-a-vole-au-dessus-des-alpes-pour-genes.html
 10540648-le-tribunal-federal-rejette-les-recours-du-pop-contre-la-votation-sur-la-rffa.html
 10541400-operation-libero-lance-une-campagne-transpartisane-pour-les-federales.html
@@ -1317,7 +1317,7 @@
 10572827-les-officiers-proposent-des-aides-pour-encourager-les-femmes-a-sengager.html
 1057435-la-pierre-dunspunnen-refait-peutetre-surface.html
 10575010-plus-dun-travailleur-sur-dix-recoit-un-bas-salaire-des-femmes-en-majorite.html
-1057571-interview-d-ali-dallali-journaliste-libyen-directeur-de-l-agence-de-presse-panapress-a-tripoli-lundi-24-aout-le-journal-du-matin.html
+!1057571-interview-d-ali-dallali-journaliste-libyen-directeur-de-l-agence-de-presse-panapress-a-tripoli-lundi-24-aout-le-journal-du-matin.html
 1057583-affaire-kadhafi-merz-critique-de-toutes-parts.html
 1057601-le-plr-choisit-le-ticket-burkhalterluscher.html
 1057635-le-racisme-encore-bien-present-en-suisse.html
@@ -1431,7 +1431,7 @@
 10627176-les-cantons-a-la-traine-pour-diminuer-limpact-climatique-des-batiments.html
 10627292-la-protection-face-aux-risques-naturels-en-question-apres-lorage-a-chamoson.html
 10627425-travailsuisse-reclame-des-hausses-salariales-dau-moins-2-pour-2020.html
-1062776-quand-l-udc-chassait-la-racaille-d-annemasse-quel-impact-pour-geneve-6-octobre-2009-le-grand-8.html
+!1062776-quand-l-udc-chassait-la-racaille-d-annemasse-quel-impact-pour-geneve-6-octobre-2009-le-grand-8.html
 1062780-la-mairie-d-annemasse-s-insurge-contre-l-udc.html
 10630600-experience-de-democratie-directe-plus-democratique-menee-a-sion.html
 10630871-les-secretaires-generaux-des-partis-hommes-de-lombre-de-la-politique.html
@@ -1458,7 +1458,7 @@
 10641455-taxe-sur-les-billets-davions-proposee-par-une-commission-des-etats.html
 1064277-il-faut-supprimer-100-hopitaux-en-suisse.html
 10643550-deja-vingt-portes-defectueuses-sur-la-moitie-des-voitures-cff-examinees.html
-10643561-toujours-plus-de-personnes-ont-au-moins-deux-emplois-en-suisse.html
+!10643561-toujours-plus-de-personnes-ont-au-moins-deux-emplois-en-suisse.html
 10643579-le-pharmacien-possible-premier-recours-pour-faire-baisser-les-couts.html
 10643648-le-curieux-hommage-dueli-maurer-au-fondateur-du-wef-klaus-schwab.html
 10643865-un-nombre-record-de-candidats-se-bousculeront-aux-elections-federales.html
@@ -1487,9 +1487,9 @@
 10651455-frein-aux-produits-phytosanitaires-dans-la-politique-agricole-2022.html
 10651526-les-suisses-sont-partages-sur-les-bienfaits-apportes-par-la-numerisation.html
 10652729-soiree-violente-a-berne-autour-du-match-yb-etoile-rouge-de-belgrade.html
-1065278-les-tetes-se-tournent-vers-l-election-au-conseil-d-etat-12-octobre-le-journal-du-matin-11-10-2009.html
-1065281-les-emplois-doivent-d-abord-aller-aux-genevois-12-octobre-le-journal-du-matin-11-10-2009.html
-1065284-les-verts-ont-plus-de-sieges-que-les-socialistes-12-octobre-le-journal-du-matin-11-10-2009.html
+!1065278-les-tetes-se-tournent-vers-l-election-au-conseil-d-etat-12-octobre-le-journal-du-matin-11-10-2009.html
+!1065281-les-emplois-doivent-d-abord-aller-aux-genevois-12-octobre-le-journal-du-matin-11-10-2009.html
+!1065284-les-verts-ont-plus-de-sieges-que-les-socialistes-12-octobre-le-journal-du-matin-11-10-2009.html
 1065287-grand-conseil-genevois-la-deferlante-mcg.html
 10652992-les-cff-et-le-bls-parviennent-a-un-accord-sur-le-trafic-grandes-lignes.html
 1065315-l-affiche-anti-minarets-encore-interdite.html
@@ -1505,7 +1505,7 @@
 10656395-la-suisse-va-connaitre-son-troisieme-ete-le-plus-chaud-en-2019.html
 10657290-michael-lauber-sur-la-sellette-avant-sa-reelection-recoit-le-soutien-des-cantons.html
 10657612-les-vertsliberaux-veulent-une-societe-climatiquement-neutre-en-2040.html
-10658771-plus-de-feminicides-en-suisse-que-dans-d-autres-pays-d-europe.html
+!10658771-plus-de-feminicides-en-suisse-que-dans-d-autres-pays-d-europe.html
 10659028-la-traque-des-pedophiles-sur-internet-est-au-point-mort-denonce-un-rapport.html
 1065914-jacques-chessex-dernier-hommage-a-lausanne.html
 1066037-morsures-de-chiens-les-enfants-les-plus-vulnerables.html
@@ -1518,7 +1518,7 @@
 10664320-leducation-sexuelle-doit-pouvoir-compter-sur-lappui-des-parents.html
 10664542-les-colis-etiquetes-en-ligne-seront-moins-chers-en-2020.html
 10664582-la-suisse-comptait-plus-de-85-millions-dhabitants-fin-2018.html
-1066463-jura-le-parlement-de-la-jeunesse-soutient-l-initiative-anti-minaret-20-octobre-le-journal-du-matin-22-10-2009.html
+!1066463-jura-le-parlement-de-la-jeunesse-soutient-l-initiative-anti-minaret-20-octobre-le-journal-du-matin-22-10-2009.html
 1066467-nouvelle-affiche-des-opposants-aux-minarets.html
 10664774-en-pleine-campagne-les-partis-preferent-le-contact-direct-aux-affiches.html
 1066501-fumee-passive-loi-federale-en-vigueur-en-mai-2010.html
@@ -1545,7 +1545,7 @@
 10675067-les-verts-pour-un-referendum-sur-l-accord-avec-le-mercosur.html
 1067523-un-vaste-trafic-d-heroine-demantele-en-suisse.html
 1067597-une-majorite-de-suisses-a-un-3eme-pilier.html
-1067607-.html
+!1067607-.html
 1067608-faux-appel-a-la-priere-mosquee-de-geneve-irritee.html
 10676297-fedpol-etend-son-enquete-a-trois-ex-membres-de-la-direction-de-carpostal.html
 1067641-deuxieme-pilier-les-reserves-ont-fondu-en-2008.html
@@ -1809,7 +1809,7 @@
 1079976-julien-bogousslavsky-devant-ses-juges.html
 10800087-poussee-verte-recul-de-la-droite-la-nouvelle-carte-politique-de-la-suisse.html
 10800116-percee-historique-des-femmes-au-conseil-national.html
-10800136.html
+!10800136.html
 1080058-salve-antiavortement-de-la-droite-conservatrice.html
 10800849-une-vague-verte-historique-pour-la-presse-suisse-et-internationale.html
 10801977-jeunes-et-engages-ces-electeurs-qui-ont-porte-la-vague-ecologiste.html
@@ -1903,7 +1903,7 @@
 1084348-skier-en-suisse-romande-les-bons-tuyaux.html
 10844420-pierre-krahenbuhl-je-nai-jamais-vu-des-attaques-dune-telle-violence.html
 10844646-la-confederation-baisse-les-prix-de-medicaments-mais-la-facture-explose.html
-1084476-comment-enseigner-et-apprendre-plus-efficacement-18-fevrier-le-grand-8.html
+!1084476-comment-enseigner-et-apprendre-plus-efficacement-18-fevrier-le-grand-8.html
 1084493-lausanne-des-emplois-pour-les-jeunes-sanspapiers.html
 1084494-apprentis-sanspapiers-vaud-exige-une-analyse.html
 10845040-petit-internement-pour-carlos-le-jeune-detenu-tres-mediatise.html
@@ -1928,7 +1928,7 @@
 10854709-le-ps-nest-plus-toutpuissant-a-gauche-de-lechiquier-politique.html
 1085471-une-panne-electrique-a-plonge-lausanne-dans-le-noir.html
 10855511-deux-comites-sopposent-a-lextension-a-lorientation-sexuelle-de-la-norme-penale-antiraciste.html
-1085564-.html
+!1085564-.html
 10855763-de-la-greve-du-climat-a-la-greve-des-bebes.html
 10855936-les-bunkers-convertis-en-data-center-souffrent-de-la-concurrence-de-lue.html
 10857094-christian-levrat-cest-a-dautres-dorienter-le-ps-je-les-laisserai-faire.html
@@ -2101,8 +2101,8 @@
 10942074-les-cff-offriront-l-internet-gratuit-sur-les-grandes-lignes-des-fin-2020.html
 10942092-aucune-rocade-au-sein-du-conseil-federal-apres-lelection-de-mercredi.html
 10942173-vers-une-institution-nationale-pour-la-defense-des-droits-humains-en-suisse.html
-1094219-.html
-1094220-.html
+!1094219-.html
+!1094220-.html
 1094224-g8-proces-de-laffaire-du-pont-de-laubonne.html
 10942254-les-employes-federaux-devront-limiter-leurs-trajets-en-avion.html
 10942685-le-conseil-federal-ne-veut-pas-interdire-lexperimentation-animale.html
@@ -2138,7 +2138,7 @@
 10960647-une-firme-suisse-victime-des-sanctions-de-trump-contre-un-gazoduc-russe.html
 10960860-alain-berset-sinquiete-des-conditions-doctroi-severes-des-rentes-ai.html
 10961111-quand-des-parlementaires-de-tous-bords-deviennent-colocataires-a-berne.html
-1096131-.html
+!1096131-.html
 1096135-mandat-darret-contre-un-exministre-iranien.html
 10961645-le-bernois-albert-rosti-va-quitter-la-presidence-de-ludc.html
 10961657-le-conseil-suisse-de-la-presse-noye-sous-les-plaintes-veut-plus-de-moyens.html
@@ -2148,8 +2148,8 @@
 10962759-le-referendum-contre-la-loi-sur-lidentification-electronique-a-abouti.html
 10963965-les-nouveaux-elus-issus-de-la-vague-verte-ont-peu-bouleverse-le-parlement.html
 10964355-la-reforme-de-la-loi-sur-lasile-a-booste-les-departs-volontaires-de-requerants.html
-1096441-.html
-1096442-.html
+!1096441-.html
+!1096442-.html
 1096445-lhistorien-jeanfrancois-bergier-est-decede.html
 10964486-il-y-a-20-ans-louragan-lothar-balayait-des-milliers-dhectares-de-foret.html
 10964659-le-taux-daide-sociale-en-suisse-est-en-baisse-une-premiere-depuis-10-ans.html
@@ -2181,8 +2181,8 @@
 10979056-des-bus-et-trains-moins-chers-pour-inciter-les-seniors-a-lacher-le-volant.html
 10979394-un-conseil-federal-en-groupe-de-jazz-pour-sa-photo-officielle.html
 10979706-les-touristes-sont-peu-sensibles-aux-criteres-durables.html
-1097989-.html
-1097990-.html
+!1097989-.html
+!1097990-.html
 1097995-en-suisse-un-adulte-sur-six-ne-sait-pas-lire.html
 10980649-la-confederation-veut-denaturaliser-une-sympathisante-romande-de-lei.html
 10980854-simonetta-sommaruga-evoque-le-pain-quotidien-dans-ses-voeux-pour-2020.html
@@ -2214,13 +2214,13 @@
 10993360-en-2020-il-pourrait-y-avoir-jusqu-a-16-sujets-de-votations-federales.html
 10993711-la-campagne-de-linitiative-pour-plus-de-logements-abordables-lancee.html
 10994380-la-congelation-des-ovules-vrai-ou-faux-cadeau-pour-les-femmes.html
-1099443-rsr-comparaison-matin-bleu-20-minutes-8-mars-journal-du-matin.html
+!1099443-rsr-comparaison-matin-bleu-20-minutes-8-mars-journal-du-matin.html
 1099511-vendanges-la-recolte-se-presente-bien.html
 1099626--20-minutes-en-caissettes-des-le-8-mars.html
 10996484-les-opposants-aux-nouveaux-avions-de-combat-lancent-leur-referendum.html
 10996952-lagenda-parlementaire-nest-plus-compatible-avec-une-vie-moderne.html
 10999979-lunion-syndicale-suisse-veut-ouvrir-en-2020-une-nouvelle-ere-de-solidarite.html
-1100025-.html
+!1100025-.html
 11002180-30-ans-sans-enfant-et-sterilisee.html
 1100310-les-exdirigeants-de-la-bcv-devant-la-justice.html
 11003165-les-suisses-dorigine-etrangere-penalises-sur-le-marche-de-lemploi.html
@@ -2314,7 +2314,7 @@
 11040753-les-caisses-maladie-mettent-fin-au-demarchage-intempestif.html
 1104137-assistance-au-suicide-le-flou-demeure.html
 11042399-la-migration-principal-amplificateur-des-emissions-de-c02-selon-l-udc.html
-1104264-.html
+!1104264-.html
 1104267-local-d-injection-feu-vert-de-lausanne.html
 11042739-mathias-reynard-lance-sa-candidature-en-binome-pour-copresider-le-ps.html
 1104330-appel-a-la-lutte-contre-l-islamophobie.html
@@ -2358,8 +2358,8 @@
 1105727-le-76e-salon-de-lauto-ouvre-ses-portes.html
 11057329-le-cout-des-dispositifs-medicaux-a-nouveau-pointe-du-doigt.html
 11057573-la-suisse-sorganise-pour-rapatrier-ses-citoyens-depuis-wuhan-en-chine.html
-1105762-rsr-crainte-d-une-ruee-chez-les-veterinaires-1er-mars-journal-du-matin-01-03-2006.html
-1105765-rsr-pas-de-confinement-pour-les-chats-helvetiques-1er-mars-journal-du-matin-01-03-2006.html
+!1105762-rsr-crainte-d-une-ruee-chez-les-veterinaires-1er-mars-journal-du-matin-01-03-2006.html
+!1105765-rsr-pas-de-confinement-pour-les-chats-helvetiques-1er-mars-journal-du-matin-01-03-2006.html
 11057657-les-produits-potentiellement-addictifs-se-multiplient-alerte-addiction-suisse.html
 1105771-h5n1-a-geneve-h5-en-thurgovie.html
 11057721-nous-devons-en-faire-davantage-dans-la-cybersecurite-estime-viola-amherd.html
@@ -2379,8 +2379,8 @@
 1106465-robbie-williams-enflamme-le-stade-de-suisse.html
 1106589-champ-dollon-record-de-surpopulation-battu.html
 11065917-ludc-a-de-la-peine-a-trouver-un-successeur-a-albert-rosti.html
-1106614-rsr-le-directeur-rsr-renouvelle-sa-confiance-en-pascal-decaillet-10-mars-journal-du-matin.html
-1106617-rsr-discussion-autour-de-forums-et-de-son-animateur-pascal-decaillet.html
+!1106614-rsr-le-directeur-rsr-renouvelle-sa-confiance-en-pascal-decaillet-10-mars-journal-du-matin.html
+!1106617-rsr-discussion-autour-de-forums-et-de-son-animateur-pascal-decaillet.html
 1106618-conflit-rsr-decaillet-la-direction-calme-le-jeu.html
 1106619-forums-de-la-rsr-pascal-decaillet-s-en-va.html
 1106752-la-droite-veut-sauver-les-meubles-a-lausanne.html
@@ -2419,7 +2419,7 @@
 11085127-selon-unia-les-conditions-de-travail-chez-nespresso-sont-alarmantes.html
 11085282-le-conseil-federal-ouvre-une-enquete-pour-espionnage-sur-lentreprise-crypto.html
 11086206-une-grosse-panne-chez-swisscom-a-paralyse-les-numeros-durgence.html
-1108662-.html
+!1108662-.html
 11087118-la-neutralite-suisse-porte-ouverte-aux-services-de-renseignement.html
 11087263-la-confederation-reporte-indefiniment-ses-directives-techniques-sur-la-5g.html
 11087467-la-poste-suspend-les-envois-de-lettres-et-colis-vers-la-chine.html
@@ -2511,7 +2511,7 @@
 11114438-la-suisse-suit-de-pres-levolution-du-coronavirus-aux-portes-du-pays.html
 11114510-des-rangers-peuvent-amender-les-skieurs-qui-perturbent-les-animaux.html
 11114745-cedric-wermuth-il-manque-de-la-clarte-a-la-tete-du-parti-socialiste.html
-1111511-rsr-les-fribourgeois-divises-21-mai-emission-speciale-17-h.html
+!1111511-rsr-les-fribourgeois-divises-21-mai-emission-speciale-17-h.html
 1111516-communes-fribourg-aura-sa-salle-de-spectacle.html
 11115749-face-au-coronavirus-covid19-vouloir-fermer-les-frontieres-est-illusoire.html
 11116186-les-syndicats-s-engagent-contre-l-initiative-de-limitation-de-l-udc.html
@@ -2536,7 +2536,7 @@
 11124630-lallemand-perd-du-terrain-en-suisse-alors-que-le-francais-progresse.html
 11124868-pas-question-de-penaliser-la-recolte-frauduleuse-de-signatures-en-suisse.html
 11124922-la-suisse-a-ferme-les-yeux-sur-les-adoptions-illegales-denfants-srilankais.html
-1112543-.html
+!1112543-.html
 1112626-feu-vert-aux-balles-expansives-en-suisse.html
 11126837-les-cff-et-le-bls-ont-percu-des-subventions-en-trop.html
 1112696-bernard-bertossa-prend-sa-retraite.html
@@ -2601,7 +2601,7 @@
 11148788-un-homme-de-76-ans-decede-du-coronavirus-a-balecampagne-la-2e-victime-en-suisse.html
 11148840-marches-des-femmes-en-suisse-et-dans-le-monde-en-depit-du-covid-19.html
 1114915-marly-82-fusils-d-assaut-voles-dans-un-abri-pc.html
-1114982-.html
+!1114982-.html
 1114984-gros-eboulement-aux-dentsdumidi.html
 1115001-incendie-a-champdollon-affaire-classee.html
 11150572-les-cas-daide-au-suicide-ne-se-sont-pas-multiplies-dans-les-ems.html
@@ -2651,7 +2651,7 @@
 11171844-la-centrale-nationale-dalarme-bat-le-rappel-des-troupes-face-au-covid19.html
 11172022-message-du-conseil-federal.html
 11172322-lofsp-detaille-les-restrictions-pour-le-cercle-prive-et-pour-les-commerces.html
-1117301-.html
+!1117301-.html
 11173034-premiers-effets-des-mesures-de-prevention-dans-une-dizaine-de-jours.html
 11173373-le-proces-fifa-sombre-devant-la-justice-federale-a-cause-du-covid19.html
 11173379-le-dfae-rappelle-quil-nexiste-pas-de-droit-au-rapatriement-en-suisse.html
@@ -2699,7 +2699,7 @@
 11189609-visualisez-levolution-du-coronavirus-aux-frontieres-suisses-en-cartes.html
 1118968-votations-entre-desarroi-et-satisfaction.html
 11189958-il-ny-a-pas-de-traitement-miracle-ni-detude-convaincante-pour-le-moment.html
-1119013-.html
+!1119013-.html
 1119137-l-agglomeration-lausanne-morges-se-dessine.html
 1119145-les-partis-unis-autour-du-milliard-de-cohesion.html
 11191496-hausse-des-accouchements-a-domicile-en-raison-de-la-pandemie-de-covid19.html
@@ -2718,7 +2718,7 @@
 11198378-la-promiscuite-dans-les-centres-federaux-met-en-danger-les-requerants-dasile.html
 1119839-christoph-blocher-recoit-son-homologue-turc.html
 11198408-la-pyramide-des-ages-peut-doubler-le-nombre-de-victimes-du-coronavirus.html
-1119872-.html
+!1119872-.html
 11198738-le-parlement-en-session-extraordinaire-a-bernexpo-au-mois-de-mai.html
 1119931-loi-antiraciste-blocher-trouble-ses-collegues.html
 11200261-le-deploiement-de-larmee-suisse-contre-le-covid19-essuie-des-critiques.html
@@ -2737,7 +2737,7 @@
 11207262-lunion-sacree-du-monde-politique-face-au-coronavirus-vraiment.html
 11207595-les-suisses-estiment-connaitre-et-suivre-les-mesures-de-lofsp-a-la-lettre.html
 11209657-ignazio-cassis-appelle-la-confederation-et-le-tessin-a-la-cohesion.html
-1120986-.html
+!1120986-.html
 11209968-le-role-des-symboles-comme-ciment-de-la-nation-en-temps-de-crise.html
 1121006-norme-antiraciste-ludc-revient-a-la-charge.html
 1121024-lexecutif-biennois-critique-jurg-scherrer.html
@@ -2793,7 +2793,7 @@
 11229371-crash-dun-fa18-en-aout-2016-le-controle-aerien-sans-doute-en-cause.html
 11229396-pas-de-majorite-pour-un-relachement-du-semiconfinement-en-suisse-selon-un-sondage.html
 11229453-une-mortalite-hors-norme-due-au-coronavirus-deja-perceptible-en-suisse.html
-1122950-itw-de-bernard-rappaz-29-aout-journal-du-matin.html
+!1122950-itw-de-bernard-rappaz-29-aout-journal-du-matin.html
 1122955-cannabis-contre-projet-a-la-depenalisation.html
 1122957-peine-du-chanvrier-bernard-rappaz-confirmee.html
 11229598-il-faudrait-25-millions-de-masques-par-jour-pour-deconfiner-les-suisses.html
@@ -2873,7 +2873,7 @@
 11261556-deux-fois-moins-de-patients-de-la-pandemie-aux-soins-intensifs-genevois.html
 11263364-encore-de-nombreuses-incertitudes-avant-la-reouverture-des-commerces.html
 11263434-la-suisse-plutot-bonne-eleve-en-matiere-de-liberte-de-la-presse.html
-1126387-rsr-le-commentaire-de-daniel-rieder-27-decembre-journal-du-matin.html
+!1126387-rsr-le-commentaire-de-daniel-rieder-27-decembre-journal-du-matin.html
 1126390-laffaire-schaffter-se-mue-en-juragate.html
 11264491-deux-projets-pour-soutenir-les-creches-en-elaboration-au-parlement.html
 11264762-applaudissements-et-belles-paroles-ne-suffisent-plus-au-personnel-soignant.html
@@ -2962,7 +2962,7 @@
 11297121-podcast-le-covid19-nous-pousseratil-a-nous-remettre-au-velo.html
 11297333-attention-les-tiques-sont-de-retour-avec-le-beau-temps.html
 11297485-la-pandemie-du-coronavirus-la-fin-d-un-monde-pour-bertrand-kiefer.html
-1129763-.html
+!1129763-.html
 1129768-soleure-sacre-fredi-murer-et-son-vitus-.html
 11298381-le-parlement-reprend-la-main-sur-la-gestion-de-la-crise-du-covid19.html
 1129863-loi-sur-l-asile-premier-bilan-critique.html
@@ -3000,8 +3000,8 @@
 11309103-agroscope-fonctionnera-avec-trois-centres-mais-avec-25-emplois-en-moins.html
 11309135-face-a-la-crise-des-suisses-donnent-leur-sang-pour-la-premiere-fois.html
 11309383-qui-paiera-au-final-les-tests-de-depistage-du-covid19.html
-1130973-.html
-11311158-le-temoignage-d-une-eleve-pendant-ses-vacances-forcees-.html
+!1130973-.html
+!11311158-le-temoignage-d-une-eleve-pendant-ses-vacances-forcees-.html
 11311176-le-cbd-rencontre-le-succes-dans-cette-periode-de-confinement.html
 11312552-la-suisse-franchit-une-etape-decisive-dans-le-deconfinement.html
 11312582-les-precautions-a-prendre-dans-les-differents-moyens-de-transports.html
@@ -3075,7 +3075,7 @@
 11337983-une-aide-federale-se-dessine-pour-les-loyers-des-commercants-en-difficulte.html
 1133838-geneve-crise-sur-la-moralite-au-college.html
 1133851-confinement-des-volailles-leve-en-suisse.html
-1133906-.html
+!1133906-.html
 1133909-la-future-metropole-lemanique-se-dessine.html
 11339091-la-suisse-toujours-a-la-traine-pour-lenergie-solaire-et-eolienne.html
 1133922-les-nouveaux-billets-presenteront-des-skieurs.html
@@ -3098,12 +3098,12 @@
 11347059-la-majorite-des-meres-souhaiteraient-travailler-plus-selon-pro-familia.html
 11347098-le-secteur-touristique-reclame-un-assouplissement-des-restrictions-au-8-juin.html
 1134736-le-tessin-est-desormais-un-canton-sans-fumee.html
-1134842-.html
+!1134842-.html
 1134845-loi-antiraciste-blocher-revient-a-la-charge.html
 11349140-les-grevistes-du-climat-presentent-un-plan-daction-pour-faire-face-a-la-crise.html
 11349273-les-grandsparents-tres-sollicites-en-suisse-pour-la-garde-des-enfants.html
-1135032-.html
-1135033-.html
+!1135032-.html
+!1135033-.html
 1135038-werner-ferrari-de-nouveau-devant-la-justice.html
 11352345-linitiative-sur-les-multinationales-responsables-a-nouveau-debattue.html
 11352514-la-confederation-prevoit-300-millions-de-francs-pour-vacciner-la-population.html
@@ -3258,7 +3258,7 @@
 11407755-le-referendum-contre-les-nouveaux-avions-de-combat-est-depose.html
 11407791-dans-quelles-villes-suisses-prendon-le-plus-son-pied-en-marchant.html
 11408265-podcast-estce-que-les-etudiantes-vont-devenir-de-plus-en-plus-pauvres.html
-1140867-.html
+!1140867-.html
 11408827-les-chevreuils-du-hornli-mangeront-les-pissenlits-par-la-fleur-quelques-jours-de-plus.html
 11410443-le-pilote-en-accusation-apres-le-crash-dun-fa18-en-2015-en-france.html
 11410540-pourquoi-la-suisse-netait-pas-prete.html
@@ -3286,7 +3286,7 @@
 11420908-rapport-severe-sur-des-renovations-a-lambassade-de-suisse-a-washington.html
 11421195-un-rapport-confirme-les-lacunes-dans-le-controle-de-lor-importe-en-suisse.html
 1142189-glaris-dit-oui-au-droit-de-vote-a-16-ans.html
-1142199-rsr-berne-se-prononcera-dans-un-mois-7-mai-journal-du-matin.html
+!1142199-rsr-berne-se-prononcera-dans-un-mois-7-mai-journal-du-matin.html
 1142221-crissier-fusillade-au-centre-islamique.html
 11422222-cest-leconomie-qui-a-le-plus-a-perdre-en-acceptant-linitiative-de-limitation.html
 11422581-le-sexisme-dans-larcheologie-une-realite-trop-peu-connue.html
@@ -3459,7 +3459,7 @@
 11482588-une-visite-officielle-delicate-pour-simonetta-sommaruga-en-ukraine.html
 11482591-operation-antimafia-entre-la-suisse-et-litalie-75-personnes-arretees.html
 11482742-le-ps-suisse-veut-un-plan-de-relance-lie-a-la-protection-du-climat.html
-1148278-rsr-portrait-de-la-conseillere-nationale-26-juin-journal-du-matin-26-06-2007.html
+!1148278-rsr-portrait-de-la-conseillere-nationale-26-juin-journal-du-matin-26-06-2007.html
 11482794-bilan-juge-positif-apres-la-visite-de-simonetta-sommaruga-en-ukraine.html
 1148281-liliane-chappuis-est-subitement-decedee.html
 11482969-la-recherche-suisse-a-utilise-moins-danimaux-de-laboratoire-en-2019.html
@@ -3494,7 +3494,7 @@
 1149103-la-suisse-vibre-et-felicite-alinghi.html
 11491505-plusieurs-parlementaires-veulent-reformer-le-ministere-public-de-la-confederation.html
 1149160-ernesto-bertarelli-quitte-nyon-pour-saanen.html
-1149173-.html
+!1149173-.html
 11491738-le-trafic-touristique-reste-encore-loin-des-standards-estivaux.html
 11491775-geneve-veut-produire-ses-propres-masques-pour-eviter-les-penuries.html
 11491806-la-poste-publiera-une-fourchette-de-salaires-pour-ses-offres-demploi.html
@@ -4285,7 +4285,7 @@
 11802156-la-suisse-dispose-dun-nombre-record-de-vaccins-contre-la-grippe.html
 1180226-la-suisse-et-la-turquie-gomment-les-tensions.html
 11802280-pres-de-70-centimetres-de-neige-sont-tombes-dans-la-nuit-en-montagne.html
-1180280-.html
+!1180280-.html
 11803519-lofsp-prevoit-70000-vaccinations-par-jour-a-partir-de-janvier-mais-de-nombreuses-questions-demeurent.html
 11803848-la-crise-sanitaire-devrait-couter-550-millions-aux-caisses-maladie.html
 1180406-geneve-se-decharge-des-dechets-napolitains.html
@@ -4420,8 +4420,8 @@
 11854335-les-suisses-veulent-plus-de-services-numeriques-de-la-part-des-autorites.html
 11854345-premieres-vaccinations-dans-quatre-cantons-romands.html
 11855334-quelles-nouvelles-regles-sur-les-routes-en-2021.html
-1185534-les-explications-de-stephane-deleury-23-avril-journal-du-matin-23-04-2008.html
-1185534-les-explications-de-stephane-deleury-23-avril-journal-du-matin.html
+!1185534-les-explications-de-stephane-deleury-23-avril-journal-du-matin-23-04-2008.html
+!1185534-les-explications-de-stephane-deleury-23-avril-journal-du-matin.html
 11855480-la-pandemie-entame-loptimisme-financier-des-suisses-pour-2021.html
 11855560-ces-personnalites-suisses-qui-nous-ont-quittes-en-2020.html
 11857182-fedpol-fait-recours-a-la-cour-supreme-bernoise-dans-laffaire-car-postal.html
@@ -4443,7 +4443,7 @@
 11863729-premiere-edition-du-dry-january-janvier-sans-alcool-en-suisse.html
 11863735-fete-illegale-interrompue-a-villeneuve-vd-mais-nouvel-an-plutot-calme-en-suisse.html
 11863736-guy-parmelin-mise-sur-leducation-pour-la-cohesion-de-la-suisse.html
-1186382-.html
+!1186382-.html
 1186383-la-suisse-dans-l-ere-de-la-mobilite-douce.html
 11864075-souche-sudafricaine-du-coronavirus-detectee-chez-une-personne-au-tessin.html
 11865113-as-de-la-survie-le-chevaine-est-le-poisson-de-lannee-2021.html
@@ -4714,7 +4714,7 @@
 11972281-lidee-de-tests-covid19-de-masse-fait-son-chemin-dans-les-cantons.html
 11973385-une-bougie-par-mort-du-covid-a-brille-dans-la-nuit-lausannoise-samedi-soir.html
 11973531-le-record-de-froid-de-la-brevine-a-eu-chaud-ce-weekend-en-suisse.html
-11973642.html
+!11973642.html
 11973692-les-cantons-amplifient-leurs-pressions-pour-des-reouvertures-des-mars.html
 11974009-ignazio-cassis-lenvie-de-deconfiner-est-la-au-conseil-federal.html
 11974133-la-production-de-masques-suisses-sous-pression-des-prix-chinois.html
@@ -5217,7 +5217,7 @@
 12175381-bavures-et-rapports-trafiques-la-securite-derape-dans-les-centres-federaux-dasile.html
 12175458-nils-melzer-la-definition-de-la-loi-contre-le-terrorisme-est-beaucoup-trop-large.html
 12175634-le-procureur-federal-extraordinaire-de-laffaire-fifa-lauber-doit-se-recuser.html
-12175841.html
+!12175841.html
 12175862-radioactivite-decouverte-dans-les-moteurs-danciens-avions-de-larmee.html
 12175945-berna-biotech-renait-pour-relancer-la-fabrication-de-vaccins-en-suisse.html
 12176182-podcast-le-bruit-du-trafic-peutil-tuer.html
@@ -5433,7 +5433,7 @@
 12269225-partie-de-tennis-au-credit-suisse-les-activistes-desavoues-au-tribunal-federal.html
 12269764-des-parlementaires-suisses-et-europeens-demandent-de-maintenir-les-relations.html
 12269852-les-pediatres-mettent-en-garde-contre-le-danger-des-piles-bouton.html
-12269931-le-detail-des-assouplissements-des-mesures-covid-proposes-par-le-conseil-federal.html
+!12269931-le-detail-des-assouplissements-des-mesures-covid-proposes-par-le-conseil-federal.html
 12270065-recycler-ses-cheveux-pour-faire-des-tapis-antipollution.html
 12270211-guy-parmelin-et-ignazio-cassis-rencontreront-aussi-vladimir-poutine.html
 12270438-le-fonds-dindemnisation-pour-les-victimes-dabus-sexuels-de-leglise-catholique-prolonge.html
@@ -5631,7 +5631,7 @@
 12336703-un-depart-en-vacances-au-gout-de-bouchon-au-portail-nord-du-gothard.html
 12336964-podcast-qui-sont-les-livreurs-et-les-livreuses-de-repas-a-domicile.html
 12337054-la-journaliste-de-la-rts-jugee-pour-une-enquete-sur-les-armes-imprimables-exemptee-de-toute-peine.html
-12337979-la-pluie-tombee-sur-la-suisse-ces-trois-derniers-jours-aurait-pu-remplir-le-lac-de-neuchatel.html
+!12337979-la-pluie-tombee-sur-la-suisse-ces-trois-derniers-jours-aurait-pu-remplir-le-lac-de-neuchatel.html
 12338012-boire-ou-pedaler-il-faut-aussi-choisir-avertit-la-suva.html
 12338129-la-meteo-tres-humide-de-ce-debut-dete-inquiete-les-agriculteurs.html
 12339252-de-fortes-precipitations-ont-a-nouveau-touche-la-suisse-samedi-soir.html
@@ -5946,8 +5946,8 @@
 12477822-le-conseil-federal-augmente-son-aide-humanitaire-pour-lafghanistan.html
 12479460-alain-berset-il-faut-un-sursaut-si-on-veut-eviter-un-hiver-difficile.html
 12479584-les-places-de-jeux-polluees-devront-etre-assainies-au-plus-vite.html
-12479604-plainte-contre-lemission-forum-rejetee-par-le-conseil-suisse-de-la-presse.html
-12479642-le-conseil-suisse-de-la-presse-admet-partiellement-une-plainte-contre-le-19h30.html
+!12479604-plainte-contre-lemission-forum-rejetee-par-le-conseil-suisse-de-la-presse.html
+!12479642-le-conseil-suisse-de-la-presse-admet-partiellement-une-plainte-contre-le-19h30.html
 12479647-des-benevoles-face-au-loup-des-sextoys-connectes-a-risque-un-algorithme-pour-aider-le-fisc.html
 12479654-pourquoi-les-locataires-ne-veulent-pas-demenager-dans-des-appartements-plus-petits.html
 12479685-solide-au-1er-semestre-romande-energie-va-creer-250-emplois-dici-2026.html
@@ -6082,7 +6082,7 @@
 12544255-referendum-depose-contre-la-suppression-du-droit-de-timbre.html
 12544346-la-production-agricole-suisse-minee-par-une-meteo-peu-clemente.html
 12544457-les-cff-commandent-des-nouvelles-rames-pour-2-milliards-de-francs-a-stadler-rail.html
-12544921-des-regioexpress-a-nouveau-supprimes-en-raison-de-la-penurie-de-mecaniciens.html
+!12544921-des-regioexpress-a-nouveau-supprimes-en-raison-de-la-penurie-de-mecaniciens.html
 12544950-une-sante-de-proximite-toujours-plus-soutenue-par-la-population-suisse.html
 12546530-choisir-un-autre-avion-de-combat-nest-plus-possible-selon-viola-amherd.html
 12546609-letiquette-nutriscore-mal-notee-par-lunion-suisse-des-paysans.html
@@ -6468,7 +6468,7 @@
 12709252-la-rts-lance-loperation-de-solidarite-tout-est-possible.html
 12709898-restrictions-dans-le-cercle-prive-2g-fermetures-partielles-le-detail-des-mesures-mises-en-consultation-par-le-conseil-federal.html
 12709899-le-conseil-federal-souhaite-un-internet-a-80-mbits-pour-tout-le-monde-des-2024.html
-12710100.html
+!12710100.html
 12710345-swissmedic-autorise-la-vaccination-des-enfants-de-5-a-11-ans-avec-pfizer.html
 12711497-un-navire-suisse-a-enfin-pu-quitter-le-nigeria-apres-quatre-ans-de-blocage.html
 12711525-les-chutes-de-neige-ont-augmente-le-danger-davalanches-en-suisse.html
@@ -6690,7 +6690,7 @@
 12817546-horizon-europe-nous-vivons-les-premiers-revers-alerte-la-recherche.html
 12817797-le-conseil-federal-nira-pas-aux-jeux-olympiques-dhiver-de-pekin.html
 12817896-le-service-de-renseignement-de-la-confederation-sous-enquete-administrative.html
-12817925-le-conseil-federal-prevoit-12-milliards-pour-entretenir-et-etendre-le-reseau-routier.html
+!12817925-le-conseil-federal-prevoit-12-milliards-pour-entretenir-et-etendre-le-reseau-routier.html
 12817941-entre-comprehension-et-raslebol-parole-aux-nonvaccines-contre-le-covid.html
 12817968-des-experts-de-lonu-denoncent-un-racisme-systemique-en-suisse.html
 12818061-la-terre-a-moins-tremble-en-suisse-lan-dernier-mais-plus-intensement.html
@@ -9560,7 +9560,7 @@
 13912795-justine-mettraux-face-aux-couacs-techniques-il-faut-trouver-des-compromis.html
 13912806-en-suisse-le-montant-des-abus-aux-credits-covid-pourrait-atteindre-307-millions.html
 13913967-lobligation-de-formation-au-pilotage-de-drone-encore-trop-meconnue.html
-13914359-participez-a-notre-grande-enquete-nationale-sur-les-suissesses-et-les-suisses.html
+!13914359-participez-a-notre-grande-enquete-nationale-sur-les-suissesses-et-les-suisses.html
 13914371-les-aines-ignorent-souvent-leur-droit-aux-prestations-complementaires.html
 13914697-du-coworking-a-la-garderie-des-transports-sans-pilote-et-des-forets-sur-des-parkings.html
 13916176-linflation-contraint-les-chocolatiers-a-augmenter-le-prix-de-leurs-lapins-de-paques.html
@@ -9646,7 +9646,7 @@
 13951034-a-berlin-alain-berset-reaffirme-lopposition-suisse-a-la-reexportation-de-materiel-de-guerre.html
 13951064-la-delicate-position-des-verts-face-aux-actions-des-militants-climatiques-radicaux.html
 13951449-le-squelette-dun-trex-vendu-aux-encheres-a-zurich-pour-48-millions.html
-13951555-ueli-maurer-conteste-les-critiques-a-son-egard-sur-la-crise-de-credit-suisse.html
+!13951555-ueli-maurer-conteste-les-critiques-a-son-egard-sur-la-crise-de-credit-suisse.html
 13951775-amende-de-510-euros-pour-une-reservation-au-restaurant-non-honoree.html
 13952138-vu-pour-vous-alain-berset-en-visite-a-berlin.html
 13953201-berne-veut-augmenter-les-reserves-alimentaires-au-niveau-de-celles-de-la-guerre-froide.html
@@ -9770,7 +9770,7 @@
 13999531-les-usagers-romands-des-cff-verront-leur-temps-de-trajet-rallonge-des-2025.html
 13999576-dans-la-tete-des-russes-violence-dans-le-foot-amateur-et-le-remord-des-inventeurs.html
 14000351-une-video-au-ton-grave-pour-dissuader-les-moins-de-16-ans-de-consommer-du-porno.html
-14000763-inflation-comparez-votre-ticket-de-caisse-a-celui-de-lan-dernier.html
+!14000763-inflation-comparez-votre-ticket-de-caisse-a-celui-de-lan-dernier.html
 14000778-volodymyr-zelensky-sadressera-par-video-au-parlement-durant-la-session-dete.html
 14002117-le-plr-lance-sa-campagne-electorale-ce-samedi-a-kreunzlingen-tg.html
 14002224-viola-amherd-rencontre-le-pape-au-vatican-ou-23-nouveaux-gardes-suisses-pretent-serment.html
@@ -10338,7 +10338,7 @@
 14215847-les-favoris-a-la-succession-dalain-berset-ne-sortent-pas-encore-du-bois.html
 14217561-la-suisse-a-un-probleme-avec-les-etrangers-selon-ludc.html
 14217729-davantage-dinformations-pourront-etre-tirees-de-ladn-lors-de-delits-graves.html
-14217999-la-suisse-vatelle-legaliser-le-cannabis-des-villes-testent-la-vente-controlee-dherbe.html
+!14217999-la-suisse-vatelle-legaliser-le-cannabis-des-villes-testent-la-vente-controlee-dherbe.html
 14219452-la-loi-sur-le-climat-du-18-juin-a-su-seduire-les-electeurs-du-plr-et-du-centre.html
 14219506-nicolas-bideau-le-dispositif-est-pret-pour-evacuer-tous-les-suisses-du-niger.html
 14219570-des-arnaqueurs-fondent-sur-la-chauxdefonds-suisse-le-village-francais-une-radio-feminine-en-afghanistan.html
@@ -10497,7 +10497,7 @@
 14278607-philippe-nantermod-la-place-du-plr-sur-le-podium-permet-de-maintenir-un-gouvernement-de-droite-centredroit.html
 14278692-decouvrez-quel-parti-a-le-plus-de-moyens-pour-les-federales-dans-votre-canton.html
 14278928-christoph-blocher-a-investi-pres-de-550000-francs-dans-la-campagne-de-ludc.html
-14279050.html
+!14279050.html
 14279111-les-scenes-ouvertes-de-la-drogue-ca-change-quoi-pour-vous.html
 14279225-la-suisse-a-viole-le-droit-international-sur-les-vaccins-anticovid-selon-un-comite-de-lonu.html
 14279512-des-produits-chimiques-indesirables-dans-le-corps-des-habitants-et-habitantes-de-suisse.html
@@ -11464,8 +11464,8 @@
 1507943-la-journee-internationale-des-femmes-a-100-ans.html
 1508028-le-clan-nazarbaiev-investit-discretement-au-tessin.html
 1510067-locarno-le-cinema-suisse-en-bonne-voie.html
-1510105-.html
-1510106-.html
+!1510105-.html
+!1510106-.html
 1510141-le-cineaste-daniel-schmid-est-decede.html
 1510175-jeanstephane-bron-en-vedette-a-locarno.html
 15270367-le-conseil-federal-a-fixe-au-1er-janvier-lentree-en-vigueur-de-la-loi-dapplication-de-linitiative-antiburqa.html
@@ -11474,7 +11474,7 @@
 1722036-vers-une-presidence-de-la-confederation-allongee.html
 1722098-drame-de-la-jungfrau-l-armee-renonce-au-recours.html
 1722231-les-ouigours-de-guantanamo-sont-dans-le-jura.html
-1722689-la-reaction-d-oskar-freysinger-26-mars-journal-du-matin.html
+!1722689-la-reaction-d-oskar-freysinger-26-mars-journal-du-matin.html
 1723046-leau-du-robinet-servie-dans-tous-les-restaurants.html
 1723575-des-mesures-suite-a-la-mort-du-requerant-a-zurich.html
 1723576-un-requerant-decede-sur-le-tarmac-zurichois.html
@@ -11484,7 +11484,7 @@
 1737290-plainte-contre-l-udc-homosexuels-deboutes.html
 174591-claude-begle-ou-le-changement-de-ton-a-la-poste.html
 1761156-jura-la-decharge-de-bonfol-bientot-deterree.html
-1761373-le-millionnaire-c-hirschmann-condamne-pour-lesion-corporelle-et-voie-de-fait-3-decembre-le-journal-du-matin.html
+!1761373-le-millionnaire-c-hirschmann-condamne-pour-lesion-corporelle-et-voie-de-fait-3-decembre-le-journal-du-matin.html
 1767313-le-dalai-lama-est-en-suisse-pour-quelques-jours.html
 !1767689-l-interview-de-tenzin-jeune-femme-d-origine-tibetaine-en-suisse-depuis-36-ans-9-avril-le-journal-du-matin-08-04-2010.html
 !1767689-l-interview-de-tenzin-jeune-femme-d-origine-tibetaine-en-suisse-depuis-36-ans-9-avril-le-journal-du-matin.html
@@ -11496,7 +11496,7 @@
 1770636-le-dalailama-attire-la-grande-foule-a-zurich.html
 1775020-assemblee-de-nestle-coup-de-force-de-greenpeace.html
 1821417-droit-de-sejour-accorde-a-une-mere-sans-papiers.html
-1877518-le-pbd-qui-rit-le-plr-qui-pleure-29-mars-2010-le-journal-du-matin.html
+!1877518-le-pbd-qui-rit-le-plr-qui-pleure-29-mars-2010-le-journal-du-matin.html
 1877661-avs-un-nouveau-modele-de-retraite-anticipee.html
 1878286-pour-la-creation-d-une-liste-noire-des-pedophiles.html
 1878718-deux-etudiants-se-tuent-au-dessus-de-leysin.html
@@ -11515,4 +11515,4 @@
 1968632-ssr-roger-de-weck-remplace-armin-walpen.html
 1968741-tabagisme-passif-initiative-populaire-deposee.html
 1972575-le-principe-de-cassis-de-dijon-entre-en-vigueur.html
-1989777-debat-entre-francois-schaller-et-filippo-lombardi-19-mai-forum-19-05-2010.html
+!1989777-debat-entre-francois-schaller-et-filippo-lombardi-19-mai-forum-19-05-2010.html

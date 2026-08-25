@@ -9,7 +9,7 @@
 11955904-bob-pas-de-medaille-pour-les-helvetes.html
 12112013-bob-deces-du-champion-olympique-ekkehard-fasser.html
 12675303-bob-melanie-hasler-decroche-son-ticket-olympique.html
-12695269-bob-friedli-remplit-aussi-les-criteres-olympiques.html
+!12695269-bob-friedli-remplit-aussi-les-criteres-olympiques.html
 12790097-bob-melanie-hasler-manque-de-peu-le-bronze-en-monobob.html
 13576808-bob-largovienne-melanie-hasler-decroche-un-2e-podium.html
 13740136-bob-michael-vogt-en-lice-pour-une-medaille-mondiale-a-stmoritz.html

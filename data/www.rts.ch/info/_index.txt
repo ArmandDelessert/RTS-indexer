@@ -65,14 +65,14 @@
 12422357-patrick-mathys-le-niveau-de-cas-actuel-navait-plus-ete-atteint-depuis-la-2e-vague.html
 12424563-forte-disparite-dans-la-vaccination-entre-villes-et-campagnes-a-zurich.html
 12467951-ueli-maurer-se-montre-sceptique-face-a-une-eventuelle-extension-du-certificat-covid.html
-12483086.html
+!12483086.html
 12497034-arrestations-apres-une-menace-dattentat-contre-une-synagogue-allemande.html
 12522995-le-spd-devance-de-peu-la-cducsu-les-tractations-pour-former-une-coalition-sannoncent-longues.html
 12530584-les-cas-declares-et-les-hospitalisations-en-baisse-sur-la-derniere-semaine.html
 12549491-la-russie-va-inviter-les-talibans-a-des-pourparlers-internationaux.html
 12632445.html
 12646464-podcast-cest-quoi-le-metavers.html
-12651800.html
+!12651800.html
 12701017-macron-pecresse-le-pen-qui-sont-les-huit-favoris-de-la-presidentielle-francaise.html
 12746141-lancement-reussi-pour-le-telescope-spatial-james-webb-par-une-fusee-ariane-5.html
 12769153-plongee-dans-notre-serie-au-temps-des-centenaires.html
@@ -81,7 +81,7 @@
 12835031-interactions-entre-medicaments-et-aliments-gare-au-curcuma-et-au-lait.html
 12839374-didier-cuche-jespere-que-les-jeux-de-pekin-seront-les-derniers-de-lere-du-gigantisme.html
 12893292-les-centres-de-vaccination-neuchatelois-vont-fermer-le-25-mars.html
-12908010-frederik-paulsen-remet-son-mandat-de-consul-honoraire-russe-a-lausanne.html
+!12908010-frederik-paulsen-remet-son-mandat-de-consul-honoraire-russe-a-lausanne.html
 12948444-en-suisse-une-personne-sur-cent-est-touchee-par-la-schizophrenie.html
 12984591-malgre-le-nombre-croissant-de-pistes-cyclables-en-suisse-la-prudence-reste-de-mise.html
 12987194-avec-la-guerre-en-ukraine-la-fin-des-espoirs-dune-reconciliation-russojaponaise.html
@@ -399,7 +399,7 @@
 3958254-l-unil-songe-aussi-a-une-chaire-en-humanites-digitales-30-04-2012.html
 3966323-nicolas-sarkozy-n-est-pas-parvenu-a-avoir-le-dessus.html
 4004000-facebook-en-bourse-4-petites-histoires-en-marge-de-levenement.html
-4010395-les-dernieres-nouvelles.html
+!4010395-les-dernieres-nouvelles.html
 4037589-un-nouveau-duel-televise-le-pen-melenchon-tres-houleux.html
 4109351-le-liechtenstein-carte-d-identite-d-un-petit-etat-meconnu.html
 4173794-la-suisse-romande-compte-quelque-3-000-utilisateurs-actifs-sur-twitter-02-08-2012.html
@@ -478,7 +478,7 @@
 5250987-sondage-sur-le-jura.html
 5328559-trois-quarts-des-riverains-de-parcs-eoliens-pas-incommodes-par-les-installations.html
 5334689-commentaire-jura.html
-5347814-en-direct.html
+!5347814-en-direct.html
 5408193-playlist-armee.html
 5415444-luc-barthassat-veut-ouvrir-les-voies-de-bus-aux-deux-roues-a-geneve-29-11-2013.html
 5419531-sindi-arifi-vs-et-ilario-santoro-vd-sont-devenus-respectivement-miss-et-mister-suisse-romande-2014.html
@@ -531,7 +531,7 @@
 6245609-fusillade-dottawa-les-lieuxcles-sur-une-carte-explicative.html
 6272319-trois-morts-a-wilderswil-be-a-la-suite-dun-conflit-relationnel.html
 6285921-nouveaux-affrontements-a-jerusalem-est-et-en-cisjordanie.html
-6362077-la-trajectoire-du-typhon.html
+!6362077-la-trajectoire-du-typhon.html
 6387418-la-torture-est-justifiee-pour-51-des-americains-selon-un-sondage.html
 6400835-ebola-philae-djihadiste-ou-happy-les-mots-qui-ont-marque-2014.html
 6401105-l-ukraine-des-avions-et-des-vaches-a-hublot-les-images-qui-ont-marque-2014.html
@@ -548,7 +548,7 @@
 6559917-des-stars-retouchees-sur-photoshop-par-lartiste-espagnol-david-lopera-font-le-buzz-sur-internet.html
 6565377-la-fondation-genevoise-dinterpol.html
 6583920-les-opposants-russes-assassines.html
-6600421-linitiative-pdc-et-la-taxe-sur-lenergie-largement-refusees.html
+!6600421-linitiative-pdc-et-la-taxe-sur-lenergie-largement-refusees.html
 6610977-chen-jian-est-en-charge-de-la-rehabilitation-du-quartier.html
 6616574-la-composition-actuelle-de-la-knesset.html
 6621296-le-chanteur-italien-eros-ramazzotti-est-devenu-pere-pour-la-troisieme-fois.html
@@ -578,7 +578,7 @@
 7148434-seul-sur-mars-un-film-realiste-ou-une-fiction-remplie-dincoherences.html
 7161195-les-refugies-suivis-par-notre-reporter.html
 7167118-retour-vers-le-futur-cest-maintenant-mais-quen-restetil.html
-7188926-la-bataille-pour-le-second-tour-au-conseil-des-etats-canton-par-canton.html
+!7188926-la-bataille-pour-le-second-tour-au-conseil-des-etats-canton-par-canton.html
 7189275-la-delorean-volante-pilotee-par-doc-brown-universal.html
 7204835-les-intervenants-du-reportage-de-philippe-revaz.html
 7208118-les-reactions-de-la-presse-suisse.html
@@ -590,12 +590,12 @@
 7589412-photos-des-souvenirs-dans-lappartement-de-felix-rodriguez.html
 7617249-les-degats-a-palmyre.html
 7617260-les-biens-culturels-detruits-dans-les-musees-de-palmyre.html
-7656656.html
+!7656656.html
 7694921-la-vie-quotidienne-au-camp-de-maiaini-en-ethiopie.html
 7723038-les-images-des-intemperies-en-suisse-centrale.html
 7750555-les-dix-transferts-de-footballeurs-suisses-les-plus-chers-de-lhistoire-en-images.html
 7784184-donetsk-une-ville-aux-deux-visages.html
-7811204-le-foot-au-parlement.html
+!7811204-le-foot-au-parlement.html
 7862197-redecouvrir-les-emissions-cultes-de-la-tv-romande-depuis-les-annees-1960.html
 7883645-quelques-oeuvres-de-larchitecte-le-corbusier.html
 7887190-speleologue-transformiste-ou-mineur-nous-avons-teste-pour-vous.html

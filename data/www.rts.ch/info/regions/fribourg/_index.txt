@@ -809,7 +809,7 @@
 14648122-les-employees-de-la-ville-de-fribourg-auront-droit-a-un-conge-menstruel.html
 14650740-fribourg-tire-un-bilan-tres-positif-de-la-nouvelle-politique-regionale.html
 14656563-projet-pilote-pour-lutter-contre-la-precarite-a-fribourg.html
-14667854-une-formation-sur-lhydrogene-pour-la-transition-energetique-lancee-a-fribourg.html
+!14667854-une-formation-sur-lhydrogene-pour-la-transition-energetique-lancee-a-fribourg.html
 14669590-larmee-effectuera-des-atterrissages-sur-lautoroute-entre-avenches-et-payerne-en-juin.html
 3806362-un-employe-de-l-etat-de-fribourg-a-ete-suspendu-pour-vol-et-recel.html
 3896972-le-policier-qui-avait-tue-un-jeune-francais-sur-l-a1-sera-juge.html
@@ -1286,7 +1286,7 @@
 8141676-le-canton-de-fribourg-autorise-a-racheter-le-site-de-tetra-pak-a-romont.html
 8141866-bisbille-autour-d-un-statue-antique-pour-le-musee-bible-et-orient-de-fribourg.html
 8142247-le-canton-de-fribourg-impose-une-patente-aux-food-trucks.html
-8145192-fribourg-la-droite-fait-elire-quatre-de-ses-candidats-des-le-1er-tour.html
+!8145192-fribourg-la-droite-fait-elire-quatre-de-ses-candidats-des-le-1er-tour.html
 8158873-les-cff-ferment-le-dernier-centre-de-ressources-humaines-de-romandie.html
 8159109-un-recours-contre-le-parc-eolien-du-schwyberg-admis-en-derniere-instance.html
 8187201-les-habitants-de-la-ville-de-fribourg-prives-de-marrons-chauds-cet-hiver.html

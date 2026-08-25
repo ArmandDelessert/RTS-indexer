@@ -76,7 +76,7 @@
 10709804-baisse-du-nombre-de-baigneurs-dans-les-piscines-romandes-durant-l-ete.html
 10711777-des-cours-en-streaming-pour-eviter-lamphi-bonde-a-luniversite.html
 10720842-cedric-jotterand-il-y-a-un-lien-affectif-qui-lie-les-gens-a-la-presse-locale.html
-10721210-la-nouvelle-app-rtsinfo-est-en-ligne.html
+!10721210-la-nouvelle-app-rtsinfo-est-en-ligne.html
 10726402-tirs-de-regulation-de-la-population-des-cormorans-sur-le-lac-de-neuchatel.html
 10758852-il-y-a-25-ans-le-drame-de-lots-choquait-la-suisse-et-le-monde.html
 10787511-les-agriculteurs-en-quete-de-nouveaux-moyens-dirrigation-en-suisse.html
@@ -213,7 +213,7 @@
 12065431-les-details-des-chiffres-2020-de-la-criminalite-dans-les-cantons-romands.html
 12097277-les-circuits-courts-dans-lalimentation-peinent-a-repondre-a-la-demande.html
 12100326-les-petites-stations-de-ski-ont-moins-souffert-que-les-grandes-cet-hiver.html
-12112121.html
+!12112121.html
 12126332-accusations-de-harcelement-a-la-rts-rapports-denquetes-livres.html
 12130627-des-fetes-de-jeunesse-maintenues-dans-le-canton-de-vaud-annulees-a-fribourg.html
 12140568-peine-de-prison-ferme-requise-contre-lencaveur-valaisan-dominique-giroud.html
@@ -303,7 +303,7 @@
 13230801-lhopital-de-moutier-prive-de-la-plupart-de-ses-missions-dans-le-projet-hospitalier-jurassien.html
 13238422-les-girons-des-jeunesses-font-leur-grand-retour-dans-les-campagnes.html
 13240952-figure-de-lescalade-romande-marcel-remy-mort-a-99-ans-na-jamais-cesse-de-grimper.html
-13241370.html
+!13241370.html
 13243747-comment-echapper-aux-cyanobacteries-lors-des-baignades-de-lete.html
 13248381-les-habitants-de-mendrisio-ti-pries-deconomiser-leau-potable.html
 13253275-leau-des-fontaines-estelle-gachee-en-temps-de-canicule.html

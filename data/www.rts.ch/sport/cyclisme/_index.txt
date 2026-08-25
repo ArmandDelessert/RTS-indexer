@@ -435,7 +435,7 @@
 12547361-cyclisme-sur-piste-le-quatre-suisse-en-argent.html
 12549799-cyclisme-sur-piste-la-medaille-de-bronze-et-le-record-de-suisse-pour-imhof-en-poursuite.html
 12552908-cyclisme-sur-piste-pas-dexploit-suisse.html
-12554064-cyclisme-le-slovene-tadej-pogacar-remporte-le-tour-de-lombardie.html
+!12554064-cyclisme-le-slovene-tadej-pogacar-remporte-le-tour-de-lombardie.html
 12565611-tour-de-france-la-grande-boucle-fera-escale-a-lausanne-et-a-aigle-en-2022.html
 12566403-tour-de-france-joie-et-emotions-a-lausanne-et-aigle.html
 12566515-tour-de-france-4-mois-avec-sursis-requis-contre-la-spectatrice-a-la-pancarte.html
@@ -494,7 +494,7 @@
 13047275-cyclisme-cancellara-a-la-tete-de-la-nouvelle-equipe-tudor.html
 13048047-tour-de-romandie-2022.html
 13048047-tour-de-romandie.html
-1304873-.html
+!1304873-.html
 1304874-tdr-06-projet-de-reprise.html
 13050668-cyclisme-colbrelli-a-repris-une-activite-physique-legere.html
 13050901-tour-de-romandie-teuns-coiffe-dennis-a-1-metre-de-la-ligne-a-romont.html
@@ -579,7 +579,7 @@
 13239025-tour-de-france-cort-nielsen-gagne-la-10e-etape-pogacar-toujours-en-jaune.html
 13241207-tour-de-france-van-der-poel-jette-leponge.html
 13241218-tour-de-france-jonas-vingegaard-prend-le-pouvoir-au-sommet-du-granon.html
-13245143-tour-de-france-succes-de-mats-pedersen-a-saintetienne-kung-4e.html
+!13245143-tour-de-france-succes-de-mats-pedersen-a-saintetienne-kung-4e.html
 13247087-vtt-un-nouveau-podium-pour-camille-balanche.html
 13247099-tour-de-france-matthews-sadjuge-la-14e-etape-a-mende-vingegaard-se-defend-bien.html
 13248397-vtt-un-premier-podium-pour-la-saintgalloise-ramona-forchini-3e-place-pour-schurter.html
@@ -686,9 +686,9 @@
 1360112-fabian-cancellara-nie-tout-dopage.html
 13621743-cyclisme-reichenbach-bohli-pellaud-et-suter-chez-tudor.html
 13631324-tour-de-romandie-une-escapade-en-france-pour-la-76e-edition.html
-13638178-cyclocross-kuhn-surprenant-3e-a-val-di-sole.html
+!13638178-cyclocross-kuhn-surprenant-3e-a-val-di-sole.html
 13640556-vtt-la-suspension-contre-mathias-fluckiger-levee.html
-13656550-retrospective-2022-vingegaard-et-van-vleuten-regnent-sur-le-tour-de-france.html
+!13656550-retrospective-2022-vingegaard-et-van-vleuten-regnent-sur-le-tour-de-france.html
 13697970-cyclisme-derniere-saison-pour-thibaut-pinot.html
 13706201-cyclisme-le-world-tour-demarre-mardi-avec-4-suisses.html
 13709729-cyclisme-mark-cavendish-signe-chez-astana-pour-la-saison-2023.html
@@ -889,8 +889,8 @@
 4877115-tour-d-italie-2013.html
 4966938-les-equipes-bmc-et-iam-se-livreront-sans-doute-une-bataille-serree-lors-du-77e-tour-de-suisse-des-samedi.html
 5038553-un-nouveau-juteux-contrat-pour-fabian-cancellara.html
-5076913-sky-fait-un-pas-vers-lama.html
-5081917-tour-de-france-2014-3-etapes-sur-sol-anglais.html
+!5076913-sky-fait-un-pas-vers-lama.html
+!5081917-tour-de-france-2014-3-etapes-sur-sol-anglais.html
 5082288-froome-illumine-la-nuit-parisienne.html
 5083234-la-presse-britannique-salue-son-champion.html
 5088777-pantani-et-ullrich-etaient-bien-dopes-en-1998.html
@@ -927,7 +927,7 @@
 6517885-la-fondeuse-bernoise-nathalie-von-siebenthal-finit-3e-du-10-km-style-libre-des-mondiaux-m23-a-almaty.html
 6562092-cyclisme-stefan-kung-champion-du-monde-de-la-poursuite.html
 6600968-parisnice-2015.html
-6641399-milan-san-remo-2015.html
+!6641399-milan-san-remo-2015.html
 6678595-tour-des-flandres-2015.html
 6695236-cyclisme-degenkolb-enleve-paris-roubaix-au-sprint-elmiger-5e.html
 6695563-paris-roubaix-2015.html
@@ -1197,7 +1197,7 @@
 9528511-tour-de-romandie-deuxieme-a-sion-roglic-file-vers-la-victoire-finale.html
 9531207-autour-du-tour.html
 9549756-tour-du-yorkshire-une-voiture-astana-fonce-sur-un-signaleur.html
-958423-.html
+!958423-.html
 9665260-tour-de-france-michael-albasini-pas-retenu.html
 9678951-tour-de-france-porte-avec-kung-et-schar-sous-les-couleurs-bmc.html
 9679629-cyclisme-stefan-kung-conserve-son-bien.html

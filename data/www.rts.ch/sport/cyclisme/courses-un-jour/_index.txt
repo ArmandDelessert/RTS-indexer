@@ -3,8 +3,8 @@
 1253621-pas-de-romands-aux-mondiaux-de-mendrisio.html
 1256342-le-velo-a-lhonneur-a-mendrisio.html
 1285809-cm-04-paris-tours-dekker-resiste-jusqu-au-bout.html
-1297804-.html
-1297805-.html
+!1297804-.html
+!1297805-.html
 1297806-cm-04-tour-de-lombardie-victoire-de-damiano-cunego.html
 1310041-tour-de-lombardie.html
 1310042-cyclisme-paristours-zabel-reussit-la-passe-de-trois.html

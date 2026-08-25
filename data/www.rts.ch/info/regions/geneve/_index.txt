@@ -835,7 +835,7 @@
 12272883-une-zone-agricole-a-bernex-ge-declassee-pour-y-construire-des-ecoles.html
 12280112-deux-genevois-presumes-djihadistes-juges-devant-la-justice-penale-federale.html
 12281420-les-images-fortes-du-sommet-bidenpoutine.html
-12284818-la-plainte-de-pierre-maudet-visant-deux-reportages-de-la-rts-a-ete-acceptee-a-laiep.html
+!12284818-la-plainte-de-pierre-maudet-visant-deux-reportages-de-la-rts-a-ete-acceptee-a-laiep.html
 12284906-geneve-sera-liberee-des-barbeles-et-barrieres-samedi.html
 12287535-geneve-prevoit-des-amendes-pour-faire-appliquer-le-salaire-minimum.html
 12289103-extinction-rebellion-sen-prend-a-la-fondation-ethos.html
@@ -1001,7 +1001,7 @@
 12733957-un-outil-numerique-pour-faciliter-la-redaction-des-directives-anticipees.html
 12734194-un-proprietaire-genevois-aurait-soustrait-200-appartements-du-marche-locatif.html
 12745006-la-prison-genevoise-de-champdollon-tient-son-nouveau-directeur-ad-interim.html
-12753464-disparition-de-deux-enfants-anglophones-a-geneve.html
+!12753464-disparition-de-deux-enfants-anglophones-a-geneve.html
 12777376-a-geneve-debut-du-proces-en-appel-de-dominique-giroud-pour-tentative-de-piratage.html
 12779322-pierre-maudet-acquitte-dans-laffaire-du-voyage-a-abu-dhabi.html
 12783746-le-canton-de-geneve-veut-se-doter-de-davantage-de-voies-cyclables.html
@@ -1133,7 +1133,7 @@
 13089485-le-tf-admet-pour-discrimination-le-recours-dune-employee-en-situation-de-handicap.html
 13090245-a-geneve-la-reforme-du-systeme-de-remuneration-de-letat-peut-demarrer.html
 13095019-geneve-rejette-de-justesse-la-reforme-du-cycle-dorientation.html
-13095530.html
+!13095530.html
 13095855-dieudonne-condamne-en-appel-a-geneve-pour-propos-negationnistes.html
 13097559-geneve-sensibilise-aux-violences-familiales-liees-a-lorientation-sexuelle.html
 13097932-robin-des-bois-ou-escroc-le-proces-dun-pharmacien-souvre-a-geneve.html
@@ -1558,7 +1558,7 @@
 14035785-quelque-150000-spectateurs-a-geneve-pour-un-ballet-de-drones-unique-en-europe.html
 14036181-une-motion-demande-la-mise-en-place-dune-caisse-alimentaire-solidaire-a-geneve.html
 14039474-pour-sa-premiere-edition-la-manifestation-le-feu-o-lac-a-ravi-les-foules.html
-14039995-apres-zoug-geneve-baisse-aussi-une-taxe-pour-garder-ses-multinationales.html
+!14039995-apres-zoug-geneve-baisse-aussi-une-taxe-pour-garder-ses-multinationales.html
 14044221-une-manifestation-dactivistes-du-climat-a-perturbe-le-trafic-aerien-a-cointrin.html
 14044620-la-geneva-pride-2023-revient-en-juin-avec-50-revendications-politiques.html
 14045227-des-jeunes-en-decrochage-scolaire-montent-sur-la-scene-du-theatre-de-carouge.html
@@ -2387,7 +2387,7 @@
 6499484-les-policiers-genevois-menaces-de-licenciement-en-cas-de-greve.html
 6499559-la-mesure-du-grand-conseil-genevois-pour-limiter-la-speculation-annulee.html
 6502540-le-crash-dun-petit-avion-a-bernex-pres-de-geneve-a-fait-un-mort.html
-6502944-les-hauts-cadres-de-l-etat-de-geneve-perdent-leur-14e-salaire.html
+!6502944-les-hauts-cadres-de-l-etat-de-geneve-perdent-leur-14e-salaire.html
 6513151-plus-de-1700-candidats-pour-les-elections-municipales-genevoises-2015.html
 6516167-unia-geneve-demande-une-aide-pour-les-entreprises-frappees-par-le-franc-fort.html
 6518062-le-debat-sur-la-taxe-au-sac-relance-par-la-cour-des-comptes-a-geneve.html
@@ -3058,7 +3058,7 @@
 8041228-le-palais-de-justice-de-geneve-a-exceptionnellement-devoile-ses-secrets.html
 8042172-geneve-devient-le-plus-restrictif-pour-les-deductions-fiscales-des-pendulaires.html
 8052001-linterdiction-de-mendier-a-geneve-na-pas-suffi-a-eradiquer-le-phenomene.html
-8054537-le-proces-de-fabrice-a-ajourne-pour-plusieurs-mois.html
+!8054537-le-proces-de-fabrice-a-ajourne-pour-plusieurs-mois.html
 8056001-les-policiers-genevois-a-nouveau-en-conflit-avec-leur-hierarchie-.html
 8058006-une-petition-demande-le-depart-du-directeur-de-la-mosquee-de-geneve.html
 8058473-les-failles-des-institutions-genevoises-dans-laffaire-du-meurtre-dadeline.html

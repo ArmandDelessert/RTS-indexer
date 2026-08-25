@@ -250,7 +250,7 @@
 1244691-tyson-et-holyfield-reunis-sur-un-plateau-tv.html
 1244746-no-mercy-serieusement-blesse.html
 12448819-beachsoccer-la-suisse-manque-la-finale-pour-20-secondes.html
-12449748-beachsoccer-la-suisse-decroche-la-medaille-de-bronze.html
+!12449748-beachsoccer-la-suisse-decroche-la-medaille-de-bronze.html
 1245763-fin-de-carriere-pour-no-mercy.html
 1246359-victoire-de-nicola-spirig-a-londres.html
 12477067-tir-nina-christen-doit-se-reposer-suite-a-une-depression-postolympique.html
@@ -341,7 +341,7 @@
 12971640-xtreme-de-verbier-triomphe-des-suisses-sybille-blanjean-et-maxime-chabloz.html
 12986265-roman-roosli-avec-barnabe-nous-sommes-dans-le-moteur-doxford.html
 12986708-swiss-olympic-fin-de-travail-pour-la-task-force-covid.html
-12990459-aviron-oxford-bat-nettement-cambridge-sur-la-tamise.html
+!12990459-aviron-oxford-bat-nettement-cambridge-sur-la-tamise.html
 13046242-patrouille-des-glaciers-le-coup-denvoi-de-ledition-2022-est-reporte-de-24-heures.html
 13048259-patrouille-des-glaciers-cette-annee-cest-lesprit-de-cordee-qui-doit-primer.html
 13207540-orientation-matthias-kyburz-decroche-lor-mondial-en-ko-sprint.html
@@ -1056,7 +1056,7 @@
 8637270-formule-e-encore-une-victoire-pour-sebastien-buemi.html
 8642517-zap-rtssport-les-insolites-de-la-semaine-passee.html
 8655249-lausanne-est-maintenu-tom-dumoulin-entre-dans-lhistoire-du-giro-timea-bacsinszky-se-promene.html
-8657366-gym-acrobatique.html
+!8657366-gym-acrobatique.html
 8657378-rinkhockey.html
 8658663-alpinisme-lultraterrestre-jornet-soffre-une-2e-fois-leverest-en-7-jours.html
 8659956-zap-rtssport-les-insolites-de-la-semaine-passee.html

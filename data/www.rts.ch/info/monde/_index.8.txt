@@ -522,7 +522,7 @@
 8100836-les-djihadistes-de-lei-empecheraient-les-civils-de-quitter-mossoul-en-irak.html
 8100951-arret-de-cinq-reacteurs-nucleaires-francais-demande-pour-verification-.html
 8101467-sommet-a-berlin-avec-vladimir-poutine-sur-la-crise-en-ukraine-.html
-8101620-violence-pauvrete-racisme-immigration-religion-les-demons-de-lamerique.html
+!8101620-violence-pauvrete-racisme-immigration-religion-les-demons-de-lamerique.html
 8101642-l-equateur-reconnait-avoir-restreint-la-connexion-internet-d-assange.html
 8102133-les-citoyens-utilisent-les-referendums-pour-sanctionner-les-pouvoirs-en-place.html
 8102145-repit-dans-les-raids-aeriens-pour-la-ville-syrienne-dalep-avant-la-treve.html
@@ -775,7 +775,7 @@
 8149919-le-parlement-hongrois-desavoue-viktor-orban-sur-les-quotas-de-migrants.html
 8150113-une-journaliste-du-magazine-rolling-stone-condamnee-pour-diffamation.html
 8150128-le-sulfureux-americain-robert-dust-plaide-non-coupable-de-meurtre.html
-8150145-resultats-reactions-analyses-retour-sur-la-journee-qui-a-suivi-lelection-de-donald-trump.html
+!8150145-resultats-reactions-analyses-retour-sur-la-journee-qui-a-suivi-lelection-de-donald-trump.html
 8150464-cinq-recruteurs-presumes-de-l-ei-arretes-en-allemagne.html
 8150535-le-prince-harry-denonce-le-harcelement-envers-sa-nouvelle-compagne.html
 8151871-la-carte-des-resultats-des-elections-americaines.html
@@ -1240,7 +1240,7 @@
 8255731-la-justice-francaise-ouvre-une-enquete-sur-les-revelations-football-leaks.html
 8255898-camion-belier-a-berlin-la-police-confirme-que-l-attaque-etait-intentionnelle.html
 8256143-au-moins-25000-civils-et-rebelles-evacues-de-la-ville-syrienne-dalep.html
-8256228-camionbelier-a-berlin-la-police-confirme-que-lattaque-etait-intentionnelle.html
+!8256228-camionbelier-a-berlin-la-police-confirme-que-lattaque-etait-intentionnelle.html
 8256285-l-ei-revendique-l-attaque-pres-d-un-site-touristique-a-karak-en-jordanie.html
 8256599-la-russie-l-iran-et-la-turquie-adoptent-une-declaration-sur-la-syrie.html
 8256715-l-ecosse-presente-ses-solutions-pour-rester-dans-le-marche-unique-europeen.html
@@ -2230,7 +2230,7 @@
 8485523-macron-devant-le-pen-au-premier-tour-de-la-presidentielle-selon-un-sondage.html
 8485701-lauteur-de-lattentat-de-londres-etait-un-britannique-age-de-52-ans.html
 8485728-les-italiens-quittent-toujours-plus-tard-le-nid-familial-vers-40-ans-en-moyenne.html
-8485895-trois-ans-apres-son-naufrage-l-epave-du-sewol-emerge-des-flots-en-coree.html
+!8485895-trois-ans-apres-son-naufrage-l-epave-du-sewol-emerge-des-flots-en-coree.html
 8485971-edgar-morin-deja-resigne-a-voter-le-moindre-mal-au-2e-tour-en-france.html
 8485993-une-attaque-symbolique-et-low-cost-selon-la-presse-britannique.html
 8486152-la-coree-du-nord-accusee-du-piratage-de-la-banque-centrale-du-bangladesh.html
@@ -2664,8 +2664,8 @@
 8597716-les-partis-au-pouvoir-en-algerie-conservent-la-majorite-aux-legislatives.html
 8597853-les-exces-de-vitesse-responsables-d-un-tiers-des-accidents-mortels-de-la-route.html
 8597885-une-resolution-de-lunesco-sur-le-statut-de-jerusalem-fache-israel.html
-8598071-emmanuel-macron-et-marine-le-pen-au-second-tour-de-la-presidentielle.html
-8598296-de-laffaire-penelope-au-ps-qui-se-dechire-les-dix-tournants-dune-campagne-un-peu-folle.html
+!8598071-emmanuel-macron-et-marine-le-pen-au-second-tour-de-la-presidentielle.html
+!8598296-de-laffaire-penelope-au-ps-qui-se-dechire-les-dix-tournants-dune-campagne-un-peu-folle.html
 8598333-un-ancien-soldat-francais-soupconne-de-radicalisation-islamiste-arrete.html
 8598362-pres-de-900-arrestations-dans-le-monde-pour-de-la-pedopornographie.html
 8598420-des-dessinateurs-suisses-croquent-des-refugies-entre-israel-et-la-palestine.html
@@ -3637,7 +3637,7 @@
 8804422-heurts-apres-le-retour-des-palestiniens-sur-l-esplanade-des-mosquees.html
 8804689-lequipage-libere-le-navire-cstar-antimigrants-va-quitter-chyprenord.html
 8804957-la-nationalisation-par-paris-des-chantiers-navals-stx-fache-rome.html
-8804985-un-ancien-president-de-petrobras-arrete-pour-corruption-au-bresil.html
+!8804985-un-ancien-president-de-petrobras-arrete-pour-corruption-au-bresil.html
 8805272-les-etatsunis-ordonnent-a-leurs-diplomates-de-quitter-le-venezuela.html
 8805283-la-ministre-japonaise-de-la-defense-jette-l-eponge-apres-plusieurs-faux-pas.html
 8805404-le-congres-americain-adopte-de-nouvelles-sanctions-contre-la-russie.html
@@ -3682,7 +3682,7 @@
 8812656-l-assaillant-de-hambourg-a-agi-par-islamisme-radical-selon-le-parquet.html
 8813494-la-justice-espagnole-suspend-une-reforme-catalane-sur-l-independance.html
 8813656-le-chef-de-la-communication-de-la-maison-blanche-remplace-apres-10-jours.html
-8813662-les-etats-unis-qualifient-nicolas-maduro-de-dictateur-et-le-sanctionnent.html
+!8813662-les-etats-unis-qualifient-nicolas-maduro-de-dictateur-et-le-sanctionnent.html
 8814061-nicolas-maduro-se-moque-des-sanctions-prises-par-washington.html
 8814132-les-deux-principaux-opposants-venezueliens-a-nouveau-arretes.html
 8814333-trump-aurait-dicte-la-declaration-de-son-fils-sur-lavocate-russe.html
@@ -4041,7 +4041,7 @@
 8890590-une-solution-militaire-en-coree-du-nord-serait-suicidaire.html
 8890918-donald-trump-pourrait-supprimer-un-programme-de-protection-des-migrants.html
 8890951-an-der-grenze-a-la-frontiere-entre-la-suisse-et-lallemagne.html
-8890963-le-cri-etouffe-des-femmes-violees-par-le-regime-syrien-resonne-encore.html
+!8890963-le-cri-etouffe-des-femmes-violees-par-le-regime-syrien-resonne-encore.html
 8891059-le-prince-william-et-sa-femme-kate-attendent-un-troisieme-enfant.html
 8891107-l-onu-exige-une-enquete-sur-des-crimes-contre-l-humanite-au-burundi.html
 8891203-la-turquie-denonce-le-populisme-et-le-manque-de-vision-d-angela-merkel.html
@@ -4241,7 +4241,7 @@
 8943672-lhomme-daffaires-francais-bernard-tapie-traite-pour-un-cancer.html
 8944075-en-congres-le-labour-se-veut-plus-fort-que-jamais-au-royaumeuni.html
 8944161-les-kurdes-irakiens-votent-sur-l-independance-en-depit-des-pressions.html
-8944217-la-cducsu-dangela-merkel-remporte-les-legislatives-en-allemagne.html
+!8944217-la-cducsu-dangela-merkel-remporte-les-legislatives-en-allemagne.html
 8944509-nouvelles-frappes-americaines-contre-le-groupe-etat-islamique-en-libye-.html
 8944758-emmanuel-macron-enregistre-un-premier-revers-electoral-au-senat-francais.html
 8945144-de-nombreux-footballeurs-defient-donald-trump-lors-de-lhymne-americain.html

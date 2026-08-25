@@ -393,7 +393,7 @@
 12356694-lirezumi-ou-la-tradition-du-secret-du-tatouage-japonais.html
 12358160-parenthese-artistique-au-coeur-de-geneve-sur-lile-rousseau.html
 12360182-pourquoi-et-comment-devienton-collectionneur.html
-12361890.html
+!12361890.html
 12382510-la-plus-grande-collection-consacree-au-cocacola-est-vaudoise.html
 12398768-arnaud-dousse-un-dessinateur-fribourgeois-en-route-vers-le-succes.html
 12406443-ania-freindorf-la-photographe-des-glaciers.html
@@ -822,7 +822,7 @@
 14651185-le-visage-au-coeur-de-la-sixieme-biennale-de-la-collection-de-lart-brut.html
 14663064-laventuriere-et-photographe-romande-ella-maillart-a-lhonneur-au-musee-rath.html
 14666657-omar-ba-les-conflits-mondiaux-et-visions-biaisees-de-lafrique-dans-lexpo-engrenage.html
-14667152-la-fondation-beyeler-consacre-une-retrospective-au-photographe-canadien-jeff-wall.html
+!14667152-la-fondation-beyeler-consacre-une-retrospective-au-photographe-canadien-jeff-wall.html
 7687421-les-journees-photographiques-de-bienne-celebrent-leur-20e-anniversaire.html
 7718765-le-mythe-de-frankenstein-est-ne-il-y-a-200-ans-a-geneve.html
 7720800-record-pour-un-tableau-de-frida-kahlo-adjuge-8-millions-de-dollars.html
@@ -1083,7 +1083,7 @@
 8934615-ai-weiwei-en-chine-la-censure-est-tres-forte-et-elle-empoisonne-lart.html
 8939032-lartiste-afroamericain-basquiat-debarque-au-barbican-de-londres.html
 8945346-ai-weiwei-activiste-de-la-memoire.html
-8946291-ai-weiwei-activiste-de-la-memoire.html
+!8946291-ai-weiwei-activiste-de-la-memoire.html
 8947569-le-plus-grand-musee-du-japon-nabrite-que-de-fausses-oeuvres.html
 8955181-un-musee-entierement-consacre-a-la-plasticienne-japonaise-yayoi-kusama.html
 8955637-une-statue-en-forme-de-clitoris-ornera-le-quartier-de-la-gare-a-neuchatel.html

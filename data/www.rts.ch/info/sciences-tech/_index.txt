@@ -258,7 +258,7 @@
 1060830-facebook-pres-de-300-groupes-ont-ete-pirates.html
 10610057-des-chercheurs-ecoutent-la-foret-pour-comprendre-les-changements-environnementaux.html
 10610249-microgravite-et-radiations-affectent-la-sante-des-astronautes.html
-10610343.html
+!10610343.html
 10611745-cette-minuscule-aiguille-est-synonyme-despoir-pour-16-millions-de-patients.html
 10614131-la-cochlee-aide-les-archeologues-a-determiner-le-sexe-dun-squelette.html
 10616239-des-chercheurs-affirment-pouvoir-retarder-la-menopause-de-20-ans.html
@@ -359,8 +359,8 @@
 10865207-une-etude-menee-a-geneve-fait-le-lien-entre-obesite-et-boissons-sucrees.html
 10873437-stadia-la-derniere-innovation-de-google-pour-vendre-un-abonnement.html
 1087631-un-asteroide-coupable-de-lextinction-des-dinosaures.html
-1087752-.html
-1087753-.html
+!1087752-.html
+!1087753-.html
 1087754-swissmetro-toujours-dans-lattente.html
 1087756-le-projet-swissmetro-abandonne-faute-dargent.html
 10881300-rechercher-ses-ancetres-une-demarche-devenue-phenomene-social.html
@@ -412,7 +412,7 @@
 11044074-les-bornes-de-recharge-un-frein-a-lessor-de-la-voiture-electrique.html
 1104679-lexces-de-sucre-fait-des-millions-de-morts.html
 11048148-du-co2-pour-recycler-des-metaux-une-nouvelle-methode-prometteuse.html
-1104869-.html
+!1104869-.html
 1104874-apnee-du-sommeil-probleme-sur-la-route.html
 11052622-comment-le-coronavirus-de-wuhan-a-bouleverse-le-monde-en-vingt-jours.html
 11052821-des-albatros-recrutes-pour-detecter-les-pecheurs-illegaux.html
@@ -461,8 +461,8 @@
 1114342-le-tgv-fete-ses-25-ans.html
 1114479-dix-ans-de-dolly-premier-mammifere-clone.html
 1114484-des-ufs-de-poule-ogm-contre-le-cancer.html
-1115114-.html
-1115115-.html
+!1115114-.html
+!1115115-.html
 1115118-aljazeera-emet-en-anglais-et-vise-le-monde.html
 11151414-le-kakapo-un-tresor-de-levolution.html
 11151735-ce-que-lon-sait-du-coronavirus-a-ce-jour-le-point-en-neuf-questions.html
@@ -507,7 +507,7 @@
 11265304-le-covid19-une-inflammation-vasculaire-systemique-qui-peut-toucher-tous-les-organes.html
 11265703-limmunite-collective-contre-le-coronavirus-semble-loin-detre-atteinte.html
 11265763-des-capteurs-developpes-a-zurich-pourraient-permettre-de-detecter-le-coronavirus.html
-1126681-.html
+!1126681-.html
 1126686-un-moteur-de-recherche-estampille-wikipedia-.html
 11268588-des-chercheurs-bernois-dans-la-course-au-vaccin-contre-le-coronavirus.html
 11270263-la-densite-daraignees-des-jardins-est-140-fois-plus-basse-quil-y-a-40-ans.html
@@ -614,7 +614,7 @@
 11553210-des-chercheurs-disent-avoir-decouvert-un-premier-cas-de-reinfection-au-covid19-a-hong-kong.html
 11557922-un-nouveau-kit-3d-pour-favoriser-leducation-sexuelle.html
 11559187-la-genomique-a-la-rescousse-pour-etudier-levolution-du-coronavirus.html
-1155919-.html
+!1155919-.html
 1155925-les-plantes-aussi-ont-leur-dignite.html
 11559714-google-se-lance-dans-lassurance-maladie-aux-etatsunis-avec-swiss-re.html
 11559797-lhydroxychloroquine-na-pas-deffet-sur-la-mortalite-selon-une-recherche.html
@@ -866,7 +866,7 @@
 12167276-retour-sur-terre-du-vaisseau-spacex-avec-les-astronautes-de-liss.html
 12169177-willy-benz-lespace-cest-un-peu-la-conquete-de-louest-revisitee.html
 12169335-la-biodiversite-a-peu-profite-du-ralentissement-des-activites-humaines.html
-12169522.html
+!12169522.html
 12169936-nettoyer-les-bateaux-pourrait-devenir-plus-ecologique-a-lavenir.html
 12169962-podcast-un-monde-sans-tabac-estil-possible.html
 12171565-limpossible-retour-pour-les-pionniers-dinternet-yahoo-et-aol.html
@@ -949,7 +949,7 @@
 12380434-les-eponges-sont-peut-etre-la-plus-vieille-forme-de-vie-animale.html
 12380551-la-technologie-de-larn-messager-porteuse-despoirs-pour-dautres-maladies.html
 12380556-des-anticorps-dalpagas-contre-le-covid19-experience-en-cours-en-allemagne.html
-12381411.html
+!12381411.html
 12382387-logiciels-espions-grand-public-nos-smartphones-sous-surveillance.html
 12385144-deux-fois-plus-de-faons-ont-ete-sauves-cette-annee-grace-a-la-technologie.html
 12386649-la-fusee-ariane-5-a-lance-avec-succes-le-premier-satellite-flexible.html
@@ -1820,7 +1820,7 @@
 1942493-les-tiques-infectieuses-gagnent-du-terrain.html
 1963658-dernier-envol-pour-la-navette-atlantis.html
 1964179-la-voiture-eoliosolaire-icare-part-autour-du-monde.html
-1966963-.html
+!1966963-.html
 1967555-plus-de-poissons-dans-les-oceans-dans-40-ans.html
 1989717-le-cout-exorbitant-des-maux-de-dos-pour-l-economie.html
 2019357-google-street-view-il-faut-renforcer-la-loi-.html

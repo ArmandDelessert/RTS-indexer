@@ -145,7 +145,7 @@
 11904875-athletisme-del-ponte-construit-sa-maison-etage-par-etage.html
 11921382-athletisme-cinq-suisses-remplissent-les-minimas-pour-les-europeens-en-salle.html
 11938700-athletisme-ajla-del-ponte-bat-son-record-sur-60m.html
-11988146-athletisme-blanka-vlasic-met-un-terme-a-sa-carriere.html
+!11988146-athletisme-blanka-vlasic-met-un-terme-a-sa-carriere.html
 11997983-athletisme-une-delegation-suisse-record-aux-europeens-en-salle.html
 12019028-athletisme-charles-devantay-est-pret-pour-son-tour-de-piste.html
 12022957-athletisme-lea-sprunger-echoue-en-demifinales-du-400m.html
@@ -251,7 +251,7 @@
 12952243-athletisme-ehammer-vicechampion-du-monde-de-lheptathlon.html
 12953013-athletisme-loic-gasch-decroche-largent-mondial-a-la-hauteur.html
 12954065-athletisme-titre-et-nouveau-record-du-monde-pour-duplantis-a-la-perche.html
-12990088-athletisme-indispose-julien-wanders-termine-18e.html
+!12990088-athletisme-indispose-julien-wanders-termine-18e.html
 13008302-athletisme-record-de-suisse-pour-tadesse-abraham.html
 13030102-athletisme-manuela-schar-triomphe-pour-la-4e-fois-a-boston.html
 13041491-divers-marcel-hug-a-nouveau-honore-par-les-laureus-sports-awards.html
@@ -313,7 +313,7 @@
 13264603-athletisme-mondiaux-le-relais-4x100m-feminin-suisse-decevant-7e.html
 13266100-athletisme-mondiaux-duplantis-toujours-plus-haut-or-et-record-a-6m21.html
 13266221-athletisme-mondiaux-les-etatsunis-dominent-les-relais-4x400m-20e-medaille-pour-felix.html
-13266300-athletisme-mondiaux-ditaji-kambundji-stoppee-en-demie-malgre-un-record.html
+!13266300-athletisme-mondiaux-ditaji-kambundji-stoppee-en-demie-malgre-un-record.html
 13266386-athletisme-mondiaux-ditaji-kambundji-stoppee-en-demies-du-100m-haies-malgre-un-record.html
 13280580-athletisme-jacobs-peut-sentrainer-mais-est-incertain-pour-les-europeens.html
 13282436-athletisme-swiss-athletics-envoie-une-selection-de-46-athletes-a-munich.html
@@ -527,7 +527,7 @@
 6012793-monaco-2014.html
 6053338-athletisme-quatre-atouts-maitres-pour-la-suisse-a-zurich.html
 6054624-sierre-zinal-la-passe-de-trois-pour-kilian-jornet.html
-6057955-jeu-concours-rts-championnats-d-europe-d-athletisme-a-zurich.html
+!6057955-jeu-concours-rts-championnats-d-europe-d-athletisme-a-zurich.html
 6059023-athletisme-kambundji-et-hussein-en-demifinales.html
 6059475-athletisme-zbaren-et-urech-reussissent-leur-entree.html
 6061186-athletisme-kariem-hussein-en-course-pour-un-premier-reve.html

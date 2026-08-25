@@ -1408,7 +1408,7 @@
 7964241-le-mysterieux-manuscrit-voynich-livreratil-enfin-ses-secrets.html
 7964789-michel-butor-lecrivain-et-auteur-de-la-modification-est-decede.html
 7966675-hommage-a-michel-butor.html
-7967365-hommage-a-michel-butor.html
+!7967365-hommage-a-michel-butor.html
 7968650-bourde-de-la-ministre-francaise-de-la-culture-dans-son-hommage-a-butor.html
 7984333-michel-layaz-signe-un-onzieme-roman-sans-conteste-celui-de-la-maturite.html
 7987740-a-morges-le-livre-sur-les-quais-met-a-lhonneur-le-polar-scandinave.html
@@ -1512,7 +1512,7 @@
 8629740-un-livre-devoile-les-ultimes-dessins-de-mix-remix.html
 8641259-lecrivain-alex-capus-part-sur-les-traces-de-robert-stevenson.html
 8644147-ramuz-passe-present-et-avenir.html
-8644202-ramuz-70-ans-de-la-mort-dun-ecrivain-ancre-en-terres-romandes.html
+!8644202-ramuz-70-ans-de-la-mort-dun-ecrivain-ancre-en-terres-romandes.html
 8648017-prix-goncourt-2004-laurent-gaude-publie-son-premier-recueil-de-poesie.html
 8655731-lecrivain-americain-denis-johnson-est-mort-a-lage-de-67-ans.html
 8661670-le-roman-dhemingway-le-vieil-homme-et-la-mer-fait-peau-neuve.html
