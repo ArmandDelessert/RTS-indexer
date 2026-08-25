@@ -1,4 +1,3 @@
-./
 4091584-andre-vonarburg-finiratil-en-beaute.html
 4109311-guerdat-ne-veut-plus-de-tapis-vert.html
 4110562-lucas-tramer-un-rameur-ambitieux.html
@@ -19,7 +18,7 @@
 4157442-nadal-a-la-tete-dune-longue-liste-dabsents.html
 4158165-40000-francs-pour-un-suisse-en-or.html
 4158552-vos-commentaires-jo-2012.html
-4160802-jeu-concours-rts-a-l-occasion-des-jeux-olympiques-de-londres-2012.html
+4160802-jeu-concours-rts-a-loccasion-des-jeux-olympiques-de-londres-2012.html
 4160943-dame-fortune-sourit-a-fabian-kauter.html
 4161530-les-jeux-sont-faits-avec-sergei-aschwanden.html
 4161761-meichtry-fait-parler-son-experience.html
@@ -34,10 +33,9 @@
 4164924-le-conseil-de-sophie-lamon-a-tiffany-geroudet.html
 4164963-voir-et-revoir-tous-les-episodes.html
 4165152-le-village-olympique.html
-4165815-le-relais-francais-cree-la-sensation-en-coiffant-les-etats-unis-.html
+4165815-le-relais-francais-cree-la-sensation-en-coiffant-les-etatsunis.html
 4166506-agnel-nouveau-heros-tricolore-des-bassins.html
 4166545-rien-a-faire-pour-tiffany-geroudet-face-a-la-no1-mondiale.html
-4167156-suisses-in-the-city-escrime.html
 4167516-heyer-et-chevallier-soleils-dun-morne-lundi.html
 4167827-robra-prete-a-mettre-le-feu-le-1er-aout.html
 4167883-le-drame-dune-courageuse-et-fine-lam.html
@@ -45,16 +43,16 @@
 4169237-le-monde-de-la-natation-sinterroge-ye-shiwen-nagetelle-a-leau-propre.html
 4169256-les-jeux-sont-faits-avec-sophie-lamon.html
 4169287-heuscher-et-bellaguarda-nont-plus-le-droit-a-lerreur.html
-4169626-les-rameurs-helvetiques-ont-la-medaille-au-bout-du-plan-d-eau.html
+4169626-les-rameurs-helvetiques-ont-la-medaille-au-bout-du-plan-deau.html
 4170367-michael-phelps-puissance-19-entre-dans-la-legende.html
 4170562-lucas-tramer-souhaite-aller-au-bout-de-son-reve-londonien.html
-4170690-la-voile-suisse-n-a-pas-le-vent-en-poupe.html
-4170722-tsonga-sort-vainqueur-d-un-match-marathon.html
+4170690-la-voile-suisse-na-pas-le-vent-en-poupe.html
+4170722-tsonga-sort-vainqueur-dun-match-marathon.html
 4171288-quatre-paires-de-badminton-exclues-des-jeux-pour-matches-arranges.html
 4171329-vexe-le-team-usa-de-basket-se-fache-face-a-la-tunisie.html
 4171413-journee-noire-pour-lescrime-suisse-kauter-et-heinzer-sortis-en-8es.html
 4171510-heureusement-que-la-suisse-peut-compter-sur-roger-federer.html
-4171637-enorme-desillusion-pour-juliane-robra-sortie-d-entree.html
+4171637-enorme-desillusion-pour-juliane-robra-sortie-dentree.html
 4172254-pas-de-double-pour-la-paire-suisse.html
 4172470-valeureuse-la-paire-heyerchevallier-sincline.html
 4172893-trois-paires-suisses-qualifiee-pour-les-8es.html
@@ -65,7 +63,6 @@
 4175285-le-quart-part-sans-heyer-et-chevallier.html
 4175287-federer-rentrera-de-londres-dore-ou-argente.html
 4175577-spirig-vise-les-sommets-et-rien-dautre.html
-4176328-12-marc-rosset-et-la-reconversion-la-premiere-annee-a-ete-dure.html
 4176511-les-cavaliers-suisses-ont-les-dents-longues.html
 4177123-nicola-spirig-se-couvre-dor-au-bout-du-suspense.html
 4177535-heuscher-et-bellaguarda-sortis-a-leur-tour.html
@@ -92,7 +89,7 @@
 4192178-les-suedois-veulent-lor-de-spirig.html
 4192944-spirig-portedrapeau-de-cloture.html
 4193393-esther-suss-decroche-un-diplome.html
-4193776-bolt-et-cie-decrochent-l-or-et-le-record-du-monde-.html
+4193776-bolt-et-cie-decrochent-lor-et-le-record-du-monde.html
 4194684-schurter-offre-un-final-en-argent-a-la-suisse.html
 4194979-avec-4-medailles-la-suisse-finit-loin-de-son-objectif.html
 4195110-good-bye-london-rendezvous-a-rio.html

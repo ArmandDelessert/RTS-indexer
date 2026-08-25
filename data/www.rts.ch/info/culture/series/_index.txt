@@ -10,6 +10,7 @@
 10271033-the-widow-une-serie-a-suspense-portee-par-lactrice-kate-beckinsale.html
 10304858-love-death-and-robots-la-brutale-serie-danimation-de-david-fincher.html
 10324374-la-serie-fleabag-de-retour-pour-une-suite-jouissive.html
+10336213-la-serie-espagnole-la-casa-de-papel-aura-une-troisieme-saison.html
 10341907-comment-la-chaine-hbo-nous-a-rendus-accros-a-game-of-thrones.html
 10375023-warrior-la-serie-imaginee-par-bruce-lee-il-y-a-48-ans.html
 10411048-andre-dussollier-vedette-dune-serie-suisse-sur-lhumanitaire.html
@@ -27,6 +28,7 @@
 10861456-le-bazar-de-la-charite-miniserie-historique-et-romanesque.html
 10867861-les-series-cette-culture-populaire-qui-nous-eduque.html
 10897972-euphoria-serie-trash-sur-une-generation-z-desabusee.html
+10964573-retrospective-les-cinq-series-qui-ont-marque-lannee-2019.html
 10976608-versailles-la-serie-qui-raconte-lascension-du-roi-soleil.html
 11017878-wilder-une-serie-policiere-suisse-ambitieuse-et-intense.html
 11067517-the-circle-un-loft-story-a-la-netflix-version-xxie-siecle.html
@@ -34,14 +36,22 @@
 11089908-locke-key-une-serie-fantastique-aussi-divertissante-quenervante.html
 11112777-la-bande-de-friends-va-faire-son-grand-retour-sur-le-petit-ecran.html
 11124493-undercover-la-serie-belge-qui-raconte-lecstasy-au-camping.html
+11137253-netflix-lance-sa-premiere-serie-originale-made-in-africa.html
+11216577-trois-excellentes-series-a-voir-ou-revoir-durant-le-confinement.html
 11254654-une-miniserie-de-hbo-adapte-un-roman-uchronique-de-philip-roth.html
+11298425-after-life-la-serie-humaine-de-lhumoriste-anglais-ricky-gervais.html
 11314729-hollywood-la-serie-euphorique-qui-reecrit-lhistoire-de-lusine-a-reves.html
 11336569-unorthodox-la-serie-qui-plonge-au-coeur-de-la-communaute-hassidique.html
+11355590-la-plateforme-de-streaming-hbo-max-debarque-dans-un-marche-deja-sature.html
 11374401-space-force-une-serie-tv-qui-sinvite-dans-lactualite-spatiale.html
+11392354-des-series-policieres-deprogrammees-suite-au-meurtre-de-george-floyd.html
+11635937-le-prix-du-silence-le-lourd-secret-dune-famille-ordinaire.html
+11708662-the-undoing-quand-une-richissime-famille-passe-au-laminoir-du-declin.html
 11720906-kidnapping-une-serie-sous-forme-de-thriller-venu-du-froid.html
 11727124-la-serie-emily-in-paris-critiquee-pour-ses-cliches-sur-la-france.html
 11732363-social-distance-la-serie-netflix-qui-raconte-nos-confinements.html
 11737536-frieden-la-fresque-historique-suisse-instructive-et-captivante.html
+11749291-la-pandemie-de-coronavirus-sinstalle-progressivement-dans-les-fictions-tele.html
 11756203-le-jeu-de-la-dame-la-serie-qui-rallume-la-fievre-des-echecs.html
 11758719-batards-une-webserie-fantastique-radicale-et-satire-de-notre-societe.html
 11780560-la-serie-cellule-de-crise-scrute-les-coulisses-de-lhumanitaire.html
@@ -79,8 +89,7 @@
 12246913-the-salisbury-poisonings-le-poison-venu-du-froid-une-serie-palpitante.html
 12257846-la-miniserie-i-may-destroy-you-rafle-la-mise-aux-bafta.html
 12278739-histoire-de-lisey-la-serie-tiree-dun-roman-tres-personnel-de-stephen-king.html
-12286965-les-cartes-pokemon-ces-nouveaux-objets-de-speculation-massive.html
-12292896-alex-rider-l-adolescent-qui-devient-espion-malgre-lui.html
+12292896-alex-rider-ladolescent-qui-devient-espion-malgre-lui.html
 12301626-sweet-tooth-une-serie-netflix-entre-sciencefiction-et-aventure.html
 12312202-resident-alien-une-serie-de-sciencefiction-completement-loufoque.html
 12317126-le-chanteur-the-weeknd-va-produire-ecrire-et-jouer-dans-une-serie-hbo.html
@@ -121,6 +130,7 @@
 12803463-une-si-longue-nuit-une-serie-qui-plonge-un-etudiant-sage-dans-lenfer-carceral.html
 12805567-la-corde-une-miniserie-facon-horreur-melancolique.html
 12817396-damoiselle-la-webserie-qui-revisite-lhistoire-au-feminin.html
+12828159-isabelle-caillat-laureate-du-prix-dart-dramatique-swissperform.html
 12831965-chiffres-records-pour-la-derniere-saison-de-la-serie-lattaque-des-titans.html
 12852725-neumatt-troisieme-serie-suisse-a-etre-diffusee-sur-netflix.html
 12865181-the-journalist-denonce-des-medias-japonais-trop-proches-du-pouvoir.html
@@ -151,7 +161,7 @@
 13189214-fini-de-regarder-une-serie-en-integralite-a-sa-sortie.html
 13204256-the-tourist-la-serie-qui-perd-jamie-dornan-dans-loutback-australien.html
 13206067-des-gens-bien-ordinaires-une-miniserie-sur-le-porno-signee-ovidie.html
-13208862-le-personnage-d-irma-vep-de-retour-dans-une-serie-signee-olivier-assayas.html
+13208862-le-personnage-dirma-vep-de-retour-dans-une-serie-signee-olivier-assayas.html
 13245302-le-boom-des-series-met-lindustrie-du-tournage-sous-pression.html
 13261977-arpenter-les-rues-de-paris-sur-les-traces-de-lheroine-de-la-serie-emily-in-paris.html
 13307771-house-of-the-dragon-serie-derivee-de-game-of-thrones-debarque-sur-les-ecrans.html
@@ -268,6 +278,7 @@
 14568903-retrospective-dix-series-marquantes-de-lannee-2023.html
 14572028-un-meurtre-au-bout-du-monde-miniserie-policiere-hightech-qui-cache-bien-son-jeu.html
 14584588-clap-de-fin-pour-the-crown-la-serie-qui-a-change-la-perception-de-la-famille-royale.html
+14586069-davos-1917-une-serie-despionnage-en-pleine-premiere-guerre-mondiale.html
 14613433-captivante-la-serie-dark-winds-fait-souffler-des-vents-sombres-sur-la-reserve-navajo.html
 14616517-avec-double-piege-le-polar-dharlan-coben-se-mue-en-serie-decevante-sur-netflix.html
 14628500-les-series-televisees-succession-et-the-bear-triomphent-aux-emmy-awards.html
@@ -276,7 +287,10 @@
 14647706-true-detective-4-une-enquete-aussi-glaciale-que-givree-menee-par-jodie-foster.html
 14667132-masters-of-the-air-la-nouvelle-serie-dapple-tv-ne-met-pas-tout-le-monde-daccord.html
 9084652-kaamelott-pastiche-de-la-legende-des-chevaliers-de-la-table-ronde.html
+9661319-les-series-a-decouvrir-cet-ete.html
 9736411-la-communaute-lgbtq-change-les-mentalites-via-la-pop-culture.html
+9738710-the-deuce-une-plongee-dans-lemergence-de-lindustrie-porno.html
 9748100-jack-bauer-et-24h-chrono-tentent-un-retour-mais-sans-kiefer-sutherland.html
+9840900-kidding-avec-jim-carrey-une-serie-qui-sort-de-lordinaire.html
 9851815-la-serie-la-fabuleuse-mme-maisel-cree-la-surprise-aux-emmy-awards.html
 9956406-la-saison-3-de-dix-pour-cent-debarque-sur-les-petits-ecrans.html

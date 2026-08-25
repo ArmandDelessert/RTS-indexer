@@ -87,7 +87,7 @@
 11785133-basket-la-suisse-signe-lexploit-face-a-la-serbie.html
 11795971-nba-lebron-james-rempile-pour-2-ans-avec-les-lakers.html
 11812568-basket-le-final-four-reporte-probablement-en-mars.html
-11819515-nba-capela-et-les-hawks-battus-pour-leur-premier-match.html
+11819515-nba-capela-et-les-hawks-battus-pour-leur-premier-match-de-presaison.html
 11839670-nba-un-second-succes-pour-capela-avant-les-3-coups.html
 11846111-basket-le-mode-de-classement-change-en-cours-de-saison.html
 11852773-nba-james-harden-amende-houston-de-retour-au-jeu.html
@@ -164,7 +164,7 @@
 12217353-basketball-fribourg-olympic-defendra-son-titre-contre-les-starwings.html
 12221281-nba-atlanta-et-capela-remportent-lacte-i-a-new-york.html
 12225715-basketball-fribourg-olympic-en-grandissime-favori.html
-12228349-basketball-fribourg-olympic-remporte-lacte-i-de-la-finale-contre-les-starwings.html
+12228349-basketball-fribourg-olympic-tres-bien-parti-contre-les-starwings.html
 12229302-basket-3x3-une-victoire-et-une-defaite-pour-les-suissesses.html
 12234844-basket-3x3-les-suissesses-en-quarts-de-finale.html
 12235872-nba-atlanta-et-capela-reprennent-lavantage.html
@@ -328,7 +328,7 @@
 13333076-basket-la-suisse-domine-lautriche-a-fribourg.html
 13339529-basket-la-suisse-logiquement-battue-en-croatie.html
 13394132-basket-lespagne-a-nouveau-reine-deurope.html
-13404173-nba-robert-sarver-va-vendre-les-suns-de-phoenix.html
+13404173-nba-robert-sarver-accuse-de-racisme-et-de-misogynie-va-lacher-les-phoenix-suns.html
 13414497-basket-record-de-points-pour-les-etatsunis-au-mondial-feminin.html
 13430208-basket-mondiaux-les-etatsunis-sacres-pour-la-quatrieme-fois-de-suite.html
 13446057-basket-wembanyama-finit-sa-demonstration-de-force-en-beaute.html
@@ -361,7 +361,7 @@
 13657794-nba-brooklyn-enchaine-durant-depasse-duncan.html
 13660156-nba-un-eblouissant-tripledouble-record-pour-doncic.html
 !13667548-nba-doncic-a-nouveau-monstrueux.html
-13678790-basketball-elfic-battu-a-domicile-en-eurocup.html
+13678790-basketball-elfic-fribourg-saccroche-mais-sincline-a-domicile-en-16es-de-finale-aller.html
 13681748-nba-atlanta-sans-capela-contre-les-lakers-concede-sa-21e-defaite-de-la-saison.html
 13691982-nba-miami-signe-un-incroyable-record.html
 13698164-basketball-cest-fini-pour-elfic-fribourg-en-eurocup.html
@@ -375,7 +375,7 @@
 13741923-basket-elfic-fribourg-ne-laisse-aucune-chance-a-nyon.html
 13742029-basket-massagno-titre-vevey-domine-sefolosha-blesse.html
 13746031-nba-atlanta-subit-une-nouvelle-defaite.html
-13766819-nba-lebron-james-un-record-pour-l-eternite.html
+13766819-nba-lebron-james-un-record-pour-leternite.html
 13771789-nba-un-maillot-de-kobe-bryant-vendu-aux-encheres-58-millions-de-dollars.html
 13772819-nba-capela-mene-atlanta-au-succes.html
 13778464-basket-la-suisse-termine-la-tete-haute-face-a-litalie.html
@@ -508,7 +508,6 @@
 14661054-basket-fribourg-olympic-remporte-sa-8e-sbl-cup.html
 14662249-nba-les-hawks-et-capela-redressent-la-barre.html
 14668966-nba-les-hawks-de-clint-capela-atteignent-la-barre-des-20-victoires.html
-2938317-coupe-de-suisse.html
 3825000-une-star-de-nba-evoluera-a-neuchatel-le-temps-dun-weekend.html
 4270291-lequipe-de-suisse-na-plus-de-selectionneur.html
 4575824-retour-gagnant-de-thabo-sefolosha.html
@@ -520,10 +519,10 @@
 !5657179-coupe-de-la-ligue-2014.html
 5732405-nba-26-cest-assez-pour-les-philadelphia-76ers.html
 5818543-fribourg-olympic-veut-vaincre-le-signe-indien.html
-5820458-basket-fribourg-s-impose-au-terme-d-une-remontee-impensable.html
+5820458-basket-fribourg-simpose-au-terme-dune-remontee-impensable.html
 5838925-basket-fribourg-olympic-reprend-la-main.html
 5926596-nba-san-antonio-proche-du-sacre.html
-6049903-basket-un-defi-de-taille-pour-l-equipe-de-suisse.html
+6049903-basket-un-defi-de-taille-pour-lequipe-de-suisse.html
 6054722-basket-clint-capela-renonce-a-son-tour.html
 6056827-basket-la-suisse-devra-se-passer-de-sefolosha.html
 6136777-coupe-du-monde-2014.html
@@ -544,14 +543,14 @@
 6794983-basket-union-neuchatel-se-relance-face-a-geneve.html
 6802143-basket-union-neuchatel-vire-son-joueur-kuburovic.html
 6805941-basket-les-lions-de-geneve-decrochent-le-titre.html
-6806067-championnat-de-suisse-2014-15.html
+6806067-championnat-de-suisse-201415.html
 7001767-basket-un-ancien-joueur-de-nba-chez-les-lions-de-geneve.html
 7038134-lausanne-2015.html
 7095268-eurobasket-2015.html
-7121683-championnat-de-suisse-2015-16.html
+7121683-championnat-de-suisse-201516.html
 7276897-swiss-basketball-on-est-sur-le-bon-chemin-estime-le-directeur-patrick-buchs.html
 7279685-nba-thabo-sefolosha-reclame-50-millions-de-dollars.html
-7283320-nba-golden-state-s-offre-un-record-historique-avec-un-seizieme-succes.html
+7283320-nba-golden-state-soffre-un-record-historique-avec-un-seizieme-succes.html
 7287557-swiss-basketball-annee-sabbatique-pour-lequipe-de-suisse-masculine.html
 7301020-swiss-basketball-attire-un-sponsor-du-coup-lequipe-nationale-devrait-jouer-en-2016.html
 7303025-basket-la-suisse-dattaque-en-2016.html
@@ -568,7 +567,7 @@
 7563507-nba-lebron-james-et-kobe-bryant-font-le-show-pour-leur-dernier-duel.html
 7567425-nba-sefolosha-reussit-son-premier-double-double-de-la-saison.html
 7569437-nba-atlanta-et-sefolosha-enchainent-grace-a-une-defense-de-fer.html
-7618340-nba-golden-state-chute-sur-son-parquet-apres-14-mois-d-invincibilite.html
+7618340-nba-golden-state-chute-sur-son-parquet-apres-14-mois-dinvincibilite.html
 7623541-nba-thabo-sefolosha-va-attaquer-des-policiers-en-justice.html
 7633278-nba-seul-un-miracle-peut-sauver-les-rockets-de-capela.html
 7635942-coupe-de-suisse-fribourg-olympic-regoute-enfin-au-succes.html
@@ -587,10 +586,10 @@
 7685668-nba-atlanta-ecarte-boston-et-retrouve-lebron-james.html
 7700715-nba-cleveland-fait-cavalier-seul-75-points-longue-distance.html
 7705180-basket-un-5e-titre-national-consecutif-pour-helios.html
-7720132-nba-oklahoma-foudroie-les-spurs-en-demi-finale.html
+7720132-nba-oklahoma-foudroie-les-spurs-en-demifinale.html
 7720854-basket-union-neuchatel-en-outsider-contre-fribourg.html
 7722725-basket-fribourg-olympic-remporte-le-premier-round.html
-7725542-nba-toronto-en-finale-de-conference-c-est-historique.html
+7725542-nba-toronto-en-finale-de-conference-cest-historique.html
 7729608-basket-fribourg-olympic-double-son-avantage-face-a-union-ne.html
 7737894-basketball.html
 7739930-basket-union-neuchatel-se-relance.html
@@ -605,10 +604,10 @@
 7801914-nba-cleveland-reprend-espoir.html
 7810808-nba-3-partout-balle-au-centre-finalissima-dimanche.html
 7816659-nba-lebron-james-et-ses-cavaliers-renversent-golden-state.html
-7828647-basket-lebron-james-renonce-a-rio.html
+7828647-rio-2016-basket-lebron-james-renonce-aux-jeux.html
 7839802-basket-capela-et-sefolosha-disent-non-a-la-suisse.html
 7853330-basket-meilleur-etranger-de-lna-babacar-toure-part-a-letage-inferieur-a-vevey.html
-7857553-basket-kevin-durant-rejoint-les-golden-state-warriors.html
+7857553-nba-kevin-durant-rejoint-les-golden-state-warriors.html
 7978380-basket-la-suisse-face-a-un-defi-de-taille.html
 7999043-basket-la-suisse-seffondre-face-a-chypre.html
 8017140-basket-la-suisse-battue-de-38-points-en-belgique.html
@@ -617,7 +616,7 @@
 8121648-nba-houston-sincline-malgre-un-tres-bon-capela.html
 8124259-nba-thabo-sefolosha-brille-avec-atlanta.html
 8134849-nba-ray-allen-tire-sa-reverence.html
-8156122-nba-thabo-sefolosha-poursuit-son-festival.html
+8156122-nba-sefolosha-poursuit-son-festival-durant-egale-jordan.html
 8175573-nba-une-performance-de-choix-pour-capela.html
 8179106-nba-on-narrete-plus-clint-capela.html
 8242173-nba-sefolosha-brille-mais-atlanta-sincline.html

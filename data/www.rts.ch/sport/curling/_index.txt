@@ -104,7 +104,7 @@
 13573397-curling-europeens-les-suisses-battent-la-suede-et-se-qualifient-pour-la-finale.html
 13575870-curling-europeens-les-suissesses-echouent-en-finale.html
 13575871-curling-europeens-la-suisse-sincline-en-finale-face-a-lecosse.html
-13872825-curling-mondiaux-les-suissesses-debutent-par-2-victoires.html
+13872825-curling-mondial-les-suissesses-debutent-par-2-victoires.html
 13883987-curling-mondial-huit-sur-huit-pour-des-suissesses-irresistibles.html
 13886109-curling-mondial-les-suissesses-recues-10-sur-10-et-directement-en-demifinales.html
 13889306-curling-mondial-la-suisse-reussit-un-carton-plein-a-sandviken.html
@@ -140,7 +140,7 @@
 7273607-curling-les-suissesses-gagnent-sans-convaincre.html
 7275211-curling-les-suisses-debloquent-leur-compteur.html
 7275771-championnat-deurope-desbjerg-2015.html
-7579209-curling-la-suisse-de-binia-feltscher-vise-le-hat-trick.html
+7579209-curling-la-suisse-de-binia-feltscher-vise-le-hattrick.html
 7601594-curling-les-suissesses-remportent-le-round-robin.html
 7603007-curling-les-suissesses-a-nouveau-en-finale.html
 7604891-curling-le-sacre-mondial-pour-les-suissesses.html
@@ -160,7 +160,7 @@
 8187904-curling-les-suissesses-prennent-deja-la-porte-aux-europeens.html
 8188920-curling-geneve-decroche-sa-place-pour-les-demifinales.html
 8191085-curling-les-suisses-manquent-la-finale.html
-8192959-Curling-les-Suisses-decrochent-la-medaille-de-bronze.html
+8192959-curling-les-suisses-decrochent-la-medaille-de-bronze.html
 8398742-curling-le-cc-geneve-va-repartir-a-la-conquete-du-monde.html
 8467668-curling-les-suissesses-pour-la-passe-de-quatre.html
 8472229-curling-les-suissesses-reussissent-leur-entree-a-pekin.html
@@ -170,7 +170,7 @@
 8505249-curling-peter-de-cruz-et-cie-en-quete-dune-4e-medaille.html
 8511753-curling-la-suisse-perd-face-au-canada-mais-bat-les-usa.html
 8513836-curling-la-suisse-enchaine-un-2e-succes.html
-8514201-curling-trois-a-la-suite-pour-la-suisse.html
+8514201-curling-quatre-a-la-suite-pour-la-suisse.html
 8520635-curling-un-sixieme-succes-de-rang-pour-la-suisse.html
 8523158-curling-fin-de-serie-pour-les-helvetes-a-edmonton.html
 8524985-curling-la-suisse-accede-aux-playoffs-et-ira-aux-jo.html

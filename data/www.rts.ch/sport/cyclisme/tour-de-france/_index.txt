@@ -23,7 +23,7 @@
 1355104-premier-cas-positif-sur-le-tour.html
 1355287-moises-duenas-positif-et-equipe.html
 3243753-contador-schleck-guidon-contre-guidon.html
-3265033-greipel-s-offre-cavendish-au-sprint.html
+3265033-greipel-soffre-cavendish-au-sprint.html
 3288021-evans-triomphe-a-paris-cavendish-finit-en-beaute.html
 4109138-moments-forts.html
 4114789-et-de-deux-pour-peter-sagan.html
@@ -31,7 +31,7 @@
 4119698-greipel-double-la-mise.html
 4148781-wiggins-met-la-main-a-la-pate-pour-cavendish.html
 4150244-bradley-wiggins-a-120km-du-bonheur.html
-4150494-il-n-y-a-pas-plus-grand-que-le-tour-de-france.html
+4150494-il-ny-a-pas-plus-grand-que-le-tour-de-france.html
 4151658-promenade-des-anglais-sur-les-champs-elysees.html
 4996252-le-parcours-2013.html
 5001969-moments-forts.html
@@ -48,7 +48,7 @@
 6945896-tour-de-france-victoire-sur-un-plateau-pour-rodriguez.html
 6948023-tour-de-france-greg-van-avermaet-etait-bien-rode.html
 6949488-tour-de-france-steve-morabito-chute-et-doit-abandonner.html
-7183011-tour-de-france-2016-une-etape-en-valais-c-est-confirme.html
+7183011-tour-de-france-2016-une-etape-en-valais-cest-confirme.html
 7184936-tour-de-france-ledition-2016-sannonce-riche-en-nouveautes.html
 7413109-tour-de-france-2017-coup-denvoi-a-dusseldorf.html
 7884160-tour-de-france-fabian-cancellara-sur-ses-terres-pour-un-ultime-exploit.html
@@ -60,6 +60,7 @@
 7894796-tour-de-france-bardet-simpose-en-solitaire-froome-frole-le-pire.html
 7896571-tour-de-france-ion-izaguirre-simpose-en-solitaire-a-morzine.html
 8662206-tour-de-france-depart-de-bruxelles-en-2019-en-lhonneur-de-merckx.html
+8724989-tour-de-france-wyss-kung-et-schar-avec-bmc.html
 8742357-tour-de-france-froome-favori-a-sa-propre-succession.html
 8746882-tour-de-france-kung-manque-le-jaune-de-peu-valverde-deja-out.html
 8747838-tour-de-france-valverde-doit-mettre-un-terme-a-sa-saison.html

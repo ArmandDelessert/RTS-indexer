@@ -23,8 +23,8 @@
 1330668-tds-cancellara-toujours-leader.html
 1330712-proni-enleve-sa-premiere-victoire.html
 1330799-coup-double-de-frank-schleck.html
-1330844-mcewen-s-impose-a-giubiasco.html
-1330898-dekker-gagne-a-crans-montana.html
+1330844-mcewen-simpose-a-giubiasco.html
+1330898-dekker-gagne-a-cransmontana.html
 1330933-vladimir-gusev-roi-du-grimsel.html
 4054650-tour-de-suisse-2012.html
 4969881-tour-de-suisse-2013.html
@@ -42,10 +42,10 @@
 5946811-tour-de-suisse-tony-martin-gagne-le-chrono-avant-la-bataille-des-alpes.html
 5949408-tour-de-suisse-succes-de-chaves-martin-reste-leader.html
 5950834-tour-de-suisse-rui-costa-fete-un-troisieme-sacre-historique.html
-6379698-cyclisme-un-tour-de-romandie-a-l-accent-jurassien.html
-6856865-cyclisme-un-tour-de-suisse-tres-ouvert-en-l-absence-de-grandes-stars.html
+6379698-cyclisme-un-tour-de-romandie-a-laccent-jurassien.html
+6856865-cyclisme-un-tour-de-suisse-tres-ouvert-en-labsence-de-grandes-stars.html
 6863088-tour-de-suisse-2015.html
-6863155-tour-de-suisse-tom-dumoulin-prive-cancellara-d-un-sixieme-prologue.html
+6863155-tour-de-suisse-tom-dumoulin-prive-cancellara-dun-sixieme-prologue.html
 6864787-tour-de-suisse-durasek-cree-la-surprise.html
 6869283-tour-de-suisse-peter-sagan-fete-un-10e-succes-sur-la-boucle-helvetique.html
 6873067-tour-de-suisse-michael-matthews-prive-peter-sagan-du-record.html

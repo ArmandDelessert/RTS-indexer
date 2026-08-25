@@ -212,7 +212,7 @@
 9594138-hans-gamper-lhelvete-presque-inconnu-qui-a-fonde-le-barca.html
 9594358-challenge-league-alain-geiger-a-la-tete-du-servette-fc.html
 9598949-ligue-des-champions-le-real-madrid-realise-la-passe-de-trois.html
-9599078-ligue-des-champions-blesse-salah-quitte-le-terrain-en-premiere-mitemps.html
+9599078-ligue-des-champions-blesse-a-une-epaule-salah-pourrait-manquer-la-coupe-du-monde.html
 9599215-finale-20172018.html
 9599767-ligue-des-champions-cristiano-ronaldo-laisse-croire-quil-va-quitter-le-real.html
 9600029-ligue-des-champions-zidane-ce-que-nous-avons-fait-personne-ne-la-fait.html
@@ -238,7 +238,7 @@
 9634245-fifa-coupe-du-monde-2018-la-serbie-cartonne-en-amical.html
 9634558-fifa-coupe-du-monde-2018-les-bleus-finissent-sur-un-nul-sauce-americaine.html
 9635907-fifa-coupe-du-monde-2018-le-bresil-termine-sa-preparation-sur-une-bonne-note.html
-9642766-foot-julen-lopetegui-prend-les-renes-du-real-madrid.html
+9642766-liga-julen-lopetegui-prend-les-renes-du-real-madrid.html
 9647595-liga-griezmann-reste-a-latletico-madrid.html
 9679500-coupes-deurope-lac-milan-exclu-durant-une-annee.html
 9683344-bundesliga-michael-lang-rejoint-la-delegation-suisse-de-gladbach.html
@@ -250,7 +250,7 @@
 9707854-serie-a-lac-milan-passe-sous-controle-americain.html
 9716282-foot-jorge-sampaoli-demis-de-ses-fonctions.html
 9718160-serie-a-cristiano-ronaldo-je-veux-laisser-mon-empreinte-a-la-juve.html
-9718991-foot-usain-bolt-a-six-semaines-pour-convaincre.html
+9718991-aleague-usain-bolt-a-six-semaines-pour-convaincre.html
 9720601-super-league-un-international-letton-pour-sion.html
 9726053-ligue-1-je-reste-au-psg-dixit-neymar.html
 9729689-super-league-tous-les-buts-de-la-1re-journee.html
@@ -270,9 +270,6 @@
 9776688-supercoupe-deurope-latletico-domine-le-real-apres-prolongations.html
 9776900-europa-league-le-fc-bale-y-est-presque.html
 9780335-europa-league-le-fc-bale-file-en-barrages.html
-9783424-1er-tour-veyrier-thoune-15-tous-les-buts-de-la-rencontre.html
-9783557-1er-tour-koniz-sion-03-tous-les-buts-de-la-rencontre.html
-9783593-1er-tour-bienne-young-boys-23-yb-simpose-sur-le-fil-grace-notamment-a-garcia-et-hoarau.html
 9790004-super-league-xamax-renforce-encore-son-arrieregarde.html
 9792455-tours-preliminaires.html
 9793762-super-league-michael-frey-quitte-zurich-pour-fenerbahce.html
@@ -284,7 +281,7 @@
 9807888-tours-preliminaires.html
 9809561-europa-league-fin-de-laventure-europeenne-pour-bale.html
 9813724-super-league-yb-simpose-en-patron-a-tourbillon.html
-9814901-super-league-xamax-ne-stoppe-pas-l-hemorragie-face-a-st-gall.html
+9814901-super-league-xamax-ne-stoppe-pas-lhemorragie-face-a-stgall.html
 9838998-foot-montant-record-pour-les-transferts-cet-ete.html
 9844603-super-lig-eren-derdiyok-encore-buteur.html
 9848679-super-league-murat-yakin-a-la-barre-du-fc-sion.html
