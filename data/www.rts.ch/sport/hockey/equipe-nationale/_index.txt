@@ -5,10 +5,10 @@
 3970545-victoire-poussive-de-la-finlande-en-entree.html
 3974959-sprunger-et-moser-rentrent-a-la-maison.html
 4511617-et-la-suisse-arrosa-la-slovaquie.html
-4891428-niederreiter-nous-sommes-encore-loin-d-une-medaille.html
+4891428-niederreiter-nous-sommes-encore-loin-dune-medaille.html
 5530227-reto-suri-est-pret-pour-sotchi-et-la-nhl.html
 5608707-hockey-moser-extirpe-la-suisse-du-piege-letton.html
-5657012-sean-simpson-quitte-son-poste-a-la-tete-de-l-equipe-de-suisse.html
+5657012-sean-simpson-quitte-son-poste-a-la-tete-de-lequipe-de-suisse.html
 5821520-jeremie-kamerzin-le-plan-b-de-sean-simpson.html
 5842334-la-suisse-ny-arrive-toujours-pas.html
 5854731-hockey-la-suisse-concede-une-defaite-rageante.html
@@ -22,7 +22,7 @@
 7488681-slovakia-cup-aux-jeunes-de-saisir-leur-chance.html
 7491447-slovakia-cup-la-suisse-manque-defficacite-contre-le-belarus.html
 7493564-slovakia-cup-la-suisse-sombre-face-a-la-slovaquie.html
-7612053-equipe-de-suisse-deux-neophytes-pour-defier-la-tre-kronor-.html
+7612053-equipe-de-suisse-deux-neophytes-pour-defier-la-tre-kronor.html
 7618376-hockey-dames-la-suisse-bat-le-japon-et-se-rapproche-du-maintien.html
 7621619-hockey-dames-la-suisse-assure-son-maintien.html
 7628214-equipe-de-suisse-les-hommes-de-fischer-se-preparent-pour-les-mondiaux.html
@@ -49,8 +49,8 @@
 7701535-equipe-de-suisse-montrer-un-visage-plus-seduisant-que-lan-dernier.html
 7703366-equipe-de-suisse-patrick-fischer-ne-devoile-pas-ses-cartes.html
 7703400-equipe-de-suisse-nino-niederreiter-le-meilleur-atout-offensif.html
-7703454-hockey-le-canada-corrige-les-etats-unis-pour-son-entree.html
-7703648-hockey-la-russie-se-loupe-face-aux-tcheques.html
+7703454-hockey-le-canada-corrige-les-etatsunis-pour-son-entree.html
+7703648-hockey-la-russie-se-loupe-face-aux-tcheques-chez-elle.html
 7706688-hockey-la-suisse-deja-mal-en-point.html
 7708672-hockey-patrick-fischer-ne-perd-pas-de-temps.html
 7712140-hockey-la-suisse-arrache-une-victoire-inesperee.html

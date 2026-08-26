@@ -1,7 +1,7 @@
 ./
 10589585-natation-ugolkova-et-kaser-elimines-en-series.html
-10591331-natation-desplanches-aisement-en-demies.html
-10593183-natation-mamie-et-mityukov-en-demies-avec-des-records-a-la-cle.html
+10591331-natation-desplanches-ameliore-son-record-de-suisse-et-file-en-finale.html
+10593183-natation-mamie-et-mityukov-elimines-malgre-deux-records.html
 10593620-natation-desplanches-se-pare-dargent.html
 10593938-natation-jeremy-desplanches-je-ne-realise-vraiment-pas.html
 10594862-natation-le-relais-suisse-se-qualifie-pour-les-jo-de-tokyo.html
@@ -11,11 +11,11 @@
 11511453-natation-artistique-jeanphilippe-jel-exmilitaire-de-43-ans-devenu-nageuse-de-synchro.html
 11531996-natation-paltrinieri-bat-le-record-deurope-du-1500m-libre.html
 11752564-natation-lisa-mamie-decroche-6-titres-nationaux-dans-le-petit-bassin-de-sion.html
-11801071-natation-un-chrono-de-classe-mondiale-pour-ponti.html
-12112531-natation-trois-records-de-suisse-battus.html
+11801071-natation-un-chrono-de-classe-mondiale-pour-le-tessinois-ponti.html
+12112531-natation-trois-records-nationaux-battus-aux-championnats-de-suisse.html
 12158780-natation-il-transforme-les-filets-de-peche-en-maillots-de-bain.html
 12198046-natation-desplanches-en-leader-ponti-et-ugolkova-en-outsiders.html
-12205353-natation-pas-de-medaille-pour-djakovic-mais-un-record.html
+12205353-natation-les-suisses-en-evidence.html
 12208044-natation-noe-ponti-signe-un-nouveau-record-de-suisse-sur-200m-papillon.html
 12209019-natation-noe-ponti-et-roman-mityukov-en-finale.html
 12211215-natation-jeremy-desplanches-3e-temps-des-demifinales.html
@@ -24,7 +24,7 @@
 12217135-natation-roman-mityukov-et-maria-ugolkova-peuvent-rever-de-medailles.html
 12218765-natation-noe-ponti-solide-mamie-au-tour-suivant.html
 12219204-natation-mityukov-se-pare-de-bronze-sur-200-m-dos.html
-12296343-natation-le-triple-champion-olympique-sun-yang-prive-des-jo-de-tokyo.html
+12296343-tokyo-2020-natation-le-triple-champion-olympique-sun-yang-prive-de-jo.html
 12476838-natation-desplanches-quitte-nice-pour-rejoindre-philippe-lucas.html
 12522833-natation-noe-ponti-quitte-deja-les-etatsunis-pour-rentrer-au-tessin.html
 12539788-natation-record-et-victoire-pour-maria-ugolkova.html
@@ -36,7 +36,7 @@
 13037337-natation-le-double-champion-olympique-russe-rylov-suspendu-9-mois.html
 13078908-natation-jeremy-desplanches-est-un-nageur-qui-ne-se-refuse-pas-estime-philippe-lucas.html
 13181026-natation-mondiaux-ponti-en-fer-de-lance-a-budapest.html
-13182896-natation-mondiaux-record-suisse-et-demifinale-pour-ponti-sur-50-m-papillon.html
+13182896-natation-mondiaux-record-suisse-et-demifinale-pour-ponti-sur-50m-papillon.html
 13183231-natation-mondiaux-noe-ponti-elimine-en-demifinales-du-50m-papillon.html
 13184834-natation-mondiaux-djakovic-et-mityukov-elimines-en-demies-du-200m-libre.html
 13186399-natation-mondiaux-record-de-suisse-du-200m-papillon-et-finale-pour-ponti.html
@@ -76,7 +76,7 @@
 13626752-natation-noe-ponti-vicechampion-du-monde-sur-50m-papillon.html
 13631139-natation-nouvelle-medaille-pour-ponti-en-bronze-sur-le-200m-papillon.html
 13634252-natation-mamie-bat-son-record-mais-manque-la-finale-de-peu.html
-13636823-natation-ponti-s-offre-une-chance-de-decrocher-une-3e-medaille.html
+13636823-natation-ponti-soffre-une-chance-de-decrocher-une-3e-medaille.html
 13638164-natation-ponti-manque-le-podium-pour-013-sur-le-100m-papillon.html
 13656547-retrospective-2022-david-popovici-deboule-au-sommet-de-la-natation-mondiale.html
 13665163-natation-maria-ugolkova-annonce-la-fin-de-sa-carriere.html

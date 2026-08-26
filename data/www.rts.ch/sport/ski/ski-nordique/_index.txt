@@ -1,9 +1,9 @@
 !./
 2974889-ammann-et-cologna-ont-les-dents-longues.html
 2977793-oslo-est-fin-pret-pour-le-debut-mondiaux.html
-2979544-norvege-terre-fertile-pour-un-2e-sacre-mondial-.html
+2979544-norvege-terre-fertile-pour-un-2e-sacre-mondial.html
 2979731-cologna-sorti-en-demies-du-sprint.html
-2983341-deja-une-deuxieme-medaille-d-or-pour-marit-bjorgen.html
+2983341-deja-une-deuxieme-medaille-dor-pour-marit-bjorgen.html
 2984458-nouvel-echec-de-cologna-sur-le-30-km-poursuite.html
 2991458-le-canada-et-la-suede-surprennent-la-norvege.html
 2999027-petter-northug-encore-en-or-dario-cologna-sombre.html
@@ -27,5 +27,5 @@
 3682999-northug-devance-cologna-sur-le-fil.html
 4475092-simon-ammann-senvole-vers-son-premier-podium.html
 4545399-ammann-sombre-jacobsen-double-la-mise.html
-6542411-mondiaux-falun-2015-sue.html
-7333416-coupe-du-monde-2015-2016.html
+6542411-mondiauxfalun-2015-sue.html
+7333416-coupe-du-monde-20152016.html

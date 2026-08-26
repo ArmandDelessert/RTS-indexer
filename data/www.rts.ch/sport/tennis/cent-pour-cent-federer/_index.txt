@@ -1,9 +1,8 @@
 !./
 !3399942-coupe-davis-20-ans-apres.html
-3773870-suisse-usa-1er-tour.html
-3864742-roger-federer-en-cure-de-jouvence.html
+3773870-suisseusa-1er-tour.html
 4126514-monsieur-wimbledon-est-eternel-trop-fort-numero-1-titre-la-presse.html
-4273040-pays-bas-suisse-barrage.html
+4273040-paysbas-suisse-barrage.html
 4392939-swiss-indoors.html
 4592728-roger-federer-officialise-son-absence.html
 4614425-une-montagne-tcheque-vraiment.html
@@ -12,7 +11,7 @@
 4889848-deux-petits-tours-et-federer-sen-va.html
 4915404-atp.html
 5357899-masters.html
-5998604-roland-garros.html
+5998604-rolandgarros.html
 5998617-wimbledon.html
 6450795-tennis-federer-domine-les-hewitt-pere-et-fils.html
 6452556-pierre-paganini-federer-a-la-capacite-physique-pour-jouer-encore-plusieurs-annees.html

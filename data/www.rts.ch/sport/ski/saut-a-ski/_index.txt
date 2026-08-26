@@ -71,7 +71,7 @@
 13822783-ski-de-fond-fahndrich-brillante-8e-sur-le-10km-libre.html
 13825634-ski-de-fond-kruger-decroche-sa-2e-medaille-dor-a-planica-quadruple-norvegien.html
 13826435-saut-a-skis-pas-de-manche-finale-pour-les-suissesses.html
-13828529-ski-de-fond-les-suissesses-10e-du-relais-triomphe-des-norvegiennes.html
+13828529-ski-de-fond-les-suissesses-10es-du-relais-triomphe-des-norvegiennes.html
 13834040-ski-de-fond-ebba-andersson-sacree-sur-30-km-fahndrich-14e.html
 13835952-ski-de-fond-au-sprint-final-golberg-mate-klaebo-sur-50-km.html
 13852851-ski-de-fond-10-norvegiens-aux-10-premieres-places.html
@@ -83,6 +83,7 @@
 14540792-saut-a-skis-gregor-deschwanden-pour-la-premiere-fois-sur-le-podium.html
 14556464-saut-a-skis-quatre-suisses-qualifies-a-engelberg.html
 14558655-saut-a-skis-deschwanden-8e-a-engelberg.html
+14559951-saut-a-skis-deux-top10-pour-deschwanden-a-engelberg.html
 14581659-saut-a-skis-kraft-en-grand-favori-deschwanden-parmi-les-outsiders.html
 14585556-saut-a-skis-deschwanden-devra-progresser.html
 14587513-saut-a-skis-wellinger-simpose-a-oberstdorf-deschwanden-15e.html

@@ -8,7 +8,9 @@ code_atypique	https://www.rts.ch/hummingbird-ajax/sport/events/jo-2022/banner/	H
 code_atypique	https://www.rts.ch/hummingbird-ajax/sport/fifa2018/banner/	HTTP 403
 code_atypique	https://www.rts.ch/hummingbird-ajax/weather/locations/5b12c42998308cd64494c48a7dac593a78421c9d/forecast/	HTTP 403
 code_atypique	https://www.rts.ch/hummingbird-ajax/weather/locations/d90a3ef748109402df1409f33f208aa23f5f5d88/forecast/	HTTP 403
-code_atypique	https://www.rts.ch/inhalt.htm	HTTP 406
+code_atypique	https://www.rts.ch/info/suisse/11133609-la-session-interrompue-en-raison-de-la-lutte-contre-le-coronavirus-.html	HTTP 500
+code_atypique	https://www.rts.ch/info/suisse/11133609-la-session-interrompue-en-raison-de-la-lutte-contre-le-coronavirus.html	HTTP 500
+code_atypique	https://www.rts.ch/info/suisse/11133609-le-national-refuse-de-mieux-proteger-les-lanceurs-d-alerte.html	HTTP 500
 code_atypique	https://www.rts.ch/java/java.htm	HTTP 406
 code_atypique	https://www.rts.ch/sport/directs/1540318999812-motogp.html	HTTP 500
 code_atypique	https://www.rts.ch/sport/directs/1613744688812-15e-journee-davos-zoug.html	HTTP 500
@@ -30,5 +32,5 @@ code_atypique	https://www.rts.ch/technik/elektro.htm	HTTP 406
 code_atypique	https://www.rts.ch/technik/gebaeudesicherheit.htm	HTTP 406
 code_atypique	https://www.rts.ch/technik/sanitaer.htm	HTTP 406
 code_atypique	https://www.rts.ch/technik/sicherheit.htm	HTTP 406
-code_atypique	https://www.rts.ch/willkommen.htm	HTTP 406
 hors_perimetre	https://www.rts.ch/datak/	https://www.datak.ch
+hors_perimetre	https://www.rts.ch/sport/football/suisse/2676291-de-g-a-dr-roger-wehrli-heinz-hermann-georges-bregy-alain-sutter-rene-botteron-christian-matthey-charly-in-albon-alain-geiger-claudio-sulser-erich-burgener-andy-egli.html	https://img.rts.ch/sport/football/2010/image/vl6xah-27941554.image

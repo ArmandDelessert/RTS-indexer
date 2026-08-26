@@ -1,4 +1,3 @@
-./
 10088760-fifa-coupe-du-monde-2018-plus-dun-milliard-de-personnes-ont-suivi-la-finale-a-la-television.html
 10093181-retro-2018-quavezvous-retenu-de-la-coupe-du-monde-2018.html
 !5845732-football.html
@@ -6,6 +5,8 @@
 5928218-les-matches-du-jour.html
 5931074-fifa-mondial-seferovic-libere-une-suisse-crispee.html
 7794378-groupe-a.html
+7795856-groupe-b.html
+7797762-groupe-c.html
 7797763-groupe-d.html
 7800323-groupe-e.html
 7803650-groupe-f.html
@@ -43,7 +44,7 @@
 9650777-fifa-coupe-du-monde-2018-match-fou-fou-fou-a-sotchi-ronaldo-3-espagne-3.html
 9651657-fifa-coupe-du-monde-2018-le-danemark-sen-sort-bien-face-au-perou.html
 9651661-fifa-coupe-du-monde-2018-largentine-tenue-en-echec-par-lislande.html
-9651662-fifa-coupe-du-monde-2018-la-france-se-defait-difficilement-de-l-australie.html
+9651662-fifa-coupe-du-monde-2018-la-france-se-defait-difficilement-de-laustralie.html
 9651663-fifa-coupe-du-monde-2018-la-croatie-bat-facilement-le-nigeria.html
 9651685-fifa-coupe-du-monde-2018-les-choses-serieuses-commencent-pour-la-suisse.html
 9651698-fifa-coupe-du-monde-2018-federer-jai-un-bon-sentiment.html
@@ -81,7 +82,7 @@
 9664143-fifa-coupe-du-monde-2018-le-bresil-na-plus-le-choix.html
 9665216-fifa-coupe-du-monde-2018-trois-supporters-suisses-rejoignent-kaliningrad-en-tracteur.html
 9665485-fifa-coupe-du-monde-2018-petkovic-elude-le-sujet-qui-fache.html
-9666675-fifa-coupe-du-monde-2018-un-match-tres-difficile-pour-les-deux-equipes-selon-le-journaliste-serbe-veljko-ivanovic.html
+9666675-fifa-coupe-du-monde-2018-un-match-tres-difficile-pour-la-suisse-et-la-serbie-selon-le-journaliste-serbe-veljko-ivanovic.html
 9666941-fifa-coupe-du-monde-2018-le-bresil-domine-le-costa-rica-dans-les-arrets-de-jeu.html
 9667179-fifa-coupe-du-monde-2018-ces-demeles-judiciaires-de-marquez-qui-defraient-la-chronique.html
 9668284-fifa-coupe-du-monde-2018-le-nigeria-se-relance-face-a-lislande.html
@@ -161,8 +162,8 @@
 9688425-fifa-coupe-du-monde-2018-le-bresil-file-en-quarts.html
 9691236-fifa-coupe-du-monde-2018-drmic-et-djourou-titularises-face-a-la-suede.html
 9691261-fifa-coupe-du-monde-2018-cest-une-immense-deception.html
-9691268-fifa-coupe-du-monde-2018-l-angleterre-defait-la-colombie-au-bout-du-suspense.html
-9691412-fifa-coupe-du-monde-2018-low-reste-selectionneur-de-l-allemagne.html
+9691268-fifa-coupe-du-monde-2018-langleterre-defait-la-colombie-au-bout-du-suspense.html
+9691412-fifa-coupe-du-monde-2018-low-reste-selectionneur-de-lallemagne.html
 9691713-fifa-coupe-du-monde-2018-les-supporters-suisses-une-fois-encore-en-minorite.html
 9691784-fifa-coupe-du-monde-2018-les-tops-et-les-flops-de-lequipe-de-suisse.html
 9691910-fifa-coupe-du-monde-2018-les-roulades-de-neymar-ont-coute-14-minutes-de-jeu.html

@@ -1,8 +1,15 @@
 ./
+7991602-pyeongchang-2018-hockey-lequipe-de-suisse-avec-le-canada-et-la-republique-tcheque.html
+8381215-pyeongchang-2018-hockey-lequipe-de-suisse-feminine-qualifiee.html
 8483366-pyeongchang-2018-hockey-vers-des-jo-sans-les-joueurs-de-nhl.html
+8489123-pyeongchang-2018-hockey-la-nhl-aux-jo-reponse-fin-avril-selon-rene-fasel.html
+8516001-pyeongchang-2018-hockey-les-jeux-sans-les-joueurs-de-nhl.html
 8595848-pyeongchang-2018-swiss-olympic-la-federation-prepare-ses-athletes-pour-les-jeux.html
+8858288-pyeongchang-2018-ski-de-fond-la-norvegienne-johaug-privee-des-jeux.html
+8919427-pyeongchang-2018-ski-alpin-les-descentes-auront-lieu-en-pleine-nuit-pour-les-suisses.html
 8947160-pyeongchang-2018-hockey-la-suisse-commencera-contre-le-canada.html
-9143462-pyeongchang-2018-les-sportifs-russes-les-plus-controles-avant-les-jo.html
+8961984-pyeongchang-2018-patinage-artistique-alexia-paganini-sera-letoile-helvetique.html
+9143462-pyeongchang-2018-russie-les-sportifs-russes-les-plus-controles-avant-les-jo.html
 9144427-pyeongchang-2018-russie-le-pays-exclu-mais-pas-ses-athletes-propres.html
 9159549-pyeongchang-2018-biathlon-les-relais-masculin-et-feminin-qualifies-pour-les-jo.html
 9196146-pyeongchang-2018-patinage-artistique-alexia-paganini-officiellement-selectionnee.html
@@ -20,7 +27,7 @@
 9276334-pyeongchang-2018-russie-de-serieux-indices-contre-les-sportifs-russes-non-retenus.html
 9278937-pyeongchang-2018-saut-a-skis-simon-ammann-sera-du-voyage-olympique.html
 9279485-pyeongchang-2018-russie-169-sportifs-autorises-a-participer-sous-drapeau-olympique.html
-9281262-pyeongchang-2018-les-fondeurs-avec-dario-cologna-en-fer-de-lance.html
+9281262-pyeongchang-2018-ski-de-fond-avec-dario-cologna-en-fer-de-lance.html
 9288007-pyeongchang-2018-ski-alpin-carlo-janka-bien-de-la-partie.html
 9305620-pyeongchang-2018-russie-thomas-bach-pointe-du-doigt-la-decision-du-tas.html
 9305799-pyeongchang-2018-ski-de-fond-des-sportifs-engages-en-coree-du-sud-soupconnes-de-dopage.html
@@ -68,7 +75,7 @@
 9323307-pyeongchang-2018-biathlon-dahlmeier-decroche-le-titre-en-sprint-cadurisch-excellente-8e.html
 9323332-pyeongchang-2018-ski-alpin-beat-feuz-estil-une-star-en-coree-du-sud.html
 9323733-pyeongchang-2018-shorttrack-la-coree-du-sud-tient-son-premier-titre-olympique.html
-9323842-pyeongchang-2018-saut-a-skis-wellinger-nouveau-champion-olympique-ammann-11e.html
+9323842-pyeongchang-2018-saut-a-skis-ammann-11e-au-petit-tremplin-wellinger-nouveau-champion-olympique.html
 9324325-pyeongchang-2018-ski-alpin-trop-de-vent-la-descente-messieurs-reportee-a-jeudi.html
 9324372-pyeongchang-2018-snowboard-redmond-gerard-un-prodige-en-or-sur-le-slopestyle.html
 9324587-pyeongchang-2018-curling-les-suisses-simposent-au-finish-et-se-qualifient-pour-les-demifinales.html
@@ -136,7 +143,7 @@
 9340051-pyeongchang-2018-ski-freestyle-mathilde-gremaud-ouvre-son-album-de-souvenirs.html
 9340138-pyeongchang-2018-ski-de-fond-dario-cologna-cest-une-journee-de-reve.html
 9340165-pyeongchang-2018-curling-la-suisse-bat-le-japon-et-signe-une-2e-victoire.html
-9340313-pyeongchang-2018-medailles-les-trois-heros-du-jour-a-la-fete.html
+9340313-pyeongchang-2018-swiss-olympic-les-trois-heros-du-jour-a-la-fete.html
 9340456-pyeongchang-2018-swiss-olympic-feuz-double-la-mise-cologna-puissance-quatre-holdener-en-argent.html
 9342171-pyeongchang-2018-ski-alpin-le-depart-du-superg-dames-repousse-a-cause-du-vent.html
 9342173-pyeongchang-2018-ski-freestyle-hoefflin-et-gremaud-realisent-un-double-suisse-historique.html
@@ -222,4 +229,3 @@
 9363476-pyeongchang-2018-bilan-le-sport-suisse-a-ecrit-de-magnifiques-histoires-pour-ralph-stockli.html
 9363853-pyeongchang-2018-les-23es-jeux-olympiques-dhiver-sont-officiellement-termines.html
 9367236-pyeongchang-2018-les-derniers-medailles-suisses-sont-de-retour-au-pays.html
-9398378-retour-sur-les-jeux-sudcoreens-au-jour-le-jour.html
