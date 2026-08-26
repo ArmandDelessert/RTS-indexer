@@ -1,36 +1,5 @@
 type	url	detail
 code_atypique	https://www.rts.ch/docs/podcasts/	erreur réseau
-code_atypique	https://www.rts.ch/hummingbird-ajax/sport/events/euro-2020/banner/	HTTP 403
-code_atypique	https://www.rts.ch/hummingbird-ajax/sport/events/fifa-2022/banner/	HTTP 403
-code_atypique	https://www.rts.ch/hummingbird-ajax/sport/events/fifa-2023/banner/	HTTP 403
-code_atypique	https://www.rts.ch/hummingbird-ajax/sport/events/jo-2020/banner/	HTTP 403
-code_atypique	https://www.rts.ch/hummingbird-ajax/sport/events/jo-2022/banner/	HTTP 403
-code_atypique	https://www.rts.ch/hummingbird-ajax/sport/fifa2018/banner/	HTTP 403
-code_atypique	https://www.rts.ch/hummingbird-ajax/weather/locations/5b12c42998308cd64494c48a7dac593a78421c9d/forecast/	HTTP 403
-code_atypique	https://www.rts.ch/hummingbird-ajax/weather/locations/d90a3ef748109402df1409f33f208aa23f5f5d88/forecast/	HTTP 403
-code_atypique	https://www.rts.ch/info/suisse/11133609-la-session-interrompue-en-raison-de-la-lutte-contre-le-coronavirus-.html	HTTP 500
 code_atypique	https://www.rts.ch/info/suisse/11133609-la-session-interrompue-en-raison-de-la-lutte-contre-le-coronavirus.html	HTTP 500
 code_atypique	https://www.rts.ch/info/suisse/11133609-le-national-refuse-de-mieux-proteger-les-lanceurs-d-alerte.html	HTTP 500
-code_atypique	https://www.rts.ch/java/java.htm	HTTP 406
-code_atypique	https://www.rts.ch/sport/directs/1540318999812-motogp.html	HTTP 500
-code_atypique	https://www.rts.ch/sport/directs/1613744688812-15e-journee-davos-zoug.html	HTTP 500
-code_atypique	https://www.rts.ch/sport/directs/1613753958812-sport-derniere.html	HTTP 500
-code_atypique	https://www.rts.ch/sport/directs/1651035476812-sport-derniere.html	HTTP 500
-code_atypique	https://www.rts.ch/sport/directs/1678012223812-sport-derniere.html	HTTP 500
-code_atypique	https://www.rts.ch/sport/directs/1701498582812-gp-de-bahrein-essais-qualificatifs.html	HTTP 500
-code_atypique	https://www.rts.ch/sport/directs/1706862038812-5e-journee-sion-servette.html	HTTP 500
-code_atypique	https://www.rts.ch/sport/directs/1706879178812-skicross.html	HTTP 500
-code_atypique	https://www.rts.ch/sport/directs/1759971928812-116-retour-atletico-madrid-servette-chenois.html	HTTP 500
-code_atypique	https://www.rts.ch/sport/directs/1762272812812-finlande-suisse.html	HTTP 500
-code_atypique	https://www.rts.ch/sport/directs/1813597496812-sprint-dames.html	HTTP 500
-code_atypique	https://www.rts.ch/sport/directs/1813602731812-relais-messieurs.html	HTTP 500
-code_atypique	https://www.rts.ch/sport/directs/1829936422812-slalom-messieurs-1re-manche.html	HTTP 500
-code_atypique	https://www.rts.ch/sport/directs/1878760285812-session-de-lapresmidi.html	HTTP 500
-code_atypique	https://www.rts.ch/sport/directs/937974253812-sport-derniere.html	HTTP 500
-code_atypique	https://www.rts.ch/sport/directs/991249183812-sport-dimanche.html	HTTP 500
-code_atypique	https://www.rts.ch/technik/elektro.htm	HTTP 406
-code_atypique	https://www.rts.ch/technik/gebaeudesicherheit.htm	HTTP 406
-code_atypique	https://www.rts.ch/technik/sanitaer.htm	HTTP 406
-code_atypique	https://www.rts.ch/technik/sicherheit.htm	HTTP 406
 hors_perimetre	https://www.rts.ch/datak/	https://www.datak.ch
-hors_perimetre	https://www.rts.ch/sport/football/suisse/2676291-de-g-a-dr-roger-wehrli-heinz-hermann-georges-bregy-alain-sutter-rene-botteron-christian-matthey-charly-in-albon-alain-geiger-claudio-sulser-erich-burgener-andy-egli.html	https://img.rts.ch/sport/football/2010/image/vl6xah-27941554.image
