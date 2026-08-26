@@ -15771,8 +15771,8 @@
 14693856-une-petite-brasserie-allemande-resiste-a-la-chute-du-secteur-de-la-biere.html
 14694270-camille-grand-poutine-va-sans-doute-etre-tente-de-tester-la-solidite-de-lotan.html
 14705651-en-californie-des-villas-se-retrouvent-au-bord-du-vide-apres-la-derniere-tempete.html
-15311126-le-pape-francois-a-denonce-lundi-au-vatican-larrogance-de-lenvahisseur-en-palestine.html
-15311131-les-forces-kurdes-syriennes-ont-attaque-des-positions-de-combattants-proturcs-dans-le-nord-de-la-syrie.html
+!15311126-le-pape-francois-a-denonce-lundi-au-vatican-larrogance-de-lenvahisseur-en-palestine.html
+!15311131-les-forces-kurdes-syriennes-ont-attaque-des-positions-de-combattants-proturcs-dans-le-nord-de-la-syrie.html
 1686907-cent-vingt-etats-au-chevet-des-especes-menacees.html
 1693124-complot-contre-un-dessinateur-suedois-dejoue.html
 1693381-nigeria-500-chretiens-ont-ete-massacres.html

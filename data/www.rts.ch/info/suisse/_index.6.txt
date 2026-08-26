@@ -161,7 +161,7 @@
 6107613-corruption-denoncee-dans-le-negoce-des-matieres-premieres-en-suisse.html
 6108281-les-maladies-non-transmissibles-representent-80-des-couts-directs-de-la-sante.html
 6108411-action-des-verts-pour-la-fermeture-de-la-centrale-nucleaire-de-beznau-ag.html
-6109147-la-grue-d-un-camion-a-heurte-l-entree-de-la-galerie-sud-de-l-a9-lundi-apres-midi-a-sion-ouest-vs.html
+!6109147-la-grue-d-un-camion-a-heurte-l-entree-de-la-galerie-sud-de-l-a9-lundi-apres-midi-a-sion-ouest-vs.html
 6109155-la-suisse-debloque-un-million-de-francs-pour-lutter-contre-ebola-en-afrique.html
 6110388-des-inspecteurs-russes-examinent-les-activites-de-larmee-suisse.html
 6110565-dans-les-chaines-de-fastfood-manger-a-lemporter-ne-coute-pas-moins-cher.html
@@ -200,7 +200,7 @@
 6126814-plus-de-60-des-employes-auraient-deja-demissionne-a-cause-de-leur-chef.html
 6127120-la-prime-dassurance-maladie-une-facture-parfois-difficile-a-payer.html
 6127583-le-national-favorable-a-une-detention-moins-longue-des-requerants-dasile.html
-6127731-deux-parlementaires-ont-demande-lundi-le-gel-de-la-participation-suisse-a-l-accord-nucleaire-euratom.html
+!6127731-deux-parlementaires-ont-demande-lundi-le-gel-de-la-participation-suisse-a-l-accord-nucleaire-euratom.html
 6127764-edward-snowden-pret-a-temoigner-en-suisse-selon-son-avocat.html
 6128010-le-depistage-de-la-trisomie-21-a-ete-accepte-par-le-conseil-des-etats.html
 6128196-les-resquilleurs-seront-inscrits-dans-un-registre-national.html
@@ -336,7 +336,7 @@
 6194701-vers-un-recul-de-ludc-aux-federales-de-2015-selon-le-barometre-ssr.html
 6194729-limmigration-est-le-souci-numero-un-des-suisses-selon-le-sondage-ssr.html
 6195259-ludc-tempere-les-enseignements-du-barometre-ssr-le-ps-se-felicite.html
-6195292-les-partis-politiques-ont-reagi-a-la-publication-du-premier-barometre-electoral-en-appelant-a-la-prudence.html
+!6195292-les-partis-politiques-ont-reagi-a-la-publication-du-premier-barometre-electoral-en-appelant-a-la-prudence.html
 6196277-les-etatsunis-auraient-alerte-la-suisse-des-dangers-dune-cellule-terroriste.html
 6196659-lasin-apporte-son-soutien-a-linitiative-antiimmigration-ecopop.html
 6196999-pour-leurosceptique-britannique-nigel-farage-la-suisse-est-un-modele.html
@@ -452,7 +452,7 @@
 6250681-ludc-adoube-son-initiative-sur-la-primaute-du-droit-suisse.html
 6251457-le-chef-decopop-denonce-lhypocrisie-de-ludc-et-de-la-gauche.html
 6251699-un-tiers-des-enseignants-suisses-sont-proches-du-burnout.html
-6251865-un-total-de-20-des-enseignants-du-secondaire-se-disent-depasses-et-un-tiers-proche-du-burn-out.html
+!6251865-un-total-de-20-des-enseignants-du-secondaire-se-disent-depasses-et-un-tiers-proche-du-burn-out.html
 6252144-ce-mois-doctobre-en-passe-de-devenir-le-plus-chaud-en-plaine-depuis-1864.html
 6253555-alain-berset-na-pas-sa-place-au-gouvernement-selon-philippe-roch-partisan-decopop.html
 6253634-seul-un-romand-sur-3-pretend-bien-parler-lallemand.html

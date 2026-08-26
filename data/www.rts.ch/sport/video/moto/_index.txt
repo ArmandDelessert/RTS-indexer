@@ -1,7 +1,7 @@
-10377131-motocyclisme-gp-ditalie-moto2.html
+!10377131-motocyclisme-gp-ditalie-moto2.html
 !10625523-motocyclisme-gp-daragon-moto2.html
 !10625523-motocyclisme-gp-daragon-motogp.html
-10625525-motocyclisme-grand-prix-daragon-motogp.html
+!10625525-motocyclisme-grand-prix-daragon-motogp.html
 10926318-sx1-martin-davalos-ecu-lemporte-a-geneve.html
 10927779-finale-sx1-victoire-de-justin-brayton-usa.html
 10927792-finale-sx2-victoire-joey-crown-usa.html
@@ -21,7 +21,7 @@
 11599997-gp-de-saintmarin-ita-victoire-de-luca-marini-ita-thomas-luthi-sui-termine-en-6e-position.html
 11600108-gp-de-saintmarin-ita-victoire-de-franco-morbidelli-ita.html
 11617090-gp-demilieromagne-4-motoe-victoire-de-ferrari-ita-aegerter-termine-16e-apres-une-chute.html
-11664009-motocyclisme-gp-daragon-moto3.html
+!11664009-motocyclisme-gp-daragon-moto3.html
 11668234-gp-de-france-5-motoe-la-victoire-pour-torres-esp-aegerter-sui-14e.html
 11669429-gp-de-france-moto3-victoire-de-litalien-celestino-vietti.html
 11669831-gp-de-france-6-motoe-torres-esp-remporte-la-course-aegerther-sui-termine-4e.html
@@ -36,9 +36,9 @@
 12098676-losail-qat-moto3-pedro-acosta-esp-simpose-en-partant-dernier-belle-11e-place-pour-jason-dupasquier.html
 12098719-losail-qat-moto2-sam-lowes-gbr-fait-coup-double-a-losail-luthi-ne-termine-pas-la-course.html
 12098862-losail-qat-motogp-fabio-quartararo-fra-simpose-devant-zarko-fra-et-martin-esp.html
-12542110-motocyclisme-gp-de-valence-moto-2.html
-12542112-motocyclisme-gp-de-valence-moto-gp.html
-12607930-motocyclisme-gp-de-valence-moto-3.html
+!12542110-motocyclisme-gp-de-valence-moto-2.html
+!12542112-motocyclisme-gp-de-valence-moto-gp.html
+!12607930-motocyclisme-gp-de-valence-moto-3.html
 12916675-losail-qat-moto3-victoire-dandrea-migno-esp-devant-sergio-garcia-esp-2e.html
 12916860-losail-qat-moto2-vietti-ita-remporte-sa-1re-course-en-moto2-devant-canet-esp-2e-et-lowes-gbr-3e.html
 12916940-losail-qat-motogp-victoire-de-bastianini-ita-devant-binder-rsa-2e-et-espargaro-esp-3e.html

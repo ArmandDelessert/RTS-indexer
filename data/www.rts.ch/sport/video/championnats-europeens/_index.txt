@@ -110,11 +110,11 @@
 13323577-athletisme-4-x-100m-dames-les-allemandes-simposent-devant-les-polonaises-2e-et-les-italiennes-3e.html
 13323612-athletisme-4-x-100m-messieurs-lequipe-de-suisse-au-micro-de-la-rts-apres-leur-5e-place.html
 13323662-championnats-europeens-best-of-jour-11.html
-9739036-championnats-europeens-european-championships-2018-finals.html
-9739078-championnats-europeens-european-championships-2018.html
-9739100-championnats-europeens-european-championships-2018-gold.html
-9739250-championnats-europeens-european-championships-2018-final.html
-9751757-championnats-europeens-championnats-europeens-2018-gymnastique-et-athletisme.html
+!9739036-championnats-europeens-european-championships-2018-finals.html
+!9739078-championnats-europeens-european-championships-2018.html
+!9739100-championnats-europeens-european-championships-2018-gold.html
+!9739250-championnats-europeens-european-championships-2018-final.html
+!9751757-championnats-europeens-championnats-europeens-2018-gymnastique-et-athletisme.html
 9758102-natation-200m-messieurs-nils-liess-qualifie-au-temps-pour-la-finale.html
 9759936-natation-200m-brasse-dames-derniere-place-pour-lisa-mamie-qui-ne-passe-pas-en-finale.html
 9759982-natation-200m-4nages-messieurs-jeremy-desplanches-champion-deurope.html
@@ -125,7 +125,7 @@
 9764233-natation-50m-papillon-dames-derniere-place-de-sa-serie-et-pas-de-finale-pour-sasha-touretski.html
 9764284-natation-200m-4nages-dames-medaille-de-bronze-pour-maria-ugolkova-katinka-hosszu-en-or.html
 9764314-natation-200m-4nages-dames-la-premiere-reaction-de-maria-ugolkova-apres-sa-medaille-de-bronze.html
-9764523-championnats-europeens-european-championships-2018-final.html
+!9764523-championnats-europeens-european-championships-2018-final.html
 9766298-triathlon-dames-nicola-spirig-sui-remporte-le-titre-europeen-pour-la-6e-fois.html
 9766315-triathlon-dames-nicola-spirig-sui-a-linterview.html
 9766383-triathlon-dames-la-joie-de-la-suissesse-lors-de-la-remise-des-medailles.html

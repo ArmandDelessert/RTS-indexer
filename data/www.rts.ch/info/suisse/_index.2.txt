@@ -1,8 +1,8 @@
-2020776-ueli-maurer-propose-une-armee-redimensionnee.html
-2071893-les-gays-une-tumeur-pour-certains-udc.html
+!2020776-ueli-maurer-propose-une-armee-redimensionnee.html
+!2071893-les-gays-une-tumeur-pour-certains-udc.html
 !2072871-abus-sexuels-a-l-eglise-les-eveques-reagissent.html
 !2072871-abus-sexuels-a-leglise-les-eveques-reagissent.html
-2078143-mariage-blanc-tour-de-vis-du-conseil-federal.html
+!2078143-mariage-blanc-tour-de-vis-du-conseil-federal.html
 2101015-naturalisations-la-suisse-dans-la-moyenne.html
 2103990-joseph-deiss-accede-au-perchoir-de-lonu.html
 2104905-grave-accident-de-car-dans-le-hautvalais.html
@@ -47,7 +47,7 @@
 2294656-le-deraillement-du-glacier-express-reste-un-mystere.html
 2316548-le-canton-de-vaud-interdit-les-feux-dartifice.html
 2323148-le-conducteur-du-glacier-express-roulait-trop-vite.html
-2324355-les-bouchons-ont-atteint-15km-a-la-mi-journee-au-gothard-en-raison-du-chasse-croise-des-vacanciers.html
+!2324355-les-bouchons-ont-atteint-15km-a-la-mi-journee-au-gothard-en-raison-du-chasse-croise-des-vacanciers.html
 2324651-veille-du-1er-aout-les-politiciens-prennent-le-micro.html
 2325056-1er-aout-doris-leuthard-appelle-au-debat-constructif.html
 2338654-lausanne-le-crematoire-des-animaux-est-un-succes.html
@@ -56,14 +56,14 @@
 2358183-doris-leuthard-est-en-visite-en-chine.html
 2359252-les-chiffres-du-chomage-ne-sont-pas-fiables.html
 2360471-simonetta-sommaruga-a-lassaut-du-conseil-federal.html
-2360899-la-socialiste-bernoise-simonetta-sommaruga-est-candidate-a-la-succession-de-moritz-leuenberger.html
+!2360899-la-socialiste-bernoise-simonetta-sommaruga-est-candidate-a-la-succession-de-moritz-leuenberger.html
 2361723-gymnasien-vaudois-exclu-pour-avoir-copie-wikipedia.html
 2367060-le-plr-ruedi-noser-candidat-a-la-succession-merz.html
 2367983-la-rentree-cree-son-lot-de-bouchons-au-gothard.html
 2369480-la-baloise-eva-herzog-candidate-au-conseil-federal.html
 2370774-ludc-se-lance-dans-la-course-au-conseil-federal.html
 2382897-johann-schneiderammann-se-lance-dans-la-course.html
-2386758-la-conseillere-d-etat-saint-galloise-karin-keller-sutter-candidate-a-la-succession-de-hans-rudolf-merz.html
+!2386758-la-conseillere-d-etat-saint-galloise-karin-keller-sutter-candidate-a-la-succession-de-hans-rudolf-merz.html
 2389319-affaire-hainard-premiers-documents-de-la-cep.html
 2390386-micheline-calmyrey-sengage-pour-la-5e-suisse.html
 2391178-telephoner-dans-les-trains-bientot-sans-probleme.html
@@ -141,7 +141,7 @@
 2590737-la-station-valaisanne-du-super-stbernard-a-larret.html
 2592028-cinq-tonnes-dor-au-noir-italien-blanchis-en-suisse.html
 2603224-valais-match-de-foot-en-salle-doperation.html
-2603887-l-emetteur-de-sottens-vd-sera-desactive-le-5-decembre-a-minuit-sa-technologie-est-devenue-obsolete.html
+!2603887-l-emetteur-de-sottens-vd-sera-desactive-le-5-decembre-a-minuit-sa-technologie-est-devenue-obsolete.html
 2603919-sommet-de-la-francophonie-la-securite-est-assuree.html
 2606461-un-salaire-minimum-pour-les-employes-de-menage.html
 2609087-ueli-maurer-sattaque-aux-poches-percees-de-larmee.html
@@ -238,7 +238,7 @@
 2892081-tunisie-couvrefeu-decrete-dans-la-capitale.html
 2892187-les-medecines-douces-a-nouveau-remboursees.html
 2898077-initiative-valaisanne-contre-les-lignes-a-tres-haute-tension.html
-2898318-le-parti-chretien-social-recommande-le-oui-a-l-initiative-populaire-contre-la-violence-des-armes.html
+!2898318-le-parti-chretien-social-recommande-le-oui-a-l-initiative-populaire-contre-la-violence-des-armes.html
 2898349-le-pbd-a-des-vues-sur-lelectorat-de-centre-droit.html
 2899638-un-exbanquier-suisse-roule-pour-wikileaks.html
 2899663-gel-des-avoirs-de-ben-ali-en-suisse-reclame.html
@@ -265,7 +265,7 @@
 2937332-bernard-rappaz-a-nouveau-devant-la-justice.html
 2938816-george-w-bush-ne-viendra-pas-a-geneve.html
 2939028-pedophilie-vers-un-durcissement-des-regles.html
-2947740-le-pdc-menera-sa-campagne-federale-avec-le-slogan-les-suisses-qui-sont-heureux-votent-democrate-chretien.html
+!2947740-le-pdc-menera-sa-campagne-federale-avec-le-slogan-les-suisses-qui-sont-heureux-votent-democrate-chretien.html
 2950580-immobilier-a-geneve-mark-muller-prend-des-mesures.html
 2952516-les-urgences-de-sion-submergees-de-skieurs.html
 2953127-la-suisse-bloque-les-fonds-de-la-famille-moubarak.html

@@ -122,7 +122,7 @@
 7271343-voile-dona-bertarelli-ecrit-lhistoire.html
 7336177-trophee-jules-verne-2015.html
 7442800-vendee-globe-le-genevois-roura-le-plus-jeune-inscrit-de-lhistoire.html
-7796133-voile-ladycat-domine-la-78e-edition-du-bol-dor.html
+!7796133-voile-ladycat-domine-la-78e-edition-du-bol-dor.html
 7815061-voile-justine-mettraux-a-lassaut-de-la-solitaire-du-figaro.html
 8133521-vendee-globe-alan-roura-jai-du-sang-sale-dans-les-veines.html
 8141996-vendee-globe-leverest-des-mers-en-quelques-chiffres.html

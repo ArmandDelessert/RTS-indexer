@@ -1,8 +1,8 @@
-./
+!./
 11501073-un-village-autrichien-entierement-copie-dans-le-sud-de-la-chine.html
 12428552-les-30-images-marquantes-du-11-septembre-2001.html
-2078102-les-moments-forts-de-la-semaine-du-31-mai-2010.html
-2092984-les-derniers-suisses-entres-au-larousse.html
+!2078102-les-moments-forts-de-la-semaine-du-31-mai-2010.html
+!2092984-les-derniers-suisses-entres-au-larousse.html
 2342059-les-moments-forts-de-la-carriere-de-hansrudolf-merz.html
 2388257-joe-dassin-public-et-prive.html
 2413181-les-photos-marquantes-de-louragan-katrina-a-la-nouvelleorleans.html

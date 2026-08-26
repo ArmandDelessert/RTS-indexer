@@ -505,9 +505,9 @@
 14660896-skicross-fanny-smith-et-alex-fiva-2es-a-stmoritz.html
 14661545-xgames-une-nouveau-podium-pour-mathilde-gremaud.html
 1770568-les-starwings-sadjugent-la-coupe-de-suisse.html
-2035442-lugano-sacre-pour-la-7e-fois-de-son-histoire.html
-2068401-lausanne-basket-se-retire-pour-des-raisons-financieres.html
-2081718-magali-di-marco-messmer-dit-stop.html
+!2035442-lugano-sacre-pour-la-7e-fois-de-son-histoire.html
+!2068401-lausanne-basket-se-retire-pour-des-raisons-financieres.html
+!2081718-magali-di-marco-messmer-dit-stop.html
 2103022-le-basket-genevois-rugira-grace-a-ses-lions.html
 2106420-quatrieme-titre-des-chinoises-a-montreux.html
 2237485-nicola-spirig-conserve-son-titre-europeen.html

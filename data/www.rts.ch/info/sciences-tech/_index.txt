@@ -1823,7 +1823,7 @@
 !1966963-.html
 1967555-plus-de-poissons-dans-les-oceans-dans-40-ans.html
 1989717-le-cout-exorbitant-des-maux-de-dos-pour-leconomie.html
-2019357-google-street-view-il-faut-renforcer-la-loi-.html
+!2019357-google-street-view-il-faut-renforcer-la-loi-.html
 2169197-les-hug-publient-leurs-videos-sur-le-web.html
 2169878-un-laboratoire-ultrasecurise-inaugure-a-spiez-be.html
 2280270-switch-renforce-la-lutte-contre-le-piratage-internet.html

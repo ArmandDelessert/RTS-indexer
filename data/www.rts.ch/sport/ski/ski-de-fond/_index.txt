@@ -1,4 +1,4 @@
-./
+!./
 10055075-ski-de-fond-belle-quatrieme-place-pour-le-relais-suisse.html
 10116439-tour-de-ski-les-norvegiens-intouchables-sur-lalpe-cermis-petite-remontee-pour-von-siebenthal.html
 10133161-ski-de-fond-fahndrich-4e-a-002-du-podium.html
@@ -92,7 +92,7 @@
 12916785-ski-de-fond-cologna-dans-le-top10-pour-ses-adieux.html
 12931039-ski-de-fond-nadine-fahndrich-5e-du-dernier-sprint-de-la-saison.html
 12933452-ski-de-fond-therese-johaug-boucle-sa-carriere-avec-un-100e-succes.html
-12934963-ski-de-fond-furger-domine-cologna-au-sprint.html
+!12934963-ski-de-fond-furger-domine-cologna-au-sprint.html
 12971699-ski-de-fond-dario-cologna-finit-en-beaute.html
 13597989-ski-de-fond-nadine-fahndrich-chute-et-termine-loin-des-meilleures.html
 13607733-ski-de-fond-linterdiction-des-farts-fluores-un-cassetete.html

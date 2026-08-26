@@ -736,7 +736,7 @@
 12247479-rolandgarros-carnet-3-un-immense-henri-un-appel-a-lechec-des-bleus-et-un-federer-en-attente.html
 12247729-rolandgarros-tsitsipas-solide-et-spectaculaire.html
 12249168-rolandgarros-le-duo-mekticpavic-teste-positif-au-covid.html
-12249326-rolandgarros-cilicfederer-a-suivre-des-16h00-sur-rts-1.html
+!12249326-rolandgarros-cilicfederer-a-suivre-des-16h00-sur-rts-1.html
 12249828-rolandgarros-carnet-4-ce-tres-fort-federer-ces-renversants-italiens-et-cette-swiatek-de-feu.html
 12249945-rolandgarros-federer-lache-un-set-face-a-cilic.html
 12250536-rolandgarros-nadal-fete-son-35e-anniversaire-par-un-succes-contre-gasquet.html
@@ -951,7 +951,7 @@
 12514350-wta-indian-wells-naomi-osaka-renonce.html
 12514518-laver-cup-leurope-reste-favorite-meme-sans-federer-nadal-et-djokovic.html
 12515155-tennis-stricker-vainqueur-dun-duel-suisse.html
-12516992-wta-ostrava-bencic-et-teichmann-sortent-en-quarts.html
+!12516992-wta-ostrava-bencic-et-teichmann-sortent-en-quarts.html
 12518971-laver-cup-leurope-mene-31-a-boston.html
 12519002-tennis-raducanu-se-separe-de-son-entraineur.html
 12519282-tennis-husler-en-finale-stricker-abandonne.html
@@ -1162,7 +1162,7 @@
 12837312-tennis-federer-et-nadal-associes-dans-lequipe-deurope-a-la-laver-cup.html
 12837871-tennis-laureat-de-lus-open-2020-dominic-thiem-retarde-encore-son-retour.html
 12840241-tennis-stan-wawrinka-de-retour-sur-les-courts.html
-12842055-tennis-del-potro-laisse-planer-le-doute-quant-a-sa-retraite-sportive.html
+!12842055-tennis-del-potro-laisse-planer-le-doute-quant-a-sa-retraite-sportive.html
 12842692-tennis-stricker-de-nouveau-en-finale.html
 12843746-tennis-un-2e-titre-challenger-pour-dominic-stricker.html
 12847498-wta-stpetersbourg-bencic-passe-en-8es-teichmann-eliminee.html
@@ -1863,7 +1863,7 @@
 13783771-wta-doha-bencic-expeditive-pour-son-entree-en-lice.html
 13786454-atp-delray-beach-age-de-33-ans-un-directeur-financier-domine-jack-sock.html
 13786749-atp-rotterdam-stan-wawrinka-signe-une-belle-victoire-contre-richard-gasquet.html
-13799047-atp-buenos-aires-carlos-alcaraz-a-peine-revenu-deja-titre.html
+!13799047-atp-buenos-aires-carlos-alcaraz-a-peine-revenu-deja-titre.html
 13800632-atp-marseille-au-bout-dun-gros-combat-wawrinka-accede-aux-8es.html
 13800640-wta-dubai-jil-teichmann-sortie-dentree.html
 13802602-wta-merida-battue-dentree-golubic-ny-arrive-toujours-pas.html
@@ -2528,7 +2528,7 @@
 5673991-wawrinka-et-federer-sans-trembler-en-16es-de-finale.html
 5678362-wawrinka-ne-fait-qu-une-bouchee-de-seppi.html
 5689925-federer-facile-contre-anderson.html
-5693494-indian-wells.html
+!5693494-indian-wells.html
 5694228-federer-djokovic-finale-de-reve-et-de-revanches.html
 5698100-wawrinka-avec-nadal-federer-avec-djokovic.html
 5704574-ivan-lendl-quitte-andy-murray.html
@@ -2674,7 +2674,7 @@
 6319204-coupe-davis-les-suisses-confiants-monfils-a-peur.html
 6319443-rene-stammbach-president-de-swiss-tennis-cest-a-nous-cette-fois.html
 6321312-coupe-davis-la-finale-commence-bien-grace-a-wawrinka.html
-6321882-coupe-davis-la-1ere-journee-de-france-suisse-en-images.html
+!6321882-coupe-davis-la-1ere-journee-de-france-suisse-en-images.html
 6322493-coupe-davis-stan-taille-patron.html
 6322597-coupe-davis-federer-battu-la-suisse-et-la-france-se-retrouvent-dos-a-dos.html
 6322736-coupe-davis-la-suisse-peut-toujours-y-croire-mais.html
@@ -2684,7 +2684,7 @@
 6325246-coupe-davis-federer-face-a-gasquet.html
 6325302-coupe-davis-premier-sacre-historique-pour-la-suisse.html
 6325832-coupe-davis-un-succes-pour-leternite.html
-6325952-coupe-davis-le-triomphe-de-la-suisse-en-images.html
+!6325952-coupe-davis-le-triomphe-de-la-suisse-en-images.html
 6325962-coupe-davis-une-ligne-de-plus-au-palmares-du-maitre-federer.html
 6325963-coupe-davis-la-suisse-compte-deux-merveilles-dans-ses-rangs.html
 6330616-tennis-une-exhibition-federer-hewitt-revolutionnaire.html
@@ -2773,7 +2773,7 @@
 6710572-atp-montecarlo-nadal-transpire-pour-obtenir-le-droit-de-defier-djokovic-pour-la-43e-fois.html
 6712410-atp-montecarlo-djokovic-ecarte-nadal-et-rejoint-berdych-en-finale.html
 6714254-tennis-stan-et-ilham-se-separent.html
-6714361-monte-carlo-2015.html
+!6714361-monte-carlo-2015.html
 6716730-stan-wawrinka-ilham-donne-sa-version-des-faits.html
 6751805-istanbul-2015.html
 6787236-atp-rome-cest-juste-une-question-dattitude-explique-stan-wawrinka.html
@@ -2822,7 +2822,7 @@
 7000200-wta-toronto-belinda-bencic-poursuit-son-aventure.html
 7002350-wta-toronto-belinda-bencic-se-hisse-en-demifinales.html
 7003761-wta-toronto-un-immense-exploit-de-belinda-bencic.html
-7005811-toronto-2015.html
+!7005811-toronto-2015.html
 7020004-atp-cincinnati-federer-visera-un-septieme-titre-dans-lohio.html
 7021699-atp-cincinnati-imperial-federer-reussit-la-passe-de-sept.html
 7022552-cincinnati-2015.html
@@ -2894,7 +2894,7 @@
 7153717-wta-pekin-timea-bacsinszky-arrache-son-billet-pour-les-demifinales.html
 7156493-wta-pekin-timea-bacsinszky-en-finale-et-dans-le-top10-mondial.html
 7157028-wta-pekin-hingis-et-mirza-restent-sur-leur-nuage.html
-7157894-tokyo-2015.html
+!7157894-tokyo-2015.html
 7157988-timea-bacsinszky.html
 7158311-wta-pekin-le-titre-echappe-a-timea-bacsinszky.html
 7160148-tennis-timea-bacsinszky-fait-son-entree-dans-le-top10-mondial.html
@@ -2916,7 +2916,7 @@
 7215440-wta-masters-la-7e-tentative-aura-ete-la-bonne-pour-agnieszka-radwanska.html
 7217250-wta-masters-cerise-sur-le-gateau-pour-martina-hingis-et-sania-mirza.html
 7217403-wta-masters-grande-premiere-pour-agnieszka-radwanska.html
-7235021-paris-bercy-2015.html
+!7235021-paris-bercy-2015.html
 7255797-fed-cup-la-republique-tcheque-puissance-quatre.html
 7255801-round-robin.html
 7275171-tennis-wawrinka-surpris-par-son-niveau-en-2015.html

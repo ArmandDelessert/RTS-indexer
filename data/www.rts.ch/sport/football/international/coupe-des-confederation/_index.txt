@@ -1,4 +1,4 @@
-./
+!./
 4989167-groupe-a.html
 4989168-groupe-b.html
 5026698-demis.html

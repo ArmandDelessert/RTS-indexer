@@ -1,7 +1,7 @@
-./
+!./
 1942349-shaqiri-et-yakin-iront-en-afrique-du-sud.html
 1968081-pas-de-coupe-du-monde-pour-spycher-revoila-magnin.html
-2045890-albert-bunjaku-appele-par-ottmar-hitzfeld.html
+!2045890-albert-bunjaku-appele-par-ottmar-hitzfeld.html
 2121654-derdiyok-en-soutien-de-nkufo-contre-lespagne.html
 2121719-la-suisse-realise-limpensable-en-battant-lespagne.html
 2134330-hitzfeld-envoie-larbitre-saoudien-a-la-plage.html

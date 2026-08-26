@@ -29,13 +29,13 @@
 12386475-bmx-freestyle-qualifications-dames-belle-journee-pour-ducarroz-sui-qui-se-battra-pour-les-medailles-demain.html
 12386709-trampoline-finale-messieurs-ivan-litvinovich-blr-est-champion-olympique.html
 12386803-plongeon-tremplin-3m-dames-michelle-heimberg-sui-qualifiee-pour-la-finale.html
-12386819-tir-carabine-50m-3-positions-dames-nina-christen-sui-decroche-lor-olympique.html
+!12386819-tir-carabine-50m-3-positions-dames-nina-christen-sui-decroche-lor-olympique.html
 12386848-nina-christen-sui-recoit-sa-medaille-dor.html
 12386872-halterophilie-81kg-messieurs-lor-pour-le-chinois-xiaojun-lyu-malgre-un-dernier-essai-rate-a-210kg.html
 12386919-rugby-finale-dames-nzl-fra-2612-trop-fortes-les-neozelandaises-prennent-lor.html
 12387249-tennis-finale-dames-bencic-sui-vondrousova-cze-75-26-63-bencic-en-or.html
 12387259-beachvolley-barrages-18-messieurs-la-paire-suisse-heidrichgerson-eliminee-en-deux-manches-par-les-freres-grimalt-chi-1721-1821.html
-12387291-belinda-bencic-recoit-sa-medaille-et-lhymne-suisse-resonne-pour-une-troisieme-fois-a-tokyo.html
+!12387291-belinda-bencic-recoit-sa-medaille-et-lhymne-suisse-resonne-pour-une-troisieme-fois-a-tokyo.html
 12388136-cyclisme-finale-bmx-freestyle-nikita-ducarroz-sui-chute-lors-de-son-2e-run-mais-decroche-le-bronze.html
 12388158-natation-finale-relais-4x100m-4-nages-dames-laustralie-remporte-lor.html
 12388171-natation-finale-relais-4x100m-4-nages-messieurs-record-du-monde-et-medaille-dor-pour-les-etatsunis.html
@@ -187,7 +187,7 @@
 12849578-ski-de-fond-sprint-dames-14-de-finale-la-course-dalina-meier-sui-qui-manque-la-qualification.html
 12849742-ski-de-fond-sprint-dames-12-de-finale-nadine-faehndrich-sui-participera-a-la-finale.html
 12849807-ski-de-fond-sprint-dames-finale-sundling-swe-championne-olympique-faehndrich-sui-5e.html
-12849868-ski-de-fond-sprint-messieurs-finale-la-medaille-dor-pour-klaebo-nor.html
+!12849868-ski-de-fond-sprint-messieurs-finale-la-medaille-dor-pour-klaebo-nor.html
 12851631-slalom-dames-1re-manche-incroyable-limmense-favorite-mikaela-shiffrin-sui-eliminee-apres-4-secondes.html
 12851914-slalom-dames-2e-manche-camille-rast-sui-gagne-deux-rangs-et-se-classe-7eme.html
 12851925-slalom-dames-2e-manche-un-beau-top-10-pour-danioth-sui.html

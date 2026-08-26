@@ -1,8 +1,8 @@
 ./
-f1.html
-football.html
-generic.html
-hockey.html
-jo.html
-ski.html
-tennis.html
+!f1.html
+!football.html
+!generic.html
+!hockey.html
+!jo.html
+!ski.html
+!tennis.html

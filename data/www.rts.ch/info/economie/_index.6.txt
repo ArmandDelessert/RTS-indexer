@@ -52,7 +52,7 @@
 6077150-exportations-de-fromages-et-legumes-suisses-dopees-par-lembargo-russe.html
 6078399-le-benefice-net-de-swisscom-a-subi-un-leger-repli-au-premier-semestre-2014.html
 6079570-croissance-au-premier-semestre-pour-lindustrie-suisse-des-machines.html
-6081172-le-voyagiste-suisse-kuoni-tombe-dans-les-chiffres-rouges-avec-une-perte-de-14-millions-au-1er-semestre.html
+!6081172-le-voyagiste-suisse-kuoni-tombe-dans-les-chiffres-rouges-avec-une-perte-de-14-millions-au-1er-semestre.html
 6082254-bank-of-america-paie-17-milliards-damende-suite-a-des-prets-toxiques.html
 6085564-convaincu-de-sa-politique-mario-draghi-veut-plus-de-reformes-structurelles.html
 6087705-lete-pluvieux-a-pese-sur-les-chiffres-du-tourisme-en-suisse.html
@@ -131,7 +131,7 @@
 6181173-ubs-cree-une-societe-holding-pour-se-conformer-aux-regles-globales.html
 6182757-apple-pourrait-devoir-rembourser-des-milliards-deuros-a-lirlande.html
 6184336-lufthansa-pourrait-embaucher-des-pilotes-suisses-pour-faire-baisser-ses-couts.html
-6184625-le-chomage-est-reste-stable-en-aout-dans-la-zone-euro-par-rapport-a-juillet-a-11-5.html
+!6184625-le-chomage-est-reste-stable-en-aout-dans-la-zone-euro-par-rapport-a-juillet-a-11-5.html
 6185035-ebay-se-scinde-en-deux-et-fait-de-paypal-une-societe-independante.html
 6185057-le-pib-suisse-est-revu-a-la-hausse-pour-la-periode-19952013.html
 6185075-la-marque-horlogere-tag-heuer-licencie-46-personnes-en-suisse.html
@@ -226,7 +226,7 @@
 6270517-tamedia-dit-son-interet-pour-le-site-de-commerce-en-ligne-ricardo.html
 6271949-fort-de-bons-resultats-semestriels-calida-devoile-ses-ambitions-internationales.html
 6274247-raoul-weil-declare-non-coupable-aux-etatsunis-daide-a-levasion-fiscale.html
-6274624-l-ex-cadre-d-ubs-raoul-weil-a-ete-declare-non-coupable-en-floride-d-aide-a-l-evasion-fiscale.html
+!6274624-l-ex-cadre-d-ubs-raoul-weil-a-ete-declare-non-coupable-en-floride-d-aide-a-l-evasion-fiscale.html
 6275376-tornos-reduit-ses-pertes-sur-les-trois-premiers-trimestres-par-rapport-a-2013.html
 6275862-lunion-europeenne-ne-croit-pas-aux-objectifs-budgetaires-de-la-france.html
 6276412-les-experts-suisses-saluent-lacquittement-de-raoul-weil.html
@@ -413,7 +413,7 @@
 6489625-la-bce-assure-quune-restructuration-de-la-dette-grecque-est-impossible.html
 6490779-la-suisse-va-transmettre-a-litalie-des-informations-sur-un-compte-du-vatican.html
 6491088-vlm-airlines-inaugure-une-liaison-geneveanvers.html
-6491144-l-olf-numero-1-de-la-distribution-de-livres-suisse-baisse-ses-salaires-apres-l-abandon-du-taux-plancher.html
+!6491144-l-olf-numero-1-de-la-distribution-de-livres-suisse-baisse-ses-salaires-apres-l-abandon-du-taux-plancher.html
 6492200-le-vicepresident-de-la-bns-defend-la-communication-de-la-banque.html
 6492412-novartis-affiche-un-benefice-net-en-hausse-de-12-en-2014.html
 6492495-laction-de-sunrise-sera-lancee-dici-le-6-fevrier-entre-58-et-78-francs.html
@@ -484,7 +484,7 @@
 6539555-le-benefice-du-fabricant-dascenseurs-schindler-a-bondi-en-2014.html
 6539727-ubs-table-sur-une-legere-devalorisation-du-franc.html
 6540400-la-banque-dangleterre-envisage-une-enquete-sur-hsbc.html
-6541253-l-espagne-a-reclame-vendredi-le-remboursement-des-26-milliards-d-euros-qu-elle-a-pretes-a-la-grece.html
+!6541253-l-espagne-a-reclame-vendredi-le-remboursement-des-26-milliards-d-euros-qu-elle-a-pretes-a-la-grece.html
 6542173-avec-le-franc-fort-lecart-de-prix-avec-les-stations-etrangeres-atteindrait-50.html
 6542562-debut-du-carnaval-de-rio-avec-5-jours-de-folie-et-de-samba.html
 6544008-le-groupe-britannique-tesco-pourrait-supprimer-10000-emplois.html

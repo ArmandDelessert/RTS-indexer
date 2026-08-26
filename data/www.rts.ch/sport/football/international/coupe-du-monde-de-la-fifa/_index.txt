@@ -1,8 +1,8 @@
 ./
 10088760-fifa-coupe-du-monde-2018-plus-dun-milliard-de-personnes-ont-suivi-la-finale-a-la-television.html
 10093181-retro-2018-quavezvous-retenu-de-la-coupe-du-monde-2018.html
-5845732-football.html
-5845737-football.html
+!5845732-football.html
+!5845737-football.html
 5928218-les-matches-du-jour.html
 5931074-fifa-mondial-seferovic-libere-une-suisse-crispee.html
 7794378-groupe-a.html
@@ -19,7 +19,7 @@
 9637559-fifa-coupe-du-monde-2018-la-france-possede-leffectif-le-plus-cher.html
 9638060-groupe-g.html
 9638066-en-attendant-le-match-douverture.html
-9638145-var-assistance-video-a-larbitrage.html
+!9638145-var-assistance-video-a-larbitrage.html
 9638198-fifa-coupe-du-monde-2018-la-belgique-bat-nettement-le-costa-rica.html
 9639592-fifa-coupe-du-monde-2018-a-togliatti-pour-y-rester-le-plus-longtemps-possible.html
 9641776-fifa-coupe-du-monde-2018-la-super-league-representee-par-quatre-joueurs.html

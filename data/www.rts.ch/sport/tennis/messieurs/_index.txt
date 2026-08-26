@@ -1,4 +1,4 @@
-./
+!./
 1007306-federer-en-demifinale.html
 1196615-nadal-nouveau-roi-de-wimbledon.html
 1204735-roger-federer-king-of-new-york.html

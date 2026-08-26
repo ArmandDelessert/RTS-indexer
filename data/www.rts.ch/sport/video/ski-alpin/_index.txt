@@ -180,7 +180,7 @@
 11129533-la-thuile-ita-super-g-dames-lara-gutbehrami-sui-termine-10e.html
 11129546-thuile-ita-super-g-dames-victoire-de-nina-ortlieb-aut.html
 11129570-thuile-ita-super-g-dames-wendy-holdener-sui-occupe-au-9e-rang.html
-11672086-ski-alpin-coupe-du-monde-slalom-dames-1re-manche.html
+!11672086-ski-alpin-coupe-du-monde-slalom-dames-1re-manche.html
 11684456-solden-aut-geant-dames-1re-manche-michelle-gisin-sui-4e-et-meilleure-suissesse.html
 11684701-solden-aut-geant-dames-2e-manche-andrea-ellenberger-sui-se-classe-11e.html
 11684714-solden-aut-geant-dames-2e-manche-22e-rang-pour-priska-nufer-sui.html
@@ -202,7 +202,7 @@
 11769659-levi-fin-slalom-dames-1re-manche-vlhova-svk-et-gisin-en-tete-exaequo-holdener-sui-3e-shiffrin-usa-4e-et-meillard-sui-chute.html
 11769840-levi-fin-slalom-dames-resume-de-la-victoire-de-vlhova-svk-devant-gisin-sui-2e-liensberger-aut-3e-et-holdener-4e.html
 11770075-2211-doris_de_agostino-diablerets_1982_1983.html
-11789978-ski-alpin-coupe-du-monde-super-g-dames.html
+!11789978-ski-alpin-coupe-du-monde-super-g-dames.html
 11806128-santa-caterina-ita-geant-messieurs-marco-odermatt-sui-simpose-en-geant-9-ans-apres-carlo-janka.html
 11859260-semmering-aut-slalom-dames-2e-manche-melanie-meillard-sui.html
 11859269-semmering-aut-slalom-dames-2e-manche-wendy-holdener-sui-termine-5e.html
@@ -212,7 +212,7 @@
 11911460-idre-fjall-swe-skicross-dames-finale-fanny-smith-premiere-t-gantenbein-4e.html
 11911577-idre-fjall-swe-skicross-hommes-petite-finale-m-bischofberger-6e-r-regez-7e.html
 11911601-idre-fjall-swe-skicross-hommes-finale-b-midol-fra-vainqueur-j-lenherr-sui-fini-4e.html
-11929922-freestyle-ski-cross-finales.html
+!11929922-freestyle-ski-cross-finales.html
 11936821-garmisch-all-super-g-dames-victoire-de-lara-gutbehrami-sui.html
 11938282-chamonix-fra-slalom-messieurs-1re-manche-ramon-zenhaeusern-sui-occupe-le-11e-rang.html
 11938293-chamonix-fra-slalom-messieurs-1re-manche-daniel-yule-sui-est-actuellement-24e.html
@@ -266,15 +266,15 @@
 12061050-lenzerheide-sui-finales-slalom-dames-mikaela-shiffrin-usa-2e.html
 12061061-lenzerheide-sui-finales-slalom-dames-katharina-liensberger-aut-gagne-le-globe-de-la-specialite.html
 12061076-lenzerheide-sui-finales-slalom-dames-interview-de-michelle-gisin-sui-apres-sa-belle-3e-place.html
-12607585-ski-alpin-coupe-du-monde-slalom-parallele-dames-qualifications.html
-12607921-ski-alpin-coupe-du-monde-slalom-parallele-messieurs-qualifications.html
-12607923-ski-alpin-coupe-du-monde-slalom-parallele-messieurs-finales.html
-12609263-freestyle-coupe-du-monde-skicross.html
-12609608-ski-alpin-coupe-du-monde-super-g-dames.html
-12609647-ski-alpin-coupe-du-monde-super-g-dames.html
-12636508-freestyle-coupe-du-monde-skicross.html
+!12607585-ski-alpin-coupe-du-monde-slalom-parallele-dames-qualifications.html
+!12607921-ski-alpin-coupe-du-monde-slalom-parallele-messieurs-qualifications.html
+!12607923-ski-alpin-coupe-du-monde-slalom-parallele-messieurs-finales.html
+!12609263-freestyle-coupe-du-monde-skicross.html
+!12609608-ski-alpin-coupe-du-monde-super-g-dames.html
+!12609647-ski-alpin-coupe-du-monde-super-g-dames.html
+!12636508-freestyle-coupe-du-monde-skicross.html
 12638705-lech-aut-qualifs-slalom-parallele-dames-vanessa-kasper-sui-16e-et-tout-juste-qualifiee.html
-12654357-freestyle-coupe-du-monde-slopestyle.html
+!12654357-freestyle-coupe-du-monde-slopestyle.html
 12656600-levi-fin-slalom-dames-1re-manche-le-passage-de-w-holdener-sui-qui-se-classe-a-la-8e-place.html
 12656610-levi-fin-slalom-dames-1re-manche-m-gisin-sui-est-la-suissesse-la-plus-rapide-ce-matin-5e.html
 12656622-levi-fin-slalom-dames-1re-manche-p-vhlova-slo-mene-les-debats-apres-la-1ere-manche.html
@@ -318,7 +318,7 @@
 12696888-lake-louise-can-superg-dames-9e-rang-pour-joana-haehlen-sui.html
 12696916-lake-louise-can-superg-dames-jasmine-flury-sui-se-classe-22e.html
 12696973-lake-louise-can-superg-dames-stephanie-jenal-sui.html
-12709535-freestyle-coupe-du-monde-skicross.html
+!12709535-freestyle-coupe-du-monde-skicross.html
 12711880-val-disere-fra-geant-messieurs-daniele-sette-sui-23e.html
 12713462-stmoritz-sui-superg-dames-stephanie-jenal-sui.html
 12732448-alta-badia-ita-geant-messieurs-1re-manche-loic-meillard-sui-termine-tres-loin-de-la-tete.html
@@ -431,7 +431,7 @@
 12790259-wengen-sui-descente-messieurs-gilles-roulin-sui-25e.html
 12790286-laax-sui-slopestyle-messieurs-victoire-de-sean-fitzsimons-usa.html
 12790301-laax-sui-slopestyle-dames-tess-coady-aus-simpose.html
-12790324-laax-sui-slopestyle-dames-bianca-gisler-au-8e-rang.html
+!12790324-laax-sui-slopestyle-dames-bianca-gisler-au-8e-rang.html
 12790509-laax-halfpipe-dames-sans-surprise-la-grande-favorite-chloe-kim-usa-simpose.html
 12790532-laax-halfpipe-messieurs-une-belle-2e-place-pour-un-exceptionnel-jan-scherrer-sui.html
 12790543-laax-halfpipe-messieurs-la-victoire-revient-a-ayumu-hirano-jpn.html
@@ -498,7 +498,7 @@
 12816017-schladming-aut-slalom-messieurs-2e-manche-une-frustrante-16e-place-pour-loic-meillard-sui.html
 12816029-schladming-aut-slalom-messieurs-2e-manche-tanguy-nef-sui-seul-suisse-dans-le-top-10.html
 12816041-schladming-aut-slalom-messieurs-2e-manche-linus-strasser-ger-vainqueur-dun-slalom-completement-fou.html
-12824835-garmischpartenkirchen-ger-descente-dames-magnifique-victoire-de-corinne-suter-sui.html
+!12824835-garmischpartenkirchen-ger-descente-dames-magnifique-victoire-de-corinne-suter-sui.html
 12824848-garmischpartenkirchen-ger-descente-dames-jasmine-flury-offre-a-la-suisse-un-super-double.html
 12826083-garmischpartenkirchen-ger-super-g-dames-8e-place-exaequoi-pour-joana-haehlen-sui-avec-corinne-suter-sui.html
 12826104-garmischpartenkirchen-ger-super-g-dames-28e-rang-pour-priska-nufer-sui.html
@@ -600,7 +600,7 @@
 13484420-coire-sui-finale-big-air-messieurs-superbe-victoire-de-birk-ruud-nor.html
 13484447-coire-sui-finale-big-air-dames-tess-ledeux-fra-simpose-avec-un-double-1080.html
 13485865-coire-sui-finale-big-air-dames-victoire-de-iwabuchi-jap.html
-13485893-coire-sui-finale-big-air-dames-victoire-de-iwabuchi-jap.html
+!13485893-coire-sui-finale-big-air-dames-victoire-de-iwabuchi-jap.html
 13485902-coire-sui-finale-big-air-messieurs-belle-3e-place-de-nick-puenter.html
 13485933-coire-sui-finale-big-air-messieurs-otsuka-jap-simpose-facilement.html
 13486832-solden-aut-geant-messieurs-1re-manche-marco-odermatt-sui-en-tete-apres-la-premiere-manche.html

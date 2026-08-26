@@ -14,8 +14,8 @@
 10624722-4e-journee-lucerne-thoune-02.html
 10624724-4e-journee-zurich-ne-xamax-22.html
 10624726-4e-journee-lugano-sion-01.html
-10625366-tous-les-buts.html
-10646458-tous-les-buts.html
+!10625366-tous-les-buts.html
+!10646458-tous-les-buts.html
 10661151-5e-journee-young-boys-zurich-40.html
 10661153-5e-journee-ne-xamax-bale-03.html
 10661155-5e-journee-stgall-lugano-32.html
@@ -41,4 +41,4 @@
 10910209-16e-journee-lucerne-stgall-14.html
 10947519-18e-journee-sion-ne-xamax-11.html
 10947523-18e-journee-lugano-young-boys-00.html
-12609615-tous-les-buts.html
+!12609615-tous-les-buts.html

@@ -835,9 +835,9 @@
 1923562-record-dencheres-pour-un-tableau-de-picasso.html
 1989379-lausanne-beauxarts-elysee-et-mudac-a-la-gare.html
 1991225-cinq-tableaux-derobes-dans-un-musee-de-paris.html
-2030064-la-serie-lost-a-pris-fin-aux-etatsunis.html
-2036118-l-agent-jack-bauer-termine-son-service.html
-2040116-dieudonne-geneve-a-viole-la-liberte-d-expression.html
+!2030064-la-serie-lost-a-pris-fin-aux-etatsunis.html
+!2036118-l-agent-jack-bauer-termine-son-service.html
+!2040116-dieudonne-geneve-a-viole-la-liberte-d-expression.html
 !2103208-le-film-la-forteresse-de-fernand-melgar-a-remporte-un-nouveau-prix-en-asie-le-11e-en-deux-ans.html
 2108625-herve-loichemol-a-la-comedie-de-geneve.html
 2117986-film-fantastique-le-nifff-fete-ses-10-ans.html
@@ -1393,7 +1393,7 @@
 5858439-anne-sinclair-exprime-son-degout-pour-le-film-inspire-de-laffaire-dsk.html
 5860347-dsk-deposera-plainte-pour-diffamation-contre-le-film-dabel-ferrara.html
 5860564-plus-de-600-dessins-de-hodler-legues-au-musee-jenisch-a-vevey.html
-5861072-le-nouveau-directeur-du-theatre-de-vidy-a-presente-sa-demi-saison-2014-2015-a-la-presse-lundi.html
+!5861072-le-nouveau-directeur-du-theatre-de-vidy-a-presente-sa-demi-saison-2014-2015-a-la-presse-lundi.html
 5863269-tommy-lee-jones-decline-le-western-au-feminin-dans-the-homesman.html
 5864642-lecrivain-vaudois-bertil-galland-prime-par-lacademie-royale-de-belgique.html
 5865879-nicolas-stemann-marquera-la-saison-20142015-de-la-comedie-de-geneve.html

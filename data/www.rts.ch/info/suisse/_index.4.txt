@@ -20,7 +20,7 @@
 4038895-ludc-veut-interner-dans-des-camps-les-requerants-dasile-qui-enfreignent-la-loi.html
 4038951-la-weltwoche-devant-la-justice-zurichoise.html
 4039115-danciens-praticiens-de-la-methode-grinberg-denoncent-des-derives-dans-lorganisation.html
-4040646-des-fraudeurs-tentent-de-se-faire-passer-pour-le-fisc-pour-derober-de-l-argent-aux-contribuables.html
+!4040646-des-fraudeurs-tentent-de-se-faire-passer-pour-le-fisc-pour-derober-de-l-argent-aux-contribuables.html
 4041427-les-etats-proposent-une-amende-de-100-francs-pour-les-fumeurs-de-joints.html
 4046800-le-managed-care-rejete-par-58-des-suisses-selon-le-2e-sondage-ssr.html
 4047041-mort-dotto-ineichen-depute-et-fondateur-de-la-chaine-ottos.html
@@ -69,7 +69,7 @@
 4112068-cours-deau-dangereux-et-cols-fermes-en-raison-des-fortes-precipitations.html
 4113009-agrandir-les-centres-denregistrement-pour-accelerer-les-procedures-dasile.html
 4114116-a-defaut-dattirer-les-suisses-la-religion-occupe-de-plus-en-plus-les-medias.html
-4116346-la-confederation-projette-d-installer-deux-centres-pour-200-requerants-d-asile-dans-les-grisons.html
+!4116346-la-confederation-projette-d-installer-deux-centres-pour-200-requerants-d-asile-dans-les-grisons.html
 4117540-les-clients-de-prostituees-mineures-seront-poursuivis.html
 4118061-faute-de-signatures-linitiative-du-plr-sur-la-bureaucratie-a-echoue.html
 4118153-la-suisse-suspend-ses-livraisons-darmes-aux-emirats-arabes-unis.html
@@ -77,7 +77,7 @@
 4120364-les-cantons-renforcent-la-reconversion-dans-lenseignement.html
 4120635-la-suisse-nechappera-pas-a-lechange-automatique-de-donnees.html
 4124293-deces-de-lancien-conseiller-federal-leon-schlumpf.html
-4126493-un-homme-est-mort-lors-d-une-bagarre-dans-un-centre-de-requerants-a-champion-be-une-personne-interpellee.html
+!4126493-un-homme-est-mort-lors-d-une-bagarre-dans-un-centre-de-requerants-a-champion-be-une-personne-interpellee.html
 4126642-les-centrales-suisses-resisteraient-a-un-seisme-dexception.html
 4130376-les-intemperies-dans-la-region-de-frauenfeld-font-un-mort.html
 4130416-ludc-veut-responsabiliser-les-assures-pour-reduire-les-couts-de-la-sante.html
@@ -93,7 +93,7 @@
 4147838-les-vertliberaux-veulent-supprimer-le-tir-obligatoire.html
 4148194-la-suisse-pourra-a-nouveau-livrer-des-armes-aux-emirats-arabes-unis.html
 4148263-lhopital-de-lenfance-a-zurich-suspend-les-circoncisions.html
-4148674-la-prefecture-de-bienne-a-ordonne-la-fermeture-d-un-bar-en-raison-de-soupcons-de-prostitution-illegale.html
+!4148674-la-prefecture-de-bienne-a-ordonne-la-fermeture-d-un-bar-en-raison-de-soupcons-de-prostitution-illegale.html
 4149671-le-premier-chassecroise-de-lete-perturbe-le-trafic-en-suisse.html
 4150405-une-mini-tornade-se-forme-sur-le-lac-de-zurich.html
 4151029-les-exotages-suisses-au-pakistan-nauront-pas-besoin-de-payer.html
@@ -105,7 +105,7 @@
 4156259-larmee-na-pu-localiser-que-31-armes-de-service-dont-elle-a-perdu-la-trace.html
 4159793-les-suisses-boivent-lequivalent-de-85-litres-dalcool-pur-par-an.html
 4160052-eveline-widmerschlumpf-sera-a-la-ceremonie-douverture-des-jo.html
-4160793-le-prince-marie-emmanuel-de-saxe-est-decede-a-l-age-de-86-ans-a-son-domicile-de-la-tour-de-peilz-vd.html
+!4160793-le-prince-marie-emmanuel-de-saxe-est-decede-a-l-age-de-86-ans-a-son-domicile-de-la-tour-de-peilz-vd.html
 4162530-les-attaques-de-vaches-contre-les-randonneurs-sont-en-hausse.html
 4166740-la-suisse-a-finance-des-reunions-de-lopposition-syrienne-a-berlin.html
 4167171-le-parti-socialiste-ne-veut-pas-dun-deuxieme-tunnel-routier-au-gothard.html
@@ -208,7 +208,7 @@
 4292403-trois-objets-federaux-au-menu-des-suisses-ce-weekend.html
 4293759-oui-massif-accorde-a-linitiative-sur-leducation-musicale.html
 4293797-linitiative-contre-le-tabagisme-passif-est-largement-rejetee.html
-4294146-le-socialiste-vincent-jaques-a-ete-elu-syndic-de-morges-dimanche-par-2165-voix.html
+!4294146-le-socialiste-vincent-jaques-a-ete-elu-syndic-de-morges-dimanche-par-2165-voix.html
 4295306-des-navires-chinois-sont-entres-dans-les-eaux-territoriales-japonaises.html
 4295363-le-refus-du-rer-neuchatelois-interpelle-la-presse-romande.html
 4295884-le-nombre-de-travailleurs-etrangers-a-augmente-au-deuxieme-trimestre.html
@@ -451,7 +451,7 @@
 4649653-la-suisse-a-connu-sa-nuit-la-plus-glaciale-de-lhiver.html
 4649688-le-rapport-bergier-aurait-surestime-le-nombre-de-juifs-rejetes-par-la-suisse.html
 4651898-pensions-alimentaires-lpp-et-2e-pilier-cristallisent-les-divergences-politiques.html
-4653730-le-deces-de-l-ancien-espion-claude-covassi-serait-du-a-une-overdose.html
+!4653730-le-deces-de-l-ancien-espion-claude-covassi-serait-du-a-une-overdose.html
 4656908-sanctions-contre-le-laboratoire-antidopage-de-lausanne-exclues.html
 4658053-la-detention-preventive-ne-sera-pas-systematique-pour-les-chauffards.html
 4658981-de-la-viande-de-cheval-retrouvee-dans-certaines-lasagnes-de-la-coop.html

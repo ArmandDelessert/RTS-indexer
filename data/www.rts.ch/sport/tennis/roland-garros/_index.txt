@@ -1,4 +1,4 @@
-./
+!./
 4027293-en-route.html
 4043442-1-4.html
 4047159-12.html
@@ -15,7 +15,7 @@
 5894808-4e-tour.html
 5899397-1-4.html
 5910688-finale.html
-6807038-roland-garros-2015.html
+!6807038-roland-garros-2015.html
 6807039-1er-tour.html
 6815387-2e-tour.html
 6826740-3e-tour.html

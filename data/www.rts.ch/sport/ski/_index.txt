@@ -2,7 +2,7 @@
 10001867-slalom-20182019.html
 10005665-slalom-20182019.html
 10016016-ski-erik-guay-tire-sa-reverence.html
-10021224-descente-20182019.html
+!10021224-descente-20182019.html
 10021873-superg-20182019.html
 10033824-ski-double-suisse-grace-a-feuz-et-caviezel.html
 10036741-descente-20182019.html
@@ -289,7 +289,7 @@
 11859392-ski-je-suis-sans-voix-reagit-michelle-gisin-apres-sa-victoire-a-semmering.html
 11859432-ski-succes-de-luca-aerni-a-crans-montana.html
 11860238-ski-urs-kryenbuhl-troisieme-sur-la-stelvio-double-autrichien.html
-11866496-ski-un-nouveau-podium-pour-michelle-gisin.html
+!11866496-ski-un-nouveau-podium-pour-michelle-gisin.html
 11878304-ski-lara-gutbehrami-signe-le-meilleur-temps-a-stanton.html
 11879610-ski-mauro-caviezel-se-blesse-a-lentrainement.html
 11880691-ski-odermatt-sur-le-podium-provisoire-pinturault-loin-devant.html
@@ -378,7 +378,7 @@
 1229368-schlierenzauer-entre-dans-l-histoire-a-planica.html
 1229742-cologna-prend-l-ascendant-sur-northug.html
 1230116-cologna-frappe-tres-fort-en-poursuite-a-falun.html
-1230351-je-suis-tres-satisfait-de-ce-que-je-viens-de-realiser-ma-victoire-est-magnifique-23-mars-le-journal-du-matin-22-03-2009.html
+!1230351-je-suis-tres-satisfait-de-ce-que-je-viens-de-realiser-ma-victoire-est-magnifique-23-mars-le-journal-du-matin-22-03-2009.html
 1230352-dario-cologna-remporte-la-coupe-du-monde.html
 1230633-cologna-a-desormais-une-piste-a-son-nom.html
 1230970-cologna-souffre-d-une-dechirure-musculaire.html
@@ -1040,7 +1040,7 @@
 4521586-irresistible-anna-fenninger-soffre-son-2e-bouquet.html
 4526710-schild-la-reine-du-slalom-au-tapis.html
 4542345-a-oberhof-la-2e-etape-du-tour-de-ski-est-revenue-au-russe-vylegzhanin-dario-cologna-se-place-au-4e-rang.html
-4560095-ski-alpin.html
+!4560095-ski-alpin.html
 4569818-ted-ligety-geant-gino-caviezel-surprenant.html
 4573083-moments-forts.html
 4577318-aksel-lund-svindal-annonce-la-couleur.html
@@ -1258,10 +1258,10 @@
 7569814-ski-lara-gut-en-dessous-des-precedentes-laureates.html
 7573051-ski-la-premiere-place-pour-fill-des-contusions-pour-paris.html
 7575490-ski-la-descente-hommes-repoussee-a-10h30.html
-7576168-ski-la-descente-messieurs-minute-par-minute.html
+!7576168-ski-la-descente-messieurs-minute-par-minute.html
 7576321-ski-feuz-simpose-a-stmoritz-fill-sadjuge-le-globe.html
 7576559-ski-encore-une-deuxieme-place-de-fabienne-suter.html
-7579064-ski-le-super-g-dames-minute-par-minute.html
+!7579064-ski-le-super-g-dames-minute-par-minute.html
 7579164-ski-lara-gut-remporte-son-2e-globe-en-super-g.html
 7579183-ski-feuz-recidive-le-globe-du-superg-a-kilde.html
 !7579539-ski-la-descente-messieurs-minute-par-minute.html
@@ -1272,7 +1272,7 @@
 7584678-ski-un-hiver-au-dela-des-esperances-pour-les-suisses.html
 7584693-ski-shiffrin-au-sommet-de-son-art-holdener-4e.html
 7585637-stephane-cattin-nous-sommes-sur-le-bon-chemin-.html
-7586222-ski-daniel-yule-en-tete-apres-la-1ere-manche.html
+!7586222-ski-daniel-yule-en-tete-apres-la-1ere-manche.html
 7586307-ski-gut-sur-le-podium-provisoire-brem-en-tete.html
 7586310-ski-lara-gut-finit-la-saison-sur-le-podium.html
 7586476-vol-a-skis-ammann-finit-bien-la-saison-en-egalant-son-record-de-suisse.html
@@ -1359,7 +1359,7 @@
 8277814-tour-de-ski-nadine-fahndrich-au-pied-du-podium-dario-cologna-se-replace.html
 8277907-quatre-tremplins-ammann-en-chute-libre-a-garmisch.html
 8281189-ski-shiffrin-enfourche-holdener-et-gisin-deja-out.html
-8281333-tour-de-ski.html
+!8281333-tour-de-ski.html
 8281334-coupe-du-monde-20182019.html
 8281532-tour-de-ski-premier-podium-pour-cologna-depuis-un-an.html
 8281721-ski-velez-zuzulova-simpose-top15-pour-feierabend.html

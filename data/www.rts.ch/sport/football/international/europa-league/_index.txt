@@ -1,4 +1,4 @@
-./
+!./
 10406031-europa-league-arsenal-et-chelsea-en-posture-favorable.html
 10419355-europa-league-chelsea-en-ballottage-favorable-arsenal-pour-confirmer.html
 10420819-europa-league-arsenal-et-xhaka-affronteront-chelsea-en-finale.html
@@ -151,7 +151,7 @@
 8804912-europa-league-le-fc-sion-sombre-en-lituanie.html
 8814768-ligue-des-champions-a-larmada-dyb-de-jouer.html
 8814769-europa-league-comment-diton-remontada-en-valaisan.html
-8817554-europa-league-le-fc-sion-na-pas-reussi-limpensable-remontee.html
+!8817554-europa-league-le-fc-sion-na-pas-reussi-limpensable-remontee.html
 8817555-ligue-des-champions-yb-renverse-le-dynamo-kiev-et-passe-en-barrages.html
 8821260-ligue-des-champions-yb-affrontera-le-cska-moscou-en-barrages.html
 8841728-ligue-des-champions-yb-encore-face-a-un-club-de-lest.html

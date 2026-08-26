@@ -496,7 +496,7 @@ euro-2025-ambiance-festive-et-securisee-attire-460-000-fans-en-suisse-28944056.h
 euro-2025-en-suisse-un-tournant-pour-le-football-feminin-28923630.html
 euro-feminin-2025-en-suisse-un-evenement-familial-et-convivial-a-venir-28789952.html
 euro-feminin-2025-succes-economique-et-securitaire-pour-les-villes-hotes-28954644.html
-euro-feminin-maree-rouge-a-geneve-pour-la-qualification-historique-suisse-28940531.html
+!euro-feminin-maree-rouge-a-geneve-pour-la-qualification-historique-suisse-28940531.html
 eurovision-2025-a-bale-bilan-positif-malgre-les-controverses-28887877.html
 eurovision-la-repetition-d-israel-perturbee-par-des-militants-pro-palestiniens-28885113.html
 eurovision-le-manteau-iconique-de-nemo-offert-a-bale-par-la-suede-28771512.html
@@ -1175,7 +1175,7 @@ nouvelle-plainte-penale-pour-fausses-signatures-d-initiatives-populaires-2886998
 nouvelle-plainte-pour-21-000-signatures-falsifiees-sur-5-initiatives-28771703.html
 nouvelle-plateforme-suisse-de-gestion-des-pandemies-les-autorites-s-adaptent-28931217.html
 nouvelle-regle-pour-peser-fruits-et-legumes-ce-qui-change-en-supermarche-28755791.html
-nouvelles-accusations-contre-denis-vipret-15-temoignages-et-une-plainte-28940974.html
+!nouvelles-accusations-contre-denis-vipret-15-temoignages-et-une-plainte-28940974.html
 nouvelles-amendes-contre-le-bruit-routier-excessif-en-suisse-des-2025-28746123.html
 nouvelles-mesures-contre-l-extremisme-violent-exigees-par-des-elus-suisses-29044244.html
 nouvelles-mesures-pour-ameliorer-les-conditions-de-travail-des-infirmiers-28890862.html

@@ -1,11 +1,11 @@
-10049563-basketball-champions-league-fribourg-olympic-unet-holon-8e-journee.html
+!10049563-basketball-champions-league-fribourg-olympic-unet-holon-8e-journee.html
 10163216-resume-du-match-fribourg-nanterre-8192.html
-10416931-basketball-championnat-de-suisse-playoffs-finale-messieurs-1er-match.html
+!10416931-basketball-championnat-de-suisse-playoffs-finale-messieurs-1er-match.html
 !10429599-basketball-championnat-de-suisse-fribourg-olympic-lions-de-geneve-playoffs-finale-messieurs-1er-match.html
 !10429599-basketball-championnat-de-suisse-playoffs-finale-messieurs-1er-match.html
 10493686-finale-messieurs-3e-match-geneve-fribourg-7779-les-fribourgeois-remportent-le-titre.html
-10600422-basketball-coupe-du-monde-espagne-australie-12-finale.html
-10604061-basketball-prequalification-eurobasket-2021-portugal-suisse.html
+!10600422-basketball-coupe-du-monde-espagne-australie-12-finale.html
+!10604061-basketball-prequalification-eurobasket-2021-portugal-suisse.html
 12141926-finale-dames-match-1-elfic-fribourg-bc-winterthour-8374-les-fribourgeoises-remportent-le-premier-acte.html
 12148361-fribourg-olympic-bc-boncourt-10061-large-victoire-de-fribourg.html
 12166313-bc-boncourt-bbc-nyon-8871-boncourt-simpose-a-domicile.html
@@ -22,11 +22,11 @@
 12229326-finale-match-1-fribourg-olympic-starwings-basket-8768-debut-de-finale-ideal-pour-fribourg.html
 12236358-finale-match-2-starwings-basket-fribourg-olympic-6682-fribourg-lemporte-et-mene-20-dans-la-serie.html
 12245211-finale-match-3-fribourg-olympic-starwings-basket-8576-le-sacre-pour-les-fribourgeois-champions-suisses.html
-12624895-basketball-womens-eurobasket-qualifiers-2023-luxembourg-suisse.html
-12624897-basketball-womens-eurobasket-qualifiers-2023-suisse-slovaquie.html
+!12624895-basketball-womens-eurobasket-qualifiers-2023-luxembourg-suisse.html
+!12624897-basketball-womens-eurobasket-qualifiers-2023-suisse-slovaquie.html
 12635239-luxembourg-suisse-5458-la-suisse-simpose.html
-12636485-basketball-pre-qualification-championnat-deurope-2025-autriche-suisse.html
-12636571-basketball-pre-qualification-championnat-deurope-2025-autriche-suisse.html
+!12636485-basketball-pre-qualification-championnat-deurope-2025-autriche-suisse.html
+!12636571-basketball-pre-qualification-championnat-deurope-2025-autriche-suisse.html
 12671434-autriche-suisse-80-64-les-suisses-surclasses-lors-de-leur-premier-match.html
 12677456-qualifs-championnat-deurope-suisse-chypre-6643-large-victoire-de-lequipe-de-suisse.html
 12893194-qualifs-championnat-deurope-suisse-irlande-8372-victoire-pour-lequipe-de-suisse.html
@@ -49,4 +49,4 @@
 6806208-finale-match-5-lions-de-geneve-union-neuchatel-7868-les-lions-de-geneve-sont-champions-suisse.html
 6806221-finale-match-5-lions-de-geneve-union-neuchatel-7868-la-joie-des-joueurs-lors-de-la-remise-de-la-coupe.html
 7766562-finale-match-6-union-neuchatel-fribourg-olympic-6380-fribourg-olympic-simpose-et-remporte-les-finales-de-playoff.html
-9919038-basketball-champions-league-iberostar-tenerife-fribourg-olympic-md03.html
+!9919038-basketball-champions-league-iberostar-tenerife-fribourg-olympic-md03.html

@@ -9,7 +9,7 @@
 3026943-le-dfae-depose-une-plainte-contre-la-libye.html
 3031716-presse-le-lectorat-romand-est-en-chute-libre.html
 3033021-fribourg-3e-liste-pour-la-succession-de-leveque.html
-3038746-pour-tous-sans-privileges-tel-est-le-slogan-du-ps-pour-les-elections-federales-de-cet-automne.html
+!3038746-pour-tous-sans-privileges-tel-est-le-slogan-du-ps-pour-les-elections-federales-de-cet-automne.html
 3039888-rene-pretre-nomme-au-chuv.html
 3040401-la-poste-ouvre-un-site-pour-denoncer-anonymement.html
 3040903-loffre-en-ligne-de-la-ssr-irrite-les-editeurs.html

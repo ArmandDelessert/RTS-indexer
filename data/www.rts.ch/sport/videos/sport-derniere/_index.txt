@@ -1,2 +1,2 @@
-./
-5130571-sport-derniere.html
+!./
+!5130571-sport-derniere.html
