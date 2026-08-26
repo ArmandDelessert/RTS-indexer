@@ -31,27 +31,4 @@ code_atypique	https://www.rts.ch/technik/gebaeudesicherheit.htm	HTTP 406
 code_atypique	https://www.rts.ch/technik/sanitaer.htm	HTTP 406
 code_atypique	https://www.rts.ch/technik/sicherheit.htm	HTTP 406
 code_atypique	https://www.rts.ch/willkommen.htm	HTTP 406
-doublon	https://www.rts.ch/animalis/	https://www.rts.ch/play/tv/emission/animalis?id=8055962
-doublon	https://www.rts.ch/archives/10336450-des-archives-retrouvent-la-parole.html	https://www.rts.ch/archives/thematiques/culture/media/10336450-des-archives-retrouvent-la-parole.html
-doublon	https://www.rts.ch/archives/11387784-barbara-et-colette-jean.html	https://www.rts.ch/archives/1962/video/barbara-et-colette-jean-26180820.html
-doublon	https://www.rts.ch/archives/14136987-sial-iv-1er-episode.html	https://www.rts.ch/archives/1969/video/sial-iv-1er-episode-26185290.html
-doublon	https://www.rts.ch/archives/7800487-herve-vilard-capri-c-est-fini.html	https://www.rts.ch/archives/7800487-herve-vilard-capri-cest-fini.html
-doublon	https://www.rts.ch/archives/7827105-france-gall-y-a-du-soleil-a-vendre.html	https://www.rts.ch/archives/7827105-france-gall-ya-du-soleil-a-vendre.html
-doublon	https://www.rts.ch/archives/8179618-l-homme-fort-de-chypre.html	https://www.rts.ch/archives/8179618-lhomme-fort-de-chypre.html
-doublon	https://www.rts.ch/archives/8180121-l-impasse-italienne.html	https://www.rts.ch/archives/grands-formats/8180121-limpasse-italienne.html
-doublon	https://www.rts.ch/archives/8201632-la-saint-nicolas.html	https://www.rts.ch/archives/8201632-la-saintnicolas.html
-doublon	https://www.rts.ch/archives/8430556-eh-bien-dansez-maintenant-.html	https://www.rts.ch/archives/8430556-eh-bien-dansez-maintenant.html
-doublon	https://www.rts.ch/archives/8486241-gens-d-ici.html	https://www.rts.ch/archives/8486241-gens-dici.html
-doublon	https://www.rts.ch/archives/8728994-en-balade.html	https://www.rts.ch/archives/8728994-en-balade-dans-le-canton-de-vaud.html
-doublon	https://www.rts.ch/archives/8729532-en-balade.html	https://www.rts.ch/archives/8729532-en-balade-a-fribourg.html
-doublon	https://www.rts.ch/archives/8735354-en-balade.html	https://www.rts.ch/archives/8735354-en-balade-a-neuchatel.html
-doublon	https://www.rts.ch/archives/8735474-en-balade.html	https://www.rts.ch/archives/8735474-en-balade-en-valais.html
-doublon	https://www.rts.ch/archives/8879910-marions-les-.html	https://www.rts.ch/archives/8879910-marionsles.html
-doublon	https://www.rts.ch/archives/9191132-le-film-de-chevet-d-annie-goetzinger-.html	https://www.rts.ch/archives/2017/audio/le-film-de-chevet-d-annie-goetzinger-25761156.html
-doublon	https://www.rts.ch/archives/9375661-georges-schwizgebel-un-maitre-du-cinema-d-animation.html	https://www.rts.ch/archives/9375661-georges-schwizgebel-un-maitre-du-cinema-danimation.html
-doublon	https://www.rts.ch/archives/9408346-jacques-thevoz-artiste-libre-.html	https://www.rts.ch/archives/9408346-jacques-thevoz-artiste-libre.html
-doublon	https://www.rts.ch/archives/9541590-mai-68-vu-d-aujourd-hui.html	https://www.rts.ch/archives/9541590-mai-68-vu-daujourdhui.html
-doublon	https://www.rts.ch/archives/9867939-a-chacun-sa-danse-.html	https://www.rts.ch/archives/9867939-a-chacun-sa-danse.html
-doublon	https://www.rts.ch/archives/9957168-jeux-d-antan.html	https://www.rts.ch/archives/9957168-jeux-dantan.html
 hors_perimetre	https://www.rts.ch/datak/	https://www.datak.ch
-trop_long	https://www.rts.ch/play/tv/19h30/video/a-sion-des-chercheurs-ont-reussi-a-produire-de-lelectricite-a-partir-des-microbes-presents-dans-les-eaux-usees-rectificatif-il-y-a-une-erreur-sur-nos-synthes-dans-le-reportage-les-identites-de-lingenieur-de-la-ville-de-sion-georges-joliat-2e-interlocuteur-et-du-professeur-fabien-fischer-3e-interlocuteur-ont-ete-inversees-nous-prions-les-personnes-concernees-ainsi-que-les-telespecateurstrices-de-nous-excuser-pour-cette-meprise/	chemin trop long (476 > 240): data/www.rts.ch/play/tv/19h30/video/a-sion-des-chercheurs-ont-reussi-a-produire-de-lelectricite-a-partir-des-microbes-presents-dans-les-eaux-usees-rectificatif-il-y-a-une-erreur-sur-nos-synthes-dans-le-reportage-les-identites-de-lingenieur-de-la-ville-de-sion-georges-joliat-2e-interlocuteur-et-du-professeur-fabien-fischer-3e-interlocuteur-ont-ete-inversees-nous-prions-les-personnes-concernees-ainsi-que-les-telespecateurstrices-de-nous-excuser-pour-cette-meprise
