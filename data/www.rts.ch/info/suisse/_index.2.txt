@@ -1,8 +1,3 @@
-!2020776-ueli-maurer-propose-une-armee-redimensionnee.html
-!2071893-les-gays-une-tumeur-pour-certains-udc.html
-!2072871-abus-sexuels-a-l-eglise-les-eveques-reagissent.html
-!2072871-abus-sexuels-a-leglise-les-eveques-reagissent.html
-!2078143-mariage-blanc-tour-de-vis-du-conseil-federal.html
 2101015-naturalisations-la-suisse-dans-la-moyenne.html
 2103990-joseph-deiss-accede-au-perchoir-de-lonu.html
 2104905-grave-accident-de-car-dans-le-hautvalais.html
@@ -47,7 +42,6 @@
 2294656-le-deraillement-du-glacier-express-reste-un-mystere.html
 2316548-le-canton-de-vaud-interdit-les-feux-dartifice.html
 2323148-le-conducteur-du-glacier-express-roulait-trop-vite.html
-!2324355-les-bouchons-ont-atteint-15km-a-la-mi-journee-au-gothard-en-raison-du-chasse-croise-des-vacanciers.html
 2324651-veille-du-1er-aout-les-politiciens-prennent-le-micro.html
 2325056-1er-aout-doris-leuthard-appelle-au-debat-constructif.html
 2338654-lausanne-le-crematoire-des-animaux-est-un-succes.html
@@ -56,20 +50,17 @@
 2358183-doris-leuthard-est-en-visite-en-chine.html
 2359252-les-chiffres-du-chomage-ne-sont-pas-fiables.html
 2360471-simonetta-sommaruga-a-lassaut-du-conseil-federal.html
-!2360899-la-socialiste-bernoise-simonetta-sommaruga-est-candidate-a-la-succession-de-moritz-leuenberger.html
 2361723-gymnasien-vaudois-exclu-pour-avoir-copie-wikipedia.html
 2367060-le-plr-ruedi-noser-candidat-a-la-succession-merz.html
 2367983-la-rentree-cree-son-lot-de-bouchons-au-gothard.html
 2369480-la-baloise-eva-herzog-candidate-au-conseil-federal.html
 2370774-ludc-se-lance-dans-la-course-au-conseil-federal.html
 2382897-johann-schneiderammann-se-lance-dans-la-course.html
-!2386758-la-conseillere-d-etat-saint-galloise-karin-keller-sutter-candidate-a-la-succession-de-hans-rudolf-merz.html
 2389319-affaire-hainard-premiers-documents-de-la-cep.html
 2390386-micheline-calmyrey-sengage-pour-la-5e-suisse.html
 2391178-telephoner-dans-les-trains-bientot-sans-probleme.html
 2391796-frederic-hainard-rend-son-jeune-tablier-de-ministre.html
 2404992-banquiers-genevois-cibles-de-colis-pieges.html
-!2409888-la-conseillere-nationale-zurichoise-jacqueline-fehr-est-candidate-a-la-succession-de-moritz-leuenberger.html
 2409900-geneve-les-colis-pieges-visaient-les-epouses.html
 2411477-video-de-bizutage-a-larmee-une-mauvaise-blague.html
 2418621-la-fusion-des-communes-de-terre-sainte-stoppee.html
@@ -141,7 +132,6 @@
 2590737-la-station-valaisanne-du-super-stbernard-a-larret.html
 2592028-cinq-tonnes-dor-au-noir-italien-blanchis-en-suisse.html
 2603224-valais-match-de-foot-en-salle-doperation.html
-!2603887-l-emetteur-de-sottens-vd-sera-desactive-le-5-decembre-a-minuit-sa-technologie-est-devenue-obsolete.html
 2603919-sommet-de-la-francophonie-la-securite-est-assuree.html
 2606461-un-salaire-minimum-pour-les-employes-de-menage.html
 2609087-ueli-maurer-sattaque-aux-poches-percees-de-larmee.html
@@ -197,7 +187,6 @@
 2760281-debut-de-la-campagne-pour-des-armes-a-larsenal.html
 2761593-acquittement-pour-lexmedecin-cantonal-de-neuchatel.html
 2761744-armes-a-domicile-le-conseil-federal-en-campagne.html
-!2761766-l-ex-medecin-cantonal-de-neuchatel-daphne-berner-poursuivie-pour-euthanasie-active-a-ete-acquittee.html
 2779521-cyberattaques-contre-les-adversaires-de-wikileaks.html
 2780080-prison-requise-pour-avoir-tire-un-plomb-dans-un-oeil.html
 2782822-des-cyberattaques-dun-nouveau-genre.html
@@ -238,14 +227,12 @@
 2892081-tunisie-couvrefeu-decrete-dans-la-capitale.html
 2892187-les-medecines-douces-a-nouveau-remboursees.html
 2898077-initiative-valaisanne-contre-les-lignes-a-tres-haute-tension.html
-!2898318-le-parti-chretien-social-recommande-le-oui-a-l-initiative-populaire-contre-la-violence-des-armes.html
 2898349-le-pbd-a-des-vues-sur-lelectorat-de-centre-droit.html
 2899638-un-exbanquier-suisse-roule-pour-wikileaks.html
 2899663-gel-des-avoirs-de-ben-ali-en-suisse-reclame.html
 2901140-fonds-ben-ali-appel-au-ministere-public.html
 2901867-pierre-maudet-presente-son-rapport-sur-larmee.html
 2903126-louest-lausannois-prime-pour-sa-metamorphose.html
-!2903237-les-verts-lancent-leur-campange-electorale-avec-une-nouvelle-croisade-contre-l-energie-nucleaire.html
 2905866-incendies-gare-aux-ampoules-bougies-et-cigarettes.html
 2905939-lexbanquier-rudolf-elmer-a-viole-le-secret-bancaire.html
 2906256-la-suisse-gele-les-avoirs-de-ben-ali-et-gbagbo.html
@@ -265,7 +252,6 @@
 2937332-bernard-rappaz-a-nouveau-devant-la-justice.html
 2938816-george-w-bush-ne-viendra-pas-a-geneve.html
 2939028-pedophilie-vers-un-durcissement-des-regles.html
-!2947740-le-pdc-menera-sa-campagne-federale-avec-le-slogan-les-suisses-qui-sont-heureux-votent-democrate-chretien.html
 2950580-immobilier-a-geneve-mark-muller-prend-des-mesures.html
 2952516-les-urgences-de-sion-submergees-de-skieurs.html
 2953127-la-suisse-bloque-les-fonds-de-la-famille-moubarak.html
@@ -280,7 +266,6 @@
 2966052-la-petite-arvine-nest-pas-lapanage-du-valais.html
 2966264-le-double-de-moubarak-a-fait-fortune-a-geneve.html
 2966471-le-perimetre-de-la-praille-change-de-classe.html
-!2967494-micheline-calmy-rey-a-frole-l-incident-diplomatique-avec-les-usa-revelent-les-cables-de-wikileaks.html
 2971378-en-manque-de-pilotes-swiss-supprime-des-vols.html
 2971438-la-neige-revient-enfin-au-bonheur-des-stations.html
 2971496-la-mere-des-jumelles-disparues-se-confie.html

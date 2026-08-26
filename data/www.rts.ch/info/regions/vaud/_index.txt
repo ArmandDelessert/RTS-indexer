@@ -378,7 +378,6 @@
 10847142-pres-de-120-activistes-dextinction-rebellion-condamnes-a-lausanne.html
 10847414-vers-un-conge-paternite-de-20-jours-pour-les-employes-de-letat-de-vaud.html
 10847501-disparu-depuis-huit-siecles-le-bison-deurope-est-de-retour-en-suisse.html
-!10853213.html
 10855405-les-enjeux-environnementaux-sont-les-enjeux-du-siecle-pas-ceux-de-2019.html
 10855693-100000-livres-ouverts-en-meme-temps-pour-redonner-gout-aux-eleves.html
 10858853-quarante-joursamende-avec-sursis-requis-contre-les-elus-veveysans.html
@@ -624,8 +623,6 @@
 11658790-vers-un-conge-paternite-de-20-jours-pour-ladministration-vaudoise.html
 11660871-fin-des-rentes-a-vie-des-anciens-elus-a-la-tete-de-la-ville-de-lausanne.html
 11660992-les-taxis-lausannois-nemettront-plus-de-co2-des-2025.html
-!11663856-le-conseil-d-etat-vaudois-propose-un-contre-projet-sur-la-gouvernance-du-chuv.html
-!11663856-le-conseil-detat-vaudois-propose-un-contreprojet-sur-la-gouvernance-du-chuv.html
 11665681-vaud-reorganise-ses-poles-de-competences-agricoles.html
 11666253-le-grandpont-a-lausanne-sera-ferme-pendant-presque-une-annee.html
 11666410-les-logements-etudiants-du-vortex-a-lunil-officiellement-inaugures.html
@@ -1077,8 +1074,6 @@
 12578218-plaintes-penales-apres-des-sabotages-sur-le-chantier-du-parc-eolien-de-saintecroix.html
 12578290-le-conseil-detat-vaudois-debloque-30-millions-pour-subventionner-des-projets-agricoles.html
 12583554-yverdon-modernise-sa-step-pour-traiter-les-micropolluants.html
-!12585893-un-second-vert-se-lance-dans-la-course-au-conseil-d-etat-vaudois.html
-!12585893-un-second-vert-se-lance-dans-la-course-au-conseil-detat-vaudois.html
 12586144-le-loup-cest-comme-le-covid-chacun-simprovise-expert.html
 12591950-au-premier-jour-de-son-proces-le-corbeau-fabien-dunand-persiste-et-signe.html
 12595154-la1-rouverte-provisoirement-entre-nyon-et-gland-apres-laccident-dun-train-routier.html
@@ -1118,7 +1113,6 @@
 12634789-la-ligne-cff-lausannegeneve-retablie-des-vendredi-mais-de-maniere-restreinte.html
 12636819-le-syndicat-ssp-alerte-sur-la-pediatrie-du-chuv-en-etat-depuisement.html
 12637112-gil-roman-de-retour-au-ballet-bejart-apres-sa-semaine-de-reflexion.html
-!12637349.html
 12639034-le-ps-vaud-valide-les-candidatures-de-ses-trois-ministres-sortantes.html
 12640439-sur-les-pas-de-yann-lambiel.html
 12640662-le-trafic-entre-lausanne-et-geneve-restera-limite-durant-toute-la-semaine.html
@@ -1471,7 +1465,6 @@
 13309185-a-lausanne-les-cours-de-francais-du-bord-du-lac-ont-connu-une-frequentation-record.html
 13312653-frederic-borloz-globalement-lecole-vaudoise-va-plutot-bien.html
 13312842-adele-thorens-2023-sera-une-opportunite-pour-la-gauche-vaudoise-de-recuperer-deux-sieges-aux-etats.html
-!13314160.html
 13317884-un-campement-de-gens-du-voyage-irrite-les-riverains-a-bussigny-vd.html
 13319930-petition-lancee-dans-le-canton-de-vaud-pour-lutter-contre-la-surpopulation-des-corbeaux.html
 13320082-les-gardesfaune-vaudois-ont-tire-sur-le-mauvais-loup-en-fin-dhiver-dernier.html
@@ -2683,7 +2676,6 @@
 6540454-le-centre-de-congres-de-beaulieu-a-lausanne-va-changer-de-proprietaire.html
 6540840-laffaire-de-la-creche-mosaique-a-lausanne-sera-traitee-au-niveau-penal.html
 6547353-un-homme-accuse-davoir-etrangle-son-epouse-face-aux-juges-a-yverdon.html
-!6547577-unia-vaud-denonce-le-manque-de-cct-dans-les-usines-nescafe-de-nestle.html
 6547620-les-medecins-de-lhopital-rivierachablais-expriment-aussi-leur-raslebol.html
 6547819-la-cour-europeenne-des-droits-de-lhomme-deboute-laurent-segalat.html
 6551141-pierreyves-maillard-denonce-les-fuites-a-lhopital-rivierachablais.html
@@ -3046,7 +3038,6 @@
 7517493-les-auteurs-de-mysterieux-tags-sur-les-ponts-autoroutiers-vaudois-interpelles.html
 7524556-la-ligne-cff-lausannegeneve-a-ete-a-nouveau-perturbee.html
 7526752-le-canton-de-vaud-poursuit-sa-croissance-demographique.html
-!7529653-la-gauche-rafle-six-sieges-a-la-municipalite-de-lausanne.html
 7533583-dans-le-canton-de-vaud-certains-partis-ont-plus-de-sieges-que-de-candidats.html
 7534578-pierre-chiffelle-se-lance-dans-la-course-a-lexecutif-de-la-ville-de-vevey.html
 7536586-quatre-candidats-en-lice-pour-le-deuxieme-tour-a-lausanne.html
@@ -3057,7 +3048,6 @@
 7542971-le-canton-de-vaud-sengage-a-financer-davantage-laccueil-parascolaire.html
 7543216-les-40-ans-de-la-collection-de-lart-brut-faconnes-par-le-peintre-dubuffet.html
 7545305-pres-de-60-millions-de-francs-pour-securiser-le-trafic-a-chavannes-vd.html
-!7546258-des-provocations-de-claude-d-a-son-internement-a-vie-le-suivi-du-proces.html
 7550044-deux-skieurs-blesses-dans-une-avalanche-a-la-forclaz.html
 7551434-ne-pas-se-precipiter-sur-le-premier-avantage-quon-nous-fait-miroiter.html
 7558001-le-veveysan-pierre-chiffelle-exclu-du-parti-socialiste-vaudois.html
@@ -3422,7 +3412,6 @@
 8524281-vaud-aligne-ses-pratiques-de-naturalisation-sur-la-nouvelle-loi-federale.html
 8524291-la-fin-de-la-penurie-de-logements-annoncee-dans-le-canton-de-vaud.html
 8524630-feu-vert-au-projet-dagrandissement-de-lecole-hoteliere-de-lausanne.html
-!8526893-elections-cantonales-vaudoises-participez-a-notre-sondage-.html
 8529895-une-voiture-fauche-deux-personnes-sur-un-passage-pieton-a-lausanne.html
 8532130-linitiative-vaudoise-contre-lintegrisme-religieux-prend-leau.html
 8538701-le-nationaliste-turc-dogu-perincek-indemnise-par-la-justice-vaudoise.html
@@ -3551,7 +3540,6 @@
 8864181-descente-veterinaire-simultanee-dans-vingttrois-porcheries-vaudoises.html
 8864996-leleveur-de-porcs-poursuivi-par-le-canton-de-vaud-cesse-ses-activites.html
 8865601-un-chauffeur-de-taxi-agresse-et-blesse-par-balle-a-belmontsurlausanne.html
-!8868809-le-canton-de-vaud-premier-de-classe-de-lecole-a-la-maison-en-suisse.html
 8874726-migros-fait-marche-arriere-sur-les-heures-douverture-dans-le-canton-de-vaud.html
 8881878-pres-de-5-des-vaudois-actifs-vivent-en-situation-de-pauvrete.html
 8884676-letat-de-vaud-veut-lancer-les-travaux-urgents-pour-securiser-le-rhone.html
@@ -3619,7 +3607,6 @@
 9041440-classes-provisoires-ouvertes-a-vevey-apres-lincendie-du-college-des-crosets.html
 9043816-le-mouvement-citoyen-daccueil-de-migrants-sessouffle-en-suisse.html
 9044300-laccuse-dans-le-drame-de-grangesmarnand-ecope-de-90-jours-avec-sursis.html
-!9044928-olivier-francais-renonce-a-sa-rente-d-ancien-municipal-lausannois.html
 9045906-lausanne-demande-un-examen-des-remunerations-versees-par-lusine-tridel.html
 9046067-le-grand-conseil-vaudois-opte-pour-un-projet-allege-sur-les-soins-dentaires.html
 9047314-deux-producteurs-vaudois-sacres-vignerons-suisses-de-lannee.html

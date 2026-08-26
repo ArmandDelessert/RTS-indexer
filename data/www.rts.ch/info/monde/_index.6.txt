@@ -426,7 +426,6 @@
 6113510-les-premiers-extraits-du-livre-de-valerie-trierweiler-rendus-publics.html
 6113518-deux-afroamericains-innocentes-apres-30-ans-de-detention-aux-etatsunis.html
 6114260-les-etatsunis-confirment-la-decapitation-du-2e-otage-americain.html
-!6114546-barack-obama-en-visite-a-affirme-qu-il-etait-trop-tot-pour-se-prononcer-sur-le-cessez-le-feu-en-ukraine.html
 6115314-mystere-autour-dun-important-convoi-militaire-filme-dans-lest-de-lukraine.html
 6116435-washington-ouvre-une-enquete-sur-la-police-de-ferguson.html
 6116463-les-etatsunis-preparent-de-nouvelles-sanctions-contre-la-russie.html
@@ -596,7 +595,6 @@
 6161154-le-kenya-rend-hommage-aux-victimes-un-an-apres-lattaque-du-westgate.html
 6161200-la-troisieme-ville-kurde-de-syrie-assiegee-par-les-djihadistes-de-lei.html
 6161214-en-albanie-le-pape-francois-rejette-la-violence-au-nom-de-dieu.html
-!6161248-l-ancien-premier-ministre-alain-juppe-ump-a-estime-dimanche-que-le-match-pour-2017-avait-commence.html
 6161250-le-match-de-la-droite-pour-la-presidentielle-en-france-a-commence.html
 6161668-accord-de-gouvernement-dunion-nationale-en-afghanistan.html
 6161744-manifestation-a-moscou-contre-le-role-du-kremlin-en-ukraine.html
@@ -630,7 +628,6 @@
 6168230-confusion-en-france-autour-du-retour-de-djihadistes-presumes.html
 6168849-le-gendre-de-ben-laden-condamne-a-perpetuite-a-new-york.html
 6169669-confusion-autour-de-labandon-du-projet-controverse-dair-france.html
-!6169719-air-france-renonce-a-son-projet-d-expansion-en-europe-de-transavia-selon-le-gouvernement-francais.html
 6169772-une-enquete-sur-lexpresident-francais-nicolas-sarkozy-suspendue.html
 6169817-des-djihadistes-abandonnent-leurs-bases-suite-aux-frappes-americaines.html
 6170075-qui-sont-les-groupes-djihadistes-a-travers-le-monde.html
@@ -899,7 +896,6 @@
 6229911-compromis-en-vue-entre-moscou-et-kiev-sur-les-livraisons-de-gaz.html
 6230010-hong-kong-propose-de-rouvrir-le-dialogue-avec-les-manifestants.html
 6230243-662-morts-et-300000-deplaces-en-un-mois-de-combats-a-kobane.html
-!6230300-l-onu-a-recu-38-de-son-appel-de-fonds-de-pres-d-un-milliard-de-dollars-pour-repondre-a-l-epidemie-d-ebola.html
 6230306-la-premiere-victime-debola-aux-etatsunis-temoigne-dans-une-video.html
 6230347-msf-la-french-ong-devenue-lune-des-plus-puissantes-au-monde.html
 6230670-dieudonne-mis-en-examen-pour-fraude-fiscale-et-blanchiment.html
@@ -1102,7 +1098,6 @@
 6274051-des-djihadistes-de-lei-ont-execute-au-moins-36-personnes-en-irak.html
 6274589-anomalie-decouverte-durant-lenquete-sur-le-crash-du-spaceshiptwo.html
 6275364-lonu-lance-une-campagne-pour-quil-ny-ait-plus-dapatrides-dici-10-ans.html
-!6275370-des-centaines-de-milliers-de-chiites-se-sont-rassembles-a-kerbala-bagdad-ou-beyrouth-pour-l-achoura.html
 6275411-la-justice-suspend-la-consultation-sur-lindependance-de-la-catalogne.html
 6275483-cinq-morts-et-neuf-blesses-dans-une-fusillade-en-arabie-saoudite.html
 6275636-violents-tirs-dartillerie-aux-abords-de-laeroport-de-donetsk.html
@@ -1166,7 +1161,6 @@
 6287513-jerusalem-doit-etre-la-capitale-de-deux-etats-estime-lunion-europeenne.html
 6287738-une-mission-secrete-libere-deux-prisonniers-americains-en-coree-du-nord.html
 6287849-une-reunion-des-dirigeants-du-groupe-etat-islamique-visee-par-des-frappes.html
-!6287856-un-double-attentat-d-al-qaida-a-tue-samedi-des-dizaines-de-rebelles-chiites-dans-le-centre-du-yemen.html
 6288384-manifestations-au-mexique-apres-lannonce-du-massacre-de-43-etudiants.html
 6288419-dintenses-combats-dartillerie-ont-eclate-durant-la-nuit-a-donetsk.html
 6288456-les-catalans-ont-vote-symboliquement-sur-leur-independance.html
@@ -1784,7 +1778,6 @@
 6436489-le-pakistan-a-execute-neuf-personnes-depuis-la-midecembre.html
 6436543-pyongyang-denonce-le-lacher-de-tracts-hostiles-par-des-militants-sudcoreens.html
 6436736-le-sort-dun-tetraplegique-en-etat-vegetatif-decide-a-strasbourg.html
-!6436865-les-suspects-de-la-fusillade-de-charlie-hebdo-auraient-ete-identifies.html
 6437358-charlie-hebdo-lattentat-le-plus-sanglant-depuis-40-ans-en-france.html
 6437586-les-syriens-souffrent-de-la-vague-de-froid-qui-sabat-sur-le-procheorient.html
 6437910-ban-kimoon-accepte-la-demande-dadhesion-palestinienne-a-la-cpi.html
@@ -1793,7 +1786,6 @@
 6438617-une-campagne-en-afrique-de-louest-identifie-250-nouveaux-cas-debola.html
 6438838-des-rassemblements-en-france-et-en-suisse-apres-la-tuerie-de-charlie-hebdo.html
 6439575-sept-gardes-a-vue-la-traque-des-suspects-de-la-tuerie-de-charlie-hebdo-continue.html
-!6439762-chasse-a-lhomme-dans-le-nord-de-la-france-le-minute-par-minute.html
 6439895-pres-de-5000-bombes-lancees-contre-lei-depuis-le-debut-des-frappes.html
 6440857-premier-jour-sans-mort-au-combat-en-syrie-depuis-trois-ans-grace-a-la-neige.html
 6440871-un-infirmier-allemand-reconnait-avoir-tue-30-patients-gravement-malades.html
@@ -1805,7 +1797,6 @@
 6442470-craintes-dattaques-djihadistes-contre-loccident.html
 6442600-sons-provenant-des-boites-noires-de-lairbus-dairasia-apparemment-reperes.html
 6442615-la-chasse-a-lhomme-se-poursuit-apres-la-tuerie-de-charlie-hebdo.html
-!6442769-sept-morts-dont-trois-djihadistes-durant-les-assauts-suivi-en-direct.html
 6442969-liberation-dau-moins-35-prisonniers-politiques-en-48-heures-a-cuba.html
 6443328-victoire-de-lopposition-a-la-presidence-du-sri-lanka.html
 6443509-le-prochain-sommet-de-lue-sera-consacre-a-la-lutte-antiterrorisme.html
@@ -1829,7 +1820,6 @@
 6447533-au-moins-62-morts-dans-une-collision-impliquant-un-autocar-au-pakistan.html
 6447558-un-million-de-manifestants-dont-netanyahu-et-abbas-attendus-a-paris.html
 6447616-coulibaly-prete-allegeance-au-groupe-letat-islamique-dans-une-video.html
-!6447777-defile-historique-a-paris-contre-le-terrorisme-retour-sur-les-moments-forts.html
 6448155-la-conservatrice-kolinda-grabar-kitarovic-elue-presidente-de-la-croatie.html
 6449012-laeroport-de-donetsk-dans-lest-de-lukraine-fortement-bombarde.html
 6449496-lune-des-boites-noires-de-lairbus-dairasia-repechee-en-mer-de-java.html
@@ -2979,7 +2969,6 @@
 6729296-vols-internationaux-suspendus-apres-leruption-du-calbuco-au-chili.html
 6729338-des-pecheurs-tunisiens-sauvent-80-migrants-de-la-noyade.html
 6730427-des-plages-des-canaries-souillees-par-le-carburant-dun-navire-echoue.html
-!6730648-le-centre-du-nepal-ravage-par-un-violent-seisme.html
 6730870-ville-strategique-du-nordouest-de-la-syrie-prise-par-des-islamistes.html
 6730999-vaste-trafic-de-viande-de-cheval-demantele-en-europe.html
 6731055-une-centaine-de-migrants-africains-ramenes-vers-un-port-tunisien.html
@@ -3742,7 +3731,6 @@
 6937770-en-colombie-accord-entre-farc-et-gouvernement-pour-une-desescalade.html
 6937988-le-premier-ministre-roumain-mis-en-examen-pour-corruption.html
 6938143-un-projet-de-compromis-mis-sur-pied-pour-eviter-un-grexit.html
-!6938172-des-attentats-suicide-font-une-quarantaine-de-morts-a-bagdad.html
 6938408-une-caserne-secroule-en-russie-et-tue-23-militaires.html
 6938449-les-otages-retenus-dans-un-centre-commercial-de-paris-ont-ete-liberes.html
 6938911-un-sommet-en-ethiopie-pour-eradiquer-durablement-la-pauvrete.html
@@ -3844,7 +3832,6 @@
 6959754-les-eleveurs-francais-en-colere-ont-leve-les-barrages-les-plus-importants.html
 6960086-environ-4000-migrants-traversent-la-macedoine-chaque-jour.html
 6960450-pres-de-300-arrestations-lors-dune-operation-antiterroriste-en-turquie.html
-!6960923-une-quarantaine-de-migrants-seraient-morts-au-large-de-la-libye.html
 6961292-une-dizaine-de-migrants-meurent-dans-un-naufrage-au-large-de-la-libye.html
 6961295-barack-obama-sest-envole-pour-une-tournee-africaine.html
 6961519-liran-vise-185-milliards-de-dollars-de-projets-gaziers-et-petroliers.html
@@ -3947,7 +3934,6 @@
 6983368-detention-administrative-inedite-pour-un-extremiste-juif-en-israel.html
 6983387-le-procureur-general-allemand-destitue-par-le-ministre-de-la-justice.html
 6983978-jeanclaude-juncker-croit-a-un-accord-entre-la-grece-et-ses-creanciers.html
-!6984205-les-chiffres-et-les-enjeux-du-nouveau-canal-de-suez.html
 6984214-les-chiffres-et-les-enjeux-du-nouveau-canal-de-suez.html
 6984504-des-elections-legislatives-anticipees-a-lautomne-en-grece-sont-probables.html
 6985046-la-russie-va-detruire-les-produits-europeens-exportes-illegalement.html

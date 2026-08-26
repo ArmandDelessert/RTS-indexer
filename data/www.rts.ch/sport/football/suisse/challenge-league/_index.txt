@@ -1,4 +1,3 @@
-!./
 10273706-challenge-league-le-lausannesport-jouera-sur-synthetique-a-la-tuiliere.html
 1132633-la-nouvelle-maladiere-j3.html
 1132637-premiere-en-fanfare-pour-xamax.html
@@ -15,7 +14,6 @@
 1919630-le-fc-lugano-peut-dire-merci-a-yverdon.html
 1963358-le-suspense-regne-en-challenge-league.html
 1964378-thoune-de-retour-en-super-league-le-mont-relegue.html
-!2016585-martin-rueda-nouvel-entraineur-de-lausanne.html
 3092898-servette-se-met-a-rever-de-promotion.html
 3097487-le-stade-nyonnais-piege-lugano-au-tessin.html
 3098503-lausanne-et-yverdon-simposent-a-lexterieur.html

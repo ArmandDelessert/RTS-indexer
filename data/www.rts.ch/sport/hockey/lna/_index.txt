@@ -1,4 +1,3 @@
-!./
 10003187-national-league-tous-les-buts-du-weekend.html
 10005737-national-league-zach-boychuk-signe-a-berne.html
 10006774-national-league-rajala-prolonge-a-bienne-suri-rejoindra-lugano.html
@@ -344,7 +343,6 @@
 5329090-16e-journee.html
 5345819-20e-journee.html
 5345824-17e-journee.html
-!5604127-hockey-sur-glace.html
 6141589-1re-journee.html
 6141590-2e-journee.html
 6150157-3e-journee.html
@@ -353,7 +351,6 @@
 6180224-6e-journee.html
 6180266-7e-journee.html
 6184375-40e-journee.html
-!6198584-8e-journee.html
 6199513-36e-journee.html
 6218627-10e-journee.html
 6218628-11e-journee.html
@@ -385,14 +382,12 @@
 6353090-26e-journee.html
 6363081-28e-journee.html
 6364824-29e-journee.html
-!6515018-hockey-sur-glace.html
 6614252-hockey-il-y-aura-un-7e-match-entre-bienne-et-zurich.html
 6619669-hockey-affame-zurich-envoie-bienne-en-vacances.html
 6674091-barrage-lnalnb.html
 6910133-fribourggotteron-slava-bykov-et-richard-chassot-entrent-au-conseil-dadministration.html
 7056856-hockey-fribourg-termine-sur-une-bonne-note.html
 7058830-hockey-geneve-elimine-sans-gloire.html
-!7077996-1re-journee.html
 7081246-2e-journee.html
 7088766-3e-journee.html
 7098347-4e-journee.html
@@ -655,7 +650,6 @@
 9156051-national-league-lausanne-simpose-a-lugano-geneve-gagne-dans-la-capitale.html
 9156057-national-league-5-a-la-suite-pour-bienne-fribourg-dechante.html
 9157522-national-league-berne-se-reprend-face-a-lausanne.html
-!9157575-national-league-tous-les-buts-du-weekend.html
 9158026-national-league-davos-met-fin-a-la-serie-de-bienne.html
 9166709-national-league-premiere-reussie-pour-tormanen-face-a-lausanne-loeffel-crucifie-lugano.html
 9171187-national-league-les-attaquants-suisses-cartonnent.html

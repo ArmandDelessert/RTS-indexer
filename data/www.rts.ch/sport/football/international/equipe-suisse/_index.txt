@@ -1,4 +1,3 @@
-!./
 10003461-ligue-des-nations-la-suisse-envoie-les-diables-rouges-en-enfer.html
 10312106-qualifs-euro-2020-bon-depart-de-la-suisse-en-georgie.html
 10320055-qualifs-euro-2020-lichtsteiner-laisse-sa-place-a-mbabu.html
@@ -24,11 +23,6 @@
 1259205-un-point-pour-une-coupe-du-monde.html
 1259206-un-entrainement-ecourte-pour-alex-frei.html
 1259390-marco-padalino-ne-connait-pas-la-peur.html
-!1259414-analyse-les-chances-de-la-suisse-pour-l-avenir-15-octobre-le-journal-du-matin-14-10-2009.html
-!1259414-analyse-les-chances-de-la-suisse-pour-l-avenir-15-octobre-le-journal-du-matin.html
-!1259417-interview-de-l-entraineur-assistant-michel-pont-15-octobre-le-journal-du-matin-14-10-2009.html
-!1259417-interview-de-l-entraineur-assistant-michel-pont-15-octobre-le-journal-du-matin.html
-!1259420-interview-du-defenseur-steve-von-bergen-15-octobre-le-journal-du-matin.html
 1259421-la-nati-qualifiee-pour-la-coupe-du-monde.html
 1259757-nous-nen-sommes-qua-miparcours.html
 1259768-la-suisse-affrontera-la-norvege-a-geneve.html
@@ -61,7 +55,6 @@
 1358987-hitzfeld-fait-disrael-le-favori.html
 1359399-senderos-et-muller-retenus.html
 1360453-wolfli-et-lustenberger-appeles.html
-!2039887-blesse-streller-ne-verra-pas-l-afrique-du-sud.html
 2456014-pour-hitzfeld-la-suisse-a-le-dos-au-mur.html
 2469290-menisquecartilage-6-mois-de-pause-pour-bunjaku.html
 2475606-valon-behrami-encore-blesse-a-un-genou.html
@@ -262,7 +255,6 @@
 7762256-uefa-euro-2016-senderos-zuffi-et-widmer-niront-pas-en-france.html
 7763951-uefa-euro-2016-la-folle-progression-de-denis-zakaria.html
 7769139-uefa-euro-2016-yann-sommer-monte-au-front.html
-!7769500-uefa-euro-2016-lequipe-de-suisse-se-met-a-flot.html
 7771468-uefa-euro-2016-une-ferveur-encore-timide.html
 7772540-uefa-euro-2016-un-dernier-duel-avant-de-partir-en-france.html
 7775455-uefa-euro-2016-un-succes-suisse-sans-eclat-contre-la-moldavie.html

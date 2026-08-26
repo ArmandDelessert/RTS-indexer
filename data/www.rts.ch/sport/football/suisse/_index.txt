@@ -1,4 +1,3 @@
-!./
 10054266-challenge-league-lausanne-et-servette-dos-a-dos-a-la-pontaise.html
 10330485-challenge-league-stevanovic-le-joyau-qui-fait-battre-le-coeur-des-grenat.html
 10333283-challenge-league-sforza-reprend-les-renes-de-wil.html
@@ -113,7 +112,6 @@
 7681839-football-la-commission-de-discipline-retire-la-licence-au-fc-bienne.html
 7688486-football-le-fc-bienne-fait-recours-contre-le-retrait-de-sa-licence.html
 7690036-challenge-league-accroche-par-chiasso-lausanne-nest-pas-encore-promu.html
-!7690740-promotion-league-servette-est-officiellement-promu.html
 7700921-challenge-league-le-jour-de-lascension-rime-avec-promotion-pour-lausanne.html
 7729530-football-le-recours-de-bienne-rejete.html
 7729782-challenge-league-raphael-nuzzolo-de-retour-a-xamax.html

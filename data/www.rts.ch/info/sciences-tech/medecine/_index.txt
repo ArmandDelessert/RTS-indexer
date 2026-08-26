@@ -1,4 +1,3 @@
-!./
 10019355-bien-que-tres-couteux-les-nouveaux-medicaments-sont-rarement-innovants.html
 10024247-lobsolescence-programmee-existe-aussi-dans-le-domaine-pharmaceutique.html
 10026009-les-reglementations-sur-les-implants-medicaux-sont-insuffisantes.html
@@ -477,12 +476,6 @@
 14657039-lepidemie-de-parvovirus-qui-circule-met-en-danger-les-femmes-enceintes.html
 14658936-la-dermatillomanie-se-gratter-la-peau-a-en-devenir-dingue.html
 14665700-elon-musk-annonce-que-neuralink-a-pose-son-premier-implant-cerebral.html
-!2077729-meme-pour-un-traitement-indispensable-le-malade-doit-etre-informe-du-risque.html
-!3052566-hyperactivite-des-enfants-des-experts-contre-l-etiquetage.html
-!3209372-mediator-la-cour-de-cassation-se-prononce-sur-le-regroupement-des-dossiers.html
-!3519883-usa-cancer-taux-eleve-de-faux-positifs-dans-les-mammographies-annuelles.html
-!3529663-les-mobilisations-contre-les-antennes-relais-se-multiplient-a-bordeaux.html
-!4128357-gros-comme-un-turc-la-turquie-fait-la-guerre-a-l-obesite.html
 5861470-le-cerveau-bilingue-serait-plus-flexible-et-plus-adaptable.html
 5899820-le-diagnostic-preimplantatoire-etat-des-lieux-et-enjeux-en-3-questions.html
 6756411-les-prematures-auraient-un-risque-accru-de-troubles-de-lattention.html

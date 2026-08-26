@@ -1,8 +1,5 @@
-!./
 11501073-un-village-autrichien-entierement-copie-dans-le-sud-de-la-chine.html
 12428552-les-30-images-marquantes-du-11-septembre-2001.html
-!2078102-les-moments-forts-de-la-semaine-du-31-mai-2010.html
-!2092984-les-derniers-suisses-entres-au-larousse.html
 2342059-les-moments-forts-de-la-carriere-de-hansrudolf-merz.html
 2388257-joe-dassin-public-et-prive.html
 2413181-les-photos-marquantes-de-louragan-katrina-a-la-nouvelleorleans.html
@@ -157,7 +154,6 @@
 5947992-salvador-de-bahia-lieu-du-match-suissefrance-en-images.html
 5958469-les-meilleurs-detournements-web-de-la-morsure-de-suarez.html
 5960209-manaus-lieu-du-match-suissehonduras-en-images.html
-!5963095-graphiques-la-taille-des-joueurs-de-l-equipe-suisse-de-football.html
 5974051-sao-paulo-lieu-du-match-suisseargentine-en-images.html
 5984923-la-passerelle-de-corbassiere-vs-inauguree.html
 6035815-festival-du-film-de-locarno-les-images-marquantes.html

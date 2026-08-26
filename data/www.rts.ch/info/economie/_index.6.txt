@@ -52,7 +52,6 @@
 6077150-exportations-de-fromages-et-legumes-suisses-dopees-par-lembargo-russe.html
 6078399-le-benefice-net-de-swisscom-a-subi-un-leger-repli-au-premier-semestre-2014.html
 6079570-croissance-au-premier-semestre-pour-lindustrie-suisse-des-machines.html
-!6081172-le-voyagiste-suisse-kuoni-tombe-dans-les-chiffres-rouges-avec-une-perte-de-14-millions-au-1er-semestre.html
 6082254-bank-of-america-paie-17-milliards-damende-suite-a-des-prets-toxiques.html
 6085564-convaincu-de-sa-politique-mario-draghi-veut-plus-de-reformes-structurelles.html
 6087705-lete-pluvieux-a-pese-sur-les-chiffres-du-tourisme-en-suisse.html
@@ -131,7 +130,6 @@
 6181173-ubs-cree-une-societe-holding-pour-se-conformer-aux-regles-globales.html
 6182757-apple-pourrait-devoir-rembourser-des-milliards-deuros-a-lirlande.html
 6184336-lufthansa-pourrait-embaucher-des-pilotes-suisses-pour-faire-baisser-ses-couts.html
-!6184625-le-chomage-est-reste-stable-en-aout-dans-la-zone-euro-par-rapport-a-juillet-a-11-5.html
 6185035-ebay-se-scinde-en-deux-et-fait-de-paypal-une-societe-independante.html
 6185057-le-pib-suisse-est-revu-a-la-hausse-pour-la-periode-19952013.html
 6185075-la-marque-horlogere-tag-heuer-licencie-46-personnes-en-suisse.html
@@ -226,7 +224,6 @@
 6270517-tamedia-dit-son-interet-pour-le-site-de-commerce-en-ligne-ricardo.html
 6271949-fort-de-bons-resultats-semestriels-calida-devoile-ses-ambitions-internationales.html
 6274247-raoul-weil-declare-non-coupable-aux-etatsunis-daide-a-levasion-fiscale.html
-!6274624-l-ex-cadre-d-ubs-raoul-weil-a-ete-declare-non-coupable-en-floride-d-aide-a-l-evasion-fiscale.html
 6275376-tornos-reduit-ses-pertes-sur-les-trois-premiers-trimestres-par-rapport-a-2013.html
 6275862-lunion-europeenne-ne-croit-pas-aux-objectifs-budgetaires-de-la-france.html
 6276412-les-experts-suisses-saluent-lacquittement-de-raoul-weil.html
@@ -369,7 +366,6 @@
 6462360-ubs-prevoit-une-deceleration-de-leconomie-mais-pas-de-recession.html
 6462575-la-decision-de-la-bns-est-une-catastrophe-pour-lindustrie.html
 6462610-petites-et-grandes-consequences-de-la-fin-du-taux-plancher.html
-!6462611-petites-et-grandes-consequences-de-la-fin-du-taux-plancher.html
 6462687-accord-de-principe-sur-les-differends-fiscaux-entre-la-suisse-et-litalie.html
 6463011-le-groupe-migros-a-accru-ses-ventes-de-2-en-2014.html
 6463755-le-bilan-de-la-bns-aurait-fondu-de-60-milliards-apres-la-fin-du-taux-plancher.html
@@ -413,7 +409,6 @@
 6489625-la-bce-assure-quune-restructuration-de-la-dette-grecque-est-impossible.html
 6490779-la-suisse-va-transmettre-a-litalie-des-informations-sur-un-compte-du-vatican.html
 6491088-vlm-airlines-inaugure-une-liaison-geneveanvers.html
-!6491144-l-olf-numero-1-de-la-distribution-de-livres-suisse-baisse-ses-salaires-apres-l-abandon-du-taux-plancher.html
 6492200-le-vicepresident-de-la-bns-defend-la-communication-de-la-banque.html
 6492412-novartis-affiche-un-benefice-net-en-hausse-de-12-en-2014.html
 6492495-laction-de-sunrise-sera-lancee-dici-le-6-fevrier-entre-58-et-78-francs.html
@@ -464,7 +459,6 @@
 6523242-leurogroupe-impose-un-nouvel-ultimatum-de-dix-jours-a-la-grece.html
 6525251-arrete-en-allemagne-un-banquier-suisse-de-wegelin-risque-lextradition.html
 6526363-swissleaks-au-coeur-dun-scandale-international-devasion-fiscale.html
-!6526389-swissleaks-106000-noms-36000-fichiers-et-100-milliards-deposes-a-geneve.html
 6528031-lafrique-perd-50-milliards-par-an-a-cause-de-la-fuite-des-capitaux.html
 6529364-des-deputes-britanniques-vont-enqueter-sur-hsbc-apres-le-scandale-swissleaks.html
 6529532-tamedia-rachete-la-plateforme-de-commerce-en-ligne-ricardo.html
@@ -475,8 +469,6 @@
 6534593-la-valeur-boursiere-dapple-depasse-le-produit-interieur-brut-de-la-suisse.html
 6536653-credit-suisse-a-degage-en-2014-un-benefice-net-de-21-milliards-de-francs.html
 6536924-en-vingt-ans-les-exportations-suisses-vers-les-etatsunis-ont-explose.html
-!6537148-il-y-20-ans-la-scene-ouverte-de-la-drogue-fermait-a-zurich.html
-!6537148-il-y-a-20-ans-la-scene-ouverte-de-la-drogue-fermait-a-zurich.html
 6537915-le-groupe-bombardier-a-perdu-plus-dun-milliard-de-francs-en-2014.html
 6538129-le-succes-financier-dune-carriere-se-jouerait-les-dix-premieres-annees.html
 6538178-maurice-tornay-plaide-pour-lamnistie-fiscale-generale.html
@@ -484,7 +476,6 @@
 6539555-le-benefice-du-fabricant-dascenseurs-schindler-a-bondi-en-2014.html
 6539727-ubs-table-sur-une-legere-devalorisation-du-franc.html
 6540400-la-banque-dangleterre-envisage-une-enquete-sur-hsbc.html
-!6541253-l-espagne-a-reclame-vendredi-le-remboursement-des-26-milliards-d-euros-qu-elle-a-pretes-a-la-grece.html
 6542173-avec-le-franc-fort-lecart-de-prix-avec-les-stations-etrangeres-atteindrait-50.html
 6542562-debut-du-carnaval-de-rio-avec-5-jours-de-folie-et-de-samba.html
 6544008-le-groupe-britannique-tesco-pourrait-supprimer-10000-emplois.html
@@ -554,8 +545,6 @@
 6610385-leconomie-suisse-doit-plus-se-tourner-vers-lasie-et-lafrique.html
 6610467-le-sud-de-lallemagne-veut-attirer-davantage-dentreprises-suisses.html
 6610897-le-geant-du-nucleaire-areva-prevoit-de-supprimer-1500-postes-en-allemagne.html
-!6611961-glencore-va-prendre-49-du-capital-du-petrolier-russe-rosneft.html
-!6611961-glencore-va-prendre-49-du-capital-du-petrolier-russe-roussneft.html
 6613061-lavenir-des-centres-commerciaux-suisses-sannonce-morose.html
 6613194-swiss-enregistre-un-resultat-operationnel-en-hausse-de-31-en-2014.html
 6613196-la-direction-du-swatch-group-a-touche-plus-de-42-millions-de-francs-en-2014.html
@@ -790,8 +779,6 @@
 6908996-novartis-risque-une-amende-de-plusieurs-milliards-aux-etatsunis.html
 6911324-les-plaintes-a-lombudsman-des-banques-ont-recule-de-8-en-2014.html
 6911547-la-finma-sanctionne-le-groupe-mutuel.html
-!6912847-nouveau-chef-de-credit-suisse-tidjane-thiam-prone-le-bon-sens-suisse.html
-!6912847-nouveau-chef-du-credit-suisse-tidjane-thiam-prone-le-bon-sens-suisse.html
 6916084-tidjane-thiam-patron-de-credit-suisse-la-banque-la-suisse-les-origines-africaines.html
 6917529-le-president-dubs-optimiste-pour-lavenir-de-leconomie-europeenne.html
 6921519-creation-dun-front-international-pour-lutter-contre-uber-et-cabify.html

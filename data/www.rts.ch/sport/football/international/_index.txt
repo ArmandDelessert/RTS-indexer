@@ -1,4 +1,3 @@
-!./
 10021584-bundesliga-lang-et-zakaria-buteurs-gladbach-assomme-hanovre.html
 10041104-ballon-dor-luka-modric-met-fin-au-regne-de-cristiano-ronaldo-et-messi.html
 10052573-serie-a-linter-impuissante-face-a-la-juve-dans-le-derby-ditalie.html
@@ -224,7 +223,6 @@
 11983667-ligue-des-champions-haaland-et-dortmund-simposent-a-seville.html
 11985981-europa-league-arsenal-et-xhaka-obtiennent-un-bon-nul-contre-benfica.html
 11988609-europa-league-ibrahimovic-victime-dinsultes-racistes-a-belgrade.html
-!11988976-bundesliga-un-double-pour-renato-steffen-a-bielefeld.html
 11995196-ligue-des-champions-le-bayern-munich-et-latletico-de-madrid-en-danger.html
 11996865-ligue-des-champions-le-bayern-munich-surclasse-la-lazio-a-rome.html
 11997809-ligue-des-champions-chelsea-prend-latletico-a-son-propre-jeu.html
@@ -294,14 +292,12 @@
 12261965-bundesliga-un-attaquant-de-stuttgart-jouait-sous-une-fausse-identite.html
 12284473-serie-b-gianluigi-buffon-retrouve-parme-20-ans-apres.html
 12336629-bundesliga-widmer-sengage-avec-mayence.html
-!12413212-bundesliga-gregor-kobel-sera-le-plus-scrute-des-20-suisses-presents.html
 12428339-serie-a-le-championnat-reprend-ce-weekend-en-italie.html
 12446851-serie-a-cristiano-ronaldo-na-plus-lintention-de-jouer-avec-la-juventus.html
 12477148-coupe-du-monde-des-clubs-le-japon-renonce-a-accueillir-le-tournoi-en-decembre.html
 12486343-bundesliga-zakaria-buteur-gladbach-vainqueur.html
 12519322-serie-a-daniel-maldini-premiere-titularisation-et-premier-but-avec-milan.html
 12532924-serie-a-perte-record-de-2456-millions-deuros-pour-linter-milan.html
-!1257283-la-reaction-de-gerard-castella-entraineur-de-l-equipe-de-suisse-des-moins-de-20-ans-29-septembre-le-journal-du-matin-28-09-2009.html
 1257285-lucien-favre-vire-par-le-hertha-berlin.html
 1258412-gygax-et-bunjaku-a-la-fete-avec-nuremberg.html
 1258541-largentine-gagne-in-extremis-contre-le-perou.html
@@ -405,7 +401,6 @@
 5900682-qatar-platini-accuse-de-corruption.html
 6008002-foot-toni-kroos-rejoint-la-maison-blanche.html
 6019381-foot-james-rodriguez-officiellement-et-pour-6-ans-au-real-madrid.html
-!6022021-foot-eren-derdiyok-se-fait-les-croises.html
 6031249-foot-schweinsteiger-sexcuse-apres-avoir-insulte-dortmund.html
 6108611-foot-falcao-clot-le-bal-des-gros.html
 6127242-en-route-vers-leuro.html
@@ -571,7 +566,6 @@
 7718840-uefa-euro-2016-la-france-avec-gignac-mais-sans-ben-arfa-ni-valbuena.html
 7721610-fifa-fatma-samoura-nouvelle-secretaire-generale.html
 7722717-liga-luis-suarez-donne-le-titre-au-fc-barcelone.html
-!7723421-bundesliga-xhaka-a-peut-etre-dispute-son-dernier-match-avec-monchengladbach.html
 7726092-uefa-euro-2016-hodgson-mise-sur-rashford-walcott-laisse-de-cote.html
 7726824-uefa-euro-2016-conte-appelle-28-joueurs-pour-un-premier-stage.html
 7728494-uefa-euro-2016-lespagne-se-passera-de-costa.html

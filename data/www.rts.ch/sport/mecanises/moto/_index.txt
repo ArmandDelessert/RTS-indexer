@@ -64,7 +64,6 @@
 11548406-motogp-marc-marquez-absent-des-circuits-pour-encore-minimum-2-mois.html
 11549264-moto-cinquieme-rang-pour-luthi-son-meilleur-resultat-cette-saison.html
 11598731-moto-luthi-11e-sur-la-grille-a-misano.html
-!11599893-moto-luthi-prend-la-sixieme-place-a-misano.html
 11615871-moto-thomas-luthi-seulement-16e-sur-la-grille.html
 11617248-moto-thomas-luthi-se-classe-9e.html
 11630170-moto-thomas-luthi-devra-se-trouver-une-nouvelle-ecurie.html
@@ -91,7 +90,6 @@
 12097334-moto-jason-dupasquier-confirme.html
 12098677-moto-jason-dupasquier-encore-dans-les-points.html
 12132089-moto-splendide-12e-place-pour-le-fribourgeois-jason-dupasquier-au-portugal.html
-!12132193-motogp-quartararo-vainqueur-a-portimao-marquez-bon-7e.html
 12166044-moto3-dupasquier-14e-des-qualifications-a-jerez.html
 12167346-moto3-dupasquier-7e-obtient-son-meilleur-resultat-en-carriere.html
 12198127-moto-le-gp-de-finlande-annule-et-remplace-par-une-course-en-autriche.html
@@ -211,16 +209,11 @@
 14481315-motogp-di-giannantonio-sadjuge-un-premier-succes-bagnaia-marque-les-esprits.html
 14500366-motogp-deuxieme-titre-consecutif-pour-bagnaia.html
 14505151-auto-valentino-rossi-rejoindra-le-championnat-dendurance-en-2024.html
-!2019307-le-circuit-du-mans-n-a-pas-souri-a-thomas-luthi-le-bernois-de-23-ans-a-pris-la-19e-place-en-moto2.html
 2440867-shoya-tomizawa-se-tue-au-gp-de-saintmarin.html
 2477117-moto2.html
 2477123-moto-gp.html
 3317089-julien-bill-champion-du-monde-de-motocross.html
 3831262-posez-vos-questions-a-matthieu-juttens.html
-!3945262-rencontres.html
-!4208781-posez-vos-questions-a-matthieu-juttens-et-vincent-braillard-ou-fred-corminboeuf.html
-!4208781-posez-vos-questions-a-matthieu-juttens-vincent-braillard.html
-!4208781-posez-vos-questions-a-matthieu-juttens.html
 4276416-tomtom-decoit-marquez-irresitible.html
 4775228-moto-gp.html
 4775232-moto-2.html

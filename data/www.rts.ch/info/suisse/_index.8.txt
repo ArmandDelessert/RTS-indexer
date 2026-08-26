@@ -34,7 +34,6 @@
 8015892-le-rejet-de-linitiative-avsplus-se-precise-selon-le-second-sondage-ssr.html
 8016195-la-frc-denonce-des-irregularites-dans-letiquetage-chez-ochsner-sport.html
 8016350-le-nombre-de-morts-sur-les-autoroutes-suisses-au-plus-bas-depuis-25-ans.html
-!8016733-le-dedommagement-des-victimes-de-placements-abusifs-soutenu-a-berne.html
 8017921-remise-a-lordre-vestimentaire-au-conseil-des-etats.html
 8018043-une-quarantaine-de-postes-pourraient-etre-supprimes-a-la-ddc.html
 8018128-les-patrons-tricheurs-risqueront-des-sanctions-plus-severes.html
@@ -64,13 +63,11 @@
 8026939-un-sondage-devoile-la-volonte-des-suisses-de-passer-au-vote-electronique.html
 8027008-la-hausse-des-tarifs-de-transports-publics-en-2017-sera-moderee.html
 8027715-la-strategie-energetique-2050-est-bien-moins-ambitieuse-que-promis.html
-!8027853-les-etats-approuvent-une-enveloppe-de-132-milliards-pour-le-rail.html
 8028025-les-proprietaires-de-chiens-ne-seront-plus-obliges-de-suivre-des-cours.html
 8029356-chasse-aux-signatures-ouverte-pour-linitiative-stop-a-lilot-de-cherte.html
 8029437-larmee-pourra-compter-sur-un-budget-de-5-milliards-de-francs-par-annee.html
 8029556-une-europe-en-manque-denfants-quelle-solution.html
 8029723-exit-demande-davantage-de-securite-juridique-dans-laide-au-suicide.html
-!8029755-vers-un-changement-dans-la-taxation-des-travailleurs-sans-permis-c.html
 8030390-le-referendum-contre-la-reforme-du-droit-dadoption-naboutira-pas.html
 8031017-la-solution-parlementaire-sur-le-vote-du-9-fevrier-2014-est-une-tromperie.html
 8031038-une-exemployee-de-la-suva-ecope-de-18-mois-avec-sursis-pour-escroqueries.html
@@ -94,7 +91,6 @@
 8040420-johann-schneiderammann-sort-indemne-dun-accident-de-la-route.html
 8040818-lappel-a-la-delation-de-greenpeace-sur-la-situation-de-beznau-divise.html
 8041502-des-milliers-de-polonais-ont-manifeste-contre-le-gouvernement-a-varsovie.html
-!8042146-non-a-avsplus-et-a-leconomie-verte-loi-sur-le-renseignement-plebiscitee.html
 8042734-une-semaine-avec-les-usagers-de-la-drogue-a-lausanne.html
 8042758-linitiative-avsplus-rejetee-partout-sauf-dans-cinq-cantons-latins.html
 8042771-au-moins-70-erythreens-renvoyes-de-suisse-apres-un-changement-de-pratique.html
@@ -113,7 +109,6 @@
 8047896-le-debat-sur-les-langues-dalain-berset-divise-les-cantons.html
 8047899-le-plr-propose-une-autre-voie-au-parlement-pour-sauver-les-rentes-lpp.html
 8050971-lage-de-la-retraite-va-passer-a-65-ans-pour-les-femmes-en-suisse.html
-!8051119-la-naturalisation-sera-facilitee-pour-les-etrangers-de-la-troisieme-generation.html
 8051264-un-delit-de-chauffard-annule-pour-la-premiere-fois-par-le-tribunal-federal.html
 8051276-la-duree-denneigement-dans-les-alpes-suisses-reduite-de-37-jours-depuis-1970.html
 8051365-deux-morts-dans-le-crash-au-gothard-de-lhelicoptere-de-larmee-suisse.html
@@ -436,7 +431,6 @@
 8196690-les-antinucleaires-ont-fortement-progresse-en-suisse-romande-depuis-2003.html
 8198184-la-suisse-veut-plus-de-temps-pour-la-transition-energetique-selon-la-presse.html
 8198604-une-eolienne-tue-une-vingtaine-doiseaux-par-annee-dans-le-jura.html
-!8198690-le-conseil-national-refuse-le-budget-2017-de-la-confederation.html
 8198808-les-hommes-du-gothard-des-vies-dans-lombre-du-chantier-du-siecle.html
 8199297-ludc-relance-sa-lutte-contre-le-plan-de-sortie-du-nucleaire-du-conseil-federal.html
 8199682-scene-insolite-des-gymnastes-font-un-triomphe-au-conseil-national.html
@@ -515,7 +509,6 @@
 8239488-les-centrales-de-beznau-et-gosgen-doivent-controler-des-pieces-suspectes.html
 8242172-les-communes-neconomisent-pas-en-fusionnant-selon-une-etude.html
 8242177-laurent-caspary-prend-les-renes-de-lactualite-radio-a-la-rts.html
-!8242277-les-chambres-federales-ont-mis-13-objets-sous-toit-en-votations-finales.html
 8242371-les-nouveaux-trains-a-deux-etages-des-cff-pourraient-ne-pas-arriver-a-temps.html
 8242458-un-presume-djihadiste-de-winterthour-maintenu-en-detention.html
 8243509-les-consommateurs-se-rebellent-contre-le-plastique-des-produits-bio.html
@@ -608,7 +601,6 @@
 8289323-le-suspect-de-lattentat-de-berlin-se-serait-procure-son-arme-en-suisse.html
 8290036-temperatures-polaires-dans-la-nuit-de-vendredi-a-samedi-dans-toute-la-suisse.html
 8290521-les-millions-investis-par-les-stations-de-ski-suisses-pour-rester-competitives.html
-!8293606--le-suisse-moyen-n-existe-pas-trois-questions-au-directeur-de-l-ofs.html
 8293743-le-service-debanking-de-postfinance-retabli-apres-une-longue-panne.html
 8294061-trois-chefs-dentreprises-publiques-ont-recu-un-bonus-trop-eleve-en-2015.html
 8294245-dix-ans-apres-les-homosexuels-boudent-le-partenariat-enregistre.html
@@ -805,7 +797,6 @@
 8378863-dixneuf-organisations-mettent-leurs-conditions-a-la-reouverture-de-leibstadt.html
 8379250-rie-iii-forta-et-naturalisations-ce-sur-quoi-les-suisses-votent-le-12-fevrier.html
 8380005-le-bls-veut-casser-le-monopole-des-cff-sur-plusieurs-lignes-de-train.html
-!8380242-la-rie-iii-en-echec-oui-aux-naturalisations-facilitees-et-a-forta.html
 8380772-lopulente-campagne-de-la-droite-incapable-deviter-lechec-de-la-rie-iii.html
 8381062-le-non-a-la-rie-iii-sanctionne-la-droite-arrogante-et-clienteliste-juge-christian-levrat.html
 8381083-les-suisses-acceptent-a-62-la-creation-du-fonds-routier-forta.html
@@ -951,7 +942,6 @@
 8449718-une-commission-du-national-renonce-a-lidee-dune-retraite-a-67-ans.html
 8449750-que-font-nos-elus-des-33000-francs-prevus-pour-un-assistant-parlementaire.html
 8450033-la-question-du-salaire-de-la-directrice-de-la-poste-sera-bientot-reglee.html
-!8451071-devises-locales-des-petites-monnaies-aux-grandes-ambitions.html
 8451243-lue-fait-fausse-route-en-erigeant-la-libre-circulation-comme-un-dogme.html
 8451467-la-societe-billag-perd-son-mandat-de-perception-de-la-redevance-radiotv.html
 8451730-pres-de-150-ans-apres-sa-disparition-le-loup-reconquiert-petit-a-petit-la-suisse.html
@@ -1137,7 +1127,6 @@
 8554190-la-suisse-a-vecu-une-nuit-de-mardi-a-mercredi-glaciale-et-ce-nest-pas-fini.html
 8555645-les-arrivees-de-migrants-en-europe-ne-faiblissent-pas-selon-la-confederation.html
 8555864-nouvelle-nuit-glaciale-et-records-de-temperatures-en-suisse.html
-!8555894-enrayer-le-chomage-des-seniors-le-boulot-le-plus-dur.html
 8556579-la-famille-martulloblocher-a-paye-64-millions-de-francs-dimpots-complementaires.html
 8556630-le-conseil-federal-veut-sceller-80-ans-les-archives-des-renseignements.html
 8556848-mesures-contre-les-emissions-de-gaz-des-poids-lourds-traversant-la-suisse.html
@@ -1268,7 +1257,6 @@
 8622413-avenir-suisse-juge-les-mesures-daccompagnement-inutiles.html
 8622564-en-suisse-la-pauvrete-progresse-et-touche-une-personne-sur-quatorze.html
 8622728-ces-paysans-qui-ont-abandonne-la-production-de-lait-pour-survivre.html
-!8623098-ces-paysans-qui-ont-abandonne-la-production-de-lait-pour-survivre.html
 8623395-le-service-de-renseignement-de-la-confederation-sous-le-feu-des-critiques.html
 8624789-un-office-federal-pour-la-cybersecurite-pourrait-bientot-voir-le-jour.html
 8625061-le-cannabis-legal-une-manne-de-30-millions-par-an-pour-la-confederation.html
@@ -1287,7 +1275,6 @@
 8632048-la-suisse-romande-bientot-immortalisee-en-3d-et-haute-resolution.html
 8632284-la-hausse-des-depenses-de-laide-sociale-a-ete-moins-forte-en-2015.html
 8632462-la-marine-marchande-suisse-va-couter-des-millions-a-la-confederation.html
-!8632597-la-strategie-energetique-est-acceptee-a-plus-de-58-le-suivi-en-direct.html
 8634059-la-suisse-3e-dun-classement-mondial-des-systemes-de-sante.html
 8634430-un-nouvel-horaire-des-cff-benefique-aux-romands-malgre-les-travaux.html
 8634749-appel-de-didier-burkhalter-a-preserver-labolition-de-la-peine-de-mort.html
@@ -1507,7 +1494,6 @@
 8742990-le-nombre-de-naissances-na-plus-ete-aussi-eleve-en-suisse-depuis-45-ans.html
 8743166-ces-parlementaires-qui-deposent-un-projet-et-le-retirent-avant-le-vote.html
 8744304-la-balance-touristique-devient-pour-la-premiere-fois-negative-en-suisse.html
-!8744322-la-suisse-manque-de-policiers-mais-pas-4000-comme-le-pretendait-un-elu.html
 8744974-jurg-grossen-est-le-seul-candidat-a-la-presidence-des-vertliberaux.html
 8745441-la-suisse-a-desormais-son-centre-de-recherche-en-aeronautique.html
 8746437-la-presidente-des-verts-veut-voir-une-femme-succeder-a-didier-burkhalter.html
@@ -1587,7 +1573,6 @@
 8789581-andre-bugnon-guy-parmelin-devrait-etre-davantage-sur-le-terrain.html
 8791485-nous-sommes-devenus-les-cancres-de-la-classe-en-matiere-de-lutte-antitabac.html
 8791610-levangelique-niklaussamuel-gugger-va-remplacer-maja-ingold-au-national.html
-!8791769-la-suisse-participera-a-une-conference-sur-la-crise-migratoire-a-tunis.html
 8791882-chiara-simoneschicortesi-les-gens-ne-veulent-pas-des-choses-extremes.html
 8792362-de-violents-orages-ont-traverse-la-suisse-fribourg-et-berne-touches.html
 8792457-la-secheresse-oblige-des-cantons-a-interdire-le-pompage-de-cours-deau.html
@@ -1876,7 +1861,6 @@
 8929884-cedric-wermuth-trois-romands-au-conseil-federal-ce-nest-pas-trop.html
 8930012-la-population-serait-plus-severe-que-la-justice-dans-les-cas-de-viols-seulement.html
 8930714-un-test-de-personnalite-pour-integrer-la-haute-ecole-de-sante-fait-debat.html
-!8932077-elu-au-conseil-federal-ignazio-cassis-promet-de-sengager-pour-le-pays.html
 8933904-ignazio-cassis-a-la-fois-lobbyiste-des-assureurs-et-partisan-du-cannabis.html
 8934011-deception-romande-et-feminine-apres-lelection-dignazio-cassis.html
 8934628-avec-lelection-de-cassis-davantage-de-tessinois-que-de-femmes-auront-siege-au-conseil-federal.html
@@ -1917,7 +1901,6 @@
 8954002-des-parlementaires-suisses-envoient-une-lettre-sur-la-catalogne-a-madrid.html
 8954005-la-centrale-de-leibstadt-doit-etre-plus-transparente-sur-ses-rejets.html
 8955614-critiques-contre-un-exercice-durgence-autour-de-la-centrale-de-muhleberg.html
-!8955831-barometre-des-elections-federales-2019-participez-a-notre-sondage.html
 8955980-une-hausse-moyenne-de-4-pour-les-primes-maladie-en-2018.html
 8956071-le-systeme-de-sante-suisse-parmi-les-meilleurs-du-monde-vraiment.html
 8956297-guy-parmelin-signe-un-accord-sur-la-police-aerienne-avec-lautriche.html

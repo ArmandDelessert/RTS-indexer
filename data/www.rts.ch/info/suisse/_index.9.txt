@@ -716,8 +716,6 @@
 9369036-le-national-veut-un-dedommagement-des-voyageurs-cff-lors-de-gros-retard.html
 9369508-nouvelle-tentative-dancrer-la-notion-de-service-public-dans-la-constitution.html
 9369533-procedure-penale-administrative-ouverte-contre-la-poste-dans-laffaire-carpostal.html
-!9371074-il-pourrait-se-deplacer-a-geneve.html
-!9371074-le-pape-francois-a-geneve-en-juin.html
 9371823-le-patient-devrait-plus-jouer-le-role-de-controleur-des-couts-de-la-sante.html
 9372241-des-centaines-de-locaux-commerciaux-sont-inoccupes-en-suisse-romande.html
 9372304-apres-une-nouvelle-nuit-glaciale-une-alerte-neige-pour-la-nuit-prochaine.html
@@ -1450,7 +1448,6 @@
 9772839-les-communes-suisses-devraient-avoir-davantage-de-pouvoir.html
 9774007-la-suisse-fait-face-a-une-penurie-de-certains-medicaments.html
 9774484-lopposition-entre-en-campagne-contre-les-deux-initiatives-agricoles.html
-!9775036--la-suisse-parle-causer-politique-avec-un-voisin-qui-ne-pense-pas-comme-vous.html
 9776331-la-tva-sur-les-achats-par-correspondance-de-letranger-des-2019.html
 9776368-albert-rosti-ne-parvient-pas-a-rallier-les-autres-partis-sur-laccordcadre.html
 9776514-le-siege-de-la-poste-perquisitionne-en-lien-avec-laffaire-carpostal.html
@@ -1507,7 +1504,6 @@
 9798151-les-verts-rejettent-a-lunanimite-linitiative-udc-sur-les-juges-etrangers.html
 9798165-les-vertliberaux-divises-sur-linitiative-pour-des-aliments-equitables.html
 9798263-le-pbd-rejette-nettement-linitiative-pour-lautodetermination.html
-!979844-.html
 9799307-ne-pas-trop-travailler-et-etre-fidele-priorites-des-jeunes-selon-une-etude.html
 9800398-les-pirates-de-ruag-sont-toujours-inconnus-la-procedure-penale-sarrete.html
 9800871-la-confederation-edicte-un-code-de-conduite-contre-les-cyberattaques.html

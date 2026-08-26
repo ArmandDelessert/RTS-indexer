@@ -161,7 +161,6 @@
 6107613-corruption-denoncee-dans-le-negoce-des-matieres-premieres-en-suisse.html
 6108281-les-maladies-non-transmissibles-representent-80-des-couts-directs-de-la-sante.html
 6108411-action-des-verts-pour-la-fermeture-de-la-centrale-nucleaire-de-beznau-ag.html
-!6109147-la-grue-d-un-camion-a-heurte-l-entree-de-la-galerie-sud-de-l-a9-lundi-apres-midi-a-sion-ouest-vs.html
 6109155-la-suisse-debloque-un-million-de-francs-pour-lutter-contre-ebola-en-afrique.html
 6110388-des-inspecteurs-russes-examinent-les-activites-de-larmee-suisse.html
 6110565-dans-les-chaines-de-fastfood-manger-a-lemporter-ne-coute-pas-moins-cher.html
@@ -200,7 +199,6 @@
 6126814-plus-de-60-des-employes-auraient-deja-demissionne-a-cause-de-leur-chef.html
 6127120-la-prime-dassurance-maladie-une-facture-parfois-difficile-a-payer.html
 6127583-le-national-favorable-a-une-detention-moins-longue-des-requerants-dasile.html
-!6127731-deux-parlementaires-ont-demande-lundi-le-gel-de-la-participation-suisse-a-l-accord-nucleaire-euratom.html
 6127764-edward-snowden-pret-a-temoigner-en-suisse-selon-son-avocat.html
 6128010-le-depistage-de-la-trisomie-21-a-ete-accepte-par-le-conseil-des-etats.html
 6128196-les-resquilleurs-seront-inscrits-dans-un-registre-national.html
@@ -210,7 +208,6 @@
 6129885-la-hesso-accueille-19400-etudiants-une-hausse-de-35.html
 6130128-cette-fois-la-france-a-paye-les-impots-des-frontaliers-dans-les-delais.html
 6131123-le-tf-autorise-les-assureurs-a-militer-contre-la-caisse-publique.html
-!6131248-de-retour-a-berne-geri-muller-denonce-une-campagne-politique-contre-lui.html
 6132530-pour-eveline-widmerschlumpf-reduire-la-tva-ne-resoudra-pas-les-problemes.html
 6132674-martin-landolt-craint-que-la-politique-de-ludc-mene-a-une-adhesion-a-lue.html
 6132769-un-medecin-devrait-maitriser-au-moins-une-langue-nationale.html
@@ -336,7 +333,6 @@
 6194701-vers-un-recul-de-ludc-aux-federales-de-2015-selon-le-barometre-ssr.html
 6194729-limmigration-est-le-souci-numero-un-des-suisses-selon-le-sondage-ssr.html
 6195259-ludc-tempere-les-enseignements-du-barometre-ssr-le-ps-se-felicite.html
-!6195292-les-partis-politiques-ont-reagi-a-la-publication-du-premier-barometre-electoral-en-appelant-a-la-prudence.html
 6196277-les-etatsunis-auraient-alerte-la-suisse-des-dangers-dune-cellule-terroriste.html
 6196659-lasin-apporte-son-soutien-a-linitiative-antiimmigration-ecopop.html
 6196999-pour-leurosceptique-britannique-nigel-farage-la-suisse-est-un-modele.html
@@ -452,7 +448,6 @@
 6250681-ludc-adoube-son-initiative-sur-la-primaute-du-droit-suisse.html
 6251457-le-chef-decopop-denonce-lhypocrisie-de-ludc-et-de-la-gauche.html
 6251699-un-tiers-des-enseignants-suisses-sont-proches-du-burnout.html
-!6251865-un-total-de-20-des-enseignants-du-secondaire-se-disent-depasses-et-un-tiers-proche-du-burn-out.html
 6252144-ce-mois-doctobre-en-passe-de-devenir-le-plus-chaud-en-plaine-depuis-1864.html
 6253555-alain-berset-na-pas-sa-place-au-gouvernement-selon-philippe-roch-partisan-decopop.html
 6253634-seul-un-romand-sur-3-pretend-bien-parler-lallemand.html
@@ -836,7 +831,6 @@
 6457895-les-discussions-sur-le-secret-bancaire-sont-relancees.html
 6457942-six-cents-manifestants-pour-la-liberte-dexpression-a-lausanne-berne-et-sion.html
 6458021-la-concentration-limite-de-mercure-abaissee-pour-les-zones-dhabitation.html
-!6459674-la-bourse-suisse-a-perdu-867-apres-labandon-du-taux-plancher-le-minute-par-minute.html
 6459769-charlie-hebdo-senvole-en-quelques-minutes-dans-les-kiosques-suisses.html
 6459783-la-recherche-suisse-va-tirer-profit-du-tournant-energetique.html
 6459790-on-peut-consommer-a-son-insu-7-fois-plus-de-sucre-blanc-que-recommande.html
@@ -1308,7 +1302,6 @@
 6698250-les-douaniers-tessinois-ont-saisi-27-kg-de-cocaine-dans-une-porsche.html
 6699835-les-visites-damitie-francaises-doivent-se-transformer-en-actes.html
 6700372-la-mobilite-a-coute-95-milliards-de-francs-en-2010.html
-!6700818-francois-hollande-a-acheve-son-periple-helvetique-a-lausanne.html
 6701830-francois-hollande-attendu-en-suisse-pour-une-visite-historique.html
 6702244-dix-f5-tiger-defectueux-des-forces-aeriennes-vont-etre-mis-a-la-casse.html
 6704144-bientot-des-segways-et-des-velostaxis-sur-les-pistes-cyclables.html
@@ -1603,11 +1596,9 @@
 6848039-environ-80-des-fromages-au-lait-cru-ne-sont-pas-conformes-aux-exigences.html
 6848068-le-2e-tube-routier-au-gothard-est-une-erreur-selon-un-comite-bourgeois.html
 6848196-les-nouveaux-trains-a-deux-etages-des-cff-circuleront-des-2017.html
-!6848214-le-renforcement-du-renseignement-devant-le-parlement.html
 6848976-la-loi-pour-legalite-salariale-entre-hommes-et-femmes-retardee.html
 6848985-7000-signatures-pour-conserver-toutes-les-boites-aux-lettres-de-suisse.html
 6849166-ludc-se-plaint-du-manque-de-fiabilite-du-plr-et-du-pdc-dans-leur-alliance.html
-!6850552-fou-rire-de-geraldine-savary-en-plein-debat-au-conseil-des-etats.html
 6850695-la-rts-lance-tabula-rasa-le-jeu-web-ou-lon-cree-sa-suisse-ideale.html
 6851169-avec-la-nouvelle-lrtv-la-raiffeisen-ne-paierait-quune-fois-la-redevance.html
 6851259-les-tribunaux-voient-de-moins-en-moins-de-mineurs-a-la-barre.html
@@ -1636,7 +1627,6 @@
 6863095-le-cas-de-lazerbaidjanais-refugie-a-berne-est-exceptionnel.html
 6863952-le-ministre-de-leconomie-voyage-plus-en-helicoptere-que-ses-collegues.html
 6864018-allege-le-contreprojet-a-linitiative-des-verts-pourrait-etre-abandonne.html
-!6864084-la-lrtv-acceptee-par-quelques-milliers-de-voix-davance-le-suivi-en-direct.html
 6864780-les-suisses-acceptent-nettement-le-diagnostic-preimplantatoire.html
 6864789-non-ferme-a-un-impot-federal-sur-les-successions-au-profit-de-lavs.html
 6864795-la-revision-de-la-loi-radiotv-acceptee-dun-cheveu-grace-aux-romands.html
@@ -1658,7 +1648,6 @@
 6874774-les-chinois-escroques-avaient-confiance-parce-que-cetait-la-suisse.html
 6874813-le-tf-assouplit-sa-jurisprudence-face-aux-maladies-psychosomatiques.html
 6874931-les-cantons-romands-veulent-des-contingents-flexibles-en-matiere-dimmigration.html
-!6875100-suivi-de-loperation-politbox.html
 6875354-larmee-doit-toujours-sadapter-aux-nouvelles-menaces.html
 6875432-la-confederation-va-recuperer-130-millions-de-la-faillite-de-swissair.html
 6877597-consommateurs-mieux-proteges-face-aux-services-a-valeur-ajoutee.html

@@ -1,4 +1,3 @@
-!./
 10486312-au-coeur-du-sport-servette-fc-le-dernier-champion-romand-20-ans-apres.html
 10523726-au-coeur-du-sport-lea-sprunger-toujours-plus-vite-toujours-plus-grande.html
 1079480-linvite-stephane-lambiel.html
@@ -55,7 +54,6 @@
 1355647-linvitee-karin-thurig.html
 1723713-linvite-nassim-ben-khalifa.html
 1906215-linvite-fabio-celestini.html
-!2016103-linvite-claude-ryf.html
 2104547-linvite-alain-sutter-le-beckham-suisse.html
 2732434-linvite-stephane-bohli.html
 3861498-chapeau-monsieur-cuche.html
@@ -84,7 +82,6 @@
 6271148-revue-de-presse-gerd-zenhausern-redonne-la-flamme-aux-dragons.html
 6314899-revue-de-presse-la-suisse-fait-le-dos-rond-et-retient-son-souffle-jusqua-vendredi.html
 6316829-revue-de-presse-et-soudain-roger-federer-est-apparu.html
-!6319005-coupe-davis-la-veille-de-francesuisse-en-images.html
 6326532-revue-de-presse-wawrinka-et-federer-acclames-de-toutes-parts.html
 6333721-revue-de-presse-david-aebischer-bientot-a-geservette.html
 6340434-guy-boucher-le-cerveau-du-cp-berne.html
@@ -110,25 +107,12 @@
 7583756-anna-fenninger-lara-merite-amplement-de-gagner-ce-globe.html
 7607124-mayer-furrer-ma-un-peu-surpris.html
 7614094-retour-sur-le-mois-de-mars-2016-en-quelques-questions.html
-!7657061-coup-d-oeil-dans-le-retro-la-semaine-ecoulee-en-images-audios-et-videos.html
-!7671202-coup-d-oeil-dans-le-retro-la-semaine-ecoulee-en-images-audios-et-videos.html
 7675729-retour-sur-les-69-precedentes-editions-du-tour-de-romandie.html
-!7681063-coup-d-oeil-dans-le-retro-la-semaine-ecoulee-en-images-audios-et-videos.html
 7692312-retour-sur-le-mois-davril-2016-en-quelques-questions.html
-!7705292-coup-d-oeil-dans-le-retro-la-semaine-ecoulee-en-images-audios-et-videos.html
-!7717734-coup-d-oeil-dans-le-retro-la-semaine-ecoulee-en-images-audios-et-videos.html
-!7844643-coup-doeil-dans-le-retro-la-semaine-ecoulee-en-images-audios-et-videos.html
 7849288-retour-sur-le-mois-de-juin-2016-en-quelques-questions.html
 7851155-etesvous-incollable-sur-le-tour-de-france.html
-!7859259-coup-doeil-dans-le-retro-la-semaine-ecoulee-en-images-audios-et-videos.html
-!7882688-coup-doeil-dans-le-retro-la-semaine-ecoulee-en-images-audios-et-videos.html
-!7911943-coup-doeil-dans-le-retro-la-semaine-ecoulee-en-images-audios-et-videos.html
 7913837-retour-sur-le-mois-de-juillet-2016-en-quelques-questions.html
 7981477-rio-2016-avezvous-bien-suivi-les-jeux-olympiques.html
-!7989539-coup-doeil-dans-le-retro-la-semaine-ecoulee-en-images-audios-et-videos.html
-!8006277-coup-doeil-dans-le-retro-la-semaine-ecoulee-en-images-audios-et-videos.html
-!8020883-coup-doeil-dans-le-retro-la-semaine-ecoulee-en-images-audios-et-videos.html
-!8029599-coup-doeil-dans-le-retro-la-semaine-ecoulee-en-images-audios-et-videos.html
 8111738-retour-sur-le-mois-de-septembre-2016-en-quelques-questions.html
 8132929-retour-sur-le-mois-doctobre-2016-en-quelques-questions.html
 8230817-webserie-gavranovicbezina-renaissance-en-croatie.html

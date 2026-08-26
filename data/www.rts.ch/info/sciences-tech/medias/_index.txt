@@ -1,4 +1,3 @@
-!./
 10012493-cheesemaster-quand-un-simple-jeu-revele-des-donnees-personnelles.html
 10162339-les-escrocs-en-ligne-operent-aussi-sur-les-sites-de-prevention-antiarnaque.html
 10203440-le-quotidien-alemanique-blick-fete-60-ans-dexistence-entre-scandales-et-politique.html
@@ -110,10 +109,7 @@
 9367146-la-commission-de-la-concurrence-autorise-la-fusion-de-keystone-et-de-lats.html
 9384436-mediapart-contredit-tout-le-pessimisme-de-notre-secteur.html
 9394547-les-fake-news-se-propagent-plus-vite-que-les-vraies-informations-sur-internet.html
-!9424920-une-appli-rts-info-pour-haut-parleurs-connectes.html
-!9424920-une-appli-rts-info-pour-hautparleurs-connectes.html
 9437314-le-grand-jd-filme-la-crise-ecologique-pour-2-millions-dabonnes-youtube.html
-!9446128-rts-info-lance-la-premiere-application-media-pour-haut-parleurs-connectes.html
 9449051-un-androide-va-presenter-un-journal-televise-au-japon-des-le-mois-davril.html
 9507085-la-basler-zeitung-un-journal-proeuropeen-devenu-souverainiste.html
 9519894-tamedia-met-fin-avec-effet-immediat-a-sa-relation-avec-publicitas.html

@@ -383,7 +383,6 @@
 12094009-national-league-fribourggotteron-muet-a-zoug.html
 12097017-national-league-bienne-reussit-un-incroyable-retour-face-a-geneve.html
 12097020-national-league-le-lhc-simpose-en-fin-de-match-a-zurich.html
-!12098280-nhl-roman-josi-est-desormais-le-meilleur-pointeur-suisse.html
 12100029-national-league-geneve-se-qualifie-pour-les-playoffs-au-detriment-de-bienne.html
 12100172-national-league-fribourg-defiera-geneve-en-playoffs-le-lhc-face-a-zurich.html
 12100207-national-league-dernier-match-pour-ambripiotta-a-la-valascia.html
@@ -400,7 +399,6 @@
 12123162-nhl-roman-josi-seclate-face-a-tampa-bay.html
 12123608-hockey-la-suisse-affrontera-2-fois-la-france-a-bienne.html
 12126269-swiss-league-les-ajoulots-hazen-et-devos-dementent-avoir-signe-a-kloten.html
-!12127996-nhl-nino-niederreiter-passeur-decisif-contre-les-predators-de-roman-josi.html
 12128410-hockey-cinq-matches-de-preparation-avant-le-mondial.html
 12128490-swiss-league-ajoie-peut-rejoindre-lelite-du-hockey-pour-la-3e-fois.html
 12131764-nhl-carolina-bat-une-6e-fois-les-predators.html
@@ -534,7 +532,6 @@
 12449761-ligue-des-champions-deux-sur-deux-pour-fribourggotteron.html
 12456443-hockey-gaston-pelletier-nest-plus.html
 12457299-hockey-la-suisse-doit-se-contenter-de-la-4e-place.html
-!12459060-national-league-leonardo-genoni-designe-meilleur-gardien-de-la-saison.html
 12465220-pekin-2022-hockey-les-joueurs-de-nhl-seront-de-la-partie.html
 12470251-national-league-denis-malgin-signe-pour-quatre-ans-aux-zurich-lions.html
 12474877-national-league-bienne-gache-la-fete-a-ajoie.html
@@ -658,7 +655,6 @@
 12655117-national-league-geneveservette-perd-pour-la-premiere-de-cadieux.html
 12655119-national-league-ajoie-soffre-le-leader-davosien-fribourg-trop-fort-pour-langnau.html
 12656784-national-league-fribourg-simpose-a-davos-et-reprend-la-tete-du-championnat.html
-!12657194-national-league-ajoie-fesse-a-langnau.html
 12657217-national-league-geneveservette-renoue-avec-le-succes.html
 12658490-national-league-nouvelle-defaite-pour-le-lhc.html
 12659837-nhl-fiala-et-le-wild-arrachent-un-point.html
@@ -1106,7 +1102,6 @@
 13241903-nhl-denis-malgin-retourne-a-toronto.html
 13243132-hockey-equipe-de-suisse-hischier-et-kurashev-de-la-partie-a-cham.html
 13251317-national-league-bienne-engage-tout-de-meme-un-gardien-finlandais.html
-!13253415-national-league-la-vedette-finlandaise-markus-granlund-signe-a-lugano.html
 13260051-nhl-nino-niederreiter-rejoint-roman-josi-a-nashville.html
 13263289-nhl-tkachuk-chez-les-panthers-huberdeau-chez-les-flames.html
 13270446-nhl-jonas-siegenthaler-prolonge-de-5-ans-avec-les-devils.html
@@ -1147,7 +1142,6 @@
 13377179-national-league-la-saison-la-plus-competitive-de-lhistoire.html
 13379113-hockey-kahtrin-lehmann-premiere-femme-au-conseil-dadministration-de-la-fede-suisse.html
 13383685-national-league-rapperswil-domine-zurich-pour-louverture-de-la-saison.html
-!13387433-swiss-league-olten-en-favori-le-hcc-et-viege-en-outsiders.html
 13389509-national-league-lausanne-piege-a-domicile-par-bienne.html
 13391976-national-league-bienne-inflige-une-defaite-a-geneveservette.html
 13391986-national-league-un-solide-ajoie-soffre-fribourggotteron-lausanne-gagne-a-davos.html
@@ -1185,7 +1179,6 @@
 13448851-nhl-nashville-simpose-grace-a-un-double-de-niederreiter.html
 13448924-national-league-lugano-limoge-chris-mcsorley.html
 13449856-national-league-fribourg-perd-le-derby-des-zahringen-en-prolongation.html
-!13449863-swiss-league-les-gck-lions-et-bale-attirent-la-foule.html
 13456259-ligue-des-champions-fribourg-et-zoug-victorieux-en-conclusion-du-tour-preliminaire.html
 13456980-hockey-crise-a-hockey-canada-tous-les-dirigeants-demissionnent-en-bloc.html
 13458073-nhl-fiala-battu-pour-sa-grande-premiere-avec-les-kings.html
@@ -1584,7 +1577,6 @@
 14023177-hockey-mondial-2023-glauser-fait-taire-les-sceptiques-et-simion-a-trouve-la-clef-du-verrou.html
 14023178-hockey-mondial-2023-mon-but-nous-a-mis-en-confiance-dit-dario-simion.html
 14025042-hockey-mondial-2023-je-me-sens-en-pleine-forme-assure-kevin-fiala.html
-!14025679-hockey-mondial-2023-la-finlande-vaincue-par-la-suede.html
 14028900-hockey-mondial-2023-il-faut-louer-le-bon-forechecking-de-nos-attaquants-estime-geisser.html
 14028902-hockey-mondial-2023-riat-le-revenant-herzog-le-chanceux-et-geisser-fete-son-1er-but.html
 14031428-hockey-mondial-2023-on-a-loccasion-decrire-lhistoire-affirme-nico-hischier.html
@@ -1620,7 +1612,6 @@
 14056867-nhl-dallas-est-toujours-en-vie.html
 14057215-hockey-mondial-2023-un-bronze-historique-pour-la-lettonie.html
 14057638-hockey-mondial-2023-le-canada-titre-pour-la-28e-fois.html
-!14058669-hockey-le-canada-reprend-la-tete-la-suisse-toujours-7e.html
 14060648-nhl-vegas-terrasse-dallas-et-jouera-la-finale-de-la-coupe-stanley.html
 14092911-nhl-trois-pucks-de-titre-pour-vegas.html
 14096845-nhl-waeber-quitte-les-zurich-lions-pour-les-florida-panthers.html
@@ -2096,7 +2087,6 @@
 6563305-49e-journee.html
 6577535-38e-journee.html
 6577537-39e-journee.html
-!6577547-41e-journee.html
 6577550-42e-journee.html
 6577553-43e-journee.html
 6577558-44e-journee.html
@@ -2190,7 +2180,6 @@
 7382647-hockey-keaton-ellerby-en-renfort-a-gotteron.html
 7390835-ngoy-il-ny-a-pas-de-tricheurs-a-gotteron.html
 7403071-hockey-kevin-schlapfer-est-pour-linstant-toujours-lhomme-de-la-situation-au-hc-bienne.html
-!7445623-hockey-sur-glace-match-4-fribourg-geneve.html
 7467017-coupe-de-suisse-pas-dexploit-pour-lausanne-zurich-sacre.html
 7528361-hockey-lausanne-et-ambri-sont-condamnes-au-tour-de-relegation-kloten-et-berne-qualifies-pour-les-playoff.html
 7530057-nhl-streit-atteint-la-barre-des-400-points.html
@@ -2201,11 +2190,9 @@
 7567389-nhl-soiree-faste-pour-les-suisses.html
 7572300-nhl-une-deuxieme-etoile-pour-roman-josi.html
 7591964-nhl-et-de-50-pour-roman-josi.html
-!7599282-playoff-lna-finale-match-2-cp-berne-hc-lugano-en-direct.html
 7607953-nhl-le-90e-but-de-streit-et-le-record-de-josi.html
 7613674-nhl-un-cauchemar-pour-jonas-hiller-la-debandade-pour-le-canada.html
 7619138-playoffs-finale.html
-!7626369-playoffs-lna-finale-match-2-cp-berne-hc-lugano-en-direct.html
 7633224-nhl-roman-josi-offre-la-victoire-a-nashville-en-prolongation.html
 7641952-nhl-lannee-de-washington-enfin.html
 7656504-nhl-roman-josi-et-nashville-font-le-break.html
@@ -2333,7 +2320,6 @@
 8144462-hockey-la-suisse-sest-inclinee-23-face-a-lallemagne-dans-son-deuxieme-match-de-la-deutschland-cup.html
 8150274-hockey-ligue-des-champions-fribourg-arrache-la-qualification-en-prolongations.html
 8153697-hockey-lattaquant-obrist-23-ans-prolonge-de-2-ans-le-contrat-le-liant-a-kloten-soit-jusquen-201819.html
-!8154079-.html
 8154449-hockey-a-bienne-depuis-2014-matthias-rossi-portera-les-couleurs-de-fribourggotteron-la-saison-prochaine.html
 8156367-hockey-lna-andrei-bykov-reste-fidele-a-fribourggotteron.html
 8156469-hockey-lna-gaetan-haas-a-choisi-le-cp-berne.html

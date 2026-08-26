@@ -152,7 +152,6 @@
 4194229-deux-deces-dans-les-incendies-en-espagne-et-de-nouvelles-evacuations.html
 4194966-le-president-egyptien-decapite-larmee-et-lui-retire-du-pouvoir.html
 4196458-lattentat-commis-par-anders-breivik-a-oslo-aurait-pu-etre-evite.html
-!4200376-deux-ministres-japonais-se-sont-rendus-sur-le-tres-controverse-sanctuaire-de-yasukuni-a-tokyo.html
 4200531-lachat-de-donnees-bancaires-incite-les-fraudeurs-allemands-a-se-denoncer.html
 4201554-plus-de-2000-mafieux-arretes-en-2011-par-la-police-italienne.html
 4204205-lequateur-a-accepte-la-demande-dasile-du-fondateur-de-wikileaks.html
@@ -168,7 +167,6 @@
 4210512-pour-un-elu-republicain-le-veritable-viol-declenche-rarement-une-grossesse.html
 4211388-barack-obama-evoque-une-possible-intervention-militaire-en-syrie.html
 4214133-comment-new-york-espionne-ses-musulmans.html
-!4214201-le-president-roumain-traian-basescu-restera-chef-de-l-etat-a-decide-mardi-la-cour-constitutionnelle.html
 4214908-le-president-equatorien-demande-a-londres-de-retirer-ses-menaces.html
 4215848-affrontements-interethniques-meurtriers-au-kenya.html
 4216444-la-france-prend-des-mesures-pour-ameliorer-le-sort-des-roms.html
@@ -477,7 +475,6 @@
 4547200-plus-de-60000-personnes-tuees-en-syrie-depuis-le-debut-du-conflit.html
 4548121-barack-obama-ratifie-laccord-contre-le-mur-budgetaire.html
 4549199-plus-de-400-deces-dans-des-fusillades-aux-etatsunis-depuis-newtown.html
-!4549205-en-2012-141-journalistes-ont-ete-tues-dans-29-pays-indique-jeudi-l-association-press-emblem-campaign.html
 4550552-pluies-et-inondations-meurtrieres-pres-de-rio.html
 4550725-les-sarcasmes-contre-gerard-depardieu-gagnent-la-russie.html
 4551148-the-economist-caricature-barack-obama-en-francais-pour-sa-mauvaise-gestion.html
@@ -493,7 +490,6 @@
 4566581-les-venezueliens-dans-la-rue-pour-soutenir-le-president-chavez.html
 4567603-les-forces-francaises-ont-ete-engagees-au-mali-annonce-paris.html
 4567858-polemiques-et-phrases-chocs-du-debat-sur-le-mariage-homosexuel-en-france.html
-!4567950-arabie-saoudite-des-femmes-ont-ete-nommees-pour-la-premiere-fois-membres-du-conseil-consultatif.html
 4568547-lexpresentateur-de-la-bbc-jimmy-savile-etait-un-predateur-sexuel.html
 4570002-une-operation-militaire-francaise-en-somalie-tourne-au-fiasco.html
 4570134-une-centaine-dislamistes-auraient-ete-tues-au-mali-dans-des-combats.html
@@ -670,7 +666,6 @@
 4783612-lile-maurice-frappee-par-des-pluies-meurtrieres.html
 4783769-peu-despoir-pour-les-mineurs-ensevelis-dans-une-mine-de-cuivre-au-tibet.html
 4785563-laccusation-demandera-la-peine-de-mort-contre-le-tireur-daurora.html
-!4786640-une-loi-interdisant-la-mixite-des-9-ans-dans-les-ecoles-dans-la-bande-de-gaza-est-entree-en-vigueur.html
 4787657-apres-deux-deces-a-koh-lanta-lavenir-de-la-telerealite-en-france-est-menace.html
 4788532-lexministre-francais-jerome-cahuzac-avoue-avoir-un-compte-a-letranger.html
 4789143-le-premier-traite-international-sur-la-vente-darmes-adopte-a-lonu.html

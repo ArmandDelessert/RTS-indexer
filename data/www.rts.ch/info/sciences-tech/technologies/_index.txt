@@ -1,4 +1,3 @@
-!./
 10022918-facebook-se-lance-dans-les-rencontres-en-ligne-avec-sa-fonction-dating.html
 10052192-plus-de-50-de-la-population-mondiale-connectee-a-internet-selon-lonu.html
 10205433-apple-serre-la-vis-aux-applications-espionnes-qui-enregistrent-en-douce.html
@@ -245,9 +244,7 @@
 14635014-le-logiciel-espion-utilise-par-fedpol-est-un-secret-detat.html
 14662971-une-equipe-de-lepfl-met-au-point-un-verre-qui-produit-de-lelectricite.html
 14667188-des-muscles-artificiels-plus-legers-et-plus-surs-inventes-a-lepfz.html
-!2295333-yahoo-japan-va-adopter-le-moteur-de-recherche-de-google.html
 2748344-le-webshoring-delocaliser-les-emplois-sur-le-web.html
-!4091426-le-cloud-computing-source-de-nouveaux-soucis-de-securite.html
 8108595-une-cyberattaque-massive-a-perturbe-de-nombreux-sites-web-americains.html
 8109761-acrobaties-reussies-pour-un-vol-public-en-apesanteur-de-luni-de-zurich.html
 8336818-microsoft-conforte-dans-son-refus-de-transmettre-des-donnees.html

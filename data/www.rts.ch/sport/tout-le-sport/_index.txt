@@ -1,4 +1,3 @@
-!./
 10229520-laureus-sports-awards-novak-djokovic-et-simone-biles-honores.html
 10895586-ligue-des-champions-tous-les-resumes-et-les-buts-de-mardi.html
 10899310-ligue-des-champions-tous-les-resumes-et-les-buts-de-mercredi.html
@@ -40,7 +39,6 @@
 1291576-tdr-04-jan-svorada-remporte-la-1re-etape.html
 12921916-tennis-du-sursis-pour-alexander-zverev-apres-son-coup-de-sang.html
 1292278-super-league-moldovan-et-un-bresilien-au-servette-fc.html
-!1292303-.html
 1292304-football-christian-karembeu-signe-au-servette.html
 1292368-boncourt-est-champion.html
 12924431-atp-indian-wells-novak-djokovic-pourratil-jouer-aux-etatsunis.html
@@ -121,7 +119,6 @@
 14540791-novembre-une-qualification-sans-eclat-un-servette-fc-brillant-et-des-curleuses-insatiables.html
 14555907-decembre-ponti-fait-des-vagues-gremaud-passe-la-10e-et-odermatt-joue-les-patrons.html
 1963804-bale-et-young-boys-sont-prets-pour-la-finalissima.html
-!2079434-victoire-avec-panache-de-nicola-spirig-a-madrid.html
 2849261-wavre-et-paret-reprennent-le-large.html
 3054681-quinze-equipes-officiellement-inscrites-pour-2013.html
 3083497-une-equipe-rts-retenue-13-jours-au-qatar.html

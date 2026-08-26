@@ -771,7 +771,6 @@
 11690043-ligue-des-champions-paris-contre-ses-demons-la-juve-sans-son-ange-cr7.html
 11690067-super-league-les-balois-en-quarantaine-jusqua-dimanche.html
 11691453-ligue-des-champions-rashford-crucifie-encore-paris.html
-!11691511-super-league-deux-servettiens-positifs-au-covid19.html
 11692659-foot-speculation-et-polemique-autour-dun-nouveau-projet.html
 11694468-europa-league-yb-defie-la-roma-dans-la-tristesse.html
 11694470-ligue-des-champions-le-bayern-ne-laisse-aucune-chance-a-latletico.html
@@ -781,7 +780,6 @@
 11696689-foot-la-legende-pele-fete-son-80e-anniversaire.html
 11696741-super-league-pas-de-quarantaine-pour-le-servette-fc.html
 11697168-europa-league-young-boys-manque-le-coche-contre-la-roma.html
-!11697279-classement-fifa-la-suisse-nest-plus-dans-le-top10-europeen.html
 11697454-serie-a-cristiano-ronaldo-toujours-positif-au-covid19.html
 11697899-europa-league-arsenal-dans-la-douleur-les-joueurs-suisses-discrets.html
 11699299-coronavirus-huis-clos-pour-neuchatel-le-jura-et-berne-1000-spectateurs-dans-les-cantons-de-fribourg-vaud-et-geneve.html
@@ -833,13 +831,11 @@
 11759543-ligue-des-nations-suisseukraine-ne-se-jouera-pas-mais-qui-sortira-gagnant.html
 11761501-ligue-des-nations-joachim-low-dans-la-tourmente.html
 11761641-ligue-des-nations-la-belgique-et-litalie-accedent-au-final-four.html
-!11761952-ligue-des-nations-la-roumanie-bat-la-norvege-sur-tapis-vert.html
 11764059-foot-la-fifa-va-imposer-un-conge-maternite.html
 11764482-ligue-des-nations-tests-negatifs-pour-les-ukrainiens-qui-contreattaquent.html
 11768217-super-league-yb-montre-qui-est-le-patron-a-bale.html
 11769588-super-league-servette-et-sion-accroches.html
 11769589-super-league-nul-rageant-pour-lausanne-a-stgall.html
-!11769907-liga-le-barca-perd-pique-pour-plusieurs-mois.html
 11771913-super-league-les-clubs-et-la-sfl-adoptent-de-nouvelles-regles.html
 11773270-premier-league-nouvelle-blessure-musculaire-pour-shaqiri.html
 11773315-foot-le-sort-de-joachim-low-se-jouera-le-4-decembre.html
@@ -1045,7 +1041,6 @@
 12088724-qualifs-mondial-2022-pas-si-facile-pour-le-portugal-la-belgique-cartonne.html
 12090306-euro-2021-petkovic-devra-faire-son-choix-dici-au-1er-juin.html
 12090690-equipe-de-suisse-victoire-helvetique-en-amical-face-a-la-finlande.html
-!12090693-euro-m21-defaite-par-le-portugal-la-suisse-est-eliminee.html
 12090788-euro-2021-luefa-autorise-jusqua-5-changements-par-match.html
 12091518-qualifs-mondial-2022-lallemagne-sombre-en-sinclinant-contre-la-macedoine-du-nord.html
 12092810-euro-2020-vers-des-listes-de-25-ou-26-joueurs.html
@@ -1302,7 +1297,6 @@
 12303853-uefa-euro-2020-les-meilleurs-et-les-pires-aux-tirs-au-but.html
 12303880-uefa-euro-2020-litalie-bete-noire-de-lautriche.html
 12304297-18.html
-!12304327-uefa-euro-2020-lequipe-de-suisse-a-bucarest.html
 12305397-uefa-euro-2020-le-danemark-poursuit-son-reve.html
 12305398-uefa-euro-2020-litalie-evite-le-piege-autrichien.html
 12305411-uefa-euro-2020-belgiqueportugal-un-everest-des-les-8es.html
@@ -1475,7 +1469,6 @@
 12462421-equipe-de-suisse-le-deuxieme-test-pcr-de-granit-xhaka-est-positif.html
 12465175-qualifs-mondial-2022-une-suisse-amoindrie-pour-defier-litalie.html
 12466755-equipe-de-suisse-le-moment-ideal-pour-renouer-avec-la-victoire-face-a-litalie.html
-!12468038-murat-yakin-je-ne-pense-pas-que-ce-sera-le-match-decisif.html
 12468181-qualifs-mondial-2022-la-suisse-tient-les-champions-deurope-en-echec.html
 12468610-qualifs-mondial-2022-fabian-frei-titulaire-pour-son-retour.html
 12468806-qualifs-mondial-2022-bresilargentine-interrompu-definitivement-pour-violation-des-protocoles-anticovid.html
@@ -1529,7 +1522,6 @@
 12514252-super-league-sion-laisse-filer-deux-points.html
 12517176-foot-mondial-biennal-les-clubs-europeens-exigent-un-accord-avec-la-fifa.html
 12518098-bundesliga-itten-ouvre-son-compteur.html
-!12519309-premier-league-city-dompte-chelsea-united-se-rate.html
 12519401-super-league-pas-de-vainqueur-dans-le-derby-du-leman.html
 12519460-bundesliga-zakaria-offre-la-victoire-a-gladbach.html
 12520969-super-league-sion-prend-leau-chez-les-sauterelles.html
@@ -1838,8 +1830,6 @@
 12788979-ligue-1-zhegrova-dit-adieu-a-bale-et-rejoint-lille.html
 12789064-bundesliga-mehmedi-quitte-wolfsburg-pour-la-turquie.html
 12790663-bundesliga-sommer-detourne-deux-penalties-elvedi-marque-mais-gladbach-perd.html
-!12792368-ligue-1-petkovic-en-grand-danger.html
-!12792368-ligue-1-petkovic-sous-pression-apres-une-deroute-bordelaise.html
 12794136-bundesliga-yann-sommer-encore-une-fois-dans-le-onze-ideal.html
 12794880-fifa-awards-lewandowski-se-console-du-ballon-dor-double-pour-putellas.html
 12795285-equipe-de-suisse-la-suisse-ira-defier-langleterre-le-26-mars-a-wembley.html
@@ -2038,7 +2028,6 @@
 12979308-murat-yakin-seuls-les-resultats-nont-pas-suivi.html
 12979777-qualifs-coupe-du-monde-2022-ghana-senegal-maroc-tunisie-et-cameroun-qualifies.html
 12980847-qualifs-coupe-du-monde-2022-le-perou-decroche-la-place-de-barragiste.html
-!12981127-foot-la-fifa-laisse-son-mondial-biennal-sur-la-touche.html
 12981716-qualifs-coupe-du-monde-2022-legypte-porte-plainte-pour-racisme.html
 12982134-ligue-des-champions-le-barca-de-crnogorcevic-se-qualifie-devant-91553-spectateurs.html
 12983151-qualifs-coupe-du-monde-2022-le-mexique-et-les-etatsunis-iront-au-qatar.html
@@ -2107,7 +2096,6 @@
 13035310-foot-la-suisse-remonte-a-la-14e-place-au-classement-uefa.html
 13035379-coupe-de-suisse-un-vaillant-yverdon-vaincu-par-stgall.html
 13035502-premier-league-hamilton-et-serena-williams-parmi-les-repreneurs-potentiels-de-chelsea.html
-!13038045-ligue-des-champions-barcelone-et-crnogorcevic-ecrasent-wolfsburg-51-devant-une-affluence-record.html
 13039334-super-league-zurich-ecrase-sion-au-letzigrund.html
 13039336-super-league-servette-plie-au-wankdorf-face-a-yb.html
 13039375-premier-league-xhaka-et-arsenal-enfoncent-manchester-united.html
@@ -2175,7 +2163,6 @@
 13099946-premier-league-le-top4-seloigne-pour-arsenal.html
 13102386-euro-2025-la-candidature-suisse-se-concentre-sur-les-grands-stades.html
 13102443-europa-league-francfort-et-les-rangers-dans-le-brasier-de-seville.html
-!13103199-super-league-stocker-va-prendre-sa-retraite.html
 13104814-europa-league-francfort-et-sow-sacres-apres-les-penalties.html
 13107029-football-johan-djourou-nouveau-consultant-de-la-rts-pour-les-matches-de-lequipe-de-suisse.html
 13107317-super-league-un-double-vote-crucial-sur-lavenir-du-championnat.html
@@ -2204,7 +2191,6 @@
 13131377-ligue-des-champions-la-polemique-enfle.html
 13131555-super-leaguechallenge-league-lucerne-se-maintient-dans-lelite.html
 13131830-premier-league-nottingham-forest-retrouve-lelite-23-ans-apres.html
-!13133751-super-league-bruno-berner-nouvel-entraineur-de-winterthour.html
 13133984-euro-2022-la-suisse-ne-pourra-pas-compter-sur-alisha-lehmann.html
 13135316-premier-league-la-vente-de-chelsea-est-finalisee.html
 13135427-ligue-des-nations-roger-federer-a-rendu-visite-a-lequipe-de-suisse.html
@@ -2556,7 +2542,6 @@
 13406696-ligue-des-nations-la-france-se-rassure-et-bat-lautriche.html
 13408365-ligue-des-nations-langleterre-assommee-par-litalie-est-releguee.html
 13408373-ligue-des-nations-le-resultat-passera-avant-les-essais-pour-la-suisse.html
-!13408458-super-league-lentraineur-des-m21-assurera-linterim-a-zurich.html
 13410905-ligue-des-nations-une-victoire-historique-pour-la-suisse-en-espagne.html
 13411213-ligue-des-nations-la-suisse-avec-vargas-et-sow-seferovic-et-zakaria-sur-le-banc.html
 13411216-ligue-des-nations-akanji-jai-pu-aider-le-groupe-avec-un-but-et-un-assist.html
@@ -2564,7 +2549,6 @@
 13412636-ligue-des-nations-battue-au-danemark-la-france-sauve-tout-de-meme-sa-place.html
 13412906-ligue-des-nations-yakin-convoque-von-ballmoos-et-amdouni.html
 13413043-ligue-des-nations-manuel-akanji-et-yann-sommer-les-heros-de-saragosse.html
-!13415091-ligue-des-nations-litalie-se-console-et-participera-au-final-four.html
 13415335-ligue-des-nations-la-suisse-pour-terminer-le-travail.html
 13417355-football-la-star-iranienne-sardar-azmoun-defend-les-femmes-de-son-pays.html
 13418539-ligue-des-nations-la-suisse-bat-la-tchequie-et-assure-son-maintien-en-ligue-a.html
@@ -2659,7 +2643,6 @@
 13488944-ligue-1-contrat-record-a-630-millions-deuros-sur-3-ans-pour-mbappe.html
 13489373-fifa-mondial-feminin-2023-la-competition-sera-diffusee-sur-la-rts.html
 13490564-premier-league-unai-emery-au-chevet-daston-villa.html
-!13491747-prepa-mercredi-ligue-des-champions-le-barca-doit-esperer-un-miracle-pour-continuer-a-y-croire.html
 13491765-ligue-des-champions-tous-les-resumes-et-les-buts-de-mardi.html
 13493097-ligue-des-champions-city-sassure-la-1re-place-dortmund-la-qualification.html
 13494017-ligue-des-champions-le-barca-doit-esperer-un-miracle-pour-continuer-a-y-croire.html
@@ -2840,7 +2823,6 @@
 13582436-fifa-coupe-du-monde-2022-le-courage-a-manque-selon-murat-yakin.html
 13582505-fifa-coupe-du-monde-2022-le-drapeau-arcenciel-sinvite-sur-la-pelouse-de-portugaluruguay.html
 13582546-serie-a-le-conseil-dadministration-de-la-juventus-a-demissionne.html
-!13583716-les-mirages-du-qatar-episode-1-le-premier-mondial-neutre-en-carbone-de-lhistoire.html
 13584179-fifa-coupe-du-monde-2022-largentine-joue-sa-survie-contre-la-pologne-la-france-va-faire-tourner.html
 13584368-fifa-coupe-du-monde-2022-les-etatsunis-arrachent-leur-ticket-pour-les-8es.html
 13584383-fifa-coupe-du-monde-2022-le-senegal-mate-lequateur-et-rejoint-les-8es-de-finale-les-paysbas-se-qualifient-aussi.html
@@ -2905,7 +2887,6 @@
 13625432-fifa-coupe-du-monde-2022-portee-par-un-fabuleux-messi-largentine-jouera-dimanche-pour-le-titre-mondial.html
 13628602-fifa-coupe-du-monde-2022-la-france-met-fin-au-reve-marocain-et-pourra-viser-une-3e-etoile-dimanche.html
 13630653-fifa-coupe-du-monde-2022-liesse-en-france-apres-la-victoire-des-bleus-contre-le-maroc.html
-!13630838-les-mirages-du-qatar-episode-3-expatries-suisses-et-fierte-locale-le-qatari-way-of-life.html
 13631448-fifa-coupe-du-monde-2022-argentinefrance-jai-le-sentiment-que-cela-pourrait-se-decider-en-prolongation.html
 13632091-ligue-des-champions-le-fc-zurich-feminin-concede-une-5e-defaite-en-5-matches.html
 13632279-fifa-coupe-du-monde-2022-recours-du-maroc-contre-larbitrage-de-la-demifinale.html
@@ -3201,7 +3182,6 @@
 13983794-mls-chicago-contraint-au-nul-shaqiri-en-joker-sous-les-yeux-de-murat-yakin.html
 13983838-super-league-sion-et-zurich-dos-a-dos.html
 13983840-super-league-young-boys-decroche-son-16e-titre-de-champion.html
-!13984332-challenge-league-yverdon-accroche-aarau-se-rapproche-du-podium.html
 13984753-bundesliga-un-arbitre-menace-apres-une-erreur-defavorisant-dortmund.html
 13987240-super-league-nous-avons-livre-une-saison-fantastique-estime-raphael-wicky.html
 13988035-ligue-des-champions-dames-arsenal-elimine-une-seule-suissesse-en-finale.html
@@ -3493,7 +3473,6 @@
 14240370-ligue-des-champions-elimine-par-les-rangers-servette-jouera-leuropa-league.html
 14240400-supercoupe-deurope-un-duel-entre-les-suisses-akanji-et-sow.html
 14240411-fifa-mondial-feminin-2023-laustralie-pour-une-finale-de-reve-a-domicile.html
-!14241478-foot-neymar-quitte-le-psg-et-sengage-a-alhilal.html
 14241758-ligue-des-champions-on-ne-peut-pas-laisser-filer-de-telles-opportunites-souligne-rene-weiler.html
 14244306-fifa-mondial-feminin-2023-langleterre-brise-le-reve-australien-en-demifinales.html
 14244653-conference-league-lucerne-doit-retrouver-sa-verve-offensive-pour-renverser-hibernian.html
