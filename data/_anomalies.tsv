@@ -2,4 +2,12 @@ type	url	detail
 code_atypique	https://www.rts.ch/docs/podcasts/	erreur réseau
 code_atypique	https://www.rts.ch/info/suisse/11133609-la-session-interrompue-en-raison-de-la-lutte-contre-le-coronavirus.html	HTTP 500
 code_atypique	https://www.rts.ch/info/suisse/11133609-le-national-refuse-de-mieux-proteger-les-lanceurs-d-alerte.html	HTTP 500
+code_atypique	https://www.rts.ch/inhalt.htm	HTTP 406
+code_atypique	https://www.rts.ch/video/info/journal-continu/1967124-rts-info.html	erreur réseau
+code_atypique	https://www.rts.ch/willkommen.htm	HTTP 406
+doublon	https://www.rts.ch/breakups/	https://www.rts.ch/play/tv/emission/break-ups?id=5545939
+doublon	https://www.rts.ch/contrepied/	https://www.rts.ch/info/dossiers/2015/elections-federales/contre-pied/
+doublon	https://www.rts.ch/docs/	https://www.rts.ch/play/tv/categories/documentaires
+doublon	https://www.rts.ch/newsletters/13841603-decouvrez-les-newsletters-de-la-rts.html	https://www.rts.ch/newsletters/
+doublon	https://www.rts.ch/onenparle/	https://www.rts.ch/emissions/on-en-parle/
 hors_perimetre	https://www.rts.ch/datak/	https://www.datak.ch
