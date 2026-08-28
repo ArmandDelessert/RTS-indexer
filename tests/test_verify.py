@@ -668,3 +668,16 @@ def test_resolve_ids_identifiant_inconnu_repond_404_sans_redirection():
 
 def test_resolve_ids_vide_ne_sonde_rien():
     assert verify_module.resolve_ids([]) == {}
+
+
+def test_check_urls_journalise_la_progression(caplog):
+    """`import --check`/`anomalies --check` portent typiquement sur quelques
+    dizaines d'URLs — un pas fixe calqué sur VERIFY_PROGRESS_STEP (100)
+    resterait muet sur ce volume, d'où un pas adaptatif."""
+    urls = [f"https://www.rts.ch/info/suisse/2026/article/x-{i}.html" for i in range(20)]
+    with caplog.at_level("INFO"):
+        verify_module.check_urls(urls, transport=httpx.MockTransport(lambda _: httpx.Response(200)))
+
+    messages = [m for m in caplog.messages if m.startswith("sondage :")]
+    assert messages  # au moins un message pour 20 URLs (pas de 2)
+    assert "/20 (" in messages[-1]

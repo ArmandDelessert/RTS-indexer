@@ -18,6 +18,7 @@ import asyncio
 import json
 import logging
 import re
+import time
 from pathlib import Path
 
 import httpx
@@ -41,6 +42,22 @@ _RAW_URL = re.compile(r"""https?://(?:www\.)?rts\.ch/[^"'\s<>\\)&]+""")
 #: Réexporté pour ne pas casser les imports existants ; l'implémentation vit
 #: dans net.py depuis que `verify` en a besoin elle aussi.
 RateLimiter = net.RateLimiter
+
+
+def _duree(secondes: float) -> str:
+    """Durée lisible : ``2 h 05 min``, ``4 min 12 s``, ``8 s``.
+
+    Doublon volontaire de l'équivalent dans verify.py/cli.py plutôt qu'un
+    module partagé pour une fonction de cette taille (voir la justification
+    dans verify.py).
+    """
+    if secondes < 60:
+        return f"{secondes:.0f} s"
+    minutes, sec = divmod(int(secondes), 60)
+    if minutes < 60:
+        return f"{minutes} min {sec:02d} s"
+    heures, minutes = divmod(minutes, 60)
+    return f"{heures} h {minutes:02d} min"
 
 
 def _extract(url: str, document: str) -> list[str]:
@@ -82,6 +99,7 @@ class Crawler:
         self.fetched = 0
         self.from_cache = 0
         self.discovered = 0
+        self._debut = 0.0
 
     # -- cache ---------------------------------------------------------------
 
@@ -179,6 +197,25 @@ class Crawler:
             # (350 pages, ~13'600 URLs) sur une seule page au slug démesuré.
             log.exception("erreur inattendue en traitant %s, page ignorée", url)
 
+    def _progression(self) -> str:
+        """``150/500 (30%), 4 min 12 s écoulées, ~9 min 48 s restantes`` quand
+        un budget de pages est fixé ; un simple compteur sinon (``--max-pages
+        0`` = illimité, aucun total à afficher). Même logique que
+        Verifier._progression() : estimation qui suppose un débit constant,
+        approximative mais mieux qu'un silence total sur un run de plusieurs
+        heures.
+        """
+        if self.max_pages <= 0:
+            return f"{self.fetched} pages visitées"
+        pct = 100 * self.fetched / self.max_pages
+        ecoule = time.monotonic() - self._debut
+        resultat = f"{self.fetched}/{self.max_pages} ({pct:.0f}%), {_duree(ecoule)} écoulées"
+        if 0 < self.fetched < self.max_pages and ecoule > 0:
+            taux = self.fetched / ecoule
+            restant = (self.max_pages - self.fetched) / taux
+            resultat += f", ~{_duree(restant)} restantes"
+        return resultat
+
     def _checkpoint(self) -> None:
         """Écrit l'index et le cache accumulés à intervalles réguliers.
 
@@ -196,7 +233,11 @@ class Crawler:
         except Exception:
             log.exception("échec du checkpoint à %d pages, le crawl continue", self.fetched)
         else:
-            log.info("checkpoint: %d URLs écrites sur disque", self.store.stats()["urls"])
+            log.info(
+                "checkpoint (écrit sur disque) : %s, %d URLs dans l'index",
+                self._progression(),
+                self.store.stats()["urls"],
+            )
 
     def _process(self, url: str, entry: dict, response: httpx.Response) -> None:
         if response.status_code == 304:
@@ -206,6 +247,15 @@ class Crawler:
             return
         if response.status_code >= 400:
             log.warning("%s: HTTP %d", url, response.status_code)
+            # 410 est une suppression explicite : verify() lui-même ne le
+            # retente jamais (cf. VERIFY_RETRY_CODES), pas de raison d'attendre
+            # le prochain verify pour poser le sigil alors qu'on a la réponse
+            # sous la main. 404 reste volontairement intact : sans second avis
+            # différé comme verify(), un seul essai n'est pas une preuve
+            # suffisante (incident passager possible) — cf. la même prudence
+            # dans Verifier._check().
+            if response.status_code in config.VERIFY_DEAD_CODES - config.VERIFY_RETRY_CODES:
+                self.store.add(url, dead=True)
             return
 
         links = _extract(url, response.text)
@@ -217,13 +267,14 @@ class Crawler:
         self._record(links)
         if self.fetched % 50 == 0:
             log.info(
-                "%d pages visitées, %d en file, %d URLs découvertes",
-                self.fetched,
+                "%s, %d en file, %d URLs découvertes",
+                self._progression(),
                 self.queue.qsize(),
                 self.discovered,
             )
 
     async def run(self, seeds: list[str]) -> None:
+        self._debut = time.monotonic()
         self.load_cache()
         # robots.fetch est synchrone : on le résout avant de lancer la boucle
         # d'événements plutôt que de la bloquer depuis un worker.

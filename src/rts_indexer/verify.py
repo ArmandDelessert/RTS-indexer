@@ -103,6 +103,29 @@ def _duree(secondes: float) -> str:
     return f"{heures} h {minutes:02d} min"
 
 
+def _formatte_progression(fait: int, total: int, debut: float) -> str:
+    """``2450/7300 (34%), 12 min 03 s écoulées, ~23 min restantes``.
+
+    Partagée entre :meth:`Verifier._progression` et :func:`_sonder` : même
+    calcul, deux appelants (un objet avec état, une coroutine sans état) —
+    le dupliquer une seconde fois n'aurait rien justifié, contrairement à
+    :func:`_duree` face à cli.py (voir sa docstring).
+
+    L'estimation restante suppose un débit constant, ce qui n'est vrai qu'en
+    gros : elle ne voit ni les seconds avis, ni les ralentissements réseau.
+    Une approximation affichée vaut mieux qu'un silence total sur un run qui
+    peut durer des heures.
+    """
+    pct = 100 * fait / total if total else 100
+    ecoule = time.monotonic() - debut
+    resultat = f"{fait}/{total} ({pct:.0f}%), {_duree(ecoule)} écoulées"
+    if 0 < fait < total and ecoule > 0:
+        taux = fait / ecoule
+        restant = (total - fait) / taux
+        resultat += f", ~{_duree(restant)} restantes"
+    return resultat
+
+
 class Verifier:
     def __init__(
         self,
@@ -310,21 +333,7 @@ class Verifier:
             log.info("de nouveau vivante (HTTP %d): %s", status, url)
 
     def _progression(self) -> str:
-        """``2450/7300 (34%), 12 min 03 s écoulées, ~23 min restantes``.
-
-        L'estimation restante suppose un débit constant, ce qui n'est vrai
-        qu'en gros : elle ne voit ni les seconds avis, ni les ralentissements
-        réseau. Une approximation affichée vaut mieux qu'un silence total sur
-        un run qui peut durer des heures.
-        """
-        pct = 100 * self.checked / self._total if self._total else 100
-        ecoule = time.monotonic() - self._debut
-        resultat = f"{self.checked}/{self._total} ({pct:.0f}%), {_duree(ecoule)} écoulées"
-        if 0 < self.checked < self._total and ecoule > 0:
-            taux = self.checked / ecoule
-            restant = (self._total - self.checked) / taux
-            resultat += f", ~{_duree(restant)} restantes"
-        return resultat
+        return _formatte_progression(self.checked, self._total, self._debut)
 
     def _checkpoint(self) -> None:
         try:
@@ -442,12 +451,20 @@ async def _sonder(
     urls: list[str], transport: httpx.AsyncBaseTransport | None = None
 ) -> dict[str, Verdict]:
     resultats: dict[str, Verdict] = {}
+    total = len(urls)
+    debut = time.monotonic()
+    traites = 0
+    # Vise ~10 messages quel que soit le volume : un pas fixe (comme les 100
+    # de VERIFY_PROGRESS_STEP) resterait muet sur les petits lots d'`import`
+    # (quelques dizaines d'URLs, le cas courant) et spammerait sur les gros.
+    pas = max(1, min(50, total // 10)) if total else 1
     limiter = net.RateLimiter(config.VERIFY_MIN_INTERVAL)
     file: asyncio.Queue[str] = asyncio.Queue()
     for url in urls:
         file.put_nowait(url)
 
     async def worker(http: httpx.AsyncClient) -> None:
+        nonlocal traites
         while True:
             try:
                 url = file.get_nowait()
@@ -462,6 +479,9 @@ async def _sonder(
             except httpx.HTTPError as exc:
                 log.warning("%s: %s", url, exc)
                 resultats[url] = (None, None)
+            traites += 1
+            if traites % pas == 0:
+                log.info("sondage : %s", _formatte_progression(traites, total, debut))
 
     async with net.async_client(transport=transport) as http:
         await asyncio.gather(*[worker(http) for _ in range(config.MAX_CONCURRENCY)])

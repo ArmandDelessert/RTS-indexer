@@ -137,6 +137,62 @@ def test_seules_les_rubriques_sont_telechargees(tmp_path):
     assert not any(path.endswith(".html") for path in visites)
 
 
+def test_410_marque_mort_immediatement(tmp_path):
+    """410 est une suppression explicite : verify() lui-même ne le retente
+    jamais, pas de raison d'attendre le prochain verify pour poser le sigil
+    alors que crawl vient de faire la requête."""
+    import asyncio
+
+    pages = dict(PAGES)
+    pages["/"] += '<a href="/rubrique-410/">morte</a>'
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        if request.url.path == "/rubrique-410/":
+            return httpx.Response(410)
+        body = pages.get(request.url.path)
+        if body is None:
+            return httpx.Response(404)
+        return httpx.Response(200, html=body, headers={"ETag": f'"{request.url.path}"'})
+
+    crawler = _crawler(tmp_path, transport=httpx.MockTransport(handler))
+    asyncio.run(crawler.run(["https://www.rts.ch/"]))
+
+    assert dict(crawler.store.urls())["https://www.rts.ch/rubrique-410/"] is True
+
+
+def test_404_ne_marque_pas_mort_sans_second_avis(tmp_path):
+    """Contrairement au 410 : un seul 404 pendant le crawl ne suffit pas.
+    Sans second avis différé comme Verifier._check(), ce n'est pas une preuve
+    suffisante — laissé au prochain verify."""
+    import asyncio
+
+    pages = dict(PAGES)
+    pages["/"] += '<a href="/rubrique-404/">morte</a>'
+    # /rubrique-404/ n'a pas de page définie -> le handler par défaut renvoie 404.
+
+    crawler = _crawler(tmp_path, transport=_transport(pages=pages))
+    asyncio.run(crawler.run(["https://www.rts.ch/"]))
+
+    assert dict(crawler.store.urls())["https://www.rts.ch/rubrique-404/"] is False
+
+
+def test_progression_avec_budget(tmp_path):
+    import time
+
+    crawler = _crawler(tmp_path, max_pages=100)
+    crawler._debut = time.monotonic() - 100
+    crawler.fetched = 25
+
+    assert crawler._progression() == "25/100 (25%), 1 min 40 s écoulées, ~5 min 00 s restantes"
+
+
+def test_progression_sans_budget_illimite(tmp_path):
+    crawler = _crawler(tmp_path, max_pages=0)
+    crawler.fetched = 7
+
+    assert crawler._progression() == "7 pages visitées"
+
+
 def test_une_url_trop_longue_ne_fait_pas_echouer_le_crawl(tmp_path):
     """Incident réel : une page Play au slug démesuré faisait planter
     `asyncio.gather` et perdre tout le crawl, faute d'être rattrapée jusqu'à
