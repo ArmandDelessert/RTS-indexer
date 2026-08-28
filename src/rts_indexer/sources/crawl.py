@@ -182,11 +182,21 @@ class Crawler:
             headers["If-Modified-Since"] = entry["last_modified"]
 
         await limiter.wait()
-        try:
-            response = await http.get(url, headers=headers)
-        except httpx.HTTPError as exc:
-            log.warning("%s: %s", url, exc)
-            return
+        for essai in range(config.CRAWL_ATTEMPTS):
+            try:
+                response = await http.get(url, headers=headers)
+            except httpx.HTTPError as exc:
+                log.warning("%s: %s", url, exc)
+                return
+            if response.status_code not in config.VERIFY_RETRY_CODES or essai == config.CRAWL_ATTEMPTS - 1:
+                break
+            # 404 seulement (cf. VERIFY_RETRY_CODES) : peut être transitoire.
+            # Un second essai n'est jamais du travail perdu — confirmé, on
+            # gagne un sigil immédiat (_process gère les deux issues) ;
+            # transitoire, la page se traite normalement à ce second essai.
+            log.debug("%s: HTTP %d, second essai dans %.0fs", url, response.status_code, config.CRAWL_RETRY_DELAY)
+            await asyncio.sleep(config.CRAWL_RETRY_DELAY)
+            await limiter.wait()
 
         try:
             self._process(url, entry, response)
@@ -247,14 +257,13 @@ class Crawler:
             return
         if response.status_code >= 400:
             log.warning("%s: HTTP %d", url, response.status_code)
-            # 410 est une suppression explicite : verify() lui-même ne le
-            # retente jamais (cf. VERIFY_RETRY_CODES), pas de raison d'attendre
-            # le prochain verify pour poser le sigil alors qu'on a la réponse
-            # sous la main. 404 reste volontairement intact : sans second avis
-            # différé comme verify(), un seul essai n'est pas une preuve
-            # suffisante (incident passager possible) — cf. la même prudence
-            # dans Verifier._check().
-            if response.status_code in config.VERIFY_DEAD_CODES - config.VERIFY_RETRY_CODES:
+            # 410 est une suppression explicite (verify() lui-même ne le
+            # retente jamais, cf. VERIFY_RETRY_CODES) ; un 404 arrivé ici a
+            # déjà survécu au second essai de _visit() (sinon on ne serait
+            # pas dans cette branche). Dans les deux cas, pas de raison
+            # d'attendre le prochain verify pour poser le sigil alors qu'on a
+            # la réponse sous la main.
+            if response.status_code in config.VERIFY_DEAD_CODES:
                 self.store.add(url, dead=True)
             return
 

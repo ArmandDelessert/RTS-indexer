@@ -124,6 +124,14 @@ CRAWL_IDLE_TIMEOUT = 2.0
 CRAWL_CHECKPOINT_PAGES = 200
 #: Fichier de curseur pour la rotation des graines (cf. crawl.select_seeds).
 CRAWL_SEED_CURSOR_FILE = "crawl_seed_cursor.json"
+#: Nombre d'essais avant de faire confiance à un code de VERIFY_RETRY_CODES
+#: (404 : peut être transitoire). Même principe que le second avis de
+#: Verifier, mais sans sa file différée (le worker abandonnerait la file
+#: avant l'échéance) : le second essai a lieu directement dans _visit(),
+#: immobilisant un seul worker plutôt que d'attendre en arrière-plan — d'où
+#: un délai bien plus court que VERIFY_RETRY_DELAY.
+CRAWL_ATTEMPTS = 2
+CRAWL_RETRY_DELAY = 5.0
 
 # --- Contrôle de vivacité (verify) ------------------------------------------
 

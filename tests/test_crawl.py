@@ -66,6 +66,7 @@ def _site_en_chaine(n: int) -> dict[str, str]:
 def _sans_attente(monkeypatch):
     monkeypatch.setattr(config, "CRAWL_MIN_INTERVAL", 0.0)
     monkeypatch.setattr(config, "CRAWL_IDLE_TIMEOUT", 0.1)
+    monkeypatch.setattr(config, "CRAWL_RETRY_DELAY", 0.0)
 
 
 def _crawler(tmp_path, store=None, **kwargs):
@@ -160,20 +161,47 @@ def test_410_marque_mort_immediatement(tmp_path):
     assert dict(crawler.store.urls())["https://www.rts.ch/rubrique-410/"] is True
 
 
-def test_404_ne_marque_pas_mort_sans_second_avis(tmp_path):
-    """Contrairement au 410 : un seul 404 pendant le crawl ne suffit pas.
-    Sans second avis différé comme Verifier._check(), ce n'est pas une preuve
-    suffisante — laissé au prochain verify."""
+def test_404_confirme_par_second_essai_marque_mort(tmp_path):
+    """Un 404 qui persiste au second essai est une preuve suffisante — même
+    logique que VERIFY_RETRY_CODES : un seul essai ne l'est pas, deux le sont."""
     import asyncio
 
     pages = dict(PAGES)
     pages["/"] += '<a href="/rubrique-404/">morte</a>'
-    # /rubrique-404/ n'a pas de page définie -> le handler par défaut renvoie 404.
+    # /rubrique-404/ n'a pas de page définie -> le handler par défaut renvoie 404,
+    # aux deux essais.
 
     crawler = _crawler(tmp_path, transport=_transport(pages=pages))
     asyncio.run(crawler.run(["https://www.rts.ch/"]))
 
-    assert dict(crawler.store.urls())["https://www.rts.ch/rubrique-404/"] is False
+    assert dict(crawler.store.urls())["https://www.rts.ch/rubrique-404/"] is True
+
+
+def test_404_transitoire_se_retablit_au_second_essai(tmp_path):
+    """Un 404 passager (déploiement, blip serveur) ne doit pas coûter la
+    page : le second essai la traite normalement, comme si de rien n'était."""
+    import asyncio
+
+    appels: dict[str, int] = {}
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        if request.url.path == "/rubrique-transitoire/":
+            appels["n"] = appels.get("n", 0) + 1
+            if appels["n"] == 1:
+                return httpx.Response(404)
+            return httpx.Response(200, html='<a href="/rubrique-transitoire/2026/article/x-1.html">x</a>')
+        body = PAGES.get(request.url.path)
+        if body is None:
+            return httpx.Response(404)
+        return httpx.Response(200, html=body, headers={"ETag": f'"{request.url.path}"'})
+
+    crawler = _crawler(tmp_path, transport=httpx.MockTransport(handler))
+    asyncio.run(crawler.run(["https://www.rts.ch/", "https://www.rts.ch/rubrique-transitoire/"]))
+
+    urls = dict(crawler.store.urls())
+    assert urls["https://www.rts.ch/rubrique-transitoire/"] is False  # vivante, pas morte
+    assert "https://www.rts.ch/rubrique-transitoire/2026/article/x-1.html" in urls
+    assert appels["n"] == 2  # le second essai a bien eu lieu
 
 
 def test_progression_avec_budget(tmp_path):
