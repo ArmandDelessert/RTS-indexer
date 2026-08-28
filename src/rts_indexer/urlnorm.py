@@ -14,7 +14,7 @@ from __future__ import annotations
 import posixpath
 import re
 import string
-from urllib.parse import parse_qs, unquote, urljoin, urlsplit
+from urllib.parse import unquote, urljoin, urlsplit
 
 from . import config
 
@@ -156,35 +156,6 @@ def _is_html_leaf(leaf: str) -> bool:
     return ext in config.HTML_EXTENSIONS
 
 
-#: Identifiant en fin de valeur ``urn`` (ex. ``urn:rts:video:2045231`` -> ``2045231``).
-_URN_ID = re.compile(r":(\d+)$")
-
-
-def _play_id_from_query(path: str, query: str) -> str | None:
-    """Identifiant RTS extrait de ``?id=<n>`` ou ``?urn=urn:rts:...:<n>`` sur
-    une URL ``/play/``.
-
-    RTS Play route son contenu sur ce paramètre, que ``normalize()`` retire
-    partout ailleurs (aucune query string dans une URL canonique). Plutôt que
-    de perdre l'information, on la convertit en ``https://www.rts.ch/a/<id>/``
-    — le même identifiant, résolu vers la bonne page par RTS lui-même, sans
-    dépendre d'un paramètre qu'on ne conserve jamais.
-    """
-    stripped = path.strip("/")
-    if stripped != "play" and not stripped.startswith("play/"):
-        return None
-    params = parse_qs(query)
-    id_values = params.get("id")
-    if id_values and id_values[0].isdigit():
-        return id_values[0]
-    urn_values = params.get("urn")
-    if urn_values:
-        m = _URN_ID.search(urn_values[0])
-        if m:
-            return m.group(1)
-    return None
-
-
 def normalize(raw: str, base: str | None = None) -> str | None:
     """Retourne l'URL canonique, ou ``None`` si elle est hors périmètre.
 
@@ -224,11 +195,6 @@ def normalize(raw: str, base: str | None = None) -> str | None:
 
     path = _decode_unreserved(path)
     path = _decode_percent_utf8(path)
-
-    if parts.query:
-        play_id = _play_id_from_query(path, parts.query)
-        if play_id is not None:
-            return f"https://{host}/a/{play_id}/"
 
     # Résout `.`, `..` et les slashes doublés. normpath supprime le slash final,
     # qui est réappliqué plus bas selon la nature du segment terminal.

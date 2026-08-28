@@ -127,26 +127,19 @@ def test_play_hors_liste_blanche_rejete():
     assert normalize("https://www.rts.ch/play/radio/emission/cqfd/") is None
 
 
-def test_play_avec_urn_resolu_vers_a_id():
+def test_play_avec_id_ou_urn_reste_rejete():
+    """Incident réel évité : convertir ces URLs en https://www.rts.ch/a/<id>/
+    semblait capturer du contenu réel, mais RTS redirige /a/<id> vers cette
+    même URL paramétrée — normalize() la reconvertirait donc vers le même
+    /a/<id>/, un doublon d'elle-même que resolve_doublons() supprimerait
+    sans rien y substituer (cible == url). La query string ne change donc
+    rien : ces URLs suivent la même règle que les autres (retirée, puis
+    chemin nu jugé sur la liste blanche)."""
     assert normalize(
         "https://www.rts.ch/play/tv/rts-education/video/les-plantes-communiquent-elles"
         "?urn=urn:rts:video:2045231"
-    ) == "https://www.rts.ch/a/2045231/"
-
-
-def test_play_avec_id_resolu_vers_a_id():
-    assert (
-        normalize("https://www.rts.ch/play/tv/emission/b-r-i-c-o--club?id=4707419")
-        == "https://www.rts.ch/a/4707419/"
-    )
-
-
-def test_id_urn_ignores_hors_de_play():
-    """Le raccourci /a/<id> n'a de sens que pour /play/ ; ailleurs, id/urn
-    restent de simples paramètres de query, retirés comme d'habitude."""
-    assert normalize("https://www.rts.ch/info/suisse/x.html?id=123") == (
-        "https://www.rts.ch/info/suisse/x.html"
-    )
+    ) is None
+    assert normalize("https://www.rts.ch/play/tv/emission/b-r-i-c-o--club?id=4707419") is None
 
 
 def test_play_liste_blanche_acceptee():
