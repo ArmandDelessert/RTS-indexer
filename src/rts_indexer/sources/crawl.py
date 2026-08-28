@@ -252,8 +252,13 @@ class Crawler:
     def _process(self, url: str, entry: dict, response: httpx.Response) -> None:
         if response.status_code == 304:
             # Page inchangée : on rejoue les liens mémorisés, sans re-parser.
+            # Repassés par normalize() : un lien mis en cache a pu depuis
+            # sortir du périmètre (ex. l'exclusion de RTS Play, commit
+            # 0ba98615) — le cache ETag ne le sait pas, un 304 rejouerait
+            # sinon indéfiniment des URLs qu'on vient d'exclure, jusqu'à ce
+            # que la page change assez pour perdre son ETag.
             self.from_cache += 1
-            self._record(entry.get("links", []))
+            self._record(urlnorm.normalize_many(entry.get("links", [])))
             return
         if response.status_code >= 400:
             log.warning("%s: HTTP %d", url, response.status_code)

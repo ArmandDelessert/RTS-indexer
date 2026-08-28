@@ -397,6 +397,42 @@ def test_second_run_utilise_le_cache(tmp_path):
     assert {url for url, _ in second.store.urls()} == attendu
 
 
+def test_304_rejoue_les_liens_mais_les_re_normalise(tmp_path):
+    """Incident réel : un lien mis en cache avant un changement de règle de
+    normalize() (ex. l'exclusion de RTS Play, commit 0ba98615) resurgissait
+    indéfiniment via un 304 — le cache ETag n'a aucune idée que la règle a
+    changé, et rejouer les liens tels quels les faisait passer à côté du
+    filtre qui venait justement de les exclure."""
+    import asyncio
+
+    cache_dir = tmp_path / "cache"
+    premier = _crawler(tmp_path, cache_dir=cache_dir)
+    # Simule un lien mis en cache avant que `img.rts.ch` ne soit hors périmètre
+    # (ou toute autre règle future) : présent dans le cache, mais que
+    # normalize() rejetterait aujourd'hui.
+    premier.cache["https://www.rts.ch/"] = {
+        "etag": '"/"',
+        "last_modified": None,
+        "links": ["https://www.rts.ch/info/suisse/", "https://img.rts.ch/x.image"],
+    }
+    premier.save_cache()
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        if request.url.path == "/" and request.headers.get("If-None-Match"):
+            return httpx.Response(304)
+        body = PAGES.get(request.url.path)
+        if body is None:
+            return httpx.Response(404)
+        return httpx.Response(200, html=body, headers={"ETag": f'"{request.url.path}"'})
+
+    second = _crawler(tmp_path, cache_dir=cache_dir, transport=httpx.MockTransport(handler))
+    asyncio.run(second.run(["https://www.rts.ch/"]))
+
+    urls = {url for url, _ in second.store.urls()}
+    assert "https://img.rts.ch/x.image" not in urls
+    assert "https://www.rts.ch/info/suisse/" in urls
+
+
 # -- rotation des graines ------------------------------------------------
 
 
