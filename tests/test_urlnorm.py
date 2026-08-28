@@ -117,6 +117,22 @@ def test_resolution_relative_pendant_le_crawl():
     assert normalize("//www.rts.ch/info/", base) == "https://www.rts.ch/info/"
 
 
+def test_play_hors_liste_blanche_rejete():
+    """RTS Play route son contenu sur un paramètre (?urn=/?id=) toujours
+    retiré par normalize() ; sans liste blanche, ces URLs seraient indexées
+    cassées (redirection vers /play/not-found)."""
+    assert normalize("https://www.rts.ch/play/tv/emission/1-jour-1-question/") is None
+    assert normalize("https://www.rts.ch/play/tv/rts-education/video/x?urn=urn:rts:video:1") is None
+    assert normalize("https://www.rts.ch/play/") is None
+    assert normalize("https://www.rts.ch/play/radio/emission/cqfd/") is None
+
+
+def test_play_liste_blanche_acceptee():
+    assert normalize("https://www.rts.ch/play/tv") == "https://www.rts.ch/play/tv/"
+    assert normalize("https://www.rts.ch/play/tv/aide") == "https://www.rts.ch/play/tv/aide/"
+    assert normalize("https://www.rts.ch/play/recherche/") == "https://www.rts.ch/play/recherche/"
+
+
 def test_normalize_many_deduplique_en_preservant_l_ordre():
     urls = normalize_many(
         [

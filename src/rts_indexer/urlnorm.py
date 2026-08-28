@@ -38,6 +38,45 @@ _PCT = re.compile(r"%([0-9A-Fa-f]{2})")
 #: UTF-8 complet (voir :func:`_decode_percent_utf8`).
 _PCT_RUN = re.compile(r"(?:%[0-9A-Fa-f]{2})+")
 
+#: RTS Play route son contenu (articles, épisodes) sur un identifiant passé en
+#: paramètre de requête (``?urn=...`` ou ``?id=...``), toujours retiré par cette
+#: normalisation — indexer ces URLs revient donc à indexer des pages cassées
+#: (redirection vers ``/play/not-found``). Confirmé par sondage direct sur la
+#: quasi-totalité de ``/play/`` (129'068 URLs sur 129'069 lors de l'audit).
+#: Seules ces pages statiques, qui ne dépendent d'aucun paramètre, sont
+#: réellement fonctionnelles ; tout le reste de ``/play/`` est exclu du
+#: périmètre plutôt que d'être indexé pour finir mort.
+_PLAY_ALLOWLIST = frozenset(
+    {
+        "play/embed",
+        "play/legacy-browser",
+        "play/recherche",
+        "play/tv",
+        "play/tv/agid",
+        "play/tv/aide",
+        "play/tv/configuraziuns",
+        "play/tv/einstellungen",
+        "play/tv/emissions",
+        "play/tv/emissiuns",
+        "play/tv/favorite-guide-shows",
+        "play/tv/favorite-guide-topics",
+        "play/tv/guida",
+        "play/tv/hilfe",
+        "play/tv/i-miei-video",
+        "play/tv/impostazioni",
+        "play/tv/meine-videos",
+        "play/tv/mes-videos",
+        "play/tv/parametres",
+        "play/tv/popupvideoplayer",
+        "play/tv/programme-par-chaine",
+        "play/tv/programmi",
+        "play/tv/rtr-livestreams",
+        "play/tv/rts-livestreams",
+        "play/tv/sport-livestreams",
+        "play/tv/streaming",
+    }
+)
+
 #: Aucune page rts.ch légitime n'approche cette longueur (les navigateurs et la
 #: plupart des serveurs plafonnent déjà autour de 2000-8000 caractères) ; un
 #: candidat plus long est un artefact d'extraction (bloc JS minifié, texte
@@ -174,6 +213,9 @@ def normalize(raw: str, base: str | None = None) -> str | None:
         return None
 
     joined = "/".join(segments)
+    if (joined == "play" or joined.startswith("play/")) and joined not in _PLAY_ALLOWLIST:
+        return None
+
     # Pas de point dans le segment terminal => rubrique => slash final.
     trailing = "" if "." in leaf else "/"
     return f"https://{host}/{joined}{trailing}"
