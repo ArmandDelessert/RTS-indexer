@@ -122,9 +122,31 @@ def test_play_hors_liste_blanche_rejete():
     retiré par normalize() ; sans liste blanche, ces URLs seraient indexées
     cassées (redirection vers /play/not-found)."""
     assert normalize("https://www.rts.ch/play/tv/emission/1-jour-1-question/") is None
-    assert normalize("https://www.rts.ch/play/tv/rts-education/video/x?urn=urn:rts:video:1") is None
+    assert normalize("https://www.rts.ch/play/tv/rts-education/video/x") is None
     assert normalize("https://www.rts.ch/play/") is None
     assert normalize("https://www.rts.ch/play/radio/emission/cqfd/") is None
+
+
+def test_play_avec_urn_resolu_vers_a_id():
+    assert normalize(
+        "https://www.rts.ch/play/tv/rts-education/video/les-plantes-communiquent-elles"
+        "?urn=urn:rts:video:2045231"
+    ) == "https://www.rts.ch/a/2045231/"
+
+
+def test_play_avec_id_resolu_vers_a_id():
+    assert (
+        normalize("https://www.rts.ch/play/tv/emission/b-r-i-c-o--club?id=4707419")
+        == "https://www.rts.ch/a/4707419/"
+    )
+
+
+def test_id_urn_ignores_hors_de_play():
+    """Le raccourci /a/<id> n'a de sens que pour /play/ ; ailleurs, id/urn
+    restent de simples paramètres de query, retirés comme d'habitude."""
+    assert normalize("https://www.rts.ch/info/suisse/x.html?id=123") == (
+        "https://www.rts.ch/info/suisse/x.html"
+    )
 
 
 def test_play_liste_blanche_acceptee():
