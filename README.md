@@ -31,6 +31,26 @@ Quatre sources alimentent l'index :
 `verify` contrôle ensuite quelles URLs répondent encore, et `site` génère une page web statique
 pour parcourir le résultat.
 
+### Périmètre : RTS Play exclu
+
+`urlnorm.normalize()` — le point de passage unique de toutes les sources — rejette `www.rts.ch/play/`
+dans son ensemble, sauf une petite liste blanche de pages statiques (`play/tv/aide/`, `play/recherche/`,
+réglages dans les autres langues nationales, etc.). RTS Play route son contenu (articles, épisodes) sur
+un identifiant passé en paramètre de requête (`?urn=...` ou `?id=...`), toujours retiré par cette
+normalisation comme pour toute URL du site — indexer ces pages revenait donc à indexer des redirections
+mortes vers `/play/not-found`. Confirmé par audit direct : 129'068 URLs sur 129'069 sous `/play/`
+suivaient ce schéma.
+
+Une piste explorée puis abandonnée : reconstruire `https://www.rts.ch/a/<id>/`, un raccourci que RTS
+résout lui-même vers l'URL canonique. Fonctionne pour un identifiant qui redirige vers du contenu
+« articles » ordinaire (c'est d'ailleurs le mécanisme central de plusieurs nettoyages de doublons de
+cette même liste blanche), mais pas pour du contenu Play pur : RTS redirige `/a/<id>` vers l'URL Play
+*paramétrée* d'origine, que `normalize()` reconvertirait vers ce même `/a/<id>/` — un doublon de
+lui-même que `dedupe` supprimerait sans rien y substituer. Conserver les identifiants Play demanderait
+un stockage à part, découplé du cycle `verify`/`dedupe` (l'arborescence `data/` a été pensée pour la
+structure hiérarchique des articles, pas pour un identifiant plat résolu côté serveur) — jugé pour
+l'instant hors de portée du projet.
+
 ## Installation
 
 ```bash
@@ -283,7 +303,7 @@ autrement — et de rattraper une dérive externe. Il est lancé chaque semaine 
 | `vivantes_ou_non_verifiees` | `urls` moins `mortes`. Le nom est double à dessein : une URL jamais passée par `verify` compte comme vivante ici, faute de verdict contraire. |
 | `mortes` | URLs pour lesquelles `verify` a obtenu un 404 ou 410 confirmé (sigil `!`). Reste petit tant que `verify` n'a tourné que sur un échantillon — ce n'est pas « peu d'URLs mortes », c'est « peu d'URLs *contrôlées*. » |
 | `dossiers` | Segments de chemin distincts sous `data/` (une entrée par `_index.txt`, hors shards). |
-| `anomalies` | Lignes dans `_anomalies.tsv`, de quatre types : `trop_long` (chemin projeté au-delà de `MAX_REL_PATH_LEN`), `collision` (deux URLs ne différant que par la casse visent le même chemin disque, NTFS étant insensible à la casse), `doublon` (l'URL redirige vers une autre du périmètre, constaté par `verify` — actionnable par `dedupe`), et `hors_perimetre` (l'URL redirige hors périmètre, ex. vers `img.rts.ch` — ce n'est pas un vrai doublon, rien dans l'index n'en fait double emploi, et `dedupe` ne le résoudra jamais). |
+| `anomalies` | Lignes dans `_anomalies.tsv`, de cinq types : `trop_long` (chemin projeté au-delà de `MAX_REL_PATH_LEN`), `collision` (deux URLs ne différant que par la casse visent le même chemin disque, NTFS étant insensible à la casse), `doublon` (l'URL redirige vers une autre du périmètre, constaté par `verify` — actionnable par `dedupe`), `hors_perimetre` (l'URL redirige hors périmètre, ex. vers `img.rts.ch` — ce n'est pas un vrai doublon, rien dans l'index n'en fait double emploi, et `dedupe` ne le résoudra jamais), et `code_atypique` (un code toujours hors 2xx/404/410 après le second avis de `verify` — ex. RTS sert parfois son propre gabarit « Page introuvable » avec un 406 : un contenu bel et bien mort, mais un code qui ne le dit pas ; journalisé pour revue humaine plutôt que sigil, jamais résolu automatiquement). |
 
 ### `run`
 
