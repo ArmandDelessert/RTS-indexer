@@ -41,6 +41,7 @@
 12343933-tokyo-2020-divers-bach-ne-tarit-pas-deloges-sur-les-organisateurs.html
 12345443-tokyo-2020-tennis-roger-federer-renonce.html
 12349527-le-saviezvous-le-bain-de-sang-de-melbourne.html
+12349540-le-saviezvous-la-medaille-perdue-de-mohamed-ali.html
 12349927-le-saviezvous-lepee-infaillible-de-boris-onischenko.html
 12349969-le-saviezvous-redmond-pere-et-fils-jusqua-la-ligne.html
 12350316-tokyo-2020-tennis-novak-djokovic-confirme-sa-participation.html
@@ -63,11 +64,13 @@
 12366287-tokyo-2020-aviron-jeannine-gmelin-ainsi-que-roman-roosli-barnabe-delarze-maitrisent-leur-sujet.html
 12366450-tokyo-2020-athletisme-kariem-hussein-suspendu-9-mois-et-prive-de-jo.html
 12366559-tokyo-2020-voile-maud-jayet-pourrait-malgre-elle-sortir-de-lombre.html
+12366709-tokyo-2020-badminton-sabrina-jaquet-pas-au-mieux-avant-son-entree-en-lice.html
 12367275-tokyo-2020-ceremonie-douverture-naomi-osaka-a-allume-la-vasque-olympique.html
 12368453-tokyo-2020-tir-nina-christen-remporte-la-1re-medaille-pour-la-suisse.html
 12368769-tokyo-2020-samedi-24-juillet-la-journee-des-suisses.html
 12368812-tokyo-2020-badminton-rien-a-faire-pour-sabrina-jaquet.html
 12368841-tokyo-2020-tennis-bencic-convaincante-golubic-sans-trembler.html
+12369147-tokyo-2020-tennis-de-table-rachel-moret-qualifiee-pour-le-2e-tour.html
 12369368-tokyo-2020-athletisme-cest-un-choc-mais-je-continue-confie-kariem-hussein.html
 12369486-tokyo-2020-natation-trois-records-de-suisse-pour-commencer.html
 12369540-tokyo-2020-triathlon-max-studer-a-profite-du-covid-pour-progresser.html
@@ -79,6 +82,7 @@
 12370915-tokyo-2020-judo-pas-de-medaille-pour-fabienne-kocher.html
 12370918-tokyo-2020-aviron-delarzeroosli-en-finale.html
 12370919-tokyo-2020-escrime-heinzer-sarrete-en-8es-de-finale.html
+12371230-tokyo-2020-skateboard-yuto-horigome-premier-champion-olympique-de-lhistoire.html
 12371486-tokyo-2020-voile-mateo-sanz-lanz-en-tete-apres-3-regates.html
 12371538-tokyo-2020-natation-djakovic-passe-en-demifinales-du-200-m-libre.html
 12371580-tokyo-2020-judo-hifumi-abe-sacre-champion-olympique-quelques-minutes-apres-sa-soeur.html
@@ -108,6 +112,7 @@
 12376910-tokyo-2020-gymnastique-simone-biles-remplacee-et-incertaine-pour-la-suite-des-jeux.html
 12377487-tokyo-2020-programme-le-samedi-31-juillet.html
 12377511-tokyo-2020-gymnastiquetennis-osaka-et-biles-meme-combat-contre-les-demons.html
+12378404-tokyo-2020-mercredi-28-juillet-la-journee-des-suisses.html
 12378421-tokyo-2020-aviron-deception-pour-delarze-et-roosli.html
 12378514-tokyo-2020-badminton-une-defaite-pour-terminer-pour-jaquet.html
 12378605-tokyo-2020-natation-le-relais-4x200m-helvetique-6e.html
@@ -120,6 +125,7 @@
 12380002-tokyo-2020-gymnastique-le-japonais-hashimoto-remporte-lor-au-concours-general.html
 12380008-tokyo-2020-basket-3x3-les-americaines-et-les-lettons-premiers-champions-olympiques-de-lhistoire.html
 12380405-robin-godel-les-jeux-sont-quelque-chose-dincroyable.html
+12381040-tokyo-2020-jeudi-29-juillet-la-journee-des-suisses.html
 12381041-tokyo-2020-bmx-claessens-et-graf-qualifies-marquart-elimine.html
 12381042-tokyo-2020-natation-caeleb-dressel-remporte-la-disciplinereine.html
 12381043-tokyo-2020-tennis-medaille-en-poche-pour-bencic-qui-peut-rever-du-titre.html
@@ -134,6 +140,7 @@
 12383026-tokyo-2020-aviron-gmelin-manque-le-coche.html
 12383034-tokyo-2020-natation-desplanches-decroche-le-bronze-en-200m-4-nages.html
 12383045-tokyo-2020-athletisme-del-ponte-bat-le-record-de-suisse-de-100m-kambundji-aussi-en-demies.html
+12383059-tokyo-2020-vendredi-30-juillet-la-journee-des-suisses.html
 12383078-tokyo-2020-judo-deception-pour-teddy-riner-qui-doit-se-contenter-du-bronze.html
 12383539-tokyo-2020-natation-laustralienne-emma-mckeon-remporte-le-100m-nage-libre.html
 12383618-tokyo-2020-natation-jeremy-desplanches-un-vrai-accomplissement.html
@@ -142,6 +149,7 @@
 12384316-tokyo-2020-tennis-pas-de-golden-slam-pour-djokovic-elimine-en-demies.html
 12384826-tokyo-2020-athletisme-wanders-loin-du-compte-barega-sacre.html
 12385274-tokyo-2020-athletisme-on-peut-vraiment-esperer-2-suissesses-en-finale-du-100m-estime-ellen-sprunger.html
+12385707-tokyo-2020-samedi-31-juillet-la-journee-des-suisses.html
 12385752-tokyo-2020-natation-ponti-en-bronze-sur-100m-papillon.html
 12385821-tokyo-2020-tir-nina-christen-championne-olympique.html
 12385909-tokyo-2020-voile-mateo-sanz-lanz-au-8e-rang-final.html
@@ -193,13 +201,16 @@
 12394657-tokyo-2020-mercredi-4-aout-la-journee-des-suisses.html
 12394832-tokyo-2020-athletisme-joseph-echoue-en-demies-du-110m-haies.html
 12394925-tokyo-2020-lutte-repeche-reichmuth-peut-encore-rever-du-bronze.html
+12394940-tokyo-2020-escalade-petra-klingler-ne-verra-pas-la-finale.html
 12395010-tokyo-2020-hippisme-pas-de-medaille-suisse-dans-lepreuve-individuelle.html
 12395016-tokyo-2020-voile-le-duo-fahrnisiegenthaler-en-chocolat.html
 12395352-tokyo-2020-athletisme-mclaughlin-imite-warholm-en-battant-a-son-tour-le-record-du-monde.html
+12395432-tokyo-2020-skateboard-sakura-yosozumi-premiere-championne-olympique-de-park.html
 12396028-tokyo-2020-cyclisme-sur-piste-pas-de-nouveau-record-pour-les-suisse-le-titre-a-litalie.html
 12396245-tokyo-2020-athletisme-kambundji-des-les-series-sur-4x100m.html
 12397309-tokyo-2020-beachvolley-vergedepreheidrich-joueront-pour-le-bronze.html
 12397310-tokyo-2020-athletisme-le-relais-4x100m-en-finale-avec-un-nouveau-record-de-suisse.html
+12397311-tokyo-2020-skateboard-keegan-palmer-premier-champion-olympique-de-park.html
 12397313-tokyo-2020-lutte-pas-de-medaille-pour-reichmuth.html
 12397314-tokyo-2020-jeudi-5-aout-la-journee-des-suisses.html
 12397973-tokyo-2020-basket-la-france-au-rendezvous-face-aux-americains.html
@@ -208,6 +219,8 @@
 12398474-tokyo-2020-athletisme-les-suissesses-du-4x400m-eliminees-malgre-un-joli-record.html
 12398603-tokyo-2020-cyclisme-sur-piste-la-miraculee-braspennincx-decroche-lor.html
 12398653-tokyo-2020-athletisme-nafissatou-thiam-conserve-son-titre-a-lheptathlon.html
+12398713-tokyo-2020-escalade-alberto-gines-lopez-1er-champion-olympique.html
+12398746-tokyo-2020-karate-le-francais-steven-da-costa-1er-champion-olympique-de-lhistoire.html
 12399761-tokyo-2020-beachvolley-la-paire-vergedepreheidrich-se-pare-de-bronze.html
 12399791-tokyo-2020-vendredi-6-aout-la-journee-des-suisses.html
 12399935-tokyo-2020-golf-la-superbe-remontee-de-valenzuela.html

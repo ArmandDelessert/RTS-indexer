@@ -1,12 +1,17 @@
 ./
+10015200-ski-de-fond-les-mondiaux-presents-dans-toutes-les-tetes.html
+10019652-ski-de-fond-hediger-12e-bolshunov-victorieux.html
 10020731-caviezel-monte-sur-le-podium-le-fc-sion-respire-et-un-saladier-dargent-pour-la-croatie.html
 10031645-swiss-sports-awards-federer-et-holdener-vont-defendre-leur-titre.html
+10034498-ski-de-fond-maigre-bilan-suisse-a-lillehammer.html
 10037080-la-fantastique-remontee-de-tumler-shiffrin-renforce-sa-legende-exploit-de-lequipe-mixte-de-biathlon.html
 10038417-biathlon-magnifique-deuxieme-place-pour-la-suisse.html
 10055205-swiss-sports-awards-nino-schurter-et-daniela-ryf-primes.html
 10055620-unihockey-la-suisse-decroche-le-bronze.html
+10071798-biathlon-weger-6e-de-la-poursuite-finello-15e.html
 10072101-tchoukball.html
 10075568-skicross-fanny-smith-et-jonas-lenherr-simposent-a-arosa.html
+10087348-biathlon-benjamin-weger-poursuit-sa-montee-en-puissance.html
 10125558-jo-jeunesse-a-j365-du-debut-des-joutes-seule-la-patinoire-de-malley-manque-a-lappel.html
 10151770-skicross-alex-fiva-simpose-sur-les-neiges-suedoises.html
 10170150-skicross-nouvelle-victoire-pour-fanny-smith.html
@@ -78,7 +83,13 @@
 11012323-joj-2020-la-suisse-decroche-un-nouveau-titre-en-ski-alpinisme.html
 11012732-joj-2020-lincroyable-luc-roduit-se-pare-dargent.html
 11015311-joj-2020-mercredi-noir-pour-la-delegation-suisse.html
+11026219-joj-2020-patrizia-et-laurent-golay-nous-parlent-de-leur-fils.html
+11026240-joj-2020-la-fondeuse-siri-wigger-decroche-de-lor-la-skieuse-marie-karoline-krista-aussi.html
+11026639-joj-2020-alexia-turunen-prefere-la-vitesse-aux-sauts.html
 11028280-joj-2020-une-journee-magnifique-pour-la-suisse-avec-5-medailles.html
+11031367-joj-2020-eliot-golay-evoque-ses-parents-et-reagit-a-leurs-propos.html
+11031672-oj-2020-la-fondeuse-siri-wigger-argentee-en-crosscountry.html
+11032047-joj-2020-les-suisses-patrons-du-skisnowboard-cross.html
 11032101-joj-2020-jade-surdez-racontee-par-ses-parents-et-ses-freres.html
 11035339-joj-2020-les-organisateurs-et-les-comites-olympiques-tirent-un-bilan-positif-pour-la-suisse.html
 11038519-joj-2020-les-meilleurs-moments-du-triomphe-helvetique.html
@@ -555,6 +566,7 @@
 3713441-rogeryves-bost-soffre-un-joli-pactole.html
 3739139-janika-sprunger-veut-jouer-place.html
 3743097-un-sans-faute-pour-guerdat.html
+3745210-kai-mahler-brille-aux-prestigieux-xgames.html
 3745549-lallemand-marco-kutscher-recidive.html
 3747628-ipod-livre-son-meilleur-repertoire-a-aspen.html
 3756188-vladimir-buscaglia-cela-se-jouera-sur-des-details.html
@@ -1210,3 +1222,4 @@
 9841572-divers-bolt-soffre-un-sprint-en-apesanteur.html
 9889974-jo-jeunesse-trois-ambassadeurs-de-renom-pour-lausanne-2020.html
 9916656-carnet-noir-patrick-baumann-est-decede.html
+9939345-ski-de-fond-dario-cologna-elu-roi-du-ski.html
