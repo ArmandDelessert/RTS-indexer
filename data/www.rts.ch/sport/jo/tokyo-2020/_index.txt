@@ -58,6 +58,7 @@
 12363904-tokyo-2020-une-ceremonie-douverture-simple-et-sobre.html
 12364080-tokyo-2020-natation-jeremy-desplanches-se-teste-sur-100m-brasse.html
 12364095-tokyo-2020-mujinga-kambundji-et-max-heinzer-portedrapeaux-pour-la-suisse.html
+12364330-tokyo-2020-judo-revanche-pour-fabienne-kocher.html
 12364471-tokyo-2020-beachvolley-cas-de-covid19-chez-les-adversaires-des-suisses.html
 12364733-tokyo-2020-golf-la-vaudoise-kim-metraux-appelee-de-la-derniere-heure.html
 12365051-tokyo-2020-ceremonie-douverture-le-directeur-artistique-demis-de-ses-fonctions.html
@@ -83,6 +84,7 @@
 12370918-tokyo-2020-aviron-delarzeroosli-en-finale.html
 12370919-tokyo-2020-escrime-heinzer-sarrete-en-8es-de-finale.html
 12371230-tokyo-2020-skateboard-yuto-horigome-premier-champion-olympique-de-lhistoire.html
+12371336-tokyo-2020-canoe-thomas-koechlin-en-demifinales.html
 12371486-tokyo-2020-voile-mateo-sanz-lanz-en-tete-apres-3-regates.html
 12371538-tokyo-2020-natation-djakovic-passe-en-demifinales-du-200-m-libre.html
 12371580-tokyo-2020-judo-hifumi-abe-sacre-champion-olympique-quelques-minutes-apres-sa-soeur.html
@@ -145,6 +147,8 @@
 12383539-tokyo-2020-natation-laustralienne-emma-mckeon-remporte-le-100m-nage-libre.html
 12383618-tokyo-2020-natation-jeremy-desplanches-un-vrai-accomplissement.html
 12383672-tokyo-2020-bmx-pas-de-finale-pour-graf-et-claessens.html
+12383886-tokyo-2020-gymnastique-biles-avoue-etre-en-difficulte-sur-tous-les-agres.html
+12384117-tokyo-2020-plongeon-michelle-heimberg-assure.html
 12384272-tokyo-2020-voile-fahrnisiegenthaler-toujours-en-course-pour-une-medaille.html
 12384316-tokyo-2020-tennis-pas-de-golden-slam-pour-djokovic-elimine-en-demies.html
 12384826-tokyo-2020-athletisme-wanders-loin-du-compte-barega-sacre.html
@@ -155,6 +159,7 @@
 12385909-tokyo-2020-voile-mateo-sanz-lanz-au-8e-rang-final.html
 12386288-tokyo-2020-triathlon-la-suisse-7e-du-relais-mixte-la-grandebretagne-sacree.html
 12386391-tokyo-2020-natation-noe-ponti-une-journee-merveilleuse.html
+12386427-tokyo-2020-gymnastique-simone-biles-forfait-pour-les-finales-de-dimanche.html
 12386447-tokyo-2020-bmx-nikita-ducarroz-3e-et-vraiment-ravie-de-sa-premiere-journee.html
 12386762-tokyo-2020-plongeon-michelle-heimberg-se-hisse-en-finale.html
 12386890-tokyo-2020-tennis-aucune-medaille-pour-novak-djokovic-battu-en-simple-et-forfait-en-double-mixte.html
