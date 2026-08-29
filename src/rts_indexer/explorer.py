@@ -384,10 +384,25 @@ _TEMPLATE = """<!doctype html>
     go(path.slice(0, -1), path[path.length - 1]);
   }
 
+  // `location.hash = ...` déclenche l'évènement `hashchange` de façon
+  // asynchrone (pas dans le même passage du script), qui rappellerait
+  // `go(fromHash())` sans l'information de resélection — écrasant la bonne
+  // sélection juste après coup (ex. Retour arrière depuis A2 : la sélection
+  // est correctement posée sur "A2", puis quelques instants plus tard ce
+  // second appel la remet sur le premier élément). Ce drapeau fait ignorer
+  // ce hashchange auto-provoqué : seul un changement d'URL extérieur (bouton
+  // précédent/suivant du navigateur, hash tapé à la main) doit encore
+  // déclencher un nouveau rendu par ce biais.
+  var ignoreNextHashChange = false;
+
   function go(segments, reselect) {
     path = segments;
     pendingReselect = reselect !== undefined ? reselect : null;
-    location.hash = segments.length ? "#/" + segments.join("/") : "";
+    var nouveauHash = segments.length ? "#/" + segments.join("/") : "";
+    if (location.hash !== nouveauHash) {
+      ignoreNextHashChange = true;
+      location.hash = nouveauHash;
+    }
     renderCrumbs();
     renderListing();
   }
@@ -466,7 +481,10 @@ _TEMPLATE = """<!doctype html>
 
   tabBrowse.onclick = function () { show("browse"); };
   tabStats.onclick = function () { show("stats"); };
-  window.onhashchange = function () { go(fromHash()); };
+  window.onhashchange = function () {
+    if (ignoreNextHashChange) { ignoreNextHashChange = false; return; }
+    go(fromHash());
+  };
 
   // Cherche, à partir de `start` et en bouclant sur la liste, le premier
   // élément dont le nom commence par `needle`. -1 si aucun.
