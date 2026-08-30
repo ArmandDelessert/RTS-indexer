@@ -120,8 +120,8 @@ pagination. À exécuter au moins une fois par jour pour ne rien manquer.
 python -m rts_indexer crawl [--max-pages N] [--include-articles] [--reset]
 ```
 
-- `--max-pages` (défaut 500) — plafond exact de pages visitées. `0` = illimité ; le crawl s'arrête
-  de lui-même une fois toutes les rubriques connues visitées, la file n'étant pas infinie.
+- `--max-pages` (défaut 0, illimité) — plafond exact de pages visitées. `0` = illimité ; le crawl
+  s'arrête de lui-même une fois toutes les rubriques connues visitées, la file n'étant pas infinie.
 - `--include-articles` — visite aussi les articles eux-mêmes (coûteux), pour en extraire les
   liens connexes. Par défaut ils sont indexés sans être téléchargés.
 - `--reset` — oublie la rotation des graines enregistrée, repart du début.

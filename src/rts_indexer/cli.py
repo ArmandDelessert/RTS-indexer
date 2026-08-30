@@ -553,9 +553,9 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument(
         "--max-pages",
         type=int,
-        default=500,
+        default=0,
         help=(
-            "budget de pages, plafond exact (défaut: %(default)s). "
+            "budget de pages, plafond exact (défaut: %(default)s, illimité). "
             "0 = illimité : le crawl s'arrête de lui-même une fois toutes les "
             "rubriques connues visitées, la file d'attente n'étant pas infinie. "
             "Sert aussi de taille de tranche pour la rotation des graines : "

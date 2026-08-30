@@ -41,7 +41,7 @@ jobs:
     with:
       commandes: |
         sitemap
-        crawl --max-pages 1500
+        crawl --max-pages 0
         verify --limit 2000
         build
       resume: parcours hebdomadaire (sitemap, crawl, verify, build)
