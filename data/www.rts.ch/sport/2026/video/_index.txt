@@ -34,6 +34,10 @@
 3e-tour-qualificatif-retour-vikingur-thoune-3-2-le-resume-de-la-rencontre-29328024.html
 4e-journee-lucerne-lausanne-1-0-le-resume-de-la-rencontre-29335576.html
 4e-journee-tous-les-buts-29336435.html
+5e-journee-lausanne-zurich-2-3-le-resume-de-la-rencontre-29341929.html
+5e-journee-servette-lucerne-1-1-le-resume-de-la-rencontre-29341923.html
+5e-journee-sion-lugano-1-2-le-resume-de-la-rencontre-29342113.html
+5e-journee-tous-les-buts-29342309.html
 5e-journee-yb-bale-3-3-le-resume-de-la-rencontre-29341748.html
 7e-journee-atalanta-a-bilbao-2-3-le-resume-de-la-rencontre-29126012.html
 7e-journee-bayern-union-sg-2-0-le-resume-de-la-rencontre-29126007.html
@@ -96,9 +100,11 @@ athletisme-championnat-de-suisse-mujinga-kambundji-de-retour-a-la-competition-ap
 athletisme-l-arme-secrete-de-leonie-hugli-sui-29307360.html
 athletisme-ligue-de-diamant-l-ecossais-josh-kerr-bat-le-record-du-monde-du-mile-29307358.html
 athletisme-meeting-de-lucerne-la-bernoise-leonie-hugli-ameliore-son-record-de-suisse-au-javelot-29307359.html
+athletisme-weltklasse-2-nouveaux-records-du-monde-audrey-werro-se-rapproche-dangereusement-du-record-du-monde-du-800m-29342271.html
 athletissima-relais-4x100m-dames-les-4-vainqueures-au-micro-de-la-rts-29335154.html
 automobilisme-criterium-jurassien-moutier-accueille-le-quartier-general-de-la-47e-edition-29197702.html
 aux-usa-et-en-suisse-les-fans-etaient-heureux-apres-la-qualif-en-quarts-29297823.html
+aviron-championnats-du-monde-le-bilan-mitige-des-athletes-suisses-29342270.html
 aviron-le-quatuor-feminin-suisse-decroche-un-magnifique-titre-europeen-29318692.html
 badminton-le-developpement-de-l-association-cantonale-genevoise-de-badminton-29175894.html
 barrage-aller-fc-sparta-prague-servette-fc-chenois-3-2-le-resume-de-la-rencontre-29339214.html
@@ -106,7 +112,12 @@ barrages-aller-lech-poznan-thoune-7-0-29334068.html
 barrages-retour-ajax-sion-5-3-le-resume-de-la-rencontre-29340331.html
 barrages-retour-st-gall-nordsjaelland-2-3-le-resume-de-la-recontre-29340310.html
 barrages-retour-thoune-lech-poznan-2-2-le-resume-de-la-rencontre-29340305.html
+basketball-euro-2029-l-equipe-de-suisse-s-incline-pour-son-premier-match-des-pre-qualifications-29342264.html
+basketball-les-defis-du-nouvel-entraineur-thibaut-petit-29342265.html
 basketball-thibaut-petit-est-le-nouveau-selectionneur-de-l-equipe-de-suisse-29313914.html
+bellinzone-100m-dames-victoire-de-tamari-davis-usa-geraldine-di-tizio-frey-sui-4e-et-salome-kora-sui-7e-29342368.html
+bellinzone-100m-messieurs-kayainsola-ajayi-nga-victorieux-en-9-91-timothe-mumenthaler-sui-termine-7e-en-10-30-29342304.html
+bellinzone-saut-a-la-perche-dames-angelica-mozer-sui-ne-passe-pas-la-barre-des-4m84-29342287.html
 bienne-barrages-suisse-tunisie-jerome-kym-et-leandro-riedi-gagnent-et-permettent-a-la-suisse-de-mener-2-0-dans-la-serie-29142798.html
 birmingham-gbr-europeens-2026-fabienne-hoenke-sui-en-finale-du-200m-pas-mujinga-kambundji-sui-29326986.html
 birmingham-gbr-europeens-2026-l-interview-de-jason-joseph-apres-avoir-remporte-l-or-sur-110m-haies-29327081.html
@@ -140,6 +151,7 @@ crans-montana-descente-messieurs-livio-hiltbrand-sui-termine-avec-sa-meilleure-p
 crans-montana-descente-messieurs-meilleur-resultat-dans-sa-carriere-pour-lars-roesti-sui-29136696.html
 crans-montana-sui-descente-dames-lindsey-vonn-usa-chute-lourdement-29134988.html
 crans-montana-sui-super-g-dames-malorie-blanc-sui-29136080.html
+cyclisme-la-vuelta-la-grosse-chute-pour-tadej-pogacar-slo-29342268.html
 cyclisme-liege-bastogne-liege-la-doyenne-des-classiques-nous-a-offert-du-beau-spectacle-29223325.html
 cyclisme-tour-de-france-dames-etape-9-nice-nice-d-vollering-ned-conserve-son-maillot-jaune-29324116.html
 cyclisme-tour-de-france-la-fierte-de-yannis-voisard-avec-sa-11e-place-au-classement-general-29313394.html
@@ -218,7 +230,13 @@ football-ligue-des-champions-29124773.html
 football-ligue-des-champions-29124803.html
 football-ligue-des-champions-le-psg-a-remporte-le-titre-sur-tirs-au-but-face-a-arsenal-29259295.html
 football-super-league-21e-journee-servette-retrouve-le-gout-de-la-victoire-a-st-gall-2-4-29129690.html
+football-super-league-5e-journee-le-ls-laisse-filer-3-points-face-a-zurich-2-3-29342277.html
+football-super-league-5e-journee-servette-doit-se-contenter-d-un-nul-1-1-face-a-lucerne-a-11-contre-10-29342276.html
+football-super-league-5e-journee-sion-s-incline-2-a-1-a-tourbillon-face-a-lugano-29342274.html
+football-super-league-5e-journee-un-match-nul-mais-spectaculaire-entre-yb-et-bale-3-3-29342278.html
 football-super-league-le-ls-doit-se-contenter-d-un-match-nul-face-a-grasshopper-1-1-29313400.html
+football-super-league-le-resume-de-la-5e-journee-et-le-classement-29342279.html
+football-super-league-les-constantins-ne-veulent-pas-vendre-boteli-meme-pour-20-millions-29342275.html
 football-super-league-les-resultats-29313405.html
 football-super-league-lugano-s-impose-2-1-face-a-vaduz-et-thoune-victorieux-3-1-face-a-lucerne-29313403.html
 football-super-league-sion-s-incline-4-2-au-wankdorf-face-aux-young-boys-29313399.html
@@ -253,6 +271,9 @@ journee-7-copenhague-naples-1-1-le-resume-de-la-rencontre-29124776.html
 journee-7-inter-milan-arsenal-1-3-le-resume-de-la-rencontre-29124777.html
 journee-7-real-madrid-monaco-6-1-le-resume-de-la-rencontre-29124796.html
 journee-7-tottenham-dortmund-2-0-le-resume-de-la-rencontre-29124819.html
+judo-grand-slam-lausanne-le-resume-des-finales-du-jour-29342280.html
+judo-l-episode-4-des-trois-judokas-29342281.html
+judo-les-dessous-de-l-arbitrage-29342282.html
 kitzbuhel-aut-descente-messieurs-giovanni-franzoni-ita-le-plus-rapide-sur-la-streif-29128641.html
 kitzbuhel-aut-descente-messieurs-marco-odermatt-sui-a-sept-centiemes-seulement-de-franzoni-ita-29128633.html
 kitzbuhel-aut-slalom-messieurs-2e-manche-loic-meillard-sui-termine-2e-29129434.html
@@ -294,6 +315,10 @@ lac-beauport-can-finale-messieurs-le-passage-du-vainqueur-dmytro-kotovsky-291098
 lake-placid-usa-sprint-dames-linn-svahn-swe-s-impose-une-derniere-4e-place-pour-nadine-fahndrich-sui-29189967.html
 lake-placid-usa-sprint-finales-messieurs-et-dames-le-resume-des-courses-29190018.html
 lake-placid-usa-sprint-messieurs-federico-pellegrino-ita-termine-sa-carriere-avec-une-victoire-29189955.html
+lausanne-100kg-messieurs-illia-sulamanidze-geo-assume-son-statut-de-favori-en-remportant-l-or-29342186.html
+lausanne-100kg-messieurs-le-russe-inal-tasoev-se-pare-de-la-medaille-d-or-29342284.html
+lausanne-78-kg-dames-lea-fontaine-fra-decroche-l-or-grace-a-un-ippon-29342233.html
+lausanne-78kg-dames-la-numero-1-mondiale-anna-monta-olek-ger-remporte-son-combat-face-a-yelyzaveta-lytvynenko-uae-pour-la-medaille-d-or-29342159.html
 lausanne-sui-63kg-dames-angelika-szymanska-pol-se-pare-d-or-29341586.html
 lausanne-sui-70kg-dames-la-4e-place-pour-april-lynn-fohouo-sui-29341593.html
 lausanne-sui-70kg-dames-miriam-butkereit-ger-bat-sa-compatriote-et-remporte-l-or-29341609.html
@@ -308,6 +333,7 @@ le-carton-rouge-a-breel-embolo-29301255.html
 le-champion-du-monde-steve-guerdat-a-l-interview-29336079.html
 le-gardien-du-cap-vert-mvp-a-40-ans-29276535.html
 le-mag-entraineures-en-devenir-29115006.html
+le-mag-filmer-le-sport-pas-le-corps-29342272.html
 le-mag-l-antidopage-dans-le-sang-29237967.html
 le-mag-l-utilisation-du-telephone-portable-dans-le-monde-du-sport-29252378.html
 le-mag-le-role-des-filieres-de-formation-dans-les-ecuries-automobiles-29336066.html
@@ -317,6 +343,7 @@ le-mag-swiss-rocket-29122126.html
 le-maroc-surclasse-le-canada-3-0-et-se-qualifie-pour-les-quarts-29294660.html
 le-message-de-l-homme-du-match-johan-manzambi-29279961.html
 le-message-de-ruben-vargas-aux-fans-suisses-29297476.html
+le-mini-mag-la-variabilite-de-la-frequence-cardiaque-a-travers-les-objets-connectes-29342266.html
 le-passage-de-la-thurgovienne-livia-kaiser-17e-29121047.html
 le-recap-du-10-janvier-2026-29114429.html
 le-recap-du-11-janvier-2026-29115109.html
@@ -375,6 +402,7 @@ mondiaux-fis-le-premier-champion-du-monde-fis-de-snowboard-est-fribourgeois-il-s
 mondiaux-fis-liam-rivera-sacre-en-snowboard-a-andorre-a-l-interview-29139750.html
 monte-tamaro-cross-country-dames-sina-frei-sui-decroche-un-nouveau-titre-europeen-alessandra-keller-sui-et-jenny-rissveds-swe-completent-le-podium-29318550.html
 monte-tamaro-cross-country-messieurs-le-titre-pour-charlie-aldridge-gbr-fabio-puntener-sui-en-bronze-et-mathias-fluckiger-sui-termine-4e-29318607.html
+motogp-gp-d-aragon-marc-marquez-esp-fait-le-double-avec-sa-victoire-en-sprint-et-en-grand-prix-29342269.html
 national-league-le-gshc-entame-l-annee-avec-des-victoires-contre-zurich-5-3-et-bern-3-0-29107476.html
 news-george-ntavoutian-29251459.html
 news-jackalope-2026-29280977.html
@@ -451,6 +479,7 @@ silesie-pol-100m-messieurs-oblique-seville-jam-s-impose-en-9-83-29335954.html
 ski-alpin-a-la-rencontre-de-camille-rast-sui-qui-revient-sur-le-week-end-de-kranjska-gora-29114999.html
 ski-alpin-hommage-a-la-legende-du-ski-suisse-roland-collombin-qui-s-en-est-alle-29301456.html
 ski-alpin-kranjska-gora-slo-un-double-geant-slalom-pour-camille-rast-sui-29107472.html
+ski-alpin-la-preparation-de-la-nouvelle-saison-pour-loic-meillard-29342273.html
 ski-alpin-lara-gut-met-officiellement-un-terme-a-sa-carriere-l-analyse-de-patrice-morisod-1-2-29324109.html
 ski-alpin-lara-gut-met-officiellement-un-terme-a-sa-carriere-l-analyse-de-patrice-morisod-2-2-29324111.html
 ski-alpin-lara-gut-met-officiellement-un-terme-a-sa-carriere-retour-sur-quelques-uns-des-nombreux-moments-marquants-de-sa-carriere-29324110.html
@@ -467,6 +496,7 @@ spindleruv-mlyn-cze-slalom-dames-2e-manche-une-belle-2e-place-pour-camille-rast-
 spindleruv-mlyn-cze-slalom-dames-2e-manche-wendy-holdener-sui-termine-5e-29129367.html
 sport-dimanche-16-08-2026-29326153.html
 sport-dimanche-23-08-2026-29331977.html
+sport-dimanche-23-08-2026-29338332.html
 sport-dimanche-26-07-2026-29309554.html
 sport-dimanche-en-direct-avec-rattrapage-29124838.html
 stan-wawrinka-se-confie-avant-son-dernier-open-d-australie-29120260.html
@@ -489,7 +519,11 @@ tarvisio-ita-super-g-dames-lindsay-vonn-usa-termine-2e-29121795.html
 tennis-atp-gstaad-le-grec-stefanos-tsitsipas-s-impose-29307357.html
 tennis-clin-d-il-de-l-equipe-de-suisse-des-moins-de-15-ans-a-l-occasion-de-l-anniversaire-de-roger-federer-29324100.html
 tennis-gstaad-29305951.html
+tennis-roger-federer-intronise-au-hall-of-fame-le-pantheon-du-tennis-29342260.html
 tennis-united-cup-les-suisses-sortent-face-a-la-pologne-malgre-une-bencic-et-un-wawrinka-plutot-convaincants-29115003.html
+tennis-us-open-la-derniere-invitation-aux-etats-unis-pour-stan-wawrinka-29342261.html
+tennis-us-open-la-forme-de-belinda-bencic-avant-le-debut-du-tournoi-29342262.html
+tennis-us-open-le-trone-de-la-numero-un-mondiale-aryna-sabalenka-en-danger-29342263.html
 thibaut-courtois-et-alireza-beiranvand-enchainent-les-parades-29282235.html
 torun-pol-finale-60m-dames-zaynab-dosso-ita-championne-du-monde-29190046.html
 torun-pol-finale-60m-haies-messieurs-jakub-szymanski-pol-en-or-enrique-llopis-esp-et-trey-cunningham-usa-completent-le-podiumj-29190036.html
@@ -503,6 +537,8 @@ unihockey-retour-sur-les-finales-du-championnat-suisse-29223319.html
 urban-nines-bike-2026-29293191.html
 usa-94-le-mondial-qui-a-tout-change-pour-la-suisse-29269874.html
 val-di-fiemme-ita-sprint-dames-et-messieurs-le-resume-de-la-journee-29106782.html
+val-di-sole-ita-cross-country-dames-premier-titre-mondial-pour-sina-frei-sui-nicole-koller-sui-termine-3e-29342080.html
+val-di-sole-ita-cross-country-messieurs-thomas-pidcock-gbr-sacre-devant-son-compatriote-charlie-aldridge-cole-punchard-can-complete-le-podium-29342135.html
 val-di-sole-ita-descente-elite-dames-lisa-baumann-sui-brille-et-termine-2e-29341489.html
 val-di-sole-ita-descente-elite-dames-lisa-baumann-sui-brille-et-termine-2e-29341522.html
 val-di-sole-ita-descente-elite-dames-lisa-baumann-sui-brille-et-termine-2e-29341527.html
@@ -513,6 +549,7 @@ val-di-sole-ita-short-track-messieurs-victoire-d-adrien-boichis-fra-devant-charl
 volleyball-championnat-de-suisse-amriswil-remporte-la-finale-en-3-matches-face-a-nafels-29210183.html
 volleyball-finale-playoffs-lna-dames-le-nuc-decroche-le-titre-face-a-kanti-shaffhouse-29216550.html
 vous-pensez-quoi-du-mondial-a-48-equipes-29263925.html
+vtt-championnats-du-monde-apres-son-titre-europeen-sina-frei-sui-s-offre-son-premier-titre-mondial-en-cross-country-29342267.html
 vtt-cross-country-les-suissesses-signent-un-nouveau-double-puntener-termine-3e-29318691.html
 web-tobu-0908-emission-v2-29324124.html
 wengen-sui-descente-messieurs-marco-odermatt-sui-cueille-un-4e-succes-de-rang-29121279.html
