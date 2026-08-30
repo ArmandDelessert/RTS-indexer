@@ -20,6 +20,7 @@ faux-certificat-covid-patrick-fischer-exprime-ses-remords-29338440.html
 festival-offensif-suisse-les-devils-brillent-a-vancouver-en-nhl-29128472.html
 fribourg-bat-davos-2-1-en-prolongation-et-force-un-match-7-decisif-29224851.html
 fribourg-bat-geneve-6-2-et-se-qualifie-pour-la-finale-des-playoffs-29209815.html
+fribourg-bat-rapperswil-4-0-et-relance-son-quart-de-finale-de-playoffs-29192753.html
 fribourg-ecrase-bienne-6-1-en-hockey-et-consolide-sa-2e-place-en-national-league-29121369.html
 fribourg-et-ajoie-victorieux-en-national-league-resume-des-matches-cles-29128329.html
 fribourg-gotteron-arrache-la-victoire-2-1-face-a-davos-un-7e-match-decisif-29226137.html
@@ -29,11 +30,13 @@ fribourg-gotteron-bat-geneve-servette-3-1-en-demi-finale-de-national-league-2920
 fribourg-gotteron-bat-geneve-servette-4-3-et-mene-3-1-en-playoffs-29208525.html
 fribourg-gotteron-battu-1-0-par-davos-en-finale-de-national-league-29222051.html
 fribourg-gotteron-domine-lausanne-4-0-en-national-league-de-hockey-29114213.html
+fribourg-gotteron-mene-2-0-par-rapperswil-en-play-offs-de-national-league-29190829.html
 fribourg-gotteron-ouvre-sa-saison-de-champion-a-bienne-le-15-septembre-29272132.html
 fribourg-gotteron-perd-sorensen-jusqu-aux-jo-et-cherche-un-remplacant-29108471.html
 fribourg-gotteron-qualifie-pour-les-playoffs-apres-sa-victoire-contre-kloten-29135801.html
 fribourg-gotteron-remporte-l-acte-i-de-la-finale-a-davos-3-2-29216015.html
 fribourg-gotteron-s-impose-contre-rapperswil-et-jouera-les-demi-finales-29201106.html
+fribourg-gotteron-s-incline-5-2-face-a-rapperswil-en-playoffs-29188849.html
 fribourg-gotteron-yvan-haymoz-est-le-nouveau-president-29339263.html
 fribourg-plane-geneve-et-lausanne-decrochent-le-point-sur-les-clubs-romands-29138055.html
 generation-argentee-fin-de-cycle-l-heure-est-aux-questions-pour-le-hockey-suisse-29259644.html
@@ -41,6 +44,7 @@ geneve-bat-zurich-5-3-en-national-league-ajoie-s-incline-face-a-berne-29105865.h
 geneve-et-lausanne-fin-de-series-en-national-league-de-hockey-sur-glace-29120877.html
 geneve-remonte-trois-buts-de-retard-et-bat-lausanne-en-prolongation-29199529.html
 geneve-s-envole-lausanne-s-effondre-le-point-sur-les-clubs-romands-de-hockey-29124351.html
+geneve-servette-bat-lausanne-1-0-en-ouverture-des-playoffs-de-hockey-29189952.html
 geneve-servette-bat-lausanne-3-0-et-enchaine-une-7e-victoire-29118348.html
 geneve-servette-bat-lausanne-4-2-et-egalise-a-2-2-en-playoffs-29196437.html
 geneve-servette-bat-lugano-en-prolongation-4e-victoire-de-l-annee-29112418.html
@@ -55,9 +59,11 @@ groulx-remplace-liniger-a-la-tete-de-zoug-29125127.html
 hockey-andrea-brandli-signe-pour-trois-ans-avec-detroit-29328812.html
 hockey-daniel-carr-rejoint-le-hc-ajoie-pour-une-saison-29321682.html
 hockey-dominik-schlumpf-rejoint-kloten-pour-remplacer-nicholas-steiner-29299128.html
+hockey-feminin-la-suisse-en-demi-finales-des-jo-apres-sa-victoire-1-0-29151897.html
 hockey-fribourg-remporte-l-acte-vii-et-decroche-son-1er-titre-29227479.html
 hockey-la-canadienne-shannon-miller-nommee-a-la-tete-de-l-equipe-de-suisse-29299402.html
 hockey-la-suisse-bat-la-tchequie-6-1-a-5-jours-du-championnat-du-monde-29237547.html
+hockey-la-suisse-s-incline-face-au-canada-aux-jo-de-milan-cortina-29151179.html
 hockey-laure-meriguet-medaillee-olympique-a-17-ans-jongle-entre-cours-et-hockey-29184572.html
 hockey-marc-luthi-elu-president-de-la-federation-suisse-29340097.html
 hockey-national-league-geneve-bat-lausanne-en-quarts-et-affrontera-fribourg-en-demi-finales-des-playoffs-29202867.html
@@ -73,6 +79,7 @@ kevin-fiala-brille-en-nhl-but-et-assist-malgre-la-defaite-des-kings-29111672.htm
 kevin-fiala-brille-pour-son-700e-match-nhl-but-et-assist-avec-les-kings-29125003.html
 la-chaux-de-fonds-remporte-la-national-cup-face-a-sierre-dans-un-thriller-29136942.html
 la-finlande-bat-le-canada-4-2-et-affrontera-la-suisse-en-finale-29258705.html
+la-suisse-bat-l-italie-3-0-et-affrontera-la-finlande-en-quarts-de-finale-29154544.html
 la-suisse-bat-la-grande-bretagne-4-1-et-se-qualifie-pour-les-quarts-29250021.html
 la-suisse-bat-la-lettonie-4-2-au-mondial-2026-2e-victoire-consecutive-29243783.html
 la-suisse-bat-la-norvege-6-0-et-se-qualifie-pour-la-finale-du-mondial-29258444.html
@@ -86,9 +93,12 @@ la-suisse-eliminee-en-quart-du-mondial-m20-de-hockey-face-a-la-tchequie-29105929
 la-suisse-humilie-l-autriche-9-0-et-decroche-un-4e-succes-d-affilee-29248526.html
 la-suisse-part-clairement-favorite-en-quarts-face-a-une-suede-peu-convaincante-jusqu-ici-estime-felicien-du-bois-29254871.html
 la-suisse-resiste-au-canada-en-hockey-feminin-aux-jo-de-milan-cortina-29143771.html
+la-suisse-s-incline-5-0-face-aux-etats-unis-en-hockey-feminin-aux-jo-2026-29145782.html
 lars-weibel-quitte-swiss-ice-hockey-pour-devenir-directeur-sportif-d-ambri-29107306.html
 lausanne-bat-bienne-en-prolongation-fuchs-heros-du-match-de-hockey-29128007.html
 lausanne-bat-geneve-3-2-et-mene-la-serie-des-play-offs-de-hockey-29197720.html
+lausanne-bat-geneve-5-1-et-egalise-dans-les-quarts-de-finale-playoffs-29191205.html
+lausanne-bat-geneve-5-2-et-prend-l-avantage-en-quarts-de-finale-29194299.html
 lausanne-ecrase-zoug-7-0-en-hockey-rochette-brille-avec-un-double-29105923.html
 lausanne-hc-remporte-une-victoire-cruciale-4-1-contre-zoug-en-national-league-29135805.html
 lausanne-s-incline-3-1-a-berne-en-national-league-de-hockey-sur-glace-29128857.html
