@@ -53,6 +53,7 @@
 10759727-athletisme-sprunger-4e-record-du-monde-pour-muhammad.html
 10760008-athletisme-coup-double-pour-les-coureuses-du-4x100.html
 10760219-athletisme-je-suis-fiere-davoir-termine-4e-dune-course-pareille-explique-lea-sprunger.html
+10761246-athletisme-le-relais-helvetique-termine-au-pied-du-podium.html
 10761585-athletisme-il-y-a-plus-de-joie-que-de-deception-assure-mujinga-kambundji.html
 10761631-athletisme-abraham-dans-le-top10-du-marathon.html
 10762538-moratfribourg-helen-bekele-bat-le-record-de-franziska-rochatmoser.html
@@ -71,6 +72,8 @@
 10918768-jo-2020-les-marathons-partiront-a-7h-en-raison-de-la-chaleur-au-japon.html
 11006271-athletisme-wanders-etablit-un-nouveau-record-deurope-sur-10-km.html
 11008472-athletisme-sarah-atcho-freinee-sur-la-route-des-jo.html
+11095152-athletisme-duplantis-bat-son-propre-record-du-monde.html
+11111323-athletisme-yulimar-rojas-senvole-et-bat-un-record-du-monde.html
 11131693-athletisme-biya-et-gasch-sillustrent-a-lievin.html
 11200818-ligue-de-diamant-trois-meetings-de-plus-renvoyes.html
 11270789-course-de-montagne-je-sens-que-lon-voit-le-bout-du-tunnel.html
@@ -819,6 +822,7 @@
 8962915-moratfribourg-grande-premiere-pour-maude-mathys.html
 9019791-athletisme-hrebec-frole-les-minima-a-lausanne.html
 9053924-marathon-de-new-york-tadesse-abraham-en-outsider.html
+9058935-marathon-de-new-york-le-genevois-abraham-5e-et-meilleur-europeen.html
 9058985-marathon-de-new-york-double-suisse-en-fauteuil-roulant.html
 9062177-athletisme-julien-wanders-le-kenyan-blanc.html
 9133697-course-de-lescalade-50000-courageux-prets-a-braver-le-froid.html
@@ -878,7 +882,9 @@
 9768041-athletisme-fabienne-schlumpf-fait-forte-impression.html
 9768421-athletisme-mujinga-kambundji-en-finale-pas-sarah-atcho.html
 9768589-athletisme-lea-sprunger-est-championne-deurope.html
+9768629-athletisme-selina-buchel-craque-en-fin-de-course.html
 9768685-athletisme-la-surprise-pascal-martinotlagarde.html
+9768729-athletisme-un-enorme-soulagement.html
 9769697-athletisme-une-nouvelle-deception-pour-mujinga-kambundji.html
 9770869-marathon-tadesse-abraham-decroche-largent-europeen.html
 9771032-athletisme-les-suissesses-en-finale-du-4x100-m.html
@@ -886,6 +892,8 @@
 9771412-athletisme-les-suissesses-au-4e-rang-du-4x100-m.html
 9783277-ligue-de-diamant-lea-sprunger-prend-sa-revanche-a-birmingham.html
 9801314-athletisme-kipyegon-bett-suspendu-pour-usage-depo.html
+9809552-weltklasse-pas-de-podium-pour-sprunger-et-kambundji.html
+9812873-ligue-de-diamant-coleman-finit-en-trombe.html
 9846944-marathon-le-maitre-kipchoge-pulverise-le-record-du-monde.html
 9847283-athletisme-mayer-bat-le-record-du-monde-du-decathlon.html
 9899331-moratfribourg-tadesse-abraham-et-maude-mathys-triomphent.html

@@ -2,9 +2,11 @@
 10055839-grosjean-le-jour-ou-on-a-peur-on-arrete.html
 10364357-f1-gp-de-chine-hamilton-simpose-et-prend-la-tete-du-classement-des-pilotes.html
 10399230-f1-la-legende-senna-perdure-25-ans-apres-la-mort-du-pilote.html
+10448675-niki-lauda-legende-autrichienne-de-la-formule-1-est-mort-a-70-ans.html
 10448684-f1-le-triple-champion-du-monde-niki-lauda-nest-plus.html
 10459667-formule-e-premier-podium-de-la-saison-pour-buemi.html
 10460842-f1-gp-de-monaco-jai-lutte-comme-niki-laurait-fait-dixit-lewis-hamilton.html
+10469419-f1-lautriche-dit-tschuss-a-niki-lauda.html
 10493504-f1-gp-du-canada-vettel-en-pole-position-devant-hamilton.html
 10494522-f1-gp-du-canada-hamilton-profite-dune-penalite-infligee-a-vettel.html
 10510154-formule-e-pas-de-course-en-suisse-lors-de-la-saison-6.html
@@ -13,6 +15,7 @@
 10542605-f1-gp-dautriche-leclerc-en-pole-hamilton-penalise.html
 10543618-f1-gp-dautriche-verstappen-domine-enfin-les-mercedes.html
 10570553-f1-gp-de-grandebretagne-bottas-en-pole-devant-hamilton.html
+10571112-formule-e-sebastien-buemi-triomphe-dans-les-rues-de-new-york.html
 10571687-f1-gp-de-grandebretagne-hamilton-roi-de-silverstone.html
 10572330-formule-e-buemi-termine-vicechampion-du-monde-le-titre-pour-vergne.html
 10597555-f1-gp-dallemagne-victoire-de-verstappen-desastre-des-mercedes.html
@@ -598,6 +601,7 @@
 8959936-f1-grosjean-accidente-a-cause-dune-bouche-degout.html
 8961347-f1-hamilton-en-pole-vettel-dernier.html
 8962825-f1-max-verstappen-dompte-lewis-hamilton.html
+9039777-f1-hamilton-champion-du-monde-pour-la-quatrieme-fois.html
 9039789-f1-neuvieme-du-grand-prix-du-mexique-lewis-hamilton-sassure-une-quatrieme-couronne-de-champion-du-monde.html
 9077768-f1-valtteri-bottas-a-signe-la-pole-position-du-gp-du-bresil-lewis-hamilton-partira-dernier.html
 9126894-f1-sauber-rebaptise-alfa-romeo-sauber.html
@@ -609,7 +613,9 @@
 9486811-f1-gp-de-chine-ricciardo-vainqueur-dune-course-mouvementee.html
 9529784-f1-a-bakou-hamilton-mercedes-remporte-son-premier-succes-de-la-saison-bottas-creve-un-pneu-sur-la-fin.html
 9563141-f1-gp-despagne-74e-pole-pour-lewis-hamilton.html
+9600021-f1-gp-de-monaco-ricciardo-simpose-apres-avoir-mene-de-bout-en-bout.html
 9636152-f1-sebastian-vettel-ferrari-simpose-a-montreal-lors-du-gp-du-canada.html
+9701247-f1-gp-de-grandebretagne-vettel-profite-des-malheurs-de-hamilton-pour-simposer.html
 9753655-f1-daniel-ricciardo-quitte-red-bull-pour-renault.html
 9775108-f1-le-double-champion-du-monde-alonso-va-arreter.html
 9788302-f1-pierre-gasly-rejoint-red-bull.html
@@ -619,3 +625,6 @@
 9845422-f1-gp-de-singapour-hamilton-en-pole-position.html
 9846796-f1-gp-de-singapour-hamilton-realise-une-bonne-affaire.html
 9870322-f1-giovinazzi-remplace-ericsson-chez-sauber.html
+9880810-f1-gp-de-russie-mercedes-fait-gagner-lewis-hamilton.html
+9898190-f1-gp-du-japon-lewis-hamilton-en-demonstration.html
+9951321-f1-gp-du-mexique-lewis-hamilton-sacre-champion-du-monde.html

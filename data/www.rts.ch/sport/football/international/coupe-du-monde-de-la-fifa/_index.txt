@@ -62,9 +62,11 @@
 9655536-fifa-coupe-du-monde-2018-la-belgique-peine-puis-deroule-face-au-panama.html
 9655547-fifa-coupe-du-monde-2018-harry-kane-fait-gagner-langleterre-en-fin-de-match.html
 9656454-fifa-coupe-du-monde-2018-retrouver-le-poing-rageur-de-seferovic.html
+9656962-fifa-coupe-du-monde-2018-behrami-devrait-etre-operationnel-face-a-la-serbie.html
 9656975-fifa-coupe-du-monde-2018-cristiano-ronaldo-le-plus-rapide-a-33-ans.html
 9658545-fifa-coupe-du-monde-2018-le-japon-surprend-une-colombie-reduite-a-dix.html
 9658564-fifa-coupe-du-monde-2018-le-senegal-soffre-la-pologne.html
+9658566-fifa-coupe-du-monde-2018-la-russie-quasiment-en-huitiemes-de-finale.html
 9659134-fifa-coupe-du-monde-2018-behrami-absent-lors-de-lentrainement-mardi.html
 9661010-fifa-coupe-du-monde-2018-largentine-sous-haute-pression-face-a-la-croatie.html
 9661014-fifa-coupe-du-monde-2018-le-portugal-bat-peniblement-le-maroc.html
@@ -76,12 +78,14 @@
 9662837-fifa-coupe-du-monde-2018-un-match-particulier-entre-la-serbie-et-la-suisse.html
 9663826-fifa-coupe-du-monde-2018-corrigee-par-la-croatie-largentine-est-au-bord-du-gouffre.html
 9663850-fifa-coupe-du-monde-2018-la-france-bat-le-perou-et-passe-en-huitiemes.html
+9663851-fifa-coupe-du-monde-2018-le-danemark-tenu-en-echec.html
 9664143-fifa-coupe-du-monde-2018-le-bresil-na-plus-le-choix.html
 9665216-fifa-coupe-du-monde-2018-trois-supporters-suisses-rejoignent-kaliningrad-en-tracteur.html
 9665485-fifa-coupe-du-monde-2018-petkovic-elude-le-sujet-qui-fache.html
 9666675-fifa-coupe-du-monde-2018-un-match-tres-difficile-pour-la-suisse-et-la-serbie-selon-le-journaliste-serbe-veljko-ivanovic.html
 9666941-fifa-coupe-du-monde-2018-le-bresil-domine-le-costa-rica-dans-les-arrets-de-jeu.html
 9667179-fifa-coupe-du-monde-2018-ces-demeles-judiciaires-de-marquez-qui-defraient-la-chronique.html
+9667873-fifa-coupe-du-monde-2018-la-suisse-face-aux-geants-serbes-quel-impact.html
 9668284-fifa-coupe-du-monde-2018-le-nigeria-se-relance-face-a-lislande.html
 9668369-fifa-coupe-du-monde-2018-la-suisse-montre-un-formidable-caractere.html
 9668370-fifa-coupe-du-monde-2018-les-tops-et-les-flops-de-lequipe-de-suisse.html
@@ -91,6 +95,7 @@
 9669192-fifa-coupe-du-monde-2018-la-suisse-gagne-a-la-90e-de-quoi-sextasier-nestcepas-monsieur-parmelin.html
 9669534-fifa-coupe-du-monde-2018-la-belgique-tue-le-suspense-en-une-mitemps.html
 9669689-fifa-coupe-du-monde-2018-la-mannschaft-se-relance-a-la-derniere-minute.html
+9669692-fifa-coupe-du-monde-2018-le-mexique-confirme-face-a-la-coree-du-sud.html
 9669818-fifa-coupe-du-monde-2018-affaire-de-laigle-ce-nest-pas-lessentiel.html
 9669951-fifa-coupe-du-monde-2018-lasf-veut-eteindre-lincendie-sur-laffaire-de-laigle.html
 9670157-fifa-coupe-du-monde-2018-la-fifa-ouvre-une-enquete-contre-xhaka-et-shaqiri.html
@@ -104,6 +109,7 @@
 9671180-fifa-coupe-du-monde-2018-lichtsteiner-aussi-sous-enquete.html
 9672076-fifa-coupe-du-monde-2018-lespagne-et-le-portugal-accroches-la-roja-premiere.html
 9672081-fifa-coupe-du-monde-2018-luruguay-bat-la-russie-et-termine-au-sommet-du-groupe-a.html
+9672138-fifa-coupe-du-monde-2018-le-banc-des-bleus-pour-conserver-la-1re-place.html
 9672139-fifa-coupe-du-monde-2018-linstant-de-verite-pour-messi-et-cie.html
 9672208-fifa-coupe-du-monde-2018-xhaka-lichtsteiner-et-shaqiri-pas-suspendus.html
 9672617-fifa-coupe-du-monde-2018-les-differents-scenarii-pour-la-suisse.html
@@ -123,6 +129,7 @@
 9677327-fifa-coupe-du-monde-2018-la-suisse-va-se-qualifier-avec-un-11-contre-le-costa-rica-selon-le-journaliste-esteban-valverde.html
 9677386-fifa-coupe-du-monde-2018-la-croatie-met-fin-a-laventure-islandaise.html
 9677619-devenir-footballeur-un-reve-trois-trajectoires.html
+9678471-fifa-coupe-du-monde-2018-la-belgique-sans-ses-stars-face-a-langleterre.html
 9678519-fifa-coupe-du-monde-2018-lallemagne-prend-la-porte-des-la-phase-de-poules.html
 9678527-fifa-coupe-du-monde-2018-la-suisse-fait-match-nul-contre-le-costa-rica-et-file-en-huitiemes.html
 9679375-fifa-coupe-du-monde-2018-suede-et-mexique-passent-en-8es-de-finale.html
@@ -135,6 +142,7 @@
 9680867-fifa-coupe-du-monde-2018-une-histoire-de-cartons-jaunes-elimine-le-senegal.html
 9680877-fifa-coupe-du-monde-2018-la-belgique-remporte-le-duel-au-sommet-du-groupe-g.html
 9681001-fifa-coupe-du-monde-2018-kaputt-historico-le-fiasco-allemand-vu-par-la-presse-internationale.html
+9681215-fifa-coupe-du-monde-2018-suisse-costa-rica-meilleure-audience-depuis-2016.html
 9681309-fifa-coupe-du-monde-2018-johan-djourou-sans-club.html
 9682048-fifa-coupe-du-monde-2018-un-bref-mais-heureux-retour-en-suisse-pour-embolo.html
 9683453-fifa-coupe-du-monde-2018-les-rates-de-lallemagne-en-chiffres-et-en-images.html
@@ -183,6 +191,7 @@
 9701191-foot-fernando-hierro-nest-plus-le-selectionneur-de-lespagne.html
 9701446-fifa-coupe-du-monde-2018-vida-averti-par-la-fifa-pour-une-celebration-deplacee.html
 9703237-fifa-coupe-du-monde-2018-francebelgique-la-demie-des-freres-ennemis.html
+9703273-foot-luis-enrique-reprend-les-renes-de-lespagne.html
 9705885-fifa-coupe-du-monde-2018-le-var-utile-ou-pas-decryptage-de-lexarbitre-international-stephan-studer.html
 9706200-fifa-coupe-du-monde-2018-les-bleus-soffrent-une-3e-finale-apres-1998-et-2006.html
 9706248-fifa-coupe-du-monde-2018-langleterre-prete-a-rever-malgre-modric.html

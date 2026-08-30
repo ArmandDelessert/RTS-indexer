@@ -1,7 +1,11 @@
 ./
+10009704-vih-en-suisse-le-debut-de-la-fin-de-lepidemie.html
 10023635-finlande-un-tombeau-nucleaire-pour-leternite.html
 10043553-gilets-jaunes-voyage-au-bout-de-la-grogne.html
 10057414-eclairage-public-une-question-de-securite.html
+10119156-initiative-sur-le-mitage-du-territoire-urgence-ou-utopie.html
+10154935-revision-de-la-loi-sur-les-armes-en-suisse-attention-terrain-mine.html
+10169714-etrottinettes-monoroues-et-la-guerre-du-trottoir.html
 10187738-les-jeunes-nouveaux-herauts-du-climat.html
 8732745-un-consigliere-federale-a-tout-prix.html
 8855864-vaud-premier-de-classe-de-lecole-a-la-maison-en-suisse.html
@@ -16,6 +20,7 @@
 9041726-malte-la-corruption-derriere-la-carte-postale.html
 9060555-jeux-olympiques-de-turin-2006-quel-heritage-quelles-lecons.html
 9089391-les-russes-en-suisse-une-communaute-qui-a-triple-en-15-ans.html
+9101679-civilistes-utiles-mais-pas-indispensables.html
 9120373-le-vapotage-lalternative-au-tabac-qui-fait-debat.html
 9140114-a-lecole-de-legalite-hommesfemmes.html
 9161782-ces-suisses-aux-portes-de-la-rue.html
@@ -25,6 +30,7 @@
 9288388-lats-toujours-dactualite.html
 9309039-consultation-a-20-minutes-cest-grave-docteur.html
 9327468-experimenter-la-suisse-autrement-nouvelle-mode-du-tourisme.html
+9347309-sud-de-litalie-5-etoiles-dans-les-yeux-des-electeurs.html
 9369229-la-5g-seratelle-vraiment-une-revolution.html
 9384755-20-de-voitures-electriques-la-suisse-trop-optimiste.html
 9404896-a-lecole-des-imams-au-coeur-dune-formation-de-luniversite-de-geneve.html
@@ -32,6 +38,10 @@
 9458306-berne-laboratoire-de-laide-sociale.html
 9472426-la-reprise-economique-au-portugal-une-success-story.html
 9489101-les-eglises-de-suisse-en-quete-de-vocation.html
+9520075-agriculture-suisse-la-concurrence-est-dans-le-pre.html
+9532096-avortement-en-irlande-vers-une-revolution-societale.html
+9550003-sion-2026-carnets-de-campagne-dun-valais-divise.html
+9566639-haro-sur-le-plastique-bannir-la-paille-et-ensuite.html
 9588070-protection-des-donnees-leurope-bouge-et-la-suisse.html
 9602635-austerite-la-grece-sort-la-tete-de-leau-et-les-grecs.html
 9620864-deal-de-rue-le-chat-et-la-souris.html
@@ -40,10 +50,13 @@
 9672179-vintimille-symbole-dune-europe-dans-limpasse-face-a-la-crise-migratoire.html
 9800838-bannir-les-smartphones-pour-mieux-vivre.html
 9817477-feminin-masculin-et-bientot-une-case-neutre-en-suisse.html
+9832215-dans-les-coulisses-du-conseil-des-droits-de-lhomme-fragile-equilibre.html
 9852413-conge-paternite-en-suisse-papa-ou-tes.html
 9866426-changement-climatique-les-vignerons-vont-trinquer.html
 9887111-elections-americaines-de-mimandat-la-forteresse-republicaine-dorange-county-en-danger.html
 9901675-dons-dorganes-la-greffe-prend-lentement-en-suisse.html
+9926243-les-vaches-a-cornes-image-depinal.html
+9947124-apres-leffondrement-du-pont-de-genes-une-ville-en-sursis.html
 9953368-interdiction-de-la-mendicite-tendre-la-main-a-tout-prix.html
 9970986-dans-les-coulisses-du-concours-de-geneve.html
 9991569-du-shopping-jusqua-20h00-la-bonne-affaire.html

@@ -1,11 +1,14 @@
 10012493-cheesemaster-quand-un-simple-jeu-revele-des-donnees-personnelles.html
 10162339-les-escrocs-en-ligne-operent-aussi-sur-les-sites-de-prevention-antiarnaque.html
+10167046-camille-degott-de-la-rts-remporte-le-prix-2019-du-meilleur-jeune-journaliste.html
 10203440-le-quotidien-alemanique-blick-fete-60-ans-dexistence-entre-scandales-et-politique.html
 10215566-cyberharcelement-comment-le-definir-le-prevenir-y-reagir.html
 10310123-facebook-a-stocke-des-centaines-de-millions-de-mots-de-passe-non-chiffres.html
+10319574-la-redaction-de-la-revue-feminine-du-vatican-annonce-sa-demission.html
 10344798-le-journal-satirique-vigousse-fete-sa-longevite-avec-un-400e-numero.html
 10363086-canal-va-lancer-son-offre-series-en-suisse-dici-la-fin-de-lannee.html
 10473781-lascension-de-hugo-travers-le-youtubeur-qui-a-decroche-le-president.html
+10538345-srf-revoit-son-projet-de-demenagement-du-studio-radio-de-berne-a-zurich.html
 10567992-une-panne-a-bloque-momentanement-twitter-jeudi-soir-y-compris-en-suisse.html
 10648688-du-cirque-un-thriller-et-les-elections-federales-au-programme-de-la-rts.html
 10687421-fuite-de-donnees-concernant-des-millions-dutilisateurs-de-facebook.html
@@ -13,6 +16,7 @@
 10782493-le-blick-fete-ses-60-ans-avec-une-edition-a-20-centimes.html
 10820454-la-guerre-des-plateformes-de-streaming-fait-rage-jusquen-suisse.html
 11181365-le-short.html
+11260886-les-journalistes-de-la-rts-en-force-aux-swiss-press-awards-2020.html
 11471035-darius-rochebin-quitte-la-rts-pour-rejoindre-la-chaine-francaise-lci.html
 11485233-16000-volontaires-pour-contrer-les-fake-news-liees-au-covid19.html
 11496808-la-nouvelle-revolution-numerique-pourrait-bien-etre-celle-de-laudio.html
@@ -97,6 +101,7 @@
 9100686-aujourdhui-les-cyberattaques-mettent-aussi-en-danger-les-civils.html
 9130708-les-morts-et-les-millions-de-dollars-de-degats-lies-au-jeu-pokemon-go.html
 9133171-project-veritas-une-organisation-en-croisade-contre-les-medias-americains.html
+9155963-les-videos-nouvonews-primees-dans-la-categorie-video-du-meilleur-du-web.html
 9177664-de-la-fin-de-lhebdo-au-malaise-chez-tamedia-annee-tendue-pour-la-presse-romande.html
 9179623-le-journaliste-de-la-rts-christian-favre-laureat-du-champignac-dor.html
 9196471-les-redactions-romandes-de-tamedia-tentent-de-negocier-a-zurich-en-vain.html
@@ -111,13 +116,16 @@
 9394547-les-fake-news-se-propagent-plus-vite-que-les-vraies-informations-sur-internet.html
 9437314-le-grand-jd-filme-la-crise-ecologique-pour-2-millions-dabonnes-youtube.html
 9449051-un-androide-va-presenter-un-journal-televise-au-japon-des-le-mois-davril.html
+9490809-le-prix-pulitzer-recompense-les-revelations-sur-harvey-weinstein.html
 9507085-la-basler-zeitung-un-journal-proeuropeen-devenu-souverainiste.html
 9519894-tamedia-met-fin-avec-effet-immediat-a-sa-relation-avec-publicitas.html
 9602617-les-deux-vincent-de-retour-sur-les-antennes-de-la-rts-des-le-31-aout.html
 9613746-le-reporter-que-trump-redoute-le-plus-a-washington-est-une-femme.html
+9648978-france-tv-tf1-et-m6-sunissent-dans-la-video-en-ligne-contre-logre-netflix.html
 9692093-greve-des-journalistes-de-tamedia-publications-romandes.html
 9694672-christian-constantin-est-en-discussion-pour-reprendre-le-matin.html
 9695432-la-greve-maintenue-les-journaux-de-tamedia-paraissent-en-version-reduite.html
+9789727-la-version-francophone-du-magazine-de-mode-bolero-va-disparaitre.html
 9791650-le-retour-des-deux-vincent-et-des-fourneaux-pour-la-rentree-de-la-rts.html
 9796738-deux-jours-de-paie-retires-des-salaires-demployes-grevistes-de-tamedia.html
 9877479-sur-les-pas-du-grand-jd.html

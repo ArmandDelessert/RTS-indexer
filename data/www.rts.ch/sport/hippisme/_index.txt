@@ -1,15 +1,21 @@
 ./
+10051822-chi-de-geneve-guerdat-remporte-une-deuxieme-fois-la-finale-du-top-10.html
+10055645-chi-de-geneve-guerdat-battu-dun-souffle-par-ehning.html
 10296415-csi-boisleduc-guerdat-termine-au-2e-rang.html
 10342385-hippisme-steve-guerdat-vire-en-tete.html
 10345347-hippisme-steve-guerdat-et-alamo-restent-dans-la-course-a-goteborg.html
 10347743-hippisme-double-helvetique-a-goteborg-guerdat-devant-fuchs.html
 10653712-hippisme-lequipe-de-suisse-loin-des-medailles-fuchs-et-guerdat-dans-le-coup.html
 10656393-hippisme-la-belgique-en-or-pour-la-premiere-fois-la-suisse-6e.html
+10659030-hippisme-martin-fuchs-remporte-le-titre-europeen-a-rotterdam.html
 10849693-hippisme-la-suisse-en-force-pour-la-finale-du-top10-a-geneve.html
 10937095-chi-de-geneve-palexpo-accueille-fierement-ses-cadors-helvetiques.html
 10944872-chi-de-geneve-steve-guerdat-au-top-a-palexpo.html
 10945765-chi-de-geneve-martin-fuchs-simpose-au-bout-dun-barrage-epoustouflant.html
+10961079-hippisme-fuchs-simpose-a-londres-en-coupe-du-monde.html
+10985154-hippisme-fuchs-prend-la-place-de-guerdat-comme-numero-un-mondial.html
 11006875-hippisme-nouvelle-victoire-baloise-pour-steve-guerdat.html
+11056096-hippisme-steve-guerdat-doit-ceder-alamo.html
 11581022-hippisme-deuxieme-titre-pour-bryan-balsiger.html
 12459354-hippisme-bon-depart-des-cavaliers-suisses-a-riesenbeck.html
 12464983-hippisme-lequipe-de-suisse-se-pare-de-lor-europeen.html
@@ -118,3 +124,4 @@
 9251725-carnet-noir-le-cavalier-willi-melliger-nest-plus.html
 9484982-finale-de-la-coupe-du-monde-fin-du-reve-pour-steve-guerdat.html
 9583615-hippisme-la-suisse-troisieme-a-la-baule-en-coupe-des-nations.html
+9863954-hippisme-fuchs-et-guerdat-medailles.html

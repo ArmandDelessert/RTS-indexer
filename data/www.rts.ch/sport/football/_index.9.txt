@@ -129,6 +129,7 @@
 9386818-serie-a-la-fiorentina-et-cagliari-ont-decide-de-retirer-le-maillot-numero-13-celui-que-portait-davide-astori.html
 9389636-ligue-des-champions-la-juventus-devra-sortir-le-grand-jeu-mercredi-en-8e-retour-pour-eliminer-tottenham.html
 9391557-equipe-de-suisse-une-deception-pour-dickenmann-et-ses-coequipieres.html
+9393405-challenge-league-servette-se-separe-de-meho-kodro.html
 9394601-18e-20172018.html
 9396984-challenge-league-le-defenseur-de-xamax-janick-kamber-manquera-a-lappel-au-moins-deux-semaines.html
 9398510-premier-league-manchester-united-domine-liverpool-21-lors-du-choc-de-la-30e-journee.html
@@ -161,6 +162,7 @@
 9507106-premier-league-arsene-wenger-va-quitter-arsenal.html
 9509660-premier-league-un-record-pour-mohamed-salah.html
 9511255-serie-a-remo-freuler-marque-encore.html
+9511304-challenge-league-neuchatel-xamax-retrouvera-lelite-la-saison-prochaine.html
 9511719-serie-a-naples-bat-la-juve-et-relance-la-course-au-scudetto.html
 9512672-premier-league-mohamed-salah-elu-joueur-de-lannee.html
 9514500-ne-xamax-christian-binggeli-on-est-dans-la-cour-des-grands-maintenant-mais-toujours-avec-les-2-pieds-sur-terre.html
@@ -175,6 +177,7 @@
 9528789-serie-a-la-juve-victorieuse-lors-dun-derby-ditalie-completement-fou.html
 9529694-super-league-tous-les-buts-de-la-31e-journee.html
 9529995-premier-league-larsenal-de-captain-xhaka-battu-a-old-trafford.html
+9530186-liga-le-barca-decroche-son-25e-titre-et-condamne-le-deportivo.html
 9532899-fifa-coupe-du-monde-2018-lespagne-dans-la-peau-du-favori-selon-le-cies.html
 9535224-premier-league-encore-un-prix-pour-mo-salah.html
 9537232-ligue-des-champions-le-real-madrid-elimine-le-bayern-munich-21-22-et-se-hisse-en-finale.html
@@ -185,6 +188,7 @@
 9546646-fa-cup-ramona-bachmann-sacree-reine-de-wembley.html
 9547152-serie-a-lichtsteiner-quittera-la-juventus-en-fin-de-saison.html
 9547857-premier-league-arsene-wenger-salue-par-le-public-des-gunners.html
+9552880-foot-roberto-mancini-prochain-selectionneur-de-italie.html
 9554183-coupe-de-france-pas-de-miracle-pour-les-herbiers-face-au-psg.html
 9557943-fifa-coupe-du-monde-2018-dani-alves-sur-la-touche-durant-au-moins-trois-semaines.html
 9558246-coupe-ditalie-la-juventus-ecrase-lac-milan-en-finale.html
@@ -200,6 +204,7 @@
 9569833-foot-cest-officiel-roberto-mancini-prend-les-renes-de-litalie.html
 9571507-fifa-coupe-du-monde-2018-low-guidera-la-mannschaft-jusquau-qatar.html
 9575494-finale-20172018.html
+9576729-serie-a-buffon-dira-ciao-a-la-vieille-dame-samedi.html
 9577090-ligue-des-champions-buffon-regrette-ses-propos-contre-larbitre-de-realjuventus.html
 9581925-fa-cup-chelsea-simpose-de-peu-face-a-manchester-united.html
 9583200-ligue-1-lucien-favre-quitte-officiellement-logc-nice.html
@@ -208,6 +213,7 @@
 9587544-bundesliga-lucien-favre-a-dortmund-cest-officiel.html
 9590897-fifa-coupe-du-monde-2018-neymar-reprend-lentrainement.html
 9591253-premier-league-unai-emery-officiellement-nomme-a-arsenal.html
+9592288-serie-a-carlo-ancelotti-officialise-a-naples.html
 9594057-ligue-des-champions-dames-les-lyonnaises-trop-fortes-pour-dickenmann-et-wolfsburg.html
 9594138-hans-gamper-lhelvete-presque-inconnu-qui-a-fonde-le-barca.html
 9594358-challenge-league-alain-geiger-a-la-tete-du-servette-fc.html
@@ -240,6 +246,7 @@
 9635907-fifa-coupe-du-monde-2018-le-bresil-termine-sa-preparation-sur-une-bonne-note.html
 9642766-liga-julen-lopetegui-prend-les-renes-du-real-madrid.html
 9647595-liga-griezmann-reste-a-latletico-madrid.html
+9661684-foot-la-russie-aurait-camoufle-un-cas-de-dopage-en-2015.html
 9679500-coupes-deurope-lac-milan-exclu-durant-une-annee.html
 9683344-bundesliga-michael-lang-rejoint-la-delegation-suisse-de-gladbach.html
 9693705-serie-a-ronaldo-a-la-juve-les-bianconeri-attendent-cr7-comme-le-messie.html
@@ -256,8 +263,11 @@
 9729689-super-league-tous-les-buts-de-la-1re-journee.html
 9729737-foot-fache-mesut-ozil-tourne-le-dos-a-la-mannschaft.html
 9739090-super-league-le-fc-bale-se-separe-de-wicky-frei-ad-interim.html
+9740877-super-league-igor-djuric-absent-neuf-mois.html
+9743274-fifa-de-nouvelles-accusations-contre-le-mondial-au-qatar.html
 9744906-ligue-des-champions-un-match-deja-crucial-pour-le-fc-bale.html
 9750000-ligue-des-champions-cest-deja-fini-pour-le-fc-bale.html
+9750156-super-league-bale-et-marcel-koller-negocient.html
 9751284-super-league-deux-matches-du-fc-bale-deplaces.html
 9766144-europa-league-bale-realise-une-bonne-operation-aux-paysbas.html
 9769806-jleague-iniesta-marque-les-esprits-pour-son-1er-but-au-pays-du-soleil-levant.html
@@ -285,9 +295,18 @@
 9838998-foot-montant-record-pour-les-transferts-cet-ete.html
 9844603-super-lig-eren-derdiyok-encore-buteur.html
 9848679-super-league-murat-yakin-a-la-barre-du-fc-sion.html
+9861114-super-league-murat-yakin-commencera-en-tribunes.html
+9863666-super-league-young-boys-ecrase-le-fc-bale.html
 9864013-super-league-les-fans-bernois-manifestent-contre-lesports.html
+9866845-fifa-awards-luka-modric-elu-meilleur-joueur-de-lannee.html
+9898109-super-league-lucerne-fait-tomber-le-leader.html
+9899192-super-league-pas-de-vainqueur-dans-le-derby-romand.html
 9901776-equipe-de-suisse-feminine.html
 9913998-ligues-b-c-et-d.html
 9930733-football-suisse.html
+9946161-europa-league-excellente-operation-de-zurich-contre-leverkusen.html
+9948425-fifa-la-reforme-du-marche-des-transferts-enterinee.html
+9951459-super-league-neuchatel-ne-quitte-pas-la-derniere-place.html
+9980937-europa-league-zurich-battu-mais-qualifie-pour-les-16es-de-finale.html
 9980944-europa-league-frey-marque-lichtsteiner-se-blesse.html
 9989828-ligue-1-mbappeet-largent-cest-indecent-mais-le-marche-est-comme-ca.html

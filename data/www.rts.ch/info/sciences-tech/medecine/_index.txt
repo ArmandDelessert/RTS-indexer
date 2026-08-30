@@ -6,6 +6,8 @@
 10134383-berlin-voudrait-rapatrier-les-medecins-allemands-venus-travailler-en-suisse.html
 10144880-le-marche-du-cannabis-legal-connait-un-boom-chez-les-seniors.html
 10198394-lausanne-experimentera-de-nouveaux-traitements-contre-le-cancer.html
+10209950-un-test-de-resistance-a-la-tuberculose-sur-cinq-est-faux-dans-les-pays-du-sud.html
+10227777-un-programme-pour-aider-les-perfectionnistes-a-mieux-gerer-lechec.html
 10256809-la-commission-dethique-medicale-se-positionne-sur-les-avortements-tardifs.html
 10266455-des-chercheurs-annoncent-un-second-cas-de-guerison-probable-du-sida.html
 10284097-la-depression-postpartum-des-peres-une-souffrance-meconnue.html
@@ -19,6 +21,7 @@
 10349489-les-hug-innovent-pour-les-patients-en-situation-de-handicap-mental.html
 10364730-il-y-a-50-ans-seffectuait-la-premiere-greffe-du-cur-en-suisse.html
 10379050-la-barbe-masculine-recelerait-plus-de-bacteries-que-le-pelage-des-chiens.html
+10382425-programme-national-lance-pour-mieux-gerer-la-medication-des-aines.html
 10388566-une-nouvelle-campagne-pour-le-carnet-de-vaccination-electronique.html
 10389587-des-chercheurs-chinois-testent-un-pacemaker-qui-sautorecharge.html
 10413127-le-tabou-des-regles-a-permis-de-stigmatiser-les-femmes.html
@@ -59,6 +62,8 @@
 11028217-la-septicemie-tue-deux-fois-plus-quon-ne-le-pensait-selon-une-etude.html
 11072645-les-femmes-mutilees-consultent-par-desir-de-grossesse-ou-de-mariage.html
 11098802-vieillesse-et-bonne-sante-ne-sont-de-loin-pas-incompatibles.html
+11109671-le-depistage-precoce-du-cancer-de-la-vessie-possible-par-test-durine.html
+11111115-pour-sauver-sa-main-une-violoniste-joue-durant-son-operation-du-cerveau.html
 11129571-les-personnes-agees-et-les-hommes-sont-les-plus-vulnerables-face-au-coronavirus.html
 11151463-decouverte-prometteuse-contre-le-covid19-a-luniversite-de-bale.html
 11170358-premier-essai-clinique-dun-vaccin-contre-le-covid19-lance-aux-etatsunis.html
@@ -89,6 +94,7 @@
 11337542-novartis-decroche-le-feu-vert-europeen-pour-le-zolgensma.html
 11341892-deux-etudes-constatent-limmunite-chez-des-singes-infectes-par-le-covid.html
 11345309-la-chloroquine-augmenterait-le-taux-de-mortalite-des-malades-du-covid.html
+11374458-comment-trier-le-flot-detudes-scientifiques-sur-le-sarscov2.html
 11381385-la-suva-sattend-a-une-hausse-des-maladies-dues-a-lamiante.html
 11381412-des-traitements-antibiotiques-moins-longs-sont-tout-aussi-efficaces.html
 11392170-les-objets-ne-sont-pas-des-vecteurs-majeurs-du-sarscov2.html
@@ -523,10 +529,13 @@
 9051171-les-stents-biodegradables-augmentent-le-risque-dinfarctus-selon-une-etude.html
 9051934-nombre-inhabituellement-eleve-dintoxications-liees-aux-champignons.html
 9056959-surpoids-ou-denutrition-la-quasitotalite-de-la-planete-concernee.html
+9062125-la-creation-dun-vaccin-eviterait-plus-de-100000-fausses-couches.html
+9071172-un-jeune-garcon-sauve-par-une-greffe-de-peau-a-partir-de-cellules-souches.html
 9092046-la-somniloquie-ce-langage-souvent-ordurier-qui-accompagne-nos-reves.html
 9092106-mise-en-garde-contre-la-toxicite-de-certains-medicaments-sans-ordonnance.html
 9101141-quelques-conseils-pour-aider-son-enfant-a-sendormir-tout-seul.html
 9126756-transplanter-un-coeur-cest-plus-quune-operation-selon-rene-pretre.html
+9132918-la-lutte-contre-le-sida-ne-passe-plus-par-le-tout-capote.html
 9133952-la-prep-cette-pilule-antivih-efficace-mais-peu-utilisee-en-suisse.html
 9165799-un-centre-pour-muscles-artificiels-cree-a-lepfl-grace-a-une-donation.html
 9242555-lofsp-se-defend-de-limiter-le-contact-entre-le-medecin-et-le-patient.html
@@ -537,12 +546,16 @@
 9279297-la-reussite-scolaire-depend-de-lenvironnement-social-et-genetique.html
 9289595-un-baume-a-levres-sur-cinq-contient-des-substances-a-risque.html
 9322101-des-cigarettiers-accuses-de-tricher-sur-les-taux-de-nicotine-et-de-goudron.html
+9334207-le-surpoids-favorise-par-certains-produits-chimiques-selon-une-etude.html
 9353886-lexces-dalcool-augmenterait-fortement-les-risques-de-demence.html
+9421354-un-nouveau-centre-du-developpement-de-lenfant-inaugure-a-geneve.html
 9422104-un-robot-humanoide-vient-en-aide-aux-enfants-autistes-au-chuv.html
 9440059-le-viagra-vingt-ans-de-succes-planetaire-et-des-milliards-de-pilules.html
 9446281-hausse-de-la-consommation-mondiale-dantibiotiques-de-65-en-15-ans.html
 9446862-roche-reconnait-la-mort-de-patients-traites-avec-un-de-ses-medicaments.html
+9478664-la-suisse-aura-son-registre-national-pour-ameliorer-le-traitement-des-cancers.html
 9483573-les-solutions-pour-affronter-le-pollen-et-vivre-avec-les-allergies.html
+9507306-le-sport-apres-un-arret-cardiaque-permettrait-de-vivre-plus-longtemps.html
 9523706-quand-le-viagra-aide-a-surmonter-lanxiete-de-performance.html
 9526551-decouverte-dun-traitement-pour-une-maladie-rare-jusquici-incurable.html
 9532180-la-suisse-mauvaise-eleve-en-matiere-de-prevention-du-cancer-de-la-peau.html
@@ -571,6 +584,7 @@
 9830548-atteinte-de-la-tourette-une-valaisanne-revit-grace-a-une-operation-rare.html
 9875151-le-massage-cardiaque-crucial-pour-la-survie-en-cas-darret-du-coeur.html
 9907677-avoir-surmonte-le-cancer-un-atout-dans-le-monde-du-travail.html
+9911766-les-gynecologues-mettent-en-garde-contre-une-epidemie-de-cesariennes.html
 9919174-le-fitness-a-la-maison-une-activite-tendance-qui-comporte-des-dangers.html
 9933080-appel-a-une-nouvelle-gouvernance-pour-le-human-brain-project.html
 9941898-la-souffrance-insupportable-nud-du-probleme-de-lassistance-au-suicide.html

@@ -12,6 +12,7 @@
 8961984-pyeongchang-2018-patinage-artistique-alexia-paganini-sera-letoile-helvetique.html
 9143462-pyeongchang-2018-russie-les-sportifs-russes-les-plus-controles-avant-les-jo.html
 9144427-pyeongchang-2018-russie-le-pays-exclu-mais-pas-ses-athletes-propres.html
+9147261-pyeongchang-2018-russie-chronologie-du-dopage-institutionnalise.html
 9159549-pyeongchang-2018-biathlon-les-relais-masculin-et-feminin-qualifies-pour-les-jo.html
 9196146-pyeongchang-2018-patinage-artistique-alexia-paganini-officiellement-selectionnee.html
 9239706-pyeongchang-2018-biathlon-elisa-gasparin-atteint-la-cible-olympique.html
@@ -29,6 +30,7 @@
 9279485-pyeongchang-2018-russie-169-sportifs-autorises-a-participer-sous-drapeau-olympique.html
 9281262-pyeongchang-2018-ski-de-fond-avec-dario-cologna-en-fer-de-lance.html
 9288007-pyeongchang-2018-ski-alpin-carlo-janka-bien-de-la-partie.html
+9304255-dopage-13-sportifs-russes-et-2-coachs-blanchis-sont-eligibles-pour-pyeongchang.html
 9305620-pyeongchang-2018-russie-thomas-bach-pointe-du-doigt-la-decision-du-tas.html
 9305799-pyeongchang-2018-ski-de-fond-des-sportifs-engages-en-coree-du-sud-soupconnes-de-dopage.html
 9307738-pyeongchang-2018-russie-les-15-sportifs-blanchis-ne-seront-pas-invites-aux-jo.html
@@ -164,6 +166,7 @@
 9344573-pyeongchang-2018-curling-les-suissesses-proches-de-la-sortie.html
 9344679-pyeongchang-2018-ski-alpin-lindsey-vonn-domine-le-1er-entrainement-en-descente.html
 9344779-pyeongchang-2018-divers-decouvrez-les-coulisses-du-dispositif-ssr.html
+9344814-pyeongchang-2018-ski-freestyle-pas-de-finale-pour-les-sauteurs-suisses.html
 9344863-pyeongchang-2018-bobsleigh-les-suisses-largues-a-miparcours.html
 9344890-pyeongchang-2018-biathlon-une-2e-medaille-dor-pour-martin-fourcade.html
 9345214-pyeongchang-2018-curling-les-jo-rattrapes-par-le-dopage-un-russe-implique.html

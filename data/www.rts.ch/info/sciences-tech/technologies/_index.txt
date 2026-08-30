@@ -20,6 +20,7 @@
 10687236-google-accuse-de-recolter-des-informations-a-linsu-de-ses-utilisateurs.html
 10710454-pres-de-40000-curieux-ont-visite-lepfl-ce-weekend.html
 10731691-venise-veut-stopper-le-projet-europeen-venice-time-machine.html
+10735836-deja-victime-de-son-succes-mario-kart-deboule-sur-les-smartphones.html
 10798004-le-plus-long-vol-direct-de-lhistoire-parti-de-new-york-a-atterri-a-sydney.html
 10810522-la-suprematie-quantique-a-portee-de-qubits-pour-lordinateur-de-google.html
 10826920-de-nouvelles-emoticones-pour-mieux-refleter-la-diversite-sur-nos-ecrans.html
@@ -32,11 +33,14 @@
 11121930-des-compagnies-en-quete-de-solutions-pour-un-meilleur-confort-en-classe-eco.html
 11178200-spacex-cherche-quatre-clients-prives-pour-un-vol-dans-lespace.html
 11185127-le-parc-informatique-mondial-en-soutien-a-la-recherche-sur-le-covid19.html
+11198039-pourquoi-la-pandemie-de-covid19-risque-de-pejorer-les-previsions-meteo.html
 11200507-apres-deux-mois-de-tests-le-satellite-cheops-est-operationnel.html
 11205155-cybercrimes-et-arnaques-augmentent-avec-la-pandemie-la-police-met-en-garde.html
 11283961-lepfl-rejoint-le-ska-limmense-radiotelescope-international.html
 11310864-singapour-teste-un-robotpatrouilleur-pour-faire-respecter-les-distances.html
 11337655-les-emissions-de-nox-reduites-avec-ladaptation-des-moteurs-diesel-vw.html
+11405702-le-plus-petit-moteur-au-monde-est-suisse-et-ne-compte-que-seize-atomes.html
+11407503-la-crise-du-coronavirus-aggrave-la-fracture-numerique.html
 11407832-un-avatar-dans-le-jeu-video-fortnite-au-secours-des-enfants-maltraites.html
 11426129-des-chercheurs-sopposent-a-une-etude-qui-dit-pouvoir-predire-des-crimes.html
 11461150-objectif-2025-pour-clearspace-la-startup-qui-veut-nettoyer-lespace.html
@@ -279,7 +283,9 @@
 9177686-la-fin-de-la-neutralite-dinternet-constitue-un-probleme-fondamental.html
 9195392-eric-schmidt-quitte-la-presidence-dalphabet-la-maisonmere-de-google.html
 9229478-nouvelle-methode-de-datation-des-restes-humains-utilisee-en-suisse.html
+9236097-il-faut-un-cadre-clair-en-matiere-de-surveillance-des-emails-au-travail.html
 9272893-en-suisse-comment-lutter-contre-lobsolescence-des-iphone.html
+9353251-avec-lessor-annonce-des-voitures-electriques-le-prix-du-cobalt-senvole.html
 9355615-twitter-renforce-sa-lutte-contre-les-bots-outils-de-propagande-politique.html
 9356433-une-supernova-debusquee-par-un-astronome-amateur-tres-chanceux.html
 9383968-la-suisse-bientot-dotee-dun-systeme-de-gestion-du-trafic-des-drones.html

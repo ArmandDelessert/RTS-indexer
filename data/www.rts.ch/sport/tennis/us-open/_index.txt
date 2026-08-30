@@ -2,8 +2,10 @@
 10654148-us-open-rf-et-le-djoker-pourraient-croiser-le-fer-en-demies.html
 10660487-us-open-federer-passe-sans-vraiment-convaincre.html
 10660490-us-open-wawrinka-victorieux-en-quatre-sets.html
+10667914-us-open-stan-wawrinka-lache-encore-une-manche-mais-finit-par-soffrir-jeremy-chardy.html
 10671416-us-open-belinda-bencic-use-alize-cornet-au-3e-set.html
 10671521-us-open-federer-a-18h00-contre-evans-wawrinka-vers-20h30-face-a-lorenzi.html
+10672126-us-open-rien-a-faire-pour-laaksonen-contre-shapovalov.html
 10672204-us-open-simona-halep-assommee-par-une-qualifiee-americaine.html
 10673303-us-open-wawrinka-domine-lorenzi-en-trois-sets-serres.html
 10674655-us-open-djokovic-wawrinka-medvedev-petit-condense-de-la-nuit-americaine.html
@@ -14,6 +16,7 @@
 10677637-us-open-pas-impossible-de-continuer-a-jouer-a-40-ans-dit-federer.html
 10678852-us-open-imperiale-bencic-domine-osaka-et-retrouve-les-quarts-de-finale.html
 10678861-us-open-nadal-convaincant-malgre-la-perte-dun-set.html
+10682132-us-open-federer-chute-en-quarts-de-finale.html
 10683294-us-open-wawrinka-sorti-sans-gloire-par-medvedev.html
 10684467-us-open-roger-federer-je-me-suis-battu-avec-ce-que-javais.html
 10684488-us-open-belinda-bencic-dans-le-dernier-carre.html
@@ -23,7 +26,9 @@
 10689426-us-open-pas-de-finale-pour-bencic.html
 10689949-us-open-linfatigable-medvedev-tombe-dimitrov-et-accede-a-la-finale.html
 10691711-us-open-williams-craque-a-nouveau-andreescu-championne.html
+10693207-us-open-nadal-monstrueux-la-next-gen-attendra-encore.html
 10693235-us-open-la-folle-annee-de-bianca-andreescu.html
+10711791-stan-wawrinka-je-travaille-fort-pour-revenir-bientot-sur-les-courts.html
 5159805-roger-federer-une-entree-en-lice-reportee.html
 5166986-wawrinka-passe-lobstacle-stepanek-sans-forcer.html
 5179593-roger-federer-je-me-suis-battu-tout-seul.html
@@ -131,3 +136,4 @@
 9806828-us-open-laccablant-cocktail-chaleur-et-humidite.html
 9808760-us-open-les-organisateurs-font-amende-honorable-pour-lavertissement-de-cornet.html
 9811402-us-open-djokovic-lache-un-set-face-a-sandgren.html
+9828885-us-open-osaka-triomphe-williams-perd-les-nerfs.html

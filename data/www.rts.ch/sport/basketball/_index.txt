@@ -12,6 +12,7 @@
 10180342-ligue-des-champions-le-paok-trop-fort-pour-olympic.html
 10194510-ligue-des-champions-fribourg-olympic-termine-sur-une-defaite.html
 10335884-nba-retour-en-grace-de-thabo-sefolosha.html
+10393433-basket-winterthour-cree-la-surprise-fribourg-manque-le-triple.html
 10393555-basket-fribourg-assume-son-statut-et-simpose.html
 10402272-nba-houston-subit-une-deuxieme-fois-la-loi-de-golden-state.html
 10486191-basket-fribourg-olympic-a-un-succes-du-titre.html
@@ -28,6 +29,7 @@
 10651916-basket-la-suisse-cree-lexploit-et-participera-aux-qualifs.html
 10699524-basket-largentine-cree-la-surprise-en-sortant-la-serbie.html
 10701468-basket-la-france-elimine-les-etatsunis-et-file-en-demies.html
+10709723-basket-lespagne-sur-le-toit-du-monde.html
 10725092-nba-sefolosha-rejoint-capela-a-houston.html
 10794160-nba-des-pertes-apres-la-crise-avec-la-chine.html
 10875024-basket-imad-fattal-et-les-lions-de-geneve-dix-ans-dix-titres-et-encore-un-enorme-appetit.html
@@ -37,6 +39,7 @@
 10976329-nba-houston-battu-sans-son-big-three.html
 11044026-nba-lebron-james-depasse-bryant-et-devient-3e-meilleur-marqueur.html
 11045022-nba-kobe-bryant-perd-la-vie-dans-un-accident.html
+11046025-nba-le-monde-entier-sous-le-choc-apres-la-disparition-de-kobe-bryant-et-de-sa-fille.html
 11059838-nba-les-lakers-ont-rendu-un-vibrant-hommage-a-kobe-bryant.html
 11060369-basket-une-finale-fribourg-olympic-union-neuchatel.html
 11061709-basket-une-sixieme-coupe-de-la-ligue-pour-fribourg-olympic.html
@@ -751,6 +754,7 @@
 9456233-nba-les-rockets-subissent-un-brutal-coup-darret.html
 9460767-nba-suspendu-sefolosha-sexcuse-sur-twitter.html
 9509647-basket-elfic-fribourg-remporte-la-coupe.html
+9509648-basket-fribourg-olympic-na-laisse-aucune-chance-a-lugano.html
 9530788-nba-houston-demarre-bien-capela-en-doubledouble.html
 9538335-nba-retour-au-jeu-flamboyant-de-curry.html
 9540640-nba-houston-et-capela-perdent-lavantage-du-parquet-face-a-utah.html
@@ -772,11 +776,13 @@
 9687879-nba-le-roi-lebron-james-rejoint-les-los-angeles-lakers.html
 9688247-nba-le-jazz-conserve-thabo-sefolosha.html
 9690965-basket-le-match-philippinesaustralie-tourne-au-combat-de-boxe.html
+9803313-nba-manu-ginobili-prend-sa-retraite.html
 9862858-basket-fribourg-olympic-passe-le-premier-tour-qualificatif.html
 9871225-basket-nouveau-succes-de-fribourg-olympic-a-groningue.html
 9883328-basket-fribourg-simpose-sur-le-fil-grace-a-un-grand-roberson.html
 9893700-basket-fribourg-olympic-disputera-la-ligue-des-champions.html
 9956284-nba-klay-thompson-fait-tomber-le-record-de-paniers-a-3-points.html
+9957099-ligue-des-champions-fribourg-olympic-craque-sur-la-fin-de-match.html
 9979296-nba-thabo-sefolosha-retourne-en-tribunes.html
 9987283-nba-capela-na-pas-fini-le-match-contre-indiana.html
 9990929-nba-utah-gagne-encore-sans-sefolosha.html

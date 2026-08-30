@@ -46,6 +46,7 @@
 10534346-cyclisme-stefan-kung-roi-du-chrono-pour-la-troisieme-fois.html
 10544035-cyclisme-une-premiere-pour-sebastien-reichenbach.html
 10562812-tour-de-romandie-la-1re-etape-sur-le-parcours-des-mondiaux-en-2020.html
+10571958-vtt-nino-schurter-se-rapproche-du-record-dabsalon.html
 10597660-vtt-jolanda-neff-sans-rivale-florian-vogel-en-argent.html
 10608718-cyclisme-le-prodige-evenepoel-soffre-la-clasica-san-sebastian-hirschi-3e.html
 10608920-vtt-une-grande-premiere-pour-camille-balanche.html
@@ -57,6 +58,9 @@
 10621920-vtt-emilie-siegenthaler-sur-le-podium-a-lenzerheide.html
 10639313-tour-du-benelux-marc-hirschi-coiffe-sur-le-fil-par-tim-wellens.html
 10644978-cyclisme-tom-dumoulin-quitte-sunweb-pour-jumbowisma.html
+10647159-cyclisme-lancien-champion-du-monde-philippe-gilbert-retourne-chez-lotto.html
+10648632-cyclisme-trois-suisses-saligneront-samedi-au-depart-de-la-vuelta.html
+10649232-cyclisme-victoire-de-stefan-bissegger-sur-le-tour-de-lavenir.html
 10668114-vtt-la-suisse-championne-du-monde-en-relais.html
 10683095-vuelta-coup-double-de-primoz-roglic-a-pau.html
 10685020-vuelta-une-plantation-de-cannabis-decouverte-grace-a-un-helico-de-la-tv.html
@@ -72,7 +76,13 @@
 10743857-cyclisme-annemiek-van-vleuten-le-solo-dune-doyenne.html
 10744800-cyclisme-lepreuve-reine-raccourcie-en-raison-du-mauvais-temps.html
 10745042-cyclisme-stefan-kung-soffre-le-bronze-aux-mondiaux.html
+10779353-cyclisme-bauke-mollema-simpose-en-solitaire-en-lombardie.html
+10814534-cyclisme-cavendish-chez-bahrain-en-2020.html
+10838310-cyclisme-accuse-de-harcelement-le-directeur-du-centre-mondial-daigle-a-ete-licencie.html
 10850311-cyclisme-froome-opere-avec-succes.html
+10861462-cyclisme-raymond-poulidor-sest-eteint.html
+10875743-cyclisme-valverde-sur-le-tour-pour-soffrir-le-titre-olympique.html
+10877602-cyclisme-champions-et-anonymes-ont-rendu-un-dernier-hommage-a-raymond-poulidor.html
 10922376-cyclisme-le-tour-de-romandie-2020-sous-le-signe-des-mondiaux.html
 10930833-cyclisme-rohan-dennis-rejoint-ineos.html
 11060336-vtt-jolanda-neff-les-jo-restent-mon-grand-objectif.html
@@ -129,6 +139,7 @@
 11321170-coronavirus-travailler-a-lhopital-tous-les-jours-ma-boostee-confie-elise-chabbey.html
 11326759-cyclisme-tony-rominger-premier-suisse-vainqueur-de-la-vuelta.html
 11327962-vtt-les-mondiaux-de-crosscountry-changent-de-dates-et-dendroit.html
+11350635-cyclisme-armstrong-dit-sa-verite-dans-un-documentaire-despn.html
 11356194-cyclisme-michael-albasini-continue-pour-une-demisaison.html
 11406313-cyclisme-terpstra-chute-lourdement-a-lentrainement.html
 11425508-cyclisme-la-lotto-a-deja-fait-son-choix-pour-le-tour-de-france.html
@@ -164,6 +175,7 @@
 11561876-tour-de-france-deux-cas-positifs-dans-lencadrement-de-lotto.html
 11563742-tour-de-france-le-tour-2020-demblee-dans-le-rouge.html
 11564006-tour-de-france-alexander-kristoff-vainqueur-de-la-premiere-etape-et-maillot-jaune.html
+11565215-tour-de-france-gilbert-blesse-a-un-genou-abandonne.html
 11565359-tour-de-france-marc-hirschi-battu-dun-souffle-par-alaphilippe.html
 11568556-tour-de-france-caleb-ewan-soffre-un-4e-succes-au-sprint.html
 11571534-tour-de-france-roglic-au-sommet-alaphilippe-toujours-en-jaune.html
@@ -1172,6 +1184,7 @@
 9437789-cyclisme-peter-sagan-sadjuge-un-3e-gandwevelgem.html
 9452532-cyclisme-le-cas-froome-dans-les-mains-du-tribunal-antidopage-de-luci.html
 9452536-cyclisme-de-retour-a-la-competition-apres-une-blessure-silvan-dillier-remporte-la-route-adelie-de-vitre.html
+9454991-cyclisme-niki-terpstra-soffre-un-deuxieme-monument.html
 9470316-cyclisme-dillier-sincline-de-justesse-devant-sagan-sur-parisroubaix.html
 9470622-cyclisme-michael-goolaerts-entre-la-vie-et-la-mort.html
 9471173-cyclisme-michael-goolaerts-est-decede.html
@@ -1182,9 +1195,11 @@
 9510831-cyclisme-jungels-succede-a-valverde.html
 9513188-tour-de-romandie-qui-pour-succeder-a-richie-porte.html
 9515807-tour-de-romandie-bohli-battu-de-justesse-par-matthews-dans-le-prologue.html
+9519069-tour-de-romandie-lespagnol-omar-fraile-simpose-a-delemont.html
 9519821-cyclisme-david-lappartient-president-de-luci-explique-le-cas-froome.html
 9523647-tour-de-romandie-de-gendt-triomphe-avec-panache-a-yverdon.html
 9528511-tour-de-romandie-deuxieme-a-sion-roglic-file-vers-la-victoire-finale.html
+9529688-tour-de-romandie-ackermann-gagne-a-geneve-roglic-enleve-le-general.html
 9531207-autour-du-tour.html
 9549756-tour-du-yorkshire-une-voiture-astana-fonce-sur-un-signaleur.html
 9665260-tour-de-france-michael-albasini-pas-retenu.html
