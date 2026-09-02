@@ -6,17 +6,18 @@
 # crawl ne pagine pas (robots.txt l'interdit) et Wayback n'archive qu'une
 # fraction des pages, avec des mois de retard.
 #
-# D'où deux exécutions par jour plutôt qu'une : la fenêtre est de 24h, et le
-# planificateur de GitHub Actions est « au mieux » — un cron peut être retardé
-# de plusieurs dizaines de minutes aux heures chargées. Une seule exécution
-# quotidienne n'aurait aucune marge. Les minutes choisies évitent les heures
-# rondes, précisément pour fuir ces pics.
+# Deux exécutions ici, une troisième dans quotidien.yml (qui embarque aussi
+# `rss` avec `sitemap` et `crawl` à minuit) : trois passages par jour au total,
+# espacés de 8h. Heures rondes délibérément : le planificateur de GitHub
+# Actions retarde de plusieurs heures dans tous les cas (mesuré), au point
+# qu'éviter les pics de charge des heures pleines n'a plus d'effet mesurable.
+# Autant garder des horaires lisibles.
 
 name: rss
 
 on:
   schedule:
-    - cron: "17 5,17 * * *"
+    - cron: "0 8,16 * * *"
   workflow_dispatch:
 
 jobs:

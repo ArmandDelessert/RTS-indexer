@@ -1,0 +1,40 @@
+# Cadence quotidienne : rafraîchir les graines et parcourir le site.
+#
+# Trois commandes, dans cet ordre :
+#
+# * `sitemap` rafraîchit les pages de rubrique — la graine du crawl. Peu
+#   coûteux (~30s), placé en premier pour qu'une rubrique tout juste apparue
+#   dans le sitemap soit déjà connue du `crawl` qui suit dans le même run.
+# * `rss` capte les derniers articles publiés. Indépendant des deux autres,
+#   mais placé avant `crawl` : `run` n'écrit qu'une fois, à la fin de la
+#   chaîne ou dès qu'une commande échoue (cf. cmd_run) — si `crawl`, la plus
+#   longue et la plus exposée (page distante lente, timeout), échoue ou
+#   dépasse son budget, `sitemap`/`rss` sont déjà acquis plutôt que perdus.
+# * `crawl` parcourt le site sans limite de pages. Redevenu abordable (~20 min)
+#   depuis le retrait de RTS Play (gros volume, valeur nulle pour cet index) :
+#   une exécution quotidienne complète n'a plus besoin d'être fractionnée par
+#   un budget de pages ni par le curseur de rotation hebdomadaire.
+#
+# `verify` et `build` ne sont pas planifiés : la vérification de vivacité et le
+# ré-équilibrage de l'arbre (sharding, purge) se font à la main, au besoin.
+
+name: quotidien
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  collecte:
+    # Cf. rss.yml : un workflow réutilisable est plafonné par les permissions
+    # du job appelant, pas par _collecte.yml lui-même.
+    permissions:
+      contents: write
+    uses: ./.github/workflows/_collecte.yml
+    with:
+      commandes: |
+        sitemap
+        rss
+        crawl --max-pages 0
+      resume: parcours quotidien (sitemap, rss, crawl)
