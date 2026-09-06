@@ -135,6 +135,8 @@ tournee-generale-29341818.html
 tournee-generale-29341830.html
 tournee-generale-29348125.html
 tournee-generale-29348136.html
+tournee-generale-29348633.html
+tournee-generale-29348644.html
 tournee-romande-29105209.html
 tournee-romande-29105970.html
 tournee-romande-29106738.html
@@ -186,6 +188,7 @@ tournee-romande-29344544.html
 tournee-romande-29345687.html
 tournee-romande-29346670.html
 tournee-romande-29347815.html
+tournee-romande-29348367.html
 tous-des-nuls-29230431.html
 tous-des-traitres-29196611.html
 tout-est-sous-controle-29237670.html
