@@ -41,6 +41,7 @@
 5e-journee-yb-bale-3-3-le-resume-de-la-rencontre-29341748.html
 6e-journee-thoune-lausanne-0-0-le-resume-de-la-rencontre-29345998.html
 6e-journee-tous-les-buts-29347332.html
+6e-journee-tous-les-buts-29349267.html
 7e-journee-atalanta-a-bilbao-2-3-le-resume-de-la-rencontre-29126012.html
 7e-journee-bayern-union-sg-2-0-le-resume-de-la-rencontre-29126007.html
 7e-journee-chelsea-pafos-1-0-le-resume-de-la-rencontre-29126005.html
@@ -50,6 +51,8 @@
 7e-journee-newcastle-psv-3-0-le-resume-de-la-rencontre-29126009.html
 7e-journee-qarabag-eintracht-3-2-le-resume-de-la-rencontre-29126014.html
 7e-journee-salzburg-bale-score-le-resume-de-la-rencontre-29127177.html
+7e-journee-servette-saint-gall-0-2-le-resume-de-la-rencontre-29349273.html
+7e-journee-sion-thoune-3-2-le-resume-de-la-rencontre-29349239.html
 7e-journee-slavia-prague-barcelone-2-4-le-resume-de-la-rencontre-29126003.html
 7e-journee-sporting-paris-sg-2-1-le-resume-de-la-rencontre-29124826.html
 8e-etape-sisteron-nice-demi-vollering-ned-attaque-en-fin-de-course-et-s-empare-du-maillot-jaune-29323454.html
@@ -256,8 +259,11 @@ football-super-league-le-resume-de-la-5e-journee-et-le-classement-29342279.html
 football-super-league-les-constantins-ne-veulent-pas-vendre-boteli-meme-pour-20-millions-29342275.html
 football-super-league-les-resultats-29313405.html
 football-super-league-lugano-s-impose-2-1-face-a-vaduz-et-thoune-victorieux-3-1-face-a-lucerne-29313403.html
+football-super-league-resultats-et-classement-29349148.html
+football-super-league-servette-st-gall-0-2-les-grenat-s-inclinent-a-domicile-29349149.html
 football-super-league-sion-s-incline-4-2-au-wankdorf-face-aux-young-boys-29313399.html
 football-women-s-super-league-1re-journee-yverdon-zurich-0-3-les-zurichoises-font-carton-plein-29324106.html
+football-women-s-super-league-yverdon-de-retour-dans-l-elite-29349150.html
 forth-worth-usa-saut-d-obstacles-round-3-steve-guerdat-sui-a-la-6e-place-kent-farrington-usa-vainqueur-29210348.html
 forum-video-presente-par-thibaut-schaller-et-renaud-malik-29189234.html
 freeride-xtreme-de-verbier-le-resume-de-la-competition-29196869.html
@@ -285,6 +291,7 @@ jo-express-du-20-fevrier-29158892.html
 jo-express-du-21-fevrier-29159714.html
 jo-express-du-22-fevrier-29160376.html
 jo-milan-cortina-2026-fanny-smith-sui-et-son-histoire-olympique-29107473.html
+john-williams-directeur-sportif-du-servette-fc-fait-le-point-sur-le-transfert-de-kutesa-29349008.html
 journee-7-bodo-glimt-manchester-city-3-1-le-resume-de-la-rencontre-29124731.html
 journee-7-copenhague-naples-1-1-le-resume-de-la-rencontre-29124776.html
 journee-7-inter-milan-arsenal-1-3-le-resume-de-la-rencontre-29124777.html
@@ -381,6 +388,7 @@ le-resume-de-la-2e-journee-29347923.html
 le-resume-de-la-3e-journee-29124389.html
 le-resume-de-la-3e-journee-29348446.html
 le-resume-de-la-4e-journee-29125291.html
+le-resume-de-la-4e-journee-29349155.html
 le-resume-de-la-6e-journee-29127780.html
 le-viking-row-avec-erling-haaland-aux-commandes-29295474.html
 le-zap-rts-sport-2026-01-29108311.html
@@ -521,6 +529,7 @@ spindleruv-mlyn-cze-slalom-dames-1er-manche-wendy-holdener-sui-en-route-pour-le-
 spindleruv-mlyn-cze-slalom-dames-2e-manche-mikaela-shiffrin-usa-decroche-son-9e-globe-de-la-specialite-29129370.html
 spindleruv-mlyn-cze-slalom-dames-2e-manche-une-belle-2e-place-pour-camille-rast-sui-29129363.html
 spindleruv-mlyn-cze-slalom-dames-2e-manche-wendy-holdener-sui-termine-5e-29129367.html
+sport-dimanche-06-09-2026-29344912.html
 sport-dimanche-16-08-2026-29326153.html
 sport-dimanche-23-08-2026-29331977.html
 sport-dimanche-23-08-2026-29338332.html
