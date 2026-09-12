@@ -48,6 +48,7 @@ temoignage-d-un-jeune-qui-a-tente-de-porter-secours-a-la-victime-de-la-fusillade
 temoignage-d-un-jeune-qui-a-tente-de-porter-secours-a-la-victime-de-la-fusillade-d-aarau-29345415.html
 temoignage-dans-un-gang-d-istanbul-a-12-ans-29332310.html
 temoignage-de-la-croix-rouge-pour-la-journee-internationale-des-personnes-disparues-29342052.html
+temoignage-de-la-fille-d-une-victime-des-attentats-du-11-septembre-2001-29354305.html
 temoignage-je-vis-avec-une-anorexie-mentale-29340959.html
 temoignages-de-citoyens-iraniens-victimes-des-repressions-a-teheran-29133346.html
 temoignages-de-l-incendie-du-bar-constellation-a-crans-montana-29105048.html
@@ -66,6 +67,7 @@ tennis-carlos-alcaraz-mene-contre-novak-djokovic-dans-une-finale-historique-a-l-
 tennis-carlos-alcaraz-remporte-l-open-d-australie-29136751.html
 tennis-en-grande-forme-carlos-alcaraz-rejoint-les-quarts-de-finale-de-l-us-open-29349895.html
 tennis-roger-federer-de-retour-a-new-york-pour-un-match-d-exhibition-en-marge-de-l-us-open-29337713.html
+tennis-us-open-frances-tiafoe-face-a-ben-shelton-un-duel-100-americain-pour-les-demi-finales-29354311.html
 tennis-wawrinka-remporte-une-formidable-bataille-pour-se-hisser-en-seiziemes-de-finale-de-l-open-d-australie-29126528.html
 terratis-l-entreprise-qui-sterilise-les-moustiques-tigres-29284775.html
 terres-d-enigmes-4-5-dallol-aux-frontieres-de-la-vie-29104990.html
@@ -143,6 +145,8 @@ tournee-generale-29348125.html
 tournee-generale-29348136.html
 tournee-generale-29348633.html
 tournee-generale-29348644.html
+tournee-generale-29354952.html
+tournee-generale-29354960.html
 tournee-romande-29105209.html
 tournee-romande-29105970.html
 tournee-romande-29106738.html
@@ -200,6 +204,7 @@ tournee-romande-29350139.html
 tournee-romande-29351224.html
 tournee-romande-29352321.html
 tournee-romande-29353517.html
+tournee-romande-29354607.html
 tous-des-nuls-29230431.html
 tous-des-traitres-29196611.html
 tout-est-sous-controle-29237670.html
