@@ -456,10 +456,12 @@ la-campagne-sur-la-redevance-bat-son-plein-au-tessin-29160999.html
 la-candidate-de-droite-laura-fernandez-remporte-l-election-presidentielle-du-costa-rica-des-le-premier-tour-29137383.html
 la-canicule-a-un-impact-sur-notre-sommeil-interview-de-raphael-heinzer-29281778.html
 la-canicule-et-la-secheresse-assechent-le-danube-en-hongrie-29331183.html
+la-carte-blanche-d-ellen-ichters-landru-par-colette-29355819.html
 la-carte-blanche-d-emile-galland-vegetalisation-des-voies-de-trams-29341907.html
 la-carte-blanche-de-cyril-allenbach-le-chene-liege-29348827.html
 la-carte-blanche-de-daniel-vuataz-petit-s-pays-29342116.html
 la-carte-blanche-de-nicolas-julliard-bahia-mi-amor-29348971.html
+la-carte-blanche-de-thomas-philippe-preparer-ses-cultures-d-hiver-29355571.html
 la-ceremonie-de-commemoration-de-crans-montana-vues-par-des-personnalites-locales-reactions-de-micheline-calmy-rey-nic-29113635.html
 la-ceremonie-des-ig-nobels-se-tiendra-a-zurich-interview-de-mirko-bischofberger-29346862.html
 la-chanteuse-bernoise-veronica-fusaro-representera-la-suisse-a-la-70e-edition-de-l-eurovision-29125022.html
@@ -814,6 +816,7 @@ la-question-bete-detecter-la-douleur-chez-son-animal-29348683.html
 la-question-bete-dois-je-couper-les-griffes-de-mon-chat-29294852.html
 la-question-bete-est-ce-qu-un-chat-peut-avoir-une-carie-29307102.html
 la-question-bete-faut-il-menager-un-chien-qui-souffre-d-insuffisance-cardiaque-29323682.html
+la-question-bete-l-avocat-un-aliment-super-toxique-29355568.html
 la-question-bete-le-bon-choix-de-croquettes-pour-le-chats-et-les-chiens-29329687.html
 la-question-bete-les-poils-des-animaux-sont-ils-un-organe-du-toucher-29129104.html
 la-question-bete-nouveau-canape-en-danger-29341916.html
@@ -850,6 +853,7 @@ la-revue-de-presse-alemanique-29329822.html
 la-revue-de-presse-alemanique-29335773.html
 la-revue-de-presse-alemanique-29342051.html
 la-revue-de-presse-alemanique-29348837.html
+la-revue-de-presse-alemanique-29355693.html
 la-revue-de-presse-par-charlotte-frossard-29105651.html
 la-revue-de-presse-par-deborah-sohlbank-29350593.html
 la-revue-de-presse-par-rouven-gueissaz-29310663.html
@@ -1154,6 +1158,7 @@ le-12h30-29352034.html
 le-12h30-29353306.html
 le-12h30-29354329.html
 le-12h30-29355128.html
+le-12h30-29355717.html
 le-17-janvier-fetons-le-1-000-063eme-anniversaire-de-l-art-29110946.html
 le-bar-de-l-hotel-29340268.html
 le-bar-de-l-hotel-29343650.html
@@ -1577,6 +1582,7 @@ le-journal-horaire-de-10h00-29351831.html
 le-journal-horaire-de-10h00-29353088.html
 le-journal-horaire-de-10h00-29354154.html
 le-journal-horaire-de-10h00-29355060.html
+le-journal-horaire-de-10h00-29355599.html
 le-journal-horaire-de-11h00-29136648.html
 le-journal-horaire-de-11h00-29139792.html
 le-journal-horaire-de-11h00-29330416.html
@@ -1596,6 +1602,7 @@ le-journal-horaire-de-11h00-29351880.html
 le-journal-horaire-de-11h00-29353154.html
 le-journal-horaire-de-11h00-29354213.html
 le-journal-horaire-de-11h00-29355092.html
+le-journal-horaire-de-11h00-29355634.html
 le-journal-horaire-de-12h00-29136686.html
 le-journal-horaire-de-12h00-29139922.html
 le-journal-horaire-de-12h00-29330508.html
@@ -1615,6 +1622,7 @@ le-journal-horaire-de-12h00-29351968.html
 le-journal-horaire-de-12h00-29353242.html
 le-journal-horaire-de-12h00-29354259.html
 le-journal-horaire-de-12h00-29355113.html
+le-journal-horaire-de-12h00-29355671.html
 le-journal-horaire-de-13h00-29108169.html
 le-journal-horaire-de-13h00-29110694.html
 le-journal-horaire-de-13h00-29136743.html
@@ -1636,6 +1644,7 @@ le-journal-horaire-de-13h00-29352030.html
 le-journal-horaire-de-13h00-29353303.html
 le-journal-horaire-de-13h00-29354326.html
 le-journal-horaire-de-13h00-29355127.html
+le-journal-horaire-de-13h00-29355715.html
 le-journal-horaire-de-14h00-29140102.html
 le-journal-horaire-de-14h00-29330635.html
 le-journal-horaire-de-14h00-29331481.html
@@ -1654,6 +1663,7 @@ le-journal-horaire-de-14h00-29352121.html
 le-journal-horaire-de-14h00-29353365.html
 le-journal-horaire-de-14h00-29354444.html
 le-journal-horaire-de-14h00-29355154.html
+le-journal-horaire-de-14h00-29355774.html
 le-journal-horaire-de-15h00-29140211.html
 le-journal-horaire-de-15h00-29330702.html
 le-journal-horaire-de-15h00-29331588.html
@@ -1672,6 +1682,7 @@ le-journal-horaire-de-15h00-29352206.html
 le-journal-horaire-de-15h00-29353411.html
 le-journal-horaire-de-15h00-29354510.html
 le-journal-horaire-de-15h00-29355168.html
+le-journal-horaire-de-15h00-29355806.html
 le-journal-horaire-de-16h00-29330775.html
 le-journal-horaire-de-16h00-29331676.html
 le-journal-horaire-de-16h00-29340973.html
@@ -1689,6 +1700,7 @@ le-journal-horaire-de-16h00-29352299.html
 le-journal-horaire-de-16h00-29353508.html
 le-journal-horaire-de-16h00-29354594.html
 le-journal-horaire-de-16h00-29355190.html
+le-journal-horaire-de-16h00-29355821.html
 le-journal-horaire-de-17h00-29330867.html
 le-journal-horaire-de-17h00-29331735.html
 le-journal-horaire-de-17h00-29340062.html
@@ -1923,6 +1935,7 @@ le-journal-horaire-de-6h00-29351693.html
 le-journal-horaire-de-6h00-29352924.html
 le-journal-horaire-de-6h00-29353945.html
 le-journal-horaire-de-6h00-29354975.html
+le-journal-horaire-de-6h00-29355521.html
 le-journal-horaire-de-7h00-29136567.html
 le-journal-horaire-de-7h00-29331179.html
 le-journal-horaire-de-7h00-29340446.html
@@ -1941,6 +1954,7 @@ le-journal-horaire-de-7h00-29351710.html
 le-journal-horaire-de-7h00-29352941.html
 le-journal-horaire-de-7h00-29353978.html
 le-journal-horaire-de-7h00-29354998.html
+le-journal-horaire-de-7h00-29355526.html
 le-journal-horaire-de-8h00-29136583.html
 le-journal-horaire-de-8h00-29331211.html
 le-journal-horaire-de-8h00-29340491.html
@@ -1959,6 +1973,7 @@ le-journal-horaire-de-8h00-29351743.html
 le-journal-horaire-de-8h00-29352993.html
 le-journal-horaire-de-8h00-29354031.html
 le-journal-horaire-de-8h00-29355014.html
+le-journal-horaire-de-8h00-29355548.html
 le-journal-horaire-de-9h00-29131080.html
 le-journal-horaire-de-9h00-29136618.html
 le-journal-horaire-de-9h00-29139653.html
@@ -1979,6 +1994,7 @@ le-journal-horaire-de-9h00-29351794.html
 le-journal-horaire-de-9h00-29353050.html
 le-journal-horaire-de-9h00-29354073.html
 le-journal-horaire-de-9h00-29355039.html
+le-journal-horaire-de-9h00-29355578.html
 le-jurassien-yannis-voisard-termine-11e-de-son-premier-tour-de-france-son-interview-29314290.html
 le-kidnapping-de-josephine-dard-29266766.html
 le-kidnapping-de-nicolas-maduro-par-les-etats-unis-divise-la-classe-politique-americaine-29107799.html
@@ -2064,6 +2080,7 @@ le-point-de-la-situation-dans-les-hopitaux-qui-accueillent-les-blesses-de-l-ince
 le-point-de-passage-de-rafah-reliant-gaza-a-l-egypte-a-rouvert-lundi-de-maniere-tres-controlee-et-limitee-29138730.html
 le-point-j-a-quoi-jouent-les-etats-unis-au-venezuela-29114714.html
 le-point-j-a-quoi-sert-le-conseil-federal-29209889.html
+le-point-j-aarau-tout-le-monde-peut-il-acheter-une-kalachnikov-en-suisse-29355709.html
 le-point-j-c-est-comment-l-ete-a-mexico-en-rediffusion-29335518.html
 le-point-j-c-est-quoi-cette-initiative-sur-la-neutralite-29348864.html
 le-point-j-c-est-quoi-cette-mode-d-observer-les-oiseaux-29288541.html
@@ -2103,6 +2120,7 @@ le-president-sud-coreen-sollicite-xi-jinping-pour-freiner-pyongyang-29110969.htm
 le-president-syrien-annonce-un-accord-de-cessez-le-feu-avec-les-forces-kurdes-29122141.html
 le-prix-des-emprunts-immobiliers-remonte-en-suisse-29117496.html
 le-prix-des-licences-microsoft-dans-le-viseur-de-la-commission-de-la-concurrence-29118947.html
+le-prix-des-mots-29355690.html
 le-prix-du-cuivre-a-atteint-un-niveau-historique-29129340.html
 le-probleme-ayant-prive-ses-clients-de-tv-lundi-soir-serait-resolu-selon-swisscom-29138729.html
 le-proces-de-membres-des-hells-angels-et-des-bandidos-s-ouvre-sous-haute-securite-a-geneve-29122553.html
@@ -2121,6 +2139,7 @@ le-projet-de-tunnel-ferroviaire-du-grimsel-classe-prioritaire-par-le-conseil-fed
 le-pronostic-vital-des-grands-brules-depend-de-plusieurs-facteurs-les-explications-d-olivier-pantet-29107218.html
 le-public-romand-a-boude-les-cinemas-l-an-dernier-avec-une-frequentation-en-baisse-de-15-29129472.html
 le-pvl-se-positionne-en-faveur-de-l-imposition-individuelle-et-contre-les-autres-objets-soumis-au-vote-le-8-mars-29121397.html
+le-qcm-d-anne-plantagenet-traduction-disparition-decompression-29355820.html
 le-qcm-d-elisa-shua-dusapin-frontieres-collaborations-et-projets-29342115.html
 le-qcm-tatouage-friture-et-reflexe-citadin-29348993.html
 le-rajasthan-29306226.html
@@ -2167,6 +2186,7 @@ le-secret-des-ch-urs-de-queen-29346767.html
 le-secteur-suisse-du-pain-est-en-difficulte-face-a-la-concurrence-etrangere-29330546.html
 le-senegal-pretend-lutter-contre-le-neocolonialisme-en-s-attaquant-aux-personnes-lgbt-29211823.html
 le-service-public-est-en-greve-le-jour-de-la-rentree-a-geneve-29330938.html
+le-silence-des-agneaux-the-silence-of-the-lambs-jonathan-demme-1991-29355639.html
 le-socialiste-roger-nordmann-lance-sa-campagne-pour-l-election-complementaire-au-conseil-d-etat-vaudois-29122975.html
 le-soldat-rose-par-l-harmonie-union-et-progres-hup-en-direct-de-la-salle-des-fetes-de-villers-le-lac-f-29182798.html
 le-sonntagsblick-plus-ancien-journal-dominical-de-suisse-disparaitra-a-la-fin-de-l-annee-29353292.html
@@ -2319,6 +2339,7 @@ les-combattants-kurdes-ont-accepte-d-evacuer-la-ville-syrienne-d-alep-apres-plus
 les-comportements-homosexuels-auraient-permis-a-certains-primates-d-evoluer-29118747.html
 les-compositeurs-pedagogues-1-3-29352517.html
 les-compositeurs-pedagogues-2-3-29353628.html
+les-concerts-de-celine-dion-a-paris-rapportent-gros-29355700.html
 les-confidences-d-une-religieuse-29273531.html
 les-conseils-de-rafael-wolf-et-stephane-gobbo-29111137.html
 les-conseils-de-rafael-wolf-et-stephane-gobbo-29132685.html
@@ -2402,6 +2423,7 @@ les-echos-de-vacarme-femmes-en-prison-la-double-peine-29287403.html
 les-echos-de-vacarme-futur-raconte-moi-demain-29347698.html
 les-echos-de-vacarme-handicap-a-l-ecole-deficit-d-inclusion-29323972.html
 les-echos-de-vacarme-images-choc-la-violence-derriere-l-ecran-29317237.html
+les-echos-de-vacarme-la-fabrique-du-consentement-29354651.html
 les-echos-de-vacarme-la-menace-masculiniste-29311473.html
 les-echos-de-vacarme-neonatologie-la-vie-a-un-fil-29311863.html
 les-echos-de-vacarme-neoruraux-le-bonheur-est-dans-le-pre-29341042.html
@@ -2611,6 +2633,7 @@ les-nuits-d-espace-2-29351697.html
 les-nuits-d-espace-2-29352928.html
 les-nuits-d-espace-2-29353948.html
 les-nuits-d-espace-2-29354980.html
+les-nuits-d-espace-2-29355523.html
 les-ombrages-29277512.html
 les-partis-de-droite-vaudois-lancent-leurs-campagnes-avec-le-risque-d-une-dispersion-des-voix-29354698.html
 les-partisans-de-l-imposition-individuelle-des-couples-maries-presentent-leurs-arguments-29119152.html
