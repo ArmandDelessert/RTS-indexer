@@ -66,6 +66,7 @@ tennis-carlos-alcaraz-elimine-de-l-us-open-par-l-americain-ben-shelton-29352016.
 tennis-carlos-alcaraz-mene-contre-novak-djokovic-dans-une-finale-historique-a-l-open-d-australie-29136747.html
 tennis-carlos-alcaraz-remporte-l-open-d-australie-29136751.html
 tennis-en-grande-forme-carlos-alcaraz-rejoint-les-quarts-de-finale-de-l-us-open-29349895.html
+tennis-l-americain-ben-shelton-et-son-adversaire-allemand-alexander-zverev-s-affronteront-en-finale-de-l-us-open-29355148.html
 tennis-roger-federer-de-retour-a-new-york-pour-un-match-d-exhibition-en-marge-de-l-us-open-29337713.html
 tennis-us-open-frances-tiafoe-face-a-ben-shelton-un-duel-100-americain-pour-les-demi-finales-29354311.html
 tennis-wawrinka-remporte-une-formidable-bataille-pour-se-hisser-en-seiziemes-de-finale-de-l-open-d-australie-29126528.html
@@ -147,6 +148,8 @@ tournee-generale-29348633.html
 tournee-generale-29348644.html
 tournee-generale-29354952.html
 tournee-generale-29354960.html
+tournee-generale-29355491.html
+tournee-generale-29355501.html
 tournee-romande-29105209.html
 tournee-romande-29105970.html
 tournee-romande-29106738.html
@@ -205,6 +208,7 @@ tournee-romande-29351224.html
 tournee-romande-29352321.html
 tournee-romande-29353517.html
 tournee-romande-29354607.html
+tournee-romande-29355192.html
 tous-des-nuls-29230431.html
 tous-des-traitres-29196611.html
 tout-est-sous-controle-29237670.html
