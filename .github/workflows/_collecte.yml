@@ -1,11 +1,11 @@
 # Mécanique commune à toutes les collectes planifiées.
 #
 # Ce workflow n'est jamais déclenché directement : il est appelé par les
-# workflows de cadence (rss.yml, hebdomadaire.yml, archives.yml), qui ne
-# fournissent que la liste des commandes à passer et le résumé du commit. Tout
-# le reste — checkout, dépendances, curseurs, commit, push — vit ici, en un
-# seul endroit : c'est la partie délicate, et la triplicer garantirait qu'une
-# correction n'atterrisse que dans deux workflows sur trois.
+# workflows de cadence (rss.yml, quotidien.yml), qui ne fournissent que la
+# liste des commandes à passer et le résumé du commit. Tout le reste —
+# checkout, dépendances, curseurs, commit, push — vit ici, en un seul
+# endroit : c'est la partie délicate, et la dupliquer garantirait qu'une
+# correction n'atterrisse que dans un workflow sur deux.
 
 name: collecte (réutilisable)
 
@@ -47,6 +47,13 @@ jobs:
           # Historique complet : le pack ne pèse que ~16 Mo, et un clone
           # superficiel complique le `pull --rebase` de l'étape de push.
           fetch-depth: 0
+          # PAT plutôt que le GITHUB_TOKEN par défaut (implicite si omis) :
+          # un push effectué avec le GITHUB_TOKEN ne déclenche aucun autre
+          # workflow (garde-fou anti-boucle de GitHub), ce qui laissait
+          # site.yml (on: push) ignorer tous les commits de ce workflow.
+          # `checkout` persiste les identifiants du token pour le reste du
+          # job, `git push` plus bas en hérite automatiquement.
+          token: ${{ secrets.GH_PAT }}
 
       - name: Installer Python
         uses: actions/setup-python@v5
