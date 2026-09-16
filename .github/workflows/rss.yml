@@ -29,6 +29,10 @@ jobs:
     permissions:
       contents: write
     uses: ./.github/workflows/_collecte.yml
+    # Un workflow réutilisable n'a jamais accès aux secrets de l'appelant par
+    # défaut, même dans le même dépôt : sans cette ligne, secrets.GH_PAT est
+    # vide à l'intérieur de _collecte.yml quelle que soit sa valeur réelle.
+    secrets: inherit
     with:
       commandes: rss
       resume: nouveaux articles captés par les flux RSS

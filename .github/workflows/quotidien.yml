@@ -32,6 +32,9 @@ jobs:
     permissions:
       contents: write
     uses: ./.github/workflows/_collecte.yml
+    # Cf. rss.yml : un workflow réutilisable n'a jamais accès aux secrets de
+    # l'appelant par défaut, même dans le même dépôt.
+    secrets: inherit
     with:
       commandes: |
         sitemap
