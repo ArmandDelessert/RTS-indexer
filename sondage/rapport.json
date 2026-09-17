@@ -1,0 +1,190 @@
+[
+  {
+    "host": "www.lemonde.fr",
+    "robots": {
+      "status": 200,
+      "sitemaps": [
+        "https://www.lemonde.fr/sitemap_news.xml",
+        "https://www.lemonde.fr/sitemap_index.xml",
+        "https://www.lemonde.fr/en/sitemap_news.xml",
+        "https://www.lemonde.fr/en/sitemap_index.xml"
+      ],
+      "disallow": [
+        "/ajax/",
+        "/ajah/",
+        "/api/",
+        "/beta",
+        "/element/commun/afficher/",
+        "/petites-annonces/",
+        "/qui-sommes-nous/",
+        "/txt/",
+        "/verification/source/*",
+        "/noscript/",
+        "/ws/*",
+        "/lemonde-beta/*",
+        "/_rprt/*",
+        "/layout/*",
+        "/cgi-bin/*",
+        "/envoyer-par-email/*",
+        "/lmdgft/*",
+        "/article-offert/*",
+        "/*?s=43260*",
+        "/*?contributions",
+        "*/reactions/",
+        "*/mmpub/",
+        "/blog/*/wp-admin/",
+        "/blog/*/wp-includes/",
+        "/blog/*/wp-content/plugins/",
+        "/blog/*/wp-content/themes/",
+        "/blog/*/wp-login.php",
+        "/blog/*/wp-register.php",
+        "/blog/*/author/admin/",
+        "/recherche/?*search_keywords=*"
+      ],
+      "crawl_delay": null
+    },
+    "origine_urls": "sitemap (4 racine(s))",
+    "forme": {
+      "urls_analysees": 3983,
+      "profondeur": {
+        "p50": 6,
+        "p90": 6,
+        "max": 7
+      },
+      "segment_max": 226,
+      "chemins_trop_longs": 0,
+      "extensions": [
+        [
+          ".html",
+          3983
+        ]
+      ],
+      "query_pct": 0.0,
+      "params": [],
+      "majuscules": [],
+      "majuscules_n": 0
+    },
+    "query_porteuse": [],
+    "casse": "indéterminée (aucune URL à majuscules exploitable)",
+    "vif": {
+      "echantillon": 30,
+      "codes": {
+        "200": 30
+      },
+      "erreurs_reseau": 0,
+      "taux_blocage_pct": 0.0,
+      "redirections": 0,
+      "redirections_hors_hote": 0,
+      "exemples_redirection": [],
+      "paywall_sur_200": "25/30"
+    },
+    "verdict": "INDEXABLE — pas d'obstacle structurel"
+  },
+  {
+    "host": "www.letemps.ch",
+    "robots": {
+      "status": 200,
+      "sitemaps": [],
+      "disallow": [
+        "/user/*",
+        "/index.php/*",
+        "/multi-theme/*",
+        "/en/*",
+        "/de/*",
+        "/aw/*",
+        "/ph/*"
+      ],
+      "crawl_delay": null
+    },
+    "origine_urls": "sitemap (2 racine(s))",
+    "forme": {
+      "urls_analysees": 12433,
+      "profondeur": {
+        "p50": 2,
+        "p90": 2,
+        "max": 3
+      },
+      "segment_max": 92,
+      "chemins_trop_longs": 0,
+      "extensions": [
+        [
+          "(aucune)",
+          12433
+        ]
+      ],
+      "query_pct": 0.0,
+      "params": [],
+      "majuscules": [],
+      "majuscules_n": 0
+    },
+    "query_porteuse": [],
+    "casse": "indéterminée (aucune URL à majuscules exploitable)",
+    "vif": {
+      "echantillon": 30,
+      "codes": {
+        "200": 30
+      },
+      "erreurs_reseau": 0,
+      "taux_blocage_pct": 0.0,
+      "redirections": 0,
+      "redirections_hors_hote": 0,
+      "exemples_redirection": [],
+      "paywall_sur_200": "30/30"
+    },
+    "verdict": "INDEXABLE — pas d'obstacle structurel"
+  },
+  {
+    "host": "www.heidi.news",
+    "robots": {
+      "status": 200,
+      "sitemaps": [],
+      "disallow": [
+        "/user/*",
+        "/index.php/*",
+        "/multi-theme/*",
+        "/en/*",
+        "/de/*",
+        "/aw/*",
+        "/ph/*"
+      ],
+      "crawl_delay": null
+    },
+    "origine_urls": "sitemap (2 racine(s))",
+    "forme": {
+      "urls_analysees": 2041,
+      "profondeur": {
+        "p50": 2,
+        "p90": 2,
+        "max": 3
+      },
+      "segment_max": 179,
+      "chemins_trop_longs": 0,
+      "extensions": [
+        [
+          "(aucune)",
+          2041
+        ]
+      ],
+      "query_pct": 0.0,
+      "params": [],
+      "majuscules": [],
+      "majuscules_n": 0
+    },
+    "query_porteuse": [],
+    "casse": "indéterminée (aucune URL à majuscules exploitable)",
+    "vif": {
+      "echantillon": 30,
+      "codes": {
+        "200": 20,
+        "429": 10
+      },
+      "erreurs_reseau": 0,
+      "taux_blocage_pct": 33.3,
+      "redirections": 0,
+      "redirections_hors_hote": 0,
+      "exemples_redirection": [],
+      "paywall_sur_200": "4/20"
+    },
+    "verdict": "DIFFICILE — 33.3 % de blocage, anti-bot actif : crawl peu fiable, privilégier sitemap + archives"
+  }
+]
