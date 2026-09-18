@@ -63,8 +63,8 @@ def _site_en_chaine(n: int) -> dict[str, str]:
 
 
 @pytest.fixture(autouse=True)
-def _sans_attente(monkeypatch):
-    monkeypatch.setattr(config, "CRAWL_MIN_INTERVAL", 0.0)
+def _sans_attente(monkeypatch, profil):
+    profil(crawl_min_interval=0.0)
     monkeypatch.setattr(config, "CRAWL_IDLE_TIMEOUT", 0.1)
     monkeypatch.setattr(config, "CRAWL_RETRY_DELAY", 0.0)
 

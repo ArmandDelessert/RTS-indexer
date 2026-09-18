@@ -1,0 +1,131 @@
+# Profil du site rts.ch.
+#
+# Tout ce qui dépend du site indexé vit ici ; le reste (format de stockage,
+# résilience réseau, cadences de verify) est dans src/rts_indexer/config.py.
+
+name = "rts"
+
+[perimetre]
+# Ajouter un sous-domaine ici suffit à l'inclure : il devient un dossier
+# racine sous data/.
+hosts = ["www.rts.ch"]
+
+# Hôtes repliés sur leur forme canonique avant filtrage.
+host_aliases = { "rts.ch" = "www.rts.ch" }
+
+# Seules ces extensions sont retenues sur le segment terminal : c'est ce qui
+# écarte les .image, .json, .jpg que la CDX de Wayback ramène en quantité.
+html_extensions = [".html", ".htm"]
+
+# RTS Play route son contenu (articles, épisodes) sur un identifiant passé en
+# paramètre de requête (?urn=... ou ?id=...), toujours retiré par la
+# normalisation — indexer ces URLs revient donc à indexer des pages cassées
+# (redirection vers /play/not-found). Confirmé par sondage direct sur la
+# quasi-totalité de /play/ (129'068 URLs sur 129'069 lors de l'audit). Seules
+# les pages statiques listées ci-dessous, qui ne dépendent d'aucun paramètre,
+# sont réellement fonctionnelles.
+[[perimetre.deny]]
+prefix = "play"
+raison = "contenu routé par ?urn=/?id=, indexer revient à indexer /play/not-found"
+allow = [
+  "play/embed",
+  "play/legacy-browser",
+  "play/recherche",
+  "play/tv",
+  "play/tv/agid",
+  "play/tv/aide",
+  "play/tv/configuraziuns",
+  "play/tv/einstellungen",
+  "play/tv/emissions",
+  "play/tv/emissiuns",
+  "play/tv/favorite-guide-shows",
+  "play/tv/favorite-guide-topics",
+  "play/tv/guida",
+  "play/tv/hilfe",
+  "play/tv/i-miei-video",
+  "play/tv/impostazioni",
+  "play/tv/meine-videos",
+  "play/tv/mes-videos",
+  "play/tv/parametres",
+  "play/tv/popupvideoplayer",
+  "play/tv/programme-par-chaine",
+  "play/tv/programmi",
+  "play/tv/rtr-livestreams",
+  "play/tv/rts-livestreams",
+  "play/tv/sport-livestreams",
+  "play/tv/streaming",
+]
+
+[sources]
+# Sitemaps déclarés dans https://www.rts.ch/robots.txt, plus celui du sport
+# qui n'y figure pas. Ils ne référencent que des pages de rubrique : une
+# graine fiable pour le crawl, pas une source d'exhaustivité.
+sitemaps = [
+  "https://www.rts.ch/sitemaps/pages.xml",
+  "https://www.rts.ch/sport/sitemap-live-sport.xml",
+]
+
+# Flux RSS des rubriques éditoriales.
+#
+# Ces flux sont la seule fenêtre continue sur ce qui vient d'être publié. Le
+# crawl, lui, ne voit que la *première* page de chaque rubrique (robots.txt
+# interdit la pagination) : un article chassé de cette première page entre deux
+# exécutions ne serait jamais vu. D'où une source dédiée, très bon marché — une
+# vingtaine de requêtes — mais qu'il faut relancer assez souvent.
+#
+# Fenêtre mesurée : 25 items par flux, soit ~24 h pour le plus actif
+# (info/toute-info) et bien davantage pour les rubriques de niche. Une
+# exécution quotidienne est donc le strict minimum, sans marge.
+#
+# La liste est curée à dessein : sonder les 135'000 rubriques connues pour y
+# chercher un flux n'aurait aucun sens, et toutes n'en exposent pas (culture,
+# jeunesse ou les rubriques radio répondent 404). Celles-ci ont été vérifiées
+# une à une.
+rss_feed_template = "https://www.rts.ch/{path}/?format=rss/news"
+rss_feeds = [
+  "info",
+  "info/toute-info",
+  "info/suisse",
+  "info/monde",
+  "info/economie",
+  "info/regions",
+  "info/sciences-tech",
+  "info/culture",
+  "info/environnement",
+  "info/sante",
+  "info/societe",
+  "sport",
+  "sport/tout-le-sport",
+  "sport/football",
+  "sport/hockey",
+  "sport/tennis",
+  "sport/cyclisme",
+  "sport/ski-alpin",
+  "sport/basketball",
+  "sport/athletisme",
+  "meteo",
+  "religion",
+]
+
+[reseau]
+user_agent = "RTS-indexer/0.1 (+https://github.com/ArmandDelessert/RTS-indexer)"
+
+# Délai minimal entre deux requêtes séquentielles (secondes).
+request_delay = 1.0
+
+# robots.txt ne fixe pas de Crawl-delay pour « * » ; 0.5 s (2 req/s) est un
+# rythme délibérément modeste pour un site de cette taille.
+crawl_min_interval = 0.5
+
+# Même débit modeste que le crawl : ce sont les mêmes serveurs.
+verify_min_interval = 0.5
+
+[stockage]
+# Au-delà de ce nombre de slugs, le fichier d'un dossier est éclaté en shards
+# _index.<premier caractère>.txt.
+shard_threshold = 5000
+
+# Garde-fou MAX_PATH. Ne se déclenche jamais aux profondeurs observées sur
+# rts.ch (5 segments, 40 caractères max), mais protège les clones Windows qui
+# n'ont pas `git config core.longpaths true`.
+max_rel_path_len = 240

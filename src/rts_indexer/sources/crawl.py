@@ -19,24 +19,32 @@ import json
 import logging
 import re
 import time
+from functools import lru_cache
 from pathlib import Path
 
 import httpx
 from lxml import html as lxml_html
 
-from .. import config, fsutil, net, robots, urlnorm
+from .. import config, fsutil, net, profiles, robots, urlnorm
 from ..store import Store
 
 log = logging.getLogger(__name__)
 
 CACHE_FILE = "crawl.json"
 
-#: Filet de rattrapage : certains liens d'article ne vivent pas dans un `a/@href`
-#: mais dans un bloc JSON-LD. Un balayage brut du document les récupère.
-#: `&` est exclu : rts.ch n'en met jamais dans un chemin, alors que les liens
-#: de partage social (``sharer.php?u=<url>&amp;title=...``) le suivent d'assez
-#: près pour que sans cette exclusion tout le texte du bouton soit avalé.
-_RAW_URL = re.compile(r"""https?://(?:www\.)?rts\.ch/[^"'\s<>\\)&]+""")
+@lru_cache(maxsize=8)
+def _raw_url_pattern(hosts: tuple[str, ...]) -> re.Pattern[str]:
+    """Filet de rattrapage : certains liens d'article ne vivent pas dans un
+    ``a/@href`` mais dans un bloc JSON-LD. Un balayage brut du document les
+    récupère.
+
+    ``&`` est exclu de la classe terminale : rts.ch n'en met jamais dans un
+    chemin, alors que les liens de partage social
+    (``sharer.php?u=<url>&amp;title=...``) le suivent d'assez près pour que
+    sans cette exclusion tout le texte du bouton soit avalé.
+    """
+    hotes = "|".join(re.escape(h) for h in hosts)
+    return re.compile(rf"""https?://(?:{hotes})/[^"'\s<>\\)&]+""")
 
 
 #: Réexporté pour ne pas casser les imports existants ; l'implémentation vit
@@ -70,8 +78,9 @@ def _extract(url: str, document: str) -> list[str]:
     else:
         candidates += tree.xpath("//a/@href")
         candidates += tree.xpath("//link[@rel='canonical']/@href")
-    candidates += _RAW_URL.findall(document)
-    return urlnorm.normalize_many(candidates, base=url)
+    profile = profiles.active()
+    candidates += _raw_url_pattern((*profile.hosts, *profile.host_aliases)).findall(document)
+    return urlnorm.normalize_many(candidates, base=url, profile=profile)
 
 
 class Crawler:
@@ -293,10 +302,10 @@ class Crawler:
         # robots.fetch est synchrone : on le résout avant de lancer la boucle
         # d'événements plutôt que de la bloquer depuis un worker.
         if self.forced_rules is None:
-            for host in config.HOSTS:
+            for host in profiles.active().hosts:
                 self.rules.setdefault(host, robots.fetch(host))
         self._record(seeds)
-        limiter = RateLimiter(config.CRAWL_MIN_INTERVAL)
+        limiter = RateLimiter(profiles.active().crawl_min_interval)
         try:
             async with net.async_client(transport=self.transport) as http:
                 workers = [

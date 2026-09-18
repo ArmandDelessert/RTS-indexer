@@ -3,7 +3,7 @@
 import httpx
 import pytest
 
-from rts_indexer import config
+from rts_indexer import profiles
 from rts_indexer.sources import rss
 
 #: Un flux réaliste : les liens portent le `?rts_source=rss_t` que rts.ch ajoute
@@ -65,7 +65,7 @@ def test_feed_urls_construit_depuis_les_rubriques():
 
 
 def test_feed_urls_par_defaut_couvre_toutes_les_rubriques_configurees():
-    assert len(rss.feed_urls()) == len(config.RSS_FEEDS)
+    assert len(rss.feed_urls()) == len(profiles.active().rss_feeds)
 
 
 def test_collecte_les_liens_des_items():
@@ -128,7 +128,7 @@ def test_un_flux_illisible_est_saute(caplog):
     assert rss.collect(("info/sante",), transport=transport) == []
 
 
-@pytest.mark.parametrize("path", config.RSS_FEEDS)
+@pytest.mark.parametrize("path", profiles.active().rss_feeds)
 def test_les_rubriques_configurees_sont_des_chemins_relatifs(path):
     """Un chemin absolu ou traînant un slash produirait une URL de flux
     malformée une fois injecté dans le gabarit."""

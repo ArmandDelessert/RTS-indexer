@@ -13,7 +13,7 @@ import logging
 
 from lxml import etree
 
-from .. import config, net, urlnorm
+from .. import net, profiles, urlnorm
 
 log = logging.getLogger(__name__)
 
@@ -46,7 +46,7 @@ def collect(indexes: tuple[str, ...] | None = None) -> list[str]:
     Un sitemap index est suivi d'un niveau ; au-delà, on s'arrête (aucun besoin
     constaté sur rts.ch et cela borne le travail).
     """
-    indexes = indexes if indexes is not None else config.SITEMAP_INDEXES + config.SITEMAP_EXTRA
+    indexes = indexes if indexes is not None else profiles.active().sitemaps
     seen: dict[str, None] = {}
 
     with net.client() as http:

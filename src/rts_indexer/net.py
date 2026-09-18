@@ -8,17 +8,26 @@ import time
 
 import httpx
 
-from . import config
+from . import config, profiles
 
 log = logging.getLogger(__name__)
 
-#: rts.ch renvoie 403 aux User-Agent trop laconiques (constaté sur robots.txt).
-#: On s'identifie explicitement tout en présentant les en-têtes d'un navigateur.
-DEFAULT_HEADERS = {
-    "User-Agent": config.USER_AGENT,
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "fr-CH,fr;q=0.9",
-}
+def default_headers() -> dict[str, str]:
+    """En-têtes communs à toutes les requêtes.
+
+    Construits à l'appel et non à l'import : le User-Agent vient du profil, qui
+    n'est posé qu'au démarrage du CLI. Un dictionnaire figé à l'import gèlerait
+    le profil par défaut quel que soit celui demandé ensuite.
+
+    rts.ch renvoie 403 aux User-Agent trop laconiques (constaté sur
+    robots.txt) : on s'identifie explicitement tout en présentant les en-têtes
+    d'un navigateur.
+    """
+    return {
+        "User-Agent": profiles.active().user_agent,
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "fr-CH,fr;q=0.9",
+    }
 
 
 class RateLimiter:
@@ -43,14 +52,14 @@ class RateLimiter:
 
 
 def client(**kwargs) -> httpx.Client:
-    kwargs.setdefault("headers", DEFAULT_HEADERS)
+    kwargs.setdefault("headers", default_headers())
     kwargs.setdefault("timeout", config.REQUEST_TIMEOUT)
     kwargs.setdefault("follow_redirects", True)
     return httpx.Client(**kwargs)
 
 
 def async_client(**kwargs) -> httpx.AsyncClient:
-    kwargs.setdefault("headers", DEFAULT_HEADERS)
+    kwargs.setdefault("headers", default_headers())
     kwargs.setdefault("timeout", config.REQUEST_TIMEOUT)
     kwargs.setdefault("follow_redirects", True)
     return httpx.AsyncClient(**kwargs)
@@ -61,9 +70,13 @@ def get(
     url: str,
     *,
     attempts: int = 3,
-    delay: float = config.REQUEST_DELAY,
+    delay: float | None = None,
 ) -> httpx.Response | None:
-    """GET avec backoff exponentiel. ``None`` si l'URL reste inaccessible."""
+    """GET avec backoff exponentiel. ``None`` si l'URL reste inaccessible.
+
+    ``delay`` à ``None`` reprend le débit poli du profil actif.
+    """
+    delay = delay if delay is not None else profiles.active().request_delay
     for attempt in range(1, attempts + 1):
         try:
             response = http.get(url)

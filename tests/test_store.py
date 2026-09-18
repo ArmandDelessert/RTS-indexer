@@ -135,8 +135,8 @@ def test_source_ne_ressuscite_pas_une_url_morte(tmp_path):
     assert dict(Store(tmp_path).load().urls())[ARTICLE] is True
 
 
-def test_sharding_au_dela_du_seuil(tmp_path, monkeypatch):
-    monkeypatch.setattr(config, "SHARD_THRESHOLD", 3)
+def test_sharding_au_dela_du_seuil(tmp_path, profil):
+    profil(shard_threshold=3)
     store = Store(tmp_path)
     store.add(RUBRIQUE)
     for lettre in "abcd":
@@ -155,7 +155,7 @@ def test_sharding_au_dela_du_seuil(tmp_path, monkeypatch):
     # changer le seuil ne modifie rien *en mémoire*, donc ne salit aucun dossier.
     # Sans forcer, l'écriture sélective conclurait à juste titre qu'il n'y a rien
     # à refaire et conserverait l'ancien découpage.
-    monkeypatch.setattr(config, "SHARD_THRESHOLD", 5_000)
+    profil(shard_threshold=5_000)
     Store(tmp_path).load().write(force=True)
     assert sorted(p.name for p in dossier.glob("_index*.txt")) == ["_index.txt"]
 

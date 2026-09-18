@@ -34,7 +34,7 @@ from dataclasses import dataclass, field
 from datetime import UTC, datetime
 from pathlib import Path
 
-from . import config, fsutil, pathmap, urlnorm
+from . import config, fsutil, pathmap, profiles, urlnorm
 
 log = logging.getLogger(__name__)
 
@@ -114,7 +114,7 @@ class Store:
         une source de réaffirmer une URL sans écraser le verdict de ``verify``.
 
         Une URL individuelle dont le chemin projeté dépasse
-        :data:`config.MAX_REL_PATH_LEN` est journalisée puis ignorée plutôt que
+        la longueur maximale du profil est journalisée puis ignorée plutôt que
         de faire échouer l'appelant : lors d'un crawl de plusieurs centaines de
         pages, perdre tout le travail déjà accompli pour une seule page Play au
         slug démesuré (URLs de type ``play/tv/.../<slug-phrase-entiere>/``,
@@ -387,7 +387,7 @@ class Store:
 
         ``force`` réécrit tout, sans considération de propreté, **et** déclenche
         un balayage complet de l'arbre à la purge. C'est le rôle de ``build`` :
-        un changement de :data:`config.SHARD_THRESHOLD` ou de la projection des
+        un changement du seuil de sharding ou de la projection des
         chemins ne salit aucun dossier — rien en mémoire n'a bougé — et ne
         serait donc jamais appliqué autrement. C'est aussi la seule commande qui
         rattrape une dérive externe (fichier ajouté à la main dans ``data/``,
@@ -439,7 +439,7 @@ class Store:
         """Écrit le ou les fichiers d'index d'un dossier."""
         files: dict[str, list[str]] = {}
 
-        if len(entry) > config.SHARD_THRESHOLD:
+        if len(entry) > profiles.active().shard_threshold:
             # Le marqueur `./` reste toujours dans _index.txt, qui fait office
             # d'en-tête ; les slugs partent dans _index.<caractère>.txt.
             if entry.is_page:

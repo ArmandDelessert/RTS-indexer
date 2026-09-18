@@ -29,7 +29,7 @@ from pathlib import Path
 
 import httpx
 
-from . import config, fsutil, net
+from . import config, fsutil, net, profiles
 from .store import Store
 
 log = logging.getLogger(__name__)
@@ -419,7 +419,7 @@ class Verifier:
         for url in urls:
             queue.put_nowait(url)
 
-        limiter = net.RateLimiter(config.VERIFY_MIN_INTERVAL)
+        limiter = net.RateLimiter(profiles.active().verify_min_interval)
         try:
             async with net.async_client(transport=self.transport) as http:
                 workers = [
@@ -458,7 +458,7 @@ async def _sonder(
     # de VERIFY_PROGRESS_STEP) resterait muet sur les petits lots d'`import`
     # (quelques dizaines d'URLs, le cas courant) et spammerait sur les gros.
     pas = max(1, min(50, total // 10)) if total else 1
-    limiter = net.RateLimiter(config.VERIFY_MIN_INTERVAL)
+    limiter = net.RateLimiter(profiles.active().verify_min_interval)
     file: asyncio.Queue[str] = asyncio.Queue()
     for url in urls:
         file.put_nowait(url)

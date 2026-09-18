@@ -16,7 +16,7 @@ import re
 import string
 from urllib.parse import unquote, urljoin, urlsplit
 
-from . import config
+from . import profiles
 
 #: Caractères qui ne doivent jamais apparaître dans un chemin, une fois celui-ci
 #: entièrement décodé. Attrape notamment les artefacts CDX ``%22http://...``,
@@ -37,45 +37,6 @@ _PCT = re.compile(r"%([0-9A-Fa-f]{2})")
 #: Une suite ininterrompue de séquences ``%XX`` : candidate à un décodage
 #: UTF-8 complet (voir :func:`_decode_percent_utf8`).
 _PCT_RUN = re.compile(r"(?:%[0-9A-Fa-f]{2})+")
-
-#: RTS Play route son contenu (articles, épisodes) sur un identifiant passé en
-#: paramètre de requête (``?urn=...`` ou ``?id=...``), toujours retiré par cette
-#: normalisation — indexer ces URLs revient donc à indexer des pages cassées
-#: (redirection vers ``/play/not-found``). Confirmé par sondage direct sur la
-#: quasi-totalité de ``/play/`` (129'068 URLs sur 129'069 lors de l'audit).
-#: Seules ces pages statiques, qui ne dépendent d'aucun paramètre, sont
-#: réellement fonctionnelles ; tout le reste de ``/play/`` est exclu du
-#: périmètre plutôt que d'être indexé pour finir mort.
-_PLAY_ALLOWLIST = frozenset(
-    {
-        "play/embed",
-        "play/legacy-browser",
-        "play/recherche",
-        "play/tv",
-        "play/tv/agid",
-        "play/tv/aide",
-        "play/tv/configuraziuns",
-        "play/tv/einstellungen",
-        "play/tv/emissions",
-        "play/tv/emissiuns",
-        "play/tv/favorite-guide-shows",
-        "play/tv/favorite-guide-topics",
-        "play/tv/guida",
-        "play/tv/hilfe",
-        "play/tv/i-miei-video",
-        "play/tv/impostazioni",
-        "play/tv/meine-videos",
-        "play/tv/mes-videos",
-        "play/tv/parametres",
-        "play/tv/popupvideoplayer",
-        "play/tv/programme-par-chaine",
-        "play/tv/programmi",
-        "play/tv/rtr-livestreams",
-        "play/tv/rts-livestreams",
-        "play/tv/sport-livestreams",
-        "play/tv/streaming",
-    }
-)
 
 #: Aucune page rts.ch légitime n'approche cette longueur (les navigateurs et la
 #: plupart des serveurs plafonnent déjà autour de 2000-8000 caractères) ; un
@@ -127,7 +88,7 @@ def _decode_percent_utf8(path: str) -> str:
     return _PCT_RUN.sub(repl, path)
 
 
-def _canonical_host(netloc: str) -> str | None:
+def _canonical_host(netloc: str, profile: profiles.Profile) -> str | None:
     """Hôte en minuscules, sans port par défaut ni userinfo. ``None`` si l'hôte
     est hors périmètre ou syntaxiquement suspect."""
     if "@" in netloc:  # userinfo : jamais légitime ici
@@ -139,31 +100,35 @@ def _canonical_host(netloc: str) -> str | None:
         host = host[:-4]
     if ":" in host:  # port non standard
         return None
-    host = config.HOST_ALIASES.get(host, host)
-    return host if host in config.HOSTS else None
+    host = profile.host_aliases.get(host, host)
+    return host if host in profile.hosts else None
 
 
-def _is_html_leaf(leaf: str) -> bool:
+def _is_html_leaf(leaf: str, profile: profiles.Profile) -> bool:
     """Le segment terminal désigne-t-il une page HTML ?
 
     Sans point, c'est une rubrique (dossier). Avec un point, l'extension doit
-    figurer dans :data:`config.HTML_EXTENSIONS` — ce qui écarte ``.image``,
-    ``.json``, ``.jpg`` et consorts.
+    figurer dans :attr:`~.profiles.Profile.html_extensions` — ce qui écarte
+    ``.image``, ``.json``, ``.jpg`` et consorts.
     """
     if "." not in leaf:
         return True
     ext = leaf[leaf.rindex(".") :].lower()
-    return ext in config.HTML_EXTENSIONS
+    return ext in profile.html_extensions
 
 
-def normalize(raw: str, base: str | None = None) -> str | None:
+def normalize(
+    raw: str, base: str | None = None, profile: profiles.Profile | None = None
+) -> str | None:
     """Retourne l'URL canonique, ou ``None`` si elle est hors périmètre.
 
-    Une URL canonique est en ``https``, sur un hôte de :data:`config.HOSTS`,
-    sans fragment ni query, avec un slash final si elle désigne une rubrique.
+    Une URL canonique est en ``https``, sur un hôte du profil actif, sans
+    fragment ni query, avec un slash final si elle désigne une rubrique.
 
     ``base`` permet de résoudre un lien relatif rencontré pendant le crawl.
+    ``profile`` force un profil au lieu de celui de l'exécution en cours.
     """
+    profile = profile if profile is not None else profiles.active()
     if not raw:
         return None
     raw = raw.strip()
@@ -183,7 +148,7 @@ def normalize(raw: str, base: str | None = None) -> str | None:
     if parts.scheme not in ("http", "https"):
         return None
 
-    host = _canonical_host(parts.netloc)
+    host = _canonical_host(parts.netloc, profile)
     if host is None:
         return None
 
@@ -209,11 +174,11 @@ def normalize(raw: str, base: str | None = None) -> str | None:
         return f"https://{host}/"
 
     leaf = segments[-1]
-    if not _is_html_leaf(leaf):
+    if not _is_html_leaf(leaf, profile):
         return None
 
     joined = "/".join(segments)
-    if (joined == "play" or joined.startswith("play/")) and joined not in _PLAY_ALLOWLIST:
+    if profile.excluded(joined):
         return None
 
     # Pas de point dans le segment terminal => rubrique => slash final.
@@ -221,12 +186,15 @@ def normalize(raw: str, base: str | None = None) -> str | None:
     return f"https://{host}/{joined}{trailing}"
 
 
-def normalize_many(raws: object, base: str | None = None) -> list[str]:
+def normalize_many(
+    raws: object, base: str | None = None, profile: profiles.Profile | None = None
+) -> list[str]:
     """Normalise un itérable d'URLs et supprime les doublons, en préservant
     l'ordre de première apparition."""
+    profile = profile if profile is not None else profiles.active()
     seen: dict[str, None] = {}
     for raw in raws:  # type: ignore[union-attr]
-        url = normalize(raw, base)
+        url = normalize(raw, base, profile)
         if url is not None:
             seen.setdefault(url, None)
     return list(seen)

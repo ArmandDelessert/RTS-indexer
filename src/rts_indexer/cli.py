@@ -9,7 +9,7 @@ import sys
 import time
 from pathlib import Path
 
-from . import config, explorer, urlnorm
+from . import config, explorer, profiles, urlnorm
 from . import verify as verify_module
 from .sources import commoncrawl, fichier, rss, sitemap, wayback
 from .sources import crawl as crawl_source
@@ -529,13 +529,21 @@ def cmd_run(args: argparse.Namespace, store: Store | None = None) -> int:
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         prog="rts_indexer",
-        description="Indexeur des URLs de rts.ch — la base vit dans data/.",
+        description="Indexeur des URLs d'un site de presse — la base vit dans data/.",
     )
     parser.add_argument("-v", "--verbose", action="store_true")
     parser.add_argument(
         "--data-dir",
         default=str(config.DATA_DIR),
         help="racine de l'index (défaut: %(default)s)",
+    )
+    parser.add_argument(
+        "--profile",
+        default=profiles.DEFAULT_PROFILE,
+        help=(
+            "site à indexer : nom d'un profil de profiles/ ou chemin vers un "
+            ".toml (défaut: %(default)s)"
+        ),
     )
     sub = parser.add_subparsers(dest="command", required=True)
 
@@ -725,6 +733,13 @@ def main(argv: list[str] | None = None) -> int:
     global _DEBUT
     args = build_parser().parse_args(argv)
     _log_setup(args.verbose)
+    # Posé avant toute commande : le périmètre, les sources et le débit en
+    # dépendent, et plusieurs modules le lisent au premier appel.
+    try:
+        profiles.activate(args.profile)
+    except profiles.ProfileError as exc:
+        print(exc, file=sys.stderr)
+        return 2
     _DEBUT = time.monotonic()
     try:
         return args.func(args)

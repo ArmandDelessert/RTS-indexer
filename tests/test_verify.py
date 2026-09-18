@@ -32,8 +32,8 @@ CODES = {
 
 
 @pytest.fixture(autouse=True)
-def _sans_attente(monkeypatch):
-    monkeypatch.setattr(config, "VERIFY_MIN_INTERVAL", 0.0)
+def _sans_attente(profil):
+    profil(verify_min_interval=0.0)
 
 
 def _transport(codes=None, log=None):

@@ -11,7 +11,7 @@ de l'eau.
 
 C'est aussi la source la moins chère du projet : une vingtaine de requêtes,
 quelques dizaines de kilo-octets. Sa contrainte n'est pas le coût mais la
-**fréquence** — voir :data:`config.RSS_FEEDS` pour la fenêtre mesurée.
+**fréquence** — voir ``sources.rss_feeds`` du profil pour la fenêtre mesurée.
 
 Sur ``robots.txt`` : le chemin ``/flux/`` est interdit, mais ce n'est pas celui
 qu'on emprunte — la forme ``<rubrique>/?format=rss/news`` passe par un paramètre
@@ -28,7 +28,7 @@ import logging
 import httpx
 from lxml import etree
 
-from .. import config, net, urlnorm
+from .. import net, profiles, urlnorm
 
 log = logging.getLogger(__name__)
 
@@ -50,8 +50,9 @@ def _parse(content: bytes) -> etree._Element | None:
 
 def feed_urls(paths: tuple[str, ...] | None = None) -> list[str]:
     """URLs des flux à interroger, construites depuis les rubriques configurées."""
-    paths = paths if paths is not None else config.RSS_FEEDS
-    return [config.RSS_FEED_TEMPLATE.format(path=path) for path in paths]
+    profile = profiles.active()
+    paths = paths if paths is not None else profile.rss_feeds
+    return [profile.rss_feed_template.format(path=path) for path in paths]
 
 
 def collect(

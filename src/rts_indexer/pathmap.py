@@ -27,7 +27,7 @@ from __future__ import annotations
 import re
 from urllib.parse import urlsplit
 
-from . import config
+from . import config, profiles
 
 _WIN_RESERVED = frozenset(
     {"con", "prn", "aux", "nul"}
@@ -132,11 +132,10 @@ def _check_length(relpath: str) -> None:
     ``git config core.longpaths true`` casserait au-delà de 260 caractères, y
     compris sur un Windows où ``LongPathsEnabled`` est actif.
     """
+    limite = profiles.active().max_rel_path_len
     projected = len(f"data/{relpath}/{config.INDEX_BASENAME}{config.INDEX_SUFFIX}")
-    if projected > config.MAX_REL_PATH_LEN:
-        raise PathMappingError(
-            f"chemin trop long ({projected} > {config.MAX_REL_PATH_LEN}): data/{relpath}"
-        )
+    if projected > limite:
+        raise PathMappingError(f"chemin trop long ({projected} > {limite}): data/{relpath}")
 
 
 def shard_key(slug: str) -> str:

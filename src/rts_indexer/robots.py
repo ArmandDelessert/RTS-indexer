@@ -20,7 +20,7 @@ import re
 from dataclasses import dataclass, field
 from urllib.parse import urlsplit
 
-from . import config, net
+from . import net, profiles
 
 log = logging.getLogger(__name__)
 
@@ -57,12 +57,17 @@ class RobotsRules:
         return self.allowed(urlsplit(url).path or "/")
 
 
-def parse(text: str, agent: str = config.USER_AGENT) -> RobotsRules:
+def parse(text: str, agent: str | None = None) -> RobotsRules:
     """Analyse le contenu d'un ``robots.txt``.
 
     Les groupes sont accumulés puis départagés à la fin : un ``User-agent``
     nommant explicitement notre robot prime sur le groupe ``*``.
+
+    ``agent`` par défaut est celui du profil actif — résolu à l'appel, car une
+    valeur par défaut d'argument serait évaluée à l'import, avant que le CLI
+    n'ait posé le profil.
     """
+    agent = agent if agent is not None else profiles.active().user_agent
     token = agent.split("/", 1)[0].lower()
     groups: dict[str, RobotsRules] = {}
     current: list[str] = []

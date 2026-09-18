@@ -9,7 +9,7 @@ vérifie que cette préservation n'introduit pas de collision NTFS malgré tout.
 
 import pytest
 
-from rts_indexer import config, pathmap
+from rts_indexer import config, pathmap, profiles
 from rts_indexer.pathmap import PathMappingError, location_to_url, url_to_location
 
 CORPUS = [
@@ -116,7 +116,7 @@ def test_longueur_bornee():
     for url in CORPUS:
         relpath, _ = url_to_location(url)
         projete = len(f"data/{relpath}/{config.INDEX_BASENAME}{config.INDEX_SUFFIX}")
-        assert projete <= config.MAX_REL_PATH_LEN
+        assert projete <= profiles.active().max_rel_path_len
 
 
 def test_chemin_trop_long_rejete():
