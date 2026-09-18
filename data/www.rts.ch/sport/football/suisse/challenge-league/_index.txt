@@ -84,3 +84,6 @@
 3389055-stgall-sadjuge-le-derby-des-saucisses.html
 4844412-lespoir-samenuise-pour-lac-bellinzone.html
 5146362-servette-vire-sebastien-fournier.html
+archives/
+audios/
+!videos/

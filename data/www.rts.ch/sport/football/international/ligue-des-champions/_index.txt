@@ -446,3 +446,6 @@
 9970880-ligue-des-champions-shaqiri-pas-convoque-pour-le-deplacement-a-belgrade.html
 9970927-ligue-des-champions-deplacement-crucial-a-naples-pour-le-psg.html
 9977717-ligue-des-champions-pas-dexploit-de-young-boys-a-valence.html
+archives/
+audios/
+videos/

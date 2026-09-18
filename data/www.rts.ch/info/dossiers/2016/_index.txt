@@ -1,1 +1,7 @@
 ./
+brexit/
+elections-fribourgeoises/
+gothard/
+les-series-de-fin-d-annee/
+presidentielle-americaine/
+votation-federale-du-27-novembre/

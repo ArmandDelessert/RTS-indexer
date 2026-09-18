@@ -25,3 +25,8 @@
 9190136-les-photos-de-rodolf-le-chat.html
 9197466-1257461-chf-pour-lutter-contre-la-precarite-des-jeunes-en-suisse-merci-a-tous-ceux-qui-se-sont-mobilises.html
 9203202-coeur-a-coeur-bouquet-final.html
+!encheres/
+!evenements/
+!l-edition-2016/
+!la-cause/
+!videos/

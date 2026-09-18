@@ -85,3 +85,6 @@
 8694678-tennis-paul-annacone-rejoint-lequipe-de-stan-wawrinka.html
 8696280-tennis-stan-wawrinka-no-1-des-tournois-du-grand-chelem.html
 8700294-masters-de-londres-rafael-nadal-deja-qualifie.html
+archives/
+audios/
+videos/

@@ -33,3 +33,6 @@
 8942206-laver-cup-roger-federer-etincelant-face-a-sam-querrey.html
 9257426-roger-federer-revoyez-lultime-episode-des-coulisses-de-levenement-sur-le-balois.html
 9371006-laureus-sports-awards-roger-federer-honore-a-deux-reprises.html
+archives/
+audios/
+videos/

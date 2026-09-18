@@ -188,3 +188,6 @@
 9846797-coupe-de-suisse-sion-ne-se-laisse-pas-surprendre-par-lausanne.html
 9847197-coupe-de-suisse-le-stade-nyonnais-cree-la-surprise-contre-gc.html
 9963162-coupe-de-suisse-sion-defiera-bale-en-quarts-de-finale.html
+archives/
+audios/
+!videos/

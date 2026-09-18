@@ -1,1 +1,5 @@
 ./
+embed/
+legacy-browser/
+!not-found/
+recherche/

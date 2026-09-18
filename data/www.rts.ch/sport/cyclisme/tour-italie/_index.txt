@@ -56,3 +56,5 @@
 9598824-tour-ditalie-nieve-simpose-en-solitaire-froome-conserve-le-maillot-rose.html
 9600052-tour-ditalie-froome-vainqueur-du-giro-sur-les-forums-imperiaux.html
 9615180-tour-ditalie-le-velo-de-froome-controle-6-fois.html
+!archives/
+videos/

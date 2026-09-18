@@ -191,3 +191,5 @@
 9575475-europa-league-latletico-madrid-sacre.html
 9737547-europa-league-marseille-menace-dexclusion-par-luefa.html
 9739585-europa-league-stgall-renverse-une-situation-mal-embarquee.html
+archives/
+!videos/

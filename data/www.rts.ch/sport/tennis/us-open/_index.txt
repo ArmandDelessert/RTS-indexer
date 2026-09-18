@@ -137,3 +137,6 @@
 9808760-us-open-les-organisateurs-font-amende-honorable-pour-lavertissement-de-cornet.html
 9811402-us-open-djokovic-lache-un-set-face-a-sandgren.html
 9828885-us-open-osaka-triomphe-williams-perd-les-nerfs.html
+archives/
+audios/
+videos/

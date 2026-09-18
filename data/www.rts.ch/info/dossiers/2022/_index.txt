@@ -1,1 +1,10 @@
 ./
+deces-d-elizabeth-ii/
+double-succession-au-conseil-federal/
+elections-bernoises/
+elections-vaudoises/
+les-dessous-de-la-coupe-du-monde/
+presidentielle-francaise/
+votations-federales-du-13-fevrier/
+votations-federales-du-15-mai/
+votations-federales-du-25-septembre/

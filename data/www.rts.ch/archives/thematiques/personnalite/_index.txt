@@ -1,1 +1,5 @@
 ./
+a-z-toutes-les-personnalites/
+culture-et-arts/
+sciences-et-nature/
+sports/

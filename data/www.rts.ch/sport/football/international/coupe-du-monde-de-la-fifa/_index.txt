@@ -212,3 +212,6 @@
 9718028-fifa-coupe-du-monde-2018-pres-de-14-million-de-romands-ont-suivi-le-tournoi-sur-les-ecrans-de-la-rts.html
 9718329-football-thierry-henry-lache-son-mandat-de-consultant-pour-devenir-entraineur.html
 9737332-fifa-coupe-du-monde-2018-pavard-laureat-du-plus-beau-but.html
+archives/
+audios/
+videos/

@@ -788,3 +788,5 @@
 9990929-nba-utah-gagne-encore-sans-sefolosha.html
 9993967-nba-capela-fait-le-show-dans-le-colorado.html
 9996231-nba-king-james-depasse-wilt-chamberlain.html
+archives/
+videos/

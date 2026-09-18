@@ -3,3 +3,12 @@
 10664107-genie-suisse-sur-la-route-a-la-rencontre-des-electeurs-romands.html
 10669876-generation-globale-la-suisse-des-projets-citoyens.html
 10719027-face-aux-partis.html
+berne/
+campagne/
+fribourg/
+geneve/
+jura/
+neuchatel/
+outre-sarine-et-tessin/
+valais/
+vaud/

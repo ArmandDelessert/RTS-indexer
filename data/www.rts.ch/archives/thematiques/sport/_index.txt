@@ -1,1 +1,9 @@
 ./
+alpinisme/
+autres-sports/
+cyclisme/
+football/
+hockey/
+ski/
+sport-et-societe/
+tennis/

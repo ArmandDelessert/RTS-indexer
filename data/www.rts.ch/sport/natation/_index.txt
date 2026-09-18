@@ -122,3 +122,5 @@
 9763641-natation-seule-touretski-passe-la-rampe.html
 9763905-natation-maria-ugolkova-decroche-le-bronze.html
 9765357-natation-trois-jours-apres-son-sacre-desplanches-boude-par-la-reussite.html
+archives/
+videos/

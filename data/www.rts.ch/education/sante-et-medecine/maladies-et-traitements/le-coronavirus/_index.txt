@@ -1,1 +1,4 @@
 ./
+coronavirus-et-sante-mentale/
+coronavirus-et-societe/
+le-coronavirus-explique-aux-enfants/

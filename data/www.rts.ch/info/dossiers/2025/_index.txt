@@ -1,1 +1,5 @@
 ./
+elections-jurassiennes/
+elections-valaisannes/
+votations-federales-du-28-septembre/
+votations-federales-du-30-novembre/

@@ -47,3 +47,5 @@
 14638377-biathlon-1re-victoire-en-coupe-du-monde-pour-lena-hackigross.html
 14640701-biathlon-le-relais-mixte-suisse-au-pied-du-podium.html
 14642191-biathlon-hackigross-tient-la-grande-forme.html
+archives/
+videos/

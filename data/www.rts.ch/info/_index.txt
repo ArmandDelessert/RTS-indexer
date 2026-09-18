@@ -496,3 +496,6 @@
 9492296-mai-68-en-photos.html
 9660102-losteria-francescana-en-italie-sacree-meilleur-restaurant-du-monde.html
 9820622-cinq-questions-philo-avec-alexandre-jollien.html
+!sms/
+trafic/
+vos-infos/

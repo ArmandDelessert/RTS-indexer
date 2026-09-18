@@ -1,1 +1,10 @@
 ./
+autres/
+berne/
+fribourg/
+geneve/
+jura/
+neuchatel/
+suisse/
+valais/
+vaud/

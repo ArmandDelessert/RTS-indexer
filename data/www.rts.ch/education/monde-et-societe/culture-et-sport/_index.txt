@@ -1,1 +1,11 @@
 ./
+charlie-chaplin/
+jeux-video-et-e-sport/
+l-ecole/
+l-islam-en-suisse/
+la-francophonie/
+la-science-pour-tous/
+le-football/
+le-monde-de-demain/
+le-ski/
+les-instruments-de-musique/

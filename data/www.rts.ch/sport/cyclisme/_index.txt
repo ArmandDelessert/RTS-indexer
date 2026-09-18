@@ -1305,3 +1305,6 @@
 9875145-cyclisme-le-tour-de-romandie-tient-son-nouveau-sponsor-principal.html
 9875413-cyclisme-la-suisse-va-accueillir-deux-mondiaux-en-quatre-ans.html
 9901809-autres.html
+archives/
+depeches/
+videos/

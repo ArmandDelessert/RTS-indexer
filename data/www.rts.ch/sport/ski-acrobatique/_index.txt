@@ -25,3 +25,5 @@
 9353023-pyeongchang-2018-skicross-jai-eu-une-part-de-chance-dixit-bischi.html
 9354725-pyeongchang-2018-ski-freestyle-sarah-hoefflin-et-mathilde-gremaud-de-retour-au-pays.html
 9380417-ski-freestyle-andri-ragettli-deuxieme-de-slopestyle-devant-son-public.html
+archives/
+videos/

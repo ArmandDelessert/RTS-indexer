@@ -1,1 +1,5 @@
 ./
+les-addictions/
+les-dangers-du-soleil/
+les-jeunes-et-l-alcool/
+les-maladies-rares/

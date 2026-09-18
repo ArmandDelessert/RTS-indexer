@@ -721,3 +721,6 @@
 9992848-matches-amicaux-mvogo-titulaire-face-au-qatar.html
 9995372-matches-amicaux-la-suisse-sombre-face-au-qatar.html
 9995473-matches-amicaux-la-suisse-dans-un-jour-sans.html
+archives/
+audios/
+!videos/

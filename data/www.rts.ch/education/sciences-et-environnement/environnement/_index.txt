@@ -1,1 +1,10 @@
 ./
+l-agriculture/
+l-empreinte-carbone/
+l-hydrogene/
+la-collapsologie/
+la-deforestation/
+le-petrole-et-le-gaz/
+le-recyclage/
+le-train/
+les-pesticides/

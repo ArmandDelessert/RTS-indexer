@@ -77,3 +77,6 @@
 9883387-debat-sur-les-primes-maladie-comment-alleger-la-douloureuse.html
 9974301-surveillance-des-assures-le-decryptage-de-la-votation.html
 9996447-guichet-choisir-son-assurance-maladie.html
+ai-perte-de-gain/
+maladie/
+menage-voyage-auto/

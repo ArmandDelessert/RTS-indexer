@@ -127,3 +127,8 @@
 9417757-premier-league-mohamed-salah-exfc-bale-marque-4-fois-pour-liverpool-contre-watford-defait-50.html
 9608535-sport-derniere-rolandgarros.html
 9650428-au-cur-du-mondial.html
+archives/
+audios/
+gymnastique-rythmique/
+resultats/
+trampoline/

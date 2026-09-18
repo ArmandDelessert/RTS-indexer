@@ -1031,3 +1031,6 @@
 9967334-football-leaks-un-projet-de-super-ligue-privee-toujours-dactualite.html
 9980014-uefa-ceferin-seul-candidat-a-sa-succession.html
 9980679-football-leaks-affaire-de-fichage-ethnique-au-psg.html
+archives/
+audios/
+!videos/

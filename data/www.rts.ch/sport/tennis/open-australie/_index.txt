@@ -182,3 +182,6 @@
 9286496-open-daustralie-le-monde-sportif-salue-le-triomphe-de-roger-federer.html
 9287816-roger-federer-ca-reste-difficile-a-croire.html
 9288317-open-daustralie-la-presse-dithyrambique-sur-federer.html
+archives/
+audios/
+videos/

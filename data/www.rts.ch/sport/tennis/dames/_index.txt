@@ -315,3 +315,5 @@
 930510-un-veritable-miracle-pour-patty-schnyder.html
 930511-les-tetes-daffiche-passent-mais-pas-ivanovic.html
 930512-timea-bacsinszky-brille-puis-seffondre.html
+archives/
+videos/

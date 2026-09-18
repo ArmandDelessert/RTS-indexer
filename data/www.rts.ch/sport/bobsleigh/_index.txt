@@ -23,3 +23,5 @@
 14622794-bob-deuxieme-podium-de-la-saison-pour-melanie-hasler.html
 9361521-pyeongchang-2018-bobsleigh-lequipage-de-rico-peter-5e-apres-deux-manches.html
 9363275-pyeongchang-2018-bobsleigh-double-allemand-en-bob-a-quatre-rico-peter-quatrieme.html
+archives/
+videos/

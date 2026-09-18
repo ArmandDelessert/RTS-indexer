@@ -151,3 +151,6 @@
 9363500-pyeongchang-2018-ski-de-fond-marit-bjorgen-au-sommet-de-lolympe.html
 9398556-ski-de-fond-cologna-triomphe-enfin-sur-50-km-dans-la-mecque-du-ski-nordique.html
 9418617-ski-de-fond-dario-cologna-sassure-le-petit-globe.html
+archives/
+audios/
+videos/

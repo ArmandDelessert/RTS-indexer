@@ -4333,3 +4333,6 @@
 9997599-masters-de-londres-federer-bat-anderson-et-remporte-son-groupe.html
 9997894-masters-de-londres-nishikori-battu-federer-peut-se-contenter-dun-set.html
 9998199-coupe-davis-latp-contreattaque-avec-des-points-et-des-dollars-pour-sa-competition.html
+archives/
+depeches/
+videos/

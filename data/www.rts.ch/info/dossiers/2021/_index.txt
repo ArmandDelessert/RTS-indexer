@@ -1,1 +1,10 @@
 ./
+elections-fribourgeoises/
+elections-neuchateloises/
+elections-valaisannes/
+moutier-vote-sur-son-appartenance-cantonale/
+rencontre-biden-poutine-a-geneve/
+votations-federales-du-13-juin/
+votations-federales-du-26-septembre/
+votations-federales-du-28-novembre/
+votations-federales-du-7-mars/

@@ -965,3 +965,6 @@
 9899331-moratfribourg-tadesse-abraham-et-maude-mathys-triomphent.html
 9902953-athletisme-pascal-mancini-suspendu-un-an.html
 9916484-athletisme-wanders-bat-le-record-deurope-du-10-km.html
+archives/
+audios/
+videos/

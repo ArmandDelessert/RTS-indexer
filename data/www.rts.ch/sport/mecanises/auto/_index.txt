@@ -778,3 +778,7 @@
 9880810-f1-gp-de-russie-mercedes-fait-gagner-lewis-hamilton.html
 9898190-f1-gp-du-japon-lewis-hamilton-en-demonstration.html
 9951321-f1-gp-du-mexique-lewis-hamilton-sacre-champion-du-monde.html
+archives/
+audios/
+depeches/
+videos/

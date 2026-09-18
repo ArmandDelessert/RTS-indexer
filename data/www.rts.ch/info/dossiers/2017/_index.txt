@@ -1,1 +1,10 @@
 ./
+elections-legislatives-allemandes/
+elections-neuchateloises/
+elections-valaisannes/
+elections-vaudoises/
+moutier-se-choisit-un-canton/
+presidentielle-francaise/
+succession-de-didier-burkhalter/
+votations-federales-du-21-mai/
+votations-federales-du-24-septembre/

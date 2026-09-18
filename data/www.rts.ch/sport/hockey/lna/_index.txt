@@ -1010,3 +1010,6 @@
 9759837-national-league-leonardo-genoni-va-filer-a-zoug.html
 9776697-national-league-un-duo-nordamericain-a-geservette.html
 9903060-national-league-ronalds-kenins-acquitte.html
+archives/
+audios/
+videos/

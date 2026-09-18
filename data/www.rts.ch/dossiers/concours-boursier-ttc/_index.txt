@@ -3,3 +3,7 @@
 10651304-contact.html
 11576649-le-grand-concours-boursier-ttc-est-de-retour.html
 12566410-le-classement-complet.html
+classement/
+connexion/
+inscription/
+mode-d-emploi-en-video/

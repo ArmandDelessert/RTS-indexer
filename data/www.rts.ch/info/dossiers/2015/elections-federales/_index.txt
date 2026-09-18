@@ -293,3 +293,4 @@
 7238082-guy-parmelin-est-le-meilleur-candidat-au-conseil-federal-pour-la-romandie.html
 7256004-le-ps-na-jamais-ete-aussi-fort-au-conseil-des-etats.html
 7260992-la-droite-a-depense-cinq-fois-plus-que-la-gauche-en-publicite-electorale.html
+campagne/

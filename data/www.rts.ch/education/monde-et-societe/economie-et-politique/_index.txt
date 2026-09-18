@@ -1,1 +1,13 @@
 ./
+enfants-places/
+gaza/
+l-inflation/
+la-crise-de-la-zone-euro/
+la-democratie-en-declin/
+la-neutralite-suisse/
+la-paternite/
+la-suisse-et-l-europe/
+la-suisse-et-l-onu/
+le-sexisme/
+le-surendettement/
+les-seniors/

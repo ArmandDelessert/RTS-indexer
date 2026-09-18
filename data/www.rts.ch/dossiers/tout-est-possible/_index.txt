@@ -4,3 +4,6 @@
 12649170-participer.html
 12718629-les-projets-en-images.html
 12728108-55-projets-solidaires-en-passe-detre-realises-dans-toute-la-suisse-romande.html
+en-videos/
+projets-termines/
+projets/

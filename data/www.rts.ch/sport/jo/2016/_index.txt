@@ -238,3 +238,6 @@
 8025135-paralympiques-2016-des-records-et-des-larmes.html
 8025306-paralympiques-2016-marcel-hug-remporte-lor-au-marathon.html
 8167238-jo-2016-une-audience-televisee-inedite-pour-les-jeux-de-rio.html
+archives/
+audios/
+videos/

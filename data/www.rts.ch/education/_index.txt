@@ -1,1 +1,5 @@
 ./
+a-propos/
+fiches-pedagogiques/
+nos-series/
+recherche/

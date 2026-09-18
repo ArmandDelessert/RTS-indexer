@@ -111,3 +111,6 @@
 9471932-golf-reed-entre-dans-la-cour-des-grands.html
 9525539-golf-gooch-nez-a-nez-avec-un-alligator.html
 9805095-golf-john-daly-vedette-de-ledition-2018-de-leuropean-masters.html
+archives/
+audios/
+videos/

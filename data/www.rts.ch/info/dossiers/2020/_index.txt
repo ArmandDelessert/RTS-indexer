@@ -1,1 +1,6 @@
 ./
+elections-jurassiennes/
+presidentielle-americaine/
+votations-federales-du-27-septembre/
+votations-federales-du-29-novembre/
+votations-federales-du-9-fevrier/

@@ -346,3 +346,6 @@
 9957462-la-derniere-seance.html
 9988572-a-lecole-hoteliere.html
 9991697-ecole-hoteliere-de-lausanne.html
+emissions/
+memoriav/
+recherche/

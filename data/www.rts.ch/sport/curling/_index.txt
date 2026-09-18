@@ -201,3 +201,5 @@
 9517913-curling-succes-record-des-suisses-150.html
 9528589-curling-michele-jaggi-et-sven-michel-decrochent-le-graal.html
 9958146-curling-europeens-geneve-representera-la-suisse.html
+archives/
+videos/

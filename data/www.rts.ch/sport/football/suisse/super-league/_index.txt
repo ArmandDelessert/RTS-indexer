@@ -876,3 +876,6 @@
 9698151-neuchatel-xamax-gilbert-facchinetti-est-decede.html
 9714561-challenge-league-lausanne-prete-enzo-zidane-en-2e-division-espagnole.html
 9729247-super-league-sion-encaisse-un-but-gag-et-sincline-contre-lugano.html
+archives/
+audios/
+!videos/

@@ -1,1 +1,8 @@
 ./
+elections-genevoises/
+le-climat-en-questions/
+les-aventures-de-tintin/
+rachat-de-credit-suisse-par-ubs/
+seisme-en-turquie-et-en-syrie/
+succession-d-alain-berset/
+votations-federales-du-18-juin/

@@ -22,3 +22,6 @@
 9015467-atp-bale-federer-pour-la-passe-de-huit.html
 9018307-atp-bale-federertiafoe-au-1er-tour.html
 9019947-atp-bale-federer-bale-a-toujours-ete-la-priorite.html
+archives/
+audios/
+videos/

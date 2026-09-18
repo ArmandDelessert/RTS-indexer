@@ -231,3 +231,5 @@
 9743302-tour-de-france-geraint-thomas-remporte-le-tour-2018.html
 9749884-tour-de-france-la-vie-totalement-chamboulee-de-thomas.html
 9759773-cyclisme-gregory-rast-va-mettre-fin-a-sa-carriere.html
+!archives/
+!videos/

@@ -48,3 +48,5 @@
 9771281-vtt-une-11e-victoire-pour-jolanda-neff.html
 9826790-vtt-les-suissesses-reussissent-le-double.html
 9828864-vtt-septieme-titre-mondial-pour-nino-schurter.html
+archives/
+videos/

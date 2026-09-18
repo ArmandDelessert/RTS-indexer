@@ -1,1 +1,3 @@
 ./
+l-intelligence-artificielle/
+les-geants-du-net/

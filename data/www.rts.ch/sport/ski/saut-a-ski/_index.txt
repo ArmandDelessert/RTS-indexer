@@ -95,3 +95,6 @@
 14601441-saut-a-skis-les-suisses-en-decoudront-avec-des-adversaires-redoutables.html
 14603419-tournee-des-4-tremplins-ryoyu-kobayashi-sacre-pour-la-3e-fois.html
 5462971-saut-a-ski.html
+archives/
+audios/
+videos/

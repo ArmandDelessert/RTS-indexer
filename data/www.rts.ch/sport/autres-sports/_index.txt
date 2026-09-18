@@ -1385,3 +1385,5 @@
 9889974-jo-jeunesse-trois-ambassadeurs-de-renom-pour-lausanne-2020.html
 9916656-carnet-noir-patrick-baumann-est-decede.html
 9939345-ski-de-fond-dario-cologna-elu-roi-du-ski.html
+archives/
+videos/

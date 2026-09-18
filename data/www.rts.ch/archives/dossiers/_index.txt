@@ -711,3 +711,5 @@
 9936122-les-courses-populaires.html
 9963014-les-tribus-de-jeunes.html
 9997390-les-montagnards.html
+les-feuilletons/
+memoire-s-de-suisse-romande/

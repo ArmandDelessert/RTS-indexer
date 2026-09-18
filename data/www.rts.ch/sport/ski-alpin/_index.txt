@@ -138,3 +138,5 @@
 9793623-ski-charlotte-chable-sadjuge-un-slalom-en-australie.html
 9801037-ski-justin-murisier-blesse-au-genou-droit.html
 9812596-ski-saison-terminee-pour-justin-murisier.html
+archives/
+videos/

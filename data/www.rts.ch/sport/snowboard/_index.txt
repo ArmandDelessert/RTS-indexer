@@ -58,3 +58,5 @@
 9362140-pyeongchang-2018-snowboard-nevin-galmarini-des-la-reconnaissance-jai-senti-que-javais-de-bonnes-sensations.html
 9398486-snowboard-nevin-galmarini-sadjuge-le-globe.html
 9416799-snowboard-julie-zogg-monte-sur-le-podium.html
+archives/
+videos/

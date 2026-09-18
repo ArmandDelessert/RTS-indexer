@@ -423,3 +423,6 @@
 9897910-moto-marquez-puissance-50-luthi-avantdernier.html
 9943192-moto-gp-folger-se-casse-le-nez-apres-une-collision-avec-un-oiseau.html
 9967082-moto-pluies-diluviennes-et-18e-place-sur-la-grille-pour-luthi.html
+archives/
+depeches/
+videos/

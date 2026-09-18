@@ -1,1 +1,5 @@
 ./
+monde-et-societe/
+sante-et-medecine/
+sciences-et-environnement/
+video/

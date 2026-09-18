@@ -1,2 +1,11 @@
 ./
 3277773-centenaire-des-cff-30-04-1947.html
+consommation/
+education/
+enjeux-de-societe/
+femmes/
+justice-et-faits-divers/
+la-famille/
+loisirs/
+mode-de-vie/
+religion-et-croyances/

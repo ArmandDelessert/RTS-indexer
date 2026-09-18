@@ -225,3 +225,6 @@
 9363476-pyeongchang-2018-bilan-le-sport-suisse-a-ecrit-de-magnifiques-histoires-pour-ralph-stockli.html
 9363853-pyeongchang-2018-les-23es-jeux-olympiques-dhiver-sont-officiellement-termines.html
 9367236-pyeongchang-2018-les-derniers-medailles-suisses-sont-de-retour-au-pays.html
+archives/
+audios/
+videos/

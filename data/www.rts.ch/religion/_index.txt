@@ -1,1 +1,14 @@
 ./
+a-propos/
+a-vue-d-esprit/
+babel/
+celebrations/
+cultes/
+de-temps-en-temps/
+dieu-sait-quoi/
+digital/
+hautes-frequences/
+la-chronique/
+les-voeux/
+messes/
+sur-le-parvis/

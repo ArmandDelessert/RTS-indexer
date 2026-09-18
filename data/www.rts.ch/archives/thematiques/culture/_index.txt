@@ -1,1 +1,9 @@
 ./
+autres-arts/
+cinema/
+henri-guillemin/
+histoire/
+litterature-etrangere/
+litterature-suisse/
+musique-classique/
+philosophie/

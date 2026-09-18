@@ -82,3 +82,6 @@
 9721433-nhl-san-jose-ne-compte-plus-sur-noah-rod.html
 9881016-hockey-nico-hischier-veut-faire-le-spectacle-a-berne.html
 9882736-hockey-cory-schneider-le-3e-suisse-de-new-jersey.html
+archives/
+audios/
+videos/

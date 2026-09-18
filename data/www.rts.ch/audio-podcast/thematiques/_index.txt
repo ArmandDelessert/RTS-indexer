@@ -1,1 +1,12 @@
 ./
+consommation/
+documentaires-et-reportages/
+entretiens/
+fiction/
+humour/
+info/
+musique/
+religions-et-spiritualite/
+sciences/
+societe/
+sport/

@@ -1945,3 +1945,6 @@
 9953006-geant-20182019.html
 9970406-ski-un-espoir-suisse-perd-la-vie-dans-un-accident-de-parapente.html
 9991131-charlotte-chable-et-justin-murisier-deux-skieurs-face-a-lepreuve-de-la-blessure.html
+archives/
+depeches/
+videos/

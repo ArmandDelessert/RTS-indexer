@@ -9,3 +9,9 @@
 14477883-la-vertliberale-zurichoise-tiana-angelina-moser-siegera-aux-etats-thomas-minder-perd-a-schaffhouse.html
 14481350-le-centre-renforce-sa-premiere-place-aux-etats-vertes-udc-et-plr-dans-le-camp-des-perdants.html
 14483295-la-presse-alemanique-analyse-le-renforcement-du-centre-et-les-pertes-de-la-droite-aux-etats.html
+berne/
+campagne/
+fribourg/
+jura/
+neuchatel/
+outre-sarine-et-tessin/

@@ -1,1 +1,6 @@
 ./
+guerres-et-conflits/
+l-armee-suisse/
+les-grands-evenements/
+politique-internationale/
+politique-suisse/

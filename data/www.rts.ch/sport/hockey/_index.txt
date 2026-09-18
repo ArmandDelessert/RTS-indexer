@@ -2986,3 +2986,7 @@
 9980581-deutschland-cup-la-suisse-entame-le-tournoi-par-un-succes.html
 9984585-deutschland-cup-la-suisse-bat-lallemagne-aux-tirs-au-but.html
 9985707-deutschland-cup-la-suisse-finit-par-une-defaite-contre-la-russie.html
+archives/
+audios/
+depeches/
+videos/
