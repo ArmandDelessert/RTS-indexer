@@ -12,6 +12,17 @@ serveur ni base de données externe.
 (404/410, posé par `verify`). Aucune majuscule n'est perdue : elle est percent-encodée dans le nom
 de dossier pour rester reconstructible (certaines rubriques de rts.ch sont sensibles à la casse).
 
+**Dossier ou ligne ?** Un chemin devient un dossier s'il a au moins un descendant indexé ; sinon
+il reste une ligne dans l'index de son parent, slash final compris (`avec-vous/`). La règle est
+*dérivée* de l'ensemble des URLs, jamais déclarée — c'est ce qui la rend applicable à n'importe
+quel site. Conséquence : la disposition bouge quand l'index grandit (ajouter `/a/b/c` promeut
+`/a/b` de ligne en dossier, et le retrait du dernier descendant l'y ramène), et `load()` la
+redérive intégralement à chaque chargement.
+
+Une ligne peut porter plusieurs segments (`18/titre.html`). C'est ce qui permet de plafonner la
+profondeur des dossiers (`max_dir_depth`) sur un site qui partitionne ses URLs par date : sans
+plafond, `/rubrique/article/AAAA/MM/JJ/` produit un dossier par jour et par rubrique.
+
 Quatre sources alimentent l'index :
 
 - **`sitemap`** — les sitemaps XML déclarés dans `robots.txt`. Rapide, ne couvre que les pages de
@@ -50,6 +61,31 @@ lui-même que `dedupe` supprimerait sans rien y substituer. Conserver les identi
 un stockage à part, découplé du cycle `verify`/`dedupe` (l'arborescence `data/` a été pensée pour la
 structure hiérarchique des articles, pas pour un identifiant plat résolu côté serveur) — jugé pour
 l'instant hors de portée du projet.
+
+## Profils de site
+
+Le moteur ne sait pas quel site il indexe : tout ce qui en dépend vit dans un profil TOML sous
+`profiles/`, choisi par `--profile` (défaut : `rts`).
+
+| Ce qui est dans le profil | Ce qui reste dans `config.py` |
+| --- | --- |
+| hôtes, alias, extensions retenues, zones exclues | format d'une ligne d'index, sigils |
+| sitemaps, flux RSS | points d'entrée Wayback / Common Crawl |
+| débit poli (`request_delay`, `crawl_min_interval`, `verify_min_interval`) | retries, backoff, tolérances CDX |
+| seuils de stockage (`shard_threshold`, `max_rel_path_len`, `max_dir_depth`) | cadences de `verify` |
+| forme canonique de l'URL (`trailing_slash`) | emplacements sur disque |
+
+La frontière est une question et non un rangement : *ce réglage changerait-il si l'on indexait
+lemonde.fr ?* Le format d'une ligne d'index, non ; le délai entre deux requêtes, oui — heidi.news
+coupe au-delà d'environ 20 requêtes par minute, là où letemps.ch encaisse 1 req/s sans broncher.
+
+Le profil passe par un fichier plutôt que par un module Python parce qu'à terme le dépôt de
+données porte le sien, et ne peut donc pas être importable depuis le moteur.
+
+```bash
+python -m rts_indexer --profile rts stats            # par nom, cherché dans profiles/
+python -m rts_indexer --profile chemin/vers/x.toml   # ou par chemin
+```
 
 ## Installation
 
