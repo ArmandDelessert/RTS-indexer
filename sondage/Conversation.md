@@ -188,4 +188,3 @@ Divergence malgré la plateforme commune : sur letemps la liste des 63 sous-rubr
 Deux points que je n'avais pas anticipés et qui touchent le moteur :
 - **Le Monde re-date ses articles** : 3 URLs sitemap testées ont répondu 301 vers une autre date (`2025/03/10` → `2026/06/29`), seul `id1` est stable — sans déduplication sur cet identifiant, un même article finira dans plusieurs dossiers.
 - **Le « 24 000 URLs » du commentaire de `urlnorm.py` est périmé** : `data/` contient ~459 000 lignes ; letemps (~490 000) est donc du même ordre que rts.ch, heidi ~2 %, lemonde 7-8 ×.
--
