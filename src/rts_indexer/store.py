@@ -19,8 +19,25 @@ Format d'un fichier d'index :
 
 * ``./`` en tête : le dossier lui-même est une URL valide.
 * ``!`` en préfixe : URL confirmée morte (404/410).
+* une ligne peut porter plusieurs segments (``18/titre.html``) et son propre
+  slash final (``avec-vous/``) : elle est le *reste* de l'URL après le dossier.
 * Tri byte-wise **sur le slug nu**, sigil exclu — une URL qui meurt produit donc
   une ligne modifiée sur place, et non une suppression suivie d'un ajout.
+
+**Dossier ou ligne ?** Un chemin est un dossier s'il a au moins un descendant
+indexé ; sinon c'est une ligne dans son parent. La règle est dérivée de
+l'ensemble des URLs, jamais déclarée — c'est ce qui la rend applicable à
+n'importe quel site sans vocabulaire à tenir à jour, là où une règle par
+extension supposait des URLs en ``.html`` (letemps.ch et heidi.news n'en ont
+aucune) et une règle par profondeur supposait des rubriques à profondeur fixe
+(leur profondeur 2 est mixte : sous-rubriques et articles s'y mélangent).
+
+Conséquence : la disposition dépend de l'ensemble indexé, donc elle bouge quand
+il grandit. Ajouter ``/a/b/c`` *promeut* ``/a/b`` de ligne en dossier ; retirer
+la dernière URL sous ``/a/b`` l'y ramène. Les deux mouvements sont assurés par
+:meth:`Store.add` et :meth:`Store.remove`, et :meth:`Store.load` redérive tout
+depuis zéro — sans quoi un changement de règle ne s'appliquerait jamais à un
+index déjà sur disque.
 """
 
 from __future__ import annotations
@@ -101,9 +118,132 @@ class Store:
         #: purgé. C'est la seule source d'orphelin que le code produise lui-même,
         #: et la raison pour laquelle une purge ciblée suffit en temps normal.
         self._unreadable: set[str] = set()
+        #: ``(hôte, *segments)`` -> nombre d'URLs indexées qui prolongent
+        #: strictement ce chemin. C'est *la* structure qui décide dossier ou
+        #: ligne : une entrée présente ici a des descendants, donc c'est un
+        #: dossier. Un compteur et non un booléen, pour que le retrait de la
+        #: dernière URL d'un sous-arbre ramène bien son parent au rang de ligne.
+        self._children: dict[tuple[str, ...], int] = {}
+        #: relpaths observés au chargement qui n'ont plus d'entrée après
+        #: redérivation : leurs fichiers sont devenus orphelins et doivent être
+        #: purgés, même hors balayage complet. C'est le cas d'une rubrique sans
+        #: descendant, qui devient une ligne chez son parent.
+        self._stale: set[str] = set()
         #: (type, url, détail) — consignées dans _anomalies.tsv
         self.anomalies: set[tuple[str, str, str]] = set()
         self.added = 0
+
+    # -- disposition ---------------------------------------------------------
+
+    def _dir_depth(self, key: tuple[str, ...]) -> int:
+        """Combien des segments de ``key`` forment le dossier.
+
+        ``key`` est ``(hôte, *segments)``. Un chemin qui a des descendants est
+        lui-même un dossier (tous ses segments) ; sinon c'est une ligne chez
+        son parent (un segment de moins). Le plafond du profil tronque le
+        résultat, le reste passant dans la ligne.
+        """
+        segments = len(key) - 1
+        profond = segments if key in self._children else segments - 1
+        plafond = profiles.active().max_dir_depth
+        if plafond:
+            profond = min(profond, plafond)
+        return max(0, profond)
+
+    @staticmethod
+    def _url_of(key: tuple[str, ...]) -> str:
+        """URL canonique d'un chemin ``(hôte, *segments)``."""
+        host, *segments = key
+        path = "/".join(segments)
+        if not path:
+            return f"https://{host}/"
+        slash = "/" if profiles.active().ends_with_slash(tuple(segments)) else ""
+        return f"https://{host}/{path}{slash}"
+
+    def _locate(self, url: str, key: tuple[str, ...]) -> tuple[str, str | None]:
+        return pathmap.url_to_location(url, self._dir_depth(key))
+
+    def _place(self, relpath: str, leaf: str | None, dead: bool | None) -> bool:
+        """Inscrit une entrée. Retourne ``True`` si le dossier a changé."""
+        entry = self.dirs.setdefault(relpath, DirIndex())
+        if leaf is None:
+            avant = entry.page_dead
+            entry.page_dead = bool(dead) if dead is not None else (avant or False)
+            return entry.page_dead != avant
+        avant = entry.slugs.get(leaf)
+        entry.slugs[leaf] = bool(dead) if dead is not None else (avant or False)
+        return entry.slugs[leaf] != avant
+
+    def _detach(self, relpath: str, leaf: str | None) -> bool | None:
+        """Retire une entrée et retourne son statut, ou ``None`` si absente."""
+        entry = self.dirs.get(relpath)
+        if entry is None:
+            return None
+        if leaf is None:
+            if entry.page_dead is None:
+                return None
+            dead, entry.page_dead = entry.page_dead, None
+            return dead
+        if leaf not in entry.slugs:
+            return None
+        return entry.slugs.pop(leaf)
+
+    def _contains(self, relpath: str, leaf: str | None) -> bool:
+        entry = self.dirs.get(relpath)
+        if entry is None:
+            return False
+        return entry.is_page if leaf is None else leaf in entry.slugs
+
+    def _reclasser(self, key: tuple[str, ...], avant: int) -> None:
+        """Déplace l'URL de ``key`` si sa profondeur de dossier a changé.
+
+        Sans effet si ce chemin n'est pas lui-même indexé (le cas courant : un
+        dossier intermédiaire n'est pas une page), ou si le plafond du profil
+        absorbe le changement.
+        """
+        apres = self._dir_depth(key)
+        if avant == apres:
+            return
+        url = self._url_of(key)
+        try:
+            ancien = pathmap.url_to_location(url, avant)
+            nouveau = pathmap.url_to_location(url, apres)
+        except pathmap.PathMappingError as exc:
+            log.warning("reclassement impossible pour %s: %s", url, exc)
+            return
+        if not self._contains(*ancien):
+            return
+        dead = self._detach(*ancien)
+        self._dirty.add(ancien[0])
+        self._place(nouveau[0], nouveau[1], dead)
+        self._dir_source.setdefault(nouveau[0], self._url_of(key[: 1 + apres]).rstrip("/"))
+        self._dirty.add(nouveau[0])
+
+    def _grandir(self, key: tuple[str, ...]) -> None:
+        """Enregistre un descendant de plus pour chaque ancêtre de ``key``.
+
+        Un ancêtre qui gagne son *premier* descendant cesse d'être une ligne
+        pour devenir un dossier : il faut l'y déplacer.
+        """
+        for i in range(1, len(key)):
+            ancetre = key[:i]
+            connu = ancetre in self._children
+            avant = self._dir_depth(ancetre) if not connu else 0
+            self._children[ancetre] = self._children.get(ancetre, 0) + 1
+            if not connu:
+                self._reclasser(ancetre, avant)
+
+    def _retrecir(self, key: tuple[str, ...]) -> None:
+        """Opération inverse de :meth:`_grandir`."""
+        for i in range(1, len(key)):
+            ancetre = key[:i]
+            reste = self._children.get(ancetre, 0) - 1
+            if reste > 0:
+                self._children[ancetre] = reste
+                continue
+            avant = self._dir_depth(ancetre)
+            self._children.pop(ancetre, None)
+            self._reclasser(ancetre, avant)
 
     # -- alimentation --------------------------------------------------------
 
@@ -121,8 +261,10 @@ class Store:
         sans borne de longueur connue) coûte bien plus cher que d'ignorer cette
         page et de continuer.
         """
+        host, segments, _ = pathmap.url_parts(url)
+        key = (host, *segments)
         try:
-            relpath, leaf = pathmap.url_to_location(url)
+            relpath, leaf = self._locate(url, key)
         except pathmap.PathMappingError as exc:
             self.anomalies.add(("trop_long", url, str(exc)))
             log.warning("URL ignorée (%s): %s", exc, url)
@@ -133,7 +275,7 @@ class Store:
         # positif ici. Ce détecteur ne réagit plus qu'à un vrai doublon du
         # site (ex. deux chemins réellement identiques servis par des routes
         # distinctes) — rare, mais pas impossible.
-        source = url.rstrip("/") if leaf is None else url.rsplit("/", 1)[0]
+        source = self._url_of(key[: 1 + self._dir_depth(key)]).rstrip("/")
         previous = self._dir_source.setdefault(relpath, source)
         if previous != source:
             # NTFS étant insensible à la casse, laisser passer fusionnerait
@@ -145,26 +287,22 @@ class Store:
             log.warning("collision ignorée: %r et %r visent %r", previous, source, relpath)
             return False
 
-        entry = self.dirs.setdefault(relpath, DirIndex())
-        # `avant` sert à distinguer une URL *réaffirmée* (cas de très loin le
-        # plus fréquent : un crawl repasse sur des milliers de liens déjà
-        # connus) d'un changement réel. Seul le second salit le dossier et
-        # justifie de le réécrire.
-        if leaf is None:
-            avant = entry.page_dead
-            is_new = avant is None
-            entry.page_dead = bool(dead) if dead is not None else (entry.page_dead or False)
-            modifie = entry.page_dead != avant
-        else:
-            avant = entry.slugs.get(leaf)
-            is_new = leaf not in entry.slugs
-            entry.slugs[leaf] = bool(dead) if dead is not None else entry.slugs.get(leaf, False)
-            modifie = entry.slugs[leaf] != avant
+        # Une URL *réaffirmée* est le cas de très loin le plus fréquent : un
+        # crawl repasse sur des milliers de liens déjà connus. Seul un
+        # changement de statut salit alors le dossier.
+        if self._contains(relpath, leaf):
+            if self._place(relpath, leaf, dead):
+                self._dirty.add(relpath)
+            return False
 
-        if modifie:
-            self._dirty.add(relpath)
-        self.added += is_new
-        return is_new
+        # Nouveauté : elle donne un premier descendant à certains de ses
+        # ancêtres, qui cessent donc d'être des lignes. Sa propre place, elle,
+        # ne dépend pas d'elle-même et n'a pas à être recalculée.
+        self._grandir(key)
+        self._place(relpath, leaf, dead)
+        self._dirty.add(relpath)
+        self.added += 1
+        return True
 
     def add_many(self, urls: object) -> int:
         """Ajoute un itérable d'URLs, retourne le nombre de nouveautés."""
@@ -185,22 +323,18 @@ class Store:
         ``write()`` s'en aperçoit déjà de lui-même (``entry.slugs`` et
         ``entry.is_page`` vides) et le fait purger.
         """
+        host, segments, _ = pathmap.url_parts(url)
+        key = (host, *segments)
         try:
-            relpath, leaf = pathmap.url_to_location(url)
+            relpath, leaf = self._locate(url, key)
         except pathmap.PathMappingError:
             return False
-        entry = self.dirs.get(relpath)
-        if entry is None:
+        if self._detach(relpath, leaf) is None:
             return False
-        if leaf is None:
-            if entry.page_dead is None:
-                return False
-            entry.page_dead = None
-        else:
-            if leaf not in entry.slugs:
-                return False
-            del entry.slugs[leaf]
         self._dirty.add(relpath)
+        # Le sous-arbre a perdu une URL : un ancêtre qui n'en a plus aucune
+        # redevient une ligne chez son parent.
+        self._retrecir(key)
         return True
 
     def resolve_doublons(self) -> tuple[int, int, int]:
@@ -289,6 +423,7 @@ class Store:
         paths = sorted(self.data_dir.rglob(f"{config.INDEX_BASENAME}*{config.INDEX_SUFFIX}"))
         total = len(paths)
         log.info("%d fichiers d'index trouvés, lecture...", total)
+        disque: dict[str, DirIndex] = {}
         for done, path in enumerate(paths, 1):
             relpath = path.parent.relative_to(self.data_dir).as_posix()
             try:
@@ -301,15 +436,7 @@ class Store:
             # `dirs`, il ne doit donc pas être retenu comme légitime — sans quoi
             # `_prune` le conserverait alors que son contenu est perdu.
             self._disk_files.setdefault(relpath, set()).add(path)
-            entry = self.dirs.setdefault(relpath, DirIndex())
-            # Le chemin sur disque préserve désormais la casse d'origine
-            # (percent-encodée) : on peut reconstruire la source sans perte,
-            # et donc détecter une collision dès le premier ajout d'un run,
-            # pas seulement pour les entrées déjà signalées par le passé.
-            try:
-                self._dir_source.setdefault(relpath, pathmap.location_to_url(relpath).rstrip("/"))
-            except pathmap.PathMappingError:
-                pass
+            entry = disque.setdefault(relpath, DirIndex())
             for line in content.splitlines():
                 line = line.strip()
                 if not line:
@@ -323,8 +450,69 @@ class Store:
                 else:
                     entry.slugs[line] = False
             _progress("chargement", done, total)
+        self._rederiver(disque)
         self._load_anomalies()
         return self
+
+    def _rederiver(self, disque: dict[str, DirIndex]) -> None:
+        """Redéduit la disposition depuis l'ensemble des URLs lues sur disque.
+
+        Le disque n'est pas la vérité : il porte la disposition telle qu'elle a
+        été calculée au dernier run, avec les règles de l'époque. La vérité,
+        c'est l'*ensemble des URLs* qu'il contient — on le reconstitue, puis on
+        en redérive les dossiers. Sans cette étape, un changement de règle (ou
+        de plafond de profondeur) ne s'appliquerait jamais à un index déjà
+        écrit : rien en mémoire n'aurait bougé.
+
+        Ce qui diffère de ce qui a été lu est marqué sale, donc réécrit ; un
+        dossier qui n'a plus d'entrée du tout est marqué orphelin, donc purgé.
+        """
+        pages: list[tuple[str, bool]] = []
+        for relpath, entry in disque.items():
+            try:
+                if entry.is_page:
+                    pages.append((pathmap.location_to_url(relpath), bool(entry.page_dead)))
+                for slug, dead in entry.slugs.items():
+                    pages.append((pathmap.location_to_url(relpath, slug), dead))
+            except pathmap.PathMappingError as exc:
+                log.warning("%s: chemin inexploitable (%s), entrées ignorées", relpath, exc)
+
+        self._children.clear()
+        entrees: list[tuple[tuple[str, ...], str, bool]] = []
+        for url, dead in pages:
+            host, segments, _ = pathmap.url_parts(url)
+            key = (host, *segments)
+            entrees.append((key, url, dead))
+            for i in range(1, len(key)):
+                self._children[key[:i]] = self._children.get(key[:i], 0) + 1
+
+        self.dirs.clear()
+        self._dir_source.clear()
+        for key, url, dead in entrees:
+            profond = self._dir_depth(key)
+            try:
+                relpath, leaf = pathmap.url_to_location(url, profond)
+            except pathmap.PathMappingError as exc:
+                self.anomalies.add(("trop_long", url, str(exc)))
+                log.warning("URL ignorée au chargement (%s): %s", exc, url)
+                continue
+            self._place(relpath, leaf, dead)
+            # Le chemin sur disque préserve la casse d'origine (percent-encodée) :
+            # on reconstruit la source sans perte, et on détecte donc une
+            # collision dès le premier ajout d'un run.
+            self._dir_source.setdefault(relpath, self._url_of(key[: 1 + profond]).rstrip("/"))
+
+        for relpath in set(disque) | set(self.dirs):
+            attendu = self.dirs.get(relpath)
+            if disque.get(relpath) == attendu:
+                continue
+            (self._dirty if attendu is not None else self._stale).add(relpath)
+        if self._dirty or self._stale:
+            log.info(
+                "disposition redérivée : %d dossiers à réécrire, %d devenus orphelins",
+                len(self._dirty),
+                len(self._stale),
+            )
 
     def _load_anomalies(self) -> None:
         """Recharge le journal d'anomalies, en ne gardant que celles encore
@@ -365,13 +553,15 @@ class Store:
             return self.status(url) is not None
         if kind not in ("collision", "trop_long"):
             return False  # type retiré du code (ex. l'ancienne "majuscule")
+        host, segments, _ = pathmap.url_parts(url)
+        key = (host, *segments)
         try:
-            relpath, leaf = pathmap.url_to_location(url)
+            relpath, _ = self._locate(url, key)
         except pathmap.PathMappingError:
             return kind == "trop_long"
         if kind == "trop_long":
             return False  # n'est plus trop long (ex. seuil relevé depuis)
-        source = url.rstrip("/") if leaf is None else url.rsplit("/", 1)[0]
+        source = self._url_of(key[: 1 + self._dir_depth(key)]).rstrip("/")
         return relpath in self._dir_source and self._dir_source[relpath] != source
 
     # -- écriture ------------------------------------------------------------
@@ -398,7 +588,7 @@ class Store:
         reecrits = 0
         # Dossiers à examiner lors d'une purge ciblée. Les dossiers réécrits
         # n'y figurent pas : _write_dir purge déjà les siens au passage.
-        a_purger: set[str] = set(self._unreadable)
+        a_purger: set[str] = set(self._unreadable) | self._stale
 
         items = sorted(self.dirs.items())
         total = len(items)
@@ -433,6 +623,7 @@ class Store:
         # tranche, pas tout l'index à chaque fois.
         self._dirty.clear()
         self._unreadable.clear()
+        self._stale.clear()
         return stats
 
     def _write_dir(self, directory: Path, entry: DirIndex) -> set[Path]:
@@ -638,8 +829,9 @@ class Store:
         Consultation directe par le chemin, sans parcourir tout l'index : la
         vérification appelle ceci une fois par URL contrôlée.
         """
+        host, segments, _ = pathmap.url_parts(url)
         try:
-            relpath, leaf = pathmap.url_to_location(url)
+            relpath, leaf = self._locate(url, (host, *segments))
         except pathmap.PathMappingError:
             return None
         entry = self.dirs.get(relpath)

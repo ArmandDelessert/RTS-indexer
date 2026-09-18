@@ -89,6 +89,7 @@ def test_rubrique_peut_etre_marquee_morte(tmp_path):
     articles pouvaient être marqués morts. Or les rubriques mortes existent
     bel et bien (dossiers/2016/coeur-a-coeur/* renvoient 404)."""
     store = Store(tmp_path)
+    store.add(ARTICLE)  # donne un descendant : RUBRIQUE reste un dossier
     store.add(RUBRIQUE, dead=True)
     store.write()
 
@@ -100,8 +101,25 @@ def test_rubrique_peut_etre_marquee_morte(tmp_path):
     assert relu.stats()["mortes"] == 1
 
 
+def test_rubrique_sans_descendant_est_une_ligne_et_peut_mourir(tmp_path):
+    """Une rubrique qui n'a aucun descendant indexé n'est pas un dossier : elle
+    est une ligne chez son parent, slash final compris. Le sigil de mort s'y
+    applique comme sur n'importe quelle autre ligne."""
+    store = Store(tmp_path)
+    store.add(RUBRIQUE, dead=True)
+    store.write()
+
+    assert index_de(tmp_path, "www.rts.ch/info") == f"{config.DEAD_SIGIL}suisse/\n"
+    assert not (tmp_path / "www.rts.ch/info/suisse").exists()
+
+    relu = Store(tmp_path).load()
+    assert relu.status(RUBRIQUE) is True
+    assert dict(relu.urls()) == {RUBRIQUE: True}
+
+
 def test_rubrique_morte_peut_ressusciter(tmp_path):
     store = Store(tmp_path)
+    store.add(ARTICLE)
     store.add(RUBRIQUE, dead=True)
     store.write()
 
@@ -177,8 +195,13 @@ def test_url_trop_longue_ignoree_sans_faire_echouer_le_run(tmp_path):
     """Incident réel : une page Play au slug de plusieurs centaines de
     caractères (``play/tv/19h30/video/<slug-phrase-entiere>/``) a fait planter
     un crawl de 350 pages, perdant tout le travail déjà accompli faute d'être
-    rattrapée. add() doit désormais journaliser et continuer."""
-    trop_longue = "https://www.rts.ch/play/tv/19h30/video/" + ("mot-" * 70) + "/"
+    rattrapée. add() doit journaliser et continuer.
+
+    Le slug terminal, lui, ne fait plus déborder le chemin : sans descendant il
+    devient une *ligne*, qui n'a pas de longueur maximale. Seul un segment de
+    **dossier** démesuré peut encore franchir la borne — d'où la forme prise
+    ici, avec le long segment au milieu du chemin."""
+    trop_longue = "https://www.rts.ch/play/tv/" + ("mot-" * 70) + "/video.html"
 
     store = Store(tmp_path)
     store.add(RUBRIQUE)
@@ -223,18 +246,21 @@ def test_collision_forcee_est_journalisee_et_ignoree(tmp_path, monkeypatch):
 
     # Les deux URLs sont forcées vers le même chemin de dossier : c'est la
     # seule façon de reproduire une collision maintenant que la casse seule
-    # n'y suffit plus.
-    monkeypatch.setattr(pathmap, "url_to_location", lambda url: ("www.rts.ch/force-collision", None))
+    # n'y suffit plus. Le dossier d'origine, lui, n'est pas forcé — c'est bien
+    # lui que le détecteur compare.
+    monkeypatch.setattr(
+        pathmap, "url_to_location", lambda url, dir_depth: ("www.rts.ch/force-collision", None)
+    )
 
     store = Store(tmp_path)
-    store.add("https://www.rts.ch/premiere/")
-    ajoutee = store.add("https://www.rts.ch/seconde/")
+    store.add("https://www.rts.ch/premiere/a.html")
+    ajoutee = store.add("https://www.rts.ch/seconde/b.html")
     assert ajoutee is False
 
     stats = store.write()
     assert stats["urls"] == 1
     lignes = (tmp_path / config.ANOMALIES_FILE).read_text(encoding="utf-8").splitlines()
-    assert any(l.startswith("collision\thttps://www.rts.ch/seconde/\t") for l in lignes)
+    assert any(l.startswith("collision\thttps://www.rts.ch/seconde/b.html\t") for l in lignes)
 
 
 def test_collision_detectee_meme_apres_rechargement(tmp_path, monkeypatch):
@@ -245,17 +271,19 @@ def test_collision_detectee_meme_apres_rechargement(tmp_path, monkeypatch):
     from rts_indexer import pathmap
 
     store = Store(tmp_path)
-    store.add("https://www.rts.ch/premiere/")
+    store.add("https://www.rts.ch/premiere/a.html")
     store.write()
 
     original = pathmap.url_to_location
     monkeypatch.setattr(
         pathmap,
         "url_to_location",
-        lambda url: ("www.rts.ch/premiere", None) if "seconde" in url else original(url),
+        lambda url, dir_depth: (
+            ("www.rts.ch/premiere", None) if "seconde" in url else original(url, dir_depth)
+        ),
     )
     relu = Store(tmp_path).load()
-    assert relu.add("https://www.rts.ch/seconde/") is False
+    assert relu.add("https://www.rts.ch/seconde/b.html") is False
 
 
 def test_anomalie_resolue_disparait_au_rechargement(tmp_path):
@@ -283,16 +311,22 @@ def test_anomalie_de_collision_toujours_valable_survit(tmp_path, monkeypatch):
     from rts_indexer import pathmap
 
     store = Store(tmp_path)
-    store.add("https://www.rts.ch/premiere/")
+    store.add("https://www.rts.ch/premiere/a.html")
     store.write()
 
-    monkeypatch.setattr(pathmap, "url_to_location", lambda url: ("www.rts.ch/premiere", None))
+    monkeypatch.setattr(
+        pathmap, "url_to_location", lambda url, dir_depth: ("www.rts.ch/force-collision", None)
+    )
     store = Store(tmp_path).load()
-    store.add("https://www.rts.ch/seconde/")
+    store.add("https://www.rts.ch/seconde/b.html")
     store.write()
 
     relu = Store(tmp_path).load()
-    assert ("collision", "https://www.rts.ch/seconde/", "https://www.rts.ch/premiere vs https://www.rts.ch/seconde") in relu.anomalies
+    assert (
+        "collision",
+        "https://www.rts.ch/seconde/b.html",
+        "https://www.rts.ch/premiere vs https://www.rts.ch/seconde",
+    ) in relu.anomalies
 
 
 def test_anomalie_code_atypique_survit_tant_que_l_url_reste_indexee(tmp_path):
@@ -696,6 +730,7 @@ def test_changement_de_sigil_seul_declenche_la_reecriture(tmp_path):
 def test_rubrique_marquee_morte_declenche_la_reecriture(tmp_path):
     """Même chose pour `page_dead`, qui vit hors de `slugs`."""
     store = Store(tmp_path)
+    store.add(ARTICLE)
     store.add(RUBRIQUE)
     store.write()
 

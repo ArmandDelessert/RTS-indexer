@@ -92,16 +92,39 @@ class Profile:
     crawl_min_interval: float = 0.5
     verify_min_interval: float = 0.5
 
+    #: Forme canonique d'une URL de rubrique. ``by_extension`` ajoute un slash
+    #: final quand le segment terminal n'a pas de point (rts.ch, lemonde.fr) ;
+    #: ``never`` ne l'ajoute jamais (letemps.ch et heidi.news : leurs
+    #: canonicals sont sans slash, même si le serveur tolère les deux formes).
+    #: Ce n'est plus qu'une question de *mise en forme* de l'URL : depuis que
+    #: le stockage se décide sur les descendants, le slash ne décide plus si
+    #: l'URL devient un dossier ou une ligne.
+    trailing_slash: str = "by_extension"
+
     # -- stockage ------------------------------------------------------------
     #: Au-delà de ce nombre de slugs, le fichier d'un dossier est éclaté en
     #: shards ``_index.<premier caractère>.txt``.
     shard_threshold: int = 5_000
     #: Garde-fou MAX_PATH, pour les clones Windows sans ``core.longpaths``.
     max_rel_path_len: int = 240
+    #: Plafond de profondeur des dossiers ; 0 = pas de plafond. Au-delà, les
+    #: segments restants passent dans la ligne d'index. Sans lui, un site qui
+    #: partitionne ses URLs par date (lemonde.fr : ``/rubrique/article/AAAA/MM/JJ/``)
+    #: produit un dossier par jour et par rubrique — ~279'000 dossiers pour
+    #: ~3,5 M d'URLs, contre 5'148 pour les 459'011 de rts.ch.
+    max_dir_depth: int = 0
 
     def excluded(self, path: str) -> bool:
         """``path`` tombe-t-il dans une zone exclue ?"""
         return any(rule.blocks(path) for rule in self.deny)
+
+    def ends_with_slash(self, segments: tuple[str, ...]) -> bool:
+        """L'URL formée de ces segments se termine-t-elle par un slash ?"""
+        if not segments:
+            return True  # la racine de l'hôte
+        if self.trailing_slash == "never":
+            return False
+        return "." not in segments[-1]
 
 
 def _as_deny(raw: object, source: Path) -> tuple[DenyRule, ...]:
@@ -164,10 +187,13 @@ def load(spec: str | Path) -> Profile:
         verify_min_interval=float(
             reseau.get("verify_min_interval", defaults.verify_min_interval)
         ),
+        trailing_slash=reseau.get("trailing_slash")
+        or perimetre.get("trailing_slash", defaults.trailing_slash),
         shard_threshold=int(stockage.get("shard_threshold", defaults.shard_threshold)),
         max_rel_path_len=int(
             stockage.get("max_rel_path_len", defaults.max_rel_path_len)
         ),
+        max_dir_depth=int(stockage.get("max_dir_depth", defaults.max_dir_depth)),
     )
 
 

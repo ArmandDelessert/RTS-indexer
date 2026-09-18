@@ -181,8 +181,7 @@ def normalize(
     if profile.excluded(joined):
         return None
 
-    # Pas de point dans le segment terminal => rubrique => slash final.
-    trailing = "" if "." in leaf else "/"
+    trailing = "/" if profile.ends_with_slash(tuple(segments)) else ""
     return f"https://{host}/{joined}{trailing}"
 
 

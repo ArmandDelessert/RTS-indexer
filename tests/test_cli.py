@@ -197,7 +197,7 @@ def test_trier_verdicts_url_saine_est_retenue_telle_quelle():
 def test_anomalies_inventorie_sans_rien_toucher(tmp_path, capsys):
     # Réellement trop longue : une URL courte serait écartée au rechargement
     # par _anomaly_still_applies, qui revérifie que le motif tient toujours.
-    trop_longue = "https://www.rts.ch/play/tv/19h30/video/" + ("mot-" * 70) + "/"
+    trop_longue = "https://www.rts.ch/play/tv/" + ("mot-" * 70) + "/video.html"
     store = Store(tmp_path)
     store.add(ARTICLE)
     store.add(trop_longue)  # rejetée, journalise l'anomalie elle-même
