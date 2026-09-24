@@ -34,6 +34,8 @@
 1re-journee-psv-eindhoven-shakhtar-donetsk-1-1-le-resume-de-la-rencontre-29353742.html
 1re-journee-real-madrid-inter-2-1-le-resume-du-match-29351618.html
 1re-journee-servette-bale-0-1-le-resume-de-la-rencontre-29312807.html
+1re-journee-servette-sfccf-ol-lyonnes-0-8-la-reaction-de-paula-serrano-servette-sfccf-29365811.html
+1re-journee-servette-sfccf-ol-lyonnes-0-8-le-resume-de-la-rencontre-29365774.html
 1re-journee-sl-prague-lens-2-3-le-resume-de-la-rencontre-29353829.html
 1re-journee-stuttgart-viking-3-1-le-resume-de-la-rencontre-29352747.html
 1re-journee-tous-les-buts-29313815.html
@@ -223,7 +225,10 @@ cyclisme-liege-bastogne-liege-la-doyenne-des-classiques-nous-a-offert-du-beau-sp
 cyclisme-mondiaux-2026-je-l-avais-dans-les-jambes-cette-medaille-29362809.html
 cyclisme-mondiaux-2026-je-suis-super-contente-partage-marlen-reusser-29362605.html
 cyclisme-mondiaux-2026-la-magnifique-victoire-de-marlen-reusser-sui-en-contre-la-montre-29362600.html
+cyclisme-mondiaux-2026-la-reaction-de-stefan-kung-29364995.html
+cyclisme-mondiaux-2026-la-reaction-de-stefan-kung-apres-le-contre-la-montre-29365152.html
 cyclisme-mondiaux-2026-la-suisse-prend-la-3e-place-finale-du-relais-mixte-en-contre-la-montre-29364532.html
+cyclisme-mondiaux-2026-marlen-reusser-a-l-interview-29364997.html
 cyclisme-tour-de-france-dames-etape-9-nice-nice-d-vollering-ned-conserve-son-maillot-jaune-29324116.html
 cyclisme-tour-de-france-la-fierte-de-yannis-voisard-avec-sa-11e-place-au-classement-general-29313394.html
 cyclisme-tour-de-france-le-best-of-29313393.html
@@ -251,6 +256,7 @@ eape-9-nice-nice-d-vollering-ned-conserve-son-maillot-jaune-29324052.html
 escrime-l-exploit-de-lucas-malcotti-qui-decroche-le-titre-de-champion-du-monde-29313387.html
 escrime-lucas-malcotti-le-nouveau-champion-du-monde-est-l-invite-de-la-soiree-29318700.html
 espagne-suisse-53-14-la-suisse-s-incline-en-terre-espagnole-29151851.html
+est-ce-qu-on-en-fait-trop-avec-granit-xhaka-29365509.html
 etape-21-thoiry-paris-champs-elysees-victoire-de-mathieu-van-der-poel-ned-au-sprint-final-29313420.html
 etape-4-aarburg-aarburg-messieurs-tadej-pogacar-slo-arrache-la-victoire-a-van-der-poel-ned-pour-31-centiemes-29281189.html
 etape-5-villars-sur-ollon-villars-sur-ollon-dames-marlen-reusser-sui-remporte-le-tour-de-suisse-29281591.html
@@ -364,6 +370,7 @@ jo-express-du-20-fevrier-29158892.html
 jo-express-du-21-fevrier-29159714.html
 jo-express-du-22-fevrier-29160376.html
 jo-milan-cortina-2026-fanny-smith-sui-et-son-histoire-olympique-29107473.html
+johan-manzambi-deja-valide-par-ses-nouveaux-fans-29365610.html
 john-williams-directeur-sportif-du-servette-fc-fait-le-point-sur-le-transfert-de-kutesa-29349008.html
 journee-7-bodo-glimt-manchester-city-3-1-le-resume-de-la-rencontre-29124731.html
 journee-7-copenhague-naples-1-1-le-resume-de-la-rencontre-29124776.html
@@ -404,6 +411,7 @@ la-confiance-mythe-ou-realite-29118941.html
 la-dedicace-de-johan-manzambi-a-sa-ville-geneve-29285648.html
 la-fierte-de-dan-ndoye-a-son-retour-du-mondial-29304357.html
 la-grosse-boulette-ecossaise-face-au-bresil-29285665.html
+la-grosse-galere-de-cameron-rogers-apres-un-saut-de-chaine-29365516.html
 la-joie-des-joueurs-suisses-a-la-fin-du-match-29297474.html
 la-nati-est-en-8es-apres-sa-victoire-contre-l-algerie-29293361.html
 la-ncaa-un-danger-pour-le-basket-suisse-29357057.html
@@ -715,6 +723,7 @@ wengen-sui-slalom-messieurs-2e-manche-loic-meillard-sui-tres-critique-de-sa-perf
 wengen-sui-slalom-messieurs-2e-manche-mathias-iten-sui-auteur-d-une-tres-bonne-performance-29121888.html
 wengen-sui-slalom-messieurs-2e-manche-mcgrath-nor-a-nouveau-vainqueur-a-wengen-29121883.html
 wengen-sui-slalom-messieurs-2e-manche-pinheiro-braathen-bre-se-classe-2e-29121881.html
+winsley-boteli-a-propos-de-granit-xhaka-29365501.html
 winsley-boteli-est-selectionne-pour-la-1re-fois-avec-la-nati-29360188.html
 woze-x-ndoye-un-cadeau-special-avant-le-mondial-29267857.html
 xtreme-de-verbier-co-fondateur-de-l-epreuve-nicolas-hale-woods-livre-ses-impressions-29198252.html
