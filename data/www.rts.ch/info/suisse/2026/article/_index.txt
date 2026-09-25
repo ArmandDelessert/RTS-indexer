@@ -300,6 +300,7 @@ fabien-fivaz-les-jours-de-service-civil-sont-essentiels-a-de-nombreux-secteurs-2
 faille-de-securite-donnees-sensibles-suisses-du-dfae-exposees-dans-le-cloud-americain-de-microsoft-29136582.html
 fausses-factures-serafe-comment-reconnaitre-les-emails-frauduleux-29200792.html
 faut-il-restreindre-ou-non-l-acces-au-service-civil-la-population-tranchera-dans-les-urnes-29205430.html
+faux-certificats-covid-faut-il-amnistier-les-fraudeurs-29367628.html
 fedpol-ouvre-ses-portes-la-cooperation-policiere-menacee-par-l-udc-29252248.html
 ferronniere-d-art-a-puidoux-bertille-laguet-forge-tradition-et-design-29137844.html
 fin-des-examens-d-entree-au-gymnase-le-plaidoyer-d-un-directeur-d-ecole-29204092.html
@@ -407,8 +408,10 @@ initiative-sur-la-neutralite-les-partisans-lancent-leur-campagne-29319923.html
 initiative-sur-la-neutralite-les-verts-attaquent-pro-suisse-en-justice-29341187.html
 initiative-sur-la-neutralite-manfred-buhler-defend-le-texte-29336300.html
 initiative-sur-la-neutralite-tout-comprendre-aux-enjeux-29346283.html
+initiative-sur-les-loyers-contre-projet-du-conseil-federal-29367344.html
 initiative-udc-pas-de-suisse-a-10-millions-lancement-de-la-campagne-du-non-29176391.html
 innovations-suisses-blouse-gyneco-batteries-recyclees-et-rats-adoptes-29137477.html
+integration-des-etrangers-la-confederation-veut-335-millions-29367490.html
 intelligence-artificielle-80-des-suisses-l-utilisent-29337967.html
 intemperies-en-europe-swiss-annule-12-vols-a-zurich-retards-importants-29114040.html
 interdiction-des-engins-pyrotechniques-dans-l-espace-public-des-avril-29173766.html
@@ -732,6 +735,7 @@ les-vert-liberaux-recommandent-un-double-non-aux-votations-du-14-juin-29215873.h
 les-vingt-sept-approuvent-la-signature-des-accords-bilateraux-avec-la-suisse-29155707.html
 liaison-de-deux-juges-federaux-le-rapport-transmis-aux-chambres-29306188.html
 librairies-conviviales-farine-locale-et-prediction-naissances-prematurees-29190542.html
+ligne-cff-lausanne-fribourg-interrompue-par-un-incendie-29367589.html
 lindt-poursuivi-aux-etats-unis-pour-travail-d-enfants-29311805.html
 livre-de-condoleances-pour-crans-montana-15-000-messages-du-monde-entier-29113106.html
 logement-trop-chaud-peut-on-demander-une-baisse-de-loyer-29298807.html
