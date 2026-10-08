@@ -30,6 +30,7 @@ faut-il-garantir-l-existence-de-l-argent-liquide-dans-la-constitution-debat-entr
 faut-il-generaliser-la-semaine-de-quatre-jours-a-l-ecole-debat-entre-david-rey-et-karim-said-29324942.html
 faut-il-interdire-la-pratique-du-poverty-porn-dans-le-milieu-humanitaire-interview-de-valerie-gorin-29306291.html
 faut-il-limiter-le-temps-de-travail-quotidien-des-medecins-debat-entre-pierre-yves-maillard-et-severine-oppliger-pasqua-29297006.html
+faut-il-mieux-encadrer-ubs-29379129.html
 faut-il-mieux-securiser-les-manifestations-publiques-interview-d-andre-duvillard-29345811.html
 faut-il-proposer-du-gruyere-dans-les-distributeurs-selecta-de-la-ville-de-fribourg-29127009.html
 faut-il-rallonger-le-temps-de-prison-pour-les-auteurs-de-crimes-encore-mineurs-debat-entre-roger-golay-et-loic-parein-29366615.html
@@ -72,8 +73,10 @@ film-en-debat-ecrire-la-vie-documentaire-de-claire-simon-29365502.html
 film-en-debat-garance-de-jeanne-herry-29365496.html
 film-en-debat-gourou-de-yann-gozlan-29132678.html
 film-en-debat-histoires-de-la-nuit-de-lea-mysius-29359118.html
+film-en-debat-l-espece-explosive-de-sarah-arnold-29379070.html
 film-en-debat-l-inconnue-d-arthur-harari-29339042.html
 film-en-debat-la-grazia-de-paolo-sorerentino-29132682.html
+film-en-debat-la-maison-de-nos-reves-de-claude-zidi-jr-29379081.html
 film-en-debat-la-vie-d-une-femme-de-charline-bourgeois-tacquet-29359106.html
 film-en-debat-late-fame-de-kent-jones-29339037.html
 film-en-debat-laundry-de-zamo-mkhwanazi-29345706.html
@@ -90,9 +93,11 @@ film-en-debat-raison-et-sentiments-de-georgia-oakley-29365499.html
 film-en-debat-rose-de-markus-schleinzer-29345707.html
 film-en-debat-salvation-d-emin-alper-29359113.html
 film-en-debat-the-dog-stars-de-ridley-scott-29339035.html
+film-en-debat-the-social-reckoning-d-aaron-sorkin-29379077.html
 film-en-debat-un-monde-fragile-et-merveilleux-de-cyril-aris-29345705.html
 film-en-debat-verity-de-michael-showalter-29372251.html
 films-skate-29338868.html
+fin-du-charbon-en-pologne-l-adieu-a-un-pilier-de-l-economie-29378578.html
 fiona-burns-geologue-et-volcanologue-29340073.html
 flanerie-musicale-a-prague-3-3-le-rudolfinum-29328649.html
 flanerie-musicale-a-travers-prague-1-3-le-quartier-du-chateau-29328647.html
@@ -255,6 +260,7 @@ forum-29375208.html
 forum-29375786.html
 forum-29376970.html
 forum-29378071.html
+forum-29379242.html
 forum-des-idees-resqworks-systeme-de-blocage-de-fumee-en-cas-d-incendie-29128871.html
 forum-des-idees-un-nouveau-site-internet-pour-eviter-que-les-addictions-ne-debordent-sur-le-travail-29230057.html
 forum-des-idees-une-association-pour-aider-les-jeunes-a-gerer-les-demarches-administratives-29362047.html
