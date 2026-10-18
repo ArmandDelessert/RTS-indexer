@@ -14,6 +14,7 @@
 10e-journee-saint-gall-lausanne-1-0-le-resume-de-la-rencontre-29382589.html
 10e-journee-servette-sion-3-0-le-resume-de-la-rencontre-29382105.html
 110m-haies-messieurs-jason-joseph-commet-l-irreparable-avec-un-faux-depart-victoire-de-tharp-29354889.html
+16es-de-finale-cham-sion-0-2-le-resume-de-la-rencontre-29388787.html
 16es-de-finale-rotkreuz-servette-0-4-le-resume-de-la-rencontre-29388315.html
 16es-de-finale-stade-nyonnais-bale-0-3-le-resume-de-la-rencontre-29388329.html
 18-buts-en-18-matches-de-coupe-du-monde-pour-mbappe-29291352.html
@@ -153,6 +154,7 @@ adrenaline-2026-28-29357294.html
 adrenaline-2026-29-29363720.html
 adrenaline-2026-30-29370404.html
 adrenaline-2026-31-29377165.html
+adrenaline-2026-32-29383905.html
 aix-la-chapelle-ger-finale-individuelle-1re-manche-steve-guerdat-fait-un-sans-faute-et-conserve-sa-premiere-place-29335848.html
 aix-la-chapelle-ger-finale-individuelle-2e-manche-steve-guerdat-champion-du-monde-avec-dynamix-de-belheme-29335888.html
 aix-la-chapelle-ger-finale-par-equipe-jason-smith-sui-conclut-le-parcours-helvetique-aux-mondiaux-29335149.html
@@ -184,6 +186,7 @@ audrey-werro-a-l-interview-avant-le-800m-des-finales-de-bruxelles-29347913.html
 automobilisme-criterium-jurassien-moutier-accueille-le-quartier-general-de-la-47e-edition-29197702.html
 aux-usa-et-en-suisse-les-fans-etaient-heureux-apres-la-qualif-en-quarts-29297823.html
 avant-israel-suisse-tout-le-monde-est-au-courant-du-contexte-et-a-son-avis-rappelle-johan-djourou-29378716.html
+aventure-laurent-de-martin-reverie-29386478.html
 aviron-championnats-du-monde-le-bilan-mitige-des-athletes-suisses-29342270.html
 aviron-le-quatuor-feminin-suisse-decroche-un-magnifique-titre-europeen-29318692.html
 badminton-le-developpement-de-l-association-cantonale-genevoise-de-badminton-29175894.html
@@ -285,6 +288,7 @@ dan-ndoye-t-as-quoi-dans-ton-phone-29263927.html
 daniel-yule-connait-un-debut-de-saison-frustrant-29113650.html
 de-double-champion-du-monde-a-la-2e-division-suisse-la-quete-de-chaleur-humaine-de-patrick-cazal-29227343.html
 de-la-gymnastique-sous-une-montgolfiere-29357078.html
+decouverte-keep-it-wool-29386479.html
 decouverte-the-snow-league-2026-laax-29196797.html
 decouverte-world-rookie-kaprun-29215815.html
 demi-finale-a-fery-gbr-a-zverev-ger-6-7-2-6-4-6-l-allemand-va-jouer-sa-1ere-finale-sur-le-gazon-londonien-29299708.html
@@ -321,6 +325,7 @@ event-fwt-alaska-2026-29196795.html
 event-giantxtour-grimentz-29189656.html
 event-laax-open-2026-29166584.html
 event-natural-selection-snow-29251460.html
+event-rampage-2026-29386477.html
 event-wsl-tahiti-pro-29344552.html
 expulse-pour-une-main-devant-la-bouche-29281126.html
 f1-gp-de-hongrie-premiere-victoire-de-la-saison-pour-lando-norris-gbr-29313391.html
@@ -656,6 +661,7 @@ motogp-gp-de-saint-marin-ita-marc-marquez-esp-victorieux-29356002.html
 national-league-le-gshc-entame-l-annee-avec-des-victoires-contre-zurich-5-3-et-bern-3-0-29107476.html
 news-george-ntavoutian-29251459.html
 news-jackalope-2026-29280977.html
+news-nuit-de-la-glisse-2026-29386476.html
 news-waterslide-2026-29215812.html
 nhl-presentation-de-la-saison-2026-27-29373909.html
 odermatt-a-propos-de-sa-preparation-esivale-29371265.html
@@ -774,6 +780,7 @@ skiff-pr1-dames-finale-claire-ghiringhelli-sui-termine-3e-anna-sheremet-ukr-cons
 snowfarming-avenir-du-ski-ou-aberration-29384758.html
 soldier-hollow-usa-cross-country-dames-sina-frei-sui-prend-une-tres-belle-3e-place-29362846.html
 soldier-hollow-usa-short-track-dames-double-podium-helvetique-avec-keller-et-frei-29362182.html
+sommaire-29386475.html
 spindleruv-mlyn-cze-geant-dames-2e-manche-magnifique-seconde-manche-pour-sue-piller-sui-29128735.html
 spindleruv-mlyn-cze-slalom-dames-1er-manche-camille-rast-sui-en-embuscade-29129222.html
 spindleruv-mlyn-cze-slalom-dames-1er-manche-eliane-christen-sui-11e-29129218.html
