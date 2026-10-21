@@ -74,9 +74,15 @@
 2e-journee-villarreal-naples-3-1-le-resume-de-la-rencontre-29384976.html
 2e-tour-qualificatif-de-ligue-des-champions-thoune-doit-se-contenter-d-un-match-nul-contre-zagreb-29309459.html
 2e-tour-qualificatif-match-retour-thoune-n-est-passe-loin-de-l-exploit-a-zagreb-29315182.html
+3e-journee-liverpool-villarreal-4-3-le-resume-de-la-rencontre-29391913.html
+3e-journee-manchester-city-aek-athenes-5-1-le-resume-de-la-rencontre-29391917.html
+3e-journee-naples-bodo-glimt-4-3-le-resume-de-la-rencontre-29391920.html
+3e-journee-paris-sg-barcelone-4-2-le-resume-de-la-rencontre-29391892.html
+3e-journee-porto-psv-0-1-le-resume-de-la-rencontre-29391905.html
 3e-journee-servette-chenois-bale-2-1-le-resume-de-la-rencontre-29341571.html
 3e-journee-servette-grasshopper-2-1-le-resume-de-la-rencontre-29323570.html
 3e-journee-sion-vaduz-3-2-les-sedunois-arrachent-la-victoire-dans-les-derniers-instants-29324030.html
+3e-journee-stuttgart-atletico-madrid-1-1-le-resume-de-la-rencontre-29391887.html
 3e-journee-yverdon-gc-1-2-le-resume-de-la-rencontre-29341652.html
 3e-tour-qualificatif-retour-vikingur-thoune-3-2-le-resume-de-la-rencontre-29328024.html
 4e-journee-grasshopper-sion-2-5-les-valaisans-se-font-plaisir-au-letzigrund-29358307.html
@@ -459,6 +465,7 @@ irlande-du-nord-suisse-1-2-victoire-des-suissesses-29268692.html
 israel-suisse-dans-un-village-en-hongrie-29382028.html
 issa-ndoye-frere-de-dan-et-photographe-au-mondial-29288053.html
 j-ai-dit-a-murat-que-c-etait-mon-dernier-penalty-29298233.html
+j-ai-teste-la-vortex-race-29391611.html
 j-ai-teste-le-foot-freestyle-avec-marc-jonin-29360367.html
 j-ai-teste-le-judo-avec-binta-ndiaye-29342828.html
 j-ai-teste-les-flechettes-avec-stefan-bellmont-29380246.html
@@ -766,8 +773,13 @@ rio-de-janeiro-bra-bresil-suisse-match-2-stan-wawrinka-s-incline-4-6-7-6-7-4-6-4
 rio-de-janeiro-bra-bresil-suisse-match-3-la-paire-helvetique-s-incline-en-double-pour-finir-29362175.html
 rio-de-janeiro-bre-bresil-suisse-match-1-fonseca-bat-stricker-4-6-6-3-6-2-et-offre-le-premier-point-au-bresil-29361563.html
 roger-federer-se-confie-depuis-melbourne-29122683.html
+rotterdam-ned-concours-par-equipes-la-suisse-termine-a-la-5e-place-29391902.html
 rts-sport-football-arsenal-vs-lille-29384981.html
 rts-sport-football-inter-vs-bruges-29384987.html
+rts-sport-football-liverpool-vs-villarreal-29391912.html
+rts-sport-football-man-city-vs-aek-athenes-29391916.html
+rts-sport-football-naples-vs-bodo-glimt-29391919.html
+rts-sport-football-porto-vs-psv-29391904.html
 rts-sport-football-viking-vs-bayern-29384969.html
 rts-sport-football-villareal-vs-naples-29384975.html
 rugby-la-suisse-s-impose-contre-l-allemagne-et-se-maintient-en-europe-championship-29175893.html
@@ -863,6 +875,7 @@ u21-suisse-iles-feroe-1-0-le-resume-de-la-rencontre-29196439.html
 ulrichen-sui-sprint-feminin-nadine-fahndrich-sui-decroche-une-magnifique-3e-place-29128763.html
 un-11-100-romand-pour-la-suisse-29376228.html
 un-double-pour-mbappe-pour-commencer-29277389.html
+un-entrainement-avec-camille-rast-29391518.html
 un-podium-5-mois-apres-avoir-accouche-29345791.html
 unihockey-la-federation-suisse-veut-populariser-la-discipline-en-romandie-29223320.html
 unihockey-retour-sur-les-finales-du-championnat-suisse-29223319.html
