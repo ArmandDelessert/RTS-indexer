@@ -8,6 +8,7 @@ face-au-succes-de-l-afd-en-saxe-anhalt-berlin-se-mobilise-contre-l-extreme-droit
 face-aux-canicules-le-desarroi-politique-au-royaume-uni-et-en-allemagne-29336414.html
 face-aux-inondations-au-vietnam-le-fruit-de-la-passion-aide-a-retenir-les-sols-29371907.html
 face-aux-menaces-americaines-ursula-von-der-leyen-et-emmanuel-macron-repliquent-au-world-economic-forum-de-davos-29124519.html
+failles-php-plusieurs-sites-internet-suisses-romands-desactives-pour-eviter-les-cyberattaques-29393409.html
 faire-vivre-son-couple-29147450.html
 faites-gaffe-a-la-mousse-la-video-accablante-d-un-precedent-reveillon-au-bar-le-constellation-29108590.html
 fanny-vaucher-et-pia-shazar-une-nuit-en-enfer-29216404.html
@@ -37,6 +38,7 @@ faut-il-generaliser-la-semaine-de-quatre-jours-a-l-ecole-debat-entre-david-rey-e
 faut-il-installer-des-feux-a-l-entree-des-autoroutes-aux-heures-de-pointe-debat-entre-aline-renard-et-moreno-volpi-29383756.html
 faut-il-interdire-la-pratique-du-poverty-porn-dans-le-milieu-humanitaire-interview-de-valerie-gorin-29306291.html
 faut-il-interdire-les-feux-d-artifice-en-suisse-debat-entre-jean-guinand-et-elena-grisafi-favre-29389443.html
+faut-il-interdire-les-partis-politiques-qui-menacent-l-ordre-public-ou-la-democratie-debat-entre-gilbert-casasus-et-tho-29393741.html
 faut-il-limiter-le-temps-de-travail-quotidien-des-medecins-debat-entre-pierre-yves-maillard-et-severine-oppliger-pasqua-29297006.html
 faut-il-mieux-encadrer-ubs-29379129.html
 faut-il-mieux-securiser-les-manifestations-publiques-interview-d-andre-duvillard-29345811.html
@@ -52,8 +54,10 @@ faut-il-renforcer-la-neutralite-suisse-debat-29351416.html
 faut-il-renforcer-le-pouvoir-de-surveillance-du-service-de-renseignement-debat-entre-samuel-bendahan-et-pascal-broulis-29355918.html
 faut-il-se-preparer-a-voir-des-cyberattaques-similaires-en-suisse-debat-entre-sylvain-pasini-solange-ghernaouti-et-ger-29384734.html
 faut-il-soumettre-les-accords-avec-l-union-europeenne-a-la-double-majorite-debat-entre-celine-amaudruz-et-damien-cottie-29372414.html
+faut-il-un-departement-federal-de-la-technologie-interview-d-olga-baranova-29393755.html
 faut-il-vraiment-manger-plus-de-proteines-29296814.html
 faux-certificat-covid-du-capitaine-de-la-nati-interview-de-fabien-ohl-et-marie-helene-miauton-29363497.html
+faux-remboursement-d-impot-l-arnaque-qui-cible-les-contribuables-a-geneve-29392631.html
 femmes-scientifiques-quand-les-cliches-persistent-29369985.html
 fest-rouge-vous-allez-rugir-de-plaisir-29348830.html
 festimusiques-moudon-en-direct-de-la-salle-de-la-douane-a-moudon-29272941.html
@@ -170,6 +174,7 @@ football-les-clubs-amateurs-peinent-a-bousculer-les-favoris-en-coupe-de-suisse-2
 football-les-enseignements-a-tirer-apres-la-large-victoire-de-geneve-servette-face-au-fc-sion-29382432.html
 football-les-suissesses-abordent-leur-barrage-face-a-israel-dans-un-contexte-particulier-29379844.html
 football-lionel-messi-va-jouer-son-dernier-match-avec-l-equipe-d-argentine-29376937.html
+football-lugano-affronte-getafe-en-conference-league-29393411.html
 football-macedoine-du-nord-suisse-en-direct-de-skopje-29368408.html
 football-noah-okafor-claque-la-porte-de-l-equipe-de-suisse-29353630.html
 football-nouvelle-defaite-pour-le-lausanne-sport-au-bout-de-l-ennui-29382625.html
@@ -309,6 +314,7 @@ forum-29389460.html
 forum-29390602.html
 forum-29391679.html
 forum-29392814.html
+forum-29393786.html
 forum-des-idees-des-concerts-en-realite-virtuelle-proposes-a-des-personnes-en-dialyse-29382007.html
 forum-des-idees-resqworks-systeme-de-blocage-de-fumee-en-cas-d-incendie-29128871.html
 forum-des-idees-un-nouveau-site-internet-pour-eviter-que-les-addictions-ne-debordent-sur-le-travail-29230057.html
@@ -326,6 +332,7 @@ forum-des-medias-que-retenir-de-la-fusillade-d-aarau-29349072.html
 forum-des-medias-valerie-dittli-a-t-elle-vraiment-encore-des-chances-d-etre-elue-au-conseil-d-etat-29336007.html
 forum-economique-mondial-de-davos-le-bilan-de-guy-parmelin-29127736.html
 fossilise-3-5-l-il-du-cyclope-et-les-os-de-geants-29392210.html
+fossilise-4-5-la-licorne-en-poudre-29393278.html
 fossilises-1-5-etoiles-de-craie-et-pierres-de-foudre-29389981.html
 fossilises-2-5-serpents-petrifies-et-remedes-certifies-29391115.html
 fourmis-legionnaires-et-olivier-pagan-29188663.html
