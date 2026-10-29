@@ -89,6 +89,7 @@ film-en-debat-ecrire-la-vie-documentaire-de-claire-simon-29365502.html
 film-en-debat-garance-de-jeanne-herry-29365496.html
 film-en-debat-gourou-de-yann-gozlan-29132678.html
 film-en-debat-histoires-de-la-nuit-de-lea-mysius-29359118.html
+film-en-debat-hope-de-na-hong-jin-avec-michael-fassebender-alicia-vikander-29399107.html
 film-en-debat-karma-de-guillaume-canet-avec-marion-cotillard-denis-menochet-29392502.html
 film-en-debat-l-aventure-revee-de-valeska-grisebach-avec-yana-radeva-29392517.html
 film-en-debat-l-espece-explosive-de-sarah-arnold-29379070.html
@@ -99,6 +100,8 @@ film-en-debat-la-vie-d-une-femme-de-charline-bourgeois-tacquet-29359106.html
 film-en-debat-late-fame-de-kent-jones-29339037.html
 film-en-debat-laundry-de-zamo-mkhwanazi-29345706.html
 film-en-debat-le-dernier-pour-la-route-de-francesco-sossai-29352358.html
+film-en-debat-le-fantome-de-l-opera-d-alexandre-castagnetti-avec-romain-duris-deva-cassel-29399108.html
+film-en-debat-le-mystere-lucy-lost-film-d-animation-d-olivier-clert-29399106.html
 film-en-debat-les-caprices-de-l-enfant-roi-de-michel-leclerc-avec-artus-doria-tillier-franck-29285172.html
 film-en-debat-les-miserables-de-fred-cavaye-29385590.html
 film-en-debat-les-parfait-s-arnaques-en-famille-de-ludovic-bernard-avec-audrey-fleurot-ramz-29285182.html
@@ -325,6 +328,7 @@ forum-29395506.html
 forum-29396141.html
 forum-29397250.html
 forum-29398213.html
+forum-29399133.html
 forum-des-idees-des-concerts-en-realite-virtuelle-proposes-a-des-personnes-en-dialyse-29382007.html
 forum-des-idees-resqworks-systeme-de-blocage-de-fumee-en-cas-d-incendie-29128871.html
 forum-des-idees-un-hopital-simule-pour-favoriser-l-innovation-pratique-dans-le-domaine-de-la-sante-29395498.html
@@ -356,6 +360,7 @@ francesco-de-gregori-la-storia-29349824.html
 francesco-gabbani-summer-funk-29346327.html
 francesco-piemontesi-1-5-29397388.html
 francesco-piemontesi-2-5-29398365.html
+francesco-piemontesi-3-5-29399294.html
 francesco-renga-giusy-ferreri-non-dovrei-non-dovresti-29377517.html
 francis-halle-ou-l-homme-des-forets-disparu-a-l-age-de-87-ans-29108006.html
 francois-d-assise-l-homme-du-paradoxe-29375557.html
