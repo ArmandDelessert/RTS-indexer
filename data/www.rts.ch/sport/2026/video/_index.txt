@@ -20,6 +20,7 @@
 11e-journee-sion-ls-1-0-le-resume-du-match-29396112.html
 11e-journee-sion-ls-1-0-le-sedunois-kreshnik-hajrizi-a-l-interview-29396137.html
 11e-journee-tous-les-buts-29396220.html
+12e-journee-lucerne-sion-1-1-le-resume-de-la-rencontre-29401661.html
 16es-de-finale-cham-sion-0-2-le-resume-de-la-rencontre-29388787.html
 16es-de-finale-j-kym-sui-a-rinderknech-fra-7-6-6-4-les-meilleurs-moments-de-la-rencontre-29398197.html
 16es-de-finale-m-brunold-sui-n-borges-por-3-6-1-6-les-meilleurs-moments-de-la-rencontre-29397085.html
@@ -332,9 +333,12 @@ decouverte-keep-it-wool-29386479.html
 decouverte-the-snow-league-2026-laax-29196797.html
 decouverte-world-rookie-kaprun-29215815.html
 demi-finale-a-fery-gbr-a-zverev-ger-6-7-2-6-4-6-l-allemand-va-jouer-sa-1ere-finale-sur-le-gazon-londonien-29299708.html
+demi-finale-dames-suisse-ecosse-4-3-les-helvetes-en-finale-de-justesse-29401502.html
+demi-finale-j-lehecka-cze-j-struff-ger-3-6-7-5-6-4-lehecka-retrouvera-vacherot-en-finale-29401636.html
 demi-finale-j-sinner-ita-n-djokovic-srb-6-4-6-4-6-4-match-parfait-du-numero-1-mondial-qui-rejoint-zverev-en-finale-29300045.html
 demi-finale-k-muchova-cze-c-gauff-usa-6-2-1-6-7-6-la-tcheque-s-impose-au-super-tie-break-face-a-l-ex-n-1-mondiale-29298783.html
 demi-finale-l-noskova-cze-m-kostyuk-6-4-6-4-la-tcheque-rejoint-sa-compatriote-en-finale-29298851.html
+demi-finale-v-vacherot-mon-t-fritz-usa-7-6-6-3-le-monegasque-passe-en-finale-a-bale-29401533.html
 des-binomes-pour-l-integration-a-la-vortex-race-29393689.html
 des-knicks-affames-defient-les-spurs-en-finale-de-la-nba-29261987.html
 deux-buts-en-six-minutes-et-la-france-elimine-le-maroc-29299185.html
@@ -359,6 +363,7 @@ euro-hockey-tour-suede-suisse-1-0-ap-le-resume-du-match-29401159.html
 euro-hockey-tour-suede-suisse-5-0-le-resume-de-la-rencontre-29372110.html
 euro-hockey-tour-suisse-finlande-3-5-le-resume-de-la-rencontre-29229901.html
 euro-hockey-tour-suisse-suede-4-2-le-resume-de-la-rencontre-29332938.html
+euro-hockey-tour-suisse-tchequie-2-7-le-resume-du-match-29401478.html
 euro-hockey-tour-suisse-tchequie-3-2-ap-le-resume-de-la-rencontre-29375140.html
 eurobasket-2029-pre-qualifications-suisse-grande-bretagne-75-110-l-equipe-nationale-s-incline-pour-son-premier-match-29340264.html
 europa-league-besiktas-marseille-4-1-le-resume-de-la-rencontre-29360574.html
@@ -926,6 +931,7 @@ super-league-11e-journee-lugano-continue-sur-sa-lancee-apres-la-correction-infli
 super-league-11e-journee-resultats-et-classement-29396207.html
 super-league-11e-journee-servette-s-impose-2-1-contre-vaduz-29396205.html
 super-league-11e-journee-sion-bat-lausanne-1-0-29396204.html
+super-league-saint-gall-servette-2-1-le-resume-de-la-rencontre-29401620.html
 tarvisio-ita-descente-dames-le-passage-de-corinne-suter-sui-29121217.html
 tarvisio-ita-descente-dames-nicol-delago-ita-tient-sa-premiere-victoire-en-coupe-du-monde-29121235.html
 tarvisio-ita-super-g-dames-emma-aicher-ger-decoree-d-or-29121797.html
