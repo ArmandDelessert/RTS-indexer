@@ -23,6 +23,7 @@
 11e-journee-tous-les-buts-29396220.html
 12e-journee-lausanne-sport-thoune-4-5-le-resume-de-la-rencontre-29402033.html
 12e-journee-lucerne-sion-1-1-le-resume-de-la-rencontre-29401661.html
+12e-journee-tous-les-buts-29402525.html
 16es-de-finale-cham-sion-0-2-le-resume-de-la-rencontre-29388787.html
 16es-de-finale-j-kym-sui-a-rinderknech-fra-7-6-6-4-les-meilleurs-moments-de-la-rencontre-29398197.html
 16es-de-finale-m-brunold-sui-n-borges-por-3-6-1-6-les-meilleurs-moments-de-la-rencontre-29397085.html
@@ -681,6 +682,7 @@ le-zap-rts-sport-2026-40-29376717.html
 le-zap-rts-sport-2026-41-29383344.html
 le-zap-rts-sport-2026-42-29390143.html
 le-zap-rts-sport-2026-43-29396796.html
+le-zap-rts-sport-2026-44-29403138.html
 lea-sprunger-analyse-les-enjeux-de-la-weltklasse-29339242.html
 les-3-buts-de-la-nati-face-a-la-macedoine-du-nord-29379914.html
 les-4-buts-suisses-contre-la-bosnie-en-vo-29280010.html
@@ -690,6 +692,7 @@ les-entraineurs-ont-toujours-un-peu-peur-29360362.html
 les-excuses-de-gianni-infantino-29390017.html
 les-fans-argentins-font-du-bruit-a-dallas-29283619.html
 les-fans-de-la-nati-mettent-l-ambiance-a-santa-clara-avant-le-1er-match-de-la-suisse-29273153.html
+les-gens-ne-comprennent-pas-que-c-est-difficile-de-jouer-contre-des-gars-29402660.html
 les-gets-fra-cross-country-dames-la-championne-d-europe-sina-frei-sui-s-impose-avant-les-mondiaux-29335827.html
 les-gets-fra-cross-country-messieurs-boichis-fra-s-impose-a-domicile-van-der-poel-2e-pour-son-retour-dans-la-discipline-29335875.html
 les-gets-fra-short-track-dames-la-zurichoise-sina-frei-s-impose-en-haute-savoie-29334940.html
@@ -704,6 +707,7 @@ les-skieurs-et-skieuses-suisses-a-l-interview-avant-le-debut-de-la-saison-de-cou
 les-suissesses-mettent-7-buts-a-israel-29382023.html
 les-suissesses-s-entrainent-avec-le-maillots-de-leur-1er-club-29378053.html
 les-swiss-indoors-rendent-un-vibrant-hommage-a-stan-wawrinka-29397315.html
+les-ultras-du-ls-tentent-de-penetrer-dans-les-vestiaires-29402787.html
 lex-deux-buts-de-l-espagne-face-a-la-france-29303950.html
 liege-bastogne-liege-bel-dames-demi-vollering-ned-s-impose-en-solitaire-elise-chabbey-sui-termine-7e-29223219.html
 liege-bastogne-liege-bel-messieurs-tadej-pogacar-slo-remporte-la-doyenne-des-classiques-29223172.html
@@ -826,6 +830,7 @@ qui-es-tu-valentine-dugerdil-29399515.html
 qui-es-tu-yoen-constantin-29390028.html
 qui-est-le-meilleur-au-jeu-du-loup-garou-29287548.html
 qui-met-le-plus-d-ambiance-dans-l-equipe-29275087.html
+rallye-du-valais-succes-de-yohan-surroca-29403357.html
 rans-montana-descente-messieurs-la-reaction-de-franjo-von-allmen-sui-29136706.html
 reactions-de-sebastien-buemi-et-de-nico-muller-apres-leur-podium-aux-24h-du-mans-29276751.html
 rencontre-avec-le-chef-des-fans-de-la-nati-29278842.html
@@ -869,6 +874,7 @@ rts-sport-football-villareal-vs-naples-29384975.html
 rugby-la-suisse-s-impose-contre-l-allemagne-et-se-maintient-en-europe-championship-29175893.html
 sabre-dans-le-bide-au-mondial-2006-l-anecdote-de-michel-pont-29291320.html
 sailgp-geneve-regate-2b-l-equipage-suisse-remporte-sa-course-sur-le-leman-29362149.html
+sara-perche-ti-amo-pour-feter-le-titre-d-antonelli-29402794.html
 schladming-aut-geant-messieurs-2e-manche-alban-elezi-cannaferina-fra-complete-le-podium-29131889.html
 schladming-aut-geant-messieurs-2e-manche-la-magnifique-course-de-loic-meillard-sui-victorieux-29131891.html
 schladming-aut-geant-messieurs-2e-manche-la-performance-de-marco-odermatt-sui-29131862.html
@@ -919,6 +925,7 @@ sport-dimanche-13-09-2026-29351615.html
 sport-dimanche-16-08-2026-29326153.html
 sport-dimanche-18-10-2026-29384998.html
 sport-dimanche-20-09-2026-29358364.html
+sport-dimanche-2026-29398383.html
 sport-dimanche-23-08-2026-29331977.html
 sport-dimanche-23-08-2026-29338332.html
 sport-dimanche-25-10-2026-29391933.html
