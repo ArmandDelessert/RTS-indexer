@@ -112,10 +112,19 @@
 3e-journee-stuttgart-atletico-madrid-1-1-le-resume-de-la-rencontre-29391887.html
 3e-journee-yverdon-gc-1-2-le-resume-de-la-rencontre-29341652.html
 3e-tour-qualificatif-retour-vikingur-thoune-3-2-le-resume-de-la-rencontre-29328024.html
+4e-journee-atletico-madrid-bayern-munich-0-2-le-resume-de-la-rencontre-29404956.html
+4e-journee-barcelone-aston-villa-3-0-le-resume-de-la-rencontre-29404963.html
+4e-journee-feyenoord-inter-0-3-le-resume-de-la-rencontre-29404949.html
+4e-journee-fk-bodo-glimt-lille-0-0-le-resume-de-la-rencontre-29404951.html
+4e-journee-galatasaray-stuttgart-2-0-le-resume-de-la-rencontre-29404919.html
 4e-journee-grasshopper-sion-2-5-les-valaisans-se-font-plaisir-au-letzigrund-29358307.html
+4e-journee-lask-linz-s-bratislava-4-0-le-resume-de-la-rencontre-29404954.html
 4e-journee-lucerne-lausanne-1-0-le-resume-de-la-rencontre-29335576.html
+4e-journee-manchester-united-as-rome-3-2-le-resume-de-la-rencontre-29404958.html
+4e-journee-shakhtar-donetsk-sporting-0-1-le-resume-de-la-rencontre-29404916.html
 4e-journee-thoune-servette-2-4-le-resume-de-la-rencontre-29359399.html
 4e-journee-tous-les-buts-29336435.html
+4e-journee-villarreal-paris-sg-0-6-le-resume-de-la-rencontre-29404960.html
 5000m-messieurs-jakob-ingebritsen-nor-imperial-29354825.html
 5e-journee-lausanne-zurich-2-3-le-resume-de-la-rencontre-29341929.html
 5e-journee-lettonie-suisse-1-3-la-suisse-decroche-sa-premiere-victoire-dans-un-euro-29358227.html
@@ -236,6 +245,7 @@ bande-annonce-athletisme-ultimate-championship-2026-29347893.html
 bande-annonce-qualifications-coupe-du-monde-de-la-fifa-13-10-2026-29381367.html
 bande-annonce-qualifications-coupe-du-monde-de-la-fifa-2027-9-10-2026-29378006.html
 bande-annonce-uefa-champions-league-14-10-2026-29378010.html
+bande-annonce-uefa-champions-league-4-11-2026-29398146.html
 bande-annonce-uefa-u21-qualifications-euro-2027-25-09-2026-29363463.html
 barrage-aller-fc-sparta-prague-servette-fc-chenois-3-2-le-resume-de-la-rencontre-29339214.html
 barrage-aller-israel-suisse-3-7-iman-beney-sui-reagit-apres-la-rencontre-29381553.html
