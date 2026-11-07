@@ -100,6 +100,8 @@ concours-international-d-execution-musicale-25005136.html
 continents-sans-visa-25001161.html
 correspondances-25005309.html
 cote-jardin-25006888.html
+couleurs-d-ete-25001165.html
+couleurs-locales-25000170.html
 coup-de-projecteur-25006163.html
 courrier-romand-25001015.html
 course-autour-du-monde-25001239.html
@@ -420,6 +422,7 @@ telescope-25002370.html
 tell-quel-25000875.html
 temoignages-25005688.html
 temps-de-nos-vingt-ans-25006502.html
+temps-present-25000246.html
 terre-est-ronde-25006817.html
 terre-romande-25007139.html
 test-25006212.html
