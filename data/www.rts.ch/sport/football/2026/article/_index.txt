@@ -141,6 +141,7 @@ gennaro-gattuso-demissionne-de-son-poste-de-selectionneur-de-l-italie-29203184.h
 gennaro-gattuso-nomme-nouvel-entraineur-de-la-lazio-rome-29283980.html
 granit-xhaka-absent-3-semaines-sunderland-prive-de-son-capitaine-suisse-29136623.html
 granit-xhaka-amende-avec-sursis-pour-faux-certificat-covid-29379962.html
+granit-xhaka-blesse-et-incertain-pour-la-treve-internationale-29409546.html
 granit-xhaka-enquete-pour-un-possible-faux-certificat-covid-29361624.html
 granit-xhaka-renonce-aux-4-prochains-matches-de-ligue-des-nations-29363101.html
 grasshopper-elimine-sion-4-3-en-coupe-de-suisse-apres-un-match-fou-29139006.html
@@ -454,11 +455,14 @@ super-league-luka-elsner-veut-relancer-le-lausanne-sport-29307756.html
 super-league-mene-4-1-thoune-renverse-lausanne-5-4-29401848.html
 super-league-on-n-a-pas-fait-le-job-peste-custodio-29402138.html
 super-league-pourquoi-le-fc-sion-peut-viser-le-podium-29361303.html
+super-league-revivez-tous-les-buts-de-la-13e-journee-29409829.html
 super-league-revivez-tous-les-buts-de-la-8e-journee-29355927.html
+super-league-saint-gall-gifle-lugano-5-0-et-brise-son-invincibilite-29409526.html
 super-league-servette-bat-lausanne-1-0-dans-le-derby-du-lac-29355797.html
 super-league-servette-bat-le-champion-thoune-4-2-29359171.html
 super-league-servette-battu-3-2-a-berne-apres-avoir-mene-2-0-29361991.html
 super-league-servette-cale-contre-lucerne-lausanne-battu-29341636.html
+super-league-servette-et-zurich-se-neutralisent-0-0-29409527.html
 super-league-servette-s-impose-1-0-contre-vaduz-29395365.html
 super-league-servette-s-incline-1-0-a-domicile-face-a-bale-29312561.html
 super-league-servette-s-incline-2-1-face-a-saint-gall-29401410.html
@@ -498,6 +502,7 @@ women-s-super-league-servette-chenois-accroche-3-3-29401872.html
 women-s-super-league-servette-chenois-renverse-zurich-3-1-29408923.html
 women-s-super-league-yverdon-bat-bale-3-2-et-cree-la-surprise-29375138.html
 women-s-super-league-yverdon-s-incline-1-2-face-a-rapperswil-29389325.html
+women-s-super-league-yverdon-s-incline-3-0-a-aarau-29409528.html
 women-s-super-league-yverdon-s-incline-3-0-contre-zurich-29322917.html
 wsl-servette-chenois-bat-aarau-3-0-pour-son-entree-en-lice-29329398.html
 xavi-nomme-selectionneur-des-pays-bas-jusqu-en-2030-29326926.html
