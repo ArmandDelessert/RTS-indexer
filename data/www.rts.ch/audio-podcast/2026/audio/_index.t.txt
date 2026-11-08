@@ -227,6 +227,8 @@ tournee-generale-29401732.html
 tournee-generale-29401739.html
 tournee-generale-29408554.html
 tournee-generale-29408560.html
+tournee-generale-29409241.html
+tournee-generale-29409247.html
 tournee-romande-29105209.html
 tournee-romande-29105970.html
 tournee-romande-29106738.html
@@ -340,6 +342,7 @@ tournee-romande-29404562.html
 tournee-romande-29405907.html
 tournee-romande-29407098.html
 tournee-romande-29408150.html
+tournee-romande-29408868.html
 tournee-romande-musique-suisse-de-part-ses-auteurs-ou-ses-interpretes-29360204.html
 tous-des-nuls-29230431.html
 tous-des-traitres-29196611.html
