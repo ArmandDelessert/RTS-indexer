@@ -28,6 +28,11 @@
 13e-journee-gc-lausanne-sport-1-1-l-analyse-de-l-entraineur-ludovic-magnin-29409178.html
 13e-journee-gc-lausanne-sport-1-1-le-resume-de-la-rencontre-29409152.html
 13e-journee-gc-lausanne-sport-1-1-un-sentiment-mitige-pour-ibrahim-bah-mendes-29409163.html
+13e-journee-servette-zurich-0-0-l-analyse-du-capitaine-grenat-steve-rouiller-29409776.html
+13e-journee-servette-zurich-0-0-l-analyse-du-capitaine-grenat-steve-rouiller-29409842.html
+13e-journee-servette-zurich-0-0-l-entraineur-du-sfc-jocelyn-gourvennec-se-confie-29409779.html
+13e-journee-servette-zurich-0-0-l-entraineur-du-sfc-jocelyn-gourvennec-se-confie-29409843.html
+13e-journee-servette-zurich-0-0-le-resume-de-la-rencontre-29409682.html
 13e-journee-vaduz-sion-0-4-le-resume-de-la-rencontre-29409020.html
 16es-de-finale-cham-sion-0-2-le-resume-de-la-rencontre-29388787.html
 16es-de-finale-j-kym-sui-a-rinderknech-fra-7-6-6-4-les-meilleurs-moments-de-la-rencontre-29398197.html
@@ -198,6 +203,7 @@
 9e-journee-sion-zurich-1-1-le-capitaine-sedunois-ali-kabacalman-a-l-interview-29362199.html
 9e-journee-yb-servette-3-2-le-resume-de-la-rencontre-29362091.html
 9e-journee-young-boys-servette-3-2-le-capitaine-grenat-steve-rouiller-a-l-interview-29362213.html
+a-la-rencontre-de-daniel-yule-sui-en-pleine-preparation-29409807.html
 a-servette-les-jeunes-ne-jouent-pas-et-eclosent-ailleurs-29376890.html
 adelboden-le-drame-de-crans-montana-hante-tous-les-esprits-29113554.html
 adelboden-ski-alpin-coupe-du-monde-marco-odermatt-rentre-un-peu-plus-dans-l-histoire-avec-une-5e-succes-en-geant-29114996.html
@@ -277,6 +283,7 @@ barrages-retour-ajax-sion-5-3-le-resume-de-la-rencontre-29340331.html
 barrages-retour-st-gall-nordsjaelland-2-3-le-resume-de-la-recontre-29340310.html
 barrages-retour-thoune-lech-poznan-2-2-le-resume-de-la-rencontre-29340305.html
 basketball-euro-2029-l-equipe-de-suisse-s-incline-pour-son-premier-match-des-pre-qualifications-29342264.html
+basketball-immersion-parmi-les-lions-de-geneve-a-l-aube-de-la-coupe-d-europe-29409808.html
 basketball-les-defis-du-nouvel-entraineur-thibaut-petit-29342265.html
 basketball-thibaut-petit-est-le-nouveau-selectionneur-de-l-equipe-de-suisse-29313914.html
 bastian-baker-et-standing-ovation-bale-rend-hommage-a-wawrinka-29398064.html
@@ -474,6 +481,11 @@ football-super-league-10e-journee-lugano-lucerne-4-0-29382721.html
 football-super-league-10e-journee-resultats-et-classement-29382722.html
 football-super-league-10e-journee-saint-gall-lausanne-1-0-29382719.html
 football-super-league-10e-journee-servette-sion-3-0-29382720.html
+football-super-league-13e-journee-grasshopper-lausanne-1-1-l-arrivee-de-ludovic-magnin-sur-le-banc-lausannois-porte-ses-fruits-29409820.html
+football-super-league-13e-journee-resultats-et-classement-29409823.html
+football-super-league-13e-journee-servette-zurich-0-0-le-resume-de-la-rencontre-29409819.html
+football-super-league-13e-journee-st-gall-lugano-5-0-le-leader-prend-une-claque-a-st-gall-29409822.html
+football-super-league-13e-journee-vaduz-sion-0-4-l-absence-de-boteli-n-a-pose-aucun-problemes-aux-sedunois-29409821.html
 football-super-league-21e-journee-servette-retrouve-le-gout-de-la-victoire-a-st-gall-2-4-29129690.html
 football-super-league-5e-journee-le-ls-laisse-filer-3-points-face-a-zurich-2-3-29342277.html
 football-super-league-5e-journee-servette-doit-se-contenter-d-un-nul-1-1-face-a-lucerne-a-11-contre-10-29342276.html
@@ -497,19 +509,23 @@ football-super-league-sion-s-incline-4-2-au-wankdorf-face-aux-young-boys-2931339
 football-women-s-super-league-1re-journee-yverdon-zurich-0-3-les-zurichoises-font-carton-plein-29324106.html
 football-women-s-super-league-premiere-victoire-pour-yverdon-sport-4-1-29356017.html
 football-women-s-super-league-yverdon-de-retour-dans-l-elite-29349150.html
+football-zachary-athekame-sui-qui-brille-a-lyon-figure-justement-dans-la-liste-de-murat-yakin-29409824.html
 formule-1-gp-des-usa-antonelli-ita-pourrait-devenir-champion-du-monde-a-austin-29396209.html
 forth-worth-usa-saut-d-obstacles-round-3-steve-guerdat-sui-a-la-6e-place-kent-farrington-usa-vainqueur-29210348.html
 forum-video-presente-par-thibaut-schaller-et-renaud-malik-29189234.html
 freeride-xtreme-de-verbier-le-resume-de-la-competition-29196869.html
 gare-aux-virus-pour-la-nati-en-amerique-du-nord-29292451.html
 geneve-sui-finale-les-espagnols-remporte-l-etape-genevoise-29362821.html
+gp-du-qatar-20-marco-bezzecchi-ita-fait-patienter-le-sacre-de-marc-marquez-esp-29409810.html
 gregor-kobel-et-dortmund-esperent-surprendre-le-betis-29404356.html
 groupe-a-suisse-etats-unis-0-7-le-resume-de-la-rencontre-29408472.html
+groupe-a-tchequie-suisse-1-2-ap-le-resume-de-la-rencontre-29409962.html
 groupe-c-round-robin-suisse-france-le-resume-des-matches-29106584.html
 gymnastique-reportage-portrait-de-deux-jeunes-espoirs-genevois-tessa-seramondi-et-hiroaki-hata-29368997.html
 haaland-envoie-la-norvege-en-8es-de-finale-29291349.html
 halterophilie-54e-edition-du-challenge-210-a-tramelan-29402116.html
 harry-kane-un-ballon-d-or-merite-29398642.html
+helsinki-fin-tchequie-suisse-4-2-fin-de-tournoi-pour-les-suisses-qui-se-font-remonter-sur-la-fin-29409561.html
 hippisme-finales-de-coupe-du-monde-steve-guerdat-sui-est-actuellement-2e-avant-la-derniere-epreuve-29210180.html
 hippisme-steve-guerdat-2e-avant-l-ultime-epreuve-de-la-finale-de-la-coupe-du-monde-a-fort-worth-29209342.html
 hippisme-steve-guerdat-se-confie-avant-les-championnats-d-europe-d-aix-la-chapelle-29331606.html
@@ -521,7 +537,9 @@ hockey-national-league-entretien-avec-martin-steinegger-directeur-sportif-du-hc-
 hockey-national-league-portrait-de-jeff-skinner-attaquant-ca-nadien-de-34-ans-du-hc-bienne-29369005.html
 hockey-national-league-troisieme-victoire-consecutive-pour-ge-servette-qui-domine-bienne-2-0-29369001.html
 hockey-sur-glace-champions-hockey-league-2025-2026-29124714.html
+hockey-sur-glace-helsinki-fin-tchequie-suisse-4-2-fin-de-tournoi-pour-les-suisses-qui-se-font-remonter-sur-la-fin-29409814.html
 hockey-sur-glace-la-star-philipp-kurashev-sui-a-choisit-lausanne-29389500.html
+hockey-sur-glace-les-suissesses-buttent-sur-le-geant-americain-0-7-29409816.html
 hockey-sur-glace-national-league-ajoie-bat-lugano-5-4-rt-decroche-une-2e-victoire-a-3-points-cette-saison-pour-prendre-la-5e-place-du-classement-29375843.html
 hockey-sur-glace-national-league-christophe-bertschy-le-capitaine-de-fribourg-gotteron-a-l-intrerview-29356001.html
 hockey-sur-glace-national-league-classement-29375844.html
@@ -593,6 +611,7 @@ l-emotion-de-nos-commentateurs-apres-la-qualification-de-la-nati-29297564.html
 l-emotion-de-stan-wawrinka-apres-son-dernier-match-29398873.html
 l-equipe-de-suisse-s-impose-3-0-face-a-l-ecosse-29371872.html
 l-espagne-souleve-le-trophee-de-la-coupe-du-monde-29307543.html
+l-hommage-du-monde-du-sport-adresse-a-michelle-gisin-sui-qui-met-un-terme-a-plus-de-13-ans-de-competition-29409805.html
 l-hymne-mexicain-au-stade-azteca-29272177.html
 la-cacahuete-en-lucarne-du-haitien-wilson-isidor-29285667.html
 la-campagne-de-mbappe-pour-le-ballon-d-or-a-ete-outrageuse-29399021.html
@@ -657,6 +676,7 @@ le-mag-entraineures-en-devenir-29115006.html
 le-mag-filmer-le-sport-pas-le-corps-29342272.html
 le-mag-l-antidopage-dans-le-sang-29237967.html
 le-mag-l-utilisation-du-telephone-portable-dans-le-monde-du-sport-29252378.html
+le-mag-la-face-cachee-de-la-medaille-29409817.html
 le-mag-le-mal-des-montagnes-29362757.html
 le-mag-le-reds-relative-energy-deficiency-in-sport-29402115.html
 le-mag-le-renouveau-du-fc-sion-comment-est-on-passe-de-balotelli-a-boteli-29396203.html
@@ -765,6 +785,7 @@ messi-cr7-les-deux-goats-au-rendez-vous-des-16es-29288154.html
 messi-egale-le-record-de-buts-en-coupe-du-monde-29277359.html
 michael-phelps-je-suis-jaloux-de-noe-ponti-29353547.html
 micheal-phelps-a-propos-de-noe-ponti-29357609.html
+michelle-gisin-sui-revient-sur-sa-carriere-les-hauts-les-bas-et-le-futur-29409806.html
 milan-cortina-2026-paralympiques-le-bilan-tres-positif-des-suisses-et-en-particulier-pour-robin-cuche-sui-29183622.html
 mini-mag-sailgp-le-week-end-prochain-a-geneve-29356006.html
 mondial-2026-des-tickets-hors-de-prix-29283371.html
@@ -780,6 +801,7 @@ moto-gp-bezzecchi-triomphe-sur-le-circuit-de-mandalika-29382710.html
 motogp-gp-d-aragon-marc-marquez-esp-fait-le-double-avec-sa-victoire-en-sprint-et-en-grand-prix-29342269.html
 motogp-gp-de-saint-marin-ita-marc-marquez-esp-victorieux-29356002.html
 motogp-marc-marquez-esp-au-dessus-de-tous-29402113.html
+nanterre-fra-finale-b-shelton-usa-c-alcaraz-esp-6-7-5-7-carlos-alcaraz-remporte-le-29e-titre-de-sa-carriere-29409643.html
 national-league-le-gshc-entame-l-annee-avec-des-victoires-contre-zurich-5-3-et-bern-3-0-29107476.html
 national-league-les-aigles-s-inclinent-5-1-contre-zurich-29396199.html
 national-league-une-violente-bagarre-en-marge-du-match-fribourg-lausanne-29396198.html
@@ -877,6 +899,7 @@ revivez-la-carriere-internationale-de-lionel-messi-arg-29344566.html
 revivez-le-17e-but-historique-de-messi-29283378.html
 revivez-les-deux-buts-de-la-nati-contre-le-canada-29285651.html
 revivez-tous-les-buts-de-la-10e-journee-29382731.html
+revivez-tous-les-buts-de-la-13e-journee-29409836.html
 revivez-tous-les-buts-de-la-9e-journee-29362719.html
 revivez-tous-les-buts-des-matches-en-retard-de-la-4e-journee-29359400.html
 rio-de-janeiro-bra-bresil-suisse-match-2-stan-wawrinka-s-incline-4-6-7-6-7-4-6-4-face-a-gustavo-heide-l-a-suisse-est-menee-2-0-29361641.html
@@ -955,6 +978,7 @@ spindleruv-mlyn-cze-slalom-dames-2e-manche-wendy-holdener-sui-termine-5e-2912936
 sport-dimanche-01-11-2026-29398383.html
 sport-dimanche-04-10-2026-29371554.html
 sport-dimanche-06-09-2026-29344912.html
+sport-dimanche-08-11-2026-29404971.html
 sport-dimanche-11-10-2026-29378288.html
 sport-dimanche-13-09-2026-29351615.html
 sport-dimanche-16-08-2026-29326153.html
@@ -997,6 +1021,7 @@ tarvisio-ita-super-g-dames-lindsay-vonn-usa-termine-2e-29121795.html
 tennis-atp-bale-isabelle-musy-interviewe-stan-wawrinka-29396202.html
 tennis-atp-bale-wawrinka-terminera-sa-tournee-d-adieux-a-la-halle-saint-jacques-29396201.html
 tennis-atp-gstaad-le-grec-stefanos-tsitsipas-s-impose-29307357.html
+tennis-carlos-alcaraz-esp-remporte-son-29e-titre-face-a-un-coriace-ben-shelton-usa-29409809.html
 tennis-clin-d-il-de-l-equipe-de-suisse-des-moins-de-15-ans-a-l-occasion-de-l-anniversaire-de-roger-federer-29324100.html
 tennis-djokovic-peut-egaler-federer-a-bale-avec-un-103e-titre-atp-29396524.html
 tennis-gstaad-29305951.html
@@ -1014,6 +1039,7 @@ torun-pol-finale-60m-dames-zaynab-dosso-ita-championne-du-monde-29190046.html
 torun-pol-finale-60m-haies-messieurs-jakub-szymanski-pol-en-or-enrique-llopis-esp-et-trey-cunningham-usa-completent-le-podiumj-29190036.html
 torun-pol-saut-en-longueur-dames-finale-l-elimination-d-annik-kalin-sui-29190338.html
 tour-de-lombardie-victoire-de-paul-seixas-fra-29381958.html
+triathlon-la-fribourgeoise-alanis-siffert-sui-remporte-l-ironman-de-floride-usa-29409812.html
 triathlon-la-resilience-de-la-vaudoise-cathia-schar-29307356.html
 trois-suisses-ont-joue-lors-de-la-3e-journee-de-ligue-des-champions-29393707.html
 u21-suisse-iles-feroe-1-0-le-resume-de-la-rencontre-29196439.html
@@ -1041,6 +1067,7 @@ val-di-sole-ita-descente-elite-dames-valentina-holl-aut-signe-le-meilleur-temps-
 val-di-sole-ita-descente-elite-messieurs-jackson-goldstone-can-arrache-la-victoire-pour-7-centiemes-29341579.html
 val-di-sole-ita-short-track-dames-laura-stigger-aut-s-impose-au-bout-du-suspens-sina-frei-sui-termine-3e-29340106.html
 val-di-sole-ita-short-track-messieurs-victoire-d-adrien-boichis-fra-devant-charlie-aldridge-gbr-29340135.html
+voile-tom-laperche-fra-remporte-la-route-du-rhum-2026-haut-la-main-29409813.html
 volleyball-championnat-de-suisse-amriswil-remporte-la-finale-en-3-matches-face-a-nafels-29210183.html
 volleyball-championnats-d-europe-une-3e-defaite-pour-les-suisses-29356004.html
 volleyball-euro-2026-29357088.html
@@ -1077,3 +1104,4 @@ zurich-400m-haies-messieurs-nouveau-record-du-monde-pour-alison-do-santos-bra-en
 zurich-800m-dames-audrey-werro-sui-a-l-interview-29340320.html
 zurich-800m-dames-audrey-werro-sui-ameliore-a-nouveau-son-record-personnel-et-se-rapproche-du-record-du-monde-29340302.html
 zurich-saut-a-la-perche-messieurs-victoire-d-armand-duplantis-swe-a-6m25-emmanouil-karalis-gre-ameliore-son-record-personnel-6m20-29340339.html
+zurich-sui-suisse-danemark-24-33-les-suisses-n-y-arrivent-pas-face-aux-danois-29409656.html
