@@ -23,6 +23,12 @@ on:
         description: "Résumé placé en titre du commit, après le préfixe `data:`."
         required: true
         type: string
+    secrets:
+      GH_PAT:
+        required: true
+      # URL de ping Healthchecks.io propre à la cadence appelante ; facultatif.
+      HEARTBEAT_URL:
+        required: false
 
 # Toutes les cadences écrivent dans le même `data/` et poussent sur la même
 # branche. Un groupe partagé les sérialise ; `cancel-in-progress: false` parce
@@ -41,6 +47,13 @@ jobs:
       contents: write
 
     steps:
+      # Supervision (Healthchecks.io), cf. les étapes « Heartbeat » : sans HEARTBEAT_URL, elles ne font rien.
+      # `|| true` : une panne de la supervision ne doit jamais faire échouer la collecte.
+      - name: Heartbeat (début)
+        env:
+          HEARTBEAT_URL: ${{ secrets.HEARTBEAT_URL }}
+        run: '[ -z "$HEARTBEAT_URL" ] || curl -fsS -m 10 --retry 3 "$HEARTBEAT_URL/start" || true'
+
       - name: Récupérer le dépôt
         uses: actions/checkout@v4
         with:
@@ -144,3 +157,22 @@ jobs:
           # sérialise les workflows entre eux, pas les commits manuels.
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"
+
+      # Dernière étape, `always()` : signale le résultat du job (success -> ping, failure -> /fail),
+      # avec la fin de resultat.txt (comptes rendus de la collecte) en corps du ping.
+      # Un job annulé n'envoie rien : l'absence de ping déclenche l'alerte après le délai de grâce.
+      - name: Heartbeat (fin)
+        if: always()
+        env:
+          HEARTBEAT_URL: ${{ secrets.HEARTBEAT_URL }}
+          JOB_STATUS: ${{ job.status }}
+        run: |
+          [ -n "$HEARTBEAT_URL" ] || exit 0
+          case "$JOB_STATUS" in
+            success) suffix="" ;;
+            failure) suffix="/fail" ;;
+            *) exit 0 ;;
+          esac
+          body=""
+          [ -f resultat.txt ] && body="$(tail -c 2000 resultat.txt)"
+          curl -fsS -m 10 --retry 3 --data-raw "$body" "$HEARTBEAT_URL$suffix" || true

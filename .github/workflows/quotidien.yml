@@ -34,7 +34,10 @@ jobs:
     uses: ./.github/workflows/_collecte.yml
     # Cf. rss.yml : un workflow réutilisable n'a jamais accès aux secrets de
     # l'appelant par défaut, même dans le même dépôt.
-    secrets: inherit
+    # Secrets passés un par un (et non `inherit`) : chaque cadence a son propre check Healthchecks.io.
+    secrets:
+      GH_PAT: ${{ secrets.GH_PAT }}
+      HEARTBEAT_URL: ${{ secrets.HEARTBEAT_URL_QUOTIDIEN }}
     with:
       commandes: |
         sitemap
