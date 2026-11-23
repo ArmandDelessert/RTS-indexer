@@ -28,12 +28,15 @@
 13e-journee-gc-lausanne-sport-1-1-l-analyse-de-l-entraineur-ludovic-magnin-29409178.html
 13e-journee-gc-lausanne-sport-1-1-le-resume-de-la-rencontre-29409152.html
 13e-journee-gc-lausanne-sport-1-1-un-sentiment-mitige-pour-ibrahim-bah-mendes-29409163.html
+13e-journee-servette-chenois-st-gall-5-0-les-grenats-font-carton-plein-29423963.html
 13e-journee-servette-zurich-0-0-l-analyse-du-capitaine-grenat-steve-rouiller-29409776.html
 13e-journee-servette-zurich-0-0-l-analyse-du-capitaine-grenat-steve-rouiller-29409842.html
 13e-journee-servette-zurich-0-0-l-entraineur-du-sfc-jocelyn-gourvennec-se-confie-29409779.html
 13e-journee-servette-zurich-0-0-l-entraineur-du-sfc-jocelyn-gourvennec-se-confie-29409843.html
 13e-journee-servette-zurich-0-0-le-resume-de-la-rencontre-29409682.html
 13e-journee-vaduz-sion-0-4-le-resume-de-la-rencontre-29409020.html
+14e-journee-lausanne-sport-vaduz-2-2-le-resume-de-la-rencontre-29423880.html
+14e-journee-lausanne-sport-vaduz-2-2-ludovic-magnin-a-l-interview-29423971.html
 14e-journee-sion-servette-2-0-ali-kabacalman-a-l-inteview-29423375.html
 14e-journee-sion-servette-2-0-david-douline-a-l-interview-29423373.html
 14e-journee-sion-servette-2-0-le-resume-de-la-rencontre-29423355.html
@@ -284,6 +287,8 @@ bande-annonce-qualifications-coupe-du-monde-de-la-fifa-2027-9-10-2026-29378006.h
 bande-annonce-uefa-champions-league-14-10-2026-29378010.html
 bande-annonce-uefa-champions-league-4-11-2026-29398146.html
 bande-annonce-uefa-u21-qualifications-euro-2027-25-09-2026-29363463.html
+bangkok-tha-barrages-double-dames-t-naklo-p-plipuech-tha-s-waltert-n-karamoko-sui-3-6-7-6-6-3-les-suissesses-renouent-avec-la-defaite-29423557.html
+bangkok-tha-barrages-simple-dames-a-chanta-tha-s-bandecchi-sui-3-6-5-7-la-tessinoise-sauve-l-honneur-29423690.html
 bangkok-tha-l-tararudee-tha-j-teichmann-sui-1-6-6-4-6-4-la-suisse-au-bord-de-l-elimination-29423048.html
 bangkok-tha-m-sawangkaew-tha-s-waltert-sui-6-3-5-7-6-4-une-premiere-defaite-frustrante-pour-la-suisse-29422982.html
 barrage-aller-fc-sparta-prague-servette-fc-chenois-3-2-le-resume-de-la-rencontre-29339214.html
@@ -503,6 +508,9 @@ football-super-league-13e-journee-servette-zurich-0-0-le-resume-de-la-rencontre-
 football-super-league-13e-journee-st-gall-lugano-5-0-le-leader-prend-une-claque-a-st-gall-29409822.html
 football-super-league-13e-journee-vaduz-sion-0-4-l-absence-de-boteli-n-a-pose-aucun-problemes-aux-sedunois-29409821.html
 football-super-league-21e-journee-servette-retrouve-le-gout-de-la-victoire-a-st-gall-2-4-29129690.html
+football-super-league-23e-journee-lausanne-sport-vaduz-2-2-le-match-de-la-peur-ne-trouve-pas-de-vainqueur-29423960.html
+football-super-league-23e-journee-le-point-au-classement-29423962.html
+football-super-league-23e-journee-sion-servette-2-0-les-sedunois-battent-enfin-les-genevois-29423961.html
 football-super-league-5e-journee-le-ls-laisse-filer-3-points-face-a-zurich-2-3-29342277.html
 football-super-league-5e-journee-servette-doit-se-contenter-d-un-nul-1-1-face-a-lucerne-a-11-contre-10-29342276.html
 football-super-league-5e-journee-sion-s-incline-2-a-1-a-tourbillon-face-a-lugano-29342274.html
@@ -522,6 +530,7 @@ football-super-league-servette-s-impose-1-0-a-lausanne-dans-un-match-sans-ambian
 football-super-league-servette-st-gall-0-2-les-grenat-s-inclinent-a-domicile-29349149.html
 football-super-league-sion-prend-3-points-a-st-gall-0-3-29356014.html
 football-super-league-sion-s-incline-4-2-au-wankdorf-face-aux-young-boys-29313399.html
+football-women-s-champions-ligue-24-heures-avec-amina-muratovic-au-moment-d-affronter-le-fc-barcelone-29423964.html
 football-women-s-super-league-1re-journee-yverdon-zurich-0-3-les-zurichoises-font-carton-plein-29324106.html
 football-women-s-super-league-premiere-victoire-pour-yverdon-sport-4-1-29356017.html
 football-women-s-super-league-yverdon-de-retour-dans-l-elite-29349150.html
@@ -566,6 +575,7 @@ hockey-sur-glace-championnat-du-monde-feminin-2026-herning-web-29415666.html
 hockey-sur-glace-champions-hockey-league-2025-2026-29124714.html
 hockey-sur-glace-helsinki-fin-tchequie-suisse-4-2-fin-de-tournoi-pour-les-suisses-qui-se-font-remonter-sur-la-fin-29409814.html
 hockey-sur-glace-la-star-philipp-kurashev-sui-a-choisit-lausanne-29389500.html
+hockey-sur-glace-le-gshc-fait-le-pari-des-jeunes-pour-palier-aux-blessures-29423959.html
 hockey-sur-glace-les-suissesses-buttent-sur-le-geant-americain-0-7-29409816.html
 hockey-sur-glace-national-league-ajoie-bat-lugano-5-4-rt-decroche-une-2e-victoire-a-3-points-cette-saison-pour-prendre-la-5e-place-du-classement-29375843.html
 hockey-sur-glace-national-league-christophe-bertschy-le-capitaine-de-fribourg-gotteron-a-l-intrerview-29356001.html
@@ -579,6 +589,7 @@ hockey-sur-glace-national-league-marc-gautschi-directeur-sportif-geneve-servette
 hockey-sur-glace-national-league-marc-gautschi-directeur-sportif-geneve-servette-hc-au-micro-de-la-rts-2-2-29375842.html
 hockey-sur-glace-national-league-on-fait-le-point-sur-la-situation-dans-cette-finale-29223316.html
 hockey-sur-glace-portrait-de-jade-surdez-jeune-attaquante-du-lausanne-hc-29375838.html
+hockey-sur-glace-tour-d-horizon-de-la-23e-journee-de-lna-29423958.html
 hockey-un-nouveau-souffle-a-ajoie-29382717.html
 hockey-zurich-fribourg-5-4ap-zurich-intouchable-29382716.html
 il-met-28-ans-pour-rentrer-chez-lui-a-pied-29364476.html
@@ -713,6 +724,7 @@ le-mag-le-role-des-filieres-de-formation-dans-les-ecuries-automobiles-29336066.h
 le-mag-le-souvenir-olympique-29129686.html
 le-mag-le-sport-un-vecteur-d-inclusion-29416762.html
 le-mag-pa-capona-29210189.html
+le-mag-performance-quand-le-pere-et-le-sportif-professionnel-se-rencontrent-29423957.html
 le-mag-qui-veut-gagner-des-millions-ou-pas-29382718.html
 le-mag-swiss-rocket-29122126.html
 le-mag-une-volonte-de-fer-29356011.html
@@ -951,6 +963,7 @@ revivez-le-17e-but-historique-de-messi-29283378.html
 revivez-les-deux-buts-de-la-nati-contre-le-canada-29285651.html
 revivez-tous-les-buts-de-la-10e-journee-29382731.html
 revivez-tous-les-buts-de-la-13e-journee-29409836.html
+revivez-tous-les-buts-de-la-14e-journee-29423981.html
 revivez-tous-les-buts-de-la-9e-journee-29362719.html
 revivez-tous-les-buts-des-matches-en-retard-de-la-4e-journee-29359400.html
 rio-de-janeiro-bra-bresil-suisse-match-2-stan-wawrinka-s-incline-4-6-7-6-7-4-6-4-face-a-gustavo-heide-l-a-suisse-est-menee-2-0-29361641.html
@@ -1040,6 +1053,7 @@ sport-dimanche-16-08-2026-29326153.html
 sport-dimanche-18-10-2026-29384998.html
 sport-dimanche-20-09-2026-29358364.html
 sport-dimanche-2026-29398383.html
+sport-dimanche-22-11-2026-29419401.html
 sport-dimanche-23-08-2026-29331977.html
 sport-dimanche-23-08-2026-29338332.html
 sport-dimanche-25-10-2026-29391933.html
