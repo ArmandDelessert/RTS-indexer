@@ -108,6 +108,7 @@ film-en-debat-histoires-de-la-nuit-de-lea-mysius-29359118.html
 film-en-debat-hope-de-na-hong-jin-avec-michael-fassebender-alicia-vikander-29399107.html
 film-en-debat-hunger-games-lever-de-soleil-sur-la-moisson-de-francis-lawrence-29420176.html
 film-en-debat-il-faut-bruler-maman-d-albert-dupontel-29413272.html
+film-en-debat-jupiter-d-alexandre-smia-29427473.html
 film-en-debat-karma-de-guillaume-canet-avec-marion-cotillard-denis-menochet-29392502.html
 film-en-debat-l-aventure-revee-de-valeska-grisebach-avec-yana-radeva-29392517.html
 film-en-debat-l-espece-explosive-de-sarah-arnold-29379070.html
@@ -132,6 +133,7 @@ film-en-debat-ni-vue-ni-connue-de-marc-fitoussi-29385588.html
 film-en-debat-notre-salut-d-emmanuel-marre-29372231.html
 film-en-debat-nous-l-orchestre-documentaire-de-philippe-beziat-29285179.html
 film-en-debat-nuremberg-de-james-vanderbilt-29132677.html
+film-en-debat-paper-tiger-de-james-gray-29427472.html
 film-en-debat-pressure-d-anthony-maras-29352356.html
 film-en-debat-raison-et-sentiments-de-georgia-oakley-29365499.html
 film-en-debat-rose-de-markus-schleinzer-29345707.html
@@ -139,6 +141,7 @@ film-en-debat-salvation-d-emin-alper-29359113.html
 film-en-debat-scrooge-ebenezer-de-ti-west-29413285.html
 film-en-debat-the-dog-stars-de-ridley-scott-29339035.html
 film-en-debat-the-social-reckoning-d-aaron-sorkin-29379077.html
+film-en-debat-un-bon-petit-soldat-de-stephane-brize-29427474.html
 film-en-debat-un-monde-fragile-et-merveilleux-de-cyril-aris-29345705.html
 film-en-debat-une-femme-aujourd-hui-de-robert-guediguian-avec-marilou-aussilloux-ariane-ascari-29392513.html
 film-en-debat-verity-de-michael-showalter-29372251.html
@@ -399,6 +402,7 @@ forum-29423268.html
 forum-29423866.html
 forum-29425198.html
 forum-29426549.html
+forum-29427875.html
 forum-des-idees-a-geneve-la-coulou-fete-40-ans-de-lutte-contre-le-sans-abrisme-29408979.html
 forum-des-idees-des-concerts-en-realite-virtuelle-proposes-a-des-personnes-en-dialyse-29382007.html
 forum-des-idees-des-tutoriels-sur-la-nourriture-pour-bebes-par-des-professionnels-de-la-sante-29401550.html
