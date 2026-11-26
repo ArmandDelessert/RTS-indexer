@@ -52,7 +52,7 @@ jobs:
       - name: Installer Python
         uses: actions/setup-python@v7
         with:
-          python-version: "3.13"
+          python-version: "3.15"
           cache: pip
 
       # Éditable obligatoire : cf. _collecte.yml, config.REPO_ROOT se déduit

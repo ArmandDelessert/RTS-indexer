@@ -71,7 +71,7 @@ jobs:
       - name: Installer Python
         uses: actions/setup-python@v7
         with:
-          python-version: "3.13"
+          python-version: "3.15"
           cache: pip
 
       # `pip install` du paquet, et non `-r requirements.txt` : le code vit sous
