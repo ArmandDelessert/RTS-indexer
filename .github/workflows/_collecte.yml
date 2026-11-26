@@ -55,7 +55,7 @@ jobs:
         run: '[ -z "$HEARTBEAT_URL" ] || curl -fsS -m 10 --retry 3 "$HEARTBEAT_URL/start" || true'
 
       - name: Récupérer le dépôt
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           # Historique complet : le pack ne pèse que ~16 Mo, et un clone
           # superficiel complique le `pull --rebase` de l'étape de push.
@@ -69,7 +69,7 @@ jobs:
           token: ${{ secrets.GH_PAT }}
 
       - name: Installer Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: "3.13"
           cache: pip
@@ -93,7 +93,7 @@ jobs:
       # La clé inclut le run_id (un cache est immuable) et `restore-keys`
       # récupère le plus récent des précédents.
       - name: Restaurer les curseurs de reprise
-        uses: actions/cache/restore@v4
+        uses: actions/cache/restore@v6
         with:
           path: .cache
           key: rts-cache-${{ github.run_id }}
@@ -121,7 +121,7 @@ jobs:
       # heures de requêtes ; perdre le curseur obligerait à tout refaire.
       - name: Sauvegarder les curseurs de reprise
         if: always()
-        uses: actions/cache/save@v4
+        uses: actions/cache/save@v6
         with:
           path: .cache
           key: rts-cache-${{ github.run_id }}

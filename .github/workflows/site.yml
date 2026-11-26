@@ -45,12 +45,12 @@ jobs:
 
     steps:
       - name: Récupérer le dépôt
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         # Pas de fetch-depth: 0 ici : ce job ne pousse rien, un clone
         # superficiel suffit et coûte moins cher que pour _collecte.yml.
 
       - name: Installer Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: "3.13"
           cache: pip
@@ -64,10 +64,10 @@ jobs:
         run: python -m rts_indexer site --output site
 
       - name: Préparer Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
       - name: Empaqueter l'artefact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: site
 
@@ -85,4 +85,4 @@ jobs:
     steps:
       - name: Publier
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
