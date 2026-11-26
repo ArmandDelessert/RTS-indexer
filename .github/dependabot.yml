@@ -1,0 +1,18 @@
+# Mises à jour des actions GitHub, proposées sous forme de pull request.
+#
+# Groupées et mensuelles : une seule PR à relire plutôt qu'une par action.
+# Aucun workflow ne s'exécute sur les pull requests, donc rien ne valide la PR
+# avant fusion : lancer les collectes à la main (workflow_dispatch) au besoin.
+#
+# Pas d'entrée `pip` : pyproject.toml ne fixe que des versions minimales,
+# chaque exécution installe déjà des versions récentes.
+
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
+    groups:
+      actions:
+        patterns: ["*"]
