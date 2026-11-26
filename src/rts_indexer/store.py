@@ -584,7 +584,10 @@ class Store:
             # sous le capot ; sans ce chmod préalable, la purge échouait pour
             # de bon après épuisement des tentatives de `retry_many`.
             try:
-                os.chmod(path, stat.S_IWRITE)
+                # Ajouter le bit, pas remplacer le mode : sous Linux, S_IWRITE
+                # seul retire lecture et traversée, et un dossier dont le rmdir
+                # échoue ensuite resterait inaccessible.
+                os.chmod(path, path.stat().st_mode | stat.S_IWRITE)
             except OSError:
                 pass  # le rmdir qui suit produira l'erreur pertinente si besoin
             path.rmdir()

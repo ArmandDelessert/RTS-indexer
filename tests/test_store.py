@@ -1,7 +1,10 @@
 """Tests du stockage : format, déterminisme, sharding, détection de collision."""
 
 import json
+import sys
 from pathlib import Path
+
+import pytest
 
 from rts_indexer import config, fsutil
 from rts_indexer.store import Store
@@ -433,6 +436,10 @@ def test_remove_qui_vide_le_dossier_le_fait_purger(tmp_path):
     assert not (tmp_path / DOSSIER).exists()
 
 
+@pytest.mark.skipif(
+    sys.platform != "win32",
+    reason="sous Unix, un dossier en S_IREAD seul interdit aussi de lire son contenu",
+)
 def test_remove_purge_un_dossier_devenu_vide_meme_en_lecture_seule(tmp_path):
     """Incident réel (Windows) : un dossier vidé de son contenu peut se
     retrouver marqué lecture seule, faisant échouer un simple `rmdir()` avec
