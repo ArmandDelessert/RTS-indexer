@@ -1,0 +1,48 @@
+# Tests et lint du code.
+#
+# Les commits de `data/` ne déclenchent rien : ils ne touchent pas au code.
+# Les branches `ci/**` sont testées dès le push, pour valider un changement de
+# workflow sans devoir ouvrir de pull request.
+
+name: tests
+
+on:
+  push:
+    branches: [main, "ci/**"]
+    paths: ["src/**", "tests/**", "pyproject.toml", "requirements.txt", ".github/workflows/**"]
+  # Sans filtre de chemins : toute pull request mérite une vérification, y
+  # compris celles de Dependabot.
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: tests-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v7
+
+      - name: Installer Python
+        uses: actions/setup-python@v7
+        with:
+          # Même version que les collectes (_collecte.yml).
+          python-version: "3.13"
+          cache: pip
+
+      - name: Installer le paquet et les outils
+        run: pip install -e . -r requirements.txt
+
+      - name: Lint
+        run: ruff check src tests
+
+      - name: Tests
+        run: pytest -q
