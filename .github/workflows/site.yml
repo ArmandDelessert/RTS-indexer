@@ -29,17 +29,19 @@ concurrency:
   group: pages
   cancel-in-progress: true
 
+# Deux jobs et non un seul : dans un même job, `deploy-pages` cherche
+# l'artefact quelques centaines de millisecondes après son envoi et GitHub
+# répond parfois qu'il n'existe pas encore (« No artifacts named
+# "github-pages" »). Le démarrage du second job laisse le temps nécessaire, et
+# « Re-run failed jobs » ne relance alors que la publication, sans créer un
+# second artefact du même nom.
 jobs:
-  site:
+  build:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     permissions:
       contents: read
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      pages: read
 
     steps:
       - name: Récupérer le dépôt
@@ -69,6 +71,18 @@ jobs:
         with:
           path: site
 
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
       - name: Publier
         id: deployment
         uses: actions/deploy-pages@v4
