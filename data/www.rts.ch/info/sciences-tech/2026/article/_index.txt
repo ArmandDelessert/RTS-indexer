@@ -11,6 +11,7 @@ anthropic-suspend-ses-ia-fable-5-et-mythos-5-pour-securite-nationale-29272800.ht
 anti-moustiques-seuls-5-produits-sur-14-sont-efficaces-29351108.html
 apertus-forces-et-limites-du-modele-d-ia-suisse-apres-un-an-29350782.html
 apple-efface-vos-conversations-siri-la-vie-privee-a-un-prix-29245875.html
+apple-et-openai-s-accusent-d-espionnage-industriel-29430789.html
 argovie-construit-la-plus-grande-batterie-redox-du-monde-pour-stabiliser-le-reseau-29184678.html
 ariane-6-decolle-avec-succes-transportant-32-satellites-amazon-en-orbite-29150548.html
 art-rupestre-en-indonesie-decouverte-de-la-plus-ancienne-peinture-du-monde-vieille-de-67-800-ans-29131542.html
@@ -60,6 +61,7 @@ cratere-de-batagaika-la-fonte-du-pergelisol-revele-des-creatures-anciennes-29250
 crue-au-nepal-le-defi-de-la-gestion-des-risques-naturels-29356434.html
 cybersecurite-deux-failles-majeures-decouvertes-dans-php-29392652.html
 dans-le-canton-de-schwyz-une-nouvelle-remontee-mecanique-prefigure-les-telepheriques-de-demain-29153154.html
+data-centers-et-ia-la-fracture-entre-l-occident-et-la-chine-29427157.html
 debit-internet-les-operateurs-suisses-ne-tiennent-pas-leurs-promesses-29233270.html
 decollage-reussi-pour-la-mission-artemis-ii-en-route-pour-faire-le-tour-de-la-lune-29201669.html
 decouverte-d-une-momie-embaumee-avec-un-passage-de-l-iliade-d-homere-29217334.html
